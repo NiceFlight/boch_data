@@ -1,0 +1,90 @@
+{
+    "id": 3010,
+    "caseId": "20141211000001",
+    "count": 454,
+    "shareCount": 0,
+    "representImage": 5403,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4723/photo/金谿橋沿革思源碑_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4723/photo/金谿橋沿革思源碑.jpg",
+        "name": "金谿橋沿革思源碑"
+    },
+    "caseName": "金谿橋沿革思源碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1418227200000,
+    "officialDocNo": "府授文資遺字第1030254861號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "石碑可作為林慶通事跡調查基礎之一，利於地方文史之了解；碑碣字體、刻工均具水準及特色，且為日治時期隨形石碑，具備古物類文化資產價值。",
+    "lawsReference": "符合「古物分級登錄指定及廢止審查辦法」第2條第1項第1、2、3、4、5、6款評定基準，爰依據「古物分級登錄指定及廢止審查辦法」第5、7條登錄。",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "豐原區",
+    "keepNameId": 17,
+    "keepNameNew": 17,
+    "keepAddressNew": "臺中市豐原區鎌村里鎌村路金谿橋旁",
+    "amount": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 5404,
+            "name": "a9945aa7-360c-4eb9-8545-9ea3f88b0029.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44695/file/a9945aa7-360c-4eb9-8545-9ea3f88b0029.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "臺中市文化資產處",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺中市豐原區鎌村里鎌村路金谿橋旁",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "豐原區",
+            "id": 3147,
+            "caseId": 3010,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1013
+        }
+    ],
+    "announces": [
+        {
+            "id": 3147,
+            "caseId": 3010,
+            "caseStatus": true,
+            "registerDate": 1418227200000,
+            "officialDocNo": "府授文資遺字第1030254861號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

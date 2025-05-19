@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "嘉義市西區黑金段14-23"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

@@ -1,0 +1,105 @@
+{
+    "id": 3496,
+    "caseId": "20130610000032",
+    "count": 38,
+    "shareCount": 0,
+    "representImage": 6103,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7598/photo/美合集(清稿本)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7598/photo/美合集(清稿本).jpg",
+        "name": "美合集(清稿本)"
+    },
+    "caseName": "美合集(清稿本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1370793600000,
+    "officialDocNo": "文資局物字第10220062581號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "清朱氏手稿本。 \r\n此為清代朱彝尊手稿，取古來酬唱之作，自一二人以至眾人，彙而錄之。美合云者，蓋取兩美必合之意。\r\n清代罕見之名家寫本稿本，具重要歷史、文化價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號13954",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "清代",
+    "descCreator": "清朱彝尊編",
+    "descSize": "半葉10行，版匡25.6公分x16.9公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "六卷，1冊。\n\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 6104,
+            "name": "d93a6e6a-24d0-4c0b-8b7f-8a4c2ad0b9f0.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44098/file/d93a6e6a-24d0-4c0b-8b7f-8a4c2ad0b9f0.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3638,
+            "caseId": 3496,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3638,
+            "caseId": 3496,
+            "caseStatus": true,
+            "registerDate": 1370793600000,
+            "officialDocNo": "文資局物字第10220062581號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

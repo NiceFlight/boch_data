@@ -1,0 +1,96 @@
+{
+    "id": 2701,
+    "caseId": "20160722000003",
+    "count": 3681,
+    "shareCount": 13,
+    "representImage": 15603,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/traditional_art/134961/photo/IMG_3234_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/traditional_art/134961/photo/IMG_3234.JPG",
+        "name": "IMG_3234"
+    },
+    "caseName": "神明銀帽",
+    "classifyCode": "4.2",
+    "classifyName": "傳統工藝",
+    "assetsTypeNames": "其他",
+    "otherAssetsType": "金屬工藝-神明銀帽",
+    "assetsClassifyCode": "4.2.1",
+    "assetsClassifyName": "傳統工藝",
+    "registerDate": 1469116800000,
+    "officialDocNo": "府文資處字第1050718743A號",
+    "documents": [
+        {
+            "fileid": 15712,
+            "name": "函-公告-登錄神明紙帽、神明銀帽、粧佛.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/traditional_art/134962/file/函-公告-登錄神明紙帽、神明銀帽、粧佛.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "藝術性:具有藝術價值者",
+        "特殊性:構成傳統藝術之特殊藝能表現,其技法優秀者",
+        "地方性:傳統藝術領域有價值與地位,並具有地方色彩或流派特色顯著者"
+    ],
+    "registerReason": "1.\t以金工技術製作神明帽，作品造形繁複、富層次感，典雅莊嚴，具有藝術價值。\r\n2.\t精通神帽製作各種材質（金、銀、紙），講究工、藝、色、形，技法優秀，以傳統黻紋為飾，融入個人風格，顯示其傳統技藝的特殊性。\r\n3.\t神帽製作技藝已經有50年以上經驗，傳承自灣裡黃國祥，具在地特色。 \r\n",
+    "lawsReference": "1.\t「文化資產保存法」第59條第1項規定。\r\n2.\t「傳統藝術民俗及有關文物登錄指定及廢止審查辦法」第2條第1項第1款第1、2、3目。\r\n",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "belongAddress": "新興路",
+    "historyDevelopment": "古時，成人二十而冠，冠，既有重禮履禮的象徵，所以自周以降，歷代皆非常重視冠的製作，為了辨別尊卑職位，冠的名目愈趨繁複，有弁、冕、荩幘，到了北朝後周又演變成幞頭及以後的烏紗帽，又分展腳及交腳之別，俗稱通天冠及狀元帽，不論冠帽如何繁演，其共同特點都是在追求地位以及美麗。\n華人社會的神祇多被人性化，裝冠戴帽也是必然。加上靈驗即興的反應，酬神謝神時必然幫佛粧金戴銀，佛帽佛衣即是其中必答之禮，神明誕辰、昇天之日也須更換新裝！",
+    "preservers": [
+        {
+            "id": 21047,
+            "type": "個人",
+            "caseName": "郭春福",
+            "cityName": "臺南市",
+            "distName": "南區",
+            "caseArtistEntities": [],
+            "representImage": 185672,
+            "registrationDate": 1469116800000,
+            "patentNo": "府文資處字第1050718743A號",
+            "judgeCriteria": [
+                "熟知並能正確體現該登錄項目之知識、技藝與文化表現形式",
+                "具該登錄項目之傳習能力與意願",
+                "在文化脈絡下為適當者"
+            ],
+            "registerReason": "依2016年公告無認定理由",
+            "lawsReference": "1. 「文化資產保存法」第59條第1項規定。\n2. 「傳統藝術民俗及有關文物登錄指定及廢止審查辦法」第2條第1項第1款第1、2、3目。",
+            "school": "12歲跟隨二舅黃國祥學習打金，1973年（民國六十二年）投入神盔製作，開發「合金」神盔，1983年（民國七十二年）開發紙製神盔，2012（民國一百零一年）開發K金神盔。",
+            "isOpenDownload": false,
+            "representImageSource": " 臺南市文化資產管理處",
+            "contactorIsOpen": false
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "臺南市文化資產處",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "南區",
+            "id": 92764,
+            "caseId": 2701,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1603,
+            "address": "新興路"
+        }
+    ],
+    "announces": [
+        {
+            "id": 100063,
+            "caseId": 2701,
+            "caseStatus": true,
+            "registerDate": 1469116800000,
+            "officialDocNo": "府文資處字第1050718743A號",
+            "classificationId": 1
+        }
+    ]
+}

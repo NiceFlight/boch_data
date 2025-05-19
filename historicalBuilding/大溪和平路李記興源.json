@@ -1,0 +1,133 @@
+{
+    "id": 1283,
+    "caseId": "20040113000012",
+    "count": 1683,
+    "shareCount": 0,
+    "representImage": 230368,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-08-23/567b26bd-3c43-44ee-af22-3134aa3ff67e/PXL_20220416_030952015_0_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-08-23/567b26bd-3c43-44ee-af22-3134aa3ff67e/PXL_20220416_030952015_0.jpg",
+        "name": "PXL_20220416_030952015_0"
+    },
+    "caseName": "大溪和平路李記興源",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "興源後方為林本源家族的「通議第」，所以規模受到圍牆的限制，僅有兩落一過水。目前的牌樓面經1998年「大溪和平路美化工程」改造，將矩形山牆回復為山尖形，兩側女兒牆加高並作水平收邊，下方紅磚砌築的圓弧拱在戰後改建成鋼筋混凝土水平橫樑，表面改為洗石子，「老朝陽家具」的字體則是仿原堂號「李興源」的字體所增設。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "古市街類",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1073962523000,
+    "officialDocNo": "府文資字第0930534224號",
+    "documents": [
+        {
+            "fileid": 184963,
+            "name": "府文資字第0930534224號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-09-22/60d5b131-9c8f-4a9f-92fb-135167f94c48/府文資字第0930534224號.pdf"
+        },
+        {
+            "fileid": 184964,
+            "name": "府文資字第10303236382號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-09-22/eea24e25-7620-4579-a018-85b2aac44502/府文資字第10303236382號.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "具有保存價值",
+    "lawsReference": "文化資產保存法第二十七條之一、歷史建築登錄輔助辦法第七條\n桃園縣九十二年九月十五日召開之歷史建築登錄審查會議決議",
+    "govInstitutionCode": "330",
+    "govInstitutionName": "桃園市政府",
+    "belongCityId": 5,
+    "belongCityName": "桃園市",
+    "belongDistName": "大溪區",
+    "govInstitution": "桃園市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-3322592分機8612",
+    "govDeptAddress": "桃園市桃園區縣府路21號",
+    "cadasters": [
+        {
+            "fileid": 184966,
+            "name": "地籍資料.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-09-22/c66f9931-01b3-48e6-b01e-9014a3ea049b/地籍資料.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "桃園市大溪區和平段482地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "和平路55號",
+    "isOpenVisit": true,
+    "openUpTime": "",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.287567356771,
+    "latitude": 24.8850398487828,
+    "representImageSource": "桃園市政府文化局",
+    "landScope": "桃園市大溪區和平段482地號，面積計12平方公尺",
+    "selfCoverage": "桃園市大溪區和平路55號騎樓",
+    "addresses": [
+        {
+            "cityName": "桃園市",
+            "distName": "大溪區",
+            "id": 149699,
+            "caseId": 1283,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 510,
+            "address": "和平路55號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "桃園市",
+            "distName": "大溪區",
+            "landNoName": "和平段",
+            "cityLandUseTypeName": "商業區",
+            "id": 207547,
+            "caseId": 1283,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 510,
+            "landNoId": 7662,
+            "landSerialNo": "482",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "area": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 162941,
+            "caseId": 1283,
+            "caseStatus": true,
+            "registerDate": 1073962523000,
+            "officialDocNo": "府文資字第0930534224號",
+            "classificationId": 1
+        },
+        {
+            "id": 162942,
+            "caseId": 1283,
+            "caseStatus": true,
+            "registerDate": 1421078400000,
+            "officialDocNo": "府文資字第10303236382號",
+            "classificationId": 2,
+            "note": "行政改制"
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.28757823360553,24.88508561795291],[121.28761748584172,24.88506352193918],[121.28752699827734,24.884933686617675],[121.28743578885681,24.884799780797547],[121.2873932735845,24.884814669316228],[121.28757823360553,24.88508561795291],[121.28757823360553,24.88508561795291]]]]},\"properties\":{\"envelope\":{\"left\":\"121.2873932735845\",\"top\":\"24.884799780797547\",\"right\":\"121.28761748584172\",\"bottom\":\"24.88508561795291\"},\"landLot\":\"桃園市大溪區和平段482\"}}],\"notfound\":[]}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": "桃園市文化資產導覽手冊"
+}

@@ -1,0 +1,101 @@
+{
+    "id": 17047,
+    "caseId": "20190827000002",
+    "count": 285,
+    "shareCount": 0,
+    "representImage": 61210,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-08-27/b1d687d1-8a75-4e81-9ead-7299b3f2b0b5/16-002IMG_3371_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-08-27/b1d687d1-8a75-4e81-9ead-7299b3f2b0b5/16-002IMG_3371.jpg",
+        "name": "16-002IMG_3371"
+    },
+    "caseName": "武聖廟「配義與道」匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1563757412000,
+    "officialDocNo": "中華民國108年7月22日府授文博字第1083702327號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者"
+    ],
+    "registerReason": "（1）具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：此匾能見證關帝廟在光緒元年（1875）易地重建的變遷，而捐獻匾者「游擊銜澎鎮」下「中軍閫府郁文勝」「右營都閫府蘇桂森」等人，呈現清代武將與關聖信仰的關係，具澎湖軍區的文化特性。\n（2）具有地方重要人物或歷史事件之深厚淵源者：武職諸官在澎湖駐防之歷史見證。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00685-P-M022-002",
+    "amount": 1,
+    "descAge": "1875年",
+    "descSize": "寬(約) 200 公分",
+    "descMaterial": "木",
+    "reserveStatusDesc": "橫長形木匾，匾面黑色無紋，字皆陰刻填金，中題「配義與道」，字略有破鋒，左「光緒元年歲次乙亥季冬穀旦」；右「游擊銜澎鎮 中軍督閫府郁文勝/右營督閫府蘇桂森 仝敬立」。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "時間： 1875年    捐贈者：郁文勝、蘇桂森",
+    "saveEnvironment": 2,
+    "reserveStatus": "武聖廟二樓文物典藏室，有溫溼度控制。",
+    "documents": [
+        {
+            "fileid": 107211,
+            "name": "武聖廟配義與道匾公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-04-26/2c4216b1-fd97-4253-9f44-da89a8cd42c2/武聖廟配義與道匾公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.575211,
+    "latitude": 23.573159,
+    "representImageSource": "澎湖縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "武聖廟",
+            "keepName": "王照界",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "武聖廟",
+            "keepAddressNew": "澎湖縣馬公市朝陽里陽明路30號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2,
+            "keepNameCityName": "澎湖縣",
+            "keepNameDistName": "馬公市",
+            "keepNameAddress": "朝陽里陽明路30號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 127675,
+            "caseId": 17047,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "朝陽里陽明路30號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 138598,
+            "caseId": 17047,
+            "caseStatus": true,
+            "registerDate": 1563757412000,
+            "officialDocNo": "府授文博字第1083702327號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,96 @@
+{
+    "id": 21921,
+    "caseId": "20230811000008",
+    "count": 59,
+    "shareCount": 0,
+    "representImage": 229876,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-08-11/42adc37b-a4f4-444f-a08f-9bfe3e92de8d/_DSC0418_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-08-11/42adc37b-a4f4-444f-a08f-9bfe3e92de8d/_DSC0418.jpg",
+        "name": "_DSC0418"
+    },
+    "caseName": "牙雕十八羅漢臂擱",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-工藝美術",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就",
+        "數量稀少者"
+    ],
+    "registerReason": "1.符合一般古物指定基準第3款「能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者」：反映民俗信仰與明清文人生活藝術。\n2.符合一般古物指定基準第4款「具有藝術造詣或科學成就」：佈局精緻，雕刻微密，工藝極佳。\n3.符合一般古物指定基準第5款「數量稀少者」：數量稀少。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第3、4、5款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "萬華區中華路一段174-1號",
+    "reservationCode": "WF052",
+    "amount": 0,
+    "descAge": "清",
+    "descSize": "長25.5公分、寬6公分、高2.3公分。",
+    "descMaterial": "象牙",
+    "reserveStatusDesc": "本件牙雕臂擱上窄下寬，呈覆瓦式，採象牙一段剖開而成。通體雕竹節形，四角分飾四矮足。正面雕海水行舟，背面凹槽「陷地陽刻」十八羅漢渡海圖。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "1980年代，彰化市公園路。",
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定。",
+    "documents": [
+        {
+            "fileid": 229875,
+            "name": "112年7月13日北市獻編字第1123002644號公告_新.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-08-11/7d29266a-c956-4370-9a80-933f13c99653/112年7月13日北市獻編字第1123002644號公告_新.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "財團法人台北市雙清文教基金會",
+    "keepNames": [
+        {
+            "keepNameIdStr": "洪O雄",
+            "keepName": "財團法人台北市雙清文教基金會",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "財團法人台北市雙清文教基金會",
+            "keepAddressNew": "台北市信義區松平路50巷2、4、6號B2",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "信義區",
+            "keepNameAddress": "松平路50巷2、4、6號B2"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "信義區",
+            "id": 114212,
+            "caseId": 21921,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 107,
+            "address": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 124374,
+            "caseId": 21921,
+            "caseStatus": true,
+            "registerDate": 1689236204072,
+            "officialDocNo": "北市獻編字第1123002644號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

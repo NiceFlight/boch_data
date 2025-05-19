@@ -1,0 +1,149 @@
+{
+    "id": 16429,
+    "caseId": "20181225000004",
+    "count": 2845,
+    "shareCount": 2,
+    "representImage": 170173,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/bd39dbde-d360-4387-8d0e-0e87e9276e02/代表圖像_迪化街一段130號店屋_20220623_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/bd39dbde-d360-4387-8d0e-0e87e9276e02/代表圖像_迪化街一段130號店屋_20220623.jpeg",
+        "name": "代表圖像_迪化街一段130號店屋_20220623"
+    },
+    "caseName": "迪化街一段130號店屋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本建築保有長型街屋天井配置都市紋理，依古地圖位處小運河東側，後棟「秀樓」可眺望河岸，見證港仔溝人工運河發展變遷。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 53280,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-12-25/ac9880df-ace5-4e3e-86c6-dec4272f1b0e/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1、本建築保有長型街屋天井配置都市紋理，依古地圖位處小運河東側，後棟「秀樓」可眺望河岸，見證港仔溝人工運河發展變遷。\n2、本建物為一崁三落一過水之空間格局，保存臺灣傳統街屋建築型態與特徵，包括亭仔腳、木構造、閩南瓦、半樓等，開口及窗櫺樣式具特色，包括磚砌八角窗、直櫺窗等不同於大稻埕傳統窗扇樣式，原有建築形制保存完好，具保存價值。\n3、本建物保存極多清末構造物，包括共同壁土埆牆、石條門檻，石門楣以及「燕子」磚柱及部分福杉木樑，後棟（秀樓）的山牆以「青磚」為材料，在臺北附近亦較少見，原有構造保持完整，具保存價值。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 53282,
+            "name": "地籍地形圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2018-12-25/8d4445cb-7685-415a-8ed6-3a44fcd4b679/地籍地形圖.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "特定專用區(三)",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "大同區延平段三小段692、692-1、693地號",
+    "bulkTransfer": 1,
+    "isOpenVisit": true,
+    "isCharge": false,
+    "longitude": 121.5097165,
+    "latitude": 25.0572154,
+    "representImageSource": " 臺北市文化局",
+    "landScope": "臺北市大同區延平段三小段692、692-1、693地號等3筆土地(土地面積247平方公尺)",
+    "selfCoverage": "161.16",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 83420,
+            "caseId": 16429,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "迪化街1段130號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 93256,
+            "caseId": 16429,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 189,
+            "landSerialNo": "692",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "210",
+            "cityLandUseTypeOther": "特定專用區（三）（供特定住宅使用）",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 93257,
+            "caseId": 16429,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 189,
+            "landSerialNo": "692-1",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "18",
+            "cityLandUseTypeOther": "特定專用區（三）（供特定住宅使用）",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 93258,
+            "caseId": 16429,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 189,
+            "landSerialNo": "693",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "19",
+            "cityLandUseTypeOther": "特定專用區（三）（供特定住宅使用）",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 89658,
+            "caseId": 16429,
+            "caseStatus": true,
+            "registerDate": 1542643200000,
+            "officialDocNo": "北市文化文資字第10760255041 號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": ""
+}

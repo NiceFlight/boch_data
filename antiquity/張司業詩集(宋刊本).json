@@ -1,0 +1,105 @@
+{
+    "id": 3467,
+    "caseId": "20130610000003",
+    "count": 54,
+    "shareCount": 0,
+    "representImage": 6056,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7515/photo/張司業詩集(宋刊本)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7515/photo/張司業詩集(宋刊本).jpg",
+        "name": "張司業詩集(宋刊本)"
+    },
+    "caseName": "張司業詩集(宋刊本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1370793600000,
+    "officialDocNo": "文資局物字第10220062581號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "南宋臨安陳氏書籍鋪刊本。\r\n《張司業詩集》通行八卷本，此為三卷本，系統不同。審其字體、刀法，屬南宋書棚本類型，當為臨安陳宅書籍鋪刊唐人詩集之一，字體端麗、楮墨清雅。未聞他處藏有同版。\r\n宋版古籍，罕見稀有，具重要歷史、文化與學術價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號09776",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "南宋",
+    "descCreator": "唐張籍撰",
+    "descSize": "半葉10行，版匡17.2公分x12.9公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "存中、下二卷，1冊。\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有虫蛀。經修裱，書況良好。\n",
+    "documents": [
+        {
+            "fileid": 6057,
+            "name": "342ac680-7bc1-4cf0-a3e2-fc7cdcef2cf1.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44080/file/342ac680-7bc1-4cf0-a3e2-fc7cdcef2cf1.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3609,
+            "caseId": 3467,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3609,
+            "caseId": 3467,
+            "caseStatus": true,
+            "registerDate": 1370793600000,
+            "officialDocNo": "文資局物字第10220062581號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

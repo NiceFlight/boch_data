@@ -1,0 +1,113 @@
+{
+    "id": 3043,
+    "caseId": "20141017000009",
+    "count": 640,
+    "shareCount": 0,
+    "representImage": 170085,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-06-28/052c3739-2833-487c-8f74-4f964ac8eabb/朝陽宮虎爺石雕香爐_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-06-28/052c3739-2833-487c-8f74-4f964ac8eabb/朝陽宮虎爺石雕香爐.jpg",
+        "name": "朝陽宮虎爺石雕香爐"
+    },
+    "caseName": "朝陽宮虎爺石雕香爐",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1413475200000,
+    "officialDocNo": "府授文資字第10301991188號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色"
+    ],
+    "registerReason": "此香爐原為主神媽祖之香爐，後來才改為虎爺之香爐，香爐上刻有「道光辛丑年瓜月置，和樂社眾弟子仝叩」之落款，為縣內已知石香爐中具有年款較早者，且「和樂社眾弟子仝叩」表示朝陽宮可能曾為樂團票房，具歷史價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第2條第1項第1款",
+    "govInstitutionCode": "540",
+    "govInstitutionName": "南投縣政府",
+    "belongCityId": 12,
+    "belongCityName": "南投縣",
+    "belongDistName": "草屯鎮",
+    "govInstitution": "南投縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "049-2231191",
+    "govDeptAddress": "540南投市建國路135號",
+    "reservationCode": "無",
+    "amount": 1,
+    "notes": "",
+    "descAge": "清道光21年(1841)",
+    "descSize": "寬36、深29.5、高32公分、重量25公斤",
+    "descMaterial": "石質",
+    "reserveStatusDesc": "長耳長方形香爐、爐身正面為龍吐珠浮雕",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "",
+    "saveEnvironment": 1,
+    "reserveStatus": "香爐本身有風化現象，字跡模糊不清，目前放置於1樓正殿展示櫃。",
+    "documents": [
+        {
+            "fileid": 177134,
+            "name": "朝陽宮虎爺石雕香爐 原公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-29/fb8c7082-c5ad-48ed-a3ec-3d85fe3d3a35/朝陽宮虎爺石雕香爐 原公告.pdf"
+        },
+        {
+            "fileid": 177135,
+            "name": "朝陽宮虎爺石雕香爐古物 修正公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-29/d478e8bd-d45e-4ded-a68e-f4117efb7030/朝陽宮虎爺石雕香爐古物 修正公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 120.66405,
+    "latitude": 23.98354,
+    "representImageSource": "資料照（攝影者：陳厚諭）",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "朝陽宮管理委員會",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "南投縣草屯鎮史館路239號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "南投縣",
+            "distName": "草屯鎮",
+            "id": 112351,
+            "caseId": 3043,
+            "caseStatus": true,
+            "cityId": 12,
+            "distId": 1203
+        }
+    ],
+    "announces": [
+        {
+            "id": 121870,
+            "caseId": 3043,
+            "caseStatus": true,
+            "registerDate": 1405047422411,
+            "officialDocNo": "府授文資字第10301338208號",
+            "classificationId": 1
+        },
+        {
+            "id": 121871,
+            "caseId": 3043,
+            "caseStatus": true,
+            "registerDate": 1413475200000,
+            "officialDocNo": "府授文資字第10301991188號",
+            "classificationId": 2
+        }
+    ],
+    "isPublic": false
+}

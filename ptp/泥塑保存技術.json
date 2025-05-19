@@ -1,0 +1,110 @@
+{
+    "id": 22599,
+    "caseId": "20240325000001",
+    "count": 0,
+    "shareCount": 3,
+    "representImage": 254307,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-03-25/8ae383ae-4e91-4cd0-a2be-f8f5f3fb3526/受提保者提供圖片資料 (17)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-03-25/8ae383ae-4e91-4cd0-a2be-f8f5f3fb3526/受提保者提供圖片資料 (17).jpg",
+        "name": "受提保者提供圖片資料 (17)"
+    },
+    "caseName": "泥塑保存技術",
+    "classifyCode": "7.1",
+    "classifyName": "保存技術及保存者",
+    "assetsClassifyCode": "7.1.1",
+    "assetsClassifyName": "保存技術及保存者",
+    "documents": [
+        {
+            "fileid": 254299,
+            "name": "原公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-03-22/2baeb25a-8b71-4a58-8adf-b2e0303f1c56/原公告.pdf"
+        },
+        {
+            "fileid": 254300,
+            "name": "修正後公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-03-22/d040cd57-d28a-4f1a-b1dc-68bb650eaf7e/修正後公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "有形文化資產之保存、修復、維護等工作不可或缺之傳統技術"
+    ],
+    "registerReason": "泥塑為重要傳統技術，其亦可為獨立創作形式，故其為有形文化資產之保存、修復、維護等工作不可或缺之傳統技術，符合文化資產保存技術及保存者登錄認定廢止審查辦法第2條第1款之規定。",
+    "lawsReference": "<<文化資產保存技術及保存者登錄認定廢止審查辦法>>第2條第1款",
+    "govInstitutionCode": "612",
+    "govInstitutionName": "嘉義縣政府",
+    "govInstitution": "嘉義縣政府",
+    "govDeptName": "053628123",
+    "govDeptPhone": "053628123*310",
+    "govDeptAddress": "嘉縣縣太保市東勢里太子大道158號",
+    "preservers": [
+        {
+            "id": 22602,
+            "type": "個人",
+            "caseName": "郭親政",
+            "cityName": "嘉義縣",
+            "distName": "新港鄉",
+            "caseArtistEntities": [],
+            "representImage": 254306,
+            "registrationDate": 1693843200000,
+            "judgeCriteria": [
+                "充分掌握該項保存技術所需相關知識與執行程序",
+                "正確體現、執行該項保存技術之能力",
+                "傳習該項保存技術之溝通及輔導能力"
+            ],
+            "registerReason": "(一)能掌握工法、工序、材質、原料調配等泥塑修復技術所需相關知識及執行程序，符合文化資產保存技術及保存者登錄認定廢止審查辦法第4條第1項第1款之規定。\n(二)自幼傳承其父之泥塑技藝，並擁有修復古蹟、歷史建築之實績，充分體現其執行保存技術之能力，符合文化資產保存技術及保存者登錄認定廢止審查辦法第4條第1項第2款之規定。\n(三)有徒弟傳承該項技藝，符合文化資產保存技術及保存者登錄認定廢止審查辦法第4條第1項第3款之規定。\n",
+            "lawsReference": "<<文化資產保存技術及保存者登錄認定廢止審查辦法>>第4條第1項第1、2、3款",
+            "isOpenDownload": false,
+            "representImageSource": "保存者提供",
+            "contactorIsOpen": false
+        }
+    ],
+    "skillNote": "泥塑，作為一種創作技法，將黏土塑形後使其乾燥或燒製，再依需求施彩及覆加其它媒材，除作為其它藝術形式的輔助方法，其亦可以作為獨立的藝術形式存在。以文資修復而言，因泥塑大量應用於傳統建築裝飾，故為本縣保存、修復、維護古蹟及歷史建築之傳統建築裝飾不可或缺之傳統技術。",
+    "visitsDate": 1671082969386,
+    "classify": [
+        "1.1",
+        "1.2",
+        "1.3",
+        "1.4"
+    ],
+    "skillType": [
+        {
+            "id": 2,
+            "other": ""
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "保存者提供",
+    "addresses": [
+        {
+            "cityName": "嘉義縣",
+            "distName": "新港鄉",
+            "id": 127825,
+            "caseId": 22599,
+            "caseStatus": true,
+            "cityId": 15,
+            "distId": 1513
+        }
+    ],
+    "announces": [
+        {
+            "id": 138828,
+            "caseId": 22599,
+            "caseStatus": true,
+            "registerDate": 1693892870905,
+            "officialDocNo": "府授文資字第1120214344號",
+            "classificationId": 1
+        },
+        {
+            "id": 138829,
+            "caseId": 22599,
+            "caseStatus": true,
+            "registerDate": 1709185869400,
+            "officialDocNo": "府授文資字第1130045873號",
+            "classificationId": 2
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "id": 2382,
+    "caseId": "20090821000002",
+    "count": 169,
+    "shareCount": 0,
+    "representImage": 4673,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/traditional_art/419/photo/6580bc36-e3e9-4180-8e9c-b14f8deab9a9_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/traditional_art/419/photo/6580bc36-e3e9-4180-8e9c-b14f8deab9a9.JPG",
+        "name": "6580bc36-e3e9-4180-8e9c-b14f8deab9a9"
+    },
+    "caseName": "相聲",
+    "classifyCode": "4.1",
+    "classifyName": "傳統表演藝術",
+    "assetsTypeNames": "說唱",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "4.1.1",
+    "assetsClassifyName": "傳統表演藝術",
+    "registerDate": 1250848089000,
+    "officialDocNo": "府文化三字第09830402502號",
+    "documents": [],
+    "judgeCriteria": [
+        "藝術性:具有藝術價值者",
+        "特殊性:構成傳統藝術之特殊藝能表現,其技法優秀者",
+        "地方性:傳統藝術領域有價值與地位,並具有地方色彩或流派特色顯著者"
+    ],
+    "registerReason": "1.師承相聲泰斗，融合京劇韻白與說唱等元素，展現傳統技藝精華，畢生持續研創發展精益求精，勤於推廣與傳承弟子，深受肯定。\r\n2.具藝術上高超成就與價值，展現獨特風格。",
+    "lawsReference": "1.文化資產保存法第59條第1項。2.傳統藝術民俗及有關文物登錄指定及廢止審查辦法。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongAddress": "",
+    "historyDevelopment": "說唱藝術是中國一種特有的藝術門類。重點在於說和唱，不同於戲曲使用代言體，說唱多是以一人主講、以敘事的方式呈現故事。說唱藝術在唐代佛教寺廟中的講經與變文，就已經發展的十分成熟了。甚至元代雜劇中所使用的音樂，就是在宋代說唱藝術諸宮調中獲得了滋養。",
+    "preservers": [
+        {
+            "id": 4603,
+            "type": "個人",
+            "caseName": "吳宗炎",
+            "cityName": "臺北市",
+            "distName": "內湖區",
+            "caseArtistEntities": [],
+            "judgeCriteria": [],
+            "school": "說唱藝術是中國一種特有的藝術門類。重點在於說和唱，不同於戲曲使用代言體，說唱多是以一人主講、以敘事的方式呈現故事。說唱藝術在唐代佛教寺廟中的講經與變文，就已經發展的十分成熟了。甚至元代雜劇中所使用的音樂，就是在宋代說唱藝術諸宮調中獲得了滋養。",
+            "isOpenDownload": false,
+            "contactorIsOpen": false,
+            "caseAliasName": "吳兆南"
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "臺北市政府文化局",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "內湖區",
+            "id": 2497,
+            "caseId": 2382,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 110,
+            "address": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 2497,
+            "caseId": 2382,
+            "caseStatus": true,
+            "registerDate": 1250848089000,
+            "officialDocNo": "府文化三字第09830402502號",
+            "classificationId": 1
+        }
+    ]
+}

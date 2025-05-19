@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "彰化縣二水鄉八堡圳段1023"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

@@ -1,0 +1,146 @@
+{
+    "id": 66,
+    "caseId": "20040115000002",
+    "count": 4074,
+    "shareCount": 3,
+    "representImage": 170176,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/95e8f510-6a78-4e4b-a17b-ec1bb8b07b57/代表圖像_原臺灣軍司令官官邸(孫立人將軍官邸)_20220617_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/95e8f510-6a78-4e4b-a17b-ec1bb8b07b57/代表圖像_原臺灣軍司令官官邸(孫立人將軍官邸)_20220617.jpeg",
+        "name": "代表圖像_原臺灣軍司令官官邸(孫立人將軍官邸)_20220617"
+    },
+    "caseName": "原臺灣軍司令官官邸(孫立人將軍官邸)",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "日治時期為臺灣軍司令官之官邸，採和洋混風建築樣式，風格特殊。民國三十六年七月代理陸軍副總司令兼陸軍訓練司令孫立人將軍抵臺視察並決定於臺灣鳳山設立訓練基地，此後本棟建築物成為孫將軍官邸，自民國三十九年至民國四十四年八月孫立人事件發生止。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 142055,
+            "name": "1060607-10630460300-變更古蹟名稱公告掃描檔.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/8ffe6c8e-548e-4abe-a449-1d995725da24/1060607-10630460300-變更古蹟名稱公告掃描檔.pdf"
+        },
+        {
+            "fileid": 142056,
+            "name": "3._930115指定市定古蹟公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/07c29c4c-13a9-4341-b9c5-46c29dba9513/3._930115指定市定古蹟公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "重要歷史事件或人物之關係",
+        "具其他古蹟價值者"
+    ],
+    "registerReason": "1.本建築數度為重要軍事官邸，1929年後至1945年乃臺灣軍司令官官邸，為殖民地史見證；戰後曾為孫立人將軍官邸，後作為陸軍聯誼社，為重要歷史事件見證。\r\n2.孫立人將軍自1947年來臺訓練新軍，重整戰力，奠定反共抗俄基礎，貢獻卓著。\r\n3.本建築之樣式為當時流行的洋館及和館併置方式，目前構造及外觀保存日治昭和時期改建之主要狀況。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 142058,
+            "name": "地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/ebb026c8-58c3-4ed8-b672-ae35bd500774/地籍圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "台北市中正區南海段三小段716、716-1地號。",
+    "buildingFeatures": "本建築之樣式為當時流行的洋館及和館併置方式，目前構造及外觀保存日據昭和時期改建之主要狀況。",
+    "inHouseFeatures": "",
+    "buildingUsage": "作為餐廳及辦公空間使用。",
+    "buildingActualState": "作為餐廳及辦公空間使用。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenDownload": false,
+    "longitude": 121.5182944,
+    "latitude": 25.0292139,
+    "representImageSource": "臺北市文化局",
+    "landScope": "台北市中正區南海段三小段716、716-1地號。",
+    "selfCoverage": "南昌路一段136號",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 128982,
+            "caseId": 66,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "南昌路一段136號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "南海段三小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 178933,
+            "caseId": 66,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 16,
+            "landSerialNo": "716",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "南海段三小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 178934,
+            "caseId": 66,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 16,
+            "landSerialNo": "716-1",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 140222,
+            "caseId": 66,
+            "caseStatus": true,
+            "registerDate": 1074096000000,
+            "officialDocNo": "府文化二字第09304425500號",
+            "classificationId": 1,
+            "note": "指定"
+        },
+        {
+            "id": 140223,
+            "caseId": 66,
+            "caseStatus": true,
+            "registerDate": 1496764800000,
+            "officialDocNo": "北市文化文資字第10630460300號",
+            "classificationId": 2,
+            "note": "變更名稱"
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.51840629533858,25.029439614093217],[121.51844681002933,25.02943179888793],[121.51874125773512,25.029031729162522],[121.5187230465015,25.028966068090906],[121.51826811892005,25.028697534029597],[121.5182481765664,25.028724507328587],[121.51791188784394,25.029180154492003],[121.51840629533858,25.029439614093217],[121.51840629533858,25.029439614093217]]]]},\"properties\":{\"xcenter\":121.51834141086943,\"ycenter\":25.029079757550868,\"query\":\"台北市中正區南海段三小段-地號716號\",\"content\":\"1. 個案名稱: 原臺灣軍司令官官邸(孫立人將軍官邸) <br />\\n      2. 地號: 台北市中正區南海段三小段-地號716號 <br />\\n      3. 級別: 直轄市定古蹟 <br />\\n      4. 種類: 宅第 <br />\\n      5. 指定登錄理由: 1.本建築數度為重要軍事官邸，1929年後至1945年乃臺灣軍司令官官邸，為殖民地史見證；戰後曾為孫立人將軍官邸，後作為陸軍聯誼社，為重要歷史事件見證。\\r\\n2.孫立人將軍自1947年來臺訓練新軍，重整戰力，奠定反共抗俄基礎，貢獻卓著。\\r\\n3.本建築之樣式為當時流行的洋館及和館併置方式，目前構造及外觀保存日治昭和時期改建之主要狀況。 <br />\\n      6. 最後一筆公告日期: 2017-06-07 <br />\\n      7. 最後一筆公告文號: 北市文化文資字第10630460300號 <br />\\n      8. 管理單位: 國防部陸軍總司令部 <br />\\n      9. 使用單位: 雅鴿文創股份有限公司 <br />\\n      10. 建物狀態: 現況良好 <br />\"}},{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.51788858499832,25.029211563225775],[121.51836717442492,25.02948200208048],[121.51837310289517,25.029485050961185],[121.51839780306423,25.02949850697677],[121.51844681002933,25.02943179888793],[121.51840629533858,25.029439614093217],[121.51791188784394,25.029180154492003],[121.51788858499832,25.029211563225775],[121.51788858499832,25.029211563225775]]]]},\"properties\":{\"xcenter\":121.51817677552881,\"ycenter\":25.029345940406383,\"query\":\"台北市中正區南海段三小段-地號716-1號\",\"content\":\"1. 個案名稱: 原臺灣軍司令官官邸(孫立人將軍官邸) <br />\\n      2. 地號: 台北市中正區南海段三小段-地號716-1號 <br />\\n      3. 級別: 直轄市定古蹟 <br />\\n      4. 種類: 宅第 <br />\\n      5. 指定登錄理由: 1.本建築數度為重要軍事官邸，1929年後至1945年乃臺灣軍司令官官邸，為殖民地史見證；戰後曾為孫立人將軍官邸，後作為陸軍聯誼社，為重要歷史事件見證。\\r\\n2.孫立人將軍自1947年來臺訓練新軍，重整戰力，奠定反共抗俄基礎，貢獻卓著。\\r\\n3.本建築之樣式為當時流行的洋館及和館併置方式，目前構造及外觀保存日治昭和時期改建之主要狀況。 <br />\\n      6. 最後一筆公告日期: 2017-06-07 <br />\\n      7. 最後一筆公告文號: 北市文化文資字第10630460300號 <br />\\n      8. 管理單位: 國防部陸軍總司令部 <br />\\n      9. 使用單位: 雅鴿文創股份有限公司 <br />\\n      10. 建物狀態: 現況良好 <br />\"}}]}]",
+    "openVisitType": "完全開放參觀",
+    "openUpTime": "餐廳使用",
+    "isCharge": false,
+    "pastHistorySource": "93年1月15日公告之「古蹟清冊」資料"
+}

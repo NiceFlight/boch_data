@@ -1,0 +1,111 @@
+{
+    "id": 146,
+    "caseId": "19991231000002",
+    "count": 2285,
+    "shareCount": 0,
+    "representImage": 205302,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/b344a9f7-5fdb-4add-af1f-6fec2be2ad90/代表圖像_潘宮籌墓_20221128_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/b344a9f7-5fdb-4add-af1f-6fec2be2ad90/代表圖像_潘宮籌墓_20221128.jpeg",
+        "name": "代表圖像_潘宮籌墓_20221128"
+    },
+    "caseName": "潘宮籌墓",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "潘宮籌先生為清代台北盆地漳州移民之領袖人物，居於今士林一帶。清末因漳泉械鬥，士林舊街被焚毀，潘氏家族乃率領漳人移居下樹林，並規劃新市街，以媽祖廟慈諴宮為中心，四周闢建市街，為今天士林市街奠下基礎，貢獻頗多。潘宮籌墓位於士林近天母之山區，依山而建，俗稱烘爐穴之風水地，形勢頗佳，在清同治九年立墓碑，如今尚保存良好。\n潘宮籌生前被封為二品文官，逝世後追封為一品。墓的形制原來很大，如今尚存石象及祭台。墓之石刻尚可見當時台北附近的文人雅士及官員所寫之詩文佳句。潘氏後人亦保存舊宅第於士林街鬧市中，芝山岩亦有潘氏族人之題字，足證潘家與士林及芝山岩附近之開拓史息息相關。近代其後代成立祭祀公業潘元記，負責保管維護先祖之墓園。",
+    "assetsTypeNames": "墓葬",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 225594,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-06-16/7cddad65-0a67-44a6-bb8a-bc7bf6652a80/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "重要歷史事件或人物之關係",
+        "各時代表現地方營造技術流派特色者"
+    ],
+    "registerReason": "1.潘氏家族對士林地區開發貢獻極大，而潘宮(公)為家族之「開基土」，在台北開拓史具有紀念價值。\r\n2.潘墓墓形完整，墓制完備，刻字仍存，具學術價值。\r\n3.墓園規制完整，建於清同治九年，已有百餘年歷史，仍保存完整。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 225593,
+            "name": "地籍資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/2f8ba0ad-d97b-4c6e-98e0-6f5b7ae15d14/地籍資料.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市士林區芝蘭段二小段595地號",
+    "buildingFeatures": "墓之石刻尚可見當時台北附近的文人雅士及官員所寫之詩文佳句。潘氏後人亦保存舊宅第於士林街鬧市中，芝山岩亦有潘氏族人之題字，足證潘家與士林及芝山岩附近之開拓史息息相關。",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "由祭祀公業潘元記負責保管維護。墓的形制原來很大，如今尚存石象及祭台。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.542048,
+    "latitude": 25.109823,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市士林區芝蘭段二小段595地號",
+    "selfCoverage": "本體",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "id": 148003,
+            "caseId": 146,
+            "caseStatus": true,
+            "cityId": 1
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "芝蘭段二小段",
+            "id": 204308,
+            "caseId": 146,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 594,
+            "landSerialNo": "0595-0000",
+            "landownership": 2,
+            "coverageId": 2,
+            "area": "2229.6平方公尺",
+            "note": "重測前:下東勢段174-1地號",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 160775,
+            "caseId": 146,
+            "caseStatus": true,
+            "registerDate": 946569600000,
+            "officialDocNo": "府文化二字第8809036001號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "geojson": "[{\"features\":[{\"geometry\":{\"coordinates\":[[[[121.54198843487,25.109615119682],[121.54213369519,25.109697360879],[121.54233851396,25.110007098002],[121.54233573992,25.110008192499],[121.5422809614,25.110009296462],[121.54174013434,25.110022839705],[121.54160269576,25.109868821606],[121.54179544986,25.109648174748],[121.54198843487,25.109615119682]]]],\"type\":\"MultiPolygon\"},\"type\":\"Feature\",\"properties\":{\"ymin\":25.109615119682,\"xmin\":121.54160269576,\"段號\":5950000,\"query\":\"臺北市,芝蘭段二小段,0595-0000\",\"ycenter\":25.1098189796935,\"land_id\":5950000,\"area_id\":\"AE\",\"content\":\"1. 個案名稱: 潘宮籌墓 <br />\\n      2. 地號: 臺北市,芝蘭段二小段,0595-0000 <br />\\n      3. 級別: 直轄市定古蹟 <br />\\n      4. 種類: 墓葬 <br />\\n      5. 指定登錄理由: 1.潘氏家族對士林地區開發貢獻極大，而潘宮(公)為家族之「開基土」，在台北開拓史具有紀念價值。\\r\\n2.潘墓墓形完整，墓制完備，刻字仍存，具學術價值。\\r\\n3.墓園規制完整，建於清同治九年，已有百餘年歷史，仍保存完整。 <br />\\n      6. 最後一筆公告日期: 1999-12-31 <br />\\n      7. 最後一筆公告文號: 府文化二字第8809036001號 <br />\\n      8. 管理單位: 祭祀公業潘元記籌備處潘以長 <br />\\n      9. 使用單位: 私人 <br />\\n      10. 建物狀態: 現況良好 <br />\",\"地段\":\"芝蘭段二小段\",\"縣市\":\"臺北市\",\"ymax\":25.110022839705,\"xcenter\":121.54197060486001,\"xmax\":121.54233851396,\"section_id\":\"0957\",\"鄉鎮\":\"士林區\",\"id\":\"AE0957\",\"query_log\":[]}}],\"address\":[{\"address\":\"1. 個案名稱: 潘宮籌墓 <br />\\n      2. 地址: 台北市 <br />\\n      3. 級別: 直轄市定古蹟 <br />\\n      4. 種類: 墓葬 <br />\\n      5. 指定登錄理由: 1.潘氏家族對士林地區開發貢獻極大，而潘宮(公)為家族之「開基土」，在台北開拓史具有紀念價值。\\r\\n2.潘墓墓形完整，墓制完備，刻字仍存，具學術價值。\\r\\n3.墓園規制完整，建於清同治九年，已有百餘年歷史，仍保存完整。 <br />\\n      6. 最後一筆公告日期: 1999-12-31 <br />\\n      7. 最後一筆公告文號: 府文化二字第8809036001號 <br />\\n      8. 管理單位: 祭祀公業潘元記籌備處潘以長 <br />\\n      9. 使用單位: 私人 <br />\\n      10. 建物狀態: 現況良好 <br />\",\"lat\":\"25.109823\",\"lng\":\"121.542048\"}],\"notFound\":[],\"type\":\"FeatureCollection\"}]",
+    "openVisitType": "完全開放參觀",
+    "openUpTime": "開放空間",
+    "isCharge": false,
+    "pastHistorySource": "臺北市古蹟簡介"
+}

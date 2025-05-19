@@ -1,0 +1,112 @@
+{
+    "id": 17489,
+    "caseId": "20210518000009",
+    "count": 236,
+    "shareCount": 0,
+    "representImage": 67290,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-03-11/70aa060c-996a-48af-9a4c-254feeaf9a50/06_石圓香爐_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-03-11/70aa060c-996a-48af-9a4c-254feeaf9a50/06_石圓香爐.jpg",
+        "name": "06_石圓香爐"
+    },
+    "caseName": "文澳城隍廟嘉慶貳拾肆年辛懷潘敬奉石圓香爐",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "officialDocNo": "",
+    "judgeCriteria": [
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "數量稀少者"
+    ],
+    "registerReason": "1、具有地方重要人物或歷史事件之深厚淵源者：本爐落款「嘉慶貳拾肆年荔月城隍爺弟子辛懷潘敬奉」，為文澳城隍廟目前所見年款最早之文物，並安座於開基城隍爺像前。辛姓在馬公文澳為大姓之一，至今已傳13代，本爐見證19世紀初文澳社辛姓家族與宮廟之緊密關聯。\n2、數量稀少者：臺灣清代的石香爐以四足的展耳方爐為主，此件為罕見的圓形石香爐。 ",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第2、5款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00651-P-107-0004",
+    "amount": 1,
+    "descAge": "嘉慶貳拾肆年荔月(1819年)",
+    "descSize": "口徑24公分/高15公分",
+    "descMaterial": "石",
+    "reserveStatusDesc": "石香爐，圓直口，口徑略大於底徑，口沿陰刻落款橫書，器壁帶狀淺浮雕飾蓮花捲草紋，下三足，上寬下窄飾似葉形，外底平。落款題「嘉慶貳拾肆年荔月城隍爺弟子辛懷潘敬奉」，爐口置有一漏斗形白鐵內爐。 ",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "嘉慶貳拾肆年荔月城隍爺弟子辛懷潘敬奉",
+    "saveEnvironment": 2,
+    "reserveStatus": "主神龕前",
+    "documents": [
+        {
+            "fileid": 111011,
+            "name": "文澳城隍廟辛懷潘敬奉石圓香爐.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-18/f2eded16-b829-4944-ab26-ca0a63c918b7/文澳城隍廟辛懷潘敬奉石圓香爐.pdf"
+        },
+        {
+            "fileid": 111013,
+            "name": "文澳城隍廟6件公告修正(1090513).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-18/0434d895-3654-4e67-b1ba-b6b2a2813f72/文澳城隍廟6件公告修正(1090513).pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.581087,
+    "latitude": 23.563866,
+    "representImageSource": "澎湖縣政府文化局/逢甲大學 陳英豪研究助理 攝",
+    "keepNames": [
+        {
+            "keepNameIdStr": "文澳城隍廟",
+            "keepName": "莊耀玠",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "文澳城隍廟",
+            "keepAddressNew": "澎湖縣馬公市西文里25號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "澎湖縣",
+            "keepNameDistName": "馬公市",
+            "keepNameAddress": "西文里25號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 127632,
+            "caseId": 17489,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "西文里25號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 138548,
+            "caseId": 17489,
+            "caseStatus": true,
+            "registerDate": 1585301535436,
+            "officialDocNo": "府授文博字第1093701010號",
+            "classificationId": 1
+        },
+        {
+            "id": 138549,
+            "caseId": 17489,
+            "caseStatus": true,
+            "registerDate": 1589299200000,
+            "officialDocNo": "府授文博字第10937015412號",
+            "classificationId": 2,
+            "note": "修正引用依據"
+        }
+    ],
+    "isPublic": false
+}

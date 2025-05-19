@@ -1,0 +1,100 @@
+{
+    "id": 3183,
+    "caseId": "20061018000003",
+    "count": 277,
+    "shareCount": 0,
+    "representImage": 267905,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-12-12/009ae4b8-de61-4f64-bf81-b06e0cd08512/古陶壺_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-12-12/009ae4b8-de61-4f64-bf81-b06e0cd08512/古陶壺.jpg",
+        "name": "古陶壺"
+    },
+    "caseName": "古陶壺",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-其他",
+    "otherAssetsType": "0",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1161100800000,
+    "officialDocNo": "屏府文博字第0950205998號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "具有歷史、文化及藝術價值。沒辦法訂它的地點，因為跟著結婚流動流來流去，陶土顏色色衣已脫落，年代不明（原住民本身無年代觀念）新石器時代的遺物，年代待考。三地門鄉大社傳說：陶壺是太陽光照射陶壺裡使它懷孕—壺生說。祭拜時家祭時或豐年祭都會拿來祭拜，賦予陶壺一種人格。",
+    "lawsReference": "文化資產保存法第65條暨古物分級登錄指定及廢止審查辦法第5條、第7條及第8辦理。",
+    "govInstitutionCode": "900",
+    "govInstitutionName": "屏東縣政府",
+    "belongCityId": 20,
+    "belongCityName": "屏東縣",
+    "belongDistName": "屏東市",
+    "govInstitution": " ",
+    "govDeptName": " ",
+    "govDeptPhone": " ",
+    "govDeptAddress": " ",
+    "reservationCode": "  ",
+    "amount": 1,
+    "notes": "",
+    "descAge": " ",
+    "descSize": " ",
+    "descMaterial": " ",
+    "reserveStatusDesc": "種類:宗教用具 \r\n數量:1\r\n年代:不詳 \r\n作者:不詳\r\n材質:陶土 \r\n重量:1.1 kg\r\n形狀:壺形 \r\n尺寸:高23 × 腹徑 24㎝\r\n技法:手捏製",
+    "pastHistorySource": 2,
+    "pastHistorySourceNotes": " ",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 231398,
+            "name": "32件一般古物(951027)_部分14.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-09-19/e45c89df-f409-488d-b83c-a4240c38954b/32件一般古物(951027)_部分14.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "0",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "屏東縣政府文化處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "屏東縣屏東市大連路69號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "屏東縣",
+            "distName": "屏東市",
+            "id": 137340,
+            "caseId": 3183,
+            "caseStatus": true,
+            "cityId": 20,
+            "distId": 2001
+        }
+    ],
+    "announces": [
+        {
+            "id": 150080,
+            "caseId": 3183,
+            "caseStatus": true,
+            "registerDate": 1161100800000,
+            "officialDocNo": "屏府文博字第0950205998號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

@@ -1,0 +1,102 @@
+{
+    "id": 3892,
+    "caseId": "20121112000016",
+    "count": 76,
+    "shareCount": 0,
+    "representImage": 6700,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32878/photo/6dc97bf0-37ce-4184-9504-251eaf107384_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32878/photo/6dc97bf0-37ce-4184-9504-251eaf107384.JPG",
+        "name": "6dc97bf0-37ce-4184-9504-251eaf107384"
+    },
+    "caseName": "蔡侯產戈",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1352649600000,
+    "officialDocNo": "文授字第10120135331號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要藝術造詣或科學成就",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "蔡侯產戈是標準的春秋形制，援部細長，胡上有穿，內上有銘文六字「蔡侯產之用戈」，並鑲嵌金絲，字形結構具春秋晚期到戰國初期蔡國鳥蟲書的特色，能表現地方文化特徵。具有重要文字藝術價值。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第1、4、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局 ",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "中銅000420",
+    "amount": 1,
+    "notes": "",
+    "descAge": "春秋",
+    "descSize": "長31cm。",
+    "descMaterial": "銅",
+    "reserveStatusDesc": "戈，銘文六字鑲嵌金絲，字形結體獨具春秋晚期到戰國初期蔡國鳥蟲書特色。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "1、斷接。2、傷缺。3、除銹凹痕。4、原裂傷。5、刃部多處原傷缺。6、臘痕。",
+    "documents": [
+        {
+            "fileid": 150778,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-19/eb340b12-656b-4ff7-b101-c0294bfd3c11/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71157,
+            "caseId": 3892,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 75503,
+            "caseId": 3892,
+            "caseStatus": true,
+            "registerDate": 1352649600000,
+            "officialDocNo": "文授字第10120135331號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

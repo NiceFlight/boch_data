@@ -1,0 +1,103 @@
+{
+    "id": 16030,
+    "caseId": "20180731000014",
+    "count": 319,
+    "shareCount": 0,
+    "representImage": 49371,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-07-31/98e73baf-1aac-44b6-86bb-d17cc3386191/12-004_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-07-31/98e73baf-1aac-44b6-86bb-d17cc3386191/12-004.jpg",
+        "name": "12-004"
+    },
+    "caseName": "馬公觀音亭-寶珞慈航楹聯",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1529998274940,
+    "officialDocNo": "府授文博字第1073701875號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者"
+    ],
+    "registerReason": "（1）具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：多字型之對聯，具文學價值。\n（2）具有地方重要人物或歷史事件之深厚淵源者：明確紀錄清法戰役相關性。\n（3）能反映政治、經濟、社會、人文、科學等歷史變遷或時代特色者：具特定歷史意義。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2、3款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00681-P-M017- -004(1)(2)",
+    "amount": 2,
+    "notes": "為清法戰爭澎湖戰役史事淵源之文物，記載有當時觀音菩薩顯靈庇佑軍民之傳說，劉璨瑩為當時戍守澎湖之中級軍官，親身參與該場戰役。",
+    "descAge": "1885年",
+    "descSize": "「寶珞」聯：高199公分、寬29.6公分、厚2.3公分/ 慈航」聯：高200公分、寬29公分、厚2.7公分",
+    "descMaterial": "木",
+    "reserveStatusDesc": "木製楹聯一對，全件表面施紅漆，字皆陰刻行書填彩，但彩多脫落，疑為金彩。上聯大字題「寶珞耀雲端萬朵祥光震旦曇花隨法現」，下聯為「慈航橫海表幾聲梵響乾陀魚鼓逐潮來」，上下聯中字兩側皆有小字註記，小字全文為：「乙酉花朝法夷犯順余率師扼溝力禦宵深忽見廟畔霰光照耀若內典所傳珠瓔寶珞者用於砲彈煙雨之中血戰兩晝夜幸免傷痍書是榜楹以誌神貺東官劉璨瑩」。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "時間：1885年     捐贈者：東官劉璨瑩",
+    "saveEnvironment": 2,
+    "reserveStatus": "觀音亭軒亭與拜殿間兩側壁",
+    "documents": [
+        {
+            "fileid": 49370,
+            "name": "12_寶珞慈航楹聯公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-07-31/70d86378-ef5a-4a20-b1f6-884558284929/12_寶珞慈航楹聯公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.561958,
+    "latitude": 23.567663,
+    "representImageSource": "澎湖縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "觀音亭管理委員會",
+            "keepName": "王順輝",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "馬公觀音亭",
+            "keepAddressNew": "澎湖縣馬公市中興里介壽路7號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "澎湖縣",
+            "keepNameDistName": "馬公市",
+            "keepNameAddress": "中興里介壽路7號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 127680,
+            "caseId": 16030,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "中興里介壽路7號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 138603,
+            "caseId": 16030,
+            "caseStatus": true,
+            "registerDate": 1529998274940,
+            "officialDocNo": "府授文博字第1073701875號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

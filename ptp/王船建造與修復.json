@@ -1,0 +1,104 @@
+{
+    "id": 17939,
+    "caseId": "20201104000004",
+    "count": 586,
+    "shareCount": 1,
+    "representImage": 137771,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-09-10/31cd9f1e-2967-4402-9d76-b725c511c33b/20210313-84_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-09-10/31cd9f1e-2967-4402-9d76-b725c511c33b/20210313-84.jpg",
+        "name": "20210313-84"
+    },
+    "caseName": "王船建造與修復",
+    "classifyCode": "7.1",
+    "classifyName": "保存技術及保存者",
+    "assetsClassifyCode": "7.1.1",
+    "assetsClassifyName": "保存技術及保存者",
+    "registerDate": 1603961413397,
+    "officialDocNo": "南市文資字第1091292412A號",
+    "documents": [
+        {
+            "fileid": 74119,
+            "name": "1091029公告-王船建造與修復.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-11-04/9774225a-fafb-4b9f-a0c8-852ec0acc7b0/1091029公告-王船建造與修復.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "無形文化資產實踐中不可或缺物件製作、修復之傳統技術；其技術具有一定專業性、針對特定無形文化資產之實踐所發展，並對表現該無形文化資產價值具有顯著作用"
+    ],
+    "registerReason": "「王船建造」為臺灣迎王祭典中不可或缺的技術，亦是古帆船、王船文物的保存與修復的重要技術。",
+    "lawsReference": "1、「文化資產保存法」第九十六條第一、三項。\n2、「文化資產保存技術及保存者登錄認定廢止審查辦法」第二條及第四條。",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569 ",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "preservers": [
+        {
+            "id": 17940,
+            "type": "個人",
+            "caseName": "陳金龍 (歿)",
+            "cityName": "臺南市",
+            "distName": "安平區",
+            "caseArtistEntities": [],
+            "representImage": 183219,
+            "registrationDate": 1603900800000,
+            "patentNo": "",
+            "judgeCriteria": [
+                "充分掌握該項保存技術所需相關知識與執行程序",
+                "正確體現、執行該項保存技術之能力",
+                "傳習該項保存技術之溝通及輔導能力"
+            ],
+            "registerReason": "1、\t藝師於造船業工作多年，技術純熟，對該項保存技術所需相關知識及執行程序能完全掌握。\n2、\t對王船建造之歷史知識與技術，均能深入體認、掌握。\n3、\t具備傳承意願及能力。\n",
+            "lawsReference": "1、「文化資產保存法」第九十六條第一、三項\n2、「文化資產保存技術及保存者登錄認定廢止審查辦法」第二條及第四條",
+            "school": "陳金龍，西門國小畢業，前「新港興造船廠」負責人，因從小就居住在造船場附近，13歲時開始在叔公陳明慶的造船廠中學造船，早期以造木製漁船為主，隨著時代改變，除造漁船外，亦製造遊艇，並受聘為各地廟宇建造王船、法船，今已從造船場退休，但仍承接王船製作。",
+            "isOpenDownload": false,
+            "representImageSource": " 臺南市文化資產管理處",
+            "contactorIsOpen": false,
+            "caseAliasName": "金龍司 "
+        }
+    ],
+    "skillNote": "王船的建造的技術，是臺灣民間信仰迎王祭典中所不可缺的，尤其木造船隻的建造，不單只是信仰祭典中的重要傳統技術，其更是先民交通工具，木造帆船的維修技術，故無論是在無形文化資產迎王祭典上，或是古帆船、古王船等文物的保存與修復，其技術都具有保存、傳承的必要性。",
+    "visitsDate": 1593506986752,
+    "description": "王船的建造的技術，是臺灣民間信仰迎王祭典中所不可缺的，尤其木造船隻的建造，不單只是信仰祭典中的重要傳統技術，其更是先民交通工具，木造帆船的維修技術，故無論是在無形文化資產迎王祭典上，或是古帆船、古王船等文物的保存與修復，其技術都具有保存、傳承的必要性。",
+    "classify": [
+        "4.2",
+        "5.1",
+        "6.1"
+    ],
+    "skillType": [
+        {
+            "id": 1,
+            "other": ""
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "臺南市文化資產處",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "安平區",
+            "id": 92685,
+            "caseId": 17939,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1606
+        }
+    ],
+    "announces": [
+        {
+            "id": 99987,
+            "caseId": 17939,
+            "caseStatus": true,
+            "registerDate": 1603961413397,
+            "officialDocNo": "南市文資字第1091292412A號",
+            "classificationId": 1
+        }
+    ]
+}

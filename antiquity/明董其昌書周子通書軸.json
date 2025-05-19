@@ -1,0 +1,103 @@
+{
+    "id": 4466,
+    "caseId": "20160803000004",
+    "count": 568,
+    "shareCount": 0,
+    "representImage": 7508,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/132840/photo/明董其昌書周子通書軸_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/132840/photo/明董其昌書周子通書軸.jpg",
+        "name": "明董其昌書周子通書軸"
+    },
+    "caseName": "明董其昌書周子通書軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1470153600000,
+    "officialDocNo": "文授資局物字第10530074283號",
+    "judgeCriteria": [
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少"
+    ],
+    "registerReason": "董其昌（1555-1636），晚明書壇領袖，是影響明清兩代的重要書畫家，其提出的許多書論與畫論，至今仍是書畫史研究的重要課題。\n此軸為董其昌罕見的書法大軸，節錄周敦頤（1017-1073）《通書》中內容，學者根據題款風格判斷約書於萬曆三十九年（1611），屬於他精力旺盛的中年時期，展現出他對於大字楷書書寫的掌控與成就。\n董其昌書蹟罕見大字楷書書軸，此作應為傳世尺幅之最大者，用筆簡潔而大氣，為其大字作品中之最佳者，亦為晚明榜書之傑作。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第4條第1項第3、4、5款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局 ",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故書000040",
+    "amount": 1,
+    "descAge": "明",
+    "descCreator": "董其昌",
+    "descSize": "189.4 x 154.5公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "此軸為董其昌罕見的書法大軸，節錄周敦頤（1017-1073）《通書》中內容，學者根據題款風格判斷約書於萬曆三十九年（1611），屬於他精力旺盛的中年時期，展現出他對於大字楷書書寫的掌控與成就。全作雖透露著濃厚的顏楷特徵，作者卻能擺脫顏真卿用筆和結字的外觀形似，巧妙地轉化成獨特的個人面貌。用筆看似平淡卻隱含變化，點畫表現也趨向質樸蒼勁，單字結體則是寓奇巧於平穩中，疏朗的間距透露出空靈的氣息，整體達到一種既雄強又從容不迫的和諧境界。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "故書",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷需處理。摺裂嚴重。",
+    "documents": [
+        {
+            "fileid": 7509,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/132839/file/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69582,
+            "caseId": 4466,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73749,
+            "caseId": 4466,
+            "caseStatus": true,
+            "registerDate": 1470153600000,
+            "officialDocNo": "文授資局物字第10530074283號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

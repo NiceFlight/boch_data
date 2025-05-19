@@ -1,0 +1,96 @@
+{
+    "id": 20277,
+    "caseId": "20211215000018",
+    "count": 145,
+    "shareCount": 0,
+    "representImage": 147631,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-15/4902b52b-4309-414a-be7e-60e0394c2800/027_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-15/4902b52b-4309-414a-be7e-60e0394c2800/027.jpg",
+        "name": "027"
+    },
+    "caseName": "明宣宗畫子母雞圖",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "此幅子母雞圖筆力細緻，描繪小雞與大小雞雛之間非常寫實。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174之1號",
+    "reservationCode": "中畫000028",
+    "amount": 1,
+    "descAge": "明",
+    "descSize": "79.7x57.2公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "此幅畫公雞與母雞帶領幼雛在草地上覓食，呼哺育幼之情，躍然紙上。畫家取材日常生活，宣揚家庭倫理，具有教化功能。畫上署：「宣德御筆敕賜輔臣楊時」，並鈐「物格致知」一印。\n明宣宗（1399 - 1435）姓朱，名瞻基，年號宣德，自號長春真人，是太祖曾孫，都北京。工書畫，山水、人物、花鳥、草蟲，往往與宣和爭勝。主政十年，締造了「仁宣之治」，以政績言，蓋非宋徽宗（1082-1135）之所能比。\n",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "地綾舊汚漬。",
+    "documents": [
+        {
+            "fileid": 147630,
+            "name": "110年12月9日北市獻編字第1103004564號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-15/d9e0a509-e626-468e-9ccb-6939dc93da77/110年12月9日北市獻編字第1103004564號公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69158,
+            "caseId": 20277,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73282,
+            "caseId": 20277,
+            "caseStatus": true,
+            "registerDate": 1639023296917,
+            "officialDocNo": "北市獻編字第1103004564號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

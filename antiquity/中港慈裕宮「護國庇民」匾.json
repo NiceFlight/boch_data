@@ -1,0 +1,103 @@
+{
+    "id": 3001,
+    "caseId": "20141107000004",
+    "count": 452,
+    "shareCount": 0,
+    "representImage": 5386,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4783/photo/中港慈裕宮「護國庇民」匾_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4783/photo/中港慈裕宮「護國庇民」匾.jpg",
+        "name": "中港慈裕宮「護國庇民」匾"
+    },
+    "caseName": "中港慈裕宮「護國庇民」匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1415289600000,
+    "officialDocNo": "府文資字第1030010953C號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本匾立於慈裕宮遷建現址翌年嘉慶二十二年（1817年），符合當時工藝製作水平，見證文獻記載的中港街捐建歷史，具有其時代意義與風格。外框疑為日治時期所重修。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第2條第1項第1、2、3、6款",
+    "govInstitutionCode": "360",
+    "govInstitutionName": "苗栗縣政府",
+    "belongCityId": 8,
+    "belongCityName": "苗栗縣",
+    "belongDistName": "竹南鎮",
+    "govInstitution": "苗栗縣政府文化觀光局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "037-352961#712",
+    "govDeptAddress": "苗栗縣苗栗市自治路50號",
+    "reservationCode": "03",
+    "amount": 1,
+    "notes": "",
+    "descAge": "嘉慶二十二年（1817年）",
+    "descSize": "長方形匾額，高69公分、寬172公分、厚5公分。",
+    "descMaterial": "樟木木材拼組而成",
+    "reserveStatusDesc": "「護國庇民」匾立於嘉慶二十二年（1817年），並於民國一百零三年（2014年）11月7日，經苗栗縣政府公告登錄為一般古物，屬圖書文獻類。該匾為橫長形木匾，匾面三片拼接而成，施螺鈿與紅漆。上款楷書「嘉慶二十二年(1817年)壬戌孟穐月重脩」，下款宋體字之「中港宮口街眾弟子仝敬題」，下一方印款；匾框飾金色「壽」字紋與團花捲草。顯示對當時的中港街居民而言，慈裕宮前方的「宮口街」可能是清中期該地相當繁榮街道之一，間接反映慈裕宮對中港街而言是其信仰中心。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "中港街捐建，1817年",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 138622,
+            "name": "古物03-中港慈裕宮「護國庇民」匾-公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-09-15/5ffd4b94-c640-466d-9276-10be2f2ebf14/古物03-中港慈裕宮「護國庇民」匾-公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 24.68,
+    "latitude": 120.86,
+    "representImageSource": "苗栗縣政府文化觀光局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "中港慈裕宮管理委員會",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "苗栗縣竹南鎮民生路7號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "苗栗縣",
+            "distName": "竹南鎮",
+            "id": 110006,
+            "caseId": 3001,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 801
+        }
+    ],
+    "announces": [
+        {
+            "id": 118960,
+            "caseId": 3001,
+            "caseStatus": true,
+            "registerDate": 1415289600000,
+            "officialDocNo": "府文資字第1030010953C號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

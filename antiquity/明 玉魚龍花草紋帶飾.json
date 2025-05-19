@@ -1,0 +1,101 @@
+{
+    "id": 3823,
+    "caseId": "20140421000037",
+    "count": 291,
+    "shareCount": 0,
+    "representImage": 6625,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39171/photo/pic055_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39171/photo/pic055.jpg",
+        "name": "pic055"
+    },
+    "caseName": "明 玉魚龍花草紋帶飾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1398009600000,
+    "officialDocNo": "文資物字第10320043691號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要之時代特色、技術及流派"
+    ],
+    "registerReason": "此明代玉魚龍花草紋帶版，白玉質，二十片一組，以多層次鏤空技法雕琢主紋為魚龍紋，其他則有花果、海波、山岩紋，均襯以卷雲錦地。\r\n據明史輿服志記載，腰帶上的片狀裝飾品，即所謂帶版。其質材、數目及紋飾乃區分佩戴者官階的依據。本組帶飾為二十片一組之明代玉版，質美、工精，是少數由清宮收藏後，猶能保持完整成套之作。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第1、3款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局 ",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故玉003477~003496",
+    "amount": 20,
+    "notes": "",
+    "descAge": "明",
+    "descSize": "橫長：4.6~9.7公分",
+    "descMaterial": "閃玉",
+    "reserveStatusDesc": "質材：白玉質。\n形制：為一組共二十片之玉帶版。\n紋飾：本組帶版以多層次鏤空技法雕主紋魚龍紋，及其他花果、海波、山岩紋，並襯以卷雲錦地。附錦袱、錦匣。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。有玉璺。",
+    "documents": [
+        {
+            "fileid": 150287,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-13/da42478c-92c8-4847-8617-59502ad85da7/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70893,
+            "caseId": 3823,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75169,
+            "caseId": 3823,
+            "caseStatus": true,
+            "registerDate": 1398009600000,
+            "officialDocNo": "文資物字第10320043691號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,100 @@
+{
+    "id": 22530,
+    "caseId": "20240217000002",
+    "count": 674,
+    "shareCount": 0,
+    "representImage": 241998,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-02-17/14780677-3009-4ea2-a6f0-96b6043d3cf3/54b565be-4fbb-4cd1-97ff-5618d95c0915_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-02-17/14780677-3009-4ea2-a6f0-96b6043d3cf3/54b565be-4fbb-4cd1-97ff-5618d95c0915.jpg",
+        "name": "54b565be-4fbb-4cd1-97ff-5618d95c0915"
+    },
+    "caseName": "水上機場少華樓",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "空軍第四戰術戰鬥機聯隊駐防於空軍嘉義基地，少華樓之保存見證水上機場當年戰後初期之空軍聯隊需要，及營區之建築史與營建技術之發展。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "官兵宿舍",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 241996,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-02-17/24702d6c-43ef-4f84-a2d7-b51047315c35/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1.表現地域風貌或民間藝術特色者：建物為水上機場指標建築，見證該營區軍事發展，並表現地域風貌。\n2.具建築史或技術史之價值者：建物木桁架為偶柱式，桁架跨距大，保管狀況佳，見證該營區建築史發展。\n3.具地區性建造物類型之特色者：建物見證當時時代背景及營造工法，具文化資產價值。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條",
+    "govInstitutionCode": "612",
+    "govInstitutionName": "嘉義縣政府",
+    "govInstitution": "嘉義縣政府",
+    "govDeptName": "嘉義縣文化觀光局",
+    "govDeptPhone": "05-3628123",
+    "govDeptAddress": "嘉義縣太保市東勢里太子大道158號",
+    "cadasters": [
+        {
+            "fileid": 241997,
+            "name": "測繪圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2024-02-17/fab187ff-f278-4421-870e-1e82269888f4/測繪圖.pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isOpenDownload": false,
+    "longitude": 120.4026,
+    "latitude": 23.45483,
+    "representImageSource": "業務單位",
+    "landScope": "嘉義縣水上鄉粗溪新段1709-1地號",
+    "selfCoverage": "定著於嘉義縣水上鄉粗溪新段1709-1地號之土地上",
+    "addresses": [
+        {
+            "cityName": "嘉義縣",
+            "distName": "水上鄉",
+            "id": 130323,
+            "caseId": 22530,
+            "caseStatus": true,
+            "cityId": 15,
+            "distId": 1507,
+            "address": "榮典路1號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "嘉義縣",
+            "distName": "水上鄉",
+            "landNoName": "粗溪新段",
+            "id": 183233,
+            "caseId": 22530,
+            "caseStatus": true,
+            "cityId": 15,
+            "distId": 1507,
+            "landNoId": 12953,
+            "landSerialNo": "1709-1",
+            "area": "1,602.28平方公尺",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 141919,
+            "caseId": 22530,
+            "caseStatus": true,
+            "registerDate": 1685612980601,
+            "officialDocNo": "府授文資字第11201297462號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"嘉義縣水上鄉粗溪新段1709-1\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "openVisitType": ""
+}

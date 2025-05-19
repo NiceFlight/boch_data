@@ -1,0 +1,191 @@
+{
+    "id": 16749,
+    "caseId": "20190716000001",
+    "count": 3942,
+    "shareCount": 9,
+    "representImage": 226632,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-07-05/b2fb61ac-8c8d-46ae-839b-2b189b5810d9/IMG_0180_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-07-05/b2fb61ac-8c8d-46ae-839b-2b189b5810d9/IMG_0180.jpg",
+        "name": "IMG_0180"
+    },
+    "caseName": "樹林後村圳分汴及十二股圳取入口",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "待修復或再利用計畫完成後填列\n",
+    "assetsTypeNames": "碑碣,堤閘",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "registerDate": 1553592017174,
+    "officialDocNo": "新北府文資字第1080456387號",
+    "documents": [
+        {
+            "fileid": 164852,
+            "name": "樹林後村圳分汴及十二股圳取入口公告-108.3.26.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-23/eaf6a90c-b413-45ac-b29a-5a4e369fb163/樹林後村圳分汴及十二股圳取入口公告-108.3.26.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具高度歷史、藝術或科學價值者",
+        "表現各時代營造技術流派特色者",
+        "具稀少性，不易再現者"
+    ],
+    "registerReason": "一、後村圳分汴及十二股圳取入口是清代張必榮、林本源家族等陸續開鑿，復經日治時期至今現代工法的修建，仍續使用，見證樹林地區土地拓墾及農耕灌溉的歷史過程及意義。符合古蹟指定及廢止審查辦法第2條第1項第1款指定基準。\n二、十二股圳取入口與汴頭為RC構造，並以洗石飾面，取入口上方匾額有「昭和七年一月十五日竣功」的落款，取入口漿砌卵石構造部分相當完整，具農田水利工程之文化資產保存價值。符合古蹟指定及廢止審查辦法第2條第1項第1、2、3款指定基準。\n三、在新北市既存水圳設施中具稀少性，不易再現。符合古蹟指定及廢止審查辦法第2條第1項第3款指定基準。",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "220",
+    "govInstitutionName": "新北市政府",
+    "belongCityId": 3,
+    "belongCityName": "新北市",
+    "belongDistName": "樹林區",
+    "govInstitution": "新北市政府",
+    "govDeptName": "文化局",
+    "govDeptPhone": "(02)29603456",
+    "govDeptAddress": "新北市板橋區中山路一段161號28樓",
+    "cadasters": [
+        {
+            "fileid": 102266,
+            "name": "樹林後村圳分汴及十二股圳取入口-1080326公告-3.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-03-24/c3b1054e-67f5-427f-bf2b-43f27be588cb/樹林後村圳分汴及十二股圳取入口-1080326公告-3.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 1,
+    "nonCityLandUseTypeName": "特定農業區",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "新北市樹林區佳園段737-7、737-8、737-9、737-17、772地號。",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "bulkTransfer": 0,
+    "belongAddress": "24.970251, 121.389536",
+    "isOpenDownload": false,
+    "longitude": 24.970251,
+    "latitude": 121.389536,
+    "representImageSource": "新北市政府文化局",
+    "landScope": "新北市樹林區佳園段737-7、737-8、737-9、737-17、772地號（皆為部分）",
+    "selfCoverage": "十二股圳取入口牌匾及水門、後村圳分汴\n\n",
+    "addresses": [
+        {
+            "cityName": "新北市",
+            "distName": "樹林區",
+            "id": 129838,
+            "caseId": 16749,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 318,
+            "address": "佳園段737-7、737-8、737-9、737-17、772地號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "新北市",
+            "distName": "樹林區",
+            "landNoName": "佳園段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 182057,
+            "caseId": 16749,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 318,
+            "landNoId": 6669,
+            "landSerialNo": "737-7地號",
+            "cityLandUseTypeId": 1,
+            "area": "",
+            "cityLandUseTypeOther": "部分住宅區部分道路廣場部分綠地",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "新北市",
+            "distName": "樹林區",
+            "landNoName": "佳園段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 182058,
+            "caseId": 16749,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 318,
+            "landNoId": 6669,
+            "landSerialNo": "737-8地號",
+            "cityLandUseTypeId": 10,
+            "area": "",
+            "cityLandUseTypeOther": "河川區",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "新北市",
+            "distName": "樹林區",
+            "landNoName": "佳園段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 182059,
+            "caseId": 16749,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 318,
+            "landNoId": 6669,
+            "landSerialNo": "737-9地號",
+            "cityLandUseTypeId": 10,
+            "area": "",
+            "cityLandUseTypeOther": "部分人行步道部分學校用地",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "新北市",
+            "distName": "樹林區",
+            "landNoName": "佳園段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 182060,
+            "caseId": 16749,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 318,
+            "landNoId": 6669,
+            "landSerialNo": "737-17地號",
+            "cityLandUseTypeId": 10,
+            "area": "",
+            "cityLandUseTypeOther": "鐵路用地",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "新北市",
+            "distName": "樹林區",
+            "landNoName": "佳園段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 182061,
+            "caseId": 16749,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 318,
+            "landNoId": 6669,
+            "landSerialNo": "772地號",
+            "cityLandUseTypeId": 10,
+            "area": "",
+            "cityLandUseTypeOther": "河川區",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 141386,
+            "caseId": 16749,
+            "caseStatus": true,
+            "registerDate": 1553592017174,
+            "officialDocNo": "新北府文資字第1080456387號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"新北市樹林區佳園段737-7地號\"}}],\"notfound\":\"沒有地號資料\"},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"新北市樹林區佳園段737-8地號\"}}],\"notfound\":\"沒有地號資料\"},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"新北市樹林區佳園段737-9地號\"}}],\"notfound\":\"沒有地號資料\"},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"新北市樹林區佳園段737-17地號\"}}],\"notfound\":\"沒有地號資料\"},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"新北市樹林區佳園段772地號\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "openVisitType": "完全開放參觀",
+    "openUpTime": "全年開放\n\n",
+    "isCharge": false,
+    "pastHistorySource": ""
+}

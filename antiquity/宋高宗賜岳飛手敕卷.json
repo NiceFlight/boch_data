@@ -1,0 +1,111 @@
+{
+    "id": 4171,
+    "caseId": "20110422000083",
+    "count": 461,
+    "shareCount": 9,
+    "representImage": 165692,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-05-27/42a643a7-8d31-4f84-8299-48c2b8104677/K2B000076N000000000PAA_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-05-27/42a643a7-8d31-4f84-8299-48c2b8104677/K2B000076N000000000PAA.jpg",
+        "name": "K2B000076N000000000PAA"
+    },
+    "caseName": "宋高宗賜岳飛手敕卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1303401600000,
+    "officialDocNo": "會授資籌二字10020040353號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "歷史流傳已久或史事具有深厚淵源",
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "此件書法點畫講究，字體優美，是宋高宗書法的代表作品，又受信人為名將岳飛，故更具有歷史價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第四條第一項第一、二、三、四、五、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化資產局",
+    "govDeptName": "古物科",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故書000076",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descSize": "36.7 x 61.5 公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "紹興七年（1137）秋天，岳飛（1103-1142）率軍到防區邊界巡視，高宗（1107-1187，在位1127-1162）以此御札回覆其報，嘉勉其恭忠體國。\n高宗趙構早年書學父皇徽宗，稍長學習宋黃庭堅、米芾書體。後來上追晉王羲之，臨習魏晉以來至六朝筆法，對南宋皇室書法有深刻影響。此札楷書帶行體，點畫講究、姿態優美，雖然是在軍事急迫中對屬下的敕書，行氣首尾一貫，顯現出他的書法造詣。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "汚漬、折痕。有損傷但狀況穩定。",
+    "documents": [
+        {
+            "fileid": 152178,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-28/53916daa-7de5-4d2d-8cc9-2797b6d9b35c/公告表.pdf"
+        },
+        {
+            "fileid": 152179,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-28/de99bd63-0c6e-4865-a9ef-563339ae9f79/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 80368,
+            "caseId": 4171,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 86336,
+            "caseId": 4171,
+            "caseStatus": true,
+            "registerDate": 1303401600000,
+            "officialDocNo": "會授資籌二字10020040353號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

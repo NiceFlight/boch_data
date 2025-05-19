@@ -1,0 +1,108 @@
+{
+    "id": 4006,
+    "caseId": "20120326000061",
+    "count": 685,
+    "shareCount": 5,
+    "representImage": 6872,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32992/photo/99772232-e277-4669-8a9d-1d59752ed959_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32992/photo/99772232-e277-4669-8a9d-1d59752ed959.JPG",
+        "name": "99772232-e277-4669-8a9d-1d59752ed959"
+    },
+    "caseName": "宋時大理國描工張勝溫畫梵像卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本幅是大理國（937-1254）傳世的唯一畫卷，以具體的形象記錄了中古時期地處西南邊陲南詔、大理國的歷史人物和衣冠制度，更圖繪數百尊的佛教尊像，是研究南詔和大理國歷史、宗教、藝術最可靠也是最重要的一手資料。具有特殊歷史意義與地方文化特色，品質精良且數量特別稀少，具有特殊歷史、文化、藝術價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第四條第一項第一、五、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫001003",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋時大理國（937-1254）",
+    "descCreator": "張勝溫",
+    "descSize": "A：30.4×72.2、B：30.4×1490.7、梵書寶幢：30.4×24.5、C：30.4×49.1（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "本幅是大理國（937－1254）傳世的唯一畫卷，全卷設色貼金，繪製精謹，共分四段：第一段畫大理國王利貞皇帝禮佛圖，第二段繪佛、菩薩、佛母、天王和護法等數百位佛教人物，第三段為多心和護國寶幢，第四段是十六國王圖。全卷內容豐富，素有「南天瑰寶」之譽。根據卷後釋妙光的題跋，知此卷乃出自張勝溫之手。張勝溫為大理國利貞皇帝段智興時（1172－約1199在位）的畫師，生卒年不可考。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 151732,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-26/b462f145-1f43-4268-af60-edc1ced0b005/公告.pdf"
+        },
+        {
+            "fileid": 151733,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-26/69c55ff8-1b02-492b-bdc3-e0b2cf095017/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71479,
+            "caseId": 4006,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75932,
+            "caseId": 4006,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

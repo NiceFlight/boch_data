@@ -1,0 +1,123 @@
+{
+    "id": 23180,
+    "caseId": "20250211000001",
+    "count": 294,
+    "shareCount": 1,
+    "representImage": 280651,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2025-02-10/817e9cfc-2822-4d13-91b6-0c5d1ec8b73d/代表照片-後壁區-旌忠廟_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2025-02-10/817e9cfc-2822-4d13-91b6-0c5d1ec8b73d/代表照片-後壁區-旌忠廟.jpg",
+        "name": "代表照片-後壁區-旌忠廟"
+    },
+    "caseName": "下茄苳旌忠廟",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "詳公告之登錄理由。",
+    "assetsTypeNames": "寺廟",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 280649,
+            "name": "﹝公告﹞114.0208-歷史建築-後壁區-下茄苳旌忠廟.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2025-02-10/43aaa47d-a861-45b4-af91-70fbb8b025d1/﹝公告﹞114.0208-歷史建築-後壁區-下茄苳旌忠廟.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "表現地域風貌及民間藝術特色者：旌忠廟創建於乾隆年間，昭和16年嘉義中埔烈震，本廟嚴重受損。1967年地方重建廟宇，由陳專琳執篙，並與大木作司阜許銅爐、許漢珍父子合作之建築；各殿木雕裝飾題材與祭祀神明相得益彰，雕刻工藝細緻且具有深意，廟內保存蔡草如彩繪作品，具有民間藝術特色；與泰安宮迄今仍保有古香路繞境之民間信仰文化。\n具建築史或技術史之價值者：旌忠廟因震災重建，結合傳統木構造與鋼筋混凝土構築工法，為戰後臺灣廟宇營造過度之典型，呈現構造史獨特之歷時性，具營造技術史之價值。",
+    "lawsReference": "符合《歷史建築紀念建築登錄廢止審查及輔助辦法》第2條第1款、第2款之基準。",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "govInstitution": "臺南市文化資產管處",
+    "govDeptName": "有形文化資產組",
+    "govDeptPhone": "06-2213597 分機207",
+    "govDeptAddress": "臺南市中西區中正路5巷1號三樓",
+    "cadasters": [
+        {
+            "fileid": 280650,
+            "name": "附圖-歷史建築-下茄苳旌忠廟.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2025-02-10/40985b89-db83-4bb2-a0cb-7c63b594a4d1/附圖-歷史建築-下茄苳旌忠廟.pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isOpenDownload": false,
+    "longitude": 120.36338886276992,
+    "latitude": 23.351646576842526,
+    "representImageSource": "業務單位同仁攝影",
+    "landScope": "本市後壁區嘉苳段322地號、沿322地號東側地籍線向北延伸劃設部分318地號土地為定著土地範圍，面積約1082.9平方公尺。",
+    "selfCoverage": "旌忠廟，含三川殿、正殿及後殿，面積約327.24平方公尺。",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "後壁區",
+            "id": 147881,
+            "caseId": 23180,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1627,
+            "address": "下茄苳69號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺南市",
+            "distName": "後壁區",
+            "landNoName": "嘉苳段",
+            "noncityLandUseTypeName": "鄉村區",
+            "id": 204036,
+            "caseId": 23180,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1627,
+            "landNoId": 2901,
+            "landSerialNo": "322",
+            "landownership": 2,
+            "noncityLandUseTypeId": 4,
+            "coverageId": 2,
+            "area": "691.86",
+            "noncityLandUseTypeOther": "乙種建築用地",
+            "note": "",
+            "cityLandUseId": 2
+        },
+        {
+            "cityName": "臺南市",
+            "distName": "後壁區",
+            "landNoName": "嘉苳段",
+            "noncityLandUseTypeName": "鄉村區",
+            "id": 204037,
+            "caseId": 23180,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1627,
+            "landNoId": 2901,
+            "landSerialNo": "318",
+            "landownership": 2,
+            "noncityLandUseTypeId": 4,
+            "coverageId": 1,
+            "area": "391.04",
+            "noncityLandUseTypeOther": "乙種建築用地",
+            "note": "",
+            "cityLandUseId": 2
+        }
+    ],
+    "announces": [
+        {
+            "id": 160616,
+            "caseId": 23180,
+            "caseStatus": true,
+            "registerDate": 1738985762078,
+            "officialDocNo": "南市文資字第1140192632A號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.36353016453889,23.351718038047746],[120.36355208541137,23.351625044949373],[120.36330506119913,23.351576683415438],[120.36327813365278,23.35172987744996],[120.36328922830238,23.35183593959345],[120.36349365270964,23.351872912173626],[120.36353016453889,23.351718038047746],[120.36353016453889,23.351718038047746]]]]},\"properties\":{\"envelope\":{\"left\":\"120.36327813365278\",\"top\":\"23.351576683415438\",\"right\":\"120.36355208541137\",\"bottom\":\"23.351872912173626\"},\"landLot\":\"臺南市後壁區嘉苳段322\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.3635756814648,23.351723269372016],[120.36353016453889,23.351718038047746],[120.36349365270964,23.351872912173626],[120.36328922830238,23.35183593959345],[120.36329193399655,23.351874762731914],[120.36328977743081,23.35202137322864],[120.3634885057736,23.352048180495018],[120.3635756814648,23.351723269372016],[120.3635756814648,23.351723269372016]]]]},\"properties\":{\"envelope\":{\"left\":\"120.36328922830238\",\"top\":\"23.351718038047746\",\"right\":\"120.36357568146479\",\"bottom\":\"23.352048180495018\"},\"landLot\":\"臺南市後壁區嘉苳段318\"}}],\"notfound\":[]}]",
+    "openVisitType": "",
+    "pastHistorySource": "臺南市列冊追蹤標的後壁區「下茄苳旌忠廟」先期調查研究案"
+}

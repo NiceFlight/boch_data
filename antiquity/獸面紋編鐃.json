@@ -1,0 +1,102 @@
+{
+    "id": 3919,
+    "caseId": "20121112000043",
+    "count": 279,
+    "shareCount": 0,
+    "representImage": 6727,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32905/photo/00a8778d-59c4-44ec-ae6b-4eb9093ec8b0_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32905/photo/00a8778d-59c4-44ec-ae6b-4eb9093ec8b0.JPG",
+        "name": "00a8778d-59c4-44ec-ae6b-4eb9093ec8b0"
+    },
+    "caseName": "獸面紋編鐃",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1352649600000,
+    "officialDocNo": "文授字第10120135331號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要藝術造詣或科學成就",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "此編鐃三件成組，是殷商典型定例。腹飾獸面紋，大小共三件，紋飾相同，大小相序。《周禮》：「金鐃止鼓」，也標示此組編鐃在樂器史上特殊的功能。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第1、4、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局 ",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "購銅000104-購銅000106",
+    "amount": 3,
+    "notes": "",
+    "descAge": "商",
+    "descSize": "（一）通高19.5cm、口徑15.7×10.9cm；（二）通高16.5cm、口徑13.19.1cm；（三）通高13.2cm、口徑10.5×7.3cm。",
+    "descMaterial": "銅",
+    "reserveStatusDesc": "腹飾獸面紋，大小共三件，紋飾相同，大小相序，可能成套。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 150850,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-20/73e0d92a-c53a-42bd-955c-84086956b8d3/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71215,
+            "caseId": 3919,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 75581,
+            "caseId": 3919,
+            "caseStatus": true,
+            "registerDate": 1352649600000,
+            "officialDocNo": "文授字第10120135331號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

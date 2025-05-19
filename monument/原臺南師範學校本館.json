@@ -1,0 +1,114 @@
+{
+    "id": 558,
+    "caseId": "20020625000001",
+    "count": 2528,
+    "shareCount": 0,
+    "representImage": 284394,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2025-04-25/1b960bc4-2637-4398-afc1-66e1cc812176/古068原臺南師範學校本館_P002_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2025-04-25/1b960bc4-2637-4398-afc1-66e1cc812176/古068原臺南師範學校本館_P002.jpg",
+        "name": "古068原臺南師範學校本館_P002"
+    },
+    "caseName": "原臺南師範學校本館",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "建築物",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "registerDate": 1024934400000,
+    "officialDocNo": "南市文維第09102229670號",
+    "documents": [
+        {
+            "fileid": 158148,
+            "name": "原臺南師範學校本館公告91.6.25.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-07/3a352d31-2019-4266-aa20-93659de09c9f/原臺南師範學校本館公告91.6.25.pdf"
+        },
+        {
+            "fileid": 158633,
+            "name": "臺南縣市合併後縣定市定重新公告100.6.24.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-08/78b04c6a-aa0c-41ec-a69b-df61db416200/臺南縣市合併後縣定市定重新公告100.6.24.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值"
+    ],
+    "registerReason": "公告無資料",
+    "lawsReference": "「文化資產保存法」第 27 條、內政部「古蹟指定審查處理要點」及本市古蹟暨歷史建築審查委員會91年4月30 日審查會議決議",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "中西區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569 ",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 158150,
+            "name": "原臺南師範學校本館(地).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-04-07/5864b962-986c-47fc-890b-e5e08df5b53d/原臺南師範學校本館(地).pdf"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "中西區南寧段240地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "wenSitename": "臺南旅遊網",
+    "wenSiteaddress": "https://www.twtainan.net/zh-tw/Attractions/Detail/750/%E5%9C%8B%E7%AB%8B%E5%8F%B0%E5%8D%97%E5%A4%A7%E5%AD%B8-%E5%8E%9F%E5%8F%B0%E5%8D%97%E5%B8%AB%E7%AF%84%E5%AD%B8%E6%A0%A1%E6%9C%AC%E9%A4%A8-",
+    "belongAddress": "台南市樹林街二段３３號",
+    "isOpenDownload": false,
+    "longitude": 120.207808,
+    "latitude": 22.984763,
+    "representImageSource": "臺南市政府",
+    "landScope": "臺南市南寧段240地號內",
+    "selfCoverage": "公告無資料",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "id": 148846,
+            "caseId": 558,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601,
+            "address": "樹林街二段33號"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 161853,
+            "caseId": 558,
+            "caseStatus": true,
+            "registerDate": 1024934400000,
+            "officialDocNo": "南市文維第09102229670號",
+            "classificationId": 1
+        },
+        {
+            "id": 161854,
+            "caseId": 558,
+            "caseStatus": true,
+            "registerDate": 1308844800000,
+            "officialDocNo": "府文資處字第1000393784號",
+            "classificationId": 2,
+            "note": "直轄市升格"
+        }
+    ],
+    "openVisitType": "完全開放參觀",
+    "openUpTime": "洽學校",
+    "isCharge": false,
+    "pastHistorySource": "待修復或再利用計畫完成後填列"
+}

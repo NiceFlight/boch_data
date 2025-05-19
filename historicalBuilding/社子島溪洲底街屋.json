@@ -1,0 +1,113 @@
+{
+    "id": 17787,
+    "caseId": "20200902000004",
+    "count": 1894,
+    "shareCount": 0,
+    "representImage": 205130,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/4ff88235-7f38-4f49-93c7-f3fd4d7e895f/代表圖像_社子島溪洲底街屋_20221025_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/4ff88235-7f38-4f49-93c7-f3fd4d7e895f/代表圖像_社子島溪洲底街屋_20221025.jpg",
+        "name": "代表圖像_社子島溪洲底街屋_20221025"
+    },
+    "caseName": "社子島溪洲底街屋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "興建背景:\n溪洲底街屋所在之土地屬興建燕樓李家祖厝之李正家族所有，建築則屬其他姓氏家族興建。其土地原為溪洲底633番之2，昭和15年（1940）由旱田地申請變更為建築基地。\n建築特色:\n建築為閩南街屋形式，兩戶之間為共同壁，基礎為石砌基礎，騎樓本體墊高設有臺階，磚木混合構造，由磚砌柱以及壽樑支撐，外牆有騎樓空間，屋頂部分採用閩南瓦。34號正門上有門額。兩戶的正門為傳統雙開木板門，門兩側的窗戶為上下推拉窗，窗戶上方設有壽字氣窗，側面牆設有磚造直櫺窗。\n",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 71750,
+            "name": "04 公告-社子島溪州底街屋 歷史建築.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/d9112817-2e37-46e4-a50c-4e5650f31334/04 公告-社子島溪州底街屋 歷史建築.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者"
+    ],
+    "registerReason": "1.建物為街屋形式之磚造建築，座向為坐西朝東，平面格局為二戶一進形式，前有2公尺騎樓，反映在地街屋建築之特色。\n2.建物以石砌基礎抬高地坪，磚造外牆，兩戶正門兩側窗戶採用木製上下推拉窗形式，窗戶上設有壽字氣窗，出簷下方採用疊澀砌法，屋頂葺閩南瓦，具地區性特色。\n3.符合歷史建築紀念建築登錄廢止審查及輔助辦法第2條第1項第1、3款登錄基準。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 71751,
+            "name": "公告附件-地籍地形圖-街屋.docx",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/bbbb19c2-6c2f-4da8-a9e3-3d085aff5357/公告附件-地籍地形圖-街屋.docx"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "longitude": 121.49576398503106,
+    "latitude": 25.096169355359393,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市士林區建築物坐落土地為士林區溪洲段一小段388地號(部分，該筆土地面積為327平方公尺)。（實際保存面積須以保存範圍實測數據為準）",
+    "selfCoverage": "歷史建築本體為社子島溪洲底街屋建築本體(建物面積為75.794平方公尺)，建物無登記建號。（實際保存面積須以實際保存範圍實測數據為準）",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 106508,
+            "caseId": 17787,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "延平北路7段101巷32號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 106509,
+            "caseId": 17787,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "延平北路7段101巷34號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "溪洲段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 131550,
+            "caseId": 17787,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 538,
+            "landSerialNo": "388",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "327",
+            "cityLandUseTypeOther": "變更中",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 114282,
+            "caseId": 17787,
+            "caseStatus": true,
+            "registerDate": 1586275200000,
+            "officialDocNo": "北市文化文資字第10930170784號",
+            "classificationId": 1,
+            "note": "本建物位於士林社子島地區細部計畫(草案)公園用地(公十三)範圍內，得配合社子島地區開發計畫提高本建物高程。"
+        }
+    ],
+    "geojson": "[{\"address\":[{\"address\":\"1. 個案名稱: 社子島溪洲底街屋 <br />\\n      2. 地址: 延平北路7段101巷32號 <br />\\n      3. 種類: 宅第 <br />\\n      4. 指定登錄理由: 1.建物為街屋形式之磚造建築，座向為坐西朝東，平面格局為二戶一進形式，前有2公尺騎樓，反映在地街屋建築之特色。\\n2.建物以石砌基礎抬高地坪，磚造外牆，兩戶正門兩側窗戶採用木製上下推拉窗形式，窗戶上設有壽字氣窗，出簷下方採用疊澀砌法，屋頂葺閩南瓦，具地區性特色。\\n3.符合歷史建築紀念建築登錄廢止審查及輔助辦法第2條第1項第1、3款登錄基準。 <br />\\n      5. 最後一筆公告日期: 2020-04-08 <br />\\n      6. 最後一筆公告文號: 北市文化文資字第10930170784號 <br />\\n      7. 管理單位: 私人 <br />\\n      8. 使用單位: 私人 <br />\\n      9. 建物狀態: 待修復 <br />\",\"lat\":25.096169355359393,\"lng\":121.49576398503106},{\"address\":\"1. 個案名稱: 社子島溪洲底街屋 <br />\\n      2. 地址: 延平北路7段101巷34號 <br />\\n      3. 種類: 宅第 <br />\\n      4. 指定登錄理由: 1.建物為街屋形式之磚造建築，座向為坐西朝東，平面格局為二戶一進形式，前有2公尺騎樓，反映在地街屋建築之特色。\\n2.建物以石砌基礎抬高地坪，磚造外牆，兩戶正門兩側窗戶採用木製上下推拉窗形式，窗戶上設有壽字氣窗，出簷下方採用疊澀砌法，屋頂葺閩南瓦，具地區性特色。\\n3.符合歷史建築紀念建築登錄廢止審查及輔助辦法第2條第1項第1、3款登錄基準。 <br />\\n      5. 最後一筆公告日期: 2020-04-08 <br />\\n      6. 最後一筆公告文號: 北市文化文資字第10930170784號 <br />\\n      7. 管理單位: 私人 <br />\\n      8. 使用單位: 私人 <br />\\n      9. 建物狀態: 待修復 <br />\",\"lat\":25.09537925490274,\"lng\":121.49537083631448}]}]",
+    "openVisitType": "",
+    "pastHistorySource": "臺北市社子島地區文化資產普查計畫"
+}

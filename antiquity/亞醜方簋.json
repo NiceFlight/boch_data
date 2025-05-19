@@ -1,0 +1,103 @@
+{
+    "id": 3880,
+    "caseId": "20121112000006",
+    "count": 699,
+    "shareCount": 0,
+    "representImage": 6688,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32866/photo/fc4cddf1-0f53-42db-a02a-277c1cec8282_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32866/photo/fc4cddf1-0f53-42db-a02a-277c1cec8282.JPG",
+        "name": "fc4cddf1-0f53-42db-a02a-277c1cec8282"
+    },
+    "caseName": "亞醜方簋",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1352649600000,
+    "officialDocNo": "文授字第10120135331號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "歷史流傳已久或史事具有深厚淵源",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本器長方腹及足，腹壁曲線方直。頸飾夔紋，器足則分飾夔紋、鳥紋，腹飾獸面紋。銘文在器底，文字纖細，為「亞醜」族徽。傳世亞醜族徽銅器約五十件，國立故宮博物院藏有十五件。亞醜族器以方形器為重要特色，此為其中之一，可與其它院藏亞醜族徽銅器，作為研究商代家族銅器之重要材料。且為清宮舊藏之商周銅器精品。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第4條第1項第1、2、5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故銅002379",
+    "amount": 1,
+    "notes": "",
+    "descAge": "西周",
+    "descSize": "高18.5cm、腹深11.7cm",
+    "descMaterial": "銅",
+    "reserveStatusDesc": "長方腹及足，腹壁曲線方直。頸飾夔紋，器足則分飾夔紋、鳥紋，腹飾獸面紋。銘文在器底，文字纖細，為「亞醜」族徽。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "器身多處舊傷補。器身有傷缺。",
+    "documents": [
+        {
+            "fileid": 150761,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-19/a699568c-fac2-4250-b1ba-3c23e0f0e960/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71149,
+            "caseId": 3880,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75495,
+            "caseId": 3880,
+            "caseStatus": true,
+            "registerDate": 1352649600000,
+            "officialDocNo": "文授字第10120135331號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

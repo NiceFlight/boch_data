@@ -1,0 +1,123 @@
+{
+    "id": 16739,
+    "caseId": "20190429000001",
+    "count": 4902,
+    "shareCount": 12,
+    "representImage": 186937,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/ab774d7e-5d95-45ae-9287-b157b669cb35/代表圖像_臺大法學院＿20220621 _c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/ab774d7e-5d95-45ae-9287-b157b669cb35/代表圖像_臺大法學院＿20220621 .jpeg",
+        "name": "代表圖像_臺大法學院＿20220621 "
+    },
+    "caseName": "臺大法學院",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "「臺大法學院」係日治時期原臺北高等商業學校，是臺灣早期高等教育學府之一；1946年為法商學院後再併入臺大，而為臺大法學院，培育人才甚多，對臺灣近代社會發展影響深遠。",
+    "assetsTypeNames": "學校",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 57872,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-04-29/07a0fa32-4159-4f89-a27f-83c4cb667165/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "各時代表現地方營造技術流派特色者",
+        "具稀少性，不易再現者"
+    ],
+    "registerReason": "1.「臺大法學院」建於係日治時期原臺北高等商業學校，是臺灣早期高等教育學府之一；1946年為法商學院後再併入臺大，而為臺大法學院，培育人才甚多，對臺灣近代社會發展影響深遠。\n2.「行政大樓」採合院式平面，仿歐洲折衷主義風格外觀及特殊的大禮堂空間。「二排二層樓清水紅磚教室」以清水紅磚及洗石子為主要外觀用材，作法簡潔俐落細部的鑄鐵柱、木樓梯等作工精緻現況保存良好，在臺灣近代建築中極為罕見，具建築價值。\n3.「圖書館」由著名建築師王大閎先生設計，梁柱皆以斬假石處理，表現樸素色彩；立面有方形類錢幣的釉花磚，做工細緻，有遮光效果；立面樓梯以洗石子仿木柱外型，具特殊性。建物以線條為主、風格簡潔，反映「現代主義」精神。\n4.「警衛室」為臺灣較為少見的木造校門警衛建築，屋頂為背心式切角頂，具歐洲木造建物風格，整體形制保存完整，具稀少性價值；建物旁校門以唭哩岸石「番仔砥」砌，柱頂有青銅燈，反映1930-40年代特色，具特殊性。",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 57870,
+            "name": "地籍地形示意圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2019-04-29/3b3d1376-34c1-4d78-b315-991432ef17e4/地籍地形示意圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "大專用地(公共設施用地)",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市中正區成功段二小段103地號（部分）",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.5250637,
+    "latitude": 25.0404822,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市中正區成功段二小段103地號（部分）",
+    "selfCoverage": "古蹟本體為校門、行政大樓、二排二層樓清水紅磚教室、心字池、警衛室、圖書館",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 93670,
+            "caseId": 16739,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "徐州路21號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "成功段二小段",
+            "cityLandUseTypeName": "行政區",
+            "id": 115291,
+            "caseId": 16739,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 141,
+            "landSerialNo": "103",
+            "landownership": 1,
+            "cityLandUseTypeId": 4,
+            "coverageId": 1,
+            "area": "23756",
+            "note": "無分割",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 101083,
+            "caseId": 16739,
+            "caseStatus": true,
+            "registerDate": 894211200000,
+            "officialDocNo": "府民三字第8702427101號函",
+            "classificationId": 1,
+            "note": "指定"
+        },
+        {
+            "id": 101082,
+            "caseId": 16739,
+            "caseStatus": true,
+            "registerDate": 1554220800000,
+            "officialDocNo": "北市文化文資字第10830145331號",
+            "classificationId": 2,
+            "note": "新增古蹟範圍"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false,
+    "pastHistorySource": "臺北古蹟巡覽（下冊）"
+}

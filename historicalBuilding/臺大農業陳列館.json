@@ -1,0 +1,114 @@
+{
+    "id": 1037,
+    "caseId": "20071009000003",
+    "count": 2872,
+    "shareCount": 4,
+    "representImage": 186596,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/514b29cd-a4be-4a4a-91a0-341a16387f83/代表圖像_臺大農業陳列館_20220617_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/514b29cd-a4be-4a4a-91a0-341a16387f83/代表圖像_臺大農業陳列館_20220617.jpg",
+        "name": "代表圖像_臺大農業陳列館_20220617"
+    },
+    "caseName": "臺大農業陳列館",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "約建於民國52年。台大校園內，大都是日據時代蓋的歐式建築，而建造洞洞館時，因為帶進撤退來台大陸人的鄉愁，用很多象徵手法投現中國式建築的風味，讓這三棟建築物「不中國，又很中國」，非常特別。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "具有歷史、文化、藝術價值之建造物",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 167161,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/dd4a55a6-941e-43ca-bcad-238645ce6e4d/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1.為現代主義在臺灣發展過程中有創造性、有地域風格且施工技術精良的作品，可見證具有學術研究之地位與價值，為台大歷史中代表戰後初期重要之一頁，具歷史建築價值。\r\n2.建築特徵除為洞洞館印象之預鑄陶罐洞版外，內部兩側一方一圓垂直梯亦是1960年代流行風格的表現，其它像格子洞結構系統、欄杆、梯間木做壁飾燈具、混凝土，皆為現代主義形式表現的綜合體，具建築史或技術史之價值。",
+    "lawsReference": "1.文化資產保存法第15 條、歷史建築登錄廢止審查及輔助辦法暨臺北市歷史建築登錄及廢止審查作業要點等相關規定。\n2.歷史建築登錄廢止審查及輔助辦法第2條第1項第3、4款登錄評定基準。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 167162,
+            "name": "downloadfile.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/22301c5e-0e16-4ccc-af67-53d245cd8748/downloadfile.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 5,
+    "cityLandUseTypeName": "文教區",
+    "locationLandNo": "臺北市大安區學府段4小段230地號部分",
+    "buildingFeatures": "中國建築的三個重要元素分別為龐大的屋頂、迴廊與挑高的基座。因此建築師張肇康於設計洞洞館時便將此三個要素用抽象的方式表現在洞洞館上，二三樓牆上的洞洞替代傳統屋頂上的琉璃瓦，橘色代表麥穗，綠色代表稻葉；一樓外側特意裸露出混凝土的柱身（為後來日本名建築師安藤忠雄的著名特色），等皆為重要的建築嘗試。",
+    "inHouseFeatures": "在一樓內部空間則面積內縮以在外形成迴廊，還有入口處的階梯設計。",
+    "buildingUsage": "良好。",
+    "buildingActualState": "保存良好。",
+    "buildingKeyMaintainItem": "哲學系館、人類系館須作測繪，未來文學院新建築之設計以延續原建築之建築語彙、開放空間格局與鄰近文學院之環境氛圍相融合為原則，並須提送本市文化資產審議委員會及本市都市設計及土地使用開發許可審議委員會審議。",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.5397264,
+    "latitude": 25.0186526,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市大安區學府段四小段230地號部分",
+    "selfCoverage": "1,573.31平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 93405,
+            "caseId": 1037,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "羅斯福路4段1號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "學府段四小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 114963,
+            "caseId": 1037,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 744,
+            "landSerialNo": "230",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "600",
+            "cityLandUseTypeOther": "臺灣大學用地（公共設施用地）",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 100828,
+            "caseId": 1037,
+            "caseStatus": true,
+            "registerDate": 1191859200000,
+            "officialDocNo": "北市文化二字第09630337100號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "專家學者"
+}

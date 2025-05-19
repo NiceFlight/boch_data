@@ -1,0 +1,109 @@
+{
+    "id": 3156,
+    "caseId": "20100201000002",
+    "count": 489,
+    "shareCount": 2,
+    "representImage": 5594,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/37999/photo/daf0b38a-139a-463e-b086-9303c38a604c_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/37999/photo/daf0b38a-139a-463e-b086-9303c38a604c.JPG",
+        "name": "daf0b38a-139a-463e-b086-9303c38a604c"
+    },
+    "caseName": "臨濟正宗歷代禪師墓碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1264953600000,
+    "officialDocNo": "高市府史博字第0990006539號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本碑於民國62年（1973）6月21日發元亨寺進行大雄寶殿興建工程時發現，依據碑刻文字內容知其為清乾隆37年（1772）三位僧侶：第一代參公、第二代成公、第四代香公之墓碑，本碑是否與元亨寺早期歷史有關，目前無其他文獻佐證，暫無法斷言。\n本碑年代久遠，具歷史、文化價值，其作為碑刻史料，對研究清代中葉台灣南部佛教之傳布提供重要線索，符合行政院文化建設委員會古物分級登錄指定及廢止審查辦法第2條所列登錄基準，經本市古物審議委員會審議通過，登錄公告為本市一般古物。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第1、2、6款",
+    "govInstitutionCode": "800",
+    "govInstitutionName": "高雄市政府",
+    "belongCityId": 18,
+    "belongCityName": "高雄市",
+    "belongDistName": "鼓山區",
+    "govInstitution": "高雄市政府文化局",
+    "govDeptName": "文化資產中心",
+    "govDeptPhone": "07-2225136",
+    "govDeptAddress": "高雄市苓雅區五福一路67號",
+    "reservationCode": "元亨寺編列中",
+    "amount": 1,
+    "notes": "",
+    "descAge": "1772",
+    "descCreator": "不詳",
+    "descSize": "73*34*9",
+    "descMaterial": "花崗岩",
+    "reserveStatusDesc": "本碑於民國62年（1973）6月21日發元亨寺進行大雄寶殿興建工程時發現，依據碑刻文字內容知其為清乾隆37年（1772）三位僧侶：第一代參公、第二代成公、第四代香公之墓碑，本碑是否與元亨寺早期歷史有關，目前無其他文獻佐證，暫無法斷言。",
+    "pastHistorySource": 7,
+    "saveEnvironment": 4,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 77908,
+            "name": "990201-高市府史博字第0990006539號公告.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-04/12484928-f7bc-4518-945f-319459b8620c/990201-高市府史博字第0990006539號公告.jpg"
+        },
+        {
+            "fileid": 77909,
+            "name": "990201-高市府史博字第0990006539號公告表.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-04/5acc0432-2b1c-4cd0-acae-a4d2fa0eeda2/990201-高市府史博字第0990006539號公告表.jpg"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 120.278481,
+    "latitude": 22.639603,
+    "representImageSource": "高雄市立歷史博物館典藏組拍攝提供",
+    "keepNames": [
+        {
+            "keepNameIdStr": "元亨寺",
+            "keepName": "元亨寺",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "元亨寺",
+            "keepAddressNew": "高雄市鼓山區元亨街7號",
+            "saveSpaceOther": "高雄市鼓山區元亨街7號",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2,
+            "keepNameCityName": "高雄市",
+            "keepNameDistName": "鼓山區",
+            "keepNameAddress": "元亨街7號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "高雄市",
+            "distName": "鼓山區",
+            "id": 148667,
+            "caseId": 3156,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1805,
+            "address": "元亨街7號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 161634,
+            "caseId": 3156,
+            "caseStatus": true,
+            "registerDate": 1264953600000,
+            "officialDocNo": "高市府史博字第0990006539號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

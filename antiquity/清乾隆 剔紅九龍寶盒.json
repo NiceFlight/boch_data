@@ -1,0 +1,95 @@
+{
+    "id": 23259,
+    "caseId": "20250306000014",
+    "count": 3,
+    "shareCount": 0,
+    "representImage": 281603,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2025-03-06/7a08dfb2-e93f-4793-8c53-b2b951c1c64e/K1H000217N000000000PAB_c.png"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2025-03-06/7a08dfb2-e93f-4793-8c53-b2b951c1c64e/K1H000217N000000000PAB.png",
+        "name": "K1H000217N000000000PAB"
+    },
+    "caseName": "清乾隆 剔紅九龍寶盒",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "1.符合一般古物指定基準第 3 款「能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者。」： 清中期風格，反映時代特色，且具時代藝術造詣。\n2.符合一般古物指定基準第 4 款「具有藝術造詣或科學成就。」：剔紅圓盒，尺寸大，漆色硃紅，鮮豔有光澤，龍紋雕飾精美，為乾隆時期雕漆，色澤鮮麗紋飾雕琢繁複為其特色。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第3、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174之1號",
+    "reservationCode": "故漆000217",
+    "amount": 1,
+    "descAge": "清乾隆",
+    "descSize": "高20.9公分，徑28.1公分，足徑18.5公分",
+    "descMaterial": "漆、木",
+    "reserveStatusDesc": "剔紅圓盒，色朱紅，鮮豔有光澤。圓形盒，直口，深壁，圈足。全器雕飾水波紋錦地與雲紋，九龍穿梭其間。器裡與底髹黑色光漆，器內有填金楷款「大清乾隆年製」，蓋內則書「九龍寶盒」。器身、口緣多處舊傷缺與舊補。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏。",
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定。",
+    "documents": [
+        {
+            "fileid": 281602,
+            "name": "114年2月12日北市文獻編字第11430008081號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2025-03-06/d9da9c98-b040-48fd-823c-edc9b47ed847/114年2月12日北市文獻編字第11430008081號公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 148026,
+            "caseId": 23259,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 160806,
+            "caseId": 23259,
+            "caseStatus": true,
+            "registerDate": 1739353573145,
+            "officialDocNo": "北市獻編字第11430008081號公告",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

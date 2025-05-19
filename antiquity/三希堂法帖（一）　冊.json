@@ -1,0 +1,97 @@
+{
+    "id": 20262,
+    "caseId": "20211215000004",
+    "count": 257,
+    "shareCount": 0,
+    "representImage": 147559,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-15/c6d764d3-2a95-4183-adc8-087566f3e637/013_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-15/c6d764d3-2a95-4183-adc8-087566f3e637/013.jpg",
+        "name": "013"
+    },
+    "caseName": "三希堂法帖（一）　冊",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "此件為乾隆12年下詔命刻，全帖三十二卷，非常難得，收錄魏晉至晚明一百五十三位藝術家的書法作品，是史上最富的叢帖。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第3、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174之1號",
+    "reservationCode": "故帖000158",
+    "amount": 1,
+    "descAge": "清",
+    "descSize": "29.7x35.4公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "《三希堂法帖》，全名為《御刻三希堂石渠寶笈法帖》，因刻入養心殿三希堂所藏王羲之〈快雪時晴帖〉、王獻之〈中秋帖〉、王珣〈伯遠帖〉等三件稀世墨寶與大量《石渠寶笈》初編法書，故名。乾隆十二年（1747）臘月下詔命刻，共收魏晉至晚明一百五十三位書家的三百多件名作，全帖三十二卷，是史上規模最大，收羅最富的叢帖。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況良好。",
+    "documents": [
+        {
+            "fileid": 147558,
+            "name": "110年12月9日北市獻編字第1103004564號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-15/dfbafb5f-92bc-4705-96b7-fc633f7e0f9c/110年12月9日北市獻編字第1103004564號公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.549499,
+    "latitude": 25.10037,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69144,
+            "caseId": 20262,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73268,
+            "caseId": 20262,
+            "caseStatus": true,
+            "registerDate": 1639018253175,
+            "officialDocNo": "北市獻編字第1103004564號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

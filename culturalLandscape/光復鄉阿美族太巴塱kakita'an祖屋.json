@@ -1,0 +1,93 @@
+{
+    "id": 2347,
+    "caseId": "20080723000004",
+    "count": 2766,
+    "shareCount": 3,
+    "representImage": 4633,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/cultural_tourism/38157/photo/372d25f6-cafd-4284-b1fc-1e78a6b47d19_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/cultural_tourism/38157/photo/372d25f6-cafd-4284-b1fc-1e78a6b47d19.JPG",
+        "name": "372d25f6-cafd-4284-b1fc-1e78a6b47d19"
+    },
+    "caseName": "光復鄉阿美族太巴塱kakita'an祖屋",
+    "classifyCode": "3.1",
+    "classifyName": "文化景觀",
+    "assetsTypeNames": "其他場域",
+    "otherAssetsType": "生活與舉行祭祀活動場所",
+    "assetsClassifyCode": "3.1.1",
+    "assetsClassifyName": "文化景觀",
+    "registerDate": 1216783288000,
+    "officialDocNo": "府文資字第09605800200號",
+    "documents": [
+        {
+            "fileid": 152955,
+            "name": "光復鄉阿美族太巴塱kakita'an祖屋登錄為文化景觀公告960212.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-02-21/fc083248-33c6-4167-97c5-af6cdade0f37/光復鄉阿美族太巴塱kakita'an祖屋登錄為文化景觀公告960212.pdf"
+        },
+        {
+            "fileid": 152956,
+            "name": "光復鄉阿美族太巴塱kakita'an祖屋更名公告970723.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-02-21/f945abc7-1dcf-4ffb-8147-65cd29225542/光復鄉阿美族太巴塱kakita'an祖屋更名公告970723.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具紀念性、代表性或特殊性之歷史、文化、藝術或科學價值",
+        "具時代或社會意義"
+    ],
+    "registerReason": "光復鄉阿美族太巴塱kakita'an祖屋為該族群生活與舉行祭祀活動場所，符合文資法文化景觀之規定。",
+    "lawsReference": "文化資產保存法第54條暨文化景觀登錄及廢止審查辦法第2條第1項第1、2、3款規定。",
+    "govInstitutionCode": "970",
+    "govInstitutionName": "花蓮縣政府",
+    "belongCityId": 23,
+    "belongCityName": "花蓮縣",
+    "belongDistName": "光復鄉",
+    "govInstitution": "花蓮縣文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-8227121-317",
+    "govDeptAddress": "花蓮縣花蓮市文復路6號",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "historyValue": "歷經日治時代皇民化政策的衝擊，以及國民政府領台後社會環境的變遷與西方宗教強勢傳入的時代潮流，kakita'an家族逐漸沒落，祖屋亦日漸荒廢。民國91年，社區總體營造與文化復振的精神喚起部落族人及家族成員對kakita'an祖屋的重視，展開重建工作。民國95年1月16日落成，重現kakita'an祖屋的傳統樣貌。",
+    "briefDescribe": "光復鄉阿美族太巴塱kakita'an祖屋為該族群生活與舉行祭祀活動場所",
+    "notes": "",
+    "belongAddress": "花蓮縣光復鄉東富段841地號",
+    "isOpenDownload": true,
+    "longitude": 121.45185761799944,
+    "latitude": 23.657157354711572,
+    "representImageSource": "花蓮縣文化局",
+    "landScope": "花蓮縣光復鄉東富段841地號，面積1143.12平方公尺",
+    "addresses": [
+        {
+            "cityName": "花蓮縣",
+            "distName": "光復鄉",
+            "id": 116725,
+            "caseId": 2347,
+            "caseStatus": true,
+            "cityId": 23,
+            "distId": 2307,
+            "address": "花蓮縣光復鄉東富段841地號"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 127447,
+            "caseId": 2347,
+            "caseStatus": true,
+            "registerDate": 1171270184989,
+            "officialDocNo": "府文資字第09605800200號",
+            "classificationId": 1
+        },
+        {
+            "id": 127448,
+            "caseId": 2347,
+            "caseStatus": true,
+            "registerDate": 1216783288000,
+            "officialDocNo": "府文資字第0970105963A號",
+            "classificationId": 1
+        }
+    ]
+}

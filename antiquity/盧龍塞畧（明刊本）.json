@@ -1,0 +1,104 @@
+{
+    "id": 3386,
+    "caseId": "20131219000010",
+    "count": 193,
+    "shareCount": 0,
+    "representImage": 5896,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7141/photo/盧龍塞略（明刊本）_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7141/photo/盧龍塞略（明刊本）.jpg",
+        "name": "盧龍塞略（明刊本）"
+    },
+    "caseName": "盧龍塞畧（明刊本）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1387382400000,
+    "officialDocNo": "文資局物字第 10220148851號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "明萬曆庚戌(三十八年，1610)新城王象乾刊本。\n明郭造卿嘗撰《燕史》，卷數甚多，縮其半而為永平志，其子應寵又重鈎纂，本諸宋志、參以史略、節縮成書，總曰《盧龍塞略》。首以圖經，次以譜表，又曰紀、曰傳、曰考、曰議，以至阨塞夷譯，基置臚列，而塞事瞭然，亦籌邊者所宜知。此書流傳甚少，刻印頗精，未聞他處藏有同版。\n此書流傳較少，明代罕見之版本，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號03790",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 6,
+    "descAge": "明萬曆庚戌(38年，1610)",
+    "descCreator": "明郭造卿著，郭應寵纂",
+    "descSize": "半葉9行，版匡21x14.8公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "二十卷，附圖一卷。明郭造卿嘗撰《燕史》，卷數甚多，縮其半而為永平志，其子應寵又重鈎纂，本諸宋志、參以史略、節縮成書，總曰《盧龍塞略》。首以圖經，次以譜表，又曰紀、曰傳、曰考、曰議，以至阨塞夷譯，基置臚列，而塞事瞭然，亦籌邊者所宜知。此書流傳甚少，刻印頗精，未聞他處藏有同版。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "經水漬、有虫蛀，已修裱。保存情況良好\n",
+    "documents": [
+        {
+            "fileid": 5897,
+            "name": "7dc77347-288f-4cc5-9bb6-d347909b465c.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44001/file/7dc77347-288f-4cc5-9bb6-d347909b465c.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3528,
+            "caseId": 3386,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3528,
+            "caseId": 3386,
+            "caseStatus": true,
+            "registerDate": 1387382400000,
+            "officialDocNo": "文資局物字第 10220148851號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

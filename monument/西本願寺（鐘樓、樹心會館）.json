@@ -1,0 +1,114 @@
+{
+    "id": 138,
+    "caseId": "20060221000001",
+    "count": 10559,
+    "shareCount": 40,
+    "representImage": 200737,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/654d2f5c-2d5b-43cd-92d2-e15368127727/原代表圖像_西本願寺（鐘樓、樹心會館_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/654d2f5c-2d5b-43cd-92d2-e15368127727/原代表圖像_西本願寺（鐘樓、樹心會館.jpg",
+        "name": "原代表圖像_西本願寺（鐘樓、樹心會館"
+    },
+    "caseName": "西本願寺（鐘樓、樹心會館）",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "樹心會館原為真宗本派本願寺之會館，初建大正十一年（1922）六月二十日，於大正十二年(1923)二月十日落成。建築之工事負責人為高瀨與助氏；監工為谷口貞吉氏。興建原由於當時本願寺為因應傳教所需，急需一棟可作為演講會場及各種活動之集合場。故趁當時御廟所建立之際繼而附帶建設。另外，由於當時臨時本堂拆除，而新築本堂尚未完成，因此亦需一替代本堂之建築，故而新建。其後由於本願寺派社會事業的推動，樹心會館而後的使用更供為樹心幼稚園、日曜日學校及青年會使用。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "其他",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 140932,
+            "name": "3.950221公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/61c0825e-634d-49c2-a87b-538a9253fac0/3.950221公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值"
+    ],
+    "registerReason": "日治時期之西本願寺為當時臺北乃至臺灣最大之日式佛寺，與東本願寺、臨濟護國禪寺、曹洞宗佛寺等共同為當時重要佛寺之建築代表，戰後本基地曾為軍方與警備總部使用，長久以來又有包括大陳島民、聯勤被服廠及中南部北上之移民居住，具有歷史及宗教學術之意義。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 140933,
+            "name": "db1941e9-9f6d-4e5d-9cc8-cbb9736cd8f8.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/57ebdd50-3ebf-48a3-927d-86a0c58d881e/db1941e9-9f6d-4e5d-9cc8-cbb9736cd8f8.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "廣場用地",
+    "locationLandNo": "萬華區漢中段2小段5地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "由臺北市工務局公園路燈工程管理處修復完成，2014年臺北市文獻委員會進駐。",
+    "buildingActualState": "由臺北市工務局公園路燈工程管理處修復完成，2014年臺北市文獻館進駐。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenDownload": false,
+    "longitude": 121.50714392608658,
+    "latitude": 25.040358281959016,
+    "representImageSource": " 臺北市文化局",
+    "landScope": "萬華區漢中段2小段5地號",
+    "selfCoverage": "鐘樓、樹心會館",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "id": 105868,
+            "caseId": 138,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "address": "中華路1段174號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "landNoName": "漢中段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 130120,
+            "caseId": 138,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "landNoId": 173,
+            "landSerialNo": "5",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "area": "8541平方公尺",
+            "cityLandUseTypeOther": "廣場用地",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 113452,
+            "caseId": 138,
+            "caseStatus": true,
+            "registerDate": 1140451200000,
+            "officialDocNo": "府文化二字第09530213900號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "openVisitType": "",
+    "openUpTime": "全日",
+    "isCharge": false,
+    "pastHistorySource": ""
+}

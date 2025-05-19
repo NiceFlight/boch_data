@@ -1,0 +1,142 @@
+{
+    "id": 21269,
+    "caseId": "20221118000001",
+    "count": 1571,
+    "shareCount": 1,
+    "representImage": 200358,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/67965ebd-c20f-404d-9e5e-af460c3e6e13/照片_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/67965ebd-c20f-404d-9e5e-af460c3e6e13/照片.jpg",
+        "name": "照片"
+    },
+    "caseName": "原馬場町區會講習堂與事務所",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "1.183號建築為原馬場町區會事務所，187、189、191、193號為講習堂及宿舍附屬建物，為日治時期馬場町戰時興建公共建築之代表。\n2.事務所牆壁下方石板、部分外牆雨淋板為原有之構造，講習堂為木構造大跨度建築，呈現日治時期木造建築之特色。\n",
+    "assetsTypeNames": "集會堂",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 200353,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/51c6b224-cbaa-4a78-b3cc-0cea63dbf5a8/公告.pdf"
+        },
+        {
+            "fileid": 200354,
+            "name": "公告勘誤表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/1fcbb51f-8a51-4a8d-9ea9-9f7c0a8a3654/公告勘誤表.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "１、183號建築為原馬場町區會事務所，187、189、191、193號為講習堂及宿舍附屬建物，為日治時期馬\n場町戰時興建公共建築之代表。\n２、事務所牆壁下方石板、部分外牆雨淋板為原有之構造，講習堂為木構造大跨度建築，呈現日治時期木\n造建築之特色。\n３、符合歷史建築紀念建築登錄廢止審查及輔助辦法第2 條第3款登錄基準。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 200355,
+            "name": "公告附件-範圍示意圖.odt",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/fa2f5c2b-3c62-46e9-b1e9-8ddaffee8a30/公告附件-範圍示意圖.odt"
+        }
+    ],
+    "isOpenVisit": false,
+    "longitude": 121.5106665,
+    "latitude": 25.0265821,
+    "representImageSource": "文化局拍攝",
+    "landScope": "坐落為中正區永昌段三小段742地號等1筆土地。土地面積383平方公尺。",
+    "selfCoverage": "243.65平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 105428,
+            "caseId": 21269,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "寧波西街183號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 105429,
+            "caseId": 21269,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "寧波西街187號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 105430,
+            "caseId": 21269,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "寧波西街189號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 105431,
+            "caseId": 21269,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "寧波西街191號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 105432,
+            "caseId": 21269,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "寧波西街193號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "永昌段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 128593,
+            "caseId": 21269,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 3,
+            "landSerialNo": "742",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "area": "383",
+            "cityLandUseTypeOther": "公園用地",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 112956,
+            "caseId": 21269,
+            "caseStatus": true,
+            "registerDate": 1665590400000,
+            "officialDocNo": "北市文化文資字第1113035208號",
+            "classificationId": 1,
+            "note": "歷史建築"
+        }
+    ],
+    "openVisitType": ""
+}

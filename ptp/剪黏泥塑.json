@@ -1,0 +1,104 @@
+{
+    "id": 17937,
+    "caseId": "20201104000003",
+    "count": 551,
+    "shareCount": 0,
+    "representImage": 137072,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-09-06/8a19daf9-9818-4bb9-9823-c42cd3c2d132/20210313-文資處拍攝_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-09-06/8a19daf9-9818-4bb9-9823-c42cd3c2d132/20210313-文資處拍攝.jpg",
+        "name": "20210313-文資處拍攝"
+    },
+    "caseName": "剪黏泥塑",
+    "classifyCode": "7.1",
+    "classifyName": "保存技術及保存者",
+    "assetsClassifyCode": "7.1.1",
+    "assetsClassifyName": "保存技術及保存者",
+    "registerDate": 1603961085597,
+    "officialDocNo": "南市文資字第1091292336A號",
+    "documents": [
+        {
+            "fileid": 74116,
+            "name": "1091029公告-剪黏泥塑.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-11-04/10c3f4a1-fa3d-4d20-873c-6a86221fa0ec/1091029公告-剪黏泥塑.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "有形文化資產之保存、修復、維護等工作不可或缺之傳統技術"
+    ],
+    "registerReason": "「剪黏泥塑」為古蹟、歷史建築中屋頂、壁堵之重要裝飾，為有形文化資產中不可或缺之傳統技術。",
+    "lawsReference": "1、「文化資產保存法」第九十六條第一、三項。\n2、「文化資產保存技術及保存者登錄認定廢止審查辦法」第二條及第四條。",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "preservers": [
+        {
+            "id": 17938,
+            "type": "個人",
+            "caseName": "王武雄",
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "caseArtistEntities": [],
+            "representImage": 183220,
+            "registrationDate": 1589385600000,
+            "patentNo": "南市文資字第1091292336A號",
+            "judgeCriteria": [
+                "充分掌握該項保存技術所需相關知識與執行程序",
+                "傳習該項保存技術之溝通及輔導能力"
+            ],
+            "registerReason": "1.\t藝師具備傳統剪黏、泥塑之材料、塑胚及黏貼技術，並熟知施作程序。\n2.\t作品數量豐富，成果獲肯定。\n3.\t致力於傳承，多次進行剪黏推廣教學。\n",
+            "lawsReference": "1、「文化資產保存法」第九十六條第一、三項。\n2、「文化資產保存技術及保存者登錄認定廢止審查辦法」第二條及第四條。",
+            "school": "王武雄從小即跟著父親王萬德四處跑工地，小學畢業後更兼差製作捏麵人（與安平林高等合作）。1966年（民國五十五年）跟隨父親在葉鬃門下習藝，至1979年（民國六十八年）獨立承做第一間廟宇。",
+            "isOpenDownload": false,
+            "representImageSource": " 臺南市文化資產管理處",
+            "contactorIsOpen": false,
+            "caseAliasName": "武雄師"
+        }
+    ],
+    "skillNote": "「剪黏泥塑」為古蹟、歷史建築中屋頂、壁堵之重要裝飾，為有形文化資產中不可或缺之傳統技術。",
+    "visitsDate": 1589445855861,
+    "description": "「剪黏」又名「剪花」，顧名思義是裝飾各種「剪」裁成形的瓷片，「黏」於灰泥的表面，是中國南方所持有的一種鑲嵌藝術，通常見於廟宇屋頂及壁堵，是先剪裁瓷片或碗片適用部分，黏貼到塑造的形態上，匠師再做細部彩繪修飾。剪黏藝術表現出廟宇五彩繽紛、光彩奪目之輝煌氣度，是廟宇建築藝術中不可或缺的一環，亦是文化資產保存或修復工作不可或缺的一項技藝。",
+    "classify": [
+        "1.1",
+        "1.2",
+        "1.3",
+        "1.4"
+    ],
+    "skillType": [
+        {
+            "id": 1,
+            "other": ""
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "臺南市文化資產處",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "id": 92656,
+            "caseId": 17937,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601
+        }
+    ],
+    "announces": [
+        {
+            "id": 99954,
+            "caseId": 17937,
+            "caseStatus": true,
+            "registerDate": 1603961085597,
+            "officialDocNo": "南市文資字第1091292336A號",
+            "classificationId": 1
+        }
+    ]
+}

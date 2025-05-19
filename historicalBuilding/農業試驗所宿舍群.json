@@ -1,0 +1,177 @@
+{
+    "id": 16320,
+    "caseId": "20181105000001",
+    "count": 3300,
+    "shareCount": 1,
+    "representImage": 170315,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/bee1cd48-7a14-4b54-b132-33811a7133f9/代表圖像_農業試驗所宿舍群_20220623_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/bee1cd48-7a14-4b54-b132-33811a7133f9/代表圖像_農業試驗所宿舍群_20220623.jpeg",
+        "name": "代表圖像_農業試驗所宿舍群_20220623"
+    },
+    "caseName": "農業試驗所宿舍群",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "「74、76」、「92、94」號各為一幢雙併建物，74號僅存牆壁，其餘建物原材料、工法保存良好，且按標準官舍形式興建，大致仍保留日式宿舍之原貌；70號為「臺灣洋菇之父」胡開仁先生寓所，其將洋菇引進臺灣並試驗成功外銷全球，具保存價值。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 51155,
+            "name": "1071015公告登錄歷史建築.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-11-05/0aa32176-a014-4b0d-aaa4-4e87c5e75890/1071015公告登錄歷史建築.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1.本建築群為農業試驗所目前僅存之宿舍，與周邊總督府農試所昆蟲部及臺大昆蟲館連結，見證臺灣農業研究發展歷程，具歷史價值。\n2.「74、76」、「92、94」號各為一幢雙併建物，74號僅存牆壁，其餘建物原材料、工法保存良好，且按標準官舍形式興建，大致仍保留日式宿舍之原貌；70號為「臺灣洋菇之父」胡開仁先生寓所，其將洋菇引進臺灣並試驗成功外銷全球，具保存價值。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第2、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 51157,
+            "name": "範圍示意圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2018-11-05/f6aa8bb2-14c1-46ac-a129-36c473830593/範圍示意圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "學校用地(公共設施用地)",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "大安區辛亥段五小段281(部分)、281-5(部分)地號等2筆土地。",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "longitude": 121.5394559,
+    "latitude": 25.0098251,
+    "representImageSource": "臺北市文化局",
+    "landScope": "大安區辛亥段五小段281(部分)、281-5(部分)地號等2筆土地。",
+    "selfCoverage": "大安區辛亥段五小段49(建物面積39.67平方公尺)、162(建物面積81.22平方公尺)、86(建物面積110.74平方公尺)、93(建物面積41.32平方公尺)建號。",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 83547,
+            "caseId": 16320,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "羅斯福路四段119巷70號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 83548,
+            "caseId": 16320,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "羅斯福路四段119巷74號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 83549,
+            "caseId": 16320,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "羅斯福路四段119巷76號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 83550,
+            "caseId": 16320,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "羅斯福路四段119巷92號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 83551,
+            "caseId": 16320,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "羅斯福路四段119巷94號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 83552,
+            "caseId": 16320,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "羅斯福路四段119巷62弄3號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "辛亥段五小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 93542,
+            "caseId": 16320,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 763,
+            "landSerialNo": "281",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "4,726平方公尺",
+            "cityLandUseTypeOther": "學校用地（公共設施用地）",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "辛亥段五小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 93543,
+            "caseId": 16320,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 763,
+            "landSerialNo": "281-5",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "290平方公尺",
+            "cityLandUseTypeOther": "學校用地（公共設施用地）",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 89727,
+            "caseId": 16320,
+            "caseStatus": true,
+            "registerDate": 1539532800000,
+            "officialDocNo": "北市文化文資字第10760226851號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": ""
+}

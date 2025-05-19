@@ -1,0 +1,121 @@
+{
+    "id": 19421,
+    "caseId": "20210703000003",
+    "count": 1810,
+    "shareCount": 0,
+    "representImage": 147414,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-13/be1ee122-8d44-485c-8505-6d0c3e0368db/DSC02687-hhy_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-13/be1ee122-8d44-485c-8505-6d0c3e0368db/DSC02687-hhy.jpg",
+        "name": "DSC02687-hhy"
+    },
+    "caseName": "原北港武德殿附屬建築",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "位在北港鎮義民路上的合作金庫旁佇立一棟木造建築，據傳早年為北港郡武德殿事務空間的附屬建築。北港鎮圓環周邊自日治初期至戰後，皆作為主要公共機關所在，諸如郡役所、公會堂和俱樂部皆位處同一街廓。 \n北港武德殿附屬建築與昭和4年（1929年）元月郡役所，昭和3年（1928年）3月公會堂，屬同一時期之建築。此建築初始為管理人員宿舍之用，戰後改為地政單位宿舍。民國104年，建築西側尚且完整，民國108年呈現傾頹現象。至於東側結構相對較西側良好，但仍屬危急必須盡快介入保存。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 120608,
+            "name": "中華民國109年03月16日 府文資二字第1093801760D號原北港武德殿附屬建築.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-06-25/693f77eb-14c0-4c0b-93b0-53eb20539f6f/中華民國109年03月16日 府文資二字第1093801760D號原北港武德殿附屬建築.pdf"
+        },
+        {
+            "fileid": 232002,
+            "name": "中華民國111年1月20日 府文資二字第1113805567C號 原北港武德殿附屬建設公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-09-26/c04b3366-7a4c-49f1-8f2b-59014b124735/中華民國111年1月20日 府文資二字第1113805567C號 原北港武德殿附屬建設公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "(一)表現地域風貌或民間藝術特色者：透過留存之武德殿附屬建築可以見證北港武德殿曾存在，具歷史性價值。\n(二)具建築史或技術史之價值者：磚木混構日式建築，型制完整，表現當時代營造特色。\n(三)具地區性建造物類型之特色者：為北港地區少數留存之較大規模日式木造建築。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "govInstitution": "雲林縣政府",
+    "govDeptName": "文化觀光處",
+    "govDeptPhone": "05-5523218",
+    "govDeptAddress": "雲林縣斗六巿雲林路二段310號",
+    "cadasters": [
+        {
+            "fileid": 122546,
+            "name": "78.北港武德殿地籍資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-07-03/e593827b-1873-46c0-91c8-c5df254742a9/78.北港武德殿地籍資料.pdf"
+        },
+        {
+            "fileid": 122547,
+            "name": "78.北港武德殿地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-07-03/a5418194-a036-4fa6-8cf2-e71a9b0dc6f8/78.北港武德殿地籍圖.pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.302475,
+    "latitude": 23.568867,
+    "representImageSource": "雲林縣政府",
+    "landScope": "建物本體面積為146.9平方尺，建物定著土地為雲林縣南陽段21-1地號之部分土地",
+    "selfCoverage": "建築物本體及部分土地面積146.9平方公尺。",
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "北港鎮",
+            "id": 115100,
+            "caseId": 19421,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1316,
+            "address": "義民路57號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "雲林縣",
+            "distName": "北港鎮",
+            "landNoName": "南陽段",
+            "id": 159631,
+            "caseId": 19421,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1316,
+            "landNoId": 12016,
+            "landSerialNo": "21-1",
+            "landownership": 1,
+            "coverageId": 1,
+            "area": "1410.87",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": "重測前：為北港段９１４．９１４－３４．９１４－５４　號\n因分割增加地號：００２１－０００１地號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 125353,
+            "caseId": 19421,
+            "caseStatus": true,
+            "registerDate": 1584288000000,
+            "officialDocNo": "府文資二字第1093801760D號",
+            "classificationId": 1
+        },
+        {
+            "id": 125354,
+            "caseId": 19421,
+            "caseStatus": true,
+            "registerDate": 1642677042425,
+            "officialDocNo": "府文資二字第1113805567C號",
+            "classificationId": 2
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.3025376682875,23.568770909291146],[120.30234868551179,23.56884118130445],[120.30233419106196,23.568846570958463],[120.30239203200829,23.56898583892151],[120.30260246912711,23.56891284741924],[120.3025376682875,23.568770909291146],[120.3025376682875,23.568770909291146]]]]},\"properties\":{\"envelope\":{\"left\":\"120.30233419106196\",\"top\":\"23.568770909291146\",\"right\":\"120.30260246912711\",\"bottom\":\"23.56898583892151\"},\"landLot\":\"雲林縣北港鎮南陽段21-1\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": "《北港武德殿附屬建築》，雲林國家文化記憶庫"
+}

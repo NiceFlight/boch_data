@@ -1,0 +1,108 @@
+{
+    "id": 17280,
+    "caseId": "20200108000009",
+    "count": 209,
+    "shareCount": 0,
+    "representImage": 64754,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-01-08/f2f12963-9408-42c2-9be1-8cc0d3f10ae5/8-故-瓷-010956_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-01-08/f2f12963-9408-42c2-9be1-8cc0d3f10ae5/8-故-瓷-010956.jpg",
+        "name": "8-故-瓷-010956"
+    },
+    "caseName": "清乾隆洋彩瓷開光山水雙耳轉頸瓶",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1577157037353,
+    "officialDocNo": "中華民國108年12月24日文授資局物字第10830139531號",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "數量特別稀少或具完整性保存意義者",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此器分三段接合，中段頸部可旋轉、附垂帶雙喜耳，圈足外撇。器外壁四面開光，各繪春夏秋冬四景圖，書乾隆所作詩文四首，四圖內並鈐「乾隆宸翰」、「惟精惟一」二篆體方印。底心留白框內書「大清乾隆年製」六字三行篆款。此器因頸部可轉動，而有標記四季的記時功能。傳世一對，道光十五年(1835)《琺瑯玻璃宜興磁胎陳設檔案》著錄為「瓷胎洋彩山水詩意雙喜尊貳件」，據此可追溯出乾隆八年皇帝降旨配匣收藏的經過，益顯珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故瓷010956",
+    "amount": 1,
+    "descAge": "清　乾隆",
+    "descSize": "高25、口徑12.2、底徑12 公分",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "侈口唇邊，寬頸分上下段，下段可轉動，兩側飾雙耳。碩腹，矮圈足。胎體厚重，器外彩繪藍地錦上添花紋樣，間佈四個開光，內畫四季山水及詠景御製詩。詩句分別為：「春到人間饒富麗，柳煙花雨總宜人。」「風縐縠紋迴遠瀨，霞堆峰勢暎明川。」「澹月梧桐影，輕風蘿薜香。」「梅帳春融雪，松窗月舞龍。」句末描繪硃紅「乾隆宸翰」和「惟精惟一」兩篆體方印。底有青花書「大清乾隆年製」六字三行篆款。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "乾隆八年皇帝降旨配匣收藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "器腹近圈足處有舊刮痕。",
+    "documents": [
+        {
+            "fileid": 144795,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-15/0b83a996-37db-48ef-ad68-8de9d64c7f88/公告.pdf"
+        },
+        {
+            "fileid": 144796,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-15/f19d73a9-a697-4e3f-aa62-f52f16120f44/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "11143臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 67400,
+            "caseId": 17280,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 71600,
+            "caseId": 17280,
+            "caseStatus": true,
+            "registerDate": 1577157037353,
+            "officialDocNo": "中華民國108年12月24日文授資局物字第10830139531號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

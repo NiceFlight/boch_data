@@ -1,0 +1,118 @@
+{
+    "id": 3281,
+    "caseId": "20160525000001",
+    "count": 759,
+    "shareCount": 0,
+    "representImage": 150126,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-01-11/f3c794c6-86f2-4552-8e06-c8630623d8ac/西寧寺不動明王_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-01-11/f3c794c6-86f2-4552-8e06-c8630623d8ac/西寧寺不動明王.jpg",
+        "name": "西寧寺不動明王"
+    },
+    "caseName": "西寧寺不動明王",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-其他",
+    "otherAssetsType": " ",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1464105600000,
+    "officialDocNo": "府文資字第1050097632A號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.西寧寺不動明王係日治時代所保留至今之文物，見證日治時期的殖民歷史及宗教信仰發展。\n2.不動明王神像雕工細膩，栩栩如生，保存良好，花蓮地區如此大型的木刻不動明王神像，僅餘碧蓮寺與西寧寺二尊，具有珍貴及稀有性。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第2條第1項第1、5、6款",
+    "govInstitutionCode": "970",
+    "govInstitutionName": "花蓮縣政府",
+    "belongCityId": 23,
+    "belongCityName": "花蓮縣",
+    "belongDistName": "吉安鄉",
+    "govInstitution": "花蓮縣文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-8227121-321",
+    "govDeptAddress": "花蓮縣花蓮市文復路6號",
+    "reservationCode": " ",
+    "amount": 1,
+    "notes": "但因西寧寺刻正有兩方進行產權訴訟中，俟所有權經司法訴訟確認後再行公告。(註:西寧寺產權已確認，負責人為陳宇宏先生，寺廟登記:花寺登字第147號)",
+    "descAge": " ",
+    "descSize": "長56cm，寬43cm，高102cm。",
+    "descMaterial": "木製，頂有七髻，頭左垂一辮髮，眼與齒上有橘色，下唇咬上唇，右手持劍，左手持索，色青黑，坐大盤石。",
+    "reserveStatusDesc": "西寧寺不動明王係日治時代所保留至今之文物，其雕工細膩、栩栩如生且保存良好，在花蓮地區如此大型的不動明王神像僅餘碧蓮寺與西寧寺兩尊，見證日治時期的殖民歷史及宗教信仰發展。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "日治時期，保存於花蓮西寧寺。",
+    "saveEnvironment": 4,
+    "saveEnvironmentNotes": "花蓮西寧寺",
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 163192,
+            "name": "西寧寺不動明王登錄為一般古物公告1050525.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-10/234bf03f-5182-4cbc-8196-f8f382d89851/西寧寺不動明王登錄為一般古物公告1050525.pdf"
+        },
+        {
+            "fileid": 163193,
+            "name": "西寧寺不動明王更正主要材質及特徵及公告標題一、二公告1050613.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-10/72302882-b1ed-475d-a9f7-c6901697fafa/西寧寺不動明王更正主要材質及特徵及公告標題一、二公告1050613.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 121.52353,
+    "latitude": 23.94854,
+    "representImageSource": "花蓮縣文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "西寧寺",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "花蓮縣吉安鄉 干城村吉安路6段839號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "花蓮縣",
+            "distName": "吉安鄉",
+            "id": 116037,
+            "caseId": 3281,
+            "caseStatus": true,
+            "cityId": 23,
+            "distId": 2304,
+            "address": "干城村吉安路6段839號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 126590,
+            "caseId": 3281,
+            "caseStatus": true,
+            "registerDate": 1464105600000,
+            "officialDocNo": "府文資字第1050097632A號",
+            "classificationId": 1
+        },
+        {
+            "id": 126591,
+            "caseId": 3281,
+            "caseStatus": true,
+            "registerDate": 1465798067678,
+            "officialDocNo": "府文資字第1050106376A號",
+            "classificationId": 2
+        }
+    ],
+    "isPublic": false
+}

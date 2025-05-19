@@ -1,0 +1,86 @@
+{
+    "id": 3024,
+    "caseId": "20130726000009",
+    "count": 622,
+    "shareCount": 0,
+    "representImage": 5430,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7393/photo/牛罵頭遺址界牆剝取物_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7393/photo/牛罵頭遺址界牆剝取物.jpg",
+        "name": "牛罵頭遺址界牆剝取物"
+    },
+    "caseName": "牛罵頭遺址界牆剝取物",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-其他",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1374768000000,
+    "officialDocNo": "府授文資二字第1020143800號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "具有牛罵頭文化(4500-3400B.P.）、營埔文化(3400-2000B.P.)、番仔園文化(2000-400B.P.）三種史前文化層序與歷史時期荷治、清領、日治與光復以來之文化層序，得見證歷史多樣性發展之文化層遺址。",
+    "lawsReference": "文化資產保存法第65條\r\n古物分級登錄指定及廢止審查辦法第5、7條",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "清水區",
+    "keepNameId": 17,
+    "keepName": "臺中市文化資產處",
+    "keepNameNew": 17,
+    "keepAddressNew": "臺中市清水區 牛罵頭遺址文化園區",
+    "amount": 1,
+    "reserveStatusDesc": "1.年代：具有牛罵頭文化(4500-3400B.P.）、營埔文化(3400-2000B.P.)、番仔園文化(2000-400B.P.）三種史前文化層序與歷史時期荷治、清領、日治與光復以來文化層序\r\n2.規格：長430cm，寬190cm，高225cm。\r\n3.材質：土質與鵝卵石堆積之文化層\r\n4.形制：史前文化建物牆面堆積層\r\n5.來源：遺址出土物",
+    "reserveStatus": "完整良好 ",
+    "documents": [],
+    "isOpenDownload": true,
+    "belongAddress": "牛罵頭遺址文化園區",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "臺中市文化資產處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺中市清水區 牛罵頭遺址文化園區",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "清水區",
+            "id": 3161,
+            "caseId": 3024,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1026,
+            "address": "牛罵頭遺址文化園區"
+        }
+    ],
+    "announces": [
+        {
+            "id": 3161,
+            "caseId": 3024,
+            "caseStatus": true,
+            "registerDate": 1374768000000,
+            "officialDocNo": "府授文資二字第1020143800號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

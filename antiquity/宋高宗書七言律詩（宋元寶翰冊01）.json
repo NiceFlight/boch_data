@@ -1,0 +1,111 @@
+{
+    "id": 4127,
+    "caseId": "20110422000051",
+    "count": 247,
+    "shareCount": 0,
+    "representImage": 7045,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/34915/photo/604b46c6-ac6c-4e67-927f-0addd82fd3c8_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/34915/photo/604b46c6-ac6c-4e67-927f-0addd82fd3c8.jpg",
+        "name": "604b46c6-ac6c-4e67-927f-0addd82fd3c8"
+    },
+    "caseName": "宋高宗書七言律詩（宋元寶翰冊01）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1303401600000,
+    "officialDocNo": "會授資籌二字10020040353號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事重要淵源",
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "此件宋高宗寫杜甫詩，筆法圓勁，格調高雅，是存世高宗書法精好之作。",
+    "lawsReference": "1. 「文化資產保存法」第六十六條。\n2. 「古物分級登錄指定及廢止審查辦法」第三條第一項第一、二、三、四、五、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故書00024900001",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descSize": "27.1 x 48.7 公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "此幅宋高宗（1107-1187）以行楷體書唐杜甫〈即事〉七言律詩，後草書署「賜億年」。從後邊幅明董其昌題跋，可知原有元趙孟頫補圖，可惜今已佚失。此幅書法風格與〈賜岳飛手敕〉接近，大約書於同時。將兩者逐字比較風格特徵後，可看出用筆與結字的特色。大致起筆、收筆或轉折，都保持中鋒圓筆，折肩多圓轉，勾挑與逆筆則稍勁銳，運筆不疾不徐，結體勻整端莊，顯現出比〈賜岳飛手敕〉較為優雅閒適的心情。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "汚漬。有損傷但狀況穩定。",
+    "documents": [
+        {
+            "fileid": 16426,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2017-11-06/b0227093-92d9-46e4-b752-9049df9563e7/公告.pdf"
+        },
+        {
+            "fileid": 152137,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-28/dd2cdb08-934b-4834-9e7d-faf6dd9b39cb/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71674,
+            "caseId": 4127,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": " 至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 76149,
+            "caseId": 4127,
+            "caseStatus": true,
+            "registerDate": 1303401600000,
+            "officialDocNo": "會授資籌二字10020040353號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

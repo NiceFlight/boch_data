@@ -1,0 +1,107 @@
+{
+    "id": 17286,
+    "caseId": "20200108000015",
+    "count": 1227,
+    "shareCount": 1,
+    "representImage": 64806,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-01-08/c0300785-81b7-4d36-8774-0e0ce35124aa/13-故-瓷-016992_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-01-08/c0300785-81b7-4d36-8774-0e0ce35124aa/13-故-瓷-016992.jpg",
+        "name": "13-故-瓷-016992"
+    },
+    "caseName": "北宋定窯黑釉鷓鴣斑碗",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1577168153547,
+    "officialDocNo": "中華民國108年12月24日文授資局物字第10830139531號",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "數量特別稀少或具完整性保存意義者",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此器侈口，淺壁上豐下削，尖底，小圈足。胎骨堅薄，釉潤如鏡。內部釉色純黑，遍佈赭紅色斑點。外面略帶淺褐，口緣現黃褐色邊。底足均露灰胎，加塗赭色薄汁，一件口鈐銅\n邊。\n鷓鴣斑為黑釉器釉彩裝飾中的重要特色，並為宋代帝王、士大夫為文頌讚。「鷓鴣斑」之名即追取北宋蘇軾、黃庭堅所讚譽的茶碗「建安瓷碗鷓鴣斑」、「鷓鴣斑中吸春露」、「金縷鷓鴣斑」的詩意。此件作品鷓鴣斑清晰，為同型器中精彩之作，益顯珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故瓷016992",
+    "amount": 1,
+    "descAge": "北宋",
+    "descSize": "高5.7、口徑20.4、底徑4.7公分",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "大撇口淺碗、斜壁、小圈足，全器壁薄而輕，足壁銳直微外斜，底挖不足肩。釉色黑亮烏金僅施及壁足交接處；圈足無釉處露白胎，胎骨堅薄，胎外似曾施褐色汁；足裡略施釉不勻。器內滿佈自裡心放射向外的醬柿色點，係以另種含鐵顏料點繪成，筆觸鮮明。外壁黑中帶黃褐色暈斑，偶出一二鐵繪線。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "器身舊刮痕。",
+    "documents": [
+        {
+            "fileid": 144780,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-15/6bfe3783-b2f3-4bae-a172-709e2c53820d/公告.pdf"
+        },
+        {
+            "fileid": 144781,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-15/67557e35-9f5d-442e-ae39-ef53fa77e59f/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "11143臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 67393,
+            "caseId": 17286,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 71593,
+            "caseId": 17286,
+            "caseStatus": true,
+            "registerDate": 1577168153547,
+            "officialDocNo": "中華民國108年12月24日文授資局物字第10830139531號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

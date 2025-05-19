@@ -1,0 +1,98 @@
+{
+    "id": 20254,
+    "caseId": "20211214000005",
+    "count": 293,
+    "shareCount": 1,
+    "representImage": 147528,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-14/9190eb1b-7bc1-47af-8dcb-be3e19c53b3c/005_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-14/9190eb1b-7bc1-47af-8dcb-be3e19c53b3c/005.jpg",
+        "name": "005"
+    },
+    "caseName": "石渠寶笈三十六卷附三卷(故殿000009-000047)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "數量稀少者"
+    ],
+    "registerReason": "石渠寶笈為乾隆敕令編輯，為清宮所藏書畫編藏目錄，內容描述書畫尺寸、印鑑及畫面，並記錄清宮藏品歷史脈絡等重要訊息，具有學術研究價值。此書並未刊行，作為後人研究中國書畫藝術史、清代宮廷史、文物收藏史的重要文獻，是非常珍貴的資料。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、3、5款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174之1號",
+    "reservationCode": "故殿000009-000047",
+    "amount": 39,
+    "descAge": "清乾隆間內府寫本",
+    "descSize": "版框18.2x13.3公分，書冊27.6x17.5公分",
+    "descMaterial": "紙墨絹",
+    "reserveStatusDesc": "《石渠寶笈》乃清代宮廷鑑藏歷代書畫名蹟之專門著作暨藏品目錄。自乾隆九年（1744）二月迄翌年十月，由一批兼擅書畫特長的詞臣，進行鑑別書畫與考訂編目工作。全書先按書畫庋貯處所歸類，再以冊、卷、軸等形制著錄書、畫、書畫合璧等藏品，每件分標上、次等第，並詳實載錄材質、書體、作者款識圖章、後人題跋印記、裝褙、尺寸等訊息，多所稽考，誠為後人研究中國書畫藝術史、清代宮廷史、文物收藏史的重要學術文獻。此書並未刊行，目前考知僅存少數內府稿、鈔本傳世，頗具歷史文物價值。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "1.卷帙完整，按乾清宮、養心殿、重華宮、御書房四處編次分卷，附錄畫禪室、三希堂、長春書屋……等九處。\n2.全書分別由數人繕錄於刷印朱色版框之紙張，句讀處皆鈐以小朱圈。每冊前副葉或目錄前鈐蓋「養心殿寶」闊邊朱文方璽（10.x10.7公分），是為陳設於養心殿內之副本。\n3.第8、23、38冊書頁、絹面蟲蛀破損情形較為嚴重，其餘各冊皆有程度不一之霉斑、蟲蛀、破損。部分書冊曾修補絹面、重加包角裝訂，第17-21冊全部重新托裱。\n",
+    "documents": [
+        {
+            "fileid": 147527,
+            "name": "110年12月9日北市獻編字第1103004564號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-14/1734a891-9b9b-4109-9581-2b43f9531d6b/110年12月9日北市獻編字第1103004564號公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69136,
+            "caseId": 20254,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73260,
+            "caseId": 20254,
+            "caseStatus": true,
+            "registerDate": 1639042630893,
+            "officialDocNo": "北市獻編字第1103004564號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

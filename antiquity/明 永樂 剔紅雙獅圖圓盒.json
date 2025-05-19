@@ -1,0 +1,99 @@
+{
+    "id": 23353,
+    "caseId": "20250507000005",
+    "count": 22,
+    "shareCount": 0,
+    "representImage": 285554,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2025-05-07/eb1dac19-8bc9-43ce-bc59-9a2224043fdf/圓盒_c.png"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2025-05-07/eb1dac19-8bc9-43ce-bc59-9a2224043fdf/圓盒.png",
+        "name": "圓盒"
+    },
+    "caseName": "明 永樂 剔紅雙獅圖圓盒",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "一、此件圓盒為扁圓形子母口設計，底圈足，盒身髹以紅褐色漆，色調溫潤和諧微透光的質感與高雅氣韻，盒蓋上的雕刻雙獅戲球紋飾，此一母題可見於元代器物及明代瓷器與琺瑯器，為極具代表性的裝飾題材，雙獅動態靈活並環繞的雲紋相互交織，層次豐富且和諧。畫面整體生氣盎然，細節處更展現工匠對動物形態的深刻理解與技藝的純熟。\n二、此圓盒保存完整，底部有「大明永樂年製」針刻款，漆色紅潤，漆層堅實，刀工精緻細膩，為明永樂朝剔紅漆器中數量稀少且保存完整之珍品。 ",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第4、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "402臺中市南區復興路三段362號",
+    "reservationCode": "故漆000383",
+    "amount": 1,
+    "descAge": "明 永樂",
+    "descSize": "高4.4公分 徑10.6公分",
+    "descMaterial": "漆、木",
+    "reserveStatusDesc": " ",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定",
+    "documents": [
+        {
+            "fileid": 285538,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2025-05-07/d8903795-a755-4964-8005-2b942b02d29a/公告.pdf"
+        },
+        {
+            "fileid": 285629,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2025-05-07/0dee3573-a8b5-440c-a99f-994bf8feed3a/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 149223,
+            "caseId": 23353,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 162276,
+            "caseId": 23353,
+            "caseStatus": true,
+            "registerDate": 1746115200000,
+            "officialDocNo": "文授資局物字第11430042561號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

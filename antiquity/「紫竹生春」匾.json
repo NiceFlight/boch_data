@@ -1,0 +1,107 @@
+{
+    "id": 18122,
+    "caseId": "20210111000001",
+    "count": 545,
+    "shareCount": 0,
+    "representImage": 5602,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7126/photo/「紫竹生春」匾_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7126/photo/「紫竹生春」匾.jpg",
+        "name": "「紫竹生春」匾"
+    },
+    "caseName": "「紫竹生春」匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-其他,生活及儀禮器物-信仰及儀禮器物,圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "otherAssetsType": "牌匾",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1392048000000,
+    "officialDocNo": "高市府文博字第10370048000號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.見證黃教事件，具有史事淵源，符合「古物分級登錄指定及廢止審查辦法」第2條第1項登錄基準。\r\n2.表現文字性文化資產的價值，「紫竹生春」四字，年代雖已久遠，但保存良好，行楷書文體，用筆厚實，表現書法藝術，符合「古物分級登錄指定及廢止審查辦法」第2條第6項登錄基準。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第1、6款",
+    "govInstitutionCode": "800",
+    "govInstitutionName": "高雄市政府",
+    "belongCityId": 18,
+    "belongCityName": "高雄市",
+    "belongDistName": "內門區",
+    "govInstitution": "高雄市政府文化局",
+    "govDeptName": "高雄市立歷史博物館",
+    "govDeptPhone": "07-5312560#236",
+    "govDeptAddress": "高雄市803鹽埕區中正四路272號",
+    "reservationCode": "紫竹寺編列中",
+    "amount": 1,
+    "notes": "",
+    "descAge": "清乾隆34年(1769年)",
+    "descSize": "長200公分、寬46公分、厚4公分",
+    "descMaterial": "木質",
+    "reserveStatusDesc": "此匾中含上款、下款及正詞三個部分，上款書明贈與時間「乾隆己丑清和穀旦」，下款言告贈與人「水師提督吳必達敬題」，正詞則為主文，以行楷書字體配合陽刻技法刻有「紫竹生春」四字，塗佈深色底漆搭配貼金字體，無裝飾邊框。",
+    "pastHistorySource": 1,
+    "saveEnvironment": 2,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 91864,
+            "name": "103年高雄市古物公告文及大會會議紀錄_page-0002.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-01-11/a774c3fe-b420-480f-92d3-93446d610387/103年高雄市古物公告文及大會會議紀錄_page-0002.jpg"
+        },
+        {
+            "fileid": 91865,
+            "name": "103年高雄市古物公告文及大會會議紀錄_page-0004.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-01-11/76b92b20-5ec4-4fcd-95ec-ddf2637d2940/103年高雄市古物公告文及大會會議紀錄_page-0004.jpg"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.455605,
+    "latitude": 22.9173909,
+    "representImageSource": "內門紫竹寺",
+    "keepNames": [
+        {
+            "keepNameIdStr": "內門紫竹寺",
+            "keepName": "內門紫竹寺",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "內門紫竹寺",
+            "keepAddressNew": "高雄市內門區中正路115巷18號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2,
+            "keepNameCityName": "高雄市",
+            "keepNameDistName": "內門區",
+            "keepNameAddress": "中正路115巷18號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "高雄市",
+            "distName": "內門區",
+            "id": 130582,
+            "caseId": 18122,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1832,
+            "address": "中正路115巷18號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 142245,
+            "caseId": 18122,
+            "caseStatus": true,
+            "registerDate": 1392134400000,
+            "officialDocNo": "高市府文博字第10370048000號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "臺南市七股區頂山子段123-14地號"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

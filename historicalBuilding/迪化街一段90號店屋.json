@@ -1,0 +1,179 @@
+{
+    "id": 998,
+    "caseId": "20130830000001",
+    "count": 2465,
+    "shareCount": 1,
+    "representImage": 189560,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/5a585a6d-411b-4c87-ab2c-75045b5b04ce/代表圖像_迪化街一段90號店屋_20220718 _c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/5a585a6d-411b-4c87-ab2c-75045b5b04ce/代表圖像_迪化街一段90號店屋_20220718 .jpeg",
+        "name": "代表圖像_迪化街一段90號店屋_20220718 "
+    },
+    "caseName": "迪化街一段90號店屋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本建物產權於光復前、後數度移轉，其空間曾用來經營藥行及貿易公司，與大稻埕地區之產業發展關聯甚密。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 114636,
+            "name": "3._1020830歷史建築登錄公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/8929f588-f237-44c5-9fcb-d2ed96e35745/3._1020830歷史建築登錄公告.pdf"
+        },
+        {
+            "fileid": 118569,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/9874c6fe-8f2d-425e-8e9e-a15d5255c8a5/公告表.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者"
+    ],
+    "registerReason": "1、本建物為一坎二落二過水之店仔厝，前二層樓後三層樓，格局完整且空間具變化性，為迪化街店仔厝典範之一。\r\n2、建物曾經營醫藥與貿易產業，見證迪化街地方特色產業的歷史。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、2、4款評定基準。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 114637,
+            "name": "f4b09ab4-69d6-478f-9433-e0cc99f5d4e7.gif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/d94d8c5d-a926-4dd3-8da5-ecc9a6af617b/f4b09ab4-69d6-478f-9433-e0cc99f5d4e7.gif"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "大稻埕歷史風貌特定專用區",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "大同區迪化段三小段68、69、69-1、69-2地號",
+    "buildingFeatures": "建物立面採黃色面磚",
+    "inHouseFeatures": "室內為一坎二落二過水之格局，並有天井空間。",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "保存範圍：全棟保存\r\n未來修復時建物立面與過水空間應詳加考證後回復原狀。",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.5098322,
+    "latitude": 25.0560639,
+    "representImageSource": "臺北市文化局",
+    "landScope": "大同區迪化段三小段68、69、69-1、69-2地號，249平方公尺",
+    "selfCoverage": "迪化段三小段563建號(462.68平方公尺)(實際保存面積需以保存範圍實測數據為準)",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 95063,
+            "caseId": 998,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "迪化街一段90號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 117466,
+            "caseId": 998,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 194,
+            "landSerialNo": "68",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "18",
+            "cityLandUseTypeOther": "大稻埕歷史風貌特定專用區",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 117467,
+            "caseId": 998,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 194,
+            "landSerialNo": "69",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "91",
+            "cityLandUseTypeOther": "大稻埕歷史風貌特定專用區",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 117468,
+            "caseId": 998,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 194,
+            "landSerialNo": "69-1",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "5",
+            "cityLandUseTypeOther": "大稻埕歷史風貌特定專用區",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 117469,
+            "caseId": 998,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 194,
+            "landSerialNo": "69-2",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "135",
+            "cityLandUseTypeOther": "大稻埕歷史風貌特定專用區",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 102562,
+            "caseId": 998,
+            "caseStatus": true,
+            "registerDate": 1377792000000,
+            "officialDocNo": "北市文化二字第10230387900號",
+            "classificationId": 1,
+            "note": "登錄"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "申請人提供之調查資料"
+}

@@ -1,0 +1,153 @@
+{
+    "id": 949,
+    "caseId": "20110223000001",
+    "count": 2350,
+    "shareCount": 3,
+    "representImage": 173359,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/9faed86d-e4c0-4a79-a51e-28063be15c69/代表圖像_迪化街一段96號店屋_20220707_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/9faed86d-e4c0-4a79-a51e-28063be15c69/代表圖像_迪化街一段96號店屋_20220707.jpeg",
+        "name": "代表圖像_迪化街一段96號店屋_20220707"
+    },
+    "caseName": "迪化街一段96號店屋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "由相關文史資料推估，本案建築創建於西元1860~1875年間。比較當時建築形式與材料普遍為「閩南式」傳統街屋。在日治時期（1914~1915年）大稻埕地區實施市區改正，改建為二層的「巴洛克式」牌樓厝，故於大正14年（1925年）地籍資料登記為「瓦葺煉瓦造貳階壹棟」。在昭和七年（1932年）將第一進改建為三層加強磚造建築。民國48年（1959年）增建第二進三層。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 164571,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/87574bf6-6b52-4017-961a-6c0528e3cdcc/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1、本建物建於日治時期，雖歷經多次改建，惟立面泥塑、洗石子、第一進、天井等保存尚佳，第二進立面尚保有「謙則吉」門額，具有建物保存價值。 \n2、本建物歷任屋主均以布業經營為主，臨永樂市場，可以反應當時迪化街布業的重要性。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、2、3款評定基準",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 98330,
+            "name": "迪化街一段96號店屋.gif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/57a04b83-b3de-462e-902f-c4cd786391bf/迪化街一段96號店屋.gif"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 10,
+    "nonCityLandUseTypeName": "特定專用區",
+    "locationLandNo": "台北市大同段迪化段三小段62-1、62-2、63地號（面積約164平方公尺）",
+    "buildingFeatures": "四柱三開窗，立面外觀主要為墨綠色洗石子為基調搭配灰白色洗石子，裝飾性線板簡約，四柱間採紅底鵝黃色泥塑。",
+    "inHouseFeatures": "",
+    "buildingUsage": "住商混合。",
+    "buildingActualState": "住商合一街屋，一樓作為商店使用二樓以上做為住家使用。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.509871,
+    "latitude": 25.056151,
+    "representImageSource": "臺北市文化局",
+    "landScope": "台北市大同段迪化段三小段62-1、62-2、63地號（面積約164平方公尺）",
+    "selfCoverage": "以實際測量面積為準",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 88606,
+            "caseId": 949,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "迪化街1段96號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 105641,
+            "caseId": 949,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 194,
+            "landSerialNo": "62-1",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "6",
+            "cityLandUseTypeOther": "特定專用區（一）",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 105642,
+            "caseId": 949,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 194,
+            "landSerialNo": "62-2",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "139",
+            "cityLandUseTypeOther": "特定專用區（一）",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 105643,
+            "caseId": 949,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 194,
+            "landSerialNo": "63",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "19",
+            "cityLandUseTypeOther": "特定專用區（一）",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 95611,
+            "caseId": 949,
+            "caseStatus": true,
+            "registerDate": 1298390400000,
+            "officialDocNo": "北市文化二字第10030273200號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "申請人提供之相關地籍資料"
+}

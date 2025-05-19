@@ -1,0 +1,93 @@
+{
+    "id": 1842,
+    "caseId": "20021205000006",
+    "count": 1926,
+    "shareCount": 1,
+    "representImage": 176715,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-07-27/38339d90-9b4c-428a-ae3a-50f108055fc6/D72_1432_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-07-27/38339d90-9b4c-428a-ae3a-50f108055fc6/D72_1432.jpg",
+        "name": "D72_1432"
+    },
+    "caseName": "柚仔湖聚落遺址",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "柚仔湖也稱作油仔湖，位於臺東縣綠島鄉東側海岸，是一個三面背負陡崖的海灣旁狹小平地。建立柚仔湖聚落的王姓先祖，是傳說中與陳必先最早到達綠島開發的五大姓氏之一。於清嘉慶年間自小琉球（今屏東縣小琉球鄉）遷入綠島後，先定居於燒鹼內（或稱燒金內，中寮溝出口左側一帶），輾轉遷至柴林仔，再入墾柚仔湖。\n房舍原以木竹搭建，屋頂鋪以芒草。二戰末期昭和18年（1943）至臺灣光復初期民國38年（1949）間，各戶紛紛改建。所有房舍改以咾咕石（造礁珊瑚石塊）砌牆，屋頂鋪水泥瓦。民國65年之後，柚仔湖聚落居民因交通不便，陸續遷移到公館村或遷離綠島。到民國67年時，整個聚落人口全部遷出，房舍及土地陸續皆售給台北韓姓人士。\n",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "傳統聚落類",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1039080713000,
+    "officialDocNo": "府文資字第 0910114574 號",
+    "documents": [
+        {
+            "fileid": 114997,
+            "name": "42臺東縣歷史建築公告文-柚子湖聚落遺址.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-28/a5ae5e74-0be8-43ea-828c-3411aa16f9bf/42臺東縣歷史建築公告文-柚子湖聚落遺址.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "１.柚仔湖聚遺址為綠島最古老，最典型，保留最為完整的傳統建築群，是綠島先民傳統建築藝術珍貴的遺產。\n２.研究綠島開發史及聚落發展、傳統房屋建築、居民生活的重要據點。\n",
+    "lawsReference": "1.文化資產保存法第27條之一\n2.歷史建築登錄及輔助辦法\n3.臺東縣91年11月15日歷史建築登錄審查會議決議辦理\n",
+    "govInstitutionCode": "950",
+    "govInstitutionName": "臺東縣政府",
+    "belongCityId": 22,
+    "belongCityName": "臺東縣",
+    "belongDistName": "綠島鄉",
+    "govInstitution": "臺東縣政府",
+    "govDeptName": "文化處文化資產科",
+    "govDeptPhone": "089-350129",
+    "govDeptAddress": "臺東市南京路25號",
+    "cadasters": [],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "自綠島鄉公館東段0485-0000至綠島鄉公館東段0544-0000",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "公館村柚子湖3、4、4-1、5、6、7、7-1、8、10、11、12、13、16號",
+    "isOpenVisit": true,
+    "openUpTime": "僅外部空間",
+    "isCharge": false,
+    "isOpenDownload": true,
+    "longitude": 121.508339,
+    "latitude": 22.665794,
+    "representImageSource": "111年度臺東縣文化資產個案資料同步更新維護計畫",
+    "landScope": "綠島鄉公館東段，定著土地範圍面積尚待確認。(重測鑑界中)",
+    "selfCoverage": "綠島鄉公館東段，定著土地範圍面積尚待確認。(重測鑑界中)",
+    "addresses": [
+        {
+            "cityName": "臺東縣",
+            "distName": "綠島鄉",
+            "id": 87690,
+            "caseId": 1842,
+            "caseStatus": true,
+            "cityId": 22,
+            "distId": 2202,
+            "address": "公館村柚子湖3、4、4-1、5、6、7、7-1、8、10、11、12、13、16號"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 94413,
+            "caseId": 1842,
+            "caseStatus": true,
+            "registerDate": 1039080713000,
+            "officialDocNo": "府文資字第 0910114574 號",
+            "classificationId": 1
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

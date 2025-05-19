@@ -1,0 +1,103 @@
+{
+    "id": 21590,
+    "caseId": "20230323000002",
+    "count": 908,
+    "shareCount": 1,
+    "representImage": 228340,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-07-18/4b0f910d-6634-4582-8955-056dc2ebb2af/莊敬夫「松鹿圖」_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-07-18/4b0f910d-6634-4582-8955-056dc2ebb2af/莊敬夫「松鹿圖」.jpeg",
+        "name": "莊敬夫「松鹿圖」"
+    },
+    "caseName": "莊敬夫「松鹿圖」",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有藝術造詣或科學成就",
+        "數量稀少者"
+    ],
+    "registerReason": "1.為清初乾隆年間臺南本土畫家莊敬夫之作品，其擅長以寫意的手法繪作各類主題，本幅畫作保存至今二百餘年，仍然完整，十分難得。\n2.莊敬夫為台灣文獻有記載的書畫家，作品用筆狂野粗放，後世評價高，傳世作品甚少，本幅《松鹿圖》筆法粗簡生動，構圖精妙，在清乾隆年間台灣本土畫家水墨畫作中極具代表性。\n",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第4、5款",
+    "govInstitutionCode": "540",
+    "govInstitutionName": "南投縣政府",
+    "govInstitution": "南投縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "049-2231191",
+    "govDeptAddress": "540南投市建國路135號",
+    "reservationCode": "20200010281",
+    "amount": 1,
+    "descAge": "清乾隆、嘉慶年間",
+    "descCreator": "莊敬夫",
+    "descSize": "長101/寬64（單位：公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "畫家莊敬夫這張松鹿圖水墨畫,與一般台灣前輩畫家,慣用的繪畫筆法略有不同。畫工細膩;構圖嚴謹;筆墨變化豐富;動物的造形與描繪能力甚佳。有著樸素的拙趣,也蘊藏著讀書人的文人畫氣質。他畫一棵由右向左彎曲的松樹,和兩隻在樹下休息的梅花鹿,花鹿一大一小,大的頭上長了一對美麗的鹿角,小鹿仰著頭看著牠,好像在欣賞牠俊秀的英姿。動物畫是很多畫家不敢碰觸的題材,因為不容易。本畫能畫得如此傳神實在難得。",
+    "pastHistorySource": 2,
+    "pastHistorySourceNotes": "舊藏於蕭再火前議員或其家族",
+    "saveEnvironment": 1,
+    "reserveStatus": "本幅舊傷修補，於2020年修復。",
+    "documents": [
+        {
+            "fileid": 209083,
+            "name": "莊敬夫 松鹿圖 公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-03-23/88b25af9-7e2e-42e0-a369-4efb9f7ba392/莊敬夫 松鹿圖 公告.pdf"
+        },
+        {
+            "fileid": 209103,
+            "name": "南投縣一般古物指定公告表莊敬夫「松鹿圖」.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-03-23/79c53402-8f02-47f3-9031-0fb5a7475996/南投縣一般古物指定公告表莊敬夫「松鹿圖」.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.681546,
+    "latitude": 23.90799,
+    "representImageSource": "南投縣政府文化局(拍攝者:禾影文化影像工作室)",
+    "keepNames": [
+        {
+            "keepNameIdStr": "南投縣政府文化局",
+            "keepName": "南投縣政府文化局",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "南投縣政府文化局",
+            "keepAddressNew": "南投縣南投市建國路135號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "公務設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "南投縣",
+            "keepNameDistName": "南投市",
+            "keepNameAddress": "建國路135號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "南投縣",
+            "distName": "南投市",
+            "id": 113326,
+            "caseId": 21590,
+            "caseStatus": true,
+            "cityId": 12,
+            "distId": 1201,
+            "address": "建國路135號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 123246,
+            "caseId": 21590,
+            "caseStatus": true,
+            "registerDate": 1679366334779,
+            "officialDocNo": "府授文資第1120060083號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

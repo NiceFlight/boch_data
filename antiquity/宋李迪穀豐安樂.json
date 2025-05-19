@@ -1,0 +1,100 @@
+{
+    "id": 16865,
+    "caseId": "20190627000016",
+    "count": 152,
+    "shareCount": 0,
+    "representImage": 59592,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-06-27/cd751e36-a266-4d0f-857c-4e3e4e38a586/c9.宋李迪穀豐安樂_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-06-27/cd751e36-a266-4d0f-857c-4e3e4e38a586/c9.宋李迪穀豐安樂.jpg",
+        "name": "c9.宋李迪穀豐安樂"
+    },
+    "caseName": "宋李迪穀豐安樂",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1561533758119,
+    "officialDocNo": "文授資局物字第10830067501號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "具有重要藝術造詣或科學成就"
+    ],
+    "registerReason": "本幅收於《藝苑藏真》冊第十一開，畫幅無款，舊籤題書「李迪穀豐安樂」。李迪（12-13世紀），河陽人。曾供職於北宋宣和畫院，南宋紹興間復職，歷事高宗、孝宗、光宗三朝（1127-1194），官至畫院副使。\n〈穀豐安樂〉著錄見《石渠寶笈續編》（1791-1793）以斗方格局，畫稻穗低垂，榖粒纍纍，引來四隻麻雀聚集，爭相啄食，寓意豐收安樂。\n本幅用筆細勁，含蓄而富古拙之趣，猶帶北宋院體畫古樸典雅風格餘韻，為宋代小品翎毛繪畫精品。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第3、4款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫001240-11",
+    "amount": 1,
+    "descAge": "宋",
+    "descSize": "本幅 24.2x24.2（公分）",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "本幅收在《藝苑藏真》冊第十一開，畫幅無款，舊籤題書「李迪穀豐安樂」。李迪（12-13世紀），河陽人（今河南孟州）。曾供職於北宋宣和畫院，南宋紹興間復職，歷事高宗、孝宗、光宗三朝（1127-1194），官至畫院副使。〈穀豐安樂〉著錄見《石渠寶笈續編》（1791-1793），以斗方格局，畫稻穗低垂，榖粒纍纍，引來四隻麻雀聚集，爭相啄食。對幅為乾隆御題詩。麻雀多棲息於檐瓦之間，所以又名「瓦雀」，因經常以農作物的果實為食物，所以畫雀也帶有象徵豐收安樂的寓意。此幅的用筆細勁，含蓄而富古拙之趣，猶帶有北宋院體畫古樸典雅風格的餘韻。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "舊傷補、變色。",
+    "documents": [
+        {
+            "fileid": 145943,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-24/76d91e7e-a588-42aa-8416-9b11338b1f59/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 72943,
+            "caseId": 16865,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 77837,
+            "caseId": 16865,
+            "caseStatus": true,
+            "registerDate": 1561533758119,
+            "officialDocNo": "文授資局物字第10830067501號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

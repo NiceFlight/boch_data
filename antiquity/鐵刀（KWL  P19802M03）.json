@@ -1,0 +1,108 @@
+{
+    "id": 2922,
+    "caseId": "20090121000010",
+    "count": 368,
+    "shareCount": 0,
+    "representImage": 133814,
+    "representImageInfo": {
+        "ext": "gif",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-08-23/4e785369-51c4-4238-b70c-91d0a34eb99d/A08鐵刀（KWL P19802M03）代表圖_c.gif"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-08-23/4e785369-51c4-4238-b70c-91d0a34eb99d/A08鐵刀（KWL P19802M03）代表圖.gif",
+        "name": "A08鐵刀（KWL P19802M03）代表圖"
+    },
+    "caseName": "鐵刀（KWL  P19802M03）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-其他,生活及儀禮器物-生活器物",
+    "otherAssetsType": "獵具",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1232467200000,
+    "officialDocNo": "府文資字第0980000333號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "（1）本鐵刀柄部繫有藤織物，據綁縛及裝飾功能，對呈現史前噶瑪蘭族群的工藝技術與生活智慧具代表性。\n（2）此鐵刀因刀身完整且帶木柄，為目前考古出土物中極為少見的完整標本。\n（3）對史前噶瑪蘭族群的生業文化呈現具代表性。\n（4）展現史前噶瑪蘭族群精細的工藝美學，並展現該族群文化中重要的生產方式與生活智慧，應具有中要古物之價值。",
+    "lawsReference": "「文化資產保存法」第65條、「古物分級登錄指定及廢止審查辦法」第2條",
+    "govInstitutionCode": "260",
+    "govInstitutionName": "宜蘭縣政府",
+    "belongCityId": 4,
+    "belongCityName": "宜蘭縣",
+    "belongDistName": "宜蘭市",
+    "govInstitution": "宜蘭縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-9322440#609",
+    "govDeptAddress": "宜蘭縣宜蘭市復興路二段101號",
+    "reservationCode": "KWL  P19802M03",
+    "amount": 1,
+    "notes": "",
+    "descAge": "600-200年前",
+    "descCreator": "不詳",
+    "descSize": "長36.5cm、寬5.4cm、厚1.1cm",
+    "descMaterial": "鐵、木",
+    "reserveStatusDesc": "重量:512.5g\n形狀:扁長形刀，帶木柄\n技法:鍛造，鐵刀與木柄以編織物綁縛固定",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "宜蘭縣礁溪鄉淇武蘭遺址出土",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 133813,
+            "name": "A08鐵刀（KWL P19802M03）公告公文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-08-23/bae4c4a3-051d-4144-ad60-f38a6887446a/A08鐵刀（KWL P19802M03）公告公文.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 121.744848,
+    "latitude": 24.748957,
+    "representImageSource": "宜蘭縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "宜蘭縣立蘭陽博物館",
+            "keepName": "宜蘭縣立蘭陽博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "宜蘭縣立蘭陽博物館",
+            "keepAddressNew": "宜蘭縣頭城鎮青雲路三段750號",
+            "saveSpaceIdStr": "公務設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "宜蘭縣",
+            "keepNameDistName": "頭城鎮",
+            "keepNameAddress": "青雲路三段750號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "宜蘭縣",
+            "distName": "頭城鎮",
+            "id": 116398,
+            "caseId": 2922,
+            "caseStatus": true,
+            "cityId": 4,
+            "distId": 402,
+            "address": "頭城鎮青雲路三段750號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 127091,
+            "caseId": 2922,
+            "caseStatus": true,
+            "registerDate": 1232467200000,
+            "officialDocNo": "府文資字第0980000333號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

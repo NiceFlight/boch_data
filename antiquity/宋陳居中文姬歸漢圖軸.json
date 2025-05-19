@@ -1,0 +1,111 @@
+{
+    "id": 4081,
+    "caseId": "20110422000016",
+    "count": 407,
+    "shareCount": 1,
+    "representImage": 165791,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-05-27/a7b92d16-87a0-43ad-b222-133e7fce2ab4/K2A000849N000000000PAA_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-05-27/a7b92d16-87a0-43ad-b222-133e7fce2ab4/K2A000849N000000000PAA.jpg",
+        "name": "K2A000849N000000000PAA"
+    },
+    "caseName": "宋陳居中文姬歸漢圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1303401600000,
+    "officialDocNo": "會授資籌二字10020040353號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "歷史流傳已久或史事具有深厚淵源",
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本件雖無具體證據是陳居中親筆，但畫中人物，均穿著宋、金服飾，且符合宋代的寫實風格，推定應出自南宋時期院畫家的精謹之作。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第四條第一項第一、二、三、四、五、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故畫000849",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descSize": "147.4 x 107.7 公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "本幅無作者款印，舊傳為陳居中（12-13世紀間）所繪。此一題材在南宋初屢可見及，原因是北宋滅亡時，徽、欽二宗一干后妃們，均遭金人所挾持。情況和蔡文姬（162-229）當年的際遇，頗有侔合處。描繪文姬歸漢故事，藉扥古以喻今，正好呼應了南宋朝野祈盼皇帝歸來的心情。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "折裂、傷補、霉傷、汚漬。有損傷但狀況穩定。",
+    "documents": [
+        {
+            "fileid": 16411,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2017-11-06/dcec4d6f-fc83-4881-823f-cc6bd8b5ccee/公告.pdf"
+        },
+        {
+            "fileid": 152041,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-27/124b7d27-8074-4e45-a00a-0720068fb8ec/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 80397,
+            "caseId": 4081,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": " 至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 86367,
+            "caseId": 4081,
+            "caseStatus": true,
+            "registerDate": 1303401600000,
+            "officialDocNo": "會授資籌二字10020040353號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

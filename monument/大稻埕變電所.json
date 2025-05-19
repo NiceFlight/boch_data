@@ -1,0 +1,112 @@
+{
+    "id": 17085,
+    "caseId": "20190923000001",
+    "count": 4355,
+    "shareCount": 7,
+    "representImage": 186353,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/c6faa50e-c86e-41fc-954e-7b9d5a39df18/代表圖像_大稻埕變電所_20220705_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/c6faa50e-c86e-41fc-954e-7b9d5a39df18/代表圖像_大稻埕變電所_20220705.jpg",
+        "name": "代表圖像_大稻埕變電所_20220705"
+    },
+    "caseName": "大稻埕變電所",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "本建物為本市僅存之日治時期現代化電力變電所，為本市近代化過程及電力發展之見證，亦為都市發展史的代表案例。",
+    "assetsTypeNames": "產業",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 61549,
+            "name": "1080909北市文化文資字第10830317951號公告_大稻埕變電所.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-09-23/f920ac0e-9c23-4060-98fd-38c73006ac1a/1080909北市文化文資字第10830317951號公告_大稻埕變電所.pdf"
+        },
+        {
+            "fileid": 92046,
+            "name": "直轄市定古蹟_大稻埕變電所-地形地籍示意圖(奉核).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/13cd6b51-7a52-4552-913c-2194055a733f/直轄市定古蹟_大稻埕變電所-地形地籍示意圖(奉核).pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具高度歷史、藝術或科學價值者",
+        "具稀少性，不易再現者"
+    ],
+    "registerReason": "1.\t本建物為本市僅存之日治時期現代化電力變電所，為本市近代化過程及電力發展之見證，亦為都市發展史的代表案例。\n2.\t建物保有日治時期原貌，外牆為淺綠色溝紋「二丁掛」面磚，街角採圓弧處理，女兒牆外側尚存臺電株式會社標誌之殘跡，建築為1930年代現代裝飾藝術風格式樣。\n3.\t基地上另有高壓電箱區、輸配電區及建築物本體三區，完整呈現變電設施功能。",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 61551,
+            "name": "直轄市定古蹟_大稻埕變電所-地形地籍示意圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2019-09-23/312b5964-3f33-4e96-9d0a-cf0c153b1146/直轄市定古蹟_大稻埕變電所-地形地籍示意圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "變電所用地(公共設施用地)",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市大同區圓環段三小段171地號等1筆土地",
+    "bulkTransfer": 1,
+    "longitude": 121.5169818,
+    "latitude": 25.0563045,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市大同區圓環段三小段171地號（1,902平方公尺）（實際保存面積須以保存範圍實測數據為準）",
+    "selfCoverage": "大稻埕變電所ㄇ字型主體建築",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 93180,
+            "caseId": 17085,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "太原路187號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "圓環段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 114543,
+            "caseId": 17085,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 183,
+            "landSerialNo": "171",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "1902",
+            "cityLandUseTypeOther": "變電所用地",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 100575,
+            "caseId": 17085,
+            "caseStatus": true,
+            "registerDate": 1567958400000,
+            "officialDocNo": "北市文化文資字第10830317951號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false
+}

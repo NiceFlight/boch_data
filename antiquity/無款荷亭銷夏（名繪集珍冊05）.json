@@ -1,0 +1,110 @@
+{
+    "id": 4125,
+    "caseId": "20110422000049",
+    "count": 265,
+    "shareCount": 0,
+    "representImage": 7043,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/34913/photo/dcb7f4e0-ab70-4ade-a545-35a7c4614853_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/34913/photo/dcb7f4e0-ab70-4ade-a545-35a7c4614853.jpg",
+        "name": "dcb7f4e0-ab70-4ade-a545-35a7c4614853"
+    },
+    "caseName": "無款荷亭銷夏（名繪集珍冊05）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1303401600000,
+    "officialDocNo": "會授資籌二字10020040353號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事重要淵源",
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "畫面具有追寫自然、注重刻畫微妙細節的寫實風貌；且能引發觀者逸致，帶出詩情。景意相合的構圖，為南宋小景繪畫特出之處。對畫中人物夏日納涼活動的寫照，正反映了南宋上層社會的時代特徵。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第一、二、三、四、五、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故畫00124300005",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descSize": "26.2 x 26.3 公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "蒼巖上，樹木雜沓。二松盤根挺立，枝葉簇茂成蔭，綠蔭下，倚巖建閣，以廊與水亭相連，亭內有雅士坦腹，高臥其中，狀甚悠閒。亭外澄波微蕩，田田荷葉環聚水面。湖中長堤，倚著石岩，和平橋串接，童僕執扇抱琴，往來其間。坡岩上兩棵垂柳搖曳，在湖光山色的烘托下，小小尺幅內所散發出的清夏之氣，令人神往。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "傷補，霉傷，絹裂。有損傷但狀況穩定。",
+    "documents": [
+        {
+            "fileid": 16482,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2017-11-07/b0e0f0ae-3919-4811-8a70-6dd7aef3aab3/公告.pdf"
+        },
+        {
+            "fileid": 152132,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-28/420b7e6a-0472-47fa-a0af-44295781910a/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71669,
+            "caseId": 4125,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 76143,
+            "caseId": 4125,
+            "caseStatus": true,
+            "registerDate": 1303401600000,
+            "officialDocNo": "會授資籌二字10020040353號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

@@ -1,0 +1,101 @@
+{
+    "id": 15310,
+    "caseId": "20171121000005",
+    "count": 727,
+    "shareCount": 1,
+    "representImage": 46803,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2017-11-21/b8bd2497-52fd-48a9-8752-557a48d23270/宋人畫子母雞圖軸_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2017-11-21/b8bd2497-52fd-48a9-8752-557a48d23270/宋人畫子母雞圖軸.jpg",
+        "name": "宋人畫子母雞圖軸"
+    },
+    "caseName": "宋人畫子母雞圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1509617896868,
+    "officialDocNo": "文授資局物字第10630122631號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "具有重要藝術造詣或科學成就"
+    ],
+    "registerReason": "本幅以工謹筆法畫一母雞引領著五隻幼雛，在地上漫步啄食。母雞雪白羽毛蓬鬆亮麗，小雞依偎在母親的羽翼下，顯得稚嫩怯弱。全作以墨色塗染背景，襯出子母雞的雪白身軀，表現手法獨特。畫作中藉重視家庭生活的雞禽，宣揚家庭倫理觀念，實踐「成教化、助人倫」的繪畫功能，是傳世相關題材作品中極為精湛的傑作。原作上無作者款識印記，儘管不易判定創作時間為宋代，然畫家對於物象的觀察細膩入微，無疑是一幀寫生意味濃厚的院畫傑作。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第1項第3、4款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "0422177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故畫000200",
+    "amount": 1,
+    "descAge": "宋",
+    "descSize": "41.9公分x33",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "本幅畫一隻母雞引領著五隻幼雛，在地上漫步啄食。母雞雪白的羽毛蓬鬆亮麗，小雞依偎在母親的羽翼下，顯得稚嫩怯弱。畫面的背景全部以墨塗黑，使得主題格外突出。子母雞除寓含五子登科之意，還表現母雞帶著雛雞四處覓食、其樂融融的田園生活。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "天杆天綾：傷損、傷補。天綾污漬。本幅：絹裂、霉傷、折裂。",
+    "documents": [
+        {
+            "fileid": 147502,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-14/4ed5cf32-923d-4e15-af86-c752c57ff858/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69115,
+            "caseId": 15310,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73239,
+            "caseId": 15310,
+            "caseStatus": true,
+            "registerDate": 1509617896868,
+            "officialDocNo": "文授資局物字第10630122631號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

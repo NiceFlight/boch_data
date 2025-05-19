@@ -1,0 +1,123 @@
+{
+    "id": 1811,
+    "caseId": "20071121000004",
+    "count": 1823,
+    "shareCount": 0,
+    "representImage": 3639,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/1280/photo/通梁林家古宅1_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/1280/photo/通梁林家古宅1.JPG",
+        "name": "通梁林家古宅1"
+    },
+    "caseName": "通梁林家古宅",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "通梁林家古宅據目前相關史料研判，創建年代至少在清乾隆33（1768)年以前，距今二百餘年的歷史。通梁林氏開基祖林四，原籍福建省漳浦縣烏石鄉。林四生於明天啟2（1622)年，於崇禎年末癸未年（1643)年來澎，時年僅二十二歲。林家古宅位於通梁村東甲林氏宗親聚落，右側隔道路與通樑保安宮仳鄰（著名之通樑古榕位於此)，前方僅存牆基之空地即為當初植通樑古榕者之舊居。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1195634451000,
+    "officialDocNo": "府授文資字第09637001135號函",
+    "documents": [
+        {
+            "fileid": 76322,
+            "name": "公告公文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-11-24/e8162bf4-ca91-4167-b610-f7ce1ff9159f/公告公文.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "屬澎湖早期建築，與鄰近古榕樹、古聚落關係密切。據文獻、口述、實體史料研判至少有200餘年的歷史，其規模格局大抵仍維持原貌，相關史料極為豐富，有足夠的契約、族譜可佐證，在傳統民宅中極為少見，值得登錄。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、2、3、4款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "白沙鄉",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(06)9261141#138",
+    "govDeptAddress": "澎湖縣馬公市中華路230號",
+    "cadasters": [
+        {
+            "fileid": 3640,
+            "name": "6113093d-106c-48da-a77c-148fd04001af.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/75332/photo/6113093d-106c-48da-a77c-148fd04001af.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "白沙鄉通梁中段1270地號",
+    "buildingFeatures": "四櫸頭民宅，ㄇ字形，大厝身雙坡頂，間仔平頂，樓高一層。",
+    "inHouseFeatures": "大厝身三開間，中央為廳，為祀神祭祖、接待重要賓客等重要儀式的空間所在。廳的左右兩側為房，兩側房皆採通舖。",
+    "buildingUsage": "閒置",
+    "buildingActualState": "目前無人居住，為閒置狀態。",
+    "buildingKeyMaintainItem": "建築結構安全的維護，常態性以視覺進行巡查。",
+    "bulkTransfer": 0,
+    "belongAddress": "澎湖縣白沙鄉通梁村47號",
+    "isOpenVisit": false,
+    "openUpTime": "不開放",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 119.557753,
+    "latitude": 23.656686,
+    "representImageSource": "澎湖縣政府文化局文化資產科",
+    "landScope": "澎湖縣白沙鄉通梁中段1270地號",
+    "selfCoverage": "通梁林家古宅位於通梁村東甲林氏宗親聚落，西側隔道路為通梁保安宮及通梁古榕，前方僅存牆基之空地即為當初植通梁古榕者之舊居。",
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "白沙鄉",
+            "id": 89140,
+            "caseId": 1811,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2105,
+            "address": "通梁村47號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "白沙鄉",
+            "landNoName": "通梁中段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 106687,
+            "caseId": 1811,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2105,
+            "landNoId": 15525,
+            "landSerialNo": "1270",
+            "landownership": 2,
+            "cityLandUseTypeId": 1,
+            "area": "194平方公尺",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 96203,
+            "caseId": 1811,
+            "caseStatus": true,
+            "registerDate": 1195634451000,
+            "officialDocNo": "府授文資字第09637001135號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[119.55784087010659,23.656695453064554],[119.55773447088318,23.65658994221224],[119.55764311713058,23.65666852178982],[119.55771863612812,23.656733535341314],[119.55775048297565,23.65676749897305],[119.5578299946949,23.656704107949327],[119.55784087010659,23.656695453064554],[119.55784087010659,23.656695453064554]]]]},\"properties\":{\"envelope\":{\"left\":\"119.55764311713058\",\"top\":\"23.656589942212239\",\"right\":\"119.55784087010659\",\"bottom\":\"23.65676749897305\"},\"landLot\":\"澎湖縣白沙鄉通梁中段1270\"}}],\"notfound\":[]}]",
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

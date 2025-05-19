@@ -1,0 +1,108 @@
+{
+    "id": 4029,
+    "caseId": "20120326000084",
+    "count": 383,
+    "shareCount": 0,
+    "representImage": 6916,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/33015/photo/14508db5-75f0-4542-b823-7cce36ca6c6a_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/33015/photo/14508db5-75f0-4542-b823-7cce36ca6c6a.JPG",
+        "name": "14508db5-75f0-4542-b823-7cce36ca6c6a"
+    },
+    "caseName": "五代南唐巨然層巖叢樹圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有特殊之時代特色、技術及流派",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "巨然（活動於十世紀後期），鍾陵（今南京）人。南唐滅亡，隨李後主降宋至汴京，以畫山水有名。此軸表現江南林木挺勁、煙嵐繚繞的氣象，描繪鬆軟土石的披麻皴與山頭卵石的礬頭，皆為「董巨畫派」典型特徵。巨然存世真蹟數量稀少，此作品質精良極為難得。作品上鈐宋代內府官印，流傳有緒。具有特殊之時代特色、技術及流派代表性，品質精良且數量特別稀少。具有特殊歷史、文化、藝術價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第四條第一項第三、五、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000023",
+    "amount": 1,
+    "notes": "",
+    "descAge": "五代南唐",
+    "descCreator": "巨然",
+    "descSize": "144.1 × 55.4公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "巨然（活動於十世紀後期），鍾陵（今南京）人。南唐滅亡，隨李後主降宋至汴京，以畫山水有名。此軸表現江南林木挺勁、煙嵐繚繞的氣象，描繪鬆軟土石的披麻皴與山頭卵石的礬頭，皆為「董巨畫派」典型特徵。「之」字形路徑蜿蜒縈迴深入山中，增添了畫面的縱深感。詩塘上方董其昌（1555－1636）將此圖訂為「僧巨然真蹟神品」，畫上鈐有北宋、南宋、明初「宣和殿寶、尚書省印、司印（半印）」官印。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。",
+    "documents": [
+        {
+            "fileid": 151866,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-26/c9f90e1b-ede5-4b7f-ac44-6d6b7df3cfaf/公告.pdf"
+        },
+        {
+            "fileid": 151867,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-26/d47c4fd3-6f21-48db-bb8b-8a9b46b6e95c/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71523,
+            "caseId": 4029,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75986,
+            "caseId": 4029,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

@@ -1,0 +1,124 @@
+{
+    "id": 133,
+    "caseId": "20000711000002",
+    "count": 4100,
+    "shareCount": 3,
+    "representImage": 168097,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/2e788a41-9e2a-4764-a123-055c0b0a5540/代表圖像_慈雲寺_20220531_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/2e788a41-9e2a-4764-a123-055c0b0a5540/代表圖像_慈雲寺_20220531.jpeg",
+        "name": "代表圖像_慈雲寺_20220531"
+    },
+    "caseName": "慈雲寺",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "市定古蹟「慈雲寺」位於萬華區漢口街一一九、一二一、一二三號，是日治時期西門外填地計畫之後所建造的佛寺。它的倡建者為張氏，大正十三年（西元一九二四年）籌資建造這座齋堂式的佛寺，在鬧市之中別有天地，頗為難能可貴。寺內供奉觀音菩薩，香火並不盛，但益顯得清幽與寧靜。慈雲寺在戰後曾修建左右次間，但主體部分仍為大正年間紅磚造之構造，它的樓板使用工字鋼樑，當時屬於進步的構造。\r\n慈雲寺是在日據時期都市計畫實施之後才建造的，所以配合騎樓寬度在寺前設置磚栱廊，有如拜亭。磚栱施工精美，構造合理，它的二樓為陽台。寺的內部使用工字鋼樑，但二樓全為傳統的木結構，除了明間的神龕以外，左右還留設一些房間供居住之用，可說是將寺廟與住宅巧妙地結合起來。慈雲寺的建築空間設計頗具特色，裝飾樸素，在台灣的寺廟中屬於罕見之作品。",
+    "assetsTypeNames": "寺廟",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 140087,
+            "name": "3._790711指定古蹟公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/1f48d3ef-01af-4b19-91d5-31dd13d5a6ad/3._790711指定古蹟公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值"
+    ],
+    "registerReason": "具有保存價值",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 140088,
+            "name": "無資料.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/cdb36ced-f778-46a3-92bf-f34bc6fb0959/無資料.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "locationLandNo": "台北市福星段二小段485、485-1地號",
+    "buildingFeatures": "慈雲寺的建築空間設計頗具特色，裝飾樸素，在台灣的寺廟中屬於罕見之作品。",
+    "inHouseFeatures": "（略）",
+    "buildingUsage": "（略）",
+    "buildingActualState": "它的倡建者為張氏，大正十三年（西元一九二四年）籌資建造這座齋堂式的佛寺，在鬧市之中別有天地，頗為難能可貴。寺內供奉觀音菩薩，香火並不盛，但益顯得清幽與寧靜。",
+    "buildingKeyMaintainItem": "（略）",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.5041572,
+    "latitude": 25.0464399,
+    "representImageSource": "臺北市文化局",
+    "landScope": "台北市福星段二小段485、485-1地號",
+    "selfCoverage": "135建號",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "id": 82054,
+            "caseId": 133,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "address": "漢口街二段119、121、123號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "landNoName": "福星段二小段",
+            "id": 90729,
+            "caseId": 133,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "landNoId": 178,
+            "landSerialNo": "0485-0000",
+            "landownership": 2,
+            "coverageId": 2,
+            "area": "408平方公尺",
+            "note": "重測前:江濱段4小段4地號",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "landNoName": "福星段二小段",
+            "id": 90730,
+            "caseId": 133,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "landNoId": 178,
+            "landSerialNo": "0485-0001",
+            "landownership": 2,
+            "coverageId": 2,
+            "area": "82平方公尺",
+            "note": "重測前:江濱段4小段5地號",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 88189,
+            "caseId": 133,
+            "caseStatus": true,
+            "registerDate": 963244800000,
+            "officialDocNo": "府文化字第8905034801號",
+            "classificationId": 1,
+            "note": "無"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false,
+    "pastHistorySource": "（略）"
+}

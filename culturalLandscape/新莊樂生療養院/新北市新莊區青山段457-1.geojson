@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "新北市新莊區青山段457-1"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

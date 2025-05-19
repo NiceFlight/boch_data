@@ -1,0 +1,94 @@
+{
+    "id": 3257,
+    "caseId": "20160112000006",
+    "count": 452,
+    "shareCount": 0,
+    "representImage": 5708,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43365/photo/d1101a9a-b415-433c-9086-3d2e0b6dd793_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43365/photo/d1101a9a-b415-433c-9086-3d2e0b6dd793.jpg",
+        "name": "d1101a9a-b415-433c-9086-3d2e0b6dd793"
+    },
+    "caseName": "新興宮-清光緒公置祀田碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1452528000000,
+    "officialDocNo": "府授文資遺字第10500043921號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.\t本案為石製圭形立碑，無碑額、碑座，陰刻正體字，文字描紅，清晰可辨讀。\r\n2.\t依碑碣所載，應為光緒16年(1890)設立，是清代台灣寺廟碑記類型之一；碑文內容充分顯示寺廟立碑乃借用村莊的公眾力量，是監督管理寺廟財產的一種方式。\r\n3.\t為民間信仰神明會奉獻土地為寺廟香燈來源的史料。",
+    "lawsReference": "符合「古物分級登錄指定及廢止審查辦法」第2條第1項第1、2、3、5、6款評定基準。",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "大里區",
+    "reservationCode": "",
+    "keepNameId": 17,
+    "keepName": "新興宮",
+    "keepNameNew": 17,
+    "keepAddressNew": "臺中市大里區 新仁路二段162號",
+    "amount": 1,
+    "notes": "",
+    "reserveStatusDesc": "",
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 5709,
+            "name": "30e418e6-e718-4891-b2d7-eaed460fcdec.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44398/file/30e418e6-e718-4891-b2d7-eaed460fcdec.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "新興宮",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺中市大里區 新仁路二段162號",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "大里區",
+            "id": 3398,
+            "caseId": 3257,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1010
+        }
+    ],
+    "announces": [
+        {
+            "id": 3398,
+            "caseId": 3257,
+            "caseStatus": true,
+            "registerDate": 1452528000000,
+            "officialDocNo": "府授文資遺字第10500043921號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

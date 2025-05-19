@@ -1,0 +1,106 @@
+{
+    "id": 3119,
+    "caseId": "20141105000023",
+    "count": 401,
+    "shareCount": 0,
+    "representImage": 5554,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/5085/photo/臥碑_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/5085/photo/臥碑.png",
+        "name": "臥碑"
+    },
+    "caseName": "臥碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-其他",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1415116800000,
+    "officialDocNo": "府文資處字第1031018187B號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源"
+    ],
+    "registerReason": "清順治九年（西元1652年）御製臥碑文，由禮部頒行全國各府、州、縣，刊刻於學宮，俾令生員知曉遵行。本件碑記係同治七年（西元1868年）由臺灣府儒學所立，碑文為禮部所頒，故與文獻記載相同，唯序言略有增損，落款時間則因勒石而定。「臥碑」是明、清時代，政府教育機構頒布給生員的生活、言行準則，亦為世人衝量讀書人人品的一種尺度，作為清代文人言行圭臬的表徵，具有歷史文化價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第2條第1項第1、2款。",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "中西區",
+    "govInstitution": "臺南市文化資產管理處",
+    "govDeptName": "文化資產研究組",
+    "govDeptPhone": "06-2213597",
+    "govDeptAddress": " 臺南市中西區中正路5巷1號3樓",
+    "reservationCode": "-",
+    "amount": 1,
+    "notes": "",
+    "descAge": "同治七年（西元1868年）",
+    "descSize": "高95公分、寬142公分   ",
+    "descMaterial": "花崗石",
+    "reserveStatusDesc": "1.年代：同治七年（西元1868年）\r\n2.作者：大清禮部 頒文\r\n3.材質：花崗石\r\n4.尺寸：高95公分、寬142公分     \r\n5.技法：石刻\r\n6.重量：無法測量\r\n7.數量：1組1件",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "同治七年臺灣府儒學立碑",
+    "saveEnvironment": 2,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 109870,
+            "name": "一般古物登錄清冊103.11.6.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-12/5ec1a312-192a-43c2-8fbc-90dc180db120/一般古物登錄清冊103.11.6.pdf"
+        },
+        {
+            "fileid": 142173,
+            "name": "孔廟古物公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-01/6df667f4-747b-4c4e-9a80-5f40aa8733cd/孔廟古物公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 22.990697864018713,
+    "latitude": 120.20424391283163,
+    "representImageSource": "台南市政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "財團法人臺南市孔廟文化基金會",
+            "keepName": "財團法人臺南市孔廟文化基金會",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺南市中西區 南門路2號(臺南市孔廟)",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "id": 107109,
+            "caseId": 3119,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601
+        }
+    ],
+    "announces": [
+        {
+            "id": 114984,
+            "caseId": 3119,
+            "caseStatus": true,
+            "registerDate": 1415116800000,
+            "officialDocNo": "府文資處字第1031018187B號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

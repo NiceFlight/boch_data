@@ -1,0 +1,106 @@
+{
+    "id": 3078,
+    "caseId": "20090205000003",
+    "count": 599,
+    "shareCount": 0,
+    "representImage": 5493,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/37812/photo/5c92c290-6476-4c67-bb13-6789fe246caa_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/37812/photo/5c92c290-6476-4c67-bb13-6789fe246caa.JPG",
+        "name": "5c92c290-6476-4c67-bb13-6789fe246caa"
+    },
+    "caseName": "臺灣府城隍廟「爾來了」匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1233763200000,
+    "officialDocNo": "南市文資字第09818543330號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "此塊匾聯與城隍廟相互呼應，不但充分表現了歷史意義，也為臺灣府城城隍廟帶了來莊肅氛維",
+    "lawsReference": "依據「文化資產保存法」第六十五條、「古物分級登錄指定及廢止審查辦法」、本市遺址古物審議委員會97年12月11日會議決議。",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "中西區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "reservationCode": "公告無資料",
+    "amount": 1,
+    "notes": "",
+    "descAge": "公告無資料",
+    "descSize": "公告無資料",
+    "descMaterial": "木質",
+    "reserveStatusDesc": "材質:木質\n此匾現置於臺灣府城隍廟三川內堂的橫樑上。",
+    "pastHistorySource": 7,
+    "pastHistorySourceNotes": "公告無資料",
+    "saveEnvironment": 2,
+    "reserveStatus": "文物狀況大致良好；表面可看出有細微裂痕。",
+    "documents": [
+        {
+            "fileid": 175332,
+            "name": "臺灣府城隍廟「爾來了」匾公告-98.02.05.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-22/008103ea-800d-465b-9b05-281cb1594aef/臺灣府城隍廟「爾來了」匾公告-98.02.05.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 120.20899942447474,
+    "latitude": 22.992136879798682,
+    "representImageSource": "  ",
+    "keepNames": [
+        {
+            "keepNameIdStr": "臺灣府城隍廟",
+            "keepName": "臺灣府城隍廟",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "臺灣府城隍廟",
+            "keepAddressNew": "臺南市中西區青年路133號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "臺南市",
+            "keepNameDistName": "中西區",
+            "keepNameAddress": "青年路133號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "id": 92602,
+            "caseId": 3078,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601,
+            "address": "青年里青年路133號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 99893,
+            "caseId": 3078,
+            "caseStatus": true,
+            "registerDate": 1233763200000,
+            "officialDocNo": "南市文資字第09818543330號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

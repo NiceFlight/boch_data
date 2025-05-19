@@ -1,0 +1,93 @@
+{
+    "id": 1867,
+    "caseId": "20050929000007",
+    "count": 2438,
+    "shareCount": 5,
+    "representImage": 125301,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-20/2852dafe-0ff0-47f2-8604-044412e26c29/歷建15-小馬天主堂-永保_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-20/2852dafe-0ff0-47f2-8604-044412e26c29/歷建15-小馬天主堂-永保.jpg",
+        "name": "歷建15-小馬天主堂-永保"
+    },
+    "caseName": "小馬天主堂（聖尼各老堂）",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "天主教小馬聖尼各老堂（Hsiaoma, St. Nicolaus），一般稱小馬天主堂，位於成功鎮信義里小馬部落。民國50年（1961）由瑞士籍神父池作基（Rev. Meinard Tschirky，1930-1992）創設。教堂由傅義修士（Bro. Juilius Felder，1933-2018）設計，經費由池神父向國外募款，部份由當地教友變賣稻穀合力興建。教堂於民國57年8月20日落成，祝聖啟用。 \n小馬天主堂是傅義修士來臺後的第三棟作品，鋼筋混凝土造。其錐形屋頂（傅義修士稱斗笠屋頂）引進大量自然光源，灑在祭臺上，營造出神聖而莊嚴的氣氛。祭臺兩側使用彩繪玻璃，由傅義修士設計，再請新營的德國修士來施工完成，為臺東地區教堂少見。主體使用扶壁結構，是極為特殊的設計。祭臺後方的大理石壁畫裝飾，充分展現傅義修士的美學素養與就地取材的概念。\n民國80年代（1990s），為因應臺東市第二公墓遷葬作業，在教堂左後方設置墓園一處。目前有池作基、紀守常（Rev. Alfred Giger，1919-1970）、周維道（Rev. Viktor Notter，1906-1992）、郝道永（Rev. Friedrich Hort，1908-1985）、滿海德（Rev. Ernst Manhart，1905-1991）等神父在此安息。\n",
+    "assetsTypeNames": "教堂",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1127977942000,
+    "officialDocNo": "府文資字第 0943032223 號",
+    "documents": [
+        {
+            "fileid": 114884,
+            "name": "15臺東縣歷史建築公告文-天主教小馬天主堂.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-28/3de8055c-2845-4423-addf-4d1cb2641518/15臺東縣歷史建築公告文-天主教小馬天主堂.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "1.外觀上最特殊的是使用類似扶壁的結構。        \n2.錐狀屋頂將自然光源大量引進聖台，灑在祭台上，營造出神聖而莊嚴的氣氛。              \n3.聖台南側使用彩色玻璃，為臺東地區教堂中少見者。  ",
+    "lawsReference": "1.文化資產保存法第15條之一規定\n2.歷史建築登錄及輔助辦法\n3.臺東縣94年6月6日歷史建築登錄審查會議決議辦理\n",
+    "govInstitutionCode": "950",
+    "govInstitutionName": "臺東縣政府",
+    "belongCityId": 22,
+    "belongCityName": "臺東縣",
+    "belongDistName": "成功鎮",
+    "govInstitution": "臺東縣政府",
+    "govDeptName": " 文化處文化資產科",
+    "govDeptPhone": "089-350129",
+    "govDeptAddress": "臺東市南京路25號",
+    "cadasters": [],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "資料尚未填寫",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "信義里小馬路58號",
+    "isOpenVisit": false,
+    "openUpTime": "不開放",
+    "isCharge": false,
+    "isOpenDownload": true,
+    "longitude": 121.31532736213,
+    "latitude": 22.9954410426704,
+    "representImageSource": "109-110年度臺東縣文化資產個案資料同步更新維護計畫",
+    "landScope": "成功鎮小馬東段694地號",
+    "selfCoverage": "成功鎮小馬東段694地號",
+    "addresses": [
+        {
+            "cityName": "臺東縣",
+            "distName": "成功鎮",
+            "id": 128294,
+            "caseId": 1867,
+            "caseStatus": true,
+            "cityId": 22,
+            "distId": 2211,
+            "address": "信義里小馬路10號"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 139372,
+            "caseId": 1867,
+            "caseStatus": true,
+            "registerDate": 1127977942000,
+            "officialDocNo": "府文資字第 0943032223 號",
+            "classificationId": 1
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

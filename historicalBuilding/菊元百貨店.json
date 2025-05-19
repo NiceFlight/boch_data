@@ -1,0 +1,127 @@
+{
+    "id": 5018,
+    "caseId": "20170913000002",
+    "count": 6162,
+    "shareCount": 15,
+    "representImage": 167968,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/610ff82b-3ae3-4efb-bc64-c71d5bf74da3/代表圖像_菊元百貨店_20220601_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/610ff82b-3ae3-4efb-bc64-c71d5bf74da3/代表圖像_菊元百貨店_20220601.jpeg",
+        "name": "代表圖像_菊元百貨店_20220601"
+    },
+    "caseName": "菊元百貨店",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "1、菊元百貨店由日人重田榮治創立，1932年開幕，為榮町（今衡陽路一帶）上的地標建物，是臺灣首座現代化的百貨公司，且為當時臺灣最高的民間建築物（有「七重天」的稱號）。為了方便顧客上下樓層，配有臺灣首座供民眾使用的公共電梯（流籠）。光復後陸續改為中華國貨公司、軍人之友總社、建台百貨、南洋百貨、揚洋百貨等，本建物為臺北商業發展及都會生活的重要歷史見證。\n2、本建物外觀造型簡潔，主要特色為高樓層之退縮量體、轉角立面及內部挑空空間，為當時臺灣西式建築的代表作。建築雖經多次增改建，惟原結構體結構尚存，未來仍有恢復原貌的可能，具保存價值。\n3、符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、3、4款評定基準。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "公共建築",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 15821,
+            "name": "菊元百貨店公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2017-09-12/c9bcabae-15e3-4675-82f8-6d3058672ea0/菊元百貨店公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1、菊元百貨店由日人重田榮治創立，1932年開幕，為榮町（今衡陽路一帶）上的地標建物，是臺灣首座現代化的百貨公司，且為當時臺灣最高的民間建築物（有「七重天」的稱號）。為了方便顧客上下樓層，配有臺灣首座供民眾使用的公共電梯（流籠）。光復後陸續改為中華國貨公司、軍人之友總社、建台百貨、南洋百貨、揚洋百貨等，本建物為臺北商業發展及都會生活的重要歷史見證。\n2、本建物外觀造型簡潔，主要特色為高樓層之退縮量體、轉角立面及內部挑空空間，為當時臺灣西式建築的代表作。建築雖經多次增改建，惟原結構體結構尚存，未來仍有恢復原貌的可能，具保存價值。\n3、\t符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、3、4款評定基準。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、3、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 15819,
+            "name": "地籍圖.png",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2017-09-12/42b73bee-1c7b-4441-b1c5-73928f4e7adc/地籍圖.png"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市中正區城中段二小段488地號（部分）、489地號（部分）",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "longitude": 121.511387,
+    "latitude": 25.042552,
+    "representImageSource": "臺北市文化局",
+    "landScope": "建築物坐落土地為中正區城中段二小段488地號（部分）（土地面積508平方公尺）、489地號（部分）（土地面積141平方公尺）",
+    "selfCoverage": "2,092.59平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 81952,
+            "caseId": 5018,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "臺北市中正區博愛路150號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "城中段二小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 90494,
+            "caseId": 5018,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 147,
+            "landSerialNo": "488",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "coverageId": 1,
+            "area": "508平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "城中段二小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 90495,
+            "caseId": 5018,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 147,
+            "landSerialNo": "489",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "coverageId": 1,
+            "area": "141平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 88096,
+            "caseId": 5018,
+            "caseStatus": true,
+            "registerDate": 1494777600000,
+            "officialDocNo": "北市文化文資字第10630455200號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

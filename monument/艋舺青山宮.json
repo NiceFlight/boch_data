@@ -1,0 +1,115 @@
+{
+    "id": 127,
+    "caseId": "19850819000016",
+    "count": 5670,
+    "shareCount": 5,
+    "representImage": 168092,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/638559ca-1c9a-486d-9a3b-70eedc6863fc/代表圖像_艋舺青山宮_20220601_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/638559ca-1c9a-486d-9a3b-70eedc6863fc/代表圖像_艋舺青山宮_20220601.jpeg",
+        "name": "代表圖像_艋舺青山宮_20220601"
+    },
+    "caseName": "艋舺青山宮",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "三級古蹟「艋舺青山宮」，位於臺北市萬華區貴陽街二段二一八號，主要供奉靈安尊王張滾，乃清咸豐四年〈西元一八五四年〉福建惠安籍漁民，自其故鄉青山廟奉請而來者。廟建於咸豐六年〈西元一八五六年〉，咸豐九年〈一八五九年〉完成，雕樑畫棟，三川殿有一座八角形藻井，工藝精美。今廟則前殿為民國二十七年重修，前殿之石柱與石垛乃採取圓山神社所遺之石材，後殿為民國六十八年重修。 ",
+    "assetsTypeNames": "寺廟",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 137213,
+            "name": "2._740829台閩地區古蹟指定函(2).tif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/9e2b9cf9-d52c-4ddd-8440-d0777ed64b39/2._740829台閩地區古蹟指定函(2).tif"
+        },
+        {
+            "fileid": 137214,
+            "name": "1._740829台閩地區古蹟指定函(1).tif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/011a5e16-7c31-4f5d-baca-f77276520b66/1._740829台閩地區古蹟指定函(1).tif"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "具其他古蹟價值者"
+    ],
+    "registerReason": "具有保存價值",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 137215,
+            "name": "地籍圖(1).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/f52c0e8d-3773-4b95-bf75-1839cd556c3b/地籍圖(1).pdf"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "locationLandNo": "臺北市萬華區直興段二小段233、234地號",
+    "buildingFeatures": "主要供奉靈安尊王張滾，乃清咸豐四年〈西元一八五四年〉福建惠安籍漁民，自其故鄉青山廟奉請而來者。",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "三川殿、左右過水廊民國一百零二年疑因電線走火釀災受損，於一百零三年重新修復完成。後殿加建的三層建築作為神明殿及服務空間",
+    "buildingKeyMaintainItem": "廟會活動應避免施放煙火及加強用電線路檢查，避免發生電線短路致釀災情事。",
+    "bulkTransfer": 1,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenDownload": false,
+    "longitude": 121.4995367,
+    "latitude": 25.0399968,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市萬華區直興段二小段233地號",
+    "selfCoverage": "本體",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "id": 82052,
+            "caseId": 127,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "address": "貴陽街2段218號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "landNoName": "直興段二小段",
+            "id": 90727,
+            "caseId": 127,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "landNoId": 168,
+            "landSerialNo": "0233-0000",
+            "landownership": 2,
+            "coverageId": 2,
+            "area": "602平方公尺",
+            "note": "重測前:歡慈段3小段118地號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 88187,
+            "caseId": 127,
+            "caseStatus": true,
+            "registerDate": 493228800000,
+            "officialDocNo": "74台內民字第338095號",
+            "classificationId": 1,
+            "note": "無"
+        }
+    ],
+    "openVisitType": "",
+    "openUpTime": "全日",
+    "isCharge": false,
+    "pastHistorySource": "（略）"
+}

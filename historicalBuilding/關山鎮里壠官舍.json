@@ -1,0 +1,95 @@
+{
+    "id": 1856,
+    "caseId": "20091209000003",
+    "count": 2601,
+    "shareCount": 2,
+    "representImage": 125296,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-20/656c70ad-ba4d-4274-abe7-421a4b3c1cdb/歷建9-關山里瓏官舍-永保_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-20/656c70ad-ba4d-4274-abe7-421a4b3c1cdb/歷建9-關山里瓏官舍-永保.jpg",
+        "name": "歷建9-關山里瓏官舍-永保"
+    },
+    "caseName": "關山鎮里壠官舍",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "日治時期1937年（昭和12年）臺東廳里壠支廳改稱關山郡，管轄關山、池上、鹿野三個庄，蕃地36個社。翌年即1938年在關山庄里壠興建官舍，供郡役所郡守及郡役所庶務課長等，作為職務宿舍之用。臺灣光復後被國民政府接收，給關山鎮公所作職務宿舍之用。經過多年的物換星移，如今（2021年）只剩下中正路1號及5號兩棟。\n這兩棟都是單棟單層日式木造建築，官舍樣式。1號的屋頂是四坡水寄棟造，5號的屋頂以四坡水寄棟造為主，右側做成歇山頂（入母屋造）。兩棟的屋頂都是舖日本瓦，以鬼瓦收頭，牆身都是英式雨淋板，應接室都有出窗設計。屋架中都有幣串方形木桿，是日治時期神道教對新建房屋祈福儀式的用品遺留。正面大門的一對洗石子門柱，有咖啡、淺黃、青灰三種顏色，是罕見的建築工法。\n",
+    "assetsTypeNames": "官邸",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1260318375000,
+    "officialDocNo": "府文資字第 0983044437 號",
+    "documents": [
+        {
+            "fileid": 114861,
+            "name": "09臺東縣歷史建築公告文-關山鎮里瓏官舍.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-28/fa3d9184-2d97-4df9-8b33-c630d796ebff/09臺東縣歷史建築公告文-關山鎮里瓏官舍.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1.具歷史文化價值者\r\n2.表現地域風貌\r\n3.具建築史或技術史之價值者\r\n4.其他具歷史建築價值者",
+    "lawsReference": "1.文化資產保存法第15條第一項規定\n2.歷史建築登錄廢止審查及輔助辦法第2條\n3.臺東縣98年11月26日臺東縣文化資產審議委員會會議決議。\n",
+    "govInstitutionCode": "950",
+    "govInstitutionName": "臺東縣政府",
+    "belongCityId": 22,
+    "belongCityName": "臺東縣",
+    "belongDistName": "關山鎮",
+    "govInstitution": "臺東縣政府",
+    "govDeptName": " 文化處文化資產科",
+    "govDeptPhone": "089-350129",
+    "govDeptAddress": "臺東市南京路25號",
+    "cadasters": [],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "關山鎮中福段0762、0762-1、0762-2、0762-3、0762-4  、761號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "臺東縣關山鎮中正路1號、5號",
+    "isOpenVisit": false,
+    "openUpTime": "外部空間開放參觀",
+    "isOpenDownload": true,
+    "longitude": 121.16044123284624,
+    "latitude": 23.047124467030674,
+    "representImageSource": "109-110年度臺東縣文化資產個案資料同步更新維護計畫",
+    "landScope": "關山鎮中福段0762、0762-1、0762-2、0762-3、0762-4號",
+    "selfCoverage": "關山鎮中福段0762、0762-1、0762-2、0762-3、0762-4號",
+    "addresses": [
+        {
+            "cityName": "臺東縣",
+            "distName": "關山鎮",
+            "id": 45283,
+            "caseId": 1856,
+            "caseStatus": true,
+            "cityId": 22,
+            "distId": 2207,
+            "address": "臺東縣關山鎮中正路1號、5號"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 46839,
+            "caseId": 1856,
+            "caseStatus": true,
+            "registerDate": 1260318375000,
+            "officialDocNo": "府文資字第 0983044437 號",
+            "classificationId": 1
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

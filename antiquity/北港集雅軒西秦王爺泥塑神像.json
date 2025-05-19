@@ -1,0 +1,118 @@
+{
+    "id": 3229,
+    "caseId": "20150915000003",
+    "count": 837,
+    "shareCount": 0,
+    "representImage": 147324,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-13/c8f03d66-ddaa-47c3-938d-d02b98d31413/DSC02967-hhy_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-13/c8f03d66-ddaa-47c3-938d-d02b98d31413/DSC02967-hhy.jpg",
+        "name": "DSC02967-hhy"
+    },
+    "caseName": "北港集雅軒西秦王爺泥塑神像",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1442246400000,
+    "officialDocNo": "府文資二字第1047408516B號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "(一)為北港集雅軒相關文物，見證集雅軒發展歷史，具歷史淵源。\r\n(二)屬清末神像，造型簡樸，可見證當時神像之造型雕法。\r\n(三)少見之泥塑西秦王爺神像，保存不易，具歷史文化及技藝保存價值。",
+    "lawsReference": "《文化資產保存法》第65條暨《古物分級登錄指定及廢止審查辦法》第2條第1項第1款至第6款及第7條規定。",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "belongCityId": 13,
+    "belongCityName": "雲林縣",
+    "belongDistName": "北港鎮",
+    "govInstitution": "雲林縣政府",
+    "govDeptName": "文化觀光處",
+    "govDeptPhone": "(05)5523218",
+    "govDeptAddress": "雲林縣斗六市大學路三段310號",
+    "reservationCode": "暫無",
+    "amount": 1,
+    "notes": "",
+    "descAge": "清末時期",
+    "descSize": "待測量",
+    "descMaterial": "泥塑",
+    "reserveStatusDesc": "北港集雅軒西秦王爺泥塑神像製作於清末時期，集雅軒未設館時為過爐鎮宅神像，民國39年設館後則為鎮館神像；神像為泥塑坐姿脫椅，右手持寶左手按膝、文袍栽髯、掐線莽袍、安金礦彩。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定 ",
+    "documents": [
+        {
+            "fileid": 142099,
+            "name": "中華民國104年03月10日 府文資二字第1047401912號 北港集雅軒西秦王爺泥塑神像.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-10-31/ea989e6c-0f97-4336-a5ea-2ae82645fdee/中華民國104年03月10日 府文資二字第1047401912號 北港集雅軒西秦王爺泥塑神像.pdf"
+        },
+        {
+            "fileid": 142100,
+            "name": "中華民國104年09月15日 府文資二字第1047408516號 北港集雅軒西秦王爺泥塑神像.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-10-31/d5259db0-33dc-4ed5-90db-9fbe8946750c/中華民國104年09月15日 府文資二字第1047408516號 北港集雅軒西秦王爺泥塑神像.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 23.568576251765002,
+    "latitude": 120.30337559938279,
+    "representImageSource": "雲林縣政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "北港集雅軒協會",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "雲林縣北港鎮博愛路62號",
+            "saveSpaceIdStr": "祠堂",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "北港鎮",
+            "id": 76759,
+            "caseId": 3229,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1316,
+            "address": "博愛路62號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 82437,
+            "caseId": 3229,
+            "caseStatus": true,
+            "registerDate": 1425978182174,
+            "officialDocNo": "府文資二字第1047401912B號",
+            "classificationId": 1
+        },
+        {
+            "id": 82438,
+            "caseId": 3229,
+            "caseStatus": true,
+            "registerDate": 1442246400000,
+            "officialDocNo": "府文資二字第1047408516B號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,97 @@
+{
+    "id": 21721,
+    "caseId": "20230509000004",
+    "count": 1214,
+    "shareCount": 0,
+    "representImage": 213111,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-05-09/907a4019-1990-4763-aaf3-2ea0c2ad672d/IMG_20190701_144256_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-05-09/907a4019-1990-4763-aaf3-2ea0c2ad672d/IMG_20190701_144256.jpg",
+        "name": "IMG_20190701_144256"
+    },
+    "caseName": "原南國運送店",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "相關文獻推測，北興街35號可能為日治時期所建，最早命名為「南國運送店」，爾後改名為「丸嘉運送店」，是當時運輸同業組合裡一家名為「南國公司」的運送店。\n\n從「嘉義合同運送股份有限公司」的相關工商登記資料及文物可見「丸嘉」的標誌符號，可推測為日治時期1930、40年代所建造之辦公事務用建築，該店面位於嘉義市台鐵、林鐵、糖鐵交會之處，是集客運、貨運、糖運、材運等三鐵共構的絕佳地點。",
+    "assetsTypeNames": "商店",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 213108,
+            "name": "2.歷史建築登錄公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-05-09/9e4397f7-b67e-4d36-8f9b-29d7f580ec89/2.歷史建築登錄公告表.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1.此建物為舊北港車頭貨物運送之產業空間系統之見證。\n2.二層樓木構造之屋架、軸組具日治時期辦公事務建築類型，及地方貨運公司建築類型之特色。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第2、3款",
+    "govInstitutionCode": "600",
+    "govInstitutionName": "嘉義市政府",
+    "govInstitution": "嘉義市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "05-2788225#509",
+    "govDeptAddress": "嘉義市忠孝路275號",
+    "cadasters": [],
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.44352718978037,
+    "latitude": 23.483029623078682,
+    "representImageSource": "嘉義市政府文化局",
+    "landScope": "黑金段14-23地號",
+    "selfCoverage": "坐西南朝東北二層樓的木構建築",
+    "addresses": [
+        {
+            "cityName": "嘉義市",
+            "distName": "西區",
+            "id": 149105,
+            "caseId": 21721,
+            "caseStatus": true,
+            "cityId": 14,
+            "distId": 1402,
+            "address": "北興街35號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "嘉義市",
+            "distName": "西區",
+            "landNoName": "黑金段",
+            "cityLandUseTypeName": "商業區",
+            "id": 206513,
+            "caseId": 21721,
+            "caseStatus": true,
+            "cityId": 14,
+            "distId": 1402,
+            "landNoId": 8443,
+            "landSerialNo": "14-23",
+            "landownership": 3,
+            "cityLandUseTypeId": 2,
+            "area": "156.平方公尺",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 162133,
+            "caseId": 21721,
+            "caseStatus": true,
+            "registerDate": 1677045270964,
+            "officialDocNo": "府授文資字第1125100533號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"嘉義市西區黑金段14-23\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "selfCoverageJson": "{\"type\": \"FeatureCollection\",\"features\": [{\"type\": \"Feature\",\"properties\": \"{}\",\"geometry\": {\"type\": \"Polygon\",\"coordinates\": [[[120.44355183762694,23.4831393227628],[120.4435330704732,23.48309014329981],[120.44354915660499,23.48308522535249],[120.44350357923157,23.483013915095892],[120.44362154419805,23.482986866367792],[120.44368052668126,23.483095061246924],[120.44367248361537,23.48310243816726],[120.44355183762694,23.4831393227628]]]}}]}",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": "嘉義市北興街35號及北興街31巷18號 歷史沿革調查研究計畫"
+}

@@ -1,0 +1,100 @@
+{
+    "id": 20315,
+    "caseId": "20211221000002",
+    "count": 260,
+    "shareCount": 0,
+    "representImage": 148199,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-21/7687a9ef-d062-481b-b350-c3ae190e152d/PC2A000314N000000000PAA (1)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-21/7687a9ef-d062-481b-b350-c3ae190e152d/PC2A000314N000000000PAA (1).jpg",
+        "name": "PC2A000314N000000000PAA (1)"
+    },
+    "caseName": "明英宗坐像 軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色之代表性"
+    ],
+    "registerReason": "此作為存世唯一之明英宗朱祁鎮（1427-1464）全身像。由籤題標注「乾隆戊辰年重裝」及《南薰殿圖像考》等文獻資料可知，此像承自明代宮廷，並於乾隆十三年（1748）修復重裝後，貯存於南薰殿。畫作流傳有緒，可與宮廷奉祀儀典相互參照，且為存世歷代帝王座像採全身正面像之首例，具有高度歷史意義與研究價值。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第4條第3款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "中畫000314",
+    "amount": 1,
+    "descAge": "明",
+    "descSize": "本幅 208.3 x 154.5 公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "明英宗朱祁鎮（1427-1464）為宣宗之子，因親征瓦剌被俘，贖回後又驚險復位，際遇甚奇特。\n英宗坐像身著正式、具象徵性之袞服，營造端坐廟堂，臨朝聽政的姿態與氣勢，是歷代帝后像中採「全身正面像」存世首例。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "舊傷補。",
+    "documents": [
+        {
+            "fileid": 152310,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-02-08/25861daf-43cf-4ac4-8724-d44204febf4c/公告.pdf"
+        },
+        {
+            "fileid": 152311,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-02-08/4faf2bf5-7d14-4476-8e56-90efefcbe636/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.549499,
+    "latitude": 25.10037,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71767,
+            "caseId": 20315,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 76247,
+            "caseId": 20315,
+            "caseStatus": true,
+            "registerDate": 1639967069599,
+            "officialDocNo": "文授資局物字第11030139521號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

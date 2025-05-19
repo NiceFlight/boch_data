@@ -1,0 +1,159 @@
+{
+    "id": 18417,
+    "caseId": "20210201000001",
+    "count": 2079,
+    "shareCount": 1,
+    "representImage": 189565,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/ff62d9e1-73a9-4c63-bead-fc0db1a0f5c7/代表圖像_安西街2、4、6號店屋_20220718 _c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/ff62d9e1-73a9-4c63-bead-fc0db1a0f5c7/代表圖像_安西街2、4、6號店屋_20220718 .jpeg",
+        "name": "代表圖像_安西街2、4、6號店屋_20220718 "
+    },
+    "caseName": "安西街2、4、6號店屋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "建物格局為三(崁)店面開間，內部空間格局保持原有昭和時期之店屋型式，為大稻埕公園周邊少數留存的歷史建築，具地區風貌特色與價值。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 94046,
+            "name": "公告及地籍地形圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/8988f7e7-43c3-42ad-80ec-a42e6fe9437b/公告及地籍地形圖.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1.安西街2號、4號及6號約為1930年代同時期建造之連棟紅磚造店屋立面，騎樓進深為121公分，有其地方店屋與市區發展的意涵。\n2.建物格局為三(崁)店面開間，內部空間格局保持原有昭和時期之店屋型式，為大稻埕公園周邊少數留存的歷史建築，具地區風貌特色與價值。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 94047,
+            "name": "附件7-安西街2、4、6號店屋_地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/c082f065-58f7-4627-9683-b3529746f3ac/附件7-安西街2、4、6號店屋_地籍圖.pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "longitude": 121.510132,
+    "latitude": 25.058402,
+    "representImageSource": "臺北市文化局",
+    "landScope": "建築物坐落土地為延平段三小段164(36平方公尺）、 165(49平方公尺）、170(45平方公尺)地號等3筆土地。（實際保存面積須以保存範圍實測數據為準）",
+    "selfCoverage": "安西街2號：延平段三小段1432建號，約46.02m2\n安西街4號：延平段三小段1431建號，約69.67m2\n安西街6號：延平段三小段1433建號，約72.24m2\n(以地籍資料及保存範圍實測數據為準)",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 95065,
+            "caseId": 18417,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "安西街2號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 95066,
+            "caseId": 18417,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "安西街4號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 95067,
+            "caseId": 18417,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "安西街6號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 117471,
+            "caseId": 18417,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 189,
+            "landSerialNo": "164",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "36",
+            "cityLandUseTypeOther": "特定專用區(一)(供特定商業使用)",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 117472,
+            "caseId": 18417,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 189,
+            "landSerialNo": "165",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "49",
+            "cityLandUseTypeOther": "特定專用區(一)(供特定商業使用)",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 117473,
+            "caseId": 18417,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 189,
+            "landSerialNo": "170",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "45",
+            "cityLandUseTypeOther": "特定專用區(一)(供特定商業使用)",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 102564,
+            "caseId": 18417,
+            "caseStatus": true,
+            "registerDate": 1610985600000,
+            "officialDocNo": "北市文化文資字第11030062611 號",
+            "classificationId": 1,
+            "note": "歷史建築"
+        }
+    ],
+    "openVisitType": ""
+}

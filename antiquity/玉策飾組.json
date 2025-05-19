@@ -1,0 +1,101 @@
+{
+    "id": 4241,
+    "caseId": "20090630000013",
+    "count": 198,
+    "shareCount": 0,
+    "representImage": 7161,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36658/photo/8fb1c6a5-203a-4258-9e0f-7fdd4583b04a_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36658/photo/8fb1c6a5-203a-4258-9e0f-7fdd4583b04a.jpg",
+        "name": "8fb1c6a5-203a-4258-9e0f-7fdd4583b04a"
+    },
+    "caseName": "玉策飾組",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-交通工具",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1246291200000,
+    "officialDocNo": "會授資籌二字第0982108065號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "出土於小屯164號墓，根據考古出土的相關位置復原為馬策，是目前殷墟考古發現少見的玉質馬策飾。具有重要歷史、文化價值",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第3條第1項第1、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "南港區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "R009119",
+    "amount": 2,
+    "notes": "",
+    "descAge": "商（後期）",
+    "descCreator": "",
+    "descSize": "長8.2，徑1.3公分",
+    "descMaterial": "閃玉",
+    "reserveStatusDesc": "深綠色，直端粗，細端尖銳，榫部一穿孔。主體部份飾一圈雷紋，主體下有三角紋三。",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "1936年；河南安陽小屯墓164出土",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 54009,
+            "name": "20090630公告.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-01-10/534d5460-b9f6-4d29-a7df-8a5c189ae8c2/20090630公告.jpg"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "中央研究院歷史語言研究所",
+    "keepNames": [
+        {
+            "keepNameIdStr": "中央研究院歷史語言研究所",
+            "keepName": "中央研究院歷史語言研究所",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "中央研究院歷史語言研究所",
+            "keepAddressNew": "115台北市南港區研究院路二段130號",
+            "saveSpaceIdStr": "研究設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "南港區",
+            "keepNameAddress": "研究院路二段130號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "南港區",
+            "id": 116481,
+            "caseId": 4241,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 111
+        }
+    ],
+    "announces": [
+        {
+            "id": 127184,
+            "caseId": 4241,
+            "caseStatus": true,
+            "registerDate": 1246291200000,
+            "officialDocNo": "會授資籌二字第0982108065號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

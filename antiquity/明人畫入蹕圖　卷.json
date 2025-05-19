@@ -1,0 +1,101 @@
+{
+    "id": 20313,
+    "caseId": "20211220000003",
+    "count": 287,
+    "shareCount": 0,
+    "representImage": 148155,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-20/24bc006a-9cfe-428a-a512-d270254e1747/PC2A000055N000000000PAH_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-20/24bc006a-9cfe-428a-a512-d270254e1747/PC2A000055N000000000PAH.jpg",
+        "name": "PC2A000055N000000000PAH"
+    },
+    "caseName": "明人畫入蹕圖　卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色之代表性",
+        "具有獨特藝術造詣或科學成就"
+    ],
+    "registerReason": "〈入蹕圖〉題名雖未明示畫中皇帝身份，然因場景記錄詳實，足以與史料對照，故可推定為明神宗（1573-1620在位）謁陵之紀錄。此作開啟大尺寸帝王巡行紀實繪畫的先驅，並充分展現神宗朝宮廷畫家對人物、場景、佈局各方面精湛畫技。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第4條第3、4款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "中畫000055",
+    "amount": 1,
+    "descAge": "明",
+    "descSize": "92.1x 3003.6公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "總長度超過三千公分的高頭大卷〈入蹕圖〉，描繪帝王出京謁陵後，自水路返回宮苑之景況。畫中超過九百多名人物，穿著、持物、用具，均仍精緻亮麗，展現回鑾時盛大排場，締造出無比強大帝王氣勢。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "舊傷補。",
+    "documents": [
+        {
+            "fileid": 152292,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-02-08/bb90110e-9a92-4bdb-9a4a-2853034ef845/公告.pdf"
+        },
+        {
+            "fileid": 152293,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-02-08/08429e0c-1716-492d-801e-5659082d5aa4/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.549499,
+    "latitude": 25.10037,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": " ",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71753,
+            "caseId": 20313,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 76233,
+            "caseId": 20313,
+            "caseStatus": true,
+            "registerDate": 1639993912136,
+            "officialDocNo": "文授資局物字第11030139521號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

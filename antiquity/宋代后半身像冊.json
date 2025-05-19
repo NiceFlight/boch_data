@@ -1,0 +1,101 @@
+{
+    "id": 4537,
+    "caseId": "20170523000016",
+    "count": 533,
+    "shareCount": 0,
+    "representImage": 165822,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-05-27/b1e6317f-2f68-4952-a062-6c84a0137f82/C2A000323N000000001PAA_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-05-27/b1e6317f-2f68-4952-a062-6c84a0137f82/C2A000323N000000001PAA.jpg",
+        "name": "C2A000323N000000001PAA"
+    },
+    "caseName": "宋代后半身像冊",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1495468800000,
+    "officialDocNo": "中華民國106年5月23日文授資局物字第1063005353號",
+    "judgeCriteria": [
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少"
+    ],
+    "registerReason": "帝后半身像主要是供做全身畫像的初始樣稿，畫家先根據真人寫生繪成圖像，再據以製作成供神御殿供奉的大型立軸肖像。\r\n本冊共六開，每開二幅。分繪北宋宣祖后至南宋寧宗后等十二位帝后。均未繫名款，人物面相各箇不同，推測是出自當時御用畫家之手。\r\n此冊是故宮藏畫中時代最早的大型帝后半身像冊頁，不僅具有特殊的歷史意義，肖像本身，採鉤勒填彩法，形象真實，暈染生動，服飾及頭冠尤其描繪細膩，足以代表宋代肖像畫藝術的高度成就，極為難得。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第4條第1項第3、4、5款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "中畫000323",
+    "amount": 6,
+    "descAge": "宋",
+    "descSize": "56.2公分 x 45.7公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "本冊共六開，每開二幅。分繪北宋宣祖后至南宋寧宗后等十二位帝后。均未繫名款，雖不確知作者為誰，但人物面相各箇不同，推測是出自當時御用畫家之手。\n十二位帝后包括：1. 宣祖后；真宗后、2. 仁宗后；英宗后、3. 神宗后；哲宗后、4. 徽宗后；欽宗后、5. 高宗后；孝宗后、6. 光宗后；寧宗后等。\n清乾隆十三年（1748）曾重新改裝，畫心四周及封板俱裱以黃綾，題籤書「宋后像」。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "冊頁的封面封底有部分磨損、汙漬，題籤有破損。畫心輕微黃化，汙漬，重彩有部分剝落。",
+    "documents": [
+        {
+            "fileid": 148305,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-21/e1e02da2-bcdc-41ab-90f2-705785dfd814/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 80427,
+            "caseId": 4537,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 86413,
+            "caseId": 4537,
+            "caseStatus": true,
+            "registerDate": 1495468800000,
+            "officialDocNo": "中華民國106年5月23日文授資局物字第1063005353號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

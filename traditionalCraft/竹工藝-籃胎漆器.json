@@ -1,0 +1,205 @@
+{
+    "id": 2697,
+    "caseId": "20160504000002",
+    "count": 1249,
+    "shareCount": 2,
+    "representImage": 131252,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-08-11/e1393f61-496c-4138-b9af-d213ac4b1c21/李榮烈藝師_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-08-11/e1393f61-496c-4138-b9af-d213ac4b1c21/李榮烈藝師.jpg",
+        "name": "李榮烈藝師"
+    },
+    "caseName": "竹工藝-籃胎漆器",
+    "classifyCode": "4.2",
+    "classifyName": "傳統工藝",
+    "assetsTypeNames": "編織",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "4.2.2",
+    "assetsClassifyName": "重要傳統工藝\r\n",
+    "registerDate": 1462291200000,
+    "officialDocNo": "文授資局傳字第10530039651號函 ",
+    "documents": [
+        {
+            "fileid": 131250,
+            "name": "2016保存者李榮烈藝師公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-08-11/9d5b030a-40ae-4b59-a582-55a20aaefa5f/2016保存者李榮烈藝師公告.pdf"
+        },
+        {
+            "fileid": 131251,
+            "name": "2018重新登錄文化資產類別名稱公告(工藝).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-08-11/eaa6299d-46d2-4574-8cee-4fc5870d6098/2018重新登錄文化資產類別名稱公告(工藝).pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "反映古昔常民生活形態或娛樂類型，並在藝術或藝術史上具有重要價值者",
+        "地方色彩或流派特色顯著，並在藝術或藝術史上具有價值且瀕臨失傳者",
+        "傳統技藝或藝能，其結構技法，表現特別優秀，並在全國具有領先地位者"
+    ],
+    "registerReason": "一、竹編、漆藝反映常民生活智慧與實用、藝術造型之韻。\n二、保存者早年受竹編大師黃塗山先生指導，後向陳火慶先生學習漆藝技法與知識，其融合竹編與漆藝之｢籃胎漆器｣技藝，成為作品重要特色。\n三、保存者浸淫竹編工藝超越半世紀，作品技藝、器物造型、紋飾色澤，均達顛峰，且藝術成就傳統與創新兼融，並獲民族工藝獎、工藝成就獎肯定。",
+    "lawsReference": "文化資產保存法第91條\n傳統工藝登錄認定及廢止審查辦法第4條、第5條及第6條\n",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 12,
+    "belongCityName": "南投縣",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "0422177765",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "belongAddress": "南投縣草屯鎮",
+    "longitude": 120.72349919999999,
+    "latitude": 23.9933816,
+    "historyDevelopment": "李藝師浸淫竹編技藝超過半世紀，不儘熟稔竹工，亦精通木工技法，另外並嘗試運用以漆器技法處理竹編作品。以天然漆塗裝竹編作品表面，竹編器物經天然漆處理過後更顯內斂之美，此種特殊技法稱為籃胎漆器，籃胎漆器的運用為其作品上的一個重要特色。\r\n",
+    "preservers": [
+        {
+            "id": 15581,
+            "type": "個人",
+            "caseName": "李榮烈",
+            "cityName": "南投縣",
+            "distName": "草屯鎮",
+            "caseArtistEntities": [
+                {
+                    "id": 103,
+                    "caseId": 15581,
+                    "sex": 0,
+                    "name": "簡嘉儀 ",
+                    "bornYear": "1972",
+                    "closingYear": "2020",
+                    "customYear": "2016-2019",
+                    "contactCityId": 10,
+                    "contactDistId": 1009,
+                    "contactAddress": "大源19街3巷7號",
+                    "files": [],
+                    "videoFiles": [
+                        {
+                            "fileid": 172716,
+                            "name": "02藝生-簡嘉儀5.jpg",
+                            "thumbnailUrl": "https://data.boch.gov.tw/upload/representImageFile/2022-07-11/2461a144-e69c-4a9f-b5db-48f18cf017ae/02藝生-簡嘉儀5.jpg",
+                            "represent": true
+                        },
+                        {
+                            "fileid": 173578,
+                            "name": "簡嘉儀-1（2022）.jpg",
+                            "thumbnailUrl": "https://data.boch.gov.tw/upload/representImageFile/2022-07-18/642c39af-06d2-46e1-9399-64f081ff4c5e/簡嘉儀-1（2022）.jpg",
+                            "represent": false
+                        }
+                    ],
+                    "delete": false,
+                    "publishStatus": true,
+                    "createDate": 1657520630834,
+                    "createOrg": 25,
+                    "createId": 10778,
+                    "type": 2
+                },
+                {
+                    "id": 104,
+                    "caseId": 15581,
+                    "sex": 0,
+                    "name": "許秋鄉",
+                    "bornYear": "1969",
+                    "closingYear": "2020",
+                    "customYear": "2016-2019",
+                    "contactCityId": 12,
+                    "contactDistId": 1203,
+                    "contactAddress": "草屯鎮中正路574號",
+                    "files": [],
+                    "videoFiles": [
+                        {
+                            "fileid": 172717,
+                            "name": "02藝生-許秋鄉1.jpg",
+                            "thumbnailUrl": "https://data.boch.gov.tw/upload/representImageFile/2022-07-11/8072e279-173f-430e-bc87-e9d2c025f1cd/02藝生-許秋鄉1.jpg",
+                            "represent": true
+                        }
+                    ],
+                    "delete": false,
+                    "publishStatus": true,
+                    "createDate": 1657520740161,
+                    "createOrg": 25,
+                    "createId": 10778,
+                    "type": 2
+                },
+                {
+                    "id": 105,
+                    "caseId": 15581,
+                    "sex": 0,
+                    "name": "黃桂珠",
+                    "bornYear": "1961",
+                    "closingYear": "2021",
+                    "customYear": "2017-2020",
+                    "contactCityId": 12,
+                    "contactDistId": 1201,
+                    "contactAddress": "軍功里東山路39號5樓之2",
+                    "files": [],
+                    "videoFiles": [
+                        {
+                            "fileid": 172722,
+                            "name": "02藝生-黃桂珠3.jpg",
+                            "thumbnailUrl": "https://data.boch.gov.tw/upload/representImageFile/2022-07-11/b3ca8943-f354-4c57-ab02-a04e7edf334a/02藝生-黃桂珠3.jpg",
+                            "represent": false
+                        },
+                        {
+                            "fileid": 173579,
+                            "name": "黃桂珠-1（2022）.jpg",
+                            "thumbnailUrl": "https://data.boch.gov.tw/upload/representImageFile/2022-07-18/0ef01b46-3bf3-4c26-824a-ad4e5dca19c0/黃桂珠-1（2022）.jpg",
+                            "represent": true
+                        }
+                    ],
+                    "delete": false,
+                    "publishStatus": true,
+                    "createDate": 1657521027241,
+                    "createOrg": 25,
+                    "createId": 10778,
+                    "type": 2
+                }
+            ],
+            "representImage": 92894,
+            "patentNo": "第貳拾柒-001號",
+            "judgeCriteria": [
+                "熟知並能正確體現該登錄項目之知識、技藝與文化表現形式",
+                "具該登錄項目之傳習能力與意願",
+                "在文化脈絡下為適當者"
+            ],
+            "registerReason": "一、竹編、漆藝反映常民生活智慧與實用、藝術造型之韻。\n二、保存者早年受竹編大師黃塗山先生指導，後向陳火慶先生學習漆藝技法與知識，其融合竹編與漆藝之｢籃胎漆器｣技藝，成為作品重要特色。\n三、保存者浸淫竹編工藝超越半世紀，作品技藝、器物造型、紋飾色澤，均達顛峰，且藝術成就傳統與創新兼融，並獲民族工藝獎、工藝成就獎肯定。",
+            "lawsReference": "傳統工藝登錄認定及廢止審查辦法第4條、第5條及第6條",
+            "isOpenDownload": false,
+            "representImageSource": "文化部文化資產局",
+            "contactorIsOpen": false
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "文化部文化部文化資產局",
+    "addresses": [
+        {
+            "cityName": "南投縣",
+            "distName": "草屯鎮",
+            "id": 48366,
+            "caseId": 2697,
+            "caseStatus": true,
+            "cityId": 12,
+            "distId": 1203,
+            "address": "南投縣草屯鎮"
+        }
+    ],
+    "announces": [
+        {
+            "id": 50697,
+            "caseId": 2697,
+            "caseStatus": true,
+            "registerDate": 1462291200000,
+            "officialDocNo": "文授資局傳字第10530039651號函 ",
+            "classificationId": 1,
+            "note": "登錄竹工藝-籃胎漆器暨認定保存者李榮烈藝師"
+        },
+        {
+            "id": 50698,
+            "caseId": 2697,
+            "caseStatus": true,
+            "registerDate": 1515513600000,
+            "officialDocNo": "文授資局傳字第10730004691號",
+            "classificationId": 2,
+            "note": "重新登錄文化資產類別名稱"
+        }
+    ]
+}

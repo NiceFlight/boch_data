@@ -1,0 +1,134 @@
+{
+    "id": 1301,
+    "caseId": "20091027000001",
+    "count": 2572,
+    "shareCount": 2,
+    "representImage": 177019,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-07-28/6bc9741d-89cb-457a-8cf6-35169f0ff34f/0 IMG_2715_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-07-28/6bc9741d-89cb-457a-8cf6-35169f0ff34f/0 IMG_2715.jpg",
+        "name": "0 IMG_2715"
+    },
+    "caseName": "溪口吊橋遺構",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "舊稱溪口鐵線橋（第一代），為日治時期（1895年之後）興建，並於大正11（1922）年補修竣工。於石門水庫上游，跨越大漢溪，為溪口台地與角板山歷史上的主要連絡橋樑。民國52（1963）年葛樂禮颱風沖毀溪口鐵線橋（第一代）後，現尚存基座遺構，具橋樑工程技術史價值。\n\n溪口吊橋在建設的歷程中，材質、位置先後不同，日治時期最早興建的吊橋為鐵線橋（第一代），位於今日新橋西邊隨著材料及工法演進，戰後改以鋼纜興建，長度約有160公尺，是當時一座台灣少見長度和高度皆具規模的吊橋，限承重15人。隨著時間過去，鋼纜吊橋（第二代）的橋體也漸漸老舊，復興區公所再於原地興建「新溪口吊橋」，於 2016 年完工。新橋增加鋼纜強度，光鋼索母線即重達 12.5 噸，全長 303 公尺，為全臺最長的「吊床式吊橋」。",
+    "assetsTypeNames": "橋樑",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1256633279000,
+    "officialDocNo": "府文資字0981062509號",
+    "documents": [
+        {
+            "fileid": 177016,
+            "name": "府文資字0981062509號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-28/76631e12-85e5-48d1-8dd0-a52d0d159d8f/府文資字0981062509號.pdf"
+        },
+        {
+            "fileid": 177018,
+            "name": "府文資字第10303236382號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-28/da925fa7-1336-4f1c-a94b-caa0da79221f/府文資字第10303236382號.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "具有歷史文化價值、表現地域風貌及建築史價值",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "330",
+    "govInstitutionName": "桃園市政府",
+    "belongCityId": 5,
+    "belongCityName": "桃園市",
+    "belongDistName": "復興區",
+    "govInstitution": "桃園市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-3322592#8617",
+    "govDeptAddress": "桃園市桃園區縣府路21號",
+    "cadasters": [
+        {
+            "fileid": 177017,
+            "name": "地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-07-28/81d07c0a-4200-440c-8a14-f4a38b802adc/地籍圖.jpg"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 11,
+    "nonCityLandUseTypeName": "其他使用區",
+    "nonLandUseOtherType": "保護區",
+    "locationLandNo": "復興鄉角板段1156地號",
+    "buildingFeatures": "僅剩吊橋基座遺構，但仍可見原鐵線吊橋的傳統工法，不同於當今吊橋所使用的線纜的工法。",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "民國52（1963）年葛樂禮颱風沖毀溪口鐵線橋（第一代）後，現尚存基座遺構，具橋樑工程技術史價值。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "復興鄉澤仁村",
+    "isOpenVisit": false,
+    "isOpenDownload": false,
+    "longitude": 121.345817877781,
+    "latitude": 24.8116933397536,
+    "representImageSource": "桃園市政府文化局",
+    "landScope": "復興鄉角板段1156地號，面積730平方公尺。",
+    "selfCoverage": "溪口吊橋遺構",
+    "addresses": [
+        {
+            "cityName": "桃園市",
+            "distName": "復興區",
+            "id": 115245,
+            "caseId": 1301,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 511,
+            "address": "澤仁里"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "桃園市",
+            "distName": "復興區",
+            "landNoName": "角板段",
+            "noncityLandUseTypeName": "其他使用區",
+            "id": 159989,
+            "caseId": 1301,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 511,
+            "landNoId": 7655,
+            "landSerialNo": "1156",
+            "landownership": 1,
+            "noncityLandUseTypeId": 11,
+            "area": "",
+            "noncityLandUseTypeOther": "保護區",
+            "note": "",
+            "cityLandUseId": 2
+        }
+    ],
+    "announces": [
+        {
+            "id": 125521,
+            "caseId": 1301,
+            "caseStatus": true,
+            "registerDate": 1256633279000,
+            "officialDocNo": "府文資字0981062509號",
+            "classificationId": 1
+        },
+        {
+            "id": 125522,
+            "caseId": 1301,
+            "caseStatus": true,
+            "registerDate": 1421078400000,
+            "officialDocNo": "府文資字第10303236382號",
+            "classificationId": 2,
+            "note": "行政改制"
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"桃園市復興區角板段1156\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": "桃園市文化資產導覽手冊"
+}

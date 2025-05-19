@@ -1,0 +1,94 @@
+{
+    "id": 22978,
+    "caseId": "20240911000002",
+    "count": 21,
+    "shareCount": 0,
+    "representImage": 262111,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-09-12/03b3c290-3094-40dc-871b-05a6409a6246/PK1B017908N000000000PAD_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-09-12/03b3c290-3094-40dc-871b-05a6409a6246/PK1B017908N000000000PAD.jpg",
+        "name": "PK1B017908N000000000PAD"
+    },
+    "caseName": "南宋 十二至十三世紀 官窯青瓷印花龍紋洗",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "此件龍紋圓洗釉色粉青，口沿有釉層疊壓的痕跡。多次施釉使得厚釉失透，釉色瑩徹，潤澤如玉，開片呈現冰裂的效果。而這種效果須經過多次素燒、施釉、陰乾而成，是非常困難的燒造技術，耗工費時。\n此類龍紋圓洗雖也有其他少量傳世作品，但此件尺寸尤為巨大，極為難得。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第4、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故瓷017908",
+    "amount": 1,
+    "descAge": "南宋 十二至十三世紀",
+    "descSize": "高7.8 口徑24.7 底徑17.4",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "此件圓洗微敞口、平底，造型規整，線條俐落。低圈足，足緣露褐色環形墊燒痕。器內底寬平，滿印龍紋一。龍首側顏居盤心，龍身逆時鐘盤降而下。全器胎厚，陽文龍紋押印而成，故外底部也隱約可見凹凸不平的印紋痕跡。器表施厚釉，釉色粉青潤澤，釉表滿布冰裂紋；口沿薄釉處，若隱若現能觀察到多次施釉的痕跡。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "  ",
+    "documents": [
+        {
+            "fileid": 262114,
+            "name": "11330087931號公告用印後PDF.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-09-12/2e457bfc-15dd-46f2-a51d-d6f5c329fae8/11330087931號公告用印後PDF.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 135888,
+            "caseId": 22978,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "臺北市士林區至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 148362,
+            "caseId": 22978,
+            "caseStatus": true,
+            "registerDate": 1725292800000,
+            "officialDocNo": "文授資局物字第11330087931號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

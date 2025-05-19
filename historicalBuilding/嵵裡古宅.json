@@ -1,0 +1,130 @@
+{
+    "id": 1785,
+    "caseId": "20081203000001",
+    "count": 1727,
+    "shareCount": 0,
+    "representImage": 3582,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/38133/photo/e183127d-d3f6-4381-8966-4d9972bfefc5_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/38133/photo/e183127d-d3f6-4381-8966-4d9972bfefc5.JPG",
+        "name": "e183127d-d3f6-4381-8966-4d9972bfefc5"
+    },
+    "caseName": "嵵裡古宅",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "此建築為陳恭(1909-1988)所建，16歲於青灣內海區後港邊，開始潛水挖硓𥑮石，長達7年，起厝1年，耗時8年興建完成，玄武岩來自石材店，木料及瓦購自大陸．\n昭和23(1948)年第二次世界大戰期間，屋頂遭砲彈炸毀，聘大陸師傅修建，將紅瓦改為黑瓦。\n",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1228287215000,
+    "officialDocNo": "府授文資字第0973700163號",
+    "documents": [
+        {
+            "fileid": 76328,
+            "name": "公告公文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-11-24/30658cbc-3bf4-41d5-a3de-f330ef9ee93e/公告公文.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "建於西元1920年代，由在地人士合作完成，展現地域風貌特色，其形制建材及裝飾具地方特色。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、2、3、4款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "06-9261141#138",
+    "govDeptAddress": "澎湖縣馬公市中華路230號",
+    "cadasters": [
+        {
+            "fileid": 3583,
+            "name": "0eee2e11-4196-4984-aa68-d8542409fa38.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/75313/photo/0eee2e11-4196-4984-aa68-d8542409fa38.jpg"
+        },
+        {
+            "fileid": 75297,
+            "name": "109XA010928PIC1.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2020-11-23/f1ebdca6-ab5c-4fc0-8053-ca8574c20fbc/109XA010928PIC1.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 4,
+    "nonCityLandUseTypeName": "鄉村區",
+    "nonCityLandUseSubTypeId": 2,
+    "nonCityLandUseSubTypeName": "乙種建築",
+    "locationLandNo": "重測前：馬公市嵵裡段434地號\n重測後：馬公市嵵裡新段654地號\n",
+    "buildingFeatures": "建築為門樓形式（八卦樓）、水泥屋瓦及紅瓦",
+    "inHouseFeatures": "半截堵砌石",
+    "buildingUsage": "開放",
+    "buildingActualState": "目前古宅以祭祀使用居多。\n民國98(2009)年3月23日府授文資字第0983700034號函同意核予補助證明-澎湖縣歷史建築(傳統古厝)維護及再利用獎助計畫。\n規劃設計：林献瑞建築師事務所\n施工廠商：穩泰營造工程有限公司\n",
+    "buildingKeyMaintainItem": "安排人員定期清理四周環境。",
+    "bulkTransfer": 0,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "belongAddress": "嵵裡里77號",
+    "isOpenVisit": true,
+    "openUpTime": "每日10:00~17:00",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 119.570518,
+    "latitude": 23.525442,
+    "representImageSource": "澎湖縣政府文化局文化資產科",
+    "landScope": "澎湖縣馬公市嵵裡新段654地號",
+    "selfCoverage": "嵵裡古宅為一處傳統民居，位於水仙宮後方。",
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 88883,
+            "caseId": 1785,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "嵵裡里77號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "landNoName": "嵵裡新段",
+            "noncityLandUseTypeName": "鄉村區",
+            "id": 106366,
+            "caseId": 1785,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "landNoId": 15611,
+            "landSerialNo": "654",
+            "landownership": 2,
+            "noncityLandUseTypeId": 4,
+            "area": "145.67平方公尺",
+            "noncityLandUseTypeOther": "乙種建築用地",
+            "note": "重測前：澎湖縣馬公市嵵裡段434地號",
+            "cityLandUseId": 2
+        }
+    ],
+    "announces": [
+        {
+            "id": 95897,
+            "caseId": 1785,
+            "caseStatus": true,
+            "registerDate": 1228287215000,
+            "officialDocNo": "府授文資字第0973700163號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[119.57031059348184,23.52543175780365],[119.5704162802733,23.525391540345414],[119.57034891909557,23.525283759012453],[119.57026008930181,23.52532264186821],[119.57031059348184,23.52543175780365],[119.57031059348184,23.52543175780365]]]]},\"properties\":{\"envelope\":{\"left\":\"119.57026008930181\",\"top\":\"23.525283759012453\",\"right\":\"119.57041628027331\",\"bottom\":\"23.525431757803648\"},\"landLot\":\"澎湖縣馬公市裡新段654\"}}],\"notfound\":[]}]",
+    "openVisitType": ""
+}

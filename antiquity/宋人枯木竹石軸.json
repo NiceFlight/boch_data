@@ -1,0 +1,101 @@
+{
+    "id": 3807,
+    "caseId": "20130809000009",
+    "count": 284,
+    "shareCount": 0,
+    "representImage": 6603,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7352/photo/宋人枯木竹石軸_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7352/photo/宋人枯木竹石軸.JPG",
+        "name": "宋人枯木竹石軸"
+    },
+    "caseName": "宋人枯木竹石軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1375977600000,
+    "officialDocNo": "文資局物字第10220090431號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "此軸以飛白筆法畫石塊，墨淡而筆勁。墨筆畫成的叢竹、枯木出於石塊後方，石塊前側又有蘭草叢生，而枯枝之上棲停著一隻鳥禽。構圖雖略顯中軸對稱，但畫中飛白石、古木、蘭竹等物象，並未依循實際生態，而傾向於筆墨效果的展現，屬元代枯木竹石畫風。畫中枯木與國立故宮博物院藏趙孟頫〈竹石古木〉表現類似。\r\n本幅無款，舊籤稱此軸出自宋人之手，但其以飛白筆法畫石塊，墨淡而筆勁。畫中石、古木、蘭竹等物象的筆墨表現又變化多端。根據畫風，推測此作或與趙孟頫有關，是枯木竹石類的早期代表作之一。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第3、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000155",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descSize": "107.9 x 51.1（公分）",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "此軸以飛白筆法畫石塊，墨淡而筆勁。墨筆畫成的叢竹、枯木出於石塊後方，石塊前側又有蘭草叢生，而枯枝之上棲停著一隻鳥禽。構圖雖略顯中軸對稱，但畫中飛白石、古木、蘭竹等物象，並未依循實際生態，而傾向於筆墨效果的展現，屬元代枯木竹石畫風。畫中枯木與院藏趙孟頫〈竹石古木〉表現類似，此畫上雖無款印，但可推測為此一畫風的元代例證，學者推測或許正與趙孟頫關係密切。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 150426,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-17/ed7623ea-1fab-4f6f-8056-4d6d6caa0251/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路2段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70950,
+            "caseId": 3807,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": " 至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 75228,
+            "caseId": 3807,
+            "caseStatus": true,
+            "registerDate": 1375977600000,
+            "officialDocNo": "文資局物字第10220090431號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

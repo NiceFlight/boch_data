@@ -1,0 +1,114 @@
+{
+    "id": 5017,
+    "caseId": "20170913000003",
+    "count": 7008,
+    "shareCount": 14,
+    "representImage": 184416,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/836b4b7d-ab29-4e08-9581-d3d388b2131c/代表圖像_立法院議場_20220712_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/836b4b7d-ab29-4e08-9581-d3d388b2131c/代表圖像_立法院議場_20220712.jpeg",
+        "name": "代表圖像_立法院議場_20220712"
+    },
+    "caseName": "立法院議場",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "1960年興建之議場，位在中庭中軸線上，外觀簡潔、比例優美，為虞曰鎮建築師所設計之現代主義風格建築。 議場為國家議事之場域、重大法案之催生地，見證臺灣民主發展，其歷史地位具代表性。",
+    "assetsTypeNames": "衙署",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 15814,
+            "name": "立法院議場歷史建築公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2017-09-12/6e0603bb-47ae-42f4-9ee9-4090c182574f/立法院議場歷史建築公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "1. 1960年興建之議場，位在中庭中軸線上，外觀簡潔、比例優美，為虞曰鎮建築師所設計之現代主義風格建築。\n2. 議場為國家議事之場域、重大法案之催生地，見證臺灣民主發展，其歷史地位具代表性。\n3. 符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、3、4款評定基準。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第2款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 15816,
+            "name": "地籍圖7.gif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2017-09-12/8361997e-3017-4eed-8a3a-fb20af294f19/地籍圖7.gif"
+        },
+        {
+            "fileid": 15817,
+            "name": "都市計畫圖.gif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2017-09-12/afd01816-960d-4c91-b4fe-d007ef45256c/都市計畫圖.gif"
+        },
+        {
+            "fileid": 15818,
+            "name": "套繪圖.png",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2017-09-12/51340e2a-8e93-4894-acee-cb3b44629f5d/套繪圖.png"
+        }
+    ],
+    "locationLandNo": "座落於臺北市中正區成功段三小段98地號（部分）",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "longitude": 121.52085943696449,
+    "latitude": 25.043652633842505,
+    "representImageSource": "臺北市文化局",
+    "landScope": "建物座落於臺北市中正區成功段三小段98地號（部分）。該地號土地面積為：19,454㎡",
+    "selfCoverage": "建物為成功段三小段671建號（建物總面積4,313.37平方公尺）。（實際保存面積須以保存範圍實測數據為準）",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 114481,
+            "caseId": 5017,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "中山南路1號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "成功段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 158495,
+            "caseId": 5017,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 142,
+            "landSerialNo": "98",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "19,454平方公尺",
+            "cityLandUseTypeOther": "國中用地",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 124643,
+            "caseId": 5017,
+            "caseStatus": true,
+            "registerDate": 1496678400000,
+            "officialDocNo": "北市文化文資字第10630449400號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "geojson": "[{\"features\":[{\"geometry\":{\"coordinates\":[[[[121.5192226335,25.043678436353],[121.51993255723,25.043519951759],[121.51983739031,25.043190666093],[121.52087454312,25.042940535247],[121.52091729865,25.042963284707],[121.52119615128,25.043948520399],[121.52117105936,25.043987691455],[121.51947799961,25.044398433122],[121.51942349514,25.044369449027],[121.5192226335,25.043678436353]]]],\"type\":\"MultiPolygon\"},\"type\":\"Feature\",\"properties\":{\"ymin\":25.042940535247,\"xmin\":121.5192226335,\"段號\":980000,\"query\":\"臺北市,成功段三小段,98\",\"ycenter\":25.0436694841845,\"land_id\":980000,\"area_id\":\"AB\",\"content\":\"1. 個案名稱: 立法院議場 <br />\\n      2. 地號: 臺北市,成功段三小段,98 <br />\\n      3. 種類: 衙署 <br />\\n      4. 指定登錄理由: 1. 1960年興建之議場，位在中庭中軸線上，外觀簡潔、比例優美，為虞曰鎮建築師所設計之現代主義風格建築。\\n2. 議場為國家議事之場域、重大法案之催生地，見證臺灣民主發展，其歷史地位具代表性。\\n3. 符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、3、4款評定基準。 <br />\\n      5. 最後一筆公告日期: 2017-06-06 <br />\\n      6. 最後一筆公告文號: 北市文化文資字第10630449400號 <br />\\n      7. 管理單位: 立法院 <br />\\n      8. 使用單位: 立法院 <br />\\n      9. 建物狀態: 現況良好 <br />\",\"地段\":\"成功段三小段\",\"縣市\":\"臺北市\",\"ymax\":25.044398433122,\"xcenter\":121.52020939239,\"xmax\":121.52119615128,\"section_id\":\"0250\",\"鄉鎮\":\"中正區\",\"id\":\"AB0250\",\"query_log\":[]}}],\"address\":[{\"address\":\"1. 個案名稱: 立法院議場 <br />\\n      2. 地址: 中山南路1號 <br />\\n      3. 種類: 衙署 <br />\\n      4. 指定登錄理由: 1. 1960年興建之議場，位在中庭中軸線上，外觀簡潔、比例優美，為虞曰鎮建築師所設計之現代主義風格建築。\\n2. 議場為國家議事之場域、重大法案之催生地，見證臺灣民主發展，其歷史地位具代表性。\\n3. 符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、3、4款評定基準。 <br />\\n      5. 最後一筆公告日期: 2017-06-06 <br />\\n      6. 最後一筆公告文號: 北市文化文資字第10630449400號 <br />\\n      7. 管理單位: 立法院 <br />\\n      8. 使用單位: 立法院 <br />\\n      9. 建物狀態: 現況良好 <br />\",\"lat\":\"25.043652633842505\",\"lng\":\"121.52085943696449\"}],\"notFound\":[],\"type\":\"FeatureCollection\"}]",
+    "openVisitType": "不開放參觀"
+}

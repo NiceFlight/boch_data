@@ -1,0 +1,96 @@
+{
+    "id": 19616,
+    "caseId": "20210719000007",
+    "count": 106,
+    "shareCount": 0,
+    "representImage": 125150,
+    "representImageInfo": {
+        "ext": "bmp",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-19/7afc5166-5d06-4147-8be0-c2eacc85aa18/圖片7_c.bmp"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-19/7afc5166-5d06-4147-8be0-c2eacc85aa18/圖片7.bmp",
+        "name": "圖片7"
+    },
+    "caseName": "清乾隆茶葉末釉獸耳壺",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "數量特別稀少或具完整性保存意義者",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此器呈侈口直頸，雙獸形耳，碩腹，圈足外撇。全器施茶葉末釉，圈足露胎一圈塗鐵汁，足內及器內皆施釉。器身飾帶狀條紋，器底模印「大清乾隆年製」篆書款。對照《欽定大清會典則例》中，乾隆皇帝追述父親雍正皇帝重鑄古代青銅器時的說法：「皇考世宗憲皇帝時，考按經典範銅為器，頒之闕里，俾為世守」，一窺雍正官窯產燒如實仿燒銅器器形的可能背景。並且從中推想乾隆皇帝降旨仿效《考古圖》、《宣和博古圖》體例，編輯《西清古鑑》、《寧壽鑑古》和《西清續鑑》甲、乙編等青銅器圖錄，或許也可以將之看成是依循雍正皇帝而來的進一步發揮。此件作品臨仿銅器原型，再予局部調整，使之形塑出和青銅器不同的樣式。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "0422177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "中瓷001887",
+    "amount": 1,
+    "descAge": " 乾隆",
+    "descSize": "高51.8公分 口徑24.3公分 底徑26.2公分",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "此器為仿銅壺形制，頸兩側安置獸形雙耳，頸面模印帶狀條紋兩道，腹面則由橫縱雙向帶紋交織成十字，中心交結點呈菱形內凹，橢圓形高圈足外撇。通體施茶葉末釉，足底緣無釉刷鐵汁，器底模印「大清乾隆年製」篆書款。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "口沿舊磨擦痕。",
+    "documents": [
+        {
+            "fileid": 142755,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-04/eaaa6606-0dae-4ce9-9ee9-72f15d11b86b/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.5484322510235,
+    "latitude": 121.5484322510235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "台北市士林區至善路2段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 66417,
+            "caseId": 19616,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 70606,
+            "caseId": 19616,
+            "caseStatus": true,
+            "registerDate": 1624431602822,
+            "officialDocNo": "文授資局物字第11030062561號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

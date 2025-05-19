@@ -1,0 +1,100 @@
+{
+    "id": 600,
+    "caseId": "19851127000066",
+    "count": 2967,
+    "shareCount": 2,
+    "representImage": 283835,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2025-04-22/f0fa382b-1bf4-42d1-a589-0242c91fd523/古044烏鬼井_P003_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2025-04-22/f0fa382b-1bf4-42d1-a589-0242c91fd523/古044烏鬼井_P003.jpg",
+        "name": "古044烏鬼井_P003"
+    },
+    "caseName": "烏鬼井",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "古井",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "registerDate": 501868800000,
+    "officialDocNo": "中華民國74年11月27日台內民字第357272號",
+    "documents": [
+        {
+            "fileid": 156856,
+            "name": "烏鬼井公告74.11.27.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-03-30/1dc7bc66-2202-4342-9942-32e7506ad481/烏鬼井公告74.11.27.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值"
+    ],
+    "registerReason": "公告無資料",
+    "lawsReference": "依據行政院文化建設委員會74年11月13日文建壹字第4499號函及文化資產保存法第27條第1項暨同法施行細則第40條規定辦理。",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "北區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 142228,
+            "name": "烏鬼井地籍地圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-11-01/66738e63-983a-4769-aefa-e87ded4615c5/烏鬼井地籍地圖.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "北區北華段1163地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "belongAddress": "城朔里自強街146巷10號前右側",
+    "isOpenDownload": false,
+    "longitude": 120.204025191448,
+    "latitude": 23.0017616271458,
+    "representImageSource": "臺南市政府",
+    "landScope": "公告無資料",
+    "selfCoverage": "公告無資料",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "北區",
+            "id": 148704,
+            "caseId": 600,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1605,
+            "address": "城朔里自強街146巷10號"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 161681,
+            "caseId": 600,
+            "caseStatus": true,
+            "registerDate": 501868800000,
+            "officialDocNo": "臺內民字第357272號",
+            "classificationId": 1
+        }
+    ],
+    "openVisitType": "完全開放參觀",
+    "openUpTime": "全日開放",
+    "isCharge": false,
+    "pastHistorySource": "待修復或再利用計畫完成後填列"
+}

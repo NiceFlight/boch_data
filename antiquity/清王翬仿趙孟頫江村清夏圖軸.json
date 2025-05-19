@@ -1,0 +1,101 @@
+{
+    "id": 15331,
+    "caseId": "20171122000006",
+    "count": 375,
+    "shareCount": 1,
+    "representImage": 46887,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2017-11-22/da85041d-1d5e-4844-9d50-dc013fbca0bf/清王翬仿趙孟頫江村清夏圖軸_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2017-11-22/da85041d-1d5e-4844-9d50-dc013fbca0bf/清王翬仿趙孟頫江村清夏圖軸.jpg",
+        "name": "清王翬仿趙孟頫江村清夏圖軸"
+    },
+    "caseName": "清王翬仿趙孟頫江村清夏圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1509603312068,
+    "officialDocNo": "文授資局物字第10630122631號",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就"
+    ],
+    "registerReason": "王翬(1632－1717），清初畫家，善畫山水，以王鑑、王時敏為師，筆墨參古今，畫技精熟，與王時敏、王鑑、王原祁並稱為「四王」。\n本幅作於康熙四十五年（1706），時王翬七十五歲。作坡渚連天，曲徑蜿蜒，飛燕穿梭，群鷺翔集。薄施石綠，別有清涼秀潤之氣。據題識，王翬因見元代趙孟頫所作〈江村清夏〉圖，而擬其畫意。王翬此作已自出心裁，筆墨設色精到，這是古代畫意為題，實是表達自我胸中景像，且作品為大幅，足稱為晚年佳作。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第1項第4款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故畫000725",
+    "amount": 1,
+    "descAge": "清",
+    "descCreator": "王翬",
+    "descSize": "117.9公分x61.5公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "王翬（1632－1717），常熟人。字石谷，號耕煙散人、清暉主人、烏目山人、劍門樵客。山水得王時敏指授，為清四大家之一。\n本幅作於康熙四十五年（1706），時王翬七十五歲。作坡渚連天，曲徑蜿蜒，飛燕穿梭，群鷺翔集。薄施石綠，別有清涼秀潤之氣。據題識，王翬因見元代趙孟頫所作〈江村清夏〉圖，而擬其畫意。實則王翬此作已自出心裁，筆墨精到，足稱為晚年佳作。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "本幅有部分霉傷、折裂、磨損、蟲蛀、污漬、霉斑、褐斑。裱綾輕微黃化。",
+    "documents": [
+        {
+            "fileid": 147515,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-14/c8a2e976-1cc7-4b32-9d12-3a8350831181/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69125,
+            "caseId": 15331,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73249,
+            "caseId": 15331,
+            "caseStatus": true,
+            "registerDate": 1509603312068,
+            "officialDocNo": "文授資局物字第10630122631號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

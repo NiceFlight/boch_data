@@ -1,0 +1,102 @@
+{
+    "id": 3541,
+    "caseId": "20130613000023",
+    "count": 331,
+    "shareCount": 0,
+    "representImage": 6187,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7503/photo/明祝允明詩帖卷_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7503/photo/明祝允明詩帖卷.JPG",
+        "name": "明祝允明詩帖卷"
+    },
+    "caseName": "明祝允明詩帖卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1371052800000,
+    "officialDocNo": "文資局物字第10220064921號",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "此卷為祝允明草書自書七言律詩九首，內容大致描寫蘇州近郊名勝。本作寫於質地堅韌緊密的金栗山藏經紙，此紙為熟紙，縱筆揮寫草書，毫鋩畢現，墨色也呈現豐富變化，凸顯出強勁飛揚的筆勢。無論在空間安排，或用筆的輕重急徐，都蘊含著豐富的變化。運筆流暢圓轉，抑揚頓挫的書寫節奏，搭配筆勢的輕重緩急等書寫技巧，將草書藝術發揮到淋漓盡致，達到隨心所欲的書寫境界。\r\n此卷為祝允明今草風格的代表作，用筆結字都帶有明確個人風格。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第四、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故書000096",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descCreator": "祝允明",
+    "descSize": "24.5公分 x 440.3公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "草書自書七言律詩九首，內容大致描寫蘇州近郊名勝。本作寫於質地堅韌緊密的金栗山藏經紙，金粟山在浙江海鹽，山下金粟寺藏此宋代質優大藏經紙。此紙為熟紙，縱筆揮寫草書，毫鋩畢現，墨色也呈現豐富變化，凸顯出強勁飛揚的筆勢。無論在空間安排，或用筆的輕重急徐，都蘊含著豐富的變化。運筆流暢圓轉，抑揚頓挫的書寫節奏，搭配筆勢的輕重緩急等書寫技巧，將草書藝術發揮到淋漓盡致，達到隨心所欲的書寫境界。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 150660,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-18/9ed8fa04-0b08-49a7-8281-1dc932ca1b6d/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71061,
+            "caseId": 3541,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75381,
+            "caseId": 3541,
+            "caseStatus": true,
+            "registerDate": 1371052800000,
+            "officialDocNo": "文資局物字第10220064921號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

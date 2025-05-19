@@ -1,0 +1,126 @@
+{
+    "id": 1132,
+    "caseId": "20040831000001",
+    "count": 2630,
+    "shareCount": 4,
+    "representImage": 2273,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/4808/photo/C050新北市瑞芳翁山英故居(歷建)(1)_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/4808/photo/C050新北市瑞芳翁山英故居(歷建)(1).JPG",
+        "name": "C050新北市瑞芳翁山英故居(歷建)(1)"
+    },
+    "caseName": "瑞芳翁山英故居",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "建築物類",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1093947955000,
+    "officialDocNo": "北府文資字第0930007735號",
+    "documents": [
+        {
+            "fileid": 161633,
+            "name": "瑞芳翁山英故居公告-93.08.31.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-27/9b94cacc-881d-4b24-be26-7a0316bc7033/瑞芳翁山英故居公告-93.08.31.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "一、本建築係日治大正初年所建，見證九份礦山街之高峰期文化，此屋具有人文意義且翁山英行誼對當地商業有貢獻。\n二、建物本身為石造及木構造混合，空間變化豐富，前為一樓，後為二樓，兩者之間設天井，其外型、規模、內部空間之特色皆為九份之風情印象。\n",
+    "lawsReference": "文化資產保存法第27條之1（89年修訂公布）暨歷史建築登錄及輔助辦法第7條",
+    "govInstitutionCode": "220",
+    "govInstitutionName": "新北市政府",
+    "belongCityId": 3,
+    "belongCityName": "新北市",
+    "belongDistName": "瑞芳區",
+    "govInstitution": "新北市政府文化局",
+    "govDeptName": "文化資局",
+    "govDeptPhone": "(02)29603456",
+    "govDeptAddress": "新北市板橋區中山路一段161號28樓",
+    "cadasters": [
+        {
+            "fileid": 101243,
+            "name": "瑞芳翁山英故居歷史建築清冊-7.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-03-18/a38d0c89-c70d-41b3-b643-784b5112265a/瑞芳翁山英故居歷史建築清冊-7.pdf"
+        },
+        {
+            "fileid": 161634,
+            "name": "瑞芳翁山英故居地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-04-27/77fa2864-e85f-4ca9-a03f-8963df3dc26b/瑞芳翁山英故居地籍圖.jpg"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 4,
+    "nonCityLandUseTypeName": "鄉村區",
+    "nonCityLandUseSubTypeId": 2,
+    "nonCityLandUseSubTypeName": "乙種建築",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "瑞芳區焿子寮段165地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "wenSitename": "九份茶坊",
+    "wenSiteaddress": "https://www.jioufen-teahouse.com.tw/tw/jioufen-teahouse/background-story",
+    "belongAddress": "瑞芳區基山街142號",
+    "isOpenVisit": true,
+    "openUpTime": "12:00~18:00",
+    "isCharge": true,
+    "isOpenDownload": false,
+    "longitude": 121.843541463564,
+    "latitude": 25.1081472193723,
+    "representImageSource": "無",
+    "landScope": "瑞芳區焿子寮段165地號",
+    "selfCoverage": "建築物本體\n",
+    "addresses": [
+        {
+            "cityName": "新北市",
+            "distName": "瑞芳區",
+            "id": 107495,
+            "caseId": 1132,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 307,
+            "address": "基山街142號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "新北市",
+            "distName": "瑞芳區",
+            "landNoName": "焿子寮段",
+            "id": 134014,
+            "caseId": 1132,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 307,
+            "landNoId": 6223,
+            "landSerialNo": "165地號",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 115484,
+            "caseId": 1132,
+            "caseStatus": true,
+            "registerDate": 1093947955000,
+            "officialDocNo": "北府文資字第0930007735號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"新北市瑞芳區子寮段165地號\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": "待修復或再利用計畫完成後填列"
+}

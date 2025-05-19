@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "高雄市前鎮區獅甲段6-4"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

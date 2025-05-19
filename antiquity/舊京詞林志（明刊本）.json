@@ -1,0 +1,105 @@
+{
+    "id": 3552,
+    "caseId": "20130813000007",
+    "count": 34,
+    "shareCount": 0,
+    "representImage": 6207,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7269/photo/舊京詞林志（明刊本）_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7269/photo/舊京詞林志（明刊本）.png",
+        "name": "舊京詞林志（明刊本）"
+    },
+    "caseName": "舊京詞林志（明刊本）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1376323200000,
+    "officialDocNo": "文資局物字第 10220091271號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "明萬曆二十五年(1597)原刊本。\r\n此書是記載明代翰林院文獻留存不多的志書之一。明太祖定鼎南京，一時朝廷典冊，百司章奏必錄副藏之詞林。萬曆間（1573-1620），掌南京翰林院事周應賓，備衙門故實，勒成一書。首紀事，次紀典，又次紀官，無不釐然畢具。此書版面清朗、字畫明晰，刻印甚精。\r\n明版古籍，罕見稀有，具重要歷史、文化與學術價值。\r\n此書為中國現存最早的銅活字本，品質評價不高，歷史價值卻深受重視，為明代罕見之版本，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號04926",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 2,
+    "notes": "",
+    "descAge": "明萬曆二十五年(1597)",
+    "descCreator": "明周應賓撰",
+    "descSize": "半葉10行，版匡20.2x14.2公分",
+    "descMaterial": "紙質刊本",
+    "reserveStatusDesc": "六卷。此書是記載明代翰林院文獻留存不多的志書之一。明太祖定鼎南京，一時朝廷典冊，百司章奏必錄副藏之詞林。萬曆間（1573-1620），掌南京翰林院事周應賓，備衙門故實，勒成一書。首紀事，次紀典，又次紀官，無不釐然畢具。此書版面清朗、字畫明晰，刻印甚精。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "第1冊部分蟲蛀。經修裱，書況尚稱良好。\n",
+    "documents": [
+        {
+            "fileid": 6208,
+            "name": "f3a51a95-db1f-4a6f-8b9e-eca879b7ab8b.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44146/file/f3a51a95-db1f-4a6f-8b9e-eca879b7ab8b.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3694,
+            "caseId": 3552,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3694,
+            "caseId": 3552,
+            "caseStatus": true,
+            "registerDate": 1376323200000,
+            "officialDocNo": "文資局物字第 10220091271號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

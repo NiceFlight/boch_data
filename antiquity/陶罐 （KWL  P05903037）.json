@@ -1,0 +1,106 @@
+{
+    "id": 2916,
+    "caseId": "20090121000004",
+    "count": 371,
+    "shareCount": 0,
+    "representImage": 5290,
+    "representImageInfo": {
+        "ext": "gif",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36958/photo/d0e1bede-bfa9-4b60-ac2b-d83b98b3b304_c.gif"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36958/photo/d0e1bede-bfa9-4b60-ac2b-d83b98b3b304.gif",
+        "name": "d0e1bede-bfa9-4b60-ac2b-d83b98b3b304"
+    },
+    "caseName": "陶罐 （KWL  P05903037）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1232467200000,
+    "officialDocNo": "府文資字第0980000326號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "（1）為淇武蘭遺址中出土最完整的陶罐，對考古標本而言十分難得，具代表性。\n（2）本陶罐製作精美且紋飾富變化，呈現噶瑪蘭族群早期重要的工藝技術與成就。\n（3）完整呈現史前噶瑪蘭族群的精美工藝技術，足以成為該族群的歷史文化標記物。",
+    "lawsReference": "「文化資產保存法」第65條、「古物分級登錄指定及廢止審查辦法」第2條",
+    "govInstitutionCode": "260",
+    "govInstitutionName": "宜蘭縣政府",
+    "belongCityId": 4,
+    "belongCityName": "宜蘭縣",
+    "belongDistName": "宜蘭市",
+    "govInstitution": "宜蘭縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-9322440#609",
+    "govDeptAddress": "宜蘭縣宜蘭市復興路二段101號",
+    "reservationCode": "KWL  P05903037",
+    "amount": 1,
+    "notes": "",
+    "descAge": "600-200年前",
+    "descCreator": "噶瑪蘭人",
+    "descSize": "口徑110mm、總高131mm、腹厚2m",
+    "descMaterial": "陶",
+    "reserveStatusDesc": "陶",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "宜蘭縣礁溪鄉淇武蘭遺址出土",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 133722,
+            "name": "A02陶罐(KWL P05903037)公告公文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-08-23/5c4bbab4-d6c9-4339-8e8f-9b4d25ba3a29/A02陶罐(KWL P05903037)公告公文.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 121.744848,
+    "latitude": 24.748957,
+    "representImageSource": "宜蘭縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "宜蘭縣立蘭陽博物館",
+            "keepName": "宜蘭縣頭城鎮青雲路三段750號",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立臺灣史前文化博物館",
+            "keepAddressNew": "台東縣台東市博物館路1號",
+            "saveSpaceIdStr": "公務設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺東縣",
+            "keepNameAddress": "豐田里博物館路1號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "宜蘭縣",
+            "distName": "頭城鎮",
+            "id": 107608,
+            "caseId": 2916,
+            "caseStatus": true,
+            "cityId": 4,
+            "distId": 402,
+            "address": "青雲路三段750號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 115653,
+            "caseId": 2916,
+            "caseStatus": true,
+            "registerDate": 1232467200000,
+            "officialDocNo": "府文資字第0980000326號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

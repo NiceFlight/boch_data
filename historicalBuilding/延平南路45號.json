@@ -1,0 +1,132 @@
+{
+    "id": 910,
+    "caseId": "20041230000001",
+    "count": 3862,
+    "shareCount": 5,
+    "representImage": 204519,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/160887b2-74a8-4fde-8a67-3b55e328d241/代表圖像_延平南路45號_20221024_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/160887b2-74a8-4fde-8a67-3b55e328d241/代表圖像_延平南路45號_20221024.jpeg",
+        "name": "代表圖像_延平南路45號_20221024"
+    },
+    "caseName": "延平南路45號",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "1.建築物外牆面以斬石子方式處理，為日治時期少見之工法，室內天花裝修之灰泥線腳，頗具巧思，整體而言，建築物保有原有構造，而其造型、建材、工法均具保存價值。\n2.內部空間完整且位於街角巷口，深具再利用之價值。",
+    "assetsTypeNames": "其他設施",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 169617,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-06-26/961c6759-bd44-4826-8ad1-452eb5fbd1f9/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "1.建築物外牆面以斬石子方式處理，為日治時期少見之工法，室內天花裝修之灰泥線腳，頗具巧思，整體而言，建築物保有原有構造，而其造型、建材、工法均具保存價值。\r\n2.內部空間完整且位於街角巷口，深具再利用之價值。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 114396,
+            "name": "位置圖與地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/5222bf1d-04ea-4505-a4f4-31ec7231fbcb/位置圖與地籍圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "locationLandNo": "臺北市中正區城中段一小段五一三、五一四地號",
+    "buildingFeatures": "一.  本建築為三層樓鋼筋混凝土、加強磚造,屋頂為木架構,係為街屋,外牆為斬石子.  二.  室內樑柱的安排與木屋架之關係,局部有些多餘,是當石結構設計決策思考見證.",
+    "inHouseFeatures": "室內樑柱的安排與木屋架之關係，局部有些多餘，是當時結構設計決策思考之見證。",
+    "buildingUsage": "",
+    "buildingActualState": "保存完整，目前作為學術交流基金會/美國教育資訊中心/內政部役政署辦公室使用。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.5105034,
+    "latitude": 25.0450698,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市中正區城中段一小段513、514地號。",
+    "selfCoverage": "389平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 106449,
+            "caseId": 910,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "延平南路45號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "城中段一小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 131406,
+            "caseId": 910,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 146,
+            "landSerialNo": "513",
+            "landownership": 1,
+            "cityLandUseTypeId": 2,
+            "coverageId": 2,
+            "area": "",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "城中段一小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 131407,
+            "caseId": 910,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 146,
+            "landSerialNo": "514",
+            "landownership": 1,
+            "cityLandUseTypeId": 2,
+            "coverageId": 2,
+            "area": "",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 114209,
+            "caseId": 910,
+            "caseStatus": true,
+            "registerDate": 1104336000000,
+            "officialDocNo": "府文化二字第09304460300號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.51074981682474,25.045076077039596],[121.51075129601429,25.04492837229898],[121.51074357362587,25.044930204466585],[121.51052828811251,25.04498150176274],[121.51054839353408,25.04505031704771],[121.5105830833338,25.04507520565871],[121.51074981682474,25.045076077039596],[121.51074981682474,25.045076077039596]]]]},\"properties\":{\"xcenter\":121.51065449324412,\"ycenter\":25.045011977018433,\"query\":\"台北市中正區-地號513號\",\"content\":\"1. 個案名稱: 延平南路45號 <br />\\n      2. 地號: 台北市中正區-地號513號 <br />\\n      3. 種類: 其他設施 <br />\\n      4. 指定登錄理由: 1.建築物外牆面以斬石子方式處理，為日治時期少見之工法，室內天花裝修之灰泥線腳，頗具巧思，整體而言，建築物保有原有構造，而其造型、建材、工法均具保存價值。\\r\\n2.內部空間完整且位於街角巷口，深具再利用之價值。 <br />\\n      5. 最後一筆公告日期: 2004-12-30 <br />\\n      6. 最後一筆公告文號: 府文化二字第09304460300號 <br />\\n      7. 管理單位: 財政部國有財產署 <br />\\n      8. 使用單位: 內政部；外交部 <br />\\n      9. 建物狀態: 現況良好 <br />\"}},{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.51074953766596,25.045106773526346],[121.51074981682474,25.045076077039596],[121.5105830833338,25.04507520565871],[121.51054839353408,25.04505031704771],[121.51052828811251,25.04498150176274],[121.51049530974328,25.04498937924797],[121.51051703047791,25.04506775876907],[121.51057379659875,25.045106113664094],[121.51074953766596,25.045106773526346],[121.51074953766596,25.045106773526346]]]]},\"properties\":{\"xcenter\":121.51060545081441,\"ycenter\":25.045069666125475,\"query\":\"台北市中正區-地號514號\",\"content\":\"1. 個案名稱: 延平南路45號 <br />\\n      2. 地號: 台北市中正區-地號514號 <br />\\n      3. 種類: 其他設施 <br />\\n      4. 指定登錄理由: 1.建築物外牆面以斬石子方式處理，為日治時期少見之工法，室內天花裝修之灰泥線腳，頗具巧思，整體而言，建築物保有原有構造，而其造型、建材、工法均具保存價值。\\r\\n2.內部空間完整且位於街角巷口，深具再利用之價值。 <br />\\n      5. 最後一筆公告日期: 2004-12-30 <br />\\n      6. 最後一筆公告文號: 府文化二字第09304460300號 <br />\\n      7. 管理單位: 財政部國有財產署 <br />\\n      8. 使用單位: 內政部；外交部 <br />\\n      9. 建物狀態: 現況良好 <br />\"}}],\"address\":[{\"address\":\"1. 個案名稱: 延平南路45號 <br />\\n      2. 地址: 延平南路45號 <br />\\n      3. 種類: 其他設施 <br />\\n      4. 指定登錄理由: 1.建築物外牆面以斬石子方式處理，為日治時期少見之工法，室內天花裝修之灰泥線腳，頗具巧思，整體而言，建築物保有原有構造，而其造型、建材、工法均具保存價值。\\r\\n2.內部空間完整且位於街角巷口，深具再利用之價值。 <br />\\n      5. 最後一筆公告日期: 2004-12-30 <br />\\n      6. 最後一筆公告文號: 府文化二字第09304460300號 <br />\\n      7. 管理單位: 財政部國有財產署 <br />\\n      8. 使用單位: 內政部；外交部 <br />\\n      9. 建物狀態: 現況良好 <br />\",\"lat\":25.0450698,\"lng\":121.5105034}]}]",
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

@@ -1,0 +1,97 @@
+{
+    "id": 20278,
+    "caseId": "20211215000019",
+    "count": 230,
+    "shareCount": 3,
+    "representImage": 147634,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-15/acbcad85-6b50-43e9-8e48-52b2f0ceec96/028_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-15/acbcad85-6b50-43e9-8e48-52b2f0ceec96/028.jpg",
+        "name": "028"
+    },
+    "caseName": "宋馬遠對月圖",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "此幅為清宮舊藏，雖非宋畫，亦是明代浙派風格，描繪李白月下獨酌之境，高山遠月，蒼茫如詩。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第3、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174之1號",
+    "reservationCode": "故畫000115",
+    "amount": 1,
+    "descAge": "宋",
+    "descSize": "149.7x78.2公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "此軸詮釋的是唐朝詩人李白〈月下獨酌〉中「舉杯邀明月，對影成三人」的詩意。幅中畫懸崖秋夜，皓月當空，一人坐磐石。持杯向月，一童捧壺侍立。畫家利用「對角」構圖，將詩人與明月放在左右相對的位置、彼此呼應。構圖左實右虛，遠近高低，布置得宜，運筆痛快流暢，墨色深淺明暗對比明顯。\n馬遠（1190-1224），山西河中人，南宋光宗、寧宗兩朝畫院待詔，是南宋抒情山水畫的先驅。此軸乃清宮舊藏，著錄於《石渠寶笈・三編．延春閣》。\n",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "本幅舊傷補，右邊綾舊水漬，地綾舊傷損。\n",
+    "documents": [
+        {
+            "fileid": 147633,
+            "name": "110年12月9日北市獻編字第1103004564號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-15/76eb21c6-46f8-4043-a853-bba1e45f244e/110年12月9日北市獻編字第1103004564號公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69170,
+            "caseId": 20278,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73285,
+            "caseId": 20278,
+            "caseStatus": true,
+            "registerDate": 1639023527613,
+            "officialDocNo": "北市獻編字第1103004564號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

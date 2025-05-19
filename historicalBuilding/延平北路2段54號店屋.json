@@ -1,0 +1,167 @@
+{
+    "id": 997,
+    "caseId": "20140714000001",
+    "count": 2693,
+    "shareCount": 2,
+    "representImage": 174888,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/ab38a995-c4a5-407d-8914-704aaf503b9e/代表圖像_延平北路2段54號店屋_20220712_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/ab38a995-c4a5-407d-8914-704aaf503b9e/代表圖像_延平北路2段54號店屋_20220712.jpeg",
+        "name": "代表圖像_延平北路2段54號店屋_20220712"
+    },
+    "caseName": "延平北路2段54號店屋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本案建物在昭和7年(1932)第一次登記，當時是現在的延平北路2段52、54、56、58號同時建造，1樓作為店面使用，2樓作為孔雀咖啡店使用，3樓退縮露臺全棟做為住家使用。民國40年陳進來家族分家，陳家保留56、58號產權於2樓設立進來旅社，本案54號於民國35年由陳家租1樓店面給林旺欉先生經營文友堂書店,後來改為鴻明文具行.民國42由林旺欉先生取得全棟產權，繼續經營文具行(鴻明行)至民國76年退休。民國76年轉賣給前所有人林先生經營委託行(美吉行)至98年結束營業，全部作為自用住宅。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 162463,
+            "name": "103年公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/cd08631a-5268-469c-946c-64d03f5aeec0/103年公告.pdf"
+        },
+        {
+            "fileid": 162464,
+            "name": "104年公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/acbde5e9-5c5b-478c-b5f2-a273fe1c63b1/104年公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "本建物創建於昭和7年（1932），為日據時期的太平町店屋，與鄰幢延平北路二段52、56、58號為同時期興建之四連棟建築，見證昔時太平町商業街歷史與經濟發展之歷程。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、4款評定基準。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 94058,
+            "name": "downloadfile.gif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/0653b400-023b-48e3-a396-d9c62145341e/downloadfile.gif"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "特定專用區（供一般商業使用）",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市大同區迪化段2小段250、251、251-1地號",
+    "buildingFeatures": "現況以二丁掛磚鋪貼，應恢復初建時期以淺色面磚、洗石子招牌，與52號共同柱柱頭上方鮑魚飾，1樓兩柱單開間、2、3樓四柱三窗形式。",
+    "inHouseFeatures": "1至3樓RC樑柱結構，磨石子地坪，有泥塑燈座、線板。",
+    "buildingUsage": "屋主自用",
+    "buildingActualState": "現狀良好，為住宅使用",
+    "buildingKeyMaintainItem": "保存範圍：全棟保存",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.511562,
+    "latitude": 25.055322,
+    "representImageSource": "臺北市文化局",
+    "landScope": "42平方公尺",
+    "selfCoverage": "75.86平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 86091,
+            "caseId": 997,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "延平北路2段54號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 99851,
+            "caseId": 997,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 193,
+            "landSerialNo": "250",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "27",
+            "cityLandUseTypeOther": "特定專用區（供一般商業使用）",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 99852,
+            "caseId": 997,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 193,
+            "landSerialNo": "251",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "14",
+            "cityLandUseTypeOther": "特定專用區（供一般商業使用）",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 99853,
+            "caseId": 997,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 193,
+            "landSerialNo": "251-1",
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "1",
+            "cityLandUseTypeOther": "特定專用區（供一般商業使用）",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 92562,
+            "caseId": 997,
+            "caseStatus": true,
+            "registerDate": 1405267200000,
+            "officialDocNo": "北市文化文資字第10330414000號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        },
+        {
+            "id": 92563,
+            "caseId": 997,
+            "caseStatus": true,
+            "registerDate": 1446739200000,
+            "officialDocNo": "北市文化文資字第10430453200號",
+            "classificationId": 1,
+            "note": "新增保存地號"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "申請人所提供之報告書資料"
+}

@@ -1,0 +1,121 @@
+{
+    "id": 17157,
+    "caseId": "20210702000002",
+    "count": 1284,
+    "shareCount": 0,
+    "representImage": 141943,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-10-28/fcf1b273-fc8d-4cbd-9315-b5f0d7df0894/DSC02621-hhy_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-10-28/fcf1b273-fc8d-4cbd-9315-b5f0d7df0894/DSC02621-hhy.jpg",
+        "name": "DSC02621-hhy"
+    },
+    "caseName": "原台南區合會北港分公司",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待確認",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1413795318899,
+    "officialDocNo": "府文資二字第1037411535B號",
+    "documents": [
+        {
+            "fileid": 122601,
+            "name": "中華民國103年10月20日文資二字第1037411535號原台南區合會北港分公司.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-07-05/ce7d2d41-79cd-4405-9201-088cb4aff75f/中華民國103年10月20日文資二字第1037411535號原台南區合會北港分公司.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "(一)內部空間及外部結構深具當年營建特色。\n(二)原銀行建築大跨距設計，形成大空間無隔間的格局。\n(三)錢幣型的鋁窗與銀行內涵有機的連結。\n(四)見證北港地區戰後儲蓄合作社(會仔會社)銀行體系之前身，變遷具歷史價值。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、2、3、4款",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "belongCityId": 13,
+    "belongCityName": "雲林縣",
+    "belongDistName": "北港鎮",
+    "govInstitution": "雲林縣政府",
+    "govDeptName": "文化觀光處",
+    "govDeptPhone": "(05)5523218",
+    "govDeptAddress": "雲林縣斗六市大學路三段310號",
+    "cadasters": [
+        {
+            "fileid": 122458,
+            "name": "52.原台南區合會北港分公司地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-07-02/d8e649b4-07dc-4ce8-8c38-2bf4b299dcb2/52.原台南區合會北港分公司地籍圖.pdf"
+        },
+        {
+            "fileid": 122459,
+            "name": "52.原台南區合會北港分公司地籍資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-07-02/a2d58b61-3e71-461a-81fb-172500c5d463/52.原台南區合會北港分公司地籍資料.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "雲林縣北港鎮聖母段436地號",
+    "buildingFeatures": "建築類型：單體建築\n建築規模：單棟\n建築樓層：四樓\n建築構造：加強磚造\n屋頂形式：平屋頂\n",
+    "buildingUsage": "目前做為民宿使用 ( 好住民宿 ) ",
+    "buildingActualState": "目前做為民宿使用 ( 好住民宿 ) ",
+    "bulkTransfer": 0,
+    "belongAddress": "雲林縣北港鎮公民路37號",
+    "isOpenVisit": true,
+    "openUpTime": "周一 - 周日 08:00 -22:00",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.3041581,
+    "latitude": 23.5693377,
+    "representImageSource": "雲林縣政府",
+    "landScope": "雲林縣北港鎮聖母段436地號",
+    "selfCoverage": "地上3層樓、地下1層樓(每層樓面積166.975平方公尺)。",
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "北港鎮",
+            "id": 115050,
+            "caseId": 17157,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1316,
+            "address": "公民路37號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "雲林縣",
+            "distName": "北港鎮",
+            "landNoName": "聖母段",
+            "id": 159557,
+            "caseId": 17157,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1316,
+            "landNoId": 12011,
+            "landSerialNo": "436",
+            "landownership": 2,
+            "area": "235.8",
+            "noncityLandUseTypeOther": "",
+            "note": "重測前：北港段６２４－１３３地號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 125311,
+            "caseId": 17157,
+            "caseStatus": true,
+            "registerDate": 1413795318899,
+            "officialDocNo": "府文資二字第1037411535B號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.30418014382772,23.569433256990408],[120.30429763368183,23.569359529550077],[120.30421705197632,23.56925033660429],[120.30409695140663,23.569325391391395],[120.30413356626525,23.56941903179794],[120.30418014382772,23.569433256990408],[120.30418014382772,23.569433256990408]]]]},\"properties\":{\"envelope\":{\"left\":\"120.30409695140663\",\"top\":\"23.569250336604291\",\"right\":\"120.30429763368183\",\"bottom\":\"23.569433256990408\"},\"landLot\":\"雲林縣北港鎮聖母段436\"}}],\"notfound\":[]}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": ""
+}

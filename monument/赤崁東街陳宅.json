@@ -1,0 +1,120 @@
+{
+    "id": 17783,
+    "caseId": "20230217000001",
+    "count": 2815,
+    "shareCount": 3,
+    "representImage": 207389,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-02-17/4e103a5f-b2d2-4f68-962b-2fd24a234178/IMG_5070_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-02-17/4e103a5f-b2d2-4f68-962b-2fd24a234178/IMG_5070.jpg",
+        "name": "IMG_5070"
+    },
+    "caseName": "赤崁東街陳宅",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "該宅因陳一鶴原服務於臺大醫院的父親陳天一欲返鄉執業時居住而建。陳天一於日昭和2年殉職，故將名下土地分別由三個兒子繼承。後來日治昭和5年(1930年)建造本建物，故陳天一先生未曾居住於此，當時陳一鶴約10歲。\n後來陳一鶴醫生在本建物內執業時，將此一樓大廳兩側之住家空間，改為診間跟病房。",
+    "assetsTypeNames": "宅第,寺廟",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 207387,
+            "name": "﹝公告﹞111.12.19-市定古蹟-中西區-赤崁東街陳宅.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-02-17/5888d3c5-11dc-44fa-8364-0ad2fb4ea011/﹝公告﹞111.12.19-市定古蹟-中西區-赤崁東街陳宅.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具高度歷史、藝術或科學價值者",
+        "表現各時代營造技術流派特色者",
+        "具稀少性，不易再現者"
+    ],
+    "registerReason": "(1)具高度歷史、藝術或科學價值者：陳天一醫師日治大正12年(1923年)畢業於東京醫學專門學校，曾於台南醫院及台北醫院任職；其子陳一鶴亦習醫，為臺南市文獻委員會委員及台南美術研究會創會成員，與郭柏川、顏水龍等人多有藝術交流。本建築與庭院形制優美，外觀以幾何圖形元素、外牆拉毛裝飾，呈現當時之藝術美感；\n(2)表現各時代營造技術流派特色：建築落成於昭和初期，主體為煉瓦造。本建物係兼具居住與看診功能之複合性建築，規劃設計時對日照環境有適切考慮，東側設有廊道，西側設有陽台，以減少日曬影響。室內裝修兼具和風與洋風特色，以鐵件懸吊之木造洋風樓梯，作法精巧合乎力學；木板條實木天井蛇腹有通氣口，構法特殊。外牆面及圍牆水泥「拉毛」作法多樣，表情豐富，門窗形制構法維持原有樣貌，充分展現當時之營造美學；\n(3)具稀少性，不易再現特色：日治時期臺南赤嵌周邊場域，建築低矮密集，本建物反映該場域空間紋理變遷。目前陳宅仍維持原有獨特之形式、風貌，整體工藝作法與其規模格局在此場域具稀少性，不易再現。",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "govInstitution": "臺南市政府文化局",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569#607",
+    "govDeptAddress": "中西區中正路5巷1號",
+    "cadasters": [
+        {
+            "fileid": 207388,
+            "name": "1676595127565.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2023-02-17/5697b61b-a0a9-4280-aef2-b0648a91d9be/1676595127565.jpg"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 120.203681,
+    "latitude": 22.997508,
+    "representImageSource": "主管機關拍攝",
+    "landScope": "以圍牆內土地為範圍，為臺南市中西區觀音段686、687地號，面積674.21㎡。",
+    "selfCoverage": "建築本體與圍牆，面積約172.66㎡。（紅框）（面積依實際測量為準）",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "id": 107052,
+            "caseId": 17783,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601,
+            "address": "赤崁東街56號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "landNoName": "觀音段",
+            "id": 133047,
+            "caseId": 17783,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601,
+            "landNoId": 2385,
+            "landSerialNo": "686",
+            "landownership": 2,
+            "area": "589.3㎡",
+            "cityLandUseTypeOther": "商業區",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "landNoName": "觀音段",
+            "id": 133048,
+            "caseId": 17783,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601,
+            "landNoId": 2385,
+            "landSerialNo": "687",
+            "landownership": 1,
+            "area": "84.91㎡",
+            "cityLandUseTypeOther": "商業區",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 114907,
+            "caseId": 17783,
+            "caseStatus": true,
+            "registerDate": 1671410873067,
+            "officialDocNo": "南市文資字第1111581035A號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.20351229853748,22.997467506059213],[120.20354404758278,22.997552386375123],[120.20357929027399,22.99754387659252],[120.20358542396963,22.997565769375512],[120.20366841467215,22.997580246534262],[120.20385319015183,22.997533053800698],[120.20381481590277,22.99735537371645],[120.203802214552,22.997358543162854],[120.20362941052518,22.997401904045205],[120.20361557395664,22.99738617623517],[120.203582116723,22.997392952189106],[120.20357201340354,22.997450820641244],[120.20351229853748,22.997467506059213],[120.20351229853748,22.997467506059213]]]]},\"properties\":{\"envelope\":{\"left\":\"120.20351229853748\",\"top\":\"22.997355373716449\",\"right\":\"120.20385319015183\",\"bottom\":\"22.997580246534262\"},\"landLot\":\"臺南市中西區觀音段686\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.20385319015183,22.997533053800698],[120.20366841467215,22.997580246534262],[120.20373824496399,22.997585112646874],[120.20382739513542,22.997583836019295],[120.20388267343351,22.99757021648922],[120.20381481590277,22.99735537371645],[120.20385319015183,22.997533053800698],[120.20385319015183,22.997533053800698]]]]},\"properties\":{\"envelope\":{\"left\":\"120.20366841467215\",\"top\":\"22.997355373716449\",\"right\":\"120.20388267343351\",\"bottom\":\"22.997585112646874\"},\"landLot\":\"臺南市中西區觀音段687\"}}],\"notfound\":[]}]",
+    "openVisitType": "",
+    "pastHistorySource": "臺南市（北東南區、安平區、中西區）具文化資產潛力標的複查追蹤及分級計畫，2022"
+}

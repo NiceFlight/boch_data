@@ -1,0 +1,120 @@
+{
+    "id": 23138,
+    "caseId": "20250122000002",
+    "count": 262,
+    "shareCount": 0,
+    "representImage": 280177,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2025-01-22/0790c985-400c-4987-a9db-8bcc0b73cf8c/DSC_0027_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2025-01-22/0790c985-400c-4987-a9db-8bcc0b73cf8c/DSC_0027.jpg",
+        "name": "DSC_0027"
+    },
+    "caseName": "臺南東門長老教會原主日學教室",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待調查研究完成後補充",
+    "assetsTypeNames": "教堂",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 280175,
+            "name": "﹝公告﹞113.1025-歷史建築-東區-臺南東門長老教會原主日學教室.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2025-01-22/7baef065-f1cb-44af-bc4f-dbbb9150548d/﹝公告﹞113.1025-歷史建築-東區-臺南東門長老教會原主日學教室.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者"
+    ],
+    "registerReason": "表現地域風貌或民間藝術特色者：於1931年建築完成，原為東門教會兒童主日學教室；後經整修，其建築形制與規模仍維持原有，並保留正立面及背立面原貌。正立面兩側開窗、入口門廊造型雅緻，整體立面配置和諧、典雅；背立面牆體留有太平洋戰爭空襲彈孔痕跡，具歷史意義。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "govInstitution": "臺南市文化資產管理處",
+    "govDeptName": "文化資產研究組",
+    "govDeptPhone": "06-2213597 分機607",
+    "govDeptAddress": "臺南市中西區中正路5巷1號三樓",
+    "cadasters": [
+        {
+            "fileid": 280176,
+            "name": "﹝附圖﹞原主日學教室.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2025-01-22/ecfd976d-9061-4a37-b273-bcf2e3899e36/﹝附圖﹞原主日學教室.pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isOpenDownload": false,
+    "longitude": 120.215597,
+    "latitude": 22.987466,
+    "representImageSource": "機關同任攝影",
+    "landScope": "本市東區龍泉段1072、1073地號部分土地，背立面向南延伸3公尺；主日學教室西側向西延伸3公尺；正立面向北延伸至地籍線；東側沿地籍線劃設定著土地範圍如附圖，面積590.62平方公尺。",
+    "selfCoverage": "原主日學教室",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "東區",
+            "id": 147518,
+            "caseId": 23138,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1602,
+            "address": "東門路一段180號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺南市",
+            "distName": "東區",
+            "landNoName": "龍泉段",
+            "cityLandUseTypeName": "商業區",
+            "id": 203565,
+            "caseId": 23138,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1602,
+            "landNoId": 2544,
+            "landSerialNo": "1072",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "coverageId": 1,
+            "area": "",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺南市",
+            "distName": "東區",
+            "landNoName": "龍泉段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 203566,
+            "caseId": 23138,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1602,
+            "landNoId": 2544,
+            "landSerialNo": "1073",
+            "landownership": 2,
+            "cityLandUseTypeId": 1,
+            "coverageId": 1,
+            "area": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 160302,
+            "caseId": 23138,
+            "caseStatus": true,
+            "registerDate": 1729826362218,
+            "officialDocNo": "南市文資字第1132148227A號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.21581551108824,22.987487425387037],[120.21572289425657,22.987230438234832],[120.21535812692463,22.987343730787952],[120.21537266893003,22.98737248258142],[120.21548306543617,22.987590665058164],[120.21581551108824,22.987487425387037],[120.21581551108824,22.987487425387037]]]]},\"properties\":{\"envelope\":{\"left\":\"120.21535812692463\",\"top\":\"22.987230438234832\",\"right\":\"120.21581551108824\",\"bottom\":\"22.987590665058164\"},\"landLot\":\"臺南市東區龍泉段1072\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.21528159056425,22.98718531496438],[120.21529942620157,22.9872230229327],[120.21531598993354,22.987258042643305],[120.2153345765239,22.987297451996426],[120.21535468398233,22.987336977240492],[120.21535812692463,22.987343730787913],[120.2157228942566,22.98723043823482],[120.21565546455909,22.987035314905604],[120.21546805570875,22.987075510478295],[120.2152671755986,22.987154839031568],[120.21528159056425,22.98718531496438],[120.21528159056425,22.98718531496438]]]]},\"properties\":{\"envelope\":{\"left\":\"120.2152671755986\",\"top\":\"22.987035314905604\",\"right\":\"120.2157228942566\",\"bottom\":\"22.987343730787913\"},\"landLot\":\"臺南市東區龍泉段1073\"}}],\"notfound\":[]}]",
+    "openVisitType": "",
+    "pastHistorySource": "待調查研究完成後補充"
+}

@@ -1,0 +1,101 @@
+{
+    "id": 4074,
+    "caseId": "20140915000022",
+    "count": 384,
+    "shareCount": 0,
+    "representImage": 6992,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/5872/photo/明文徵明松下觀泉圖軸_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/5872/photo/明文徵明松下觀泉圖軸.jpg",
+        "name": "明文徵明松下觀泉圖軸"
+    },
+    "caseName": "明文徵明松下觀泉圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1410710400000,
+    "officialDocNo": "10320112241",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "品質精良且數量稀少"
+    ],
+    "registerReason": "文徵明（1470－1559）明四大家之一，能書善畫。繪畫中常見書法意趣，兼擅水墨、設色。和沈周（1427－1509）並列吳派領袖。\n文徵明喜作細緻秀潤之筆，工畫精細小幅，此幀尺幅高近三．五公尺為文氏少見之高頭巨製作品。筆法粗放，氣勢雄健，與〈絕壑高閒〉同屬文畫中極罕見之作品，是粗文代表之作。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條1項第4、5款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000937",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descSize": "348.2 x 104.6（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "畫松林間，一道清泉曲折流過，高士二人，隔溪閒話，一僮攜琴，自松間來，遠處則見巨石巖頂、瀑布飛澗，畫意堪稱奇絕。近景松林，筆墨較為細謹精勁，而巖石遠山的畫法，脫胎於吳鎮（1280－1354）濕墨老筆雄勁畫法，用筆粗重如奔雲，為其粗筆畫風之精品。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "軸頭一殘缺。天綾：磨損、傷補、霉傷、水漬。本幅：水漬嚴重、霉傷、折裂、蟲蛀、傷補、污漬嚴重、畫幅不平。",
+    "documents": [
+        {
+            "fileid": 150153,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-11/7494106e-3470-42b9-a218-013a67f20380/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70682,
+            "caseId": 4074,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 74941,
+            "caseId": 4074,
+            "caseStatus": true,
+            "registerDate": 1410710400000,
+            "officialDocNo": "10320112241",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

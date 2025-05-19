@@ -1,0 +1,161 @@
+{
+    "id": 17451,
+    "caseId": "20200225000002",
+    "count": 3251,
+    "shareCount": 7,
+    "representImage": 66616,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-02-25/6e0eb3ce-1a3d-4095-91ab-6b17fbb57307/照片三「難民萬善同歸」墓_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-02-25/6e0eb3ce-1a3d-4095-91ab-6b17fbb57307/照片三「難民萬善同歸」墓.jpg",
+        "name": "照片三「難民萬善同歸」墓"
+    },
+    "caseName": "擺接義塚大墓公",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "墓葬",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1575993600000,
+    "officialDocNo": "新北府文資字第1082275089號",
+    "documents": [
+        {
+            "fileid": 161298,
+            "name": "擺接義塚大墓公公告-108.12.11.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-25/bffad693-90f2-470b-825e-bdeefd840afa/擺接義塚大墓公公告-108.12.11.pdf"
+        },
+        {
+            "fileid": 161299,
+            "name": "擺接義塚大墓公修正公告-110.5.17.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-25/f797aa25-548a-4ffc-ac0d-43496ec3641b/擺接義塚大墓公修正公告-110.5.17.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者"
+    ],
+    "registerReason": "「擺接義塚大墓公」，源自乾隆51年（1786）林爽文事件死亡之鄉民，原名「古村陂塘義民公」，後來改稱「義塚大墓公」。1985年又發現落款嘉慶10年之「難民萬善遺骸」墓，見證地方發展及重大歷史事件，其墓碑及墓龜仍保存完整，傳統碑體、碑手及墓龜樣式具古風形制，展現民間墓葬建築特色，符合歷史建築紀念建築登錄廢止審查及輔助辦法第2條第1項第1款之登錄基準。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1款",
+    "govInstitutionCode": "220",
+    "govInstitutionName": "新北市政府",
+    "belongCityId": 3,
+    "belongCityName": "新北市",
+    "belongDistName": "土城區",
+    "govInstitution": "新北市政府",
+    "govDeptName": "文化局",
+    "govDeptPhone": "(02)29603456",
+    "govDeptAddress": "新北市板橋區中山路一段161號28樓",
+    "cadasters": [
+        {
+            "fileid": 98265,
+            "name": "擺接義塚大墓公-複丈成果圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-02-25/a461872d-f8f3-47d9-bf47-8aa921b4c936/擺接義塚大墓公-複丈成果圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 3,
+    "cityLandUseTypeName": "工業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "新北市土城區忠義段430地號(部分)",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "bulkTransfer": 0,
+    "belongAddress": "24.968133, 121.440711",
+    "isOpenVisit": true,
+    "openUpTime": "全年開放",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.44045,
+    "latitude": 24.96801,
+    "representImageSource": "新北市政府文化局",
+    "landScope": "新北市土城區忠義段430、430-1、430-2（均為部分）地號",
+    "selfCoverage": "義塚大墓公墓碑與墓龜本體、難民萬善遺骸墓碑本體",
+    "addresses": [
+        {
+            "cityName": "新北市",
+            "distName": "土城區",
+            "id": 107593,
+            "caseId": 17451,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 316,
+            "address": "忠義路 61 號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "新北市",
+            "distName": "土城區",
+            "landNoName": "忠義段",
+            "id": 134656,
+            "caseId": 17451,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 316,
+            "landNoId": 5299,
+            "landSerialNo": "430地號",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": "均為部分"
+        },
+        {
+            "cityName": "新北市",
+            "distName": "土城區",
+            "landNoName": "忠義段",
+            "id": 134657,
+            "caseId": 17451,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 316,
+            "landNoId": 5299,
+            "landSerialNo": "430-1地號",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": "均為部分"
+        },
+        {
+            "cityName": "新北市",
+            "distName": "土城區",
+            "landNoName": "忠義段",
+            "id": 134658,
+            "caseId": 17451,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 316,
+            "landNoId": 5299,
+            "landSerialNo": "430-2地號",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": "均為部分"
+        }
+    ],
+    "announces": [
+        {
+            "id": 115626,
+            "caseId": 17451,
+            "caseStatus": true,
+            "registerDate": 1575993600000,
+            "officialDocNo": "新北府文資字第1082275089號",
+            "classificationId": 1
+        },
+        {
+            "id": 115627,
+            "caseId": 17451,
+            "caseStatus": true,
+            "registerDate": 1621222136173,
+            "officialDocNo": "新北府文資字第1100898272號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"新北市土城區忠義段430地號\"}}],\"notfound\":\"沒有地號資料\"},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"新北市土城區忠義段430-1地號\"}}],\"notfound\":\"沒有地號資料\"},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"新北市土城區忠義段430-2地號\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": ""
+}

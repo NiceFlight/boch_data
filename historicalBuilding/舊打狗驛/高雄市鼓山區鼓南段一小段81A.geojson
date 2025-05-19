@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "高雄市鼓山區鼓南段一小段81A"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

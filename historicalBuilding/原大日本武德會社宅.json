@@ -1,0 +1,113 @@
+{
+    "id": 19564,
+    "caseId": "20210714000004",
+    "count": 2893,
+    "shareCount": 2,
+    "representImage": 124306,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-14/78bdbea7-85f4-4d08-b446-8a4a2f3873fe/120736_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-14/78bdbea7-85f4-4d08-b446-8a4a2f3873fe/120736.jpg",
+        "name": "120736"
+    },
+    "caseName": "原大日本武德會社宅",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "祠堂,其他設施",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 165634,
+            "name": "原大日本武德會社宅公告-110.06.04.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-26/40dac042-5c4a-46e2-97ae-3d888a8588ee/原大日本武德會社宅公告-110.06.04.pdf"
+        },
+        {
+            "fileid": 254660,
+            "name": "公告1130329.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-03-29/063b2309-6076-4883-9056-238c3e288027/公告1130329.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "具建築史或技術史之價值者：建物完整呈現日式生活空間之技法與構造，如座敷、居間、付書院、欄間、戶袋、與毛玻璃等，以「回」字型廊道串連各空間，並皆面向庭園，創造空間趣味性。並為順應臺灣的氣候，設置格子窗與上下雙層通氣窗，展現日治時期臺灣日式住宅式樣與技法之演進，具建築史或技術史之價值。",
+    "lawsReference": "歷史建築紀念建築登錄廢止審查及輔助辦法第2條第1項第2款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 254659,
+            "name": "附圖：歷史建築定著土地範圍.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2024-03-29/d7d08622-4f8a-4d99-91d0-49c0c6d9540c/附圖：歷史建築定著土地範圍.pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isOpenDownload": false,
+    "longitude": 120.176087,
+    "latitude": 23.163917,
+    "representImageSource": "文資處拍攝",
+    "landScope": "北側與東、西兩側沿區政482地號地籍線劃設；另南邊從建物南向緣側，向南約10公尺，沿既有圍牆外緣，劃設定著土地範圍。",
+    "selfCoverage": "臺南市佳里區區政段482地號上建物",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "佳里區",
+            "id": 128112,
+            "caseId": 19564,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1620,
+            "address": "進學路193號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺南市",
+            "distName": "佳里區",
+            "landNoName": "佳里段",
+            "id": 176490,
+            "caseId": 19564,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1620,
+            "landNoId": 3091,
+            "landSerialNo": "1622-9",
+            "landownership": 1,
+            "coverageId": 1,
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": "佳里區區政段482地號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 139141,
+            "caseId": 19564,
+            "caseStatus": true,
+            "registerDate": 1622736000000,
+            "officialDocNo": "南市文資字第1100693943A",
+            "classificationId": 1
+        },
+        {
+            "id": 139142,
+            "caseId": 19564,
+            "caseStatus": true,
+            "registerDate": 1711699136471,
+            "officialDocNo": "南市文資字第1130423031A號",
+            "classificationId": 2
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.17621089457762,23.164059265968053],[120.17620971459095,23.164028338009672],[120.17620310788068,23.163854768324253],[120.17620053199558,23.1637870884678],[120.17617178219888,23.163783586067733],[120.17617191142548,23.163749112849093],[120.17617227399737,23.16365242800897],[120.17617253737048,23.163582579377657],[120.1761727275908,23.163531996613614],[120.17617291578806,23.163482134180484],[120.17617632914023,23.163406869971855],[120.17608315966905,23.163408143575964],[120.17611937360788,23.163682081618674],[120.17601422960541,23.163684110440567],[120.17603074080829,23.164028783626595],[120.17607023460704,23.164065259721507],[120.17621089457762,23.164059265968053],[120.17621089457762,23.164059265968053]]]]},\"properties\":{\"envelope\":{\"left\":\"120.17601422960541\",\"top\":\"23.163406869971855\",\"right\":\"120.17621089457762\",\"bottom\":\"23.164065259721507\"},\"landLot\":\"臺南市佳里區佳里段1622-9\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀"
+}

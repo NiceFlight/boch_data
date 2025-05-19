@@ -1,0 +1,103 @@
+{
+    "id": 15514,
+    "caseId": "20180704000001",
+    "count": 4824,
+    "shareCount": 2,
+    "representImage": 153419,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-02-25/c1706c3a-d2a4-44c2-a35d-be439eab4d0d/新埤玉環善牧天主堂照片_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-02-25/c1706c3a-d2a4-44c2-a35d-be439eab4d0d/新埤玉環善牧天主堂照片.jpg",
+        "name": "新埤玉環善牧天主堂照片"
+    },
+    "caseName": "新埤玉環善牧天主堂",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "民國54年由德國道明會德籍傳教士規劃建造之佈道所，由玉環新村的浙江省玉環縣披山島移民(當時政府稱之為「大陳義胞」)與鄰近平埔馬卡道族合作興建，見證沿山公路多族群互動的生活記憶與歷史文化。",
+    "assetsTypeNames": "教堂",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1482486679881,
+    "officialDocNo": "屏府文保字第10530551700號",
+    "documents": [
+        {
+            "fileid": 153417,
+            "name": "公告函-屏府文保字第10530551700號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-02-25/c3a53b9c-4670-4f68-b267-045f6c5e891b/公告函-屏府文保字第10530551700號.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "(一)大陳義胞撤退來台安置據點，見證馬卡道與天主教信仰的 歷史過往，具歷史文化價值。(符合歷史建築之登錄基準第 1款) \n(二)牆體材料取自來義溪卵石，由當地教徒合力構築而成，表 現地域風貌或民間藝術特色。（符合歷史建築之登錄基準 第2款）\n(三)教堂本體為圓錐形，屋頂採大衛之星六角形星建造，極具 特色，為台灣罕見之建築風格，具建築史或技術使之價值 。（符合歷史建築之登錄基準第3款）",
+    "lawsReference": "《文化資產保存法》第18條\n《歷史建築紀念建築登錄廢止審查及輔助辦法》第2條第1項第1、2、3款",
+    "govInstitutionCode": "900",
+    "govInstitutionName": "屏東縣政府",
+    "belongCityId": 20,
+    "belongCityName": "屏東縣",
+    "belongDistName": "新埤鄉",
+    "govInstitution": "屏東縣政府",
+    "govDeptName": "屏東縣文化資產保護所",
+    "govDeptPhone": "08-7210234",
+    "govDeptAddress": "屏東縣屏東市菸廠路1號\t",
+    "cadasters": [
+        {
+            "fileid": 153418,
+            "name": "新埤玉環善牧天主堂地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-02-25/368c083a-05b7-4714-a63e-d3efcbfb3388/新埤玉環善牧天主堂地籍圖.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 4,
+    "nonCityLandUseTypeName": "鄉村區",
+    "nonCityLandUseSubTypeId": 2,
+    "nonCityLandUseSubTypeName": "乙種建築",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "屏東縣新埤鄉萬安段0415地號、萬隆段 1246地號",
+    "buildingFeatures": "教堂建築本體形式為圓筒形，牆體建材開採自鄰近來義溪畔與力力溪畔之卵石構築承重墻系統。屋頂採用以色列國旗大衛之星六角星形，並以褶版結構方式呈現。",
+    "inHouseFeatures": "為道明會在地方佈道所之平面格局，室內為原有卵石砌構築搭配組成之佈道聖堂氛圍。",
+    "buildingUsage": "民國106年整修完畢，開放參觀。",
+    "buildingActualState": "早期為玉環新村大陳義胞教堂，民國106年整修完畢。",
+    "buildingKeyMaintainItem": "無。",
+    "bulkTransfer": 0,
+    "belongAddress": "新埤鄉萬隆村玉環路78-2號",
+    "isOpenVisit": true,
+    "openUpTime": "週六至週日14:00-18:00",
+    "isCharge": false,
+    "isOpenDownload": true,
+    "longitude": 120.59056091491925,
+    "latitude": 22.495194,
+    "representImageSource": "屏東縣政府",
+    "landScope": "屏東縣新埤鄉萬安段0415、 1246地號，地號面積共36,700.93平方公尺。",
+    "selfCoverage": "屏東縣新埤鄉萬隆村玉環路78-2號歷史建築本體",
+    "addresses": [
+        {
+            "cityName": "屏東縣",
+            "distName": "新埤鄉",
+            "id": 78619,
+            "caseId": 15514,
+            "caseStatus": true,
+            "cityId": 20,
+            "distId": 2019,
+            "address": "萬隆村玉環路78-2號"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 84337,
+            "caseId": 15514,
+            "caseStatus": true,
+            "registerDate": 1482486679881,
+            "officialDocNo": "屏府文保字第10530551700號",
+            "classificationId": 1
+        }
+    ],
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": "歷史建築「新埤玉環善牧天主堂」清冊"
+}

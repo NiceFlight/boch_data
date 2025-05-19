@@ -1,0 +1,135 @@
+{
+    "id": 15469,
+    "caseId": "20180112000002",
+    "count": 5384,
+    "shareCount": 7,
+    "representImage": 169534,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/6a941e77-e679-465c-990d-09f19a3b2b1c/代表圖像_國立臺灣大學日式宿舍－戴運軌寓所_20220617_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/6a941e77-e679-465c-990d-09f19a3b2b1c/代表圖像_國立臺灣大學日式宿舍－戴運軌寓所_20220617.jpeg",
+        "name": "代表圖像_國立臺灣大學日式宿舍－戴運軌寓所_20220617"
+    },
+    "caseName": "國立臺灣大學日式宿舍－戴運軌寓所",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "(1)經調查研究後，發現潮州街7號及9號之規模及平面形式在台灣日式宿舍為孤例；為本市難得之巨大日式宿舍，屬台灣少見具「入母屋頂」極高等之官舍，室內格局保留完整，具古蹟價值潛力。\n(2)保存原有構件多，其規模及建築室內空間的構成，以及細部設計都很精彩。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 145040,
+            "name": "96年登錄歷史建築公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-17/c097989c-6118-425c-ae5d-71b5626e7e6a/96年登錄歷史建築公告.pdf"
+        },
+        {
+            "fileid": 145041,
+            "name": "106年廢止歷史建築公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-17/63851498-613a-46bc-a07f-53b8123dd05e/106年廢止歷史建築公告.pdf"
+        },
+        {
+            "fileid": 145042,
+            "name": "106年指定古蹟公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-17/2f3742ff-e29b-4a82-b97f-d5fa24883210/106年指定古蹟公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具高度歷史、藝術或科學價值者"
+    ],
+    "registerReason": "1.本建物日據時期為高等官二等官舍，曾作為臺大醫院前身之臺北醫院醫長官舍使用，戰後為戴運軌寓所。戴運軌為當年臺北帝國大學改制為臺灣大學之重要推手，曾任臺大首任教務長及代理校長，為臺灣物理界之教育及先驅研究者，本建物具歷史人文之保存價值。\n2.本建物室內格局保留完整，且仍保存原有構件，建築規模及平面形式相當於後期之一等官舍，可看出高等官舍之空間特色，具見證建築史之價值。\n",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 259543,
+            "name": "地籍.png",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/2c40db80-2d33-4986-945e-d2b0c167083a/地籍.png"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "中正區南海段一小段289地號土地",
+    "bulkTransfer": 1,
+    "longitude": 121.521248,
+    "latitude": 25.029921,
+    "representImageSource": "臺北市文化局",
+    "landScope": "面積 1,603平方公尺（實際保存面積須以保存範圍實測數據為準）",
+    "selfCoverage": "戴運軌寓所建築本體及庭院",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 131600,
+            "caseId": 15469,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "潮州街7號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "南海段一小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 186671,
+            "caseId": 15469,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 14,
+            "landSerialNo": "289",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "1603平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 143482,
+            "caseId": 15469,
+            "caseStatus": true,
+            "registerDate": 1174924800000,
+            "officialDocNo": "府文化二字第09630231800號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        },
+        {
+            "id": 143480,
+            "caseId": 15469,
+            "caseStatus": true,
+            "registerDate": 1513526400000,
+            "officialDocNo": "北市府文化文資字第10632449400號",
+            "classificationId": 1,
+            "note": "指定古蹟"
+        },
+        {
+            "id": 143481,
+            "caseId": 15469,
+            "caseStatus": true,
+            "registerDate": 1513526400000,
+            "officialDocNo": "北市府文化文資字第10632449400號",
+            "classificationId": 3,
+            "note": "廢止歷史建築"
+        }
+    ],
+    "geojson": "[{\"features\":[{\"geometry\":{\"coordinates\":[[[[121.52102849362,25.029781217581],[121.52141156142,25.029722748182],[121.52147269273,25.030088079727],[121.5212906004,25.030115559634],[121.52109184336,25.03014562993],[121.52102849362,25.029781217581]]]],\"type\":\"MultiPolygon\"},\"type\":\"Feature\",\"properties\":{\"ymin\":25.029722748182,\"xmin\":121.52102849362,\"段號\":2890000,\"query\":\"臺北市,南海段一小段,289\",\"ycenter\":25.029934189056,\"land_id\":2890000,\"area_id\":\"AA\",\"content\":\"1. 個案名稱: 國立臺灣大學日式宿舍－戴運軌寓所 <br />\\n      2. 地號: 臺北市,南海段一小段,289 <br />\\n      3. 級別: 直轄市定古蹟 <br />\\n      4. 種類: 宅第 <br />\\n      5. 指定登錄理由: 1.本建物日據時期為高等官二等官舍，曾作為臺大醫院前身之臺北醫院醫長官舍使用，戰後為戴運軌寓所。戴運軌為當年臺北帝國大學改制為臺灣大學之重要推手，曾任臺大首任教務長及代理校長，為臺灣物理界之教育及先驅研究者，本建物具歷史人文之保存價值。\\n2.本建物室內格局保留完整，且仍保存原有構件，建築規模及平面形式相當於後期之一等官舍，可看出高等官舍之空間特色，具見證建築史之價值。\\n <br />\\n      6. 最後一筆公告日期: 2007-03-27 <br />\\n      7. 最後一筆公告文號: 府文化二字第09630231800號 <br />\\n      8. 管理單位: 國立臺灣大學 <br />\\n      9. 使用單位: 國立臺灣大學 <br />\\n      10. 建物狀態: 修復中 <br />\",\"地段\":\"南海段一小段\",\"縣市\":\"臺北市\",\"ymax\":25.03014562993,\"xcenter\":121.521250593175,\"xmax\":121.52147269273,\"section_id\":\"0014\",\"鄉鎮\":\"中正區\",\"id\":\"AA0014\",\"query_log\":[]}}],\"address\":[{\"address\":\"1. 個案名稱: 國立臺灣大學日式宿舍－戴運軌寓所 <br />\\n      2. 地址: 潮州街7號 <br />\\n      3. 級別: 直轄市定古蹟 <br />\\n      4. 種類: 宅第 <br />\\n      5. 指定登錄理由: 1.本建物日據時期為高等官二等官舍，曾作為臺大醫院前身之臺北醫院醫長官舍使用，戰後為戴運軌寓所。戴運軌為當年臺北帝國大學改制為臺灣大學之重要推手，曾任臺大首任教務長及代理校長，為臺灣物理界之教育及先驅研究者，本建物具歷史人文之保存價值。\\n2.本建物室內格局保留完整，且仍保存原有構件，建築規模及平面形式相當於後期之一等官舍，可看出高等官舍之空間特色，具見證建築史之價值。\\n <br />\\n      6. 最後一筆公告日期: 2007-03-27 <br />\\n      7. 最後一筆公告文號: 府文化二字第09630231800號 <br />\\n      8. 管理單位: 國立臺灣大學 <br />\\n      9. 使用單位: 國立臺灣大學 <br />\\n      10. 建物狀態: 待修復 <br />\",\"lat\":25.029921,\"lng\":121.521248}],\"notFound\":[],\"type\":\"FeatureCollection\"}]",
+    "openVisitType": "不開放參觀",
+    "isCharge": false,
+    "pastHistorySource": ""
+}

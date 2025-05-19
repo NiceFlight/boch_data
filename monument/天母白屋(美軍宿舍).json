@@ -1,0 +1,175 @@
+{
+    "id": 148,
+    "caseId": "20050127000001",
+    "count": 4058,
+    "shareCount": 3,
+    "representImage": 143255,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/eac9be44-2597-4323-828d-e7f96d75b5e6/B023 台北市 天母白屋(美軍宿舍) (直轄定)01_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/eac9be44-2597-4323-828d-e7f96d75b5e6/B023 台北市 天母白屋(美軍宿舍) (直轄定)01.JPG",
+        "name": "B023 台北市 天母白屋(美軍宿舍) (直轄定)01"
+    },
+    "caseName": "天母白屋(美軍宿舍)",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "建築完成日期一九五三年。一九五O年代美軍駐台期間興建之房舍，因外牆為白色雨淋板，故名為『天母白屋』。\r\n建築物為一層樓，黑瓦白牆，外有庭院，內多設有壁爐，頗具美國郊區獨棟建築特色。隨著天母地區的發展，數量已日漸減少。除建築極具特色外，亦見證美軍駐台期間的歷史。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "其他",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 143256,
+            "name": "3._940127指定市定古蹟公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/e9256a88-8f50-4209-853d-6dcfd2d63cc5/3._940127指定市定古蹟公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "具稀少性，不易再現者"
+    ],
+    "registerReason": "1.為美軍協防臺灣時期美軍駐台人員的宿舍，具有時代意義，且本地區留存的美軍宿舍以為數不多，應予保存。\r\n2.外牆為白色雨淋板、黑色屋瓦，內設有壁爐、外露石壁龕，且設有庭院，兼具美式、日式的建築風格。\r\n3.建築基地鄰近天母公園，且庭院完整，值得全區保存，未來再利用及發展文化、社區活動的條件優良。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 143257,
+            "name": "B023 台北市 天母白屋(美軍宿舍) (直轄定)02.JPG",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/5aa6e90e-5840-41dd-a164-b3c659ccd52d/B023 台北市 天母白屋(美軍宿舍) (直轄定)02.JPG"
+        },
+        {
+            "fileid": 143258,
+            "name": "ca_20100721_10575968.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/bd2fbd21-f56a-4cd1-8993-657d0e8c5de7/ca_20100721_10575968.pdf"
+        },
+        {
+            "fileid": 143259,
+            "name": "ca_20100721_10561639.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/53d28056-6f77-433e-92b1-92053bd49851/ca_20100721_10561639.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "locationLandNo": "士林區天母段四小段351全部、352部分、353部分、354部分地號。",
+    "buildingFeatures": "一樓外牆為雨淋板、覆蓋黑色屋瓦、外露石壁龕",
+    "inHouseFeatures": "內設有壁爐",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.5307158,
+    "latitude": 25.1248835,
+    "representImageSource": "文化局",
+    "landScope": "士林區天母段小段351全部、352部分、353部分、354部分地號。",
+    "selfCoverage": "天母段四小段40344建號",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 66837,
+            "caseId": 148,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "天母里中山北路7段181巷23號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "天母段四小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 61532,
+            "caseId": 148,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 499,
+            "landSerialNo": "351",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "天母段四小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 61533,
+            "caseId": 148,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 499,
+            "landSerialNo": "352",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 1,
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "天母段四小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 61534,
+            "caseId": 148,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 499,
+            "landSerialNo": "353",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 1,
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "天母段四小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 61535,
+            "caseId": 148,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 499,
+            "landSerialNo": "354",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 1,
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 71029,
+            "caseId": 148,
+            "caseStatus": true,
+            "registerDate": 1106755200000,
+            "officialDocNo": "府文化二字第09406150300號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "openVisitType": "",
+    "openUpTime": "周二至周六 09:30-18:00(週日、國定假日不開放)",
+    "isCharge": false,
+    "pastHistorySource": ""
+}

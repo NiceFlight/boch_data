@@ -1,0 +1,103 @@
+{
+    "id": 18012,
+    "caseId": "20201209000004",
+    "count": 431,
+    "shareCount": 1,
+    "representImage": 78774,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-12-09/8549bd23-5b0d-487c-bd23-7075afff03de/案003-1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-12-09/8549bd23-5b0d-487c-bd23-7075afff03de/案003-1.jpg",
+        "name": "案003-1"
+    },
+    "caseName": "精刨象牙擺件",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1606359701708,
+    "officialDocNo": "北市獻編字第1093004298號",
+    "judgeCriteria": [
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就",
+        "數量稀少者"
+    ],
+    "registerReason": "1.重要人物史事。嚴家淦副總統受贈物。\n2.支撐的金屬座，紋飾做工精雅，具泰國工藝特色。\n3.具有一定藝術製作。\n4.量少。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第2、3、4、5款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "內湖區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174-1號",
+    "reservationCode": "典藏 I003",
+    "amount": 2,
+    "notes": "本組器座深具東南亞泰國金屬裝飾工藝特色，本組象牙成對，各置放在金屬座上，係泰國致贈禮物的習慣，而其金屬支座紋飾極富泰國傳統裝飾習尚，為特定時間特定團體的贈物，說明該時期中泰邦誼。",
+    "descAge": "民國57年",
+    "descSize": "弧形， 長： 100 公分 (露出木作部份) 包覆底座，高45公分，直徑32 公分",
+    "descMaterial": "象牙",
+    "reserveStatusDesc": "象牙經刨光與修飾處理，呈現出純潔的牙質瑩潤 ，而象牙本身的自然彎曲弧形，顯示出此象牙的質感與珍貴，其根部較粗，而牙尖較細，接近一半屬於中空。在牙髓腔至外表皮部分有輻射線分佈，在結構上較為緻密。顏色呈乳白色，面上有環狀粼波紋數圈，亦有縱向 雀紋 夾雜其間。底座紅底、金色圖刻著泰國古典造型的圖型貌似火焰的金葉及圖騰紋飾，由底部包覆支撐而下，再堆疊於圓盤木造之上，足見其象牙之宏偉。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定。\n右邊，已登記中華民國野生動物產製品註記\n6300000009008\nR.O.C Wildlife Product Register\n左邊，已登記中華民國野生動物產製品註記\n6300000009009\nR.O.C Wildlife Product Register",
+    "documents": [
+        {
+            "fileid": 78773,
+            "name": "臺北市公告指定一般古物1091126.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-09/5261ab71-fcac-4c42-a63a-6c80fc502327/臺北市公告指定一般古物1091126.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.51984879730222,
+    "latitude": 25.032456306173696,
+    "representImageSource": "嚴○泰/嚴○隆",
+    "keepNames": [
+        {
+            "keepNameIdStr": "嚴○泰/嚴○隆",
+            "keepName": "嚴○泰/嚴○隆",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "嚴○泰/嚴○隆",
+            "keepAddressNew": "台北市內湖區行忠路2號2樓",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "宅第",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "內湖區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 68662,
+            "caseId": 18012,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 72762,
+            "caseId": 18012,
+            "caseStatus": true,
+            "registerDate": 1606359701708,
+            "officialDocNo": "北市獻編字第1093004298號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

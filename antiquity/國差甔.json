@@ -1,0 +1,101 @@
+{
+    "id": 3897,
+    "caseId": "20121112000021",
+    "count": 367,
+    "shareCount": 0,
+    "representImage": 6705,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32883/photo/d80fd2e4-974e-44ac-b7c5-9297012eab68_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32883/photo/d80fd2e4-974e-44ac-b7c5-9297012eab68.JPG",
+        "name": "d80fd2e4-974e-44ac-b7c5-9297012eab68"
+    },
+    "caseName": "國差甔",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1352649600000,
+    "officialDocNo": "文授字第10120135331號",
+    "judgeCriteria": [
+        "具有史事重要淵源",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本器巨腹、斂口，廣折肩，平底無足，四耳作獸面銜環，肩上鑄有銘文10行52字：「國差（佐）立事歲，咸，丁亥，攻（工）師 鑄西郭寶 四秉，用實旨酒，侯氏受福（眉）壽，卑（俾）旨卑（俾）靜，侯氏毋 （咎）毋 ，齊邦貯靜安寍（寧），子子孫孫永保用之」。銘文記國差執政之時，工師製作此酒器獻給齊侯，希望國君福壽，齊國安寧。國差是春秋成公時齊國的佐相，為春秋時齊國的標準器。銘文具史料價值。此為「甔」之自銘器，且尺寸較同類器為大。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第2、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "中銅000593",
+    "amount": 1,
+    "notes": "",
+    "descAge": "春秋",
+    "descSize": "高34.6cm、深34.2cm、口徑24.6cm、腹圍138.5cm。",
+    "descMaterial": "銅",
+    "reserveStatusDesc": "腹前後兩側各飾獸面銜環，肩上有銘文52字，又唇上有鑿款一字。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "口殘二塊。",
+    "documents": [
+        {
+            "fileid": 150799,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-19/69a07ac3-fbc9-4609-986f-174f31b4b97b/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71176,
+            "caseId": 3897,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75539,
+            "caseId": 3897,
+            "caseStatus": true,
+            "registerDate": 1352649600000,
+            "officialDocNo": "文授字第10120135331號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

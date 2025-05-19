@@ -1,0 +1,138 @@
+{
+    "id": 1807,
+    "caseId": "20100902000001",
+    "count": 2065,
+    "shareCount": 4,
+    "representImage": 3628,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/1290/photo/西嶼鄉黃氏宗祠1_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/1290/photo/西嶼鄉黃氏宗祠1.JPG",
+        "name": "西嶼鄉黃氏宗祠1"
+    },
+    "caseName": "西嶼鄉黃氏宗祠",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "1.祠堂內保有黃氏家族相關歷史文物及牌匾，包括第六世石製香爐、第八世銅製香爐。其反映歷史價值。\r\n2.具有民居和當地宮廟建築架構，呈現日治時期庭院圍牆的特色。\r\n3.具特殊族群生活文化之定義與特色。",
+    "assetsTypeNames": "祠堂",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1283409002000,
+    "officialDocNo": "府授文資字第0993700115號",
+    "documents": [
+        {
+            "fileid": 76554,
+            "name": "公告公文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-11-26/29f9ed18-8adf-4485-9698-ea741db795b8/公告公文.pdf"
+        },
+        {
+            "fileid": 76555,
+            "name": "公告公文(歷次).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-11-26/d97eaa8d-3e98-41ce-8ca4-d05649972455/公告公文(歷次).pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "典型閩南三合院之外貌與格局，彩繪具有特色，為本地難得一見的宗祠建築，具表現地域風貌、民間藝術特色及特殊族群生活之歷史文化價值。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、2、3、4款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "西嶼鄉",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "06-9261141#138",
+    "govDeptAddress": "澎湖縣馬公市中華路230號",
+    "cadasters": [
+        {
+            "fileid": 97977,
+            "name": "110XA001550PIC1.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-02-24/e6887176-055e-4972-885d-290edded4a26/110XA001550PIC1.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 4,
+    "nonCityLandUseTypeName": "鄉村區",
+    "nonCityLandUseSubTypeId": 13,
+    "nonCityLandUseSubTypeName": "遊憩",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "西嶼鄉小池角段3931地號",
+    "buildingFeatures": "典型閩南三合院之外貌與格局，楹架彩繪具有特色。",
+    "inHouseFeatures": "1.內部建築具有特殊民間藝術呈現兩側圖型豐富為當時特有的特色。\r\n2.作工細緻、石工彩繪精美，彩繪保存完整。",
+    "buildingUsage": "不開放",
+    "buildingActualState": "標的整體現況極差。",
+    "buildingKeyMaintainItem": "儘速申請修繕計畫。",
+    "bulkTransfer": 0,
+    "belongAddress": "池西村小池角166號",
+    "isOpenVisit": false,
+    "openUpTime": "不開放",
+    "isOpenDownload": false,
+    "longitude": 119.504663,
+    "latitude": 23.598549,
+    "representImageSource": "澎湖縣政府文化局文化資產科",
+    "landScope": "澎湖縣西嶼鄉池東段2783地號\n",
+    "selfCoverage": "澎湖縣西嶼鄉小池角段3931地號內之宗祠本體建築，其包含門廳、天井、正身、左右廊道，是為西嶼鄉小池角段316建號，建築面積達150.48平方公尺。",
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "西嶼鄉",
+            "id": 89002,
+            "caseId": 1807,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2102,
+            "address": "池西村小池角166號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "西嶼鄉",
+            "landNoName": "池東段",
+            "noncityLandUseTypeName": "鄉村區",
+            "id": 106546,
+            "caseId": 1807,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2102,
+            "landNoId": 15640,
+            "landSerialNo": "2783",
+            "landownership": 2,
+            "noncityLandUseTypeId": 4,
+            "area": "388平方公尺",
+            "noncityLandUseTypeOther": "遊憩用地",
+            "note": "澎湖縣西嶼鄉小池角段3931地號(舊地號)",
+            "cityLandUseId": 2
+        }
+    ],
+    "announces": [
+        {
+            "id": 95995,
+            "caseId": 1807,
+            "caseStatus": true,
+            "registerDate": 1283409002000,
+            "officialDocNo": "府授文資字第0993700115號",
+            "classificationId": 1
+        },
+        {
+            "id": 95996,
+            "caseId": 1807,
+            "caseStatus": true,
+            "registerDate": 1286761579479,
+            "officialDocNo": "府授文資字第0993700143號",
+            "classificationId": 2,
+            "note": "公告更正「西嶼鄉黃氏宗祠」登錄為本縣歷史建築之修正位置或地址及增加本體範圍。"
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[119.50489342377459,23.59854618393708],[119.50492527846212,23.5984566220637],[119.50477111741843,23.598417473316204],[119.50459508497457,23.598380499423985],[119.50456881074837,23.59848427408085],[119.50473040930504,23.59851331256099],[119.5048669262807,23.598545502546123],[119.50489342377459,23.59854618393708],[119.50489342377459,23.59854618393708]]]]},\"properties\":{\"envelope\":{\"left\":\"119.50456881074837\",\"top\":\"23.598380499423985\",\"right\":\"119.50492527846212\",\"bottom\":\"23.598546183937081\"},\"landLot\":\"澎湖縣西嶼鄉池東段2783\"}}],\"notfound\":[]}]",
+    "openVisitType": "",
+    "pastHistorySource": "審議會"
+}

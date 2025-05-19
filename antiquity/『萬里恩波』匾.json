@@ -1,0 +1,101 @@
+{
+    "id": 18146,
+    "caseId": "20201209000017",
+    "count": 352,
+    "shareCount": 0,
+    "representImage": 78924,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-12-09/160ea238-43bc-470d-8233-e8aee29b10ad/73.『萬里恩波』匾_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-12-09/160ea238-43bc-470d-8233-e8aee29b10ad/73.『萬里恩波』匾.jpg",
+        "name": "73.『萬里恩波』匾"
+    },
+    "caseName": "『萬里恩波』匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1603350825892,
+    "officialDocNo": "府授文資遺字第10902447559號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "對地方或族群知識、技術或流派發展具影響或意義"
+    ],
+    "registerReason": "1.\t本件是長方形橫匾，有浮雕邊框，匾面為深紅色底金字陽紋，下有一對翼獅匾座。匾有橫向接痕，至少是四片福州杉板片所拼接。中行「萬里恩波」行楷，係以小釘固定於額板面上，上款「嘉慶元年葭月榖旦」（1796年，農曆11月）、下款「捒南合境弟子仝立」，皆以陽文楷書嵌入。\n2.\t「捒南」是猫霧捒南境簡稱，臺中盆地的大肚溪以北部分，古代稱「猫霧捒之野」，捒南指盆地西南，以犁頭店為最繁榮聚落。拓墾前期，媽祖宮尚屬鄉間小祠，除安靖地方之武將外，尚乏仕紳樂助捐題，惟恃小民信眾奉納，反映當初「角頭廟」屬性，亦足為年代湮遠之具體見證。\n",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2、6款",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "南屯區",
+    "govInstitution": "臺中市政府 ",
+    "govDeptName": "臺中市文化資產處",
+    "govDeptPhone": "04-22290280#501",
+    "govDeptAddress": "臺中市南區復興路三段362號R10",
+    "reservationCode": "府授文資遺字第10902447559號",
+    "amount": 1,
+    "descAge": "1796",
+    "descSize": "寬258/高102/厚6.8",
+    "descMaterial": "杉木",
+    "reserveStatusDesc": "橫長方形木匾，有框，深紅色底金字陽紋，下有一對翼獅匾座，邊框浮雕，框之雕刻有點褪色。「萬里恩波」四字係以小釘固定於額板面上，上下款為嵌入。匾有橫向接痕，至少是四片木板所拼接。中行「萬里恩波」，字體為行楷，上款為「嘉慶元年葭月榖旦」（1796年，農曆11月）陽文楷書，下款的「捒南合境弟子仝立」亦屬陽文楷書。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 2,
+    "reserveStatus": "狀況穩定",
+    "documents": [
+        {
+            "fileid": 78921,
+            "name": "73.『萬里恩波』匾-公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-09/b2ca9c7f-f5f6-42b5-9ecb-30bb8e46a4ee/73.『萬里恩波』匾-公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 24.13813,
+    "latitude": 120.63956,
+    "representImageSource": "臺中市文化資產處",
+    "keepNames": [
+        {
+            "keepNameIdStr": "財團法人臺中市萬和宮",
+            "keepName": "財團法人臺中市萬和宮",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "財團法人臺中市萬和宮",
+            "keepAddressNew": "臺中市南屯區萬和路一段51號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "臺中市",
+            "keepNameDistName": "南屯區",
+            "keepNameAddress": "萬和路一段51號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "南屯區",
+            "id": 86761,
+            "caseId": 18146,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1008
+        }
+    ],
+    "announces": [
+        {
+            "id": 93395,
+            "caseId": 18146,
+            "caseStatus": true,
+            "registerDate": 1603350825892,
+            "officialDocNo": "府授文資遺字第10902447559號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

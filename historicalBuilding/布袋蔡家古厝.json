@@ -1,0 +1,138 @@
+{
+    "id": 19489,
+    "caseId": "20210702000010",
+    "count": 1902,
+    "shareCount": 2,
+    "representImage": 167276,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-06-10/6e84ee72-b7da-4ff4-9d44-daf686657e50/圖片3_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-06-10/6e84ee72-b7da-4ff4-9d44-daf686657e50/圖片3.jpg",
+        "name": "圖片3"
+    },
+    "caseName": "布袋蔡家古厝",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "布袋昔日繁華時，有多間硓咕石古厝，如今幾乎拆光或剩下殘壁，蔡家古厝是嘉義地區罕見保存完整的硓咕石古厝，已有多年歷史。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 166590,
+            "name": "布袋蔡家古厝公告-108.1.28.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-31/e341e741-a64f-4cdf-ba12-5f4624cf6f72/布袋蔡家古厝公告-108.1.28.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1、表現地域風貌或民間藝術特色者：使用澎湖咾咕石為建材，具高度地域特色，充分呈現舊布袋港之時代風華，且為布袋文學地景不可或缺之元素。\n2、具建築史或技術史之價值者：咾咕石造型優秀、工法細緻，由澎湖師父建造，表達澎湖建築技術；正身部分彩繪，表現日治時期藝術特色。\n3、具地區性建造物類型之特色者：見證日治時期以前布袋與澎湖之航運及民生物質運送關係，其建築規模與格局在布袋地區具有稀少性。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、2、3款登錄基準。",
+    "govInstitutionCode": "612",
+    "govInstitutionName": "嘉義縣政府",
+    "govInstitution": "嘉義縣文化觀光局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "053628123*317",
+    "govDeptAddress": "嘉義縣太保市太保大道158號",
+    "cadasters": [
+        {
+            "fileid": 122503,
+            "name": "蔡家古厝測繪圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-07-02/d96e1b9f-4cdb-4abc-b913-14f05a62fb34/蔡家古厝測繪圖.pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isOpenDownload": true,
+    "longitude": 120.159884,
+    "latitude": 23.378447,
+    "representImageSource": "當事人提供",
+    "landScope": "嘉義縣布袋鎮九江段小段84、87、89地號內部分土地",
+    "selfCoverage": "建築本體正身",
+    "addresses": [
+        {
+            "cityName": "嘉義縣",
+            "distName": "布袋鎮",
+            "id": 148279,
+            "caseId": 19489,
+            "caseStatus": true,
+            "cityId": 15,
+            "distId": 1518,
+            "address": "九江段小段84、87、89地號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "嘉義縣",
+            "distName": "布袋鎮",
+            "landNoName": "九江段",
+            "id": 204922,
+            "caseId": 19489,
+            "caseStatus": true,
+            "cityId": 15,
+            "distId": 1518,
+            "landNoId": 12437,
+            "landSerialNo": "84",
+            "landownership": 2,
+            "coverageId": 1,
+            "area": "213.84",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "嘉義縣",
+            "distName": "布袋鎮",
+            "landNoName": "九江段",
+            "id": 204923,
+            "caseId": 19489,
+            "caseStatus": true,
+            "cityId": 15,
+            "distId": 1518,
+            "landNoId": 12437,
+            "landSerialNo": "87",
+            "landownership": 2,
+            "coverageId": 1,
+            "area": "",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "嘉義縣",
+            "distName": "布袋鎮",
+            "landNoName": "九江段",
+            "id": 204924,
+            "caseId": 19489,
+            "caseStatus": true,
+            "cityId": 15,
+            "distId": 1518,
+            "landNoId": 12437,
+            "landSerialNo": "89",
+            "landownership": 2,
+            "coverageId": 1,
+            "area": "",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 161152,
+            "caseId": 19489,
+            "caseStatus": true,
+            "registerDate": 1548640646776,
+            "officialDocNo": "府授文資字第1080021537號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.15990237158357,23.37848485314876],[120.15991192282581,23.378486962303363],[120.15996676677337,23.378499073045536],[120.16001665445772,23.378510079916076],[120.16004324690242,23.37838607429711],[120.15992797190944,23.37836509427692],[120.15990237158357,23.37848485314876],[120.15990237158357,23.37848485314876]]]]},\"properties\":{\"envelope\":{\"left\":\"120.15990237158357\",\"top\":\"23.378365094276919\",\"right\":\"120.16004324690242\",\"bottom\":\"23.378510079916076\"},\"landLot\":\"嘉義縣布袋鎮九江段84\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.1598801305954,23.378479944369296],[120.15990237158357,23.37848485314876],[120.15992797190944,23.37836509427692],[120.15989716169052,23.37835948843811],[120.15986966464749,23.378354484606906],[120.1598500203961,23.378473303872923],[120.15987536961549,23.378478894836043],[120.1598801305954,23.378479944369296],[120.1598801305954,23.378479944369296]]]]},\"properties\":{\"envelope\":{\"left\":\"120.15985002039611\",\"top\":\"23.378354484606906\",\"right\":\"120.15992797190944\",\"bottom\":\"23.378484853148759\"},\"landLot\":\"嘉義縣布袋鎮九江段87\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.15976877131163,23.378455371604023],[120.1598500203961,23.378473303872923],[120.15986966464749,23.378354484606906],[120.15975221970668,23.378333107237392],[120.15975312254726,23.378339780471617],[120.15976615552874,23.378436001630597],[120.15976877131163,23.378455371604023],[120.15976877131163,23.378455371604023]]]]},\"properties\":{\"envelope\":{\"left\":\"120.15975221970668\",\"top\":\"23.378333107237392\",\"right\":\"120.15986966464749\",\"bottom\":\"23.378473303872923\"},\"landLot\":\"嘉義縣布袋鎮九江段89\"}}],\"notfound\":[]}]",
+    "openVisitType": "",
+    "pastHistorySource": "陽衍派--- 布袋 蔡家古厝 https://blog.xuite.net/apex.cheng/wretch/584739074"
+}

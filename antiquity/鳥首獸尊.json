@@ -1,0 +1,103 @@
+{
+    "id": 3907,
+    "caseId": "20121112000031",
+    "count": 345,
+    "shareCount": 0,
+    "representImage": 6715,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32893/photo/a2c8dc0a-5b19-45d5-b59e-c831ea8b3a0a_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32893/photo/a2c8dc0a-5b19-45d5-b59e-c831ea8b3a0a.JPG",
+        "name": "a2c8dc0a-5b19-45d5-b59e-c831ea8b3a0a"
+    },
+    "caseName": "鳥首獸尊",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1352649600000,
+    "officialDocNo": "文授字第10120135331號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "全器為鳥首獸身的複合式動物立雕，作蹲伏狀。獸身及鳥首可接合，鳥喙可張口，獸身裝飾有翅膀。此器造型優雅，自然寫實，為同類之精品。為研究西周至漢動物型酒器，特別是東周時三晉地區鳥首酒器的重要參考材料。且為清宮舊藏之商周銅器精品。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第1、3、4、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": " 文化部",
+    "govDeptName": "文化資產局 ",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故銅002367",
+    "amount": 1,
+    "notes": "",
+    "descAge": "春秋",
+    "descSize": "高20cm、長26.5cm。",
+    "descMaterial": "銅",
+    "reserveStatusDesc": "全器為鳥首獸身的複合式動物立雕，作蹲伏狀。獸身及鳥首可接合，鳥喙可張口，獸身裝飾有翅膀。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。左後肢斷失。尾斷失。右前肢傷裂。左前肢傷裂。下頷銹層剝落。多處有鑄造孔隙。舊傷、右後肢傷裂。\n\n",
+    "documents": [
+        {
+            "fileid": 150833,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-20/e00b8817-6d7f-4bc0-9b18-826b7372a7d2/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71203,
+            "caseId": 3907,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75569,
+            "caseId": 3907,
+            "caseStatus": true,
+            "registerDate": 1352649600000,
+            "officialDocNo": "文授字第10120135331號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

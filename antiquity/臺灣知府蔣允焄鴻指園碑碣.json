@@ -1,0 +1,102 @@
+{
+    "id": 16934,
+    "caseId": "20190722000002",
+    "count": 1004,
+    "shareCount": 5,
+    "representImage": 60223,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-07-24/ef694df3-59c0-4db7-8408-ac9266155e31/鴻指園碑碣_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-07-24/ef694df3-59c0-4db7-8408-ac9266155e31/鴻指園碑碣.jpg",
+        "name": "鴻指園碑碣"
+    },
+    "caseName": "臺灣知府蔣允焄鴻指園碑碣",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1553764756265,
+    "officialDocNo": "府文資處字第1080236159A號",
+    "judgeCriteria": [
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就",
+        "數量稀少者"
+    ],
+    "registerReason": "一、出自清代名宦兼名書法家蔣允焄任臺灣知府所建名園「鴻指園」的碑碣，與地方重要人士有深厚淵源。\n二、碑碣刻工技藝精美，又有書法、詩詞之藝術造詣，能反映人文、藝術等特色。\n三、清領時期臺灣官員園邸相關物件傳世者甚少。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第2、3、4、5款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "官田區",
+    "govInstitution": "臺南市政府文化局",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213597 #607",
+    "govDeptAddress": "70041 臺南市中西區中正路5巷1號2樓",
+    "reservationCode": "20160100126, 20160100127, 20160100128",
+    "amount": 3,
+    "descAge": "清 乾隆",
+    "descSize": "鴻指園石額57.5*114*11/ 鴻指園記58*118*14/ 雪泥鴻爪詩碑58*117.5*12.5",
+    "descMaterial": "青斗石",
+    "reserveStatusDesc": "本案1組3件，包含「鴻指園石額」、「鴻指園記」、「雪泥鴻爪詩碑」。",
+    "pastHistorySource": 3,
+    "pastHistorySourceNotes": "2014.10.28 鄭成功文物館",
+    "saveEnvironment": 1,
+    "reserveStatus": "除有輕微磨損，其餘狀況穩定。",
+    "documents": [
+        {
+            "fileid": 60121,
+            "name": "古物指定公告（門額+鴻指園）.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-07-22/62cc86a4-c4a5-4e16-a69f-c97992e74d73/古物指定公告（門額+鴻指園）.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 23.191289294374144,
+    "latitude": 120.31821398198153,
+    "representImageSource": "台南市政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "臺南市政府",
+            "keepName": "臺南市政府文化局",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "臺南市政府",
+            "keepAddressNew": "臺南市官田區隆田里新生街47號",
+            "saveSpaceIdStr": "公務設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺南市",
+            "keepNameDistName": "安平區",
+            "keepNameAddress": "永華路二段6號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "官田區",
+            "id": 11249,
+            "caseId": 16934,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1618
+        }
+    ],
+    "announces": [
+        {
+            "id": 11375,
+            "caseId": 16934,
+            "caseStatus": true,
+            "registerDate": 1553764756265,
+            "officialDocNo": "府文資處字第1080236159A號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

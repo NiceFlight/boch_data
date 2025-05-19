@@ -1,0 +1,115 @@
+{
+    "id": 16835,
+    "caseId": "20190606000002",
+    "count": 2902,
+    "shareCount": 2,
+    "representImage": 59279,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-06-06/f4d286e6-0840-4ac8-9c5d-d3a5956aea94/DSCN2896_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-06-06/f4d286e6-0840-4ac8-9c5d-d3a5956aea94/DSCN2896.jpg",
+        "name": "DSCN2896"
+    },
+    "caseName": "永安黃家古厝",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "1.1930年祠堂邀集南台廟繪大師潘春源先生彩繪壁畫共18處，包括古厝內部14幅及外牆兩幅。\n2.1962由國寶級畫家潘麗水進行祠堂內部壁畫重新繪圖，覆蓋原潘春源所繪6幅畫作，現有畫作為楊震卻金，蘇武牧羊等8帳，具忠孝節義及吉祥意含的作品。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1540277450505,
+    "officialDocNo": "高市府文資字第10731774500號",
+    "documents": [
+        {
+            "fileid": 59278,
+            "name": "永安黃家古厝公告函.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-06-06/4f83439c-a423-4a9f-a2d0-bac363968ad2/永安黃家古厝公告函.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1.本建築為日治時期紅磚合院建築，格局完整，建築技藝具有地域性及時代性特色。\n2.正廳兩側為架扇木構，其上繪有府城潘春源與潘麗水兩代名師之畫作，加上其他裝飾藝術，見證民間藝術發展歷史。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "800",
+    "govInstitutionName": "高雄市政府",
+    "belongCityId": 18,
+    "belongCityName": "高雄市",
+    "belongDistName": "永安區",
+    "govInstitution": "文化局",
+    "govDeptName": "文化資產中心",
+    "govDeptPhone": "(07)222-5136分機8128",
+    "govDeptAddress": "高雄市苓雅區五福一路67號",
+    "cadasters": [
+        {
+            "fileid": 59280,
+            "name": "02公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2019-06-06/e2eee6c5-720d-4852-ab9f-2e8fa2c15296/02公告表.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "高雄市永安區舊港口段14-54地號",
+    "buildingFeatures": "本建築為日治時期紅磚合院建築，格局完整，正廳兩側為架扇木構，其上繪有府城潘春源與潘麗水兩代名師之畫作，加上其他裝飾藝術",
+    "buildingUsage": "使用中，保存完整，待修復\n因屬私有歷史建築，參觀時請尊重黃家家族儀式進行及隱私。",
+    "buildingActualState": "使用中，保存完整，待修復",
+    "bulkTransfer": 0,
+    "belongAddress": "高雄市永安區永華里忠孝街29號",
+    "isOpenVisit": false,
+    "openUpTime": "未開放參觀",
+    "isCharge": false,
+    "isOpenDownload": true,
+    "longitude": 120.222956,
+    "latitude": 22.816502,
+    "representImageSource": "高雄市政府文化局",
+    "landScope": "高雄市永安區舊港口段14-54地號，約637平方公尺",
+    "selfCoverage": "高雄市永安區忠孝街29號建造物",
+    "addresses": [
+        {
+            "cityName": "高雄市",
+            "distName": "永安區",
+            "id": 131996,
+            "caseId": 16835,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1822,
+            "address": "高雄市永安區永華里忠孝街29號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "高雄市",
+            "distName": "永安區",
+            "landNoName": "舊港口段",
+            "id": 187614,
+            "caseId": 16835,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1822,
+            "landNoId": 4385,
+            "landSerialNo": "14-54",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 143795,
+            "caseId": 16835,
+            "caseStatus": true,
+            "registerDate": 1540277450505,
+            "officialDocNo": "高市府文資字第10731774500號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.22275287606737,22.81629678310227],[120.2227448652448,22.816293136306914],[120.22268825026993,22.81644924312743],[120.22270077740623,22.816454219182926],[120.22274198741218,22.81647058867695],[120.22278507917407,22.81649061999396],[120.22280479488266,22.816501294740757],[120.22296712793153,22.816568955765607],[120.22297205249714,22.816567928067187],[120.22298840738405,22.81656451382633],[120.22300369446678,22.81652566593887],[120.22302038869007,22.816483239155712],[120.22305007937838,22.816407253091025],[120.22296169118502,22.81637634558028],[120.22296345205268,22.816369687320684],[120.2229082976776,22.81635079543195],[120.22286335661693,22.816335401991623],[120.22281420968513,22.81631856873265],[120.22276956028902,22.816303274912904],[120.22275287606737,22.81629678310227],[120.22275287606737,22.81629678310227]]]]},\"properties\":{\"envelope\":{\"left\":\"120.22268825026993\",\"top\":\"22.816293136306914\",\"right\":\"120.22305007937838\",\"bottom\":\"22.816568955765607\"},\"landLot\":\"高雄市永安區舊港口段14-54\"}}],\"notfound\":[]}]",
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

@@ -1,0 +1,171 @@
+{
+    "id": 948,
+    "caseId": "20120508000001",
+    "count": 2975,
+    "shareCount": 2,
+    "representImage": 170480,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/65509186-8c41-4cd8-b1a7-fe03f970dcd0/代表圖像_迪化街一段308號店屋（明善堂）_20220623_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/65509186-8c41-4cd8-b1a7-fe03f970dcd0/代表圖像_迪化街一段308號店屋（明善堂）_20220623.jpeg",
+        "name": "代表圖像_迪化街一段308號店屋（明善堂）_20220623"
+    },
+    "caseName": "迪化街一段308號店屋（明善堂）",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "清末時期創建，原為一坎一落一過水之格局，作為店舖之用；日治昭和年間至戰後初期，閣樓下方改為神龕，是迪化街上少數以店屋形式設立的宗教空間。明善堂為宣講「勸善」為主所設立的宗教場域，具有豐富的人文脈絡，反映出其所在之大稻埕地區民間信仰的多元與混合特色。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 163672,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/7999d5af-54b7-4795-867c-6f82c708659f/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1.明善堂原為店鋪，之後轉變為鸞堂，並保有一坎一落一過水之格局，是迪化街上少數以店屋形式設立的宗教空間。\n2.明善堂為宣講「勸善」為主所設立的宗教場域，具有豐富的人文脈絡，反映出其所在之大稻埕地區民間信仰的多元與混合特色。\n3.符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、2、4款評定基準。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、2、4款評定基準",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 163673,
+            "name": "迪化街一段308號店屋（明善堂）.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/65da26fd-801d-4ef3-a5b2-35433119f13f/迪化街一段308號店屋（明善堂）.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "大稻埕歷史風貌特定專用區",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市大同區延平段二小段366、366-1、365、365-1地號",
+    "buildingFeatures": "建物具閩南街屋之外觀形式，屋頂為閩南紅瓦兩坡頂，鄰馬路側有亭仔腳。",
+    "inHouseFeatures": "室內廳堂上方留有閣樓。",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isOpenDownload": false,
+    "longitude": 121.5091583,
+    "latitude": 25.0615751,
+    "representImageSource": "臺北市文化局",
+    "landScope": "面積約80.37平方公尺",
+    "selfCoverage": "建築物坐落土地為臺北市大同區延平段二小段366、366-1、365、365-1地號(面積約112平方公尺)；建築物為大同區延平段二小段342建號(面積約80.37平方公尺)。(以上面積乃根據地籍資料而來，實際保存面積須以保存範圍實測數據為準)",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 88596,
+            "caseId": 948,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "迪化街1段308號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 105622,
+            "caseId": 948,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 188,
+            "landSerialNo": "366",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "area": "366、366-1、365、365-1地號(面積約112平方公尺)",
+            "cityLandUseTypeOther": "大稻埕歷史風貌特定專用區（供特定住宅使用）",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 105623,
+            "caseId": 948,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 188,
+            "landSerialNo": "366-1",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "area": "366、366-1、365、365-1地號(面積約112平方公尺)",
+            "cityLandUseTypeOther": "大稻埕歷史風貌特定專用區（供特定住宅使用）",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 105624,
+            "caseId": 948,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 188,
+            "landSerialNo": "365",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "area": "366、366-1、365、365-1地號(面積約112平方公尺)",
+            "cityLandUseTypeOther": "大稻埕歷史風貌特定專用區（供特定住宅使用）",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 105625,
+            "caseId": 948,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 188,
+            "landSerialNo": "365-1",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "area": "366、366-1、365、365-1地號(面積約112平方公尺)",
+            "cityLandUseTypeOther": "大稻埕歷史風貌特定專用區（供特定住宅使用）",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 95604,
+            "caseId": 948,
+            "caseStatus": true,
+            "registerDate": 1336406400000,
+            "officialDocNo": "北市文化二字第 10130320000 號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "承熙建築師事務所"
+}

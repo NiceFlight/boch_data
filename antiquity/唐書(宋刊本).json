@@ -1,0 +1,105 @@
+{
+    "id": 3418,
+    "caseId": "20131219000042",
+    "count": 54,
+    "shareCount": 0,
+    "representImage": 5960,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7189/photo/唐書(宋刊本)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7189/photo/唐書(宋刊本).jpg",
+        "name": "唐書(宋刊本)"
+    },
+    "caseName": "唐書(宋刊本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1387382400000,
+    "officialDocNo": "文資局物字第 10220148851號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "南宋中期建安魏仲立宅刊本。\r\n撰者歐陽修(1007-1072)，字永叔，號醉翁、六一居士，諡文忠，北宋廬陵人，儒學家、文學家、政治家，為唐宋八大家之一。宋祁(998-1061)，字子京，北宋安陸人，文學家、史學家。\r\n此書為記載唐朝歷史的紀傳體史書，原二百二十五卷，此書存一百九十三卷。他處所藏亦非全帙。此書於元天曆間(1328-1329)福建曾覆刻，或有誤將覆刻視作宋版者。\r\n宋版古籍，罕見稀有，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號01540",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 67,
+    "notes": "",
+    "descAge": "南宋中期",
+    "descCreator": "宋歐陽修、宋祁同撰",
+    "descSize": "半葉10行，版匡19.2x12.9公分",
+    "descMaterial": "紙質",
+    "reserveStatusDesc": "存一百九十三卷。\n此書為記載唐朝歷史的紀傳體史書，原二百二十五卷，此書存一百九十三卷。他處所藏亦非全帙。此書於元天曆間(1328-1329)福建曾覆刻，或有誤將覆刻視作宋版者。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "無虫蛀。經修裱，書況良好。\n",
+    "documents": [
+        {
+            "fileid": 56146,
+            "name": "03-1021219公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-03-26/bfea99e3-35a6-491e-909d-f401c4b5b8c2/03-1021219公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3560,
+            "caseId": 3418,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3560,
+            "caseId": 3418,
+            "caseStatus": true,
+            "registerDate": 1387382400000,
+            "officialDocNo": "文資局物字第 10220148851號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

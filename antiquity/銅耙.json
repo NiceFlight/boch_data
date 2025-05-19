@@ -1,0 +1,107 @@
+{
+    "id": 4199,
+    "caseId": "20090508000009",
+    "count": 219,
+    "shareCount": 0,
+    "representImage": 7119,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36616/photo/f275da0d-6a4e-4b85-b657-2f293f526297_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36616/photo/f275da0d-6a4e-4b85-b657-2f293f526297.jpg",
+        "name": "f275da0d-6a4e-4b85-b657-2f293f526297"
+    },
+    "caseName": "銅耙",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1241712000000,
+    "officialDocNo": "會授資籌二字第0982105246號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本件形制特殊，製作精良，保存尚好，具有重要歷史、文化、科學價值。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第3條第1項第1、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "南港區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "R019281 ",
+    "keepNameId": 5,
+    "keepName": "中央研究院歷史語言研究所",
+    "keepNameNew": 5,
+    "keepAddressNew": "115台北市南港區研究院路二段130號",
+    "saveSpaceId": 11,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "東周-戰國",
+    "descCreator": "",
+    "descSize": "殘長18.5公分、齒寬4.6公分",
+    "descMaterial": "青銅",
+    "reserveStatusDesc": "表面有銅鏽，沾泥少許，狀如一般農耙。型小，長柄，頭部有三鉤齒，中齒上彫一四足獸，如四腳蛇，柄尾略殘。\n",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "1930年代； 琉璃閣墓001 ",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 （柄端略殘。）",
+    "documents": [
+        {
+            "fileid": 53979,
+            "name": "20090508公告.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-01-09/4207bcbb-bbcd-4e0a-81a2-f7bd8bee2836/20090508公告.jpg"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "中央研究院歷史語言研究所",
+    "keepNames": [
+        {
+            "keepNameIdStr": "中央研究院歷史語言研究所",
+            "keepName": "中央研究院歷史語言研究所",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "中央研究院歷史語言研究所",
+            "keepAddressNew": "115台北市南港區研究院路二段130號",
+            "saveSpaceIdStr": "研究設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "南港區",
+            "keepNameAddress": "研究院路二段130號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "南港區",
+            "id": 4341,
+            "caseId": 4199,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 111
+        }
+    ],
+    "announces": [
+        {
+            "id": 4341,
+            "caseId": 4199,
+            "caseStatus": true,
+            "registerDate": 1241712000000,
+            "officialDocNo": "會授資籌二字第0982105246號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

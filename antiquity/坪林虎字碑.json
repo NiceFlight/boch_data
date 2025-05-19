@@ -1,0 +1,108 @@
+{
+    "id": 2911,
+    "caseId": "20090604000001",
+    "count": 1286,
+    "shareCount": 1,
+    "representImage": 5284,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36754/photo/60427576-5220-4389-8113-c4736551e27d_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36754/photo/60427576-5220-4389-8113-c4736551e27d.JPG",
+        "name": "60427576-5220-4389-8113-c4736551e27d"
+    },
+    "caseName": "坪林虎字碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-其他",
+    "otherAssetsType": "碑碣",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1244044800000,
+    "officialDocNo": "北府文資字第0980007065號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "(一)合乎文化資產保存法「古物分级登錄指定及廢止審查辦法」第2條第1項：\n1、具有歷史意義。\n2、具有史事淵源。\n3、具有一定之時代特色。\n4、具有藝術造詣。\n5、具有珍貴及稀有性者。\n6、具有歷史、文化、藝術價值。\n(二)坪林虎字碑具有歷史文化意義，驗證清末對臺之經營。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第1、2、3、4、5、6款",
+    "govInstitutionCode": "220",
+    "govInstitutionName": "新北市政府",
+    "belongCityId": 3,
+    "belongCityName": "新北市",
+    "belongDistName": "坪林區",
+    "govInstitution": "新北市政府",
+    "govDeptName": "文化局",
+    "govDeptPhone": "(02)29603456",
+    "govDeptAddress": "新北市板橋區中山路1段161號28樓",
+    "reservationCode": "202020299-00010",
+    "amount": 1,
+    "notes": "",
+    "descAge": "同治7年〈1868年〉",
+    "descCreator": "臺灣鎮總兵 劉明燈",
+    "descSize": "厚10公分x寬71公分x高133公分",
+    "descMaterial": "花崗岩",
+    "reserveStatusDesc": "「坪林虎字碑」為清同治七年（1868）臺灣鎮總兵的劉明燈南巡淡蘭跑馬古道，於坪林區石槽里石槽仔題一「虎」字，並分為公、母兩碑，公虎字碑位於草嶺古道，母虎字碑則立於山巔以辟邪逐厲，陣風止煞，坪林的虎字碑則為公虎字碑。民國五十年（1961）間，國軍部隊因拓寬道路而將虎字碑移至今國防部後備總司令博愛營區保留。民國九十四年（2005），國防部同意歸還地方，放置坪林茶業博物館展示保存，還另外複製兩座，一座放在後備司令部，另一座放置在建碑原址。",
+    "pastHistorySource": 3,
+    "pastHistorySourceNotes": "",
+    "saveEnvironment": 3,
+    "reserveStatus": "民國一百一十年（2021）完成古物維護修復。",
+    "documents": [
+        {
+            "fileid": 165941,
+            "name": "坪林虎字碑公告-98.6.4.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-27/eb4c7487-6be0-4f1d-b590-d8cd97cae303/坪林虎字碑公告-98.6.4.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 121.71274867568614,
+    "latitude": 24.934511717919253,
+    "representImageSource": "新北市政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "新北市政府",
+            "keepName": "新北市板橋區中山路1段161號",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "新北市坪林茶業博物館",
+            "keepAddressNew": "新北市坪林區水德里水聳淒坑19-1號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "新北市",
+            "keepNameDistName": "坪林區",
+            "keepNameAddress": " 水德里水聳淒坑19-1號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "新北市",
+            "distName": "坪林區",
+            "id": 110836,
+            "caseId": 2911,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 312,
+            "address": "水德里水聳淒坑19-1號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 119920,
+            "caseId": 2911,
+            "caseStatus": true,
+            "registerDate": 1244044800000,
+            "officialDocNo": "北府文資字第0980007065號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

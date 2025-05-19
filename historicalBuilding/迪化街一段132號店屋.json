@@ -1,0 +1,142 @@
+{
+    "id": 18340,
+    "caseId": "20210116000001",
+    "count": 1971,
+    "shareCount": 1,
+    "representImage": 170914,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/d8506947-b820-4dc1-bcb3-1733bbf9a020/代表圖像_迪化街一段132號店屋_20220623_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/d8506947-b820-4dc1-bcb3-1733bbf9a020/代表圖像_迪化街一段132號店屋_20220623.jpg",
+        "name": "代表圖像_迪化街一段132號店屋_20220623"
+    },
+    "caseName": "迪化街一段132號店屋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "曾為臺北最大文具貿易商「周益芳」，周紅綢氏為日治時期日本畫之女性畫家，二樓大廳及臥室內的傢俱、文物保存極佳，具人文歷史價值。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 92124,
+            "name": "132號店屋公告+地籍地形圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/26df4caf-e560-491d-8044-eeb78b96b744/132號店屋公告+地籍地形圖.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1、本建物自1923年即為周氏家族所有至今，為一坎二落二過水磚造店屋，保存原有街屋形式元素，正面泥塑具沿街建築特色，內部格局仍保有大稻埕地區民間傳統店屋樣貌。\n2、曾為臺北最大文具貿易商「周益芳」，周紅綢氏為日治時期日本畫之女性畫家，二樓大廳及臥室內的傢俱、文物保存極佳，具人文歷史價值。\n",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 92125,
+            "name": "歷建-迪化街一段132號店屋_地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/a4813dcc-613a-4592-b60c-8586eb6ae53c/歷建-迪化街一段132號店屋_地籍圖.pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.50970690287758,
+    "latitude": 25.0575048923593,
+    "representImageSource": "臺北市文化局",
+    "landScope": "大同區延平段三小段690、691、691-1地號等3筆土地。(土地面積239平方公尺)。",
+    "selfCoverage": "大同區延平段三小段216建號（建物面積172.57平方公尺）",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 83723,
+            "caseId": 18340,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "迪化街一段132號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 94543,
+            "caseId": 18340,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 189,
+            "landSerialNo": "690",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "19",
+            "cityLandUseTypeOther": "特定專用區(三)(供特定住宅使用)。",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 94544,
+            "caseId": 18340,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 189,
+            "landSerialNo": "691",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "202",
+            "cityLandUseTypeOther": "特定專用區(三)(供特定住宅使用)。",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 94545,
+            "caseId": 18340,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 189,
+            "landSerialNo": "691-1",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "18",
+            "cityLandUseTypeOther": "特定專用區(三)(供特定住宅使用)。",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 89905,
+            "caseId": 18340,
+            "caseStatus": true,
+            "registerDate": 1588176000000,
+            "officialDocNo": "北市文化文資字弟10930185861號",
+            "classificationId": 1,
+            "note": "歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "建築師事務所"
+}

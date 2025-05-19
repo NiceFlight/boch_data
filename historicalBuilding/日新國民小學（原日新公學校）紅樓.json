@@ -1,0 +1,113 @@
+{
+    "id": 1001,
+    "caseId": "20120612000001",
+    "count": 2968,
+    "shareCount": 2,
+    "representImage": 185369,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/c695041b-fd08-4891-b9d2-7344390ea0ec/代表圖像_日新國民小學（原日新公學校）紅樓_20220725_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/c695041b-fd08-4891-b9d2-7344390ea0ec/代表圖像_日新國民小學（原日新公學校）紅樓_20220725.jpg",
+        "name": "代表圖像_日新國民小學（原日新公學校）紅樓_20220725"
+    },
+    "caseName": "日新國民小學（原日新公學校）紅樓",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "西元1917年（大正6年）日本政府設立「大稻埕第二公學校」，為供臺籍學生就讀之學校，西元1920年（大正9年）第一期校舍完工，西元1945年（民國34年）改名為「臺北市日新國民學校」，西元1946年（民國35年）改名為「臺北市建成區日新國民學校」，西元1968年（民國57年）改名「臺北市建成區日新國民小學」，西元1990年改為現今校名「臺北市大同區日新國民小學」。",
+    "assetsTypeNames": "書院",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 163661,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/7d9c46ea-f491-4c4c-b924-c69fd3a430e0/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "1、日新國民小學紅樓為日治時期至今義務教育發展史的代表場域之ㄧ。紅樓建物前後設有圓拱長廊，為雙走廊之校舍形式，砌磚及細部作法反映當代工程精緻的一面。\r\n2、符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、3、4款評定基準。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、3、4款評定基準",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 163662,
+            "name": "地形地籍示意圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/9105aef4-ca4b-4a50-8b59-8e72fc1a7bf7/地形地籍示意圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "國小用地(公共設施用地)",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市大同區圓環段三小段269地號（部份）",
+    "buildingFeatures": "磚構造圓拱雙走廊，整體立面為紅磚形式之校舍建築。",
+    "inHouseFeatures": "教室空間。",
+    "buildingUsage": "目前為學校教室及行政空間使用。",
+    "buildingActualState": "現狀做為教室空間使用，保存良好。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isOpenDownload": false,
+    "longitude": 121.5164761,
+    "latitude": 25.0543892,
+    "representImageSource": "臺北市文化局",
+    "landScope": "大同區圓環段三小段269地號（部分）",
+    "selfCoverage": "建築物為大同區圓環段三小段1355建號之西側紅樓（面積約1511.45平方公尺）。（實際保存面積須以保存範圍實測數據為準）",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 92608,
+            "caseId": 1001,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "太原路151號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "圓環段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 113090,
+            "caseId": 1001,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 183,
+            "landSerialNo": "269",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "21,282平方公尺",
+            "cityLandUseTypeOther": "國小用地（公共設施用地）",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 99900,
+            "caseId": 1001,
+            "caseStatus": true,
+            "registerDate": 1339430400000,
+            "officialDocNo": "北市文化二字第10130335800號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

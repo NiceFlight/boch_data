@@ -1,0 +1,97 @@
+{
+    "id": 21039,
+    "caseId": "20220927000001",
+    "count": 2063,
+    "shareCount": 3,
+    "representImage": 185480,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/b51bf69f-bdfc-4955-b466-9357b7e0fc19/吳濁流紀念碑_c.png"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/b51bf69f-bdfc-4955-b466-9357b7e0fc19/吳濁流紀念碑.png",
+        "name": "吳濁流紀念碑"
+    },
+    "caseName": "金龍禪寺吳濁流紀念碑群",
+    "classifyCode": "1.4",
+    "classifyName": "紀念建築",
+    "pastHistory": "本紀念碑群於金龍禪寺內，後續將依據修復及再利用計畫調查結果補充。",
+    "assetsTypeNames": "碑碣",
+    "assetsClassifyCode": "1.4",
+    "assetsClassifyName": "紀念建築",
+    "documents": [
+        {
+            "fileid": 185481,
+            "name": "公告+範圍示意圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/ab739f9d-52c2-4572-8e09-d4f8d7438c80/公告+範圍示意圖.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "合於歷史建築登錄基準之建造物與附屬設施物，如屬與歷史、文化、藝術等具有重要貢獻之人物相關者，得登錄為紀念建築"
+    ],
+    "registerReason": "1.吳濁流文學獎紀念碑是為紀念吳濁流文學獎而來，吳濁流1965年設立「台灣文學獎」，為戰後第一個以「台灣文學」名義而設立的獎項，1969年獎項改為「吳濁流文學獎」，碑立於1973年春天，碑座背面刻有吳濁流文學獎成立時的委員名單，碑座左側刻歷屆得獎作家名單，見證1970年代本土文學概況。\n2.吳濁流親題七言律詩碑所錄為吳濁流〈碧湖山金龍寺〉詩作，於1976年親筆刻於石碑，碑文同時出現許多知名人物，包括：杜聰明、吳燕生、鍾肇政等人，見證臺灣本土文學發展之軌跡，具保存價值。\n3.符合歷史建築紀念建築登錄廢止審查及輔助辦法第2-1條第1款登錄基準。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第2項。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 185482,
+            "name": "範圍示意圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/9aa92a9b-9d63-4778-8157-c804d67ace92/範圍示意圖.pdf"
+        }
+    ],
+    "longitude": 121.58632261419592,
+    "latitude": 25.092255208154764,
+    "landScope": "臺北市內湖區碧湖段一小段122地號（部分，該筆土地面積1,472平方公尺，保存範圍：吳濁流文學獎紀念碑以碑座外推1公尺為界；吳濁流親題七言律詩碑以立碑花台外緣及排水溝為界）1筆土地。",
+    "selfCoverage": "吳濁流文學獎紀念碑（保存範圍：以碑座外推1公尺為界）；吳濁流親題七言律詩碑（保存範圍：以立碑花台外緣及排水溝為界）。",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "內湖區",
+            "id": 92664,
+            "caseId": 21039,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 110,
+            "address": "內湖路3段256巷2號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "內湖區",
+            "landNoName": "碧湖段一小段",
+            "noncityLandUseTypeName": "其他使用區",
+            "noncityLandUseSubTypeName": "交通",
+            "id": 113226,
+            "caseId": 21039,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 110,
+            "landNoId": 283,
+            "landSerialNo": "122",
+            "landownership": 2,
+            "noncityLandUseTypeId": 11,
+            "noncityLandUseSubTypeId": 11,
+            "coverageId": 1,
+            "note": "內湖區碧湖段一小段122地號（部分，該筆土地面積1,472平方公尺，保存範圍：吳濁流文學獎紀念碑以碑座外推1公尺為界；吳濁流親題七言律詩碑以立碑花台外緣及排水溝為界）1筆土地。",
+            "cityLandUseId": 2
+        }
+    ],
+    "announces": [
+        {
+            "id": 99963,
+            "caseId": 21039,
+            "caseStatus": true,
+            "registerDate": 1664208000000,
+            "officialDocNo": "北市文化文資字第11130337571號",
+            "classificationId": 1,
+            "note": "登陸內湖區「金龍禪寺吳濁流紀念碑群」為本市紀念建築。"
+        }
+    ],
+    "openVisitType": ""
+}

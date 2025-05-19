@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "臺南市新化區礁坑子段589-3地號"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

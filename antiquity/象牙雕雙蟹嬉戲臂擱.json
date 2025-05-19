@@ -1,0 +1,99 @@
+{
+    "id": 18177,
+    "caseId": "20201215000008",
+    "count": 187,
+    "shareCount": 0,
+    "representImage": 89874,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-12-15/c2051ce7-4ac8-4a0c-9eb5-71a2d7edb1bf/案018-1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-12-15/c2051ce7-4ac8-4a0c-9eb5-71a2d7edb1bf/案018-1.jpg",
+        "name": "案018-1"
+    },
+    "caseName": "象牙雕雙蟹嬉戲臂擱",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1606381149460,
+    "officialDocNo": "北市獻編字第1093004298號",
+    "judgeCriteria": [
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "具有藝術造詣，浮雕技藝佳。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "內湖區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174-1號",
+    "reservationCode": "典藏 I018",
+    "amount": 1,
+    "descAge": "清末民初",
+    "descSize": "高23公分，寬8.5公分 木座高4公分",
+    "descMaterial": "象牙",
+    "reserveStatusDesc": "我國以前的書寫格式，是自右而左，為了防止手臂沾墨，就產生了枕臂之具臂擱，其竹片肚稍虛起，不惹字墨，最為適用。有了它，作書揮毫時枕在臂下，就既防墨跡沾臂，又防夏天臂上汗水滲紙。另外臂擱還有一個用途，紙輕易被風掀，壓在上面，可代文鎮。\n以象牙雕刻而成之長條形臂擱，覆瓦式呈竹節樣，一面穹起，一面凹陷。穹起面以呈現象牙原始布紋及網格紋貌。臂擱背面以高浮雕及鏤雕技法刻畫雕刻生動的呈現雙蟹嬉戲於稻禾之間，禾穗飽滿而下垂，禾葉翩翩承載著雙蟹而墬下，最下方的螃蟹雙螯緊抓禾穗，活潑可愛。 畫面擷取禾、蟹 和諧之意，而稻禾尚有一意，諺語：「低頭的是稻穗，昂頭的是稗子」。 越成熟越飽滿的稻穗，頭垂得越低。謙虛時，能看見別人的好；感恩時，會明白自己什麼都沒有；當謙虛和感恩結合成一種智慧時，就會懂得彎腰，而且知道要多學習。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況良好。",
+    "documents": [
+        {
+            "fileid": 89873,
+            "name": "臺北市公告指定一般古物1091126.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-15/1be25127-8bd2-40cd-964b-7e190057f56e/臺北市公告指定一般古物1091126.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.51984879730222,
+    "latitude": 25.032456306173696,
+    "representImageSource": "嚴○泰/嚴○隆",
+    "keepNames": [
+        {
+            "keepNameIdStr": "嚴○泰/嚴○隆",
+            "keepName": "嚴○泰/嚴○隆",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "嚴○泰/嚴○隆",
+            "keepAddressNew": "臺北市內湖區行忠路2號2樓",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "宅第",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "內湖區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 68643,
+            "caseId": 18177,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 72743,
+            "caseId": 18177,
+            "caseStatus": true,
+            "registerDate": 1606381149460,
+            "officialDocNo": "北市獻編字第1093004298號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

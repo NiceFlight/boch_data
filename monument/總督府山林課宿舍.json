@@ -1,0 +1,139 @@
+{
+    "id": 105,
+    "caseId": "20060331000001",
+    "count": 4251,
+    "shareCount": 3,
+    "representImage": 186577,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/7dddf869-f947-4df8-ad66-33b68744eee8/代表圖像_總督府山林課宿舍_20220616_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/7dddf869-f947-4df8-ad66-33b68744eee8/代表圖像_總督府山林課宿舍_20220616.jpg",
+        "name": "代表圖像_總督府山林課宿舍_20220616"
+    },
+    "caseName": "總督府山林課宿舍",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "為原日據時期山林課成立之「營林共濟組合」所購置，作為員工宿舍；資金由員工每月薪資中扣收會費，山林課提撥配合款籌資而成。建築物創建時期約為日據時期30年代前後，為原日據時期山林課所成立之「營林共濟組合」所購置，作為員工宿舍。二次大戰結束後(1945年)，台灣省農林處下設林務局，接收原總督府山林課之業務，「營林共濟財產」也由林務局接管，此區房舍繼續配住員工。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 119026,
+            "name": "950331公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/e8a53a10-97c5-4508-89aa-11a2b0d2cde3/950331公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "具建築史上之意義，有再利用之價值及潛力者",
+        "具其他古蹟價值者"
+    ],
+    "registerReason": "1.金山南路二段203巷兩側之日式宿舍，原為日本殖民時期臺灣總督府山林課「共濟組合」購置之員工宿舍。與昔日台人聚居之艋舺、大稻埕相對照，目前存留的住宅小區在景福門外，做為殖民城市的中階殖民官員的員工宿舍，表現了殖民城市的空間隔離特色；若與已經拆除的隔鄰高級官員官舍對照，本區的日式宿舍則表現了殖民建築所特有的等級分明之空間秩序。\r\n2.兩座雙併式宿舍保存良好，完整率約達百分之八十，檜木柱樑及地板維護甚佳，具有殖民建築史的研究價值。",
+    "lawsReference": "古蹟指定及廢止審查辦法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 119030,
+            "name": "位置圖與地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/4e3df803-1959-4d78-a441-c7f84721533c/位置圖與地籍圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "locationLandNo": "大安區金華段二小段934部分地號",
+    "buildingFeatures": "建築規模完整保存，為高等官舍。",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "修復中，後續規劃作為山林教育空間。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.52772963627541,
+    "latitude": 25.027938292650717,
+    "representImageSource": "臺北市文化局",
+    "landScope": "大安區金華段二小段934部分地號",
+    "selfCoverage": "大安區金華段二小段1420、1424建號",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 93396,
+            "caseId": 105,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "金山南路二段203巷15號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 93397,
+            "caseId": 105,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "金山南路二段203巷17號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 93398,
+            "caseId": 105,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "金山南路二段203巷22號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 93399,
+            "caseId": 105,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "金山南路二段203巷24號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "金華段二小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 114955,
+            "caseId": 105,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 721,
+            "landSerialNo": "934",
+            "cityLandUseTypeId": 1,
+            "coverageId": 1,
+            "note": "金山南路二段203巷15、17號坐落土地為金華段二小段934地號、金山南路二段203巷22、24號坐落土地為金華段二小段934-6地號(需辦理公告變更)",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 100823,
+            "caseId": 105,
+            "caseStatus": true,
+            "registerDate": 1143734400000,
+            "officialDocNo": "府文化二字第09530231700號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false,
+    "pastHistorySource": ""
+}

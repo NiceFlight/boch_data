@@ -1,0 +1,105 @@
+{
+    "id": 3443,
+    "caseId": "20131219000067",
+    "count": 122,
+    "shareCount": 0,
+    "representImage": 6009,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7204/photo/史記(日本寶治三 年寫卷子本)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7204/photo/史記(日本寶治三 年寫卷子本).jpg",
+        "name": "史記(日本寶治三 年寫卷子本)"
+    },
+    "caseName": "史記(日本寶治三 年寫卷子本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1387382400000,
+    "officialDocNo": "文資局物字第 10220148851號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "日本寶治三年(1249)安倍時貞寫卷子本。\r\n司馬遷(前145或前135-前87？)，字子長，西漢夏陽人，中國古代著名的史學家、文學家，後世尊稱為「史遷」、「太史公」。裴駰(生卒年未詳)，字龍駒，南朝劉宋（419-478）時期河東聞喜人，史學家裴松之之子。司馬貞(生卒年未詳)，字子正，唐朝河內人。\r\n此本僅存夏本紀第二，卷首缺，末有日人「大監物惟宗守俊」等十人銜名。正文中有朱、墨批註。\r\n日本寫卷子本，罕見稀有，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路362號",
+    "reservationCode": "書號01290",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "日本寶治3年(1248)",
+    "descCreator": "漢司馬遷撰，宋裴駰集解，唐司馬貞索隱",
+    "descSize": "每紙18行，全幅29.2x49.5公分",
+    "descMaterial": "紙質寫本",
+    "reserveStatusDesc": "存一卷(夏本紀第二，史記二)\n此本僅存夏本紀第二，卷首缺，末有日人「大監物惟宗守俊」等十人銜名。正文中有朱、墨批註。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "部分蟲蛀，未修裱。捲軸裝，保存狀況良好。\n",
+    "documents": [
+        {
+            "fileid": 6010,
+            "name": "951088cc-186e-44c2-ace2-c5aea6c98ecd.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44057/file/951088cc-186e-44c2-ace2-c5aea6c98ecd.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3585,
+            "caseId": 3443,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3585,
+            "caseId": 3443,
+            "caseStatus": true,
+            "registerDate": 1387382400000,
+            "officialDocNo": "文資局物字第 10220148851號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

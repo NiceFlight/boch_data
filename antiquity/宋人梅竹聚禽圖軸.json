@@ -1,0 +1,107 @@
+{
+    "id": 4017,
+    "caseId": "20120326000072",
+    "count": 316,
+    "shareCount": 0,
+    "representImage": 6893,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/33003/photo/c423e5b2-6b67-467b-937a-63327726e006_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/33003/photo/c423e5b2-6b67-467b-937a-63327726e006.JPG",
+        "name": "c423e5b2-6b67-467b-937a-63327726e006"
+    },
+    "caseName": "宋人梅竹聚禽圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有特殊之時代特色、技術及流派",
+        "品質精良且數量特別稀少"
+    ],
+    "registerReason": "此幅雖無畫家款印，畫上南宋理宗趙昀（1203-1264）「緝熙殿寶」即可作為時代下限。由畫風可推斷出於北宋宮廷花鳥畫形神兼具的典型。具特殊的時代特色，品質精良且數量稀少。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第四條第一項第三、五款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000902",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descSize": "258.4 x 108.4（公分）",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "本幅描繪春日的郊野一隅，白梅、翠竹、荊棘傍石而叢生，枝幹彎曲、糾結，極盡變化之能。枝椏間並有桑鳲、綠鳩和楔尾伯勞成對棲息，地面猶見一隻鵪鶉低首覓食。\n畫上時代最早的收傳印為南宋理宗的「緝熙殿寶」，故成作年代應不致晚於北宋。《宣和畫譜》曾著錄李正臣其人作有〈梅竹山禽圖〉，與本件頗為相符。惜當時院畫多未署款，尚難驟爾斷言本幅即出自李氏，仍宜以宣和畫院的作品視之。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 151796,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-26/9e7b9aa8-4d6c-4b55-82ce-53f5830e72e1/公告.pdf"
+        },
+        {
+            "fileid": 151797,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-26/5c8de7b7-3f92-4fc9-9c8b-1dfd743d44a6/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71500,
+            "caseId": 4017,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": " 至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75961,
+            "caseId": 4017,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

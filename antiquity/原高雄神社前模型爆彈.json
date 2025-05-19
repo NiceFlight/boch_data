@@ -1,0 +1,103 @@
+{
+    "id": 16047,
+    "caseId": "20180816000002",
+    "count": 400,
+    "shareCount": 0,
+    "representImage": 49498,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-08-16/fb61aa02-a5d2-432c-9a7e-727bea0700b4/原高雄神社模型爆彈_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-08-16/fb61aa02-a5d2-432c-9a7e-727bea0700b4/原高雄神社模型爆彈.jpg",
+        "name": "原高雄神社模型爆彈"
+    },
+    "caseName": "原高雄神社前模型爆彈",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-軍事設備",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1477624235698,
+    "officialDocNo": "高市府文博字第10570358400號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "數量稀少者",
+        "對地方或族群知識、技術或流派發展具影響或意義"
+    ],
+    "registerReason": "1.\t本古物為日本駐紮在臺海軍為紀念皇紀2600年，由其將士出資獻納鐵製模型爆彈，分別立於臺灣神社、建功神社與臺中、臺南、高雄等十處神社。\n2.\t目前所知僅有本市及臺南市保有同款模型爆彈（立於該市忠義國小操場前），具稀有性。\n3.\t本古物具歷史意義、史事淵源及珍貴稀有性等基準。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2、5、6款",
+    "govInstitutionCode": "800",
+    "govInstitutionName": "高雄市政府",
+    "belongCityId": 18,
+    "belongCityName": "高雄市",
+    "belongDistName": "鹽埕區",
+    "govInstitution": "高雄市立歷史博物館",
+    "govDeptName": "文化資產中心",
+    "govDeptPhone": "07-2225136#8929",
+    "govDeptAddress": "高雄市苓雅區五福一路67號",
+    "reservationCode": "KH2015.001.002",
+    "amount": 1,
+    "descAge": "1937年",
+    "descSize": "長200公分",
+    "descMaterial": "鋼鐵",
+    "reserveStatusDesc": "本古物據國防部的回覆，應為日本昭和12年（1937）設計研製之Land Bomb No.25型550磅炸彈，次年正式於二次大戰服役。",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "壽山高雄神社下方樹林",
+    "saveEnvironment": 1,
+    "reserveStatus": "已完成清潔及除鏽等修復，現況穩定良好",
+    "documents": [
+        {
+            "fileid": 49497,
+            "name": "105古物備查資料ALL.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-08-16/5f328f5e-8436-459b-b812-5f07ec6be64b/105古物備查資料ALL.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.286691,
+    "latitude": 22.628107,
+    "representImageSource": "高雄市立歷史博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "高雄市立歷史博物館",
+            "keepName": "鍾子瑄",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "高雄市立歷史博物館",
+            "keepAddressNew": "高雄市鹽埕區河西路99號3樓",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "高雄市",
+            "keepNameDistName": "鹽埕區",
+            "keepNameAddress": "中正四路272號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "高雄市",
+            "distName": "鹽埕區",
+            "id": 148675,
+            "caseId": 16047,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1804,
+            "address": "河西路99號3樓"
+        }
+    ],
+    "announces": [
+        {
+            "id": 161642,
+            "caseId": 16047,
+            "caseStatus": true,
+            "registerDate": 1477624235698,
+            "officialDocNo": "高市府文博字第10570358400號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

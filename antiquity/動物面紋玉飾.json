@@ -1,0 +1,102 @@
+{
+    "id": 3698,
+    "caseId": "20111206000011",
+    "count": 274,
+    "shareCount": 0,
+    "representImage": 6440,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/114413/photo/pic001002_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/114413/photo/pic001002.jpg",
+        "name": "pic001002"
+    },
+    "caseName": "動物面紋玉飾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1323100800000,
+    "officialDocNo": "會授資籌二字第10020132541號函",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "１.本器係造形相當特殊之春秋時代玉器，其正視動物面紋形象雖可溯自新石器時代，但其鼻部有一長條形凸出，與舖首之造形相當類似，疑似舖首形玉器之早期階段作品，具研究價值。\r\n２.本器出土於輝縣琉璃閣甲墓，考古出土地點明確，時代性非常確鑿，可作為古玉研究的指標性作品。\r\n３.春秋時期此項造型尚未發現，高雕技法及透雕的技法均相當熟練。\r\n４.嵌飾器的器型是一塊完整玉料所完成，設計造型獨特，疑似早期玉舖首的重要資料，在春秋玉器史上，有其地位及意義。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」\r\n   第三條第一項第三、五、六款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "玉169（h0000232）",
+    "amount": 1,
+    "notes": "",
+    "descAge": "春秋",
+    "descSize": "長3.7公分×寬3.3公分×厚1公分",
+    "descMaterial": "閃玉",
+    "reserveStatusDesc": "原器和闐青黃玉質，上緣有淺黑褐色沁，器作鋪首獸面紋形，背面光素無紋，似為鑲嵌用玉，正面獸面為橢圓形眼、捲雲眉，眉間連接稍凹，略呈弧形並鏤空，鼻作長方形鏤空，鼻下突起向下延伸作吐舌狀，獠牙以長圓狀鏤空表現，器背面平素無紋，器整體作弧面凸起。\n",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "1938年河南輝縣甲墓出土；發掘河南博物館（代管）",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 53580,
+            "name": "用印公告文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-12-28/29827f9e-f38d-43c3-9461-2e8e91c59758/用印公告文.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.51984879730222,
+    "latitude": 25.032456306173696,
+    "representImageSource": "國立歷史博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立歷史博物館",
+            "keepName": "國立歷史博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立歷史博物館",
+            "keepAddressNew": "台北市中正區南海路49號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "徐州路21號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 69701,
+            "caseId": 3698,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 73880,
+            "caseId": 3698,
+            "caseStatus": true,
+            "registerDate": 1323100800000,
+            "officialDocNo": "會授資籌二字第10020132541號函",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

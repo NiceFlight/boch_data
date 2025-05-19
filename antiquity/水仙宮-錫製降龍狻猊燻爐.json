@@ -1,0 +1,104 @@
+{
+    "id": 16020,
+    "caseId": "20180731000005",
+    "count": 248,
+    "shareCount": 1,
+    "representImage": 49343,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-07-31/751fda86-cdae-4bf0-84bc-63bae1e0ef3d/05-006IMG_1934_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-07-31/751fda86-cdae-4bf0-84bc-63bae1e0ef3d/05-006IMG_1934.jpg",
+        "name": "05-006IMG_1934"
+    },
+    "caseName": "水仙宮-錫製降龍狻猊燻爐",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1528956291055,
+    "officialDocNo": "府授文博字第1073701729號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就",
+        "數量稀少者",
+        "對地方或族群知識、技術或流派發展具影響或意義"
+    ],
+    "registerReason": "（1）具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：昭和四年款（1931），傳統錫器製作。\n（2）能反映政治、經濟、社會、人文、科學等歷史變遷或時代特色者：形制完整，有商號落款。\n（3）具有藝術造詣或科學成就：具錫工藝價值。\n（4）數量稀少者：在澎湖尚屬稀有。\n（5）對地方或族群知識、技術或流派發展具影響或意義：製作廠商「勝春」，具臺南工藝之地方特色。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、3、4、5、6款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00641-P-M010-006",
+    "amount": 1,
+    "descAge": "1931年",
+    "descSize": "長19公分/寬57公分/高67公分",
+    "descMaterial": "錫",
+    "reserveStatusDesc": "方形展耳供器，凸蓋頂平，上飾一立體戲球獅飾；直口豎頸，身處中鼓，平底有四足，足下另有一座，兩側展耳與蓋同高。直口處正面鏨刻「水仙宮」，身處鏨刻落款，左題「昭和六年四月辛未三月吉旦」，右題「臺廈郊實業會眾鋪同敬叩」；雙耳為捲草龍紋，四直足下有波紋，下座足間飾壼門，器底有二圓印款「勝春」。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "時間：1931年    捐贈者：臺廈郊實業會眾鋪",
+    "saveEnvironment": 2,
+    "reserveStatus": "狀況穩定，於一樓神案上使用。",
+    "documents": [
+        {
+            "fileid": 49344,
+            "name": "03_錫製燻爐公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-07-31/be0d7f45-ea77-4e1e-9499-c8fe4426790c/03_錫製燻爐公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.564175,
+    "latitude": 23.563957,
+    "representImageSource": "澎湖縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "水仙宮管理委員會",
+            "keepName": "吳明錚",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "水仙宮",
+            "keepAddressNew": "澎湖縣馬公市中央里中山路6巷9號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "澎湖縣",
+            "keepNameDistName": "馬公市",
+            "keepNameAddress": "中央里中山路6巷9號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 127689,
+            "caseId": 16020,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "中央里中山路6巷9號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 138612,
+            "caseId": 16020,
+            "caseStatus": true,
+            "registerDate": 1528956291055,
+            "officialDocNo": "府授文博字第1073701729號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

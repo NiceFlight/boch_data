@@ -1,0 +1,102 @@
+{
+    "id": 17649,
+    "caseId": "20200611000017",
+    "count": 327,
+    "shareCount": 1,
+    "representImage": 69625,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-06-11/57183a7f-ece0-4680-a8d9-87270c036a8f/32南宋 官窯青瓷龍紋洗_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-06-11/57183a7f-ece0-4680-a8d9-87270c036a8f/32南宋 官窯青瓷龍紋洗.jpg",
+        "name": "32南宋 官窯青瓷龍紋洗"
+    },
+    "caseName": "南宋 官窯青瓷龍紋洗",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1589857247114,
+    "officialDocNo": "文授資局物字第10930056341號",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "數量特別稀少或具完整性保存意義者",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此器曾收入由乾隆皇帝主導，完成於乾隆五十一年（1786）名為「珍陶萃美」的多寶格，整件作品的造型特徵也繪入典藏圖冊中，益顯珍貴。此器呈圓口，斜直壁，平底無足。墊燒，內外施青釉，顏色深綠，口下有多層施釉痕，釉表開灰棕色紋片，局部間雜少許冰裂紋。內底模印蟠螭紋，口沿磨平，露出鐵灰色胎。外底留有一個支圈墊燒痕，墊痕邊並有平均排佈的三枚支釘。傳世帶木座，座底刻「宋汝窯蟠螭洗」、「古稀天子御玩」和「甲」字銘。透過「宋汝窯蟠螭洗」品名的擬定，得知乾隆皇帝將今日視野下的南宋官窯器看成是汝窯。他親手目驗的經過，透過「通體有蟹爪紋，器中隱起蟠龍，底有環紋，鐵骨無釉，中排小掙釘三」的說明，表露無遺。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故瓷14111",
+    "amount": 1,
+    "descAge": " 南宋",
+    "descSize": "高4.7公分，口徑18公分",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "此器呈圓口，深壁微外鼓，平底無足。全器滿施青釉，釉色偏綠，釉表滿佈開片，局部有冰裂紋。因採用墊燒法燒製，底面有一圈無釉的「蛇目」痕。口沿有磨釉痕跡。\n\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "口沿有多處舊裂且刮釉一周，器身有裂璺數處，圈足有原胎傷。",
+    "documents": [
+        {
+            "fileid": 144509,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-10/f08d9234-86e8-4738-9311-3908b1058da1/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": " ",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 67183,
+            "caseId": 17649,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 71381,
+            "caseId": 17649,
+            "caseStatus": true,
+            "registerDate": 1589857247114,
+            "officialDocNo": "文授資局物字第10930056341號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

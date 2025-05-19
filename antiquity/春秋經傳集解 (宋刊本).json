@@ -1,0 +1,105 @@
+{
+    "id": 3374,
+    "caseId": "20140425000030",
+    "count": 48,
+    "shareCount": 0,
+    "representImage": 5872,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7028/photo/春秋經傳集解(宋刊本)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7028/photo/春秋經傳集解(宋刊本).jpg",
+        "name": "春秋經傳集解(宋刊本)"
+    },
+    "caseName": "春秋經傳集解 (宋刊本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1398355200000,
+    "officialDocNo": "10320044271",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "南宋潛府劉氏家塾刊本配補宋建刊纂圖互註本。\r\n撰者杜預（222-285），字元凱，京兆杜陵人，西晉政治家、軍事家、經學家。\r\n此書首卷次行註文小字：陸德明音義曰舊夫子之經與丘明之傳各卷，杜氏合而釋之，故曰「經傳集解」。刊刻者潛府劉氏家塾不詳。查此本各葉左上欄外耳題記公名年次，有圖，又註文之「重言」、「似句」等以白文墨蓋子別出，凡此種種，應是建坊刻書。\r\n宋版古籍，罕見稀有，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第1項第5、6款指定基準。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號00579",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 16,
+    "notes": "",
+    "descAge": "南宋",
+    "descCreator": "杜預",
+    "descSize": "半葉11行，版匡19x12.6公分。",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "存二十九卷，附春秋名號歸一圖二卷，諸侯興廢等二卷。\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有蟲蛀，經修裱，保存狀況良好。",
+    "documents": [
+        {
+            "fileid": 5873,
+            "name": "e8e00567-2aa5-4b5f-8f98-8dfae3a73bb6.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43989/file/e8e00567-2aa5-4b5f-8f98-8dfae3a73bb6.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3516,
+            "caseId": 3374,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3516,
+            "caseId": 3374,
+            "caseStatus": true,
+            "registerDate": 1398355200000,
+            "officialDocNo": "10320044271",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

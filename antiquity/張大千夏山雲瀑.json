@@ -1,0 +1,104 @@
+{
+    "id": 3685,
+    "caseId": "20130806000003",
+    "count": 491,
+    "shareCount": 0,
+    "representImage": 6427,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7365/photo/張大千夏山雲瀑_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7365/photo/張大千夏山雲瀑.jpg",
+        "name": "張大千夏山雲瀑"
+    },
+    "caseName": "張大千夏山雲瀑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1375718400000,
+    "officialDocNo": "文資局物字第10220094571號",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "張大千(1899-1983)近代書畫名家，擅長工筆、潑墨、潑彩等技法。此巨幅潑墨潑彩山水畫，作於張大千七十二歲，縱橫自如，出入古今風神獨具，為其晚年潑墨潑彩風格成熟的代表作品。\r\n畫面以鳥瞰的高視點呈現夏日濃密雲層籠罩下的山林瀑布與屋舍之景，畫家以濃淡相間的潑墨表現山頂滿佈的雲霧，再以石青、石綠、白粉等所造成的潑彩效果覆疊融混於潑墨之中，使得雲霧層次變化豐富、又具奇幻之效。在大片墨彩之外的虛處則以線條勾畫出屋舍或山石樹橋等具體物象，將觀者拉回現實世界。\r\n全畫虛實間的巧妙搭配，面狀墨彩潑染與線條勾繪所造成抽象與具象兼具的視覺效果，呈現氣象萬千、酣暢淋漓的美感，為大千精妙之作，具重要藝術造詣及價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第三條第1項第4、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "32504 ",
+    "keepNameId": 7,
+    "keepName": "國立歷史博物館",
+    "keepNameNew": 7,
+    "keepAddressNew": "100台北市中正區南海路49號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "1970",
+    "descSize": "150 公分×210 公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "此畫作於張大千七十二歲，為其晚年潑墨潑彩風格成熟的代表作品。畫面以鳥瞰的高視點呈現夏日濃密雲層壟罩下的山林瀑布與屋舍之景，畫家以濃淡相間的潑墨表現山頂滿佈的雲霧，再以石青、石綠、白粉等所造成的潑彩效果覆疊融混於潑墨之中，使得雲霧層次變化豐富、又具奇幻之效。在大片墨彩之外的虛處則以線條勾畫出屋舍或山石樹橋等具體物象，將觀者拉回現實世界。全畫虛實間的巧妙搭配、面狀墨彩潑染與線條勾繪所造成抽象與具象兼具的視覺效果與氣象萬千、酣暢淋漓的美感，使得此作成為大千精妙之作。",
+    "pastHistorySource": 7,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 53692,
+            "name": "60公告文-有字號-用.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-01-03/848a814e-ecb6-49bb-bbde-52994e967e65/60公告文-有字號-用.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立歷史博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立歷史博物館",
+            "keepName": "國立歷史博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立歷史博物館",
+            "keepAddressNew": "100台北市中正區南海路49號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "徐州路21號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3827,
+            "caseId": 3685,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3827,
+            "caseId": 3685,
+            "caseStatus": true,
+            "registerDate": 1375718400000,
+            "officialDocNo": "文資局物字第10220094571號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

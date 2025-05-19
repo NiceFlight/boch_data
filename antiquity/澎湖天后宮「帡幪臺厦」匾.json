@@ -1,0 +1,103 @@
+{
+    "id": 17340,
+    "caseId": "20200207000001",
+    "count": 411,
+    "shareCount": 0,
+    "representImage": 65793,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-02-07/c8c229a3-34d7-4c25-b8e4-b11ec2411123/IMG_1566_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-02-07/c8c229a3-34d7-4c25-b8e4-b11ec2411123/IMG_1566.jpg",
+        "name": "IMG_1566"
+    },
+    "caseName": "澎湖天后宮「帡幪臺厦」匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1570587397487,
+    "officialDocNo": "中華民國108年10月9日府授文博字第1083703356號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "1、具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：澎湖天后宮為澎湖闔澎公廟之一，早年香火除由全澎信士供奉，主要由臺廈郊資助，此匾由「臺厦郊眾舖戶仝敬獻」顯示此層意義。            \n2、能反映政治、經濟、社會、人文、科學等歷史變遷或時代特色者：反映當時商貿之郊行文化。臺廈郊是清代貿易於臺、澎、廈門間的商人在澎湖所設立的商業團體，設有公所，以解決貿易糾紛。本匾於大正12年(1923)之臺廈郊款，見證臺廈郊於大正14年（1925）將名稱改為「臺廈郊實業會」之變遷。\n3、具有藝術造詣或科學成就：字體架構四平八穩，在撇、捺處利用方向取勢破除正局。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、3、4款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00646-P-106-0002",
+    "amount": 1,
+    "descAge": "大正12年",
+    "descSize": "寬約235公分",
+    "descMaterial": "木",
+    "reserveStatusDesc": "橫長形木匾，匾面無拼接，似有背板，匾面下方四分之一處有橫向木裂痕，匾面黑，字皆笑竹（陰刻）貼金，中行字邊緣漆與金箔有剝落，可見金箔下方暗褐色底漆與旗下白色底層。中行「帡幪臺厦」四字有破鋒，上款「大正拾貳年季冬月　吉旦」，下款「臺厦郊眾舖戶仝敬獻」，後二朱色方印，分別為「馬公」與「臺厦郊印」。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "時間：大正拾貳年季冬月　吉旦    捐贈者：臺厦郊眾舖戶仝敬獻",
+    "saveEnvironment": 2,
+    "reserveStatus": "澎湖天后宮第一進後落名間後副點金柱間",
+    "documents": [
+        {
+            "fileid": 106930,
+            "name": "公告公文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-04-23/f8c90045-148b-4c45-9393-0c3a67b8b91e/公告公文.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.564038,
+    "latitude": 23.564693,
+    "representImageSource": "澎湖縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "澎湖天后宮",
+            "keepName": "蔡光明",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "澎湖天后宮",
+            "keepAddressNew": "澎湖縣馬公市中央里正義街1號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "澎湖縣",
+            "keepNameDistName": "馬公市",
+            "keepNameAddress": "中央里正義街1號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 127653,
+            "caseId": 17340,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "中央里正義街1號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 138575,
+            "caseId": 17340,
+            "caseStatus": true,
+            "registerDate": 1570587397487,
+            "officialDocNo": "府授文博字第1083703356號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

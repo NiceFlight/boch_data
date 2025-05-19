@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "臺南市北區仁愛段2（部分）地號"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

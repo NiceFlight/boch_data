@@ -1,0 +1,89 @@
+{
+    "id": 2906,
+    "caseId": "20071002000001",
+    "count": 1174,
+    "shareCount": 0,
+    "representImage": 5278,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36715/photo/6228050f-3108-4d62-bb30-31acb7c368e0_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36715/photo/6228050f-3108-4d62-bb30-31acb7c368e0.JPG",
+        "name": "6228050f-3108-4d62-bb30-31acb7c368e0"
+    },
+    "caseName": "木柵畜魂碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-其他",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1191254400000,
+    "officialDocNo": "府文化四字第09630908100號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1、該石碑立於昭和12年（1937）距今70年。\r\n2、見證木柵地區，於日據時期至光復後，地方屠宰業之發展。\r\n3、目前台北市僅松山四獸山及北投大豐公園各有1座，為目前全市現存之3座畜魂碑其中之一。",
+    "lawsReference": "文化資產保存法第65條、古物分級登錄指定及廢止審查辦法第2條及第5條",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "文山區",
+    "reservationCode": "",
+    "keepNameId": 17,
+    "keepName": "",
+    "keepNameNew": 17,
+    "keepAddressNew": "臺北市文山區臺北市文山區木柵路三段220號(文山區行政大樓所屬之公園內)",
+    "amount": 1,
+    "notes": "",
+    "reserveStatusDesc": "",
+    "reserveStatus": "有損傷但狀況穩定 ",
+    "documents": [],
+    "isOpenDownload": true,
+    "belongAddress": "指南路1段14巷3號",
+    "representImageSource": "",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺北市文山區臺北市文山區木柵路三段220號(文山區行政大樓所屬之公園內)",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "文山區",
+            "id": 3042,
+            "caseId": 2906,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 112,
+            "address": "指南路1段14巷3號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 3042,
+            "caseId": 2906,
+            "caseStatus": true,
+            "registerDate": 1191254400000,
+            "officialDocNo": "府文化四字第09630908100號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

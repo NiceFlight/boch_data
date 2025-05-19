@@ -1,0 +1,105 @@
+{
+    "id": 3676,
+    "caseId": "20100830000013",
+    "count": 347,
+    "shareCount": 1,
+    "representImage": 6417,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32624/photo/dcf13cd3-c37c-439a-bf90-a9eb31ddc69c_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32624/photo/dcf13cd3-c37c-439a-bf90-a9eb31ddc69c.jpg",
+        "name": "dcf13cd3-c37c-439a-bf90-a9eb31ddc69c"
+    },
+    "caseName": "光緒10年(1884)台灣道台劉璈出示「法人棄好背盟無端挑衅」曉諭",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-公文書",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1283097600000,
+    "officialDocNo": "會授資籌二字第09920102141號",
+    "judgeCriteria": [
+        "具有史事重要淵源",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.為1884-1885年「清法戰爭」（中法戰爭）臺灣攻防規畫相關之重要史料，且為臺灣近代第一次涉外大規模國際戰爭的重要文獻。2.研究臺灣對外關係、國際戰略地位之重要本土史料。具有歷史、文化及軍事價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。2.符合「古物分級登錄指定及廢止審查辦法」第三條第一、二、六款、第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "AH2791",
+    "keepNameId": 4,
+    "keepName": "國立臺灣博物館",
+    "keepNameNew": 4,
+    "keepAddressNew": "100台北市中正區襄陽路2號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 1,
+    "amount": 1,
+    "notes": "1.臺灣銀行經濟研究室編、黎烈文譯、E. Garnot著，1960，法軍侵臺始末，臺灣銀行，台北。2.\t臺灣銀行經濟研究室編，1964，法軍侵臺檔補編，臺灣銀行，台北。3.\t陳政三譯述、John Dodd著，2002，北台封鎖記：茶商陶德筆下的清法戰爭，原民文化出版社，台北。",
+    "descAge": "光緒10年（1884年）",
+    "descSize": "109.2×148公分",
+    "descMaterial": "紙質墨書/硃印/著色",
+    "reserveStatusDesc": "1.結構尚完整，但裝裱形式欠佳，致產生許多折痕，除影響視覺效果外，亦有可能造成斷裂",
+    "pastHistorySource": 2,
+    "pastHistorySourceNotes": "原所有者：王國璠先生",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷需處理 ",
+    "documents": [
+        {
+            "fileid": 53284,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-12-25/922ad097-ee3f-4ef1-a492-9132fe3f0c04/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立臺灣博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立臺灣博物館",
+            "keepName": "國立臺灣博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立臺灣博物館",
+            "keepAddressNew": "100台北市中正區襄陽路2號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "襄陽路2號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3818,
+            "caseId": 3676,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3818,
+            "caseId": 3676,
+            "caseStatus": true,
+            "registerDate": 1283097600000,
+            "officialDocNo": "會授資籌二字第09920102141號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

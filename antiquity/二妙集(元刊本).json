@@ -1,0 +1,91 @@
+{
+    "id": 3714,
+    "caseId": "20130610000061",
+    "count": 196,
+    "shareCount": 0,
+    "representImage": 6462,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32658/photo/daa9ecc4-487f-4c8b-9dd3-fd6417bf41d1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32658/photo/daa9ecc4-487f-4c8b-9dd3-fd6417bf41d1.jpg",
+        "name": "daa9ecc4-487f-4c8b-9dd3-fd6417bf41d1"
+    },
+    "caseName": "二妙集(元刊本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1370793600000,
+    "officialDocNo": "文資局物字第10220062581號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "元泰定四年(1327)河東段氏刊本。\r\n是書收段克己與段誠己古、絕、律、樂府並雜言、詩餘諸作。\r\n元版古籍，書品完好且數量稀少，具重要歷史、文化及文學研究價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "reservationCode": "14512",
+    "keepNameId": 2,
+    "keepName": "",
+    "keepNameNew": 17,
+    "keepAddressNew": "臺北市中正區中山南路20號",
+    "amount": 6,
+    "notes": "",
+    "reserveStatusDesc": "金段克己、段誠己撰，不著編人\r\n八卷,6冊\r\n半葉9行，版匡21公分x14.1公分",
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 6463,
+            "name": "04fdd318-29e4-4e47-81b4-437ee3e2e7ee.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44539/file/04fdd318-29e4-4e47-81b4-437ee3e2e7ee.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺北市中正區中山南路20號",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3856,
+            "caseId": 3714,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3856,
+            "caseId": 3714,
+            "caseStatus": true,
+            "registerDate": 1370793600000,
+            "officialDocNo": "文資局物字第10220062581號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

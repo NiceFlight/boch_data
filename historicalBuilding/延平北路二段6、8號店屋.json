@@ -1,0 +1,168 @@
+{
+    "id": 19356,
+    "caseId": "20210615000001",
+    "count": 2101,
+    "shareCount": 4,
+    "representImage": 200642,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/93dab2c9-ae1e-45aa-8f44-a232bb31814d/原代表圖像_延平北路二段6、8號店屋_c.png"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/93dab2c9-ae1e-45aa-8f44-a232bb31814d/原代表圖像_延平北路二段6、8號店屋.png",
+        "name": "原代表圖像_延平北路二段6、8號店屋"
+    },
+    "caseName": "延平北路二段6、8號店屋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "建物創建於大正4年(西元1915年)，兩間店屋日治時期位於大稻埕主要幹道「太平町本通」，6號原為萬順號製靴店，8號原為金華興金鋪，呈現當時太平町商業繁盛景況。",
+    "assetsTypeNames": "其他設施",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 119142,
+            "name": "公文+地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/966b154e-997c-4eea-ac99-3fd90436fa34/公文+地籍圖.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1、本建物建於日治時期，為二層樓一落一過水，二戶立面皆保存原有商號招牌，內部保存共同壁之砂岩與磚牆，8號仍保有太子樓。\n2、兩間店屋日治時期位於大稻埕主要幹道「太平町本通」，6號原為萬順號製靴店，8號原為金華興金鋪，呈現當時太平町商業繁盛景況。\n3、本建物對側為歷史建築「黑美人大酒家」及「大千百貨」，共同形塑主要路口的都市景觀特色。\n",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 119143,
+            "name": "延平北路二段6、8號店屋_範圍示意圖(核准版).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/d53f8828-d7c2-48a0-8cdb-90fee55a8423/延平北路二段6、8號店屋_範圍示意圖(核准版).pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "longitude": 121.51165740896953,
+    "latitude": 25.054130710214686,
+    "representImageSource": "臺北市文化局",
+    "landScope": "大同區迪化段二小段332(48平方公尺)、333（19平方公尺）、330(19平方公尺)、331(48平方公尺)地號等4筆土地。(實際保存面積須以保存範圍實測數據為準)",
+    "selfCoverage": "大同區迪化段二小段255建號（建物總面積112.4平方公尺）、204建號（建物總面積105.03平方公尺）（實際保存面積須以保存範圍實測數據為準）",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 105745,
+            "caseId": 19356,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "延平北路二段6號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 105746,
+            "caseId": 19356,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "延平北路二段8號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 129929,
+            "caseId": 19356,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 193,
+            "landSerialNo": "332",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "48",
+            "cityLandUseTypeOther": "特定專用區(二)(供一般商業使用)",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 129930,
+            "caseId": 19356,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 193,
+            "landSerialNo": "333",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "19",
+            "cityLandUseTypeOther": "特定專用區(二)(供一般商業使用)",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 129931,
+            "caseId": 19356,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 193,
+            "landSerialNo": "330",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "19",
+            "cityLandUseTypeOther": "特定專用區(二)(供一般商業使用)",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 129932,
+            "caseId": 19356,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 193,
+            "landSerialNo": "331",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "48",
+            "cityLandUseTypeOther": "特定專用區(二)(供一般商業使用)",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 113330,
+            "caseId": 19356,
+            "caseStatus": true,
+            "registerDate": 1622390400000,
+            "officialDocNo": "北市文化文資字第11030263761號",
+            "classificationId": 1,
+            "note": "登錄"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "申請資料"
+}

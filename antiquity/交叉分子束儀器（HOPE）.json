@@ -1,0 +1,102 @@
+{
+    "id": 21792,
+    "caseId": "20230619000004",
+    "count": 1560,
+    "shareCount": 0,
+    "representImage": 225870,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-06-19/0f6615f4-d175-4ab7-8e9a-350bf95ddd95/IMG_0656-OK_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-06-19/0f6615f4-d175-4ab7-8e9a-350bf95ddd95/IMG_0656-OK.jpg",
+        "name": "IMG_0656-OK"
+    },
+    "caseName": "交叉分子束儀器（HOPE）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-教育、科研用具",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "judgeCriteria": [
+        "歷代著名人物、國家重大事件之代表性",
+        "具有獨特藝術造詣或科學成就",
+        "獨一無二或不可替代性",
+        "對知識、技術或流派發展具特殊影響或意義"
+    ],
+    "registerReason": "一、李遠哲，研究化學動態學知名之臺灣化學家，以設置「交叉分子束儀器（HOPE）」觀察分子碰撞與化學反應機理之貢獻最鉅，並奠定其重要學術地位；後於1986年榮獲諾貝爾化學獎，以表彰其化學基本過程動態研究之成就，為臺灣培育之第一位諾貝爾獎得主。\n二、於1960年代，科學界僅知化學反應產生之生成物種類，尚不清楚原子與分子間化學反應進行。經李遠哲設計「交叉分子束儀器（HOPE）」，使特定原子或分子束束源，於真空條件下碰撞反應，以隔絕環境因素干擾；又以特殊分層抽氣方式，產生低背景高訊噪比數據；運用通用偵測方式以測量大部分產物等，科學界終於有優良實驗儀器，可以精準觀察分子間交互作用及其反應產物，奠定化學動態學領域基礎，並開拓研究新境界。\n三、國立科學工藝博物館典藏之「交叉分子束儀器（HOPE）」，為1967年李遠哲於哈佛大學赫斯巴赫實驗室(The Laboratory of Herschbach)期間，親自負責繪圖設計並偕同研究團隊開發組裝，為當時全世界首部得以研究非金屬物質如何進行化學分子反應之實驗裝置，具有獨一無二且不可替代之珍稀性。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第4條第2、4、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "T0200206001",
+    "amount": 1,
+    "descAge": "1965年",
+    "descCreator": "李遠哲",
+    "descSize": "97.5×185×157.5(cm)",
+    "descMaterial": "鋁、不鏽鋼",
+    "reserveStatusDesc": " ",
+    "pastHistorySource": 2,
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定。",
+    "documents": [
+        {
+            "fileid": 225868,
+            "name": "11230061191公告(彩色).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-06-19/74e5ef1e-8e17-41c6-95ee-02128725e912/11230061191公告(彩色).pdf"
+        },
+        {
+            "fileid": 225869,
+            "name": "公告表(pdf).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-06-19/a88e0905-ce9d-45bc-9c75-11c0e598fea1/公告表(pdf).pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立科學工藝博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立科學工藝博物館",
+            "keepName": "國立科學工藝博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立科學工藝博物館",
+            "keepAddressNew": "高雄市三民區九如一路720號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "高雄市",
+            "keepNameDistName": "三民區",
+            "keepNameAddress": "九如一路七二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "高雄市",
+            "distName": "三民區",
+            "id": 111539,
+            "caseId": 21792,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1808,
+            "address": "九如一路720號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 120769,
+            "caseId": 21792,
+            "caseStatus": true,
+            "registerDate": 1687161615640,
+            "officialDocNo": "文授資局物字第11230061191號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

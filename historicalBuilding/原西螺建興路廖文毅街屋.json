@@ -1,0 +1,142 @@
+{
+    "id": 19475,
+    "caseId": "20210702000008",
+    "count": 1403,
+    "shareCount": 3,
+    "representImage": 147404,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-13/bab5da47-e469-4c3d-8dff-b24bdef0d7d2/DJI_0314_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-13/bab5da47-e469-4c3d-8dff-b24bdef0d7d2/DJI_0314.jpg",
+        "name": "DJI_0314"
+    },
+    "caseName": "原西螺建興路廖文毅街屋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "西螺延平歷史街區內有大量1930年代所蓋之街屋，而西螺建興路廖文毅街屋位於延平路與建興路路口，緊臨東市場、捷發茶莊和西螺大橋等歷史場域，並且廖文毅為台灣獨立運動中重要人物，極具歷史文化價值。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 122385,
+            "name": "105.02.05原西螺建興路廖文毅街屋歷史建築公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-07-01/70845e4b-a389-4cca-a706-9c641c865995/105.02.05原西螺建興路廖文毅街屋歷史建築公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "(一)各時代表現地方營造技術特色流派者\n(二)重要歷史事件或人物之關係：廖文毅家族房舍\n(三)具歷史、文化、藝術價值\n(四)具建築史或技術史上之意義",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、2、3、4款",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "govInstitution": "雲林縣政府",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "(05)5523218",
+    "govDeptAddress": "雲林縣斗六市大學路三段310號",
+    "cadasters": [
+        {
+            "fileid": 122480,
+            "name": "62.原西螺建興路廖文毅街屋地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-07-02/581767e8-d8f0-412e-94b0-56f10f15bc79/62.原西螺建興路廖文毅街屋地籍圖.pdf"
+        },
+        {
+            "fileid": 122481,
+            "name": "62.原西螺建興路廖文毅街屋地籍資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-07-02/57a4ff43-dbb1-4641-8c67-540677e6165b/62.原西螺建興路廖文毅街屋地籍資料.pdf"
+        }
+    ],
+    "buildingFeatures": "建築類型：街屋建築\n建築樓層：二樓3棟\n建築構造：磚木造3棟\n屋頂形式：日式屋架",
+    "buildingUsage": "變更功能，再利用為火雞肉飯店面",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "openUpTime": "",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.45899,
+    "latitude": 23.80153,
+    "representImageSource": "雲林縣政府",
+    "landScope": "雲林縣西螺鎮西螺段975-1、976-10、989-10地號",
+    "selfCoverage": "房屋總面積119.07平方公尺；139.48平方公尺；119.07平方公尺",
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "西螺鎮",
+            "id": 94622,
+            "caseId": 19475,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1314,
+            "address": "建興路267號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "雲林縣",
+            "distName": "西螺鎮",
+            "landNoName": "西螺段",
+            "id": 116410,
+            "caseId": 19475,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1314,
+            "landNoId": 11645,
+            "landSerialNo": "975-1",
+            "landownership": 2,
+            "area": "69",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "雲林縣",
+            "distName": "西螺鎮",
+            "landNoName": "西螺段",
+            "id": 116411,
+            "caseId": 19475,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1314,
+            "landNoId": 11645,
+            "landSerialNo": "976-1",
+            "landownership": 2,
+            "area": "71",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "雲林縣",
+            "distName": "西螺鎮",
+            "landNoName": "西螺段",
+            "id": 116412,
+            "caseId": 19475,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1314,
+            "landNoId": 11645,
+            "landSerialNo": "989-10",
+            "landownership": 2,
+            "area": "124",
+            "noncityLandUseTypeOther": "",
+            "note": "分割自：９８９地號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 102071,
+            "caseId": 19475,
+            "caseStatus": true,
+            "registerDate": 1454616488966,
+            "officialDocNo": "府文資二字第1053801052B號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.45898128437597,23.80125423376325],[120.45912927914765,23.801254198202987],[120.45912977459591,23.80121607181094],[120.45905226998904,23.801216419532924],[120.45900965158278,23.801216018186825],[120.45896641212342,23.801217004297197],[120.45896291681697,23.801245372782578],[120.45898128437597,23.80125423376325],[120.45898128437597,23.80125423376325]]]]},\"properties\":{\"envelope\":{\"left\":\"120.45896291681697\",\"top\":\"23.801216018186825\",\"right\":\"120.45912977459591\",\"bottom\":\"23.801254233763249\"},\"landLot\":\"雲林縣西螺鎮西螺段975-1\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.45905226998904,23.801216419532924],[120.45912977459591,23.80121607181094],[120.45912981619463,23.80116478508138],[120.45912037193729,23.801154768014527],[120.45908307189465,23.80111445400429],[120.45905874663728,23.801111027796214],[120.45905226998904,23.801216419532924],[120.45905226998904,23.801216419532924]]]]},\"properties\":{\"envelope\":{\"left\":\"120.45905226998904\",\"top\":\"23.801111027796214\",\"right\":\"120.45912981619463\",\"bottom\":\"23.801216419532924\"},\"landLot\":\"雲林縣西螺鎮西螺段976-1\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.45912990995255,23.801291932146096],[120.45912927914765,23.801254198202987],[120.45898128437597,23.80125423376325],[120.45896291681697,23.801245372782578],[120.45895452635042,23.801244878340068],[120.45892181510807,23.80124271392809],[120.45890834868443,23.801237106314478],[120.45890151554875,23.80123426062094],[120.45886622723941,23.801219788025847],[120.45886199376092,23.801285390831843],[120.45912990995255,23.801291932146096],[120.45912990995255,23.801291932146096]]]]},\"properties\":{\"envelope\":{\"left\":\"120.45886199376092\",\"top\":\"23.801219788025847\",\"right\":\"120.45912990995255\",\"bottom\":\"23.801291932146096\"},\"landLot\":\"雲林縣西螺鎮西螺段989-10\"}}],\"notfound\":[]}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": "文化資產指定登錄影響評估"
+}

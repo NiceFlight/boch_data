@@ -1,0 +1,103 @@
+{
+    "id": 3915,
+    "caseId": "20121112000039",
+    "count": 323,
+    "shareCount": 0,
+    "representImage": 6723,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32901/photo/daae77b0-bb61-4107-8418-3446a07d62ea_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32901/photo/daae77b0-bb61-4107-8418-3446a07d62ea.JPG",
+        "name": "daae77b0-bb61-4107-8418-3446a07d62ea"
+    },
+    "caseName": "祖乙尊",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1352649600000,
+    "officialDocNo": "文授字第10120135331號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "西周早期流行的大口筒形尊，侈口、腹微鼓、高圈足，呈三段式，通體飾獸面紋及夔龍紋，腹部正反面均飾巨形獸面，雙目、雙角、雙耳與嘴角獠牙均高浮雕出器表，形象森然，挺立的鼻樑取代扉棱，更賦予獸面立體的威勢。器底銘文6字「作祖乙寶尊彝」，紀錄作器者為祖父乙鑄作此寶貴的祭器。尊的形制峻嚴，紋飾莊麗，與成王時的「何尊」形制相近。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第4、5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故銅002390",
+    "amount": 1,
+    "notes": "",
+    "descAge": "西周",
+    "descSize": "通高34.5cm，腹深25.6cm，口徑25.6cm，底徑16.9cm，腹圍54.4cm。",
+    "descMaterial": "銅",
+    "reserveStatusDesc": "四面有稜，通體飾獸面紋及夔龍紋，腹部兩獸面之眉、耳、下唇均翹起於外，兩耳後各飾一鳥紋。器內有銘文6字。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。器身有鏽蝕。",
+    "documents": [
+        {
+            "fileid": 150846,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-20/09d5daa9-2b64-4122-a476-2564604f6b52/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": " 國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71211,
+            "caseId": 3915,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": " 至善路二段221號  "
+        }
+    ],
+    "announces": [
+        {
+            "id": 75577,
+            "caseId": 3915,
+            "caseStatus": true,
+            "registerDate": 1352649600000,
+            "officialDocNo": "文授字第10120135331號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

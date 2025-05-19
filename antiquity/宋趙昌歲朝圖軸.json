@@ -1,0 +1,102 @@
+{
+    "id": 3528,
+    "caseId": "20130613000010",
+    "count": 324,
+    "shareCount": 0,
+    "representImage": 188469,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-10-31/b829c8f3-323d-47c1-a124-d42a1031b151/K2A000049N000000000PAB_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-10-31/b829c8f3-323d-47c1-a124-d42a1031b151/K2A000049N000000000PAB.jpg",
+        "name": "K2A000049N000000000PAB"
+    },
+    "caseName": "宋趙昌歲朝圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1371052800000,
+    "officialDocNo": "文資局物字第10220064921號",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本幅筆墨屬明代宮廷畫家風格，雖非北宋趙昌原作，但富麗的色彩和構圖上壓縮景深，層層往上堆疊，景物滿佈畫面的圖案化、裝飾性構圖和富麗色彩，符合五代南唐徐熙「鋪殿花」式作品特色。現存此類的畫作極少，此作為少數傳世「鋪殿花」式繪畫的代表作之一，雖為明代之作，但在畫史研究上具有重要價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第四、五、六款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局 ",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故畫000049",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descSize": "103.8公分 x 51.2公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "本幅筆墨屬明代宮廷畫家風格，雖非北宋趙昌原作，但富麗的色彩和構圖上壓縮景深，層層往上堆疊，坡石和繁密交錯的花木佈滿整個畫面，形成圖案化的裝飾畫面，符合宋郭若虛《圖畫見聞志》對五代南唐徐熙為供宮中掛設之用所做的「鋪殿花」式作品「意在位置端莊，駢羅整肅，多不取生意自然之態」的記載，為少數傳世「鋪殿花」式繪畫的代表作之一。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 150577,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-18/96e2146b-d841-473b-92f4-081fbf6d1dcf/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 94711,
+            "caseId": 3528,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 102129,
+            "caseId": 3528,
+            "caseStatus": true,
+            "registerDate": 1371052800000,
+            "officialDocNo": "文資局物字第10220064921號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

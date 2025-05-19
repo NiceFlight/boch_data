@@ -1,0 +1,101 @@
+{
+    "id": 3700,
+    "caseId": "20091123000010",
+    "count": 246,
+    "shareCount": 0,
+    "representImage": 6442,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32643/photo/a816c0de-c981-4be9-aa64-e7ed4cf62c40_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32643/photo/a816c0de-c981-4be9-aa64-e7ed4cf62c40.jpg",
+        "name": "a816c0de-c981-4be9-aa64-e7ed4cf62c40"
+    },
+    "caseName": "宋太宗皇帝實錄",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1258905600000,
+    "officialDocNo": "會授資籌二字第0982118268-2號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "歷史流傳已久或史事具有深厚淵源",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "為宋代孤本，且為宋人寫本。具有特殊歷史、文化、學術價值。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第4條第1項第1、2、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "01944",
+    "amount": 5,
+    "notes": "",
+    "descAge": "宋理宗(1225-1264)",
+    "descCreator": "宋錢若水、楊億等撰",
+    "descSize": "半葉9行，版匡27.6x18.8公分",
+    "descMaterial": "紙",
+    "reserveStatusDesc": "   ",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "無虫蛀，經修裱，書況良好。",
+    "documents": [
+        {
+            "fileid": 56646,
+            "name": "981123公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-04-08/ba86a31f-245a-4d38-9a99-2ee08ea0b748/981123公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 116438,
+            "caseId": 3700,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 127139,
+            "caseId": 3700,
+            "caseStatus": true,
+            "registerDate": 1258905600000,
+            "officialDocNo": "會授資籌二字第0982118268-2號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

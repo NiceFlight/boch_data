@@ -1,0 +1,103 @@
+{
+    "id": 15695,
+    "caseId": "20180731000002",
+    "count": 199,
+    "shareCount": 0,
+    "representImage": 49336,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-07-31/ad278d32-41ad-4e52-abc8-9657d3b49e1e/05-012IMG_8543_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-07-31/ad278d32-41ad-4e52-abc8-9657d3b49e1e/05-012IMG_8543.jpg",
+        "name": "05-012IMG_8543"
+    },
+    "caseName": "水仙宮磨石子香爐",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1528905600000,
+    "officialDocNo": "府授文博1073701726號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "具有藝術造詣或科學成就",
+        "數量稀少者",
+        "對地方或族群知識、技術或流派發展具影響或意義"
+    ],
+    "registerReason": "1、具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：磨石子技法為日治時期盛行之技法。\n2、具有藝術造詣或科學成就：造形平整，施作細膩。\n3、數量稀少者：傳世日治時代磨石子香爐不多，具稀少性。\n4、對地方或族群知識、技術或流派發展具影響或意義：能代表日治時期石子工藝特色及本地形制。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、4、5、6款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府",
+    "govDeptName": "文化局",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00641-P-M010-012",
+    "amount": 1,
+    "descAge": "日治時期",
+    "descSize": "高(含耳)38/寬(含耳)69/高(不含耳)33/深31/寬(不含耳)45(公分)",
+    "descMaterial": "磨石子",
+    "reserveStatusDesc": "磨石子方形展耳香爐，整體為上寬下窄之須彌座形，斜平口內緣較高，口內有折，口沿外壁下內斜，爐身四面開光、施螺鈿，正面楷書為陽文，「水仙宮」三字施金漆，兩側展耳為捲草龍紋；下方四足似獸足，足間牙子飾蒂柿紋。此爐形制工整、製作精良。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "無",
+    "saveEnvironment": 2,
+    "reserveStatus": "水仙宮一樓供案桌使用",
+    "documents": [
+        {
+            "fileid": 49335,
+            "name": "01_磨石子香爐公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-07-31/bda11720-6ddd-4b96-99e9-40fc29db7ede/01_磨石子香爐公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.564175,
+    "latitude": 23.563957,
+    "representImageSource": "澎湖縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "水仙宮管理委員會",
+            "keepName": "吳明錚",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "水仙宮",
+            "keepAddressNew": "澎湖縣馬公市中央里中山路6巷9號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "澎湖縣",
+            "keepNameDistName": "馬公市",
+            "keepNameAddress": "中央里中山路6巷9號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 127691,
+            "caseId": 15695,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "中央里中山路6巷9號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 138614,
+            "caseId": 15695,
+            "caseStatus": true,
+            "registerDate": 1528905600000,
+            "officialDocNo": "府授文博字第1073701726號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

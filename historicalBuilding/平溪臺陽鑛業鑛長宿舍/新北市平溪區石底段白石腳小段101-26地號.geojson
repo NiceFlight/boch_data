@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "新北市平溪區石底段白石腳小段101-26地號"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

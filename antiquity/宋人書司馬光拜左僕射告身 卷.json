@@ -1,0 +1,102 @@
+{
+    "id": 22728,
+    "caseId": "20240527000003",
+    "count": 75,
+    "shareCount": 0,
+    "representImage": 257584,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-05-27/7233d2ae-3f99-4eb5-8828-995f1b435e6f/PK2B000078N000000000PAF_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-05-27/7233d2ae-3f99-4eb5-8828-995f1b435e6f/PK2B000078N000000000PAF.jpg",
+        "name": "PK2B000078N000000000PAF"
+    },
+    "caseName": "宋人書司馬光拜左僕射告身 卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "judgeCriteria": [
+        "歷代著名人物、國家重大事件之代表性",
+        "具有獨特藝術造詣或科學成就",
+        "獨一無二或不可替代性",
+        "對知識、技術或流派發展具特殊影響或意義"
+    ],
+    "registerReason": "一、本幅為北宋重臣司馬光經歷政爭後拜相之告身實物，由翰林學士擬主文，經門下省官員審讀、皇帝「制可」、尚書省官員簽署、吏部鈐印等程序，是為「制授」告身，用來代替「冊授」宰相典禮，反映北宋政府於元豐5年（1082）改革官制情形、著名歷史人物及國家重大事件之變遷。\n二、通篇多大字行書，筆法流暢、結構緊飭，表現挺健、氣勢開張。按制度，應由吏部令史魏宗式（活動於11世紀）等人所書，反映北宋官方文書獨特書法風格及時代特色，在目前宋代告身存世極為稀少情況下更見珍貴，本幅具有獨一無二之不可替代性。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第4條第2、4、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "402臺中市南區復興路三段362號",
+    "reservationCode": "故書000078N000000000",
+    "amount": 1,
+    "descAge": "宋元祐元年（1086年）",
+    "descCreator": "",
+    "descSize": "本幅縱27.3×橫594.5；前幅縱24.8×橫34.8",
+    "descMaterial": "花綾",
+    "reserveStatusDesc": " ",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有舊傷損，已修復",
+    "documents": [
+        {
+            "fileid": 257582,
+            "name": "891彩色.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-05-27/298ceba2-97d0-4552-9dcf-c7912d0d836b/891彩色.pdf"
+        },
+        {
+            "fileid": 257583,
+            "name": "國寶「宋人書司馬光拜左僕射告身 卷」公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-05-27/421f282a-e9db-4c4b-97f0-d007ff487e47/國寶「宋人書司馬光拜左僕射告身 卷」公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 130222,
+            "caseId": 22728,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 141814,
+            "caseId": 22728,
+            "caseStatus": true,
+            "registerDate": 1716513884669,
+            "officialDocNo": "文授資局物字第11330053891號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

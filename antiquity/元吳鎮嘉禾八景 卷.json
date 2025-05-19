@@ -1,0 +1,101 @@
+{
+    "id": 19625,
+    "caseId": "20240103000011",
+    "count": 206,
+    "shareCount": 0,
+    "representImage": 240516,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-01-03/619e0330-586f-4a87-9406-caec80ed5923/PA2A000671N000000000PAC (2)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-01-03/619e0330-586f-4a87-9406-caec80ed5923/PA2A000671N000000000PAC (2).jpg",
+        "name": "PA2A000671N000000000PAC (2)"
+    },
+    "caseName": "元吳鎮嘉禾八景 卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色之代表性",
+        "獨一無二或不可替代性"
+    ],
+    "registerReason": "「嘉禾八景」隨歷史發展與變遷，現今多已不存，此卷所保存圖像無疑提供珍貴第一手視覺資料。全卷除了展現吳鎮個人繪畫風格與書法造詣外，也進一步將來自「瀟湘八景」風景詩畫傳統加以改良，加強真實地點描繪與標題，成為另一種型態山水表現，同時也展現出作者對於地理環境的熟悉。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第4條第3、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "贈畫000671",
+    "amount": -1,
+    "descAge": "元",
+    "descCreator": "吳鎮",
+    "descSize": "37.5x566（cm）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "吳鎮（1280-1354），浙江嘉興魏塘鎮人，字仲圭，號梅花道人，為元四大家之一。\n本幅作於至正四年（1344），仿北宋「瀟湘八景」前例，繪嘉興（又稱嘉禾）一帶八處勝境，分別是：空翠風煙、龍潭暮雲、鴛湖春曉、春波煙雨、月波秋霽、三閘奔湍、胥山松濤、武州幽瀾等，合稱為「嘉禾八景」。\n畫中地點皆以文字標示，以留白手法串連各點，並利用其相對位置，布排構圖。全作布局簡潔，用筆精要不繁，墨趣盎然，呈現悠遠空靈景致。透過寫意極簡手法處理風景畫面，顯得格外古樸靜謐，表達出大自然寧靜典雅氣氛與情調。\n此幀為羅家倫先生捐贈。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "羅家倫先生",
+    "saveEnvironment": 1,
+    "reserveStatus": "舊傷補。",
+    "documents": [
+        {
+            "fileid": 240514,
+            "name": "公告（20140103）.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-01-03/fa7cea33-17ce-4ab9-8f34-c18133997a65/公告（20140103）.pdf"
+        },
+        {
+            "fileid": 240515,
+            "name": "國寶公告表─元吳鎮嘉禾八景 卷.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-01-03/792c22dd-5761-4d86-82ee-03e75d88575e/國寶公告表─元吳鎮嘉禾八景 卷.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 116557,
+            "caseId": 19625,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "士林區至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 127256,
+            "caseId": 19625,
+            "caseStatus": true,
+            "registerDate": 1704267242376,
+            "officialDocNo": "文授資局物字第11330000481號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

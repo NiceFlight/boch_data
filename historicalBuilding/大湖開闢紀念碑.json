@@ -1,0 +1,124 @@
+{
+    "id": 16808,
+    "caseId": "20190530000004",
+    "count": 3460,
+    "shareCount": 5,
+    "representImage": 179685,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-08-12/f1bdffd6-ecc5-4b5c-8338-85e0349adac1/大湖開闢紀念碑_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-08-12/f1bdffd6-ecc5-4b5c-8338-85e0349adac1/大湖開闢紀念碑.jpg",
+        "name": "大湖開闢紀念碑"
+    },
+    "caseName": "大湖開闢紀念碑",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "碑碣",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1557331200000,
+    "officialDocNo": "府文資字1080005315B號",
+    "documents": [
+        {
+            "fileid": 59185,
+            "name": "歷49-大湖開闢紀念碑-公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-05-30/459d469f-3699-4c69-b253-0b9773c63aa5/歷49-大湖開闢紀念碑-公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1.碑文內容記述吳氏家族拓墾大湖之事跡及法雲寺興建沿革。\n2.碑體材質為砂岩，外觀的階梯狀基座、圓柱形碑身為近代紀念碑設計風格，圍欄正面入口處有形貌古樸的石獅，表現民間藝術特色。\n",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第2、3款",
+    "govInstitutionCode": "360",
+    "govInstitutionName": "苗栗縣政府",
+    "belongCityId": 8,
+    "belongCityName": "苗栗縣",
+    "belongDistName": "大湖鄉",
+    "govInstitution": "苗栗縣政府文化觀光局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "037-352961#712",
+    "govDeptAddress": "苗栗縣苗栗市自治路50號",
+    "cadasters": [
+        {
+            "fileid": 139903,
+            "name": "歷49-大湖開闢紀念碑-航照圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-09-29/111f65e7-cd4c-44f7-99b1-0a65cb9363b3/歷49-大湖開闢紀念碑-航照圖.pdf"
+        },
+        {
+            "fileid": 139904,
+            "name": "歷49-大湖開闢紀念碑-地籍資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-09-29/bee2ed47-0c90-440f-84db-8f59133027b1/歷49-大湖開闢紀念碑-地籍資料.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 6,
+    "nonCityLandUseTypeName": "山坡地保育區",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "大湖段465-6號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "苗栗縣大湖鄉富興村16鄰法雲禪寺11號",
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.864417,
+    "latitude": 24.419186,
+    "representImageSource": "苗栗縣政府文化觀光局",
+    "landScope": "大湖段465-6號土地面積：7240.00㎡",
+    "selfCoverage": "面積：\n30.25 ㎡",
+    "addresses": [
+        {
+            "cityName": "苗栗縣",
+            "distName": "大湖鄉",
+            "id": 113515,
+            "caseId": 16808,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 813,
+            "address": "富興村16鄰法雲禪寺11號法雲禪寺主殿後方"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "苗栗縣",
+            "distName": "大湖鄉",
+            "landNoName": "大湖段",
+            "noncityLandUseTypeName": "山坡地保育區",
+            "id": 155193,
+            "caseId": 16808,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 813,
+            "landNoId": 9006,
+            "landSerialNo": "465-6",
+            "noncityLandUseTypeId": 6,
+            "area": "7240",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 2
+        }
+    ],
+    "announces": [
+        {
+            "id": 123517,
+            "caseId": 16808,
+            "caseStatus": true,
+            "registerDate": 1557331200000,
+            "officialDocNo": "府文資字1080005315B號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.8693864947993,24.45197586856805],[120.869409159171,24.451958752856058],[120.86951247800899,24.451908905210114],[120.86970282776359,24.45188211228766],[120.86980051639452,24.451885938061363],[120.8699927480137,24.45180339485968],[120.8699817525753,24.451653970353185],[120.87000900056566,24.45162514874547],[120.87003763598588,24.451614946179784],[120.86995168550123,24.451434916542134],[120.8699411620081,24.451424450071485],[120.86989120102852,24.451374788973425],[120.86974113607052,24.45133497268851],[120.86952617259132,24.451334144496553],[120.86947708017459,24.45136838263919],[120.86924248268168,24.45126972473601],[120.86905839391949,24.45125662323248],[120.86903432690332,24.451258598708307],[120.86902806492121,24.45129642491052],[120.8690646506106,24.451442493890926],[120.86903492018241,24.45150434406944],[120.86894263552541,24.451590709827613],[120.86871627641476,24.45171922857421],[120.86882851777143,24.451904827339042],[120.86886998277915,24.4518870896634],[120.86895725168309,24.451985186237803],[120.86905781675978,24.45189816762489],[120.86909081264956,24.451909301897043],[120.8692010218451,24.451949661310675],[120.86924227927969,24.451962898332983],[120.86934114796435,24.45201423526036],[120.8693864947993,24.45197586856805],[120.8693864947993,24.45197586856805]]]]},\"properties\":{\"envelope\":{\"left\":\"120.86871627641476\",\"top\":\"24.451256623232482\",\"right\":\"120.87003763598588\",\"bottom\":\"24.452014235260361\"},\"landLot\":\"苗栗縣大湖鄉大湖段465-6\"}}],\"notfound\":[]}]",
+    "openVisitType": "",
+    "pastHistorySource": "大湖開闢紀念碑-清冊"
+}

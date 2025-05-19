@@ -1,0 +1,105 @@
+{
+    "id": 3429,
+    "caseId": "20131219000053",
+    "count": 63,
+    "shareCount": 0,
+    "representImage": 5981,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7198/photo/大明太宗文皇帝實錄(明寫本)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7198/photo/大明太宗文皇帝實錄(明寫本).jpg",
+        "name": "大明太宗文皇帝實錄(明寫本)"
+    },
+    "caseName": "大明太宗文皇帝實錄(明寫本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1387382400000,
+    "officialDocNo": "文資局物字第 10220148851號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "明內府朱格寫本。\n撰者楊溥(1372-1446)，字弘濟，湖廣石首人。建文二年(1400)進士，明朝內閣首輔、禮部尚書兼武英殿大學士。諡文定。\n明內府寫本皇帝實錄之一，具保存及參考價值。此本為太宗實錄，記載明第三代皇帝明成祖事蹟的編年體史書，原二百七十四卷，今存卷三十六至卷三十九。\n明代內府寫本古籍，罕見稀有，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號01949",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "明代",
+    "descCreator": "明楊溥等撰",
+    "descSize": "半葉9行，版匡26.8x17.8公分",
+    "descMaterial": "紙質寫本",
+    "reserveStatusDesc": "存四卷(卷三十六至卷三十九)\n明內府寫本皇帝實錄之一，具保存及參考價值。此本為太宗實錄，記載明第三代皇帝明成祖事蹟的編年體史書，原二百七十四卷，今存卷三十六至卷三十九。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "無蟲蛀。（未經修裱，書況良好。）\n",
+    "documents": [
+        {
+            "fileid": 5982,
+            "name": "dd1a3179-82b0-4709-8abf-f524bcfc5b1c.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44043/file/dd1a3179-82b0-4709-8abf-f524bcfc5b1c.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3571,
+            "caseId": 3429,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3571,
+            "caseId": 3429,
+            "caseStatus": true,
+            "registerDate": 1387382400000,
+            "officialDocNo": "文資局物字第 10220148851號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

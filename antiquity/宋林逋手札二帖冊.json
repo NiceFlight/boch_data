@@ -1,0 +1,101 @@
+{
+    "id": 3751,
+    "caseId": "20140425000056",
+    "count": 392,
+    "shareCount": 1,
+    "representImage": 6530,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39150/photo/pic036_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39150/photo/pic036.jpg",
+        "name": "pic036"
+    },
+    "caseName": "宋林逋手札二帖冊",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1398355200000,
+    "officialDocNo": "10320044791",
+    "judgeCriteria": [
+        "具有特殊之時代特色、技術及流派",
+        "品質精良且數量特別稀少"
+    ],
+    "registerReason": "林逋（967－1028），力學好古，嘗遊於李建中門下，後隱於西湖之孤山，種梅養鶴，自北宋中期以後，被推許為隱士的代表。\r\n此二札為沈周珍愛的收藏，幅上有沈周好友陳頎、吳寬等人的題跋。成化十五年（1479），沈周讓吳寬帶至京中求諸名公題跋，隔年李東陽等人便在作品上留下題識，是一件流傳有緒的作品。此二札行距寬鬆，意趣疏朗，用筆尖削， 轉折方硬，書風清瘦勁挺，特色鮮明。林逋傳世作品稀少，此冊實為稀世之珍。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第4條第1項第3、5款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故書000146N000000000",
+    "amount": 18,
+    "notes": "",
+    "descAge": "宋",
+    "descSize": "31.4 x 35.4（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "林逋（967－1028），字君復，杭州人，力學好古，嘗遊於李建中門下，後隱於西湖之孤山，種梅養鶴，自北宋中期以後，被推許為隱士的代表。此二札分別寫給龍冊寺的住持法瑫宗一及其表親，透露他當時生活瑣事與應酬交遊的情況。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。封面封底傷損。蛀傷、中間裂傷、傷損、褐斑。",
+    "documents": [
+        {
+            "fileid": 150210,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-12/01eacb0b-669c-49d8-b65d-c0e47c703104/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70760,
+            "caseId": 3751,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75020,
+            "caseId": 3751,
+            "caseStatus": true,
+            "registerDate": 1398355200000,
+            "officialDocNo": "10320044791",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

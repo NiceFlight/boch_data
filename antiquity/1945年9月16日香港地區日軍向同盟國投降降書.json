@@ -1,0 +1,103 @@
+{
+    "id": 4458,
+    "caseId": "20160426000007",
+    "count": 400,
+    "shareCount": 0,
+    "representImage": 7492,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/132381/photo/11111_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/132381/photo/11111.jpg",
+        "name": "11111"
+    },
+    "caseName": "1945年9月16日香港地區日軍向同盟國投降降書",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-公文書",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1461600000000,
+    "officialDocNo": "文授資局物字第10530036841號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事重要淵源",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本件係1945年9月16日簽署的香港地區日軍向同盟國無條件投降之英文降書，並附有中文譯件。\n第二次世界大戰期間，英國政府於1942年10月10日聲明放棄在華特權，表明願與中華民國簽訂平等新約。然而談判過程中，雙方就香港歸屬等問題有所爭執。我國亟欲收回香港主權，英國則堅持不放棄在香港之殖民統治。最後，蔣中正委員長爲同盟國全局計，同意中英新約不處理香港問題，但「保留日後提出討論之權」。\n1945年8月日本投降，第二次世界大戰結束，香港問題再度浮現。是時，中、英兩國對香港受降權產生激烈爭執，而美國一改稍早羅斯福總統劃香港為「自由港」的見解，轉向支持由英國接受香港日軍投降並恢復昔日的港英殖民地政權。不過，蔣委員長並未示弱，認為香港係屬中國戰區範圍，應由中國方面受降。幾經波折，雙方妥協的結果，以英國皇家海軍少將夏愨（Cecil Halliday Jepson Harcourt）既代表英方又代表中國戰區最高統帥的雙重身分，並在中方潘華國將軍及美、加等國代表見證下，於1945年9月16日正式完成受降程序。至於香港主權問題，則留待日後外交途徑洽商。\n此降書藏本見證我國抗日戰爭及面對國際現實政治之折衝與妥協，對我國國史具有重要意義。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第3條第1項第1、2、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "134000000234A",
+    "amount": 1,
+    "descAge": "1945年",
+    "descSize": "降書：長27公分、寬38公分。降書(譯件)：長33.1公分、寬20.6公分。",
+    "descMaterial": "紙質",
+    "reserveStatusDesc": "降書：長27公分、寬38公分。投降條件的內容以英文撰寫，凸顯出香港在當時仍屬於英國管轄的特殊地位。英文內容為油墨打字，署名包含英日雙方，日方以墨書寫及紅色印泥用印。\n降書(譯件)：長33.1公分、寬20.6公分。為降書英文版本文的中譯參考文件，譯件並不具有國際法上的法效性。材質為印刷十行紙。",
+    "pastHistorySource": 3,
+    "pastHistorySourceNotes": "總統府；1958年10月6日",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 7493,
+            "name": "downloadfile (13).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/132406/file/downloadfile (13).pdf"
+        },
+        {
+            "fileid": 261405,
+            "name": "重要古物指定公告表.odt",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-08-26/a5f162d2-aa15-4c95-9169-20d9627017d4/重要古物指定公告表.odt"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國史館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國史館",
+            "keepName": " 國史館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國史館",
+            "keepAddressNew": "100台北市中正區長沙街一段2號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameAddress": "長沙街1段2號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 134754,
+            "caseId": 4458,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 147084,
+            "caseId": 4458,
+            "caseStatus": true,
+            "registerDate": 1461600000000,
+            "officialDocNo": "文授資局物字第10530036841號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

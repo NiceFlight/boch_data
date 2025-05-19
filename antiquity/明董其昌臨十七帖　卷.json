@@ -1,0 +1,100 @@
+{
+    "id": 18584,
+    "caseId": "20210304000008",
+    "count": 169,
+    "shareCount": 0,
+    "representImage": 99179,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-03-04/56b8e8ef-4330-4ad2-a8fe-c717fcec806f/PK2B000123N000000000PAB (2)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-03-04/56b8e8ef-4330-4ad2-a8fe-c717fcec806f/PK2B000123N000000000PAB (2).jpg",
+        "name": "PK2B000123N000000000PAB (2)"
+    },
+    "caseName": "明董其昌臨十七帖　卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "具有重要藝術造詣或科學成就",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "〈董臨十七帖〉為董其昌（1555-1636）臨寫友人吳廷（1549後─1635前）彙刻並親自贈與的〈餘本十七帖〉刻帖，相較於其他傳世董氏〈十七帖〉臨本，本卷全篇通臨且內容完整，傳世僅見，且書法品質精良，純熟脫俗。\n本卷非亦步亦趨、忠實對臨之作，而是兼具背臨、意臨的特色與意涵，可從中瞭解董氏書學天分和努力，不僅為其豐厚人脈與至高眼福具體展現，臨古、考據並重的臨書觀於此作中更是顯露無遺。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第3、4、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故書000123",
+    "amount": 1,
+    "descAge": " 明",
+    "descCreator": "董其昌",
+    "descSize": "本幅25.2x543.9公分",
+    "descMaterial": "綾本",
+    "reserveStatusDesc": "董其昌（1555-1636），字玄宰，號思白，江蘇華亭人。萬曆十七年（1589）進士，官至禮部尚書，諡文敏。 \n全篇通臨王羲之（303-361）書〈十七帖〉，內容完整，傳世僅見；卷後題跋敘說當時揮毫的環境和緣由，連帶譜寫出與餘清齋主人吳廷（1549後-1635前）的一段翰墨情誼。\n本卷雖未署年款，然應為《餘清齋法帖》彙刻〈十七帖〉臨本，時間在萬曆二十四年（1596）之後，可據以理解明代末期魏道輔本〈十七帖〉流行的時代背景，以及董其昌臨古與考據並重的書學態度。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "",
+    "saveEnvironment": 1,
+    "reserveStatus": "良好。",
+    "documents": [
+        {
+            "fileid": 143627,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-08/88914507-dec5-4979-bf97-5e6472b472ea/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 302208.7,
+    "latitude": 2770998.84,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "台北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 66930,
+            "caseId": 18584,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 71107,
+            "caseId": 18584,
+            "caseStatus": true,
+            "registerDate": 1614859098655,
+            "officialDocNo": "文授資局物字第11030020551號",
+            "classificationId": 1,
+            "note": ""
+        }
+    ],
+    "isPublic": false
+}

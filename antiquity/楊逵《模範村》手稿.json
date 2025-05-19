@@ -1,0 +1,105 @@
+{
+    "id": 4323,
+    "caseId": "20130618000005",
+    "count": 482,
+    "shareCount": 0,
+    "representImage": 7252,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7410/photo/楊逵《模範村》手稿_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7410/photo/楊逵《模範村》手稿.jpg",
+        "name": "楊逵《模範村》手稿"
+    },
+    "caseName": "楊逵《模範村》手稿",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-名人或名家手稿、手迹、信函、日誌等",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1371484800000,
+    "officialDocNo": "文資局物字第10220067541號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "楊逵﹝1906-1985﹞，臺南新化人，後移居臺中，臺灣文學跨時代重要作家，一生為文學及社會運動窮盡心力。\r\n本件為楊逵《模範村》手稿本，全文完整，有五種不同顏色之修改筆跡。為楊逵最喜愛的三部作品之一，其作品具有社會主義人道關懷精神，為日治時期臺灣文學之代表性作品，被學界視為楊逵代表作《送報伕》的延伸作品，具臺灣文學重要價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第一、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "中西區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "NMTL20050040019",
+    "keepNameId": 11,
+    "keepName": "國立臺灣文學館",
+    "keepNameNew": 11,
+    "keepAddressNew": "700台南市中西區中正路1號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 1,
+    "amount": 1,
+    "notes": "",
+    "descAge": "1937年",
+    "descSize": "長19.3公分、寬26.8公分",
+    "descMaterial": "原子筆書寫稿",
+    "reserveStatusDesc": "手稿類型文物，以原子筆書寫於稿紙上。文物有全面變色泛黃、孔洞、水漬、皺摺痕、鐵銹與孔洞等劣化情形。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "2005；楊建捐贈",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定 ",
+    "documents": [
+        {
+            "fileid": 7253,
+            "name": "d9eead69-9b44-486e-a422-6f7dbc56ae48.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44841/file/d9eead69-9b44-486e-a422-6f7dbc56ae48.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立臺灣文學館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立臺灣文學館",
+            "keepName": "國立臺灣文學館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立臺灣文學館",
+            "keepAddressNew": "700台南市中西區中正路1號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺南市",
+            "keepNameDistName": "中西區",
+            "keepNameAddress": "中正路1號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "id": 4466,
+            "caseId": 4323,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601
+        }
+    ],
+    "announces": [
+        {
+            "id": 4466,
+            "caseId": 4323,
+            "caseStatus": true,
+            "registerDate": 1371484800000,
+            "officialDocNo": "文資局物字第10220067541號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

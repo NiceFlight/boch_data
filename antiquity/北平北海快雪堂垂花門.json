@@ -1,0 +1,98 @@
+{
+    "id": 17963,
+    "caseId": "20201127000010",
+    "count": 154,
+    "shareCount": 0,
+    "representImage": 74362,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-11-12/6d22218d-3e9d-4c05-a3b1-9261192ef8b2/03010106-0001_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-11-12/6d22218d-3e9d-4c05-a3b1-9261192ef8b2/03010106-0001.jpg",
+        "name": "03010106-0001"
+    },
+    "caseName": "北平北海快雪堂垂花門",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1606373384595,
+    "officialDocNo": "北市獻編字第1093004298號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "1.整批作品為1930-1948年間北京建築物寫景，對於建築史研究極具價值。\n2.畫風寫實靈動，足證早期油畫發展。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174-1號",
+    "reservationCode": "3.01/106",
+    "amount": 1,
+    "descAge": "1930-1948年間",
+    "descCreator": "N.pickulevitch",
+    "descSize": "長75公分 寬60公分",
+    "descMaterial": "油彩、布",
+    "reserveStatusDesc": "此作品為俄羅斯畫家N.pickulevitch所繪北平北海公園內快雪堂垂花門之景。此幅作品前景為草叢與樹木，中景為建築主體，後景為藍天白雲，而建築中央的紅色大門是全幅中最鮮明的色彩，突顯建築為畫作之主體。畫面右下角的文字，應為作者的英文署名（N.pickulevitch）。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "時間：1960年代       捐贈者：游彌堅",
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況不良，需維護。表層顏料變色有裂痕，左下方有裂縫。",
+    "documents": [
+        {
+            "fileid": 76697,
+            "name": "臺北市公告指定一般古物1091126.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-11-27/2ec17840-25c6-4691-98cd-3b798e107fcb/臺北市公告指定一般古物1091126.pdf"
+        }
+    ],
+    "keepNames": [
+        {
+            "keepNameIdStr": "中國文化大學華岡博物館",
+            "keepName": "典藏組",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "中國文化大學華岡博物館",
+            "keepAddressNew": "臺北市士林區陽明山華岡路55號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "華岡路55號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 7583,
+            "caseId": 17963,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108
+        }
+    ],
+    "announces": [
+        {
+            "id": 7583,
+            "caseId": 17963,
+            "caseStatus": true,
+            "registerDate": 1606373384595,
+            "officialDocNo": "北市獻編字第1093004298號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

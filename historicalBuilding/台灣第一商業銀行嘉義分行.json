@@ -1,0 +1,100 @@
+{
+    "id": 20762,
+    "caseId": "20220531000001",
+    "count": 2158,
+    "shareCount": 5,
+    "representImage": 166589,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-05-31/53652d72-b682-4e81-9104-748e3a54fead/DSC02840_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-05-31/53652d72-b682-4e81-9104-748e3a54fead/DSC02840.jpg",
+        "name": "DSC02840"
+    },
+    "caseName": "台灣第一商業銀行嘉義分行",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本歷史建築位於嘉義中央噴水圓環。其歷史可追溯至日治時期的嘉義銀行。嘉義銀行係因1905年時，日本政府取消大租權，給予大租戶補償金，並鼓勵嘉義地區的大租戶而成立。1923年時，台灣商工銀行(1900年建於屏東)收購嘉義銀行和新高銀行，並將台灣商工銀行嘉義分行設於嘉義銀行原址。二戰後，台灣商工銀行改名為台灣工商銀行、台灣第一商業銀行等名，卻仍維持不遷址，深具歷史意義，可謂見證嘉義市金融體系的發展。\n\n本歷史建築初步研判應為1958年所建之RC建築，其歷經多次部分整修，但外觀立面仍完整保留當時原設計的洗石子材質、立面切割及大多數的鐵花窗等元素，其內部空間因配合土地形狀，一樓挑高、樑柱斗型，建築內部六根大型圓形立柱、天花線角與角型櫃台，充分反映出時代技術特色。且該建物與周遭椰子樹、圓環形成的人文景觀，亦為嘉義市民熟悉的建築記憶。\n",
+    "assetsTypeNames": "銀行",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 166580,
+            "name": "111.05.31  登錄公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-31/bdb55296-cf61-430a-8134-39c96025528f/111.05.31  登錄公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "(一)該建物屬戰後現代銀行建築代表，且三角形基地所衍生平面設計與周邊都市空間關係深具特色。\n(二)該建物內部大廳磨石子圓柱、窗台預鑄搗擺板等用料、形制、細節等部分具戰後技術史價值。\n(三)法令依據：符合「歷史建築紀念建築登錄廢止審查及輔助辦法」第2條第1項第2款登錄基準。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第2款",
+    "govInstitutionCode": "600",
+    "govInstitutionName": "嘉義市政府",
+    "govInstitution": "嘉義市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "05-2788225",
+    "govDeptAddress": "600嘉義市東區忠孝路275號",
+    "cadasters": [
+        {
+            "fileid": 166592,
+            "name": "嘉義市元段六小段 10,16-5地號-地籍圖謄本.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-05-31/15c917de-4cfb-491d-9416-28659aa567e6/嘉義市元段六小段 10,16-5地號-地籍圖謄本.pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isOpenDownload": false,
+    "longitude": 120.45302,
+    "latitude": 23.48078,
+    "representImageSource": "嘉義市政府文化局",
+    "landScope": "本歷史建築定著土地地號為：元段六小段10地號，該筆土地面積為955平方公尺。",
+    "selfCoverage": "本歷史建築本體定著土地範圍為626.06 平方公尺",
+    "addresses": [
+        {
+            "cityName": "嘉義市",
+            "distName": "東區",
+            "id": 149108,
+            "caseId": 20762,
+            "caseStatus": true,
+            "cityId": 14,
+            "distId": 1401,
+            "address": "嘉義市中山路307號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "嘉義市",
+            "distName": "東區",
+            "landNoName": "元段六小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 206516,
+            "caseId": 20762,
+            "caseStatus": true,
+            "cityId": 14,
+            "distId": 1401,
+            "landNoId": 8420,
+            "landSerialNo": "10地號",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "area": "955平方公尺",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 162137,
+            "caseId": 20762,
+            "caseStatus": true,
+            "registerDate": 1653982827099,
+            "officialDocNo": "府授文資字第1115102672號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"嘉義市東區元段六小段10地號\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "openVisitType": "",
+    "pastHistorySource": "嘉義市逾50年以上金融體系建物 調查研究計畫"
+}

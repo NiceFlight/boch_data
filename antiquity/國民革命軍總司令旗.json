@@ -1,0 +1,101 @@
+{
+    "id": 3650,
+    "caseId": "20100119000003",
+    "count": 393,
+    "shareCount": 0,
+    "representImage": 6391,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32598/photo/7c77e1f6-055c-4fa7-9ee6-91286321d760_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32598/photo/7c77e1f6-055c-4fa7-9ee6-91286321d760.jpg",
+        "name": "7c77e1f6-055c-4fa7-9ee6-91286321d760"
+    },
+    "caseName": "國民革命軍總司令旗",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1263830400000,
+    "officialDocNo": "會授資籌二字第09920003041號函",
+    "judgeCriteria": [
+        "具有史事重要淵源",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.為國民革命軍北伐時期之文物，在我國建國史上具有重要意義。2.為歷史事件之重要史料文物，且獨一無二，具不可取代之唯一性，具時代意義及重要歷史意義。3.具重要歷史意義及重要歷史文化價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。2.符合「古物分級登錄指定及廢止審查辦法」第三條第一項第一、二、六款、第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市復興路三段362號",
+    "reservationCode": ".",
+    "amount": 1,
+    "notes": "",
+    "descAge": "民國15年（1926年）",
+    "descSize": "141×161公分",
+    "descMaterial": "棉質",
+    "reserveStatusDesc": "完整。\r\n保存良好，典藏於國軍歷史文物館第一陳展室。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "總統府侍衛室",
+    "saveEnvironment": 1,
+    "reserveStatus": "保存良好，典藏於國軍歷史文物館第一陳展室。\n",
+    "documents": [
+        {
+            "fileid": 53236,
+            "name": "99.1.19公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-12-24/01f005c9-5d2a-41a8-8eee-195972f921f1/99.1.19公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 121.51984879730222,
+    "latitude": 25.032456306173696,
+    "representImageSource": "國防部史政編譯室",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國防部國軍歷史文物館",
+            "keepName": "國防部國軍歷史文物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國防部國軍歷史文物館",
+            "keepAddressNew": "100台北市中正區貴陽街一段243號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "貴陽街一段243號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 70925,
+            "caseId": 3650,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 75203,
+            "caseId": 3650,
+            "caseStatus": true,
+            "registerDate": 1263830400000,
+            "officialDocNo": "會授資籌二字第09920003041號函",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

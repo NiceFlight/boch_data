@@ -1,0 +1,105 @@
+{
+    "id": 3584,
+    "caseId": "20130813000039",
+    "count": 100,
+    "shareCount": 0,
+    "representImage": 6270,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7297/photo/重校正地理新書(金刊本)_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7297/photo/重校正地理新書(金刊本).png",
+        "name": "重校正地理新書(金刊本)"
+    },
+    "caseName": "重校正地理新書(金刊本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1376323200000,
+    "officialDocNo": "文資局物字第 10220091271號",
+    "judgeCriteria": [
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "金明昌壬子(三年,1192)張謙刊本。\r\n此書為一部官修地理書。原書於宋熙寧三年（1070）進上，當時圖書多由國子監刊印。入金以後印本多不全，金人畢履道、張謙復加補益，故其目錄題「監本補完地理新書」。四庫未收，宋監本今已亡佚，此為金重校正本，未聞他處藏有同版。\r\n此本為少見之官修地理書，且金版古籍非常稀有，具特殊歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第4條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號06509",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 6,
+    "notes": "",
+    "descAge": "金明昌壬子(三年，1192)",
+    "descCreator": "宋王洙等撰、金畢屢道校補、張謙附補 十五卷",
+    "descSize": "半葉17行，版匡19.2x13公分",
+    "descMaterial": "紙質刊本",
+    "reserveStatusDesc": "十五卷。\n此書為一部官修地理書。原書於宋熙寧三年（1070）進上，當時圖書多由國子監刊印。入金以後印本多不全，金人畢履道、張謙復加補益，故其目錄題「監本補完地理新書」。四庫未收，宋監本今已亡佚，此為金重校正本，未聞他處藏有同版。\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有虫蛀，第5冊較為嚴重。經修裱，保存情況良好。\n",
+    "documents": [
+        {
+            "fileid": 6271,
+            "name": "da9a002e-c566-45e0-9e1c-0dfe871d3293.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44177/file/da9a002e-c566-45e0-9e1c-0dfe871d3293.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3726,
+            "caseId": 3584,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3726,
+            "caseId": 3584,
+            "caseStatus": true,
+            "registerDate": 1376323200000,
+            "officialDocNo": "文資局物字第 10220091271號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

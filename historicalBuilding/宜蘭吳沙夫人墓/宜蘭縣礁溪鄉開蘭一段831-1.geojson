@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "宜蘭縣礁溪鄉開蘭一段831-1"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

@@ -1,0 +1,100 @@
+{
+    "id": 18585,
+    "caseId": "20210304000009",
+    "count": 405,
+    "shareCount": 0,
+    "representImage": 99182,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-03-04/2c633f3d-ac76-4f63-a5bb-6e514500fce7/PK2B000074N000000000PAB (2)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-03-04/2c633f3d-ac76-4f63-a5bb-6e514500fce7/PK2B000074N000000000PAB (2).jpg",
+        "name": "PK2B000074N000000000PAB (2)"
+    },
+    "caseName": "宋米芾尺牘　卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色之代表性",
+        "具有獨特藝術造詣或科學成就",
+        "獨一無二或不可替代性"
+    ],
+    "registerReason": "米芾為中國書法史上重要書家之一，與蔡襄、蘇軾、黃庭堅並稱「北宋四大家」。此卷集結〈面諭帖〉、〈伯修帖〉、〈晉紙帖〉、〈王略帖〉、〈玉筆格帖〉、〈丹陽帖〉、〈此石帖〉、〈惠柑帖〉、〈戲成呈司諫台坐帖〉等九件墨蹟，稀珍寶貴。內容書寫生平交遊與寄情翰墨古玩收藏等情事，雖無紀年，研究指出分別書於徽宗崇寧元年至五年（1102－1106）之間，得與文獻史料相互參照，可謂晚年心志所寄之綜合呈現。用筆縱橫如意，結字穩健成熟，書藝表現卓越超群。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第4條第3、4、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故書000074",
+    "amount": 9,
+    "descAge": "宋",
+    "descCreator": "米芾",
+    "descSize": "本幅一26.2x46.5、本幅二26.5x45、本幅三24.7x41、本幅四24.6x38.2、本幅五24.5x39、本幅六24.3x23、本幅七 26x22.9、本幅八23.2x33.5、本幅九24.8x36.7、拖尾 32.6x73.1(公分)",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "米芾（1052－1108），字元章，號海岳，襄陽（今湖北襄樊）人。書法與蔡襄、蘇軾、黃庭堅並稱「北宋四大家」。\n此卷集結〈面諭帖〉等九件墨蹟，無紀年，研究指出分別書於徽宗崇寧元年至五年（1102－1106）之間。用筆縱橫如意，結字穩健成熟，書藝表現卓越超群。內容書寫生平交遊與寄情翰墨古玩收藏等情事，可謂晚年心志所寄的綜合呈現。\n原帖入清後為王鴻緒（1645－1723）所庋藏，並合裱為一卷。乾隆朝時經《石渠寶笈》初編著錄，刻入《三希堂法帖》之中。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "",
+    "saveEnvironment": 1,
+    "reserveStatus": "舊傷補。",
+    "documents": [
+        {
+            "fileid": 143622,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-08/d52aa0b4-2038-4276-9327-9a274a01b873/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 302208.7,
+    "latitude": 2770998.84,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "台北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 66929,
+            "caseId": 18585,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 71106,
+            "caseId": 18585,
+            "caseStatus": true,
+            "registerDate": 1614859894834,
+            "officialDocNo": "文授資局物字第11030020551號",
+            "classificationId": 1,
+            "note": ""
+        }
+    ],
+    "isPublic": false
+}

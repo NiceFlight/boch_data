@@ -1,0 +1,100 @@
+{
+    "id": 4529,
+    "caseId": "20170523000008",
+    "count": 399,
+    "shareCount": 0,
+    "representImage": 15615,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/134780/photo/宋許道寧松下曳杖（歷代名繪冊8）_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/134780/photo/宋許道寧松下曳杖（歷代名繪冊8）.jpg",
+        "name": "宋許道寧松下曳杖（歷代名繪冊8）"
+    },
+    "caseName": "宋許道寧松下曳杖（歷代名繪冊8）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1495468800000,
+    "officialDocNo": "中華民國106年5月23日文授資局物字第1063005353號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就"
+    ],
+    "registerReason": "許道寧（約十一世紀），河北河間人。擅畫山水。初於開封賣藥，好描繪街坊各色人物。後遊華山，轉好寫山水。\n本幅結構嚴密，全圖描寫著重一「風」字，畫家以精湛的繪畫技巧，捕捉自然界中的風來勢動，表達出風吹人物，柱杖凝神，與植物的瞬間因風舞動，其中之松、竹、草、枯枝、士人衣褶帽帶皆因風勢順成一向，描繪甚為靈動自然。此外，地上吹落竹葉，人物後側之水禽，顯示出畫家對於自然的細微觀察力，「靜聽松風寒」的意境，畫筆驚警又靈動。\n畫中松竹人物等畫風與劉松年較近，可能為南宋後期受劉氏影響的作品。落款「道寧」兩字為後加，此在古書畫中常見，無損本作為傳世南宋畫風景人物畫中之精品。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條1項第3、4款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫001265N000000008",
+    "amount": 1,
+    "descAge": "宋",
+    "descSize": "24.2公分×25.3公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "湖濱之畔，蒼松翠竹，盤紆成陰，松下逸士自小徑出，持杖凝神，傾聽松籟竹韻。江渚野趣，清朗怡人。本幅結構嚴密，全圖描寫著重一風字，其中之松、竹、草、枯枝、士人衣褶帽帶皆因風勢順成一向，雙鉤墨筆點畫松竹人物，描繪甚為靈動自然。松竹人物等畫風與劉松年較近，可能為南宋後期受劉氏影響的作品。許道寧（約十一世紀），河北河間人。初市藥於都們，好描繪街坊各色人物。後遊華山，轉好寫山水。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "絹裂，傷補，霉傷，折裂。",
+    "documents": [
+        {
+            "fileid": 148276,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-21/c5764f7a-51f6-40cf-a693-b24b27c57506/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69394,
+            "caseId": 4529,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73555,
+            "caseId": 4529,
+            "caseStatus": true,
+            "registerDate": 1495468800000,
+            "officialDocNo": "中華民國106年5月23日文授資局物字第1063005353號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

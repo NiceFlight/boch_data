@@ -1,0 +1,101 @@
+{
+    "id": 17097,
+    "caseId": "20190927000002",
+    "count": 160,
+    "shareCount": 0,
+    "representImage": 5618,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/38092/photo/b43b2384-a09d-4817-8eb6-4eb44263039b_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/38092/photo/b43b2384-a09d-4817-8eb6-4eb44263039b.jpg",
+        "name": "b43b2384-a09d-4817-8eb6-4eb44263039b"
+    },
+    "caseName": "陶壺-2",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-其他",
+    "otherAssetsType": "0",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1161100800000,
+    "officialDocNo": "屏府文博字第0950206003號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "排灣魯凱聚落（新石器時代古物，年代不可考），具有稀有性、歷史、文化、藝術或科學價值。沒辦法訂它的地點，因為跟著結婚流動流來流去，陶土顏色色衣已脫落，年代不明（原住民本身無年代觀念）新石器時代的遺物，年代待考。三地門鄉大社傳說：陶壺是太陽光照射陶壺裡使它懷孕—壺生說。祭拜時家祭時或豐年祭都會拿來祭拜，賦予陶壺一種人格。",
+    "lawsReference": "文化資產保存法第65條暨古物分級登錄指定及廢止審查辦法第5條、第7條及第8辦理。",
+    "govInstitutionCode": "900",
+    "govInstitutionName": "屏東縣政府",
+    "belongCityId": 20,
+    "belongCityName": "屏東縣",
+    "belongDistName": "屏東市",
+    "govInstitution": " ",
+    "govDeptName": " ",
+    "govDeptPhone": " ",
+    "govDeptAddress": " ",
+    "reservationCode": " ",
+    "amount": 1,
+    "notes": "",
+    "descAge": " ",
+    "descSize": " ",
+    "descMaterial": " ",
+    "reserveStatusDesc": "主要材質及特徵:陶士-手捏製壺形\r\n重量:4.5公斤\r\n尺寸:32(高)*36(腹徑)公分",
+    "pastHistorySource": 2,
+    "pastHistorySourceNotes": " ",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 231385,
+            "name": "32件一般古物(951027)_部分13.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-09-19/ce8c632c-6ee3-4885-872b-f263037678b4/32件一般古物(951027)_部分13.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "0",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "屏東縣政府文化處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "屏東縣屏東市大連路69號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "屏東縣",
+            "distName": "屏東市",
+            "id": 114868,
+            "caseId": 17097,
+            "caseStatus": true,
+            "cityId": 20,
+            "distId": 2001
+        }
+    ],
+    "announces": [
+        {
+            "id": 125110,
+            "caseId": 17097,
+            "caseStatus": true,
+            "registerDate": 1161100800000,
+            "officialDocNo": "屏府文博字第0950206003號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

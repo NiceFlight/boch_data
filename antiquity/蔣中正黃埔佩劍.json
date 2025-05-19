@@ -1,0 +1,106 @@
+{
+    "id": 3680,
+    "caseId": "20100119000009",
+    "count": 489,
+    "shareCount": 1,
+    "representImage": 6421,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32628/photo/5d1ac4a5-ce77-4ff9-b7fa-399cf9ebb862_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32628/photo/5d1ac4a5-ce77-4ff9-b7fa-399cf9ebb862.jpg",
+        "name": "5d1ac4a5-ce77-4ff9-b7fa-399cf9ebb862"
+    },
+    "caseName": "蔣中正黃埔佩劍",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-軍事設備",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1263830400000,
+    "officialDocNo": "會授資籌二字第09920003041號函",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事重要淵源",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.本件為蔣中正受命擔任陸軍軍官學校（黃埔軍校）校長時期所使用之佩劍，代表時代之意義。2.為見證歷史之重要史實文物。3.具重要歷史意義及重要歷史文化價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。2.符合「古物分級登錄指定及廢止審查辦法」第三條第一項第一、六款、第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "無",
+    "keepNameId": 3,
+    "keepName": "國防部國軍歷史文物館",
+    "keepNameNew": 1,
+    "keepAddressNew": "111台北市士林區至善路二段221號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "民國13年（1924年）",
+    "descSize": "38×6公分",
+    "descMaterial": "機械鍛造鋼",
+    "reserveStatusDesc": "機械鍛造鋼，長形雙邊有刃，重540克（含鞘）",
+    "pastHistorySource": 3,
+    "pastHistorySourceNotes": "總統府侍衛室",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整。保存良好，典藏於國軍歷史文物館第一陳展室。",
+    "documents": [
+        {
+            "fileid": 53258,
+            "name": "99.1.19公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-12-24/98cb8516-7c5f-4a15-bc6e-107609c7a1fb/99.1.19公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國防部史政編譯室",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國防部國軍歷史文物館",
+            "keepName": "國防部國軍歷史文物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3822,
+            "caseId": 3680,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3822,
+            "caseId": 3680,
+            "caseStatus": true,
+            "registerDate": 1263830400000,
+            "officialDocNo": "會授資籌二字第09920003041號函",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

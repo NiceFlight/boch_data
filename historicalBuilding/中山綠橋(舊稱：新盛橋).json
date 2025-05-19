@@ -1,0 +1,103 @@
+{
+    "id": 1410,
+    "caseId": "20040220000001",
+    "count": 2566,
+    "shareCount": 1,
+    "representImage": 105442,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-04-08/386910cf-ca58-4ea8-868e-34719e2571f1/中山綠橋1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-04-08/386910cf-ca58-4ea8-868e-34719e2571f1/中山綠橋1.jpg",
+        "name": "中山綠橋1"
+    },
+    "caseName": "中山綠橋(舊稱：新盛橋)",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "日治明治41年(1908)在臺中公園舉辦全臺縱貫鐵路開通慶祝典禮，日本閑院宮載仁親王與臺灣政商名流多人蒞臨，因此修建本橋以利交通與城市美觀，時稱為「新盛橋」，街道稱「新盛橋通」。戰後路名改為「中山路」，橋又架設於綠川上，而改稱「中山綠橋」。\n\n民國93年（2004）臺中市政府以其為日治初期市政建設之代表，及鐵路開通、公園建設及市區計畫之具體象徵，更具高度歷史意義，和保存及建築研究價值，登錄為歷史建築。\n",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "路橋",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1077206400000,
+    "officialDocNo": "府授文資0930009360號",
+    "documents": [
+        {
+            "fileid": 165413,
+            "name": "0930220_中山綠橋(舊稱：新盛橋)_登錄公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-25/218ef5da-7a10-4533-892f-8d44bd1e61a5/0930220_中山綠橋(舊稱：新盛橋)_登錄公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "建築-為本市日治初期市政建設之代表，極具保存及建築研究價值 。\n歷史-日治時期鐵路開通、公園建設及市區計畫之具體象徵，具高度歷史意義 。\n囚創建年期久遠者。\n",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、2、3、4款",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "中區",
+    "govInstitution": "臺中市政府文化局",
+    "govDeptName": "臺中市文化資產處",
+    "govDeptPhone": "04-22290280",
+    "govDeptAddress": "臺中市西區市府路41巷19號",
+    "cadasters": [
+        {
+            "fileid": 165414,
+            "name": "0930220_中山綠橋(舊稱：新盛橋)_登錄公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-05-25/3047e7e2-014b-467e-b61d-fc467a45702e/0930220_中山綠橋(舊稱：新盛橋)_登錄公告.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "(空白)(地目：水)",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "中區綠川三小段10號，共計1筆",
+    "buildingFeatures": "本橋為拱形橋樑，寬10公尺，跨22公尺，附有燈柱及欄干，欄干開口有新藝風格鑄鐵間隔。",
+    "inHouseFeatures": "",
+    "buildingUsage": "維持原始使用目的",
+    "buildingActualState": "為本市日治初期市政建設之代表，即鐵路開通、公園建設及市區計畫之具體象徵，更具高度歷史意義，和保存及建築研究價值。",
+    "buildingKeyMaintainItem": "為本市日治初期市政建設之代表，即鐵路開通、公園建設及市區計畫之具體象徵",
+    "bulkTransfer": 0,
+    "belongAddress": "中山路與綠川上",
+    "isOpenVisit": true,
+    "openUpTime": "全天候開放",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.683130449945,
+    "latitude": 24.1378780122379,
+    "representImageSource": "臺中市文化資產處",
+    "landScope": "臺中市中山中山路與綠川上",
+    "selfCoverage": "保存土地面積約255平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "中區",
+            "id": 116232,
+            "caseId": 1410,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1001,
+            "address": "中山路與綠川上"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 126840,
+            "caseId": 1410,
+            "caseStatus": true,
+            "registerDate": 1077206400000,
+            "officialDocNo": "府授文資0930009360號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.68563961431458,24.1373339719617],[120.68551994421645,24.13718389560482],[120.68531997739218,24.137100774975178],[120.6852362641066,24.137276667031294],[120.68515239612144,24.137450546983032],[120.68517573975005,24.137451701211933],[120.68521539429648,24.13740483590357],[120.68520439502763,24.13739118436255],[120.68530954636695,24.137269433007834],[120.68532266420745,24.137277376956963],[120.68535237766496,24.137213005833697],[120.6854093939881,24.13726679995374],[120.68554941908671,24.13727336017635],[120.68563304276826,24.137362121798997],[120.6855812300407,24.137476604465245],[120.68561393681193,24.13747729574305],[120.68574219963683,24.137485362943508],[120.68575583130163,24.137491224847945],[120.68563961431458,24.1373339719617],[120.68563961431458,24.1373339719617]]]]},\"properties\":{\"envelope\":{\"left\":\"120.68515239612144\",\"top\":\"24.137100774975178\",\"right\":\"120.68575583130163\",\"bottom\":\"24.137491224847945\"},\"landLot\":\"臺中市中區建國段四小段50\"}}],\"notfound\":[]}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": "本市古蹟歷史建築研究調查單位"
+}

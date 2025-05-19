@@ -1,0 +1,106 @@
+{
+    "id": 3647,
+    "caseId": "20100119000002",
+    "count": 642,
+    "shareCount": 0,
+    "representImage": 6388,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32595/photo/240ea0d9-64d1-4a9b-bf1a-8f18ea7ab26a_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32595/photo/240ea0d9-64d1-4a9b-bf1a-8f18ea7ab26a.jpg",
+        "name": "240ea0d9-64d1-4a9b-bf1a-8f18ea7ab26a"
+    },
+    "caseName": "蔣中正五星披風",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1263830400000,
+    "officialDocNo": "會授資籌二字第09920003041號函",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事重要淵源",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.\t蔣中正於抗戰期間擔任同盟國中國戰區最高統帥，領導對日抗戰，贏得最後勝利。同盟國為表彰其功績，遂與二次大戰間知名將領同列五星上將，為唯一獲此殊榮之中國將領，具重要歷史意義。2.\t軍史上之重要史料文物，無可取代，具重要歷史意義及價值。3.\t五星披風具獨特性，有其特色，少見於世，具有極強的歷史特殊意義。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。2.符合「古物分級登錄指定及廢止審查辦法」第三條第一項第一、二、六款、第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "無",
+    "keepNameId": 3,
+    "keepName": "國防部國軍歷史文物館",
+    "keepNameNew": 3,
+    "keepAddressNew": "100台北市中正區貴陽街一段243號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "抗戰勝利後（1945年以後）",
+    "descSize": "42×116公分",
+    "descMaterial": "動物纖維",
+    "reserveStatusDesc": "黃尼料無袖式大衣",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "總統府侍衛室",
+    "saveEnvironment": 1,
+    "reserveStatus": "保存良好，典藏於國軍歷史文物館第三陳展室。",
+    "documents": [
+        {
+            "fileid": 53247,
+            "name": "99.1.19公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-12-24/84d1a487-6ec8-4325-9288-a31ebb391926/99.1.19公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國防部史政編譯室",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國防部國軍歷史文物館",
+            "keepName": "國防部國軍歷史文物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國防部國軍歷史文物館",
+            "keepAddressNew": "100台北市中正區貴陽街一段243號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "貴陽街一段243號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3789,
+            "caseId": 3647,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3789,
+            "caseId": 3647,
+            "caseStatus": true,
+            "registerDate": 1263830400000,
+            "officialDocNo": "會授資籌二字第09920003041號函",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

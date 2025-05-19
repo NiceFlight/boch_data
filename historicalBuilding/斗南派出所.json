@@ -1,0 +1,127 @@
+{
+    "id": 18303,
+    "caseId": "20210702000007",
+    "count": 1732,
+    "shareCount": 2,
+    "representImage": 141969,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-10-28/174e915c-dda0-465d-8a92-8d4c9ddfb0bb/DSC02137-hhy_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-10-28/174e915c-dda0-465d-8a92-8d4c9ddfb0bb/DSC02137-hhy.jpg",
+        "name": "DSC02137-hhy"
+    },
+    "caseName": "斗南派出所",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "於1952年建造完成，其建築規模以及所在的位置，反映了當時建造年代的氛圍，入口立面山牆的柱狀裝飾極富特色。\n 2015年斗南派出所登錄為雲林縣歷史建築時，仍然做為派出所的辦公空間使用，多年來地方研擬欲將派出所搬遷至斗南分局舊廳舍，但因分局舊廳舍在古蹟修復完成後另有規劃其他而作罷，終於在2020年2月遷入新的斗南警察分局，斗南分局舊廳舍便逐漸可以開始進行相關維護計畫。",
+    "assetsTypeNames": "衙署",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 122476,
+            "name": "中華民國104年4月30日斗南派出所.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-07-02/9040f944-934a-4ad2-b39f-31e0f8477384/中華民國104年4月30日斗南派出所.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "(一)建築規模及所在位置均反映當時建造年代的氛圍\n(二)折衷樣式建築風格，外觀造型極具風格\n(三)為雲林縣知名歷史人物吳景徽任縣長時所興建之落款\n(四)具再利用潛力",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、2、3、4款",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "govInstitution": "雲林縣政府",
+    "govDeptName": "文化觀光處",
+    "govDeptPhone": "(05)5523218",
+    "govDeptAddress": "雲林縣斗六市大學路三段310號",
+    "cadasters": [
+        {
+            "fileid": 122477,
+            "name": "60.斗南派出所地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-07-02/80b9387d-e242-44ce-871e-4725d4fe58cd/60.斗南派出所地籍圖.pdf"
+        },
+        {
+            "fileid": 122478,
+            "name": "60.斗南派出所地籍資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-07-02/e351f3cb-5d2c-4ab0-9422-9a97108fd509/60.斗南派出所地籍資料.pdf"
+        }
+    ],
+    "buildingFeatures": "建築類型：單體建築\n建築樓層：二樓\n建築構造：磚木造1棟\n屋頂形式：日式屋架",
+    "buildingUsage": "修復及再利用計畫進行中",
+    "buildingActualState": "派出所已搬遷",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "openUpTime": "不開放參觀",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.47808,
+    "latitude": 23.6731,
+    "representImageSource": "雲林縣政府",
+    "landScope": "雲林縣斗南鎮南昌段1099、1100地號，土地面積216平方公尺",
+    "selfCoverage": "建築物面積140平方公尺，土地面積216平方公尺",
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "斗南鎮",
+            "id": 115905,
+            "caseId": 18303,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1301,
+            "address": "中山路11號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "雲林縣",
+            "distName": "斗南鎮",
+            "landNoName": "南昌段",
+            "id": 161807,
+            "caseId": 18303,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1301,
+            "landNoId": 11572,
+            "landSerialNo": "1099",
+            "landownership": 1,
+            "area": "55",
+            "noncityLandUseTypeOther": "",
+            "note": "重測前：斗南段２５６之２３號"
+        },
+        {
+            "cityName": "雲林縣",
+            "distName": "斗南鎮",
+            "landNoName": "南昌段",
+            "id": 161808,
+            "caseId": 18303,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1301,
+            "landNoId": 11572,
+            "landSerialNo": "1100",
+            "landownership": 1,
+            "area": "161",
+            "noncityLandUseTypeOther": "",
+            "note": "重測前：斗南段２５６之１６號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 126399,
+            "caseId": 18303,
+            "caseStatus": true,
+            "registerDate": 1430323200000,
+            "officialDocNo": "府文資二字第1047404218B號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.4802473199422,23.673606217210946],[120.48027046021431,23.673570284368964],[120.48015901272699,23.673509019531313],[120.48014980137899,23.673549798384506],[120.4802473199422,23.673606217210946],[120.4802473199422,23.673606217210946]]]]},\"properties\":{\"envelope\":{\"left\":\"120.48014980137899\",\"top\":\"23.673509019531313\",\"right\":\"120.48027046021431\",\"bottom\":\"23.673606217210946\"},\"landLot\":\"雲林縣斗南鎮南昌段1099\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.48027046021431,23.673570284368964],[120.48032171245818,23.673490695988338],[120.48031519942465,23.67347167021928],[120.48019348702557,23.67341393229039],[120.48016470354547,23.673486066148232],[120.48015901272699,23.673509019531313],[120.48027046021431,23.673570284368964],[120.48027046021431,23.673570284368964]]]]},\"properties\":{\"envelope\":{\"left\":\"120.48015901272699\",\"top\":\"23.673413932290391\",\"right\":\"120.48032171245818\",\"bottom\":\"23.673570284368964\"},\"landLot\":\"雲林縣斗南鎮南昌段1100\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": "《斗南派出所》，文化部國家文化記憶庫"
+}

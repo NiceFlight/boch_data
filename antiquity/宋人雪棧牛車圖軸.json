@@ -1,0 +1,101 @@
+{
+    "id": 3531,
+    "caseId": "20130613000013",
+    "count": 271,
+    "shareCount": 0,
+    "representImage": 188478,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-10-31/eb8a9769-b640-4719-8ddb-39c9bddf8e1b/K2A000860N000000000PAA_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-10-31/eb8a9769-b640-4719-8ddb-39c9bddf8e1b/K2A000860N000000000PAA.jpg",
+        "name": "K2A000860N000000000PAA"
+    },
+    "caseName": "宋人雪棧牛車圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1371052800000,
+    "officialDocNo": "文資局物字第10220064921號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "以民間生活為題材，畫家仔細交代出人物農莊運糧牛車、各種活動情節。物象細節豐富、人物表情生動。磨坊及房舍以界畫技法畫成。結構精謹，筆法穩健純熟，極具宋代特色。此軸縱高164.2公分，橫104.1公分，為一大軸，現存宋代繪製民間生活的大軸數量稀少，彌足珍貴。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第五、六款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故畫000860",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descSize": "164.2公分 x 104.1公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "畫冬季莊園，山上堆滿積雪，林木蕭索，遠方丘陵起伏，趕路牛車旅人絡繹不絕，往返於雪徑上；莊院內牛騾或臥或息，簷前二人握手交談，河邊水車用來碾穀。畫家以敘述性的手法，詳實地掌握了嚴冬季節，郊野行旅的活動景況。幅中坡石皆用斧劈法，側斜橫皴，用筆凝重，墨色濃郁，畫法嚴謹。以筆墨論，或是出於南宋後期受李唐風格影響者所作。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 150609,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-18/0aba328c-f281-4168-b1b6-f89fa21728be/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 94712,
+            "caseId": 3531,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 102130,
+            "caseId": 3531,
+            "caseStatus": true,
+            "registerDate": 1371052800000,
+            "officialDocNo": "文資局物字第10220064921號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,106 @@
+{
+    "id": 3214,
+    "caseId": "20150722000003",
+    "count": 984,
+    "shareCount": 0,
+    "representImage": 5656,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4284/photo/「尚義可風」匾額_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4284/photo/「尚義可風」匾額.JPG",
+        "name": "「尚義可風」匾額"
+    },
+    "caseName": "「尚義可風」匾額",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-其他",
+    "otherAssetsType": "匾額",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1437494400000,
+    "officialDocNo": "新北府文資字第10413273122號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "一、本匾紀年明確，且字體渾圓飽滿，並刻有「光緒御筆之寶」印，係來自朝廷正式賜匾，展現林家地位尊崇。\r\n二、本匾製作精美、背景圖案綴以七祥龍與五蝙蝠，是常見之吉祥題材表現。\r\n三、反映林家之財資能力並與清帝國關係密切，具地方文化與歷史特色。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第1、2、3、4、5、6款",
+    "govInstitutionCode": "220",
+    "govInstitutionName": "新北市政府",
+    "belongCityId": 3,
+    "belongCityName": "新北市",
+    "belongDistName": "板橋區",
+    "govInstitution": "新北市政府",
+    "govDeptName": "文化局",
+    "govDeptPhone": "(02)29603456",
+    "govDeptAddress": "新北市板橋區中山路一段161號28樓",
+    "reservationCode": "無",
+    "amount": 1,
+    "notes": "",
+    "descAge": "西元1878年",
+    "descSize": "長215.4公分x高87公分x厚4公分",
+    "descMaterial": "木質",
+    "reserveStatusDesc": "此匾額面採用多塊木板拼接，邊框則是外加固定於額面方式處理。中央字體以堆灰工藝，呈現字體的立體效果，係清末常見的做法。\n光緒四年（1878年），林維源以母親鐘氏名義捐款2萬兩，救濟山西（晉）、河南（豫）兩地水災，由朝廷頒發「尚義可風」匾額獎勵。尚義可風匾額製作精緻，背景祥雲、蝙蝠隱喻吉祥、福氣；除是林家急公好義地證明外，匾額本身亦是一件美麗的藝術品。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 2,
+    "reserveStatus": "進行古物維護修復中",
+    "documents": [
+        {
+            "fileid": 165905,
+            "name": "尚義可風匾額公告-104.07.22.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-27/bbdb6524-1e08-4906-9fb7-c1439ea43421/尚義可風匾額公告-104.07.22.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.453924,
+    "latitude": 25.010134,
+    "representImageSource": "新北市政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "祭祀公業法人新北市林本源",
+            "keepName": "祭祀公業法人新北市林本源",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "祭祀公業法人新北市林本源",
+            "keepAddressNew": "新北市板橋區西門街42-65號",
+            "saveSpaceIdStr": "宅第",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "新北市",
+            "keepNameDistName": "板橋區",
+            "keepNameAddress": "府中路169號9樓"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "新北市",
+            "distName": "板橋區",
+            "id": 110851,
+            "caseId": 3214,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 303,
+            "address": "西門街42-65號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 119939,
+            "caseId": 3214,
+            "caseStatus": true,
+            "registerDate": 1437494400000,
+            "officialDocNo": "新北府文資字第10413273122號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

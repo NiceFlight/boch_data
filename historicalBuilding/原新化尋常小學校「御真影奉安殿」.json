@@ -1,0 +1,119 @@
+{
+    "id": 1665,
+    "caseId": "20040408000001",
+    "count": 2284,
+    "shareCount": 1,
+    "representImage": 181149,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-08-23/630652aa-3b8b-4a42-99f1-6bfff629b3de/歷013原新化尋常小學校「御真影奉安殿」_P002_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-08-23/630652aa-3b8b-4a42-99f1-6bfff629b3de/歷013原新化尋常小學校「御真影奉安殿」_P002.jpg",
+        "name": "歷013原新化尋常小學校「御真影奉安殿」_P002"
+    },
+    "caseName": "原新化尋常小學校「御真影奉安殿」",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "奉安殿",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1081415477000,
+    "officialDocNo": "府文資字第0930063388號函",
+    "documents": [
+        {
+            "fileid": 181194,
+            "name": "新化尋常小學校公告-93.4.8.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-08-24/21fef79b-d83b-4687-85b2-cd9776950702/新化尋常小學校公告-93.4.8.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "公告無資料",
+    "lawsReference": "一、文化資產保存法第二十七條之一第一項。\n二、行政院文化建設委員會函頒「歷史建築登錄及輔助辦法」。\n三、本案業經九十三年三月十五日第二次古蹟審查會議審議通過。",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "新化區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 181195,
+            "name": "地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-08-24/5e28180e-1cd8-469d-aae2-3efb488ade62/地籍圖.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 5,
+    "cityLandUseTypeName": "文教區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "新化區新東段117地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "無",
+    "bulkTransfer": 0,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "belongAddress": "信義路142-1號",
+    "isOpenVisit": true,
+    "openUpTime": "",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.311201066211,
+    "latitude": 23.0367735887679,
+    "representImageSource": "臺南市政府",
+    "landScope": "",
+    "selfCoverage": "奉安殿、講堂小舞台",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "新化區",
+            "id": 93406,
+            "caseId": 1665,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1610,
+            "address": "信義路142-1號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺南市",
+            "distName": "新化區",
+            "landNoName": "新東段",
+            "id": 114964,
+            "caseId": 1665,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1610,
+            "landNoId": 3426,
+            "landSerialNo": "117地號",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 100829,
+            "caseId": 1665,
+            "caseStatus": true,
+            "registerDate": 1081415477000,
+            "officialDocNo": "府文資字第0930063388號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"臺南市新化區新東段117地號\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": ""
+}

@@ -1,0 +1,201 @@
+{
+    "id": 1682,
+    "caseId": "20090824000005",
+    "count": 3426,
+    "shareCount": 3,
+    "representImage": 158505,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-04-08/da3c891a-8516-43d2-bb7a-1433482c561f/歷033北門井仔腳瓦盤鹽田_P007_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-04-08/da3c891a-8516-43d2-bb7a-1433482c561f/歷033北門井仔腳瓦盤鹽田_P007.jpg",
+        "name": "歷033北門井仔腳瓦盤鹽田_P007"
+    },
+    "caseName": "北門井仔腳瓦盤鹽田",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "其他",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1251107464000,
+    "officialDocNo": "府文資字第0980199845A號",
+    "documents": [
+        {
+            "fileid": 158503,
+            "name": "北門井仔腳瓦盤鹽田公告98.8.24.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-08/42c34fe7-a93a-4d2f-a6be-814cc1f07380/北門井仔腳瓦盤鹽田公告98.8.24.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "1、本處鹽場歷史悠久，是臺灣目前保存最完整的瓦盤鹽田。\n2、保有完整的海岸生態及鹽田景觀，兼具生態、觀光與教育之價值，可見證臺灣鹽場遷徙史。\n3、產業設施以瓦片舖設，具稀少性及地方特色，迄今仍在使用及生產，是活的文化遺蹟。\n",
+    "lawsReference": "文化資產保存法第15條",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "北門區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 142340,
+            "name": "北門井仔腳瓦盤鹽田地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-11-02/d68ec092-53d6-4092-a8b7-08def0c7fe0e/北門井仔腳瓦盤鹽田地籍圖.jpg"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 2,
+    "nonCityLandUseTypeName": "一般農業區",
+    "nonCityLandUseSubTypeId": 8,
+    "nonCityLandUseSubTypeName": "鹽業",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "北門區永隆段788、790、890、1025、1107、1104地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "wenSitename": "井仔腳瓦盤鹽田",
+    "wenSiteaddress": "https://www.facebook.com/JingZaiJiaoTilePavedSaltFields/?ref=page_internal",
+    "belongAddress": "北門區永華里西南郊",
+    "isOpenVisit": true,
+    "openUpTime": "09：30 – 17：30",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.10798,
+    "latitude": 23.25956,
+    "representImageSource": "臺南市政府",
+    "landScope": "臺南市北門區永隆段788、790、890、1025、1107、1104地號",
+    "selfCoverage": "瓦盤鹽田與大小蒸發池",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "北門區",
+            "id": 148476,
+            "caseId": 1682,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1625,
+            "address": "永華里西南郊"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺南市",
+            "distName": "北門區",
+            "landNoName": "永隆段",
+            "id": 205288,
+            "caseId": 1682,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1625,
+            "landNoId": 3249,
+            "landSerialNo": "788",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "臺南市",
+            "distName": "北門區",
+            "landNoName": "永隆段",
+            "id": 205289,
+            "caseId": 1682,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1625,
+            "landNoId": 3249,
+            "landSerialNo": "790",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "臺南市",
+            "distName": "北門區",
+            "landNoName": "永隆段",
+            "id": 205290,
+            "caseId": 1682,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1625,
+            "landNoId": 3249,
+            "landSerialNo": "890",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "臺南市",
+            "distName": "北門區",
+            "landNoName": "永隆段",
+            "id": 205291,
+            "caseId": 1682,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1625,
+            "landNoId": 3249,
+            "landSerialNo": "1025",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "臺南市",
+            "distName": "北門區",
+            "landNoName": "永隆段",
+            "id": 205292,
+            "caseId": 1682,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1625,
+            "landNoId": 3249,
+            "landSerialNo": "1107",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "臺南市",
+            "distName": "北門區",
+            "landNoName": "永隆段",
+            "id": 205293,
+            "caseId": 1682,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1625,
+            "landNoId": 3249,
+            "landSerialNo": "1104",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 161386,
+            "caseId": 1682,
+            "caseStatus": true,
+            "registerDate": 1251107464000,
+            "officialDocNo": "府文資字第0980199845A號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.10817249209894,23.26546987646973],[120.1078069440842,23.264887985616685],[120.10775602646216,23.26488517703668],[120.10753862038726,23.264826064620078],[120.10738534858075,23.26471098802076],[120.10768363166191,23.265150812510278],[120.10790150343092,23.26552241012957],[120.10817249209894,23.26546987646973],[120.10817249209894,23.26546987646973]]]]},\"properties\":{\"envelope\":{\"left\":\"120.10738534858075\",\"top\":\"23.264710988020759\",\"right\":\"120.10817249209894\",\"bottom\":\"23.26552241012957\"},\"landLot\":\"臺南市北門區永隆段788\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.10832012939555,23.2618267398079],[120.1082273060137,23.261728417727976],[120.10805681062755,23.26173562083248],[120.10755943604211,23.261912622574915],[120.10740584400263,23.262000175171835],[120.10736688634113,23.26204453717279],[120.10698177508065,23.2621007546365],[120.10669688886216,23.262184545575423],[120.10634983087266,23.262248178457455],[120.10644110804401,23.26272007028994],[120.107645418256,23.26470550629301],[120.10786790848636,23.264656253316026],[120.10792937416227,23.264603681657704],[120.107941208852,23.264587121382633],[120.10799411897439,23.264556553354925],[120.10805998598393,23.264573207895786],[120.10835292876604,23.263537456065016],[120.10835252915189,23.26300899552945],[120.10865071888409,23.26249154170707],[120.1086197741543,23.262363005582223],[120.1083502723098,23.26217688326721],[120.10834721852295,23.26206063415588],[120.10832012939555,23.2618267398079],[120.10832012939555,23.2618267398079]]]]},\"properties\":{\"envelope\":{\"left\":\"120.10634983087266\",\"top\":\"23.261728417727976\",\"right\":\"120.10865071888409\",\"bottom\":\"23.264705506293009\"},\"landLot\":\"臺南市北門區永隆段790\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.1082273060137,23.261728417727976],[120.10803316573971,23.261315272432007],[120.10778883948788,23.26136089489675],[120.10748747359548,23.26133905270155],[120.10744723978773,23.261193135548083],[120.10762072786613,23.26114890824221],[120.10756451840135,23.26087042790955],[120.10748293116097,23.2608696682039],[120.10738591311633,23.26087635079295],[120.10718235480509,23.260912780355618],[120.10662269688616,23.261025666701457],[120.1061255142069,23.26108852041293],[120.10634983087266,23.262248178457455],[120.10669688886216,23.262184545575423],[120.10698177508065,23.2621007546365],[120.10736688634113,23.26204453717279],[120.10740584400263,23.262000175171835],[120.10755943604211,23.261912622574915],[120.10805681062755,23.26173562083248],[120.1082273060137,23.261728417727976],[120.1082273060137,23.261728417727976]]]]},\"properties\":{\"envelope\":{\"left\":\"120.10612551420689\",\"top\":\"23.2608696682039\",\"right\":\"120.1082273060137\",\"bottom\":\"23.262248178457455\"},\"landLot\":\"臺南市北門區永隆段890\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.10842810729507,23.259508327104918],[120.10837497224091,23.259429550264944],[120.10836310512248,23.259290995966598],[120.10808328990889,23.259358294498085],[120.10810472706902,23.259441588651818],[120.1082129178522,23.259542174473886],[120.10842810729507,23.259508327104918],[120.10842810729507,23.259508327104918]]]]},\"properties\":{\"envelope\":{\"left\":\"120.10808328990889\",\"top\":\"23.259290995966598\",\"right\":\"120.10842810729507\",\"bottom\":\"23.259542174473886\"},\"landLot\":\"臺南市北門區永隆段1025\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.10878749218445,23.25857108843833],[120.10875571468038,23.25844499292644],[120.10869878836156,23.25846250873056],[120.10873600277826,23.25835588266152],[120.1085255724243,23.258394723740512],[120.10858892475412,23.258634994992708],[120.10878749218445,23.25857108843833],[120.10878749218445,23.25857108843833]]]]},\"properties\":{\"envelope\":{\"left\":\"120.1085255724243\",\"top\":\"23.258355882661519\",\"right\":\"120.10878749218445\",\"bottom\":\"23.258634994992708\"},\"landLot\":\"臺南市北門區永隆段1107\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.10868027430129,23.25819836309049],[120.10868874608916,23.25805976936983],[120.10868286307131,23.25787216610624],[120.10870450461363,23.257667173902682],[120.10864052006069,23.257673086411806],[120.10852352854994,23.257755688932875],[120.10840053242669,23.25776299795912],[120.10836260538996,23.257776675997807],[120.1084837290921,23.258236046203166],[120.10868027430129,23.25819836309049],[120.10868027430129,23.25819836309049]]]]},\"properties\":{\"envelope\":{\"left\":\"120.10836260538996\",\"top\":\"23.257667173902682\",\"right\":\"120.10870450461363\",\"bottom\":\"23.258236046203166\"},\"landLot\":\"臺南市北門區永隆段1104\"}}],\"notfound\":[]}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": "待修復或再利用計畫完成後填列"
+}

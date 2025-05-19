@@ -1,0 +1,91 @@
+{
+    "id": 3017,
+    "caseId": "20130726000005",
+    "count": 640,
+    "shareCount": 0,
+    "representImage": 5417,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7373/photo/褒忠祠義民爺神位(大、小)及香爐_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7373/photo/褒忠祠義民爺神位(大、小)及香爐.JPG",
+        "name": "褒忠祠義民爺神位(大、小)及香爐"
+    },
+    "caseName": "褒忠祠義民爺神位(大、小)及香爐",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1374768000000,
+    "officialDocNo": "府授文資二字第1020143827號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有珍貴及稀有性者"
+    ],
+    "registerReason": "1.褒忠祠原設於彰化八卦山下，因日治時期市街改正遭強行拆除，部份客籍烈士神位與死難官員神位或有功官員祿位，遷至東勢巧聖仙師廟寄祀至今，見證日治時期打擊本土信仰之作風。\r\n2.為清領末期戴潮春事件，東勢石岡地區客家義軍配合官兵保鄉衛土之歷史紀念物，深具地方族群文化價值。",
+    "lawsReference": "1.文化資產保存法第65條。\r\n2.古物分級登錄指定及廢止審查辦法第5、7條。",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "東勢區",
+    "reservationCode": "",
+    "keepNameId": 17,
+    "keepName": "台灣巧聖仙師東勢祖廟管理委員會",
+    "keepNameNew": 17,
+    "keepAddressNew": "臺中市東勢區中寧里匠寮巷52號",
+    "amount": 1,
+    "reserveStatusDesc": "1.褒忠祠義民爺神位(大)\r\n(1)年代：不詳\r\n(2)規格：內高125cm，內寬87cm，外高146.5cm，外寬106cm，底座高22cm，底座寬115cm\r\n(3)材質：木質\r\n(4)形制：牌位\r\n(5)來源：私有\r\n2.褒忠祠義民爺神位(小)\r\n(1)年代：不詳\r\n(2)規格：內高30cm，內寬19.5cm，外寬27cm，底座高18.5cm，底座寬34.5cm\r\n(3)材質：木質\r\n(4)形制：牌位\r\n(5)來源：私有\r\n3.香爐\r\n(1)年代：不詳\r\n(2)規格：爐身高27 cm，口緣直徑30.5cm，爐腹直徑31cm，底盤直徑16.5cm，爐足寬5cm\r\n(3)材質：砂岩\r\n(4)形制：香爐\r\n(5)來源：私有",
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 5418,
+            "name": "24a3b63b-9c69-4dea-94a8-d7d00320bfc6.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44750/file/24a3b63b-9c69-4dea-94a8-d7d00320bfc6.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "台灣巧聖仙師東勢祖廟管理委員會",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺中市東勢區中寧里匠寮巷52號",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "東勢區",
+            "id": 3154,
+            "caseId": 3017,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1016
+        }
+    ],
+    "announces": [
+        {
+            "id": 3154,
+            "caseId": 3017,
+            "caseStatus": true,
+            "registerDate": 1374768000000,
+            "officialDocNo": "府授文資二字第1020143827號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

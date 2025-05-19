@@ -1,0 +1,105 @@
+{
+    "id": 3616,
+    "caseId": "20130813000071",
+    "count": 111,
+    "shareCount": 0,
+    "representImage": 6334,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7325/photo/大般涅槃經(六朝寫卷子本)_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7325/photo/大般涅槃經(六朝寫卷子本).png",
+        "name": "大般涅槃經(六朝寫卷子本)"
+    },
+    "caseName": "大般涅槃經(六朝寫卷子本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1376323200000,
+    "officialDocNo": "文資局物字第 10220091271號",
+    "judgeCriteria": [
+        "歷史流傳已久或史事具有深厚淵源",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "六朝高弼寫卷子本。\r\n書名依據尾題，凡十四卷。此本存《大般涅槃經》之卷第八，首缺尾全，卷末有題記「高弼為亡妻元聖威所寫經」並有「一校」字樣，似為六朝人寫本。考英倫G.翟理斯目787，1631號著錄有《摩訶般若波羅經》，晉譯《華嚴經》，俱云是六世紀所寫，亦有「高弼為亡妻元聖威所寫經」的題記。\r\n敦煌遺書寫卷，此本為六朝寫經卷，可作為敦煌寫經研究之重要資料，罕見稀有，具特殊歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第4條第一項第二、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號08759",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "六朝",
+    "descCreator": "北涼釋曇無讖譯",
+    "descSize": "存22紙，每紙24行，全幅26×37.5公分",
+    "descMaterial": "紙質",
+    "reserveStatusDesc": "存一卷(卷第八)；捲軸裝寫本。\n書名依據尾題，凡十四卷。此本存《大般涅槃經》之卷第八，首缺尾全，卷末有題記「高弼為亡妻元聖威所寫經」並有「一校」字樣，似為六朝人寫本。考英倫G.翟理斯目787，1631號著錄有《摩訶般若波羅經》，晉譯《華嚴經》，俱云是六世紀所寫，亦有「高弼為亡妻元聖威所寫經」的題記。\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "前端有部分破損，無虫蛀。經修裱，書況良好。\n",
+    "documents": [
+        {
+            "fileid": 6335,
+            "name": "a5d4fc08-4c22-41c7-ac70-e4ba6cbbaa95.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44209/file/a5d4fc08-4c22-41c7-ac70-e4ba6cbbaa95.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3758,
+            "caseId": 3616,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3758,
+            "caseId": 3616,
+            "caseStatus": true,
+            "registerDate": 1376323200000,
+            "officialDocNo": "文資局物字第 10220091271號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

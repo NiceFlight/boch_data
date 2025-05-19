@@ -1,0 +1,177 @@
+{
+    "id": 822,
+    "caseId": "20160129000001",
+    "count": 5934,
+    "shareCount": 21,
+    "representImage": 168109,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/1f28e85f-7c9f-40a4-a64e-4aacd1f7680d/_代表圖像_朝北醫院_20220601_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/1f28e85f-7c9f-40a4-a64e-4aacd1f7680d/_代表圖像_朝北醫院_20220601.jpeg",
+        "name": "_代表圖像_朝北醫院_20220601"
+    },
+    "caseName": "朝北醫院",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "1.李朝北為1893年出生，1919年畢業於臺灣總督府醫學院(台大醫學院前身)，1936-1939年曾任臺北州臺北市會議會為日據時期第一屆民選議員。\n2.1921年在貴陽街、西園路口開設朝北醫院，曾兼職林本源博愛醫院院長，從醫50多年。看診科別包含內科、兒科、耳鼻科、皮膚科、婦產科、外傷縫合等。\n3.朝北醫院，為日據時期萬華著名的醫院之一，在當年有「北仁安南朝北」的說法。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 140806,
+            "name": "a86b5527-87bc-4ec4-91fc-ae1ae9eab22a.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/5387afb3-21c6-461d-ad0c-5e86bdfbccf2/a86b5527-87bc-4ec4-91fc-ae1ae9eab22a.pdf"
+        },
+        {
+            "fileid": 140807,
+            "name": "3._1050129指定市定古蹟公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/01ab2fab-2875-42d0-a07b-5245d399d9e9/3._1050129指定市定古蹟公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "重要歷史事件或人物之關係",
+        "具建築史上之意義，有再利用之價值及潛力者"
+    ],
+    "registerReason": "一、朝北醫院位在古蕃薯市街（貴陽街）與後街（西園路）口，地處艋舺發展樞紐，深具地方發展意義。\r\n二、建物轉角立面泥塑裝飾極具特色，尤以垂花飾最為特殊。二樓木作隔間尚存，建物格局可見原有醫院舊貌。\r\n三、朝北醫院創辦人李朝北為日據時期艋舺名醫，其祖父李三朋從三峽移居艋舺從商經營安記行，見證西園路地區之發展。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 51020,
+            "name": "地籍位置圖與都市計畫土地使用分區圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2018-10-24/9363e455-0760-402c-b232-f4dfdd19da29/地籍位置圖與都市計畫土地使用分區圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市萬華區直興段三小段138、134、135地號",
+    "buildingFeatures": "立面之飾材及泥塑、洗石子裝飾極為優秀，特別是有吊筒式的裝飾。",
+    "inHouseFeatures": "二樓木作隔間尚存，原有格局尚可見原有醫院舊貌。",
+    "buildingUsage": "貴陽街二段181號、西園街一段41-6號閒置中，西園路一段41-5號出租木雕工作室中。",
+    "buildingActualState": "構造為磚造，漏水嚴重，屋頂木料已腐朽。",
+    "buildingKeyMaintainItem": "防火及地震。",
+    "bulkTransfer": 2,
+    "isOpenDownload": false,
+    "longitude": 121.49999898944738,
+    "latitude": 25.04022848620483,
+    "representImageSource": " 臺北市文化局",
+    "landScope": "臺北市萬華區直興段三小段138、134、135地號範圍",
+    "selfCoverage": "直興段三小段45、88、89建號",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "id": 82061,
+            "caseId": 822,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "address": "貴陽街二段181號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "id": 82062,
+            "caseId": 822,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "address": "西園路一段41-5號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "id": 82063,
+            "caseId": 822,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "address": "西園路一段41-6號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "landNoName": "直興段三小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 90738,
+            "caseId": 822,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "landNoId": 169,
+            "landSerialNo": "0138-0000",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "coverageId": 2,
+            "area": "111平方公尺",
+            "note": "重測前:歡慈段2小段36-10地號",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "landNoName": "直興段三小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 90739,
+            "caseId": 822,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "landNoId": 169,
+            "landSerialNo": "0134-0000",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "coverageId": 2,
+            "area": "37平方公尺",
+            "note": "重測前:歡慈段2小段36-3地號",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "landNoName": "直興段三小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 90740,
+            "caseId": 822,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "landNoId": 169,
+            "landSerialNo": "0135-0000",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "coverageId": 2,
+            "area": "40平方公尺",
+            "note": "重測前:歡慈段2小段36-9地號",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 88195,
+            "caseId": 822,
+            "caseStatus": true,
+            "registerDate": 1453996800000,
+            "officialDocNo": "北市文化文資字第10530341000號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false,
+    "pastHistorySource": "〈中央研究院台灣總督府職員錄系統〉等"
+}

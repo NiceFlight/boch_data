@@ -1,0 +1,101 @@
+{
+    "id": 4499,
+    "caseId": "20170116000004",
+    "count": 219,
+    "shareCount": 0,
+    "representImage": 7573,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133879/photo/清康熙琺瑯彩瓷紅地罌粟花碗_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133879/photo/清康熙琺瑯彩瓷紅地罌粟花碗.jpg",
+        "name": "清康熙琺瑯彩瓷紅地罌粟花碗"
+    },
+    "caseName": "清康熙琺瑯彩瓷紅地罌粟花碗",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1484496000000,
+    "officialDocNo": "中華民國106年1月16日文授資局物字第10630006011號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "清宮造辦處生產的琺瑯彩瓷，是盛清代表工藝之一。製作精美，且傳世數量相當稀少，紋飾、題材縱有成對，亦無一相同，乾隆時曾降旨整批珍藏。\n康熙朝是琺瑯彩瓷發展的創始階段，為後世奠定良好基礎。此作碗內無紋，外壁施紅地，並渲染彩繪藍、黃、紫、朱各色罌粟花以及菊花，器底有「康熙御製」款。繪製細膩，紋飾生動別緻，為康熙琺瑯彩瓷佳作。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第3、5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故瓷014137",
+    "amount": 1,
+    "descAge": "清　康熙",
+    "descSize": "高5.8公分 、口徑11.1公分 、底徑4.6公分 ",
+    "descMaterial": "琺瑯彩瓷",
+    "reserveStatusDesc": "這件碗斂口，深壁，矮圈足，胎壁較厚。碗內無紋，外壁施紅地，並以渲染方式彩繪藍、黃、紫、朱各色罌粟花以及菊花，器底帶「康熙御製」二行藍料宋體字雙方框款。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 148353,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-22/a9d6f845-7ed2-48ce-ab8e-d8c84e13f5c4/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69445,
+            "caseId": 4499,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73607,
+            "caseId": 4499,
+            "caseStatus": true,
+            "registerDate": 1484496000000,
+            "officialDocNo": "中華民國106年1月16日文授資局物字第10630006011號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,125 @@
+{
+    "id": 16294,
+    "caseId": "20181022000002",
+    "count": 2788,
+    "shareCount": 4,
+    "representImage": 168073,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-06-16/e13869ef-1ebd-455b-af40-969bd3461cd5/_220524_109_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-06-16/e13869ef-1ebd-455b-af40-969bd3461cd5/_220524_109.jpg",
+        "name": "_220524_109"
+    },
+    "caseName": "中港福德宮古井",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1539676520102,
+    "officialDocNo": "府文資第1070012518B號公告",
+    "documents": [
+        {
+            "fileid": 138490,
+            "name": "歷47-中港福德宮古井-公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-09-15/40dda0a3-aaeb-43b4-960b-548a74e71c39/歷47-中港福德宮古井-公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1.該古井的建築形式呈現了三個時期的作法，可見卵石及至少二次磚材的整修，反映台灣地區古井建築演進，見證傳統古井砌築之技術，具歷史文化建築之價值。\n2.該井見證中港聚落變遷、紀錄庶民生活，與當地居民生活史相關，且與地方發展關係密切，具歷史文化之價值。\n",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第2、3款",
+    "govInstitutionCode": "360",
+    "govInstitutionName": "苗栗縣政府",
+    "belongCityId": 8,
+    "belongCityName": "苗栗縣",
+    "belongDistName": "竹南鎮",
+    "govInstitution": "苗栗縣政府文化觀光局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "037-352961#712",
+    "govDeptAddress": "苗栗縣苗栗市自治路50號",
+    "cadasters": [
+        {
+            "fileid": 139899,
+            "name": "歷47-中港福德宮古井-航照圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-09-29/42556bab-f6c2-4027-a03e-05ed474adc22/歷47-中港福德宮古井-航照圖.jpg"
+        },
+        {
+            "fileid": 139900,
+            "name": "歷47-中港福德宮古井-地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-09-29/c19187da-0dbf-4000-b0a9-ae7916e16af8/歷47-中港福德宮古井-地籍圖.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "都市土地",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "苗栗縣竹南鎮新生段1065地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "苗栗縣竹南鎮中港里街仔頭3號",
+    "isOpenVisit": true,
+    "isOpenDownload": false,
+    "longitude": 120.8530773,
+    "latitude": 24.6914694,
+    "representImageSource": "苗栗縣政府文化觀光局",
+    "landScope": "苗栗縣竹南鎮新生段1065地號地號之範圍約為2.544m²，涵蓋以古井圓心向外90公分為半徑的圓形範圍之面積",
+    "selfCoverage": "苗栗縣竹南鎮中港里街仔頭3號，中港福德宮右側",
+    "addresses": [
+        {
+            "cityName": "苗栗縣",
+            "distName": "竹南鎮",
+            "id": 113513,
+            "caseId": 16294,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 801,
+            "address": "中港里街仔頭3號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "苗栗縣",
+            "distName": "竹南鎮",
+            "landNoName": "新生段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 155188,
+            "caseId": 16294,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 801,
+            "landNoId": 9388,
+            "landSerialNo": "1065-0000",
+            "landownership": 2,
+            "cityLandUseTypeId": 1,
+            "area": "",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 123515,
+            "caseId": 16294,
+            "caseStatus": true,
+            "registerDate": 1539676520102,
+            "officialDocNo": "府文資第1070012518B號公告",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.86658978590064,24.68279083153514],[120.86648138520279,24.68277237432462],[120.86639426857386,24.68275764408193],[120.86623881500589,24.682750801843802],[120.86623419941822,24.682789580726954],[120.86636153830341,24.682792236601358],[120.86638715438924,24.682811788581777],[120.86659455891333,24.68284173354672],[120.86658978590064,24.68279083153514],[120.86658978590064,24.68279083153514]]]]},\"properties\":{\"envelope\":{\"left\":\"120.86623419941822\",\"top\":\"24.682750801843802\",\"right\":\"120.86659455891333\",\"bottom\":\"24.68284173354672\"},\"landLot\":\"苗栗縣竹南鎮新生段1065-0000\"}}],\"notfound\":[]}]",
+    "selfCoverageJson": "{\"type\": \"FeatureCollection\",\"features\": [{\"type\": \"Feature\",\"properties\": \"{}\",\"geometry\": {\"type\": \"Polygon\",\"coordinates\": [[[120.86636430410567,24.68278173826648],[120.86637234717156,24.68278173826648],[120.86637770921548,24.68276224972944],[120.86635894206174,24.68277443006545],[120.86638039023744,24.68279391860058],[120.86636430410567,24.68278173826648]]]}},{\"type\": \"Feature\",\"properties\": \"{}\",\"geometry\": {\"type\": \"Polygon\",\"coordinates\": [[[120.86637483951988,24.682772679738935]]]}}]}",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": "中港福德宮古井-清冊"
+}

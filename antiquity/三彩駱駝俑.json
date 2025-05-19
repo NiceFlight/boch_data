@@ -1,0 +1,102 @@
+{
+    "id": 3331,
+    "caseId": "20101215000005",
+    "count": 230,
+    "shareCount": 0,
+    "representImage": 5800,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32548/photo/20e98887-30af-466c-842e-03a91528ca08_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32548/photo/20e98887-30af-466c-842e-03a91528ca08.jpg",
+        "name": "20e98887-30af-466c-842e-03a91528ca08"
+    },
+    "caseName": "三彩駱駝俑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1292342400000,
+    "officialDocNo": "會授資籌二字第09920152381號",
+    "judgeCriteria": [
+        "具有史事重要淵源",
+        "具有重要之時代特色、技術及流派",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本件文物曾為河南博物院收藏，可溯及其考古脈絡；文物器形大，造型生動，駝鞍裝飾性強，具有時代特色。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第二、三、六款、第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部文化資產局",
+    "govDeptName": "古物科",
+    "govDeptPhone": "0422295848#133",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "宙字20號(h0000016）",
+    "amount": 1,
+    "notes": "",
+    "descAge": "盛唐",
+    "descSize": "高82公分、身長66.5公分、身寛23.5公分",
+    "descMaterial": "陶",
+    "reserveStatusDesc": "1 本件充分反映大唐盛時的多元文化形態。\r\n2 造型方面，駱駝的外觀和比率正確，生動又逼真。  是不可多得的作品。",
+    "pastHistorySource": 7,
+    "pastHistorySourceNotes": "河南博物院前收藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 15833,
+            "name": "公告公文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2017-09-13/0256784a-8273-4c7b-bf60-3dc9532c0320/公告公文.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.51984879730222,
+    "latitude": 25.032456306173696,
+    "representImageSource": "國立歷史博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立歷史博物館",
+            "keepName": "國立歷史博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立歷史博物館",
+            "keepAddressNew": "100台北市中正區襄陽路2號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "徐州路21號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 69695,
+            "caseId": 3331,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 73874,
+            "caseId": 3331,
+            "caseStatus": true,
+            "registerDate": 1292342400000,
+            "officialDocNo": "會授資籌二字第09920152381號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

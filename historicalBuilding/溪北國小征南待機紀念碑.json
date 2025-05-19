@@ -1,0 +1,102 @@
+{
+    "id": 1763,
+    "caseId": "20090617000002",
+    "count": 1847,
+    "shareCount": 0,
+    "representImage": 3528,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/2435/photo/P032屏東縣溪北國小征南待機紀念碑(歷建)(1)_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/2435/photo/P032屏東縣溪北國小征南待機紀念碑(歷建)(1).JPG",
+        "name": "P032屏東縣溪北國小征南待機紀念碑(歷建)(1)"
+    },
+    "caseName": "溪北國小征南待機紀念碑",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "根據鄉中耆老回憶表示，日治末期，溪洲國民學校曾駐紮日軍，並徵調臺灣子弟準備赴南洋作戰；根據這種情形推論，這塊碑碣有可能是部隊成員集資雕刻此碑石以為紀念。碑文為：征南待機記念－步兵第四拾三聯隊第一大隊。",
+    "assetsTypeNames": "碑碣",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1245208602000,
+    "officialDocNo": "屏府文資字 0980142636號",
+    "documents": [
+        {
+            "fileid": 153791,
+            "name": "公告函-屏府文資字第0980142636號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-03-03/0d072721-858d-4ab5-987d-84940b93f4f0/公告函-屏府文資字第0980142636號.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "目前在台灣類似個案慎稀少，具高度歷史性及建築工藝性；原神社遺構及日軍征南待機紀念碑亦具歷史價值，宜加以納入；見證日治時期之教育制度；為日治時期學校建築之經典；為台灣學校建築研究史上之珍貴個案。",
+    "lawsReference": "文化資產保存法第3、12及15條規定辦理\n",
+    "govInstitutionCode": "900",
+    "govInstitutionName": "屏東縣政府",
+    "belongCityId": 20,
+    "belongCityName": "屏東縣",
+    "belongDistName": "南州鄉",
+    "govInstitution": "屏東縣政府",
+    "govDeptName": "屏東縣文化資產保護所\t",
+    "govDeptPhone": "08-7210234",
+    "govDeptAddress": "屏東縣屏東市菸廠路1號",
+    "cadasters": [
+        {
+            "fileid": 153792,
+            "name": "溪北小學征南待機紀念碑地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-03-03/f35feb42-dc88-4d6e-8d84-81171e097f34/溪北小學征南待機紀念碑地籍圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 5,
+    "cityLandUseTypeName": "文教區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "南糖段182號",
+    "buildingFeatures": "屬天然石塊（大小約103CM*70.3CM*42.5CM）。\t\t\t\t\t\n",
+    "inHouseFeatures": "無室內空間。\t\t\t\t\t\n",
+    "buildingUsage": "供民眾參觀。",
+    "buildingActualState": "現況為一天然石塊上鏤刻字體之碑石，碑文為：征南待機紀念－步兵第四拾三聯隊第一大隊。現場與另七塊原石排列成環狀，中心有一疑似碑石基座之構造物。",
+    "buildingKeyMaintainItem": "一般而言，紀念碑甚少以躺平方式安置。根據現場研判，紀念碑可能是翻落平躺之情況，是否須扶正，需進一步研究探討後為之。",
+    "bulkTransfer": 0,
+    "belongAddress": "屏東縣南州鄉溪北村仁里路102號",
+    "isOpenVisit": true,
+    "openUpTime": "配合校園開放時間(位於校園內)",
+    "isCharge": false,
+    "isOpenDownload": true,
+    "longitude": 120.51125,
+    "latitude": 22.496167,
+    "representImageSource": "屏東縣政府\t\t\t\t\t",
+    "landScope": "屏東縣南州鄉南糖段182地號，地號面積25,406.88平方公尺",
+    "selfCoverage": "屏東縣南州鄉溪北村仁里路102號\t\t\t\t\t\n",
+    "addresses": [
+        {
+            "cityName": "屏東縣",
+            "distName": "南州鄉",
+            "id": 78648,
+            "caseId": 1763,
+            "caseStatus": true,
+            "cityId": 20,
+            "distId": 2020,
+            "address": "溪北村仁里路102號"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 84376,
+            "caseId": 1763,
+            "caseStatus": true,
+            "registerDate": 1245208602000,
+            "officialDocNo": "屏府文資字第0980142636號",
+            "classificationId": 1
+        }
+    ],
+    "openVisitType": "部分開放參觀",
+    "pastHistorySource": "歷建清冊\t\t\t\t\t"
+}

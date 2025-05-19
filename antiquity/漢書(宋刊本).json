@@ -1,0 +1,105 @@
+{
+    "id": 3446,
+    "caseId": "20131219000070",
+    "count": 36,
+    "shareCount": 0,
+    "representImage": 6015,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7201/photo/漢書(宋刊本)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7201/photo/漢書(宋刊本).jpg",
+        "name": "漢書(宋刊本)"
+    },
+    "caseName": "漢書(宋刊本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1387382400000,
+    "officialDocNo": "文資局物字第 10220148851號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "宋紹興至乾道間(1131-1173)刊宋元遞修本。\r\n撰者班固(32-92)，字孟堅，扶風安陵人，史學家班彪之子。東漢史學家、文學家。注者顏師古(581-645)，字籀，京兆萬年人。顏之推之孫，唐代經學家、歷史學家。\r\n《漢書》為中國第一部紀傳體斷代史，記載自劉邦為漢王元年(西元前206)，至淮陽王更始元年(23)，以西漢一朝為主，並含括四年楚漢之爭及十五年王莽改制，共二百三十年史事。全書包括紀十二篇，表八篇，志十篇，傳七十篇，共一百篇。館藏此書存一卷(書中間記書名卷第：前漢傳三十五)。宋紹興(1131-1162)中分命兩淮江東轉運司刻三史版，此或即其一，而完成於孝宗朝(1163-1189)。就刻工推定，亦知應是刻於杭州地區。\r\n宋版古籍，罕見稀有，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號01366",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋紹興至乾道間(1131-1169)",
+    "descCreator": "漢班固撰，唐顏師古注",
+    "descSize": "半葉9行，版匡23.6x18公分",
+    "descMaterial": "紙質刊本",
+    "reserveStatusDesc": "存一卷(前漢傳三十五)",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "無虫蛀，經修裱，保存狀況良好。\n",
+    "documents": [
+        {
+            "fileid": 6016,
+            "name": "639aab66-7bf2-4b30-bddd-5b16302b1829.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44060/file/639aab66-7bf2-4b30-bddd-5b16302b1829.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3588,
+            "caseId": 3446,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3588,
+            "caseId": 3446,
+            "caseStatus": true,
+            "registerDate": 1387382400000,
+            "officialDocNo": "文資局物字第 10220148851號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

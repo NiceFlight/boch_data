@@ -1,0 +1,120 @@
+{
+    "id": 17814,
+    "caseId": "20210704000001",
+    "count": 2170,
+    "shareCount": 0,
+    "representImage": 147411,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-13/bc22f8bd-83e0-47fa-bfbb-6c096455b791/DJI_0149_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-13/bc22f8bd-83e0-47fa-bfbb-6c096455b791/DJI_0149.jpg",
+        "name": "DJI_0149"
+    },
+    "caseName": "原雲林縣警察局",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "原雲林縣警察局前身為斗六區署及警察所，而建築的兩旁分別是日治時期的斗六郡役所以及斗六街役場。",
+    "assetsTypeNames": "衙署",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1584352496354,
+    "officialDocNo": "府文資二字第1093801760B號",
+    "documents": [
+        {
+            "fileid": 122560,
+            "name": "中華民國108年01月023日 府文資二字第1083800038B號 雲林縣歷史建築原雲林縣警察局.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-07-03/5d0ac05d-fefe-4178-be2f-3b80e059d869/中華民國108年01月023日 府文資二字第1083800038B號 雲林縣歷史建築原雲林縣警察局.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "(一)表現地域風貌或民間藝術特色者：前棟磚造與木構造作法，反映二戰後衙署建築特色。\n(二)具建築史或技術史之價值者：前棟為二戰後警政廳舍的建築原型代表。\n(三)具地區性建造物類型之特色者：見證斗六地區警政發展沿革。\n",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "belongCityId": 13,
+    "belongCityName": "雲林縣",
+    "belongDistName": "北港鎮",
+    "govInstitution": "雲林縣政府",
+    "govDeptName": "文化觀光處",
+    "govDeptPhone": " 05-5523218",
+    "govDeptAddress": "雲林縣斗六市大學路3段310號",
+    "cadasters": [
+        {
+            "fileid": 122561,
+            "name": "73.原雲林縣警察局地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-07-03/81b1e59b-fb95-4217-a791-563a3e197713/73.原雲林縣警察局地籍圖.pdf"
+        },
+        {
+            "fileid": 122562,
+            "name": "73.原雲林縣警察局地籍資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-07-03/f5f1d558-f4cb-40df-aef2-7ce74ae2d436/73.原雲林縣警察局地籍資料.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 5,
+    "cityLandUseTypeName": "文教區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "雲林縣北港鎮北港段1394地號",
+    "bulkTransfer": 0,
+    "belongAddress": "雲林縣北港鎮民政路2、6、12、14號。",
+    "isOpenVisit": false,
+    "openUpTime": "原功能使用中",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.540377,
+    "latitude": 23.707789,
+    "representImageSource": "雲林縣政府",
+    "landScope": "前棟建物本體及定著土地面積為335. 77平方公尺，建物定著土地為雲林縣斗六市斗六段662-79地號 。",
+    "selfCoverage": "前棟建物本體及定著土地面積為335. 77平方公尺",
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "斗六市",
+            "id": 86450,
+            "caseId": 17814,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1310,
+            "address": "中山路88號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "雲林縣",
+            "distName": "斗六市",
+            "landNoName": "斗六段",
+            "id": 101021,
+            "caseId": 17814,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1310,
+            "landNoId": 11535,
+            "landSerialNo": "662-79",
+            "landownership": 1,
+            "area": "2445",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": "分割自：６６２－２地號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 93013,
+            "caseId": 17814,
+            "caseStatus": true,
+            "registerDate": 1548172800000,
+            "officialDocNo": "府文資二字第1083800038B號 ",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.54011669082084,23.70821380025938],[120.54032151614044,23.708115465615723],[120.54062770676029,23.707969905477203],[120.54051239509478,23.707788649041724],[120.54040322765688,23.70761940494813],[120.5402482766721,23.707703424080233],[120.54020590678337,23.70772624724333],[120.54016511651906,23.707748288599294],[120.54012226620725,23.707771075095604],[120.54007936312297,23.707793245595862],[120.54003765846667,23.707816513145275],[120.53999530006047,23.707839676704126],[120.53998003266334,23.70784792873411],[120.53999070225352,23.707866105676356],[120.5399748143965,23.707875390667652],[120.53999500145424,23.707913380925017],[120.54001500555125,23.707949575527103],[120.5400219630663,23.707963079388072],[120.53997619561873,23.707987702846797],[120.54011669082084,23.70821380025938],[120.54011669082084,23.70821380025938]]]]},\"properties\":{\"envelope\":{\"left\":\"120.5399748143965\",\"top\":\"23.707619404948129\",\"right\":\"120.54062770676029\",\"bottom\":\"23.708213800259379\"},\"landLot\":\"雲林縣斗六市斗六段662-79\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": "《原雲林縣警察局》，文化部國家文化記憶庫"
+}

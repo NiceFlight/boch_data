@@ -1,0 +1,87 @@
+{
+    "id": 20013,
+    "caseId": "20211115000001",
+    "count": 168,
+    "shareCount": 5,
+    "representImage": 150548,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-01-18/48efab0a-b8e3-47af-9915-4c5435be6428/龍鳳獅陣_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-01-18/48efab0a-b8e3-47af-9915-4c5435be6428/龍鳳獅陣.jpeg",
+        "name": "龍鳳獅陣"
+    },
+    "caseName": "龍鳳獅陣",
+    "classifyCode": "4.1",
+    "classifyName": "傳統表演藝術",
+    "assetsTypeNames": "雜技",
+    "assetsClassifyCode": "4.1.1",
+    "assetsClassifyName": "傳統表演藝術",
+    "documents": [
+        {
+            "fileid": 144748,
+            "name": "20210511101546.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-15/34815ebd-ac89-4329-b29f-3281cbc5e571/20210511101546.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具有藝術價值",
+        "具時代或流派特色",
+        "顯著反映族群或地方之審美觀"
+    ],
+    "registerReason": "1.具有藝術價值：具龍鳳獅陣傳統藝術價值。\n2.具時代或流派特色：具北港、嘉義地區龍鳳獅陣門派特色。\n3.顯著反映族群或地方之審美觀：具北港、嘉義地區龍鳳獅陣表演藝術之美。",
+    "lawsReference": "<<傳統表演藝術登錄認定及廢止審查辦法>>第2條第1、2、3款",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "govInstitution": "雲林縣政府",
+    "govDeptName": "文化觀光處",
+    "govDeptPhone": "05-5523218",
+    "govDeptAddress": "雲林縣斗六巿雲林路二段310號",
+    "historyDevelopment": "北港及嘉義地區於清領末期就有傳承，較早見於北港迎媽祖大正15年路關，大正至昭和年間日日新赧，昭和4年畫家施玉山畫作，嘉義城隍廟駕前昭和11年台灣新報，台南大天后宮昭和11年［海靜波恬］匾等。台灣早年於雲嘉南地區最重要的一種舞獅表演方式，演出方式有別於其它地區單一隻獅子演出，常採用多隻獅、獅鬼、戟球等方式 演出，而套路分舊路及新路兩種，演出時如同小戲但演出者需踩踏丶四門丶五行、七星、八卦丶踏蓮花、四點金丶日月角、內外巡城、追星趕斗、大刀戲獅、單刀殺獅、祥獅踩旗、牌帶殺獅、武術隊練、牽團等...\n在台南地區為單獅搭配龍鳳演出，多獅演出方式已相當稀有，於民國79年民藝華會及84年鹿港全國文藝季演出時，採訪記者，有瀕臨失傳危機，民國70年代吳炎林至學校推廣舞獅民民國80年代吳登興到學校地區推廣龍鳳獅，希望喚醒大家對龍鳳獅陣表演藝術的重視。龍鳳獅有別於他舞獅方式，已獲全國各項比賽認為是台灣獅的一種特色，並於部分全國競賽及雲林縣（春丶秋）季縣長盃評定獨立比賽項目，逐漸其特色性。",
+    "preservers": [
+        {
+            "id": 20223,
+            "type": "個人",
+            "caseName": "吳登興",
+            "cityName": "雲林縣",
+            "distName": "北港鎮",
+            "caseArtistEntities": [],
+            "representImage": 144750,
+            "patentNo": "1083813391",
+            "judgeCriteria": [
+                "熟知並能正確體現該登錄項目之知識、技藝與文化表現形式，並具代表性",
+                "具該登錄項目之傳習能力與意願",
+                "在文化脈絡下為適當者"
+            ],
+            "registerReason": "1.具有藝術價值：具龍鳳獅陣傳統藝術價值。\n2.具時代或流派特色：具北港、嘉義地區龍鳳獅陣門派特色。\n3.顯著反映族群或地方之審美觀：具北港、嘉義地區龍鳳獅陣表演藝術之美。",
+            "lawsReference": "<<傳統表演藝術登錄認定及廢止審查辦法>>第4條第1、2、3款",
+            "isOpenDownload": false,
+            "representImageSource": "雲林縣政府",
+            "contactorIsOpen": false
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "雲林縣政府",
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "北港鎮",
+            "id": 71010,
+            "caseId": 20013,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1316
+        }
+    ],
+    "announces": [
+        {
+            "id": 75320,
+            "caseId": 20013,
+            "caseStatus": true,
+            "registerDate": 1574267288475,
+            "officialDocNo": "府文資二字第1083813391D號",
+            "classificationId": 1
+        }
+    ]
+}

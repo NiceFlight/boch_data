@@ -1,0 +1,109 @@
+{
+    "id": 2904,
+    "caseId": "20131225000007",
+    "count": 589,
+    "shareCount": 1,
+    "representImage": 5275,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7132/photo/節孝周氏絹之墓碑_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7132/photo/節孝周氏絹之墓碑.jpg",
+        "name": "節孝周氏絹之墓碑"
+    },
+    "caseName": "節孝周氏絹之墓碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-其他",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1387900800000,
+    "officialDocNo": "北市文化二字第10232100100號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.清代臺灣節婦受旌表並立坊者並不多，相關墓碑仍保存至今者更屬少數，具備稀有性。\r\n2.墓碑及其主文，可作為周氏絹受旌建坊，有關之節孝誥書(已散失)與捷報(已毀損)之重要證物。\r\n3.周氏絹之墓碑可與周氏節孝坊，同時見證清代節孝旌表，以及北投陳姓家族之開發歷史。",
+    "lawsReference": "1.文化資產保存法第65條。\r\n2.古物分級登錄指定及廢止審查辦法第2、5、7條。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "北投區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "研究員",
+    "govDeptPhone": "02-23115355#20",
+    "govDeptAddress": "臺北市萬華區中華路1段174-1號",
+    "reservationCode": "無",
+    "keepNameId": 17,
+    "keepName": "陳浩泰先生",
+    "keepNameNew": 17,
+    "keepAddressNew": "臺北市北投區臺北市北投區溫泉路82號之六4樓",
+    "saveSpaceId": 16,
+    "saveSpaceOther": "陽明山第一公墓",
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "年代：清朝道光30年(1850年)。材質：觀音石。\r\n形狀：長方形。尺寸：42㎝(寬) * 8㎝(厚) * 108㎝(高)。\r\n其他：碑文為明體字。",
+    "descAge": "道光30年",
+    "descSize": "42㎝(寬) * 8㎝(厚) * 108㎝(高)",
+    "descMaterial": "觀音石",
+    "reserveStatusDesc": "周絹墓碑可與周氏節孝坊，同時見證清代節孝旌表與北投陳姓家族之開發歷史，具有史事淵源、歷史意義，及稀有性。",
+    "pastHistorySource": 7,
+    "pastHistorySourceNotes": "墓碑",
+    "saveEnvironment": 3,
+    "reserveStatus": "105年移至陽明山第一公墓家族墓園存放(第15-1區4排附近)，保存現狀尚良好。",
+    "documents": [
+        {
+            "fileid": 5276,
+            "name": "da242c0b-2b73-4303-b7bc-a0ca6988f652.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44473/file/da242c0b-2b73-4303-b7bc-a0ca6988f652.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "陳浩泰先生",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺北市北投區臺北市北投區溫泉路82號之六4樓",
+            "saveSpaceOther": "陽明山第一公墓",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "id": 3040,
+            "caseId": 2904,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109
+        }
+    ],
+    "announces": [
+        {
+            "id": 3040,
+            "caseId": 2904,
+            "caseStatus": true,
+            "registerDate": 1387900800000,
+            "officialDocNo": "北市文化二字第10232100100號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

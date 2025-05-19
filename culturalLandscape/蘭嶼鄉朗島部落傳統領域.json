@@ -1,0 +1,78 @@
+{
+    "id": 2344,
+    "caseId": "20130123000002",
+    "count": 3374,
+    "shareCount": 1,
+    "representImage": 125483,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-20/ff553359-42e1-4d08-ab88-bd40b76a5040/文化景觀3-朗島部落傳統領域-永保_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-20/ff553359-42e1-4d08-ab88-bd40b76a5040/文化景觀3-朗島部落傳統領域-永保.jpg",
+        "name": "文化景觀3-朗島部落傳統領域-永保"
+    },
+    "caseName": "蘭嶼鄉朗島部落傳統領域",
+    "classifyCode": "3.1",
+    "classifyName": "文化景觀",
+    "assetsTypeNames": "農林漁牧景觀,其他人類與自然互動而形成之景觀",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "3.1.1",
+    "assetsClassifyName": "文化景觀",
+    "registerDate": 1358903818000,
+    "officialDocNo": "府文資字第 1020016844 號",
+    "documents": [
+        {
+            "fileid": 112817,
+            "name": "臺東縣文化景觀公告文-03蘭嶼鄉朗島部落傳統領域102年登錄公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-23/99390432-790b-4f84-b097-4da545d2edd8/臺東縣文化景觀公告文-03蘭嶼鄉朗島部落傳統領域102年登錄公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現人類與自然互動具有文化意義"
+    ],
+    "registerReason": "1.屬農林漁牧景觀及人類與自然互動而形成之景觀類，部落傳統領域完整。\n2.地理環境完整，尚未有大量人工開發，具自然地景完整特色。\n",
+    "lawsReference": "1.文化資產法第54條及文化景觀登錄及廢止審查辦法第3條規定辦理。\n2.本府101年11月27日臺東縣文化資產審議委員會決議辦理。\n",
+    "govInstitutionCode": "950",
+    "govInstitutionName": "臺東縣政府",
+    "belongCityId": 22,
+    "belongCityName": "臺東縣",
+    "belongDistName": "蘭嶼鄉",
+    "govInstitution": "臺東縣政府",
+    "govDeptName": "文化處文化資產科",
+    "govDeptPhone": "089-350129",
+    "govDeptAddress": "臺東市南京路25號",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "historyValue": "臺東縣蘭嶼鄉朗島部落位於東經121度5分至北緯22度間，其最初的發展與雅美族人的生活習慣、拼板船與海洋息息相關，因此在部落外側之天然海灣成為朗島部落舉行重大祭儀的主要地方，而沿岸5海浬之部落自用漁場，是人類與自然互動而形成之景觀類，且部落傳統領域完整。",
+    "briefDescribe": "朗島部落最初的發展與雅美（達悟）族人的生活習慣，與拼板船、海洋息息相關。部落建於山麓緩坡處，房屋依地勢高低分區建立。水芋田在住家外圍，俗稱綠色的冰箱。後山為部落自有林區，是建屋及造船取材的來源。部落外側有天然海灣，從海邊到海底的生物、取之不盡，俗稱藍色的冰箱。此海灣也是朗島部落，舉行重大祭儀的地方。",
+    "belongAddress": "臺東縣蘭嶼鄉朗島村(陸域與海域部份)",
+    "isOpenDownload": true,
+    "longitude": 121.567977,
+    "latitude": 22.063768,
+    "representImageSource": "109-110年度臺東縣文化資產個案資料同步更新維護計畫-姜柷山提供",
+    "landScope": "朗島部落之文化景觀劃定應包含其居住地與其他生活場域，及沿岸5海浬之部落自用漁場，屬農林漁牧景觀及人類與自然互動而形成之景觀類，部落傳統領域完整。",
+    "addresses": [
+        {
+            "cityName": "臺東縣",
+            "distName": "蘭嶼鄉",
+            "id": 79077,
+            "caseId": 2344,
+            "caseStatus": true,
+            "cityId": 22,
+            "distId": 2203,
+            "address": "臺東縣蘭嶼鄉朗島村(陸域與海域部份)"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 84871,
+            "caseId": 2344,
+            "caseStatus": true,
+            "registerDate": 1358903818000,
+            "officialDocNo": "府文資字第 1020016844 號",
+            "classificationId": 1
+        }
+    ]
+}

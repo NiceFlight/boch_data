@@ -1,0 +1,98 @@
+{
+    "id": 20275,
+    "caseId": "20211215000016",
+    "count": 86,
+    "shareCount": 0,
+    "representImage": 147619,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-15/c956d43e-832b-4af4-a2b1-48691f374551/025_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-15/c956d43e-832b-4af4-a2b1-48691f374551/025.jpg",
+        "name": "025"
+    },
+    "caseName": "清王鑑溪山深秀",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "王鑑為清初四王之一，引領清代宮廷山水畫風二百餘年。本件為其晚年精品，取材自（仿）宋范寬谿山行旅圖，此幅青綠重彩，設色濃厚，山頭點染，樓閣隱於山間，溪水潺潺，表現山水之勢。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、3、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174之1號",
+    "reservationCode": "故畫000689",
+    "amount": 1,
+    "descAge": "清",
+    "descSize": "161.7x62.5公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "王鑑（1598-1677），江蘇太倉人。字圓照，號湘碧，自稱染香庵主。為王世貞（1526-1590）之孫，曾官至廉州知府。精山水，亦通畫理，被譽為清初「四王」之一。\n本幅為全景式山水，以青綠設色畫疊嶂溪澗，山腰並有煙嵐瀰漫，一派蒼鬱之氣，溢乎絹素。右上方自題：「倣范華原」，然筆墨工細，與范寬（約950-1031間）的蒼勁用筆不同。\n",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況良好。",
+    "documents": [
+        {
+            "fileid": 147617,
+            "name": "110年12月9日北市獻編字第1103004564號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-15/130af869-1423-4584-9954-42c808c0c95e/110年12月9日北市獻編字第1103004564號公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.549499,
+    "latitude": 25.10037,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69156,
+            "caseId": 20275,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73280,
+            "caseId": 20275,
+            "caseStatus": true,
+            "registerDate": 1639022854210,
+            "officialDocNo": "北市獻編字第1103004564號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

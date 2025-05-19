@@ -1,0 +1,118 @@
+{
+    "id": 1898,
+    "caseId": "20020923000007",
+    "count": 1814,
+    "shareCount": 0,
+    "representImage": 149771,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-01-07/70f536fd-a358-469d-a4d7-1d85cfa8ffc4/3602332554188_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-01-07/70f536fd-a358-469d-a4d7-1d85cfa8ffc4/3602332554188.jpg",
+        "name": "3602332554188"
+    },
+    "caseName": "光復鄉北富村富田古井",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "此古井約建於大正5年(1916)，傳說大巴塱先祖拉鼓娃階層合力挖掘古井，供應北富村居民日常飲用水，為太巴塱部落八大古井之一，後因自來水方便而廢棄不用。古井深達12尺，以石頭糯米砌，十分珍貴。民國88年(1999)，富田村拉度倫階層成員周添丁、黃仁義等15位阿美族人發起修復，妥善維護並立碑紀念。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "其他歷史遺蹟",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1032765613000,
+    "officialDocNo": "府文推字第09105800790 號",
+    "documents": [
+        {
+            "fileid": 152687,
+            "name": "光復鄉北富村富田古井指定為歷史建築公告910923.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-02-17/de329c43-9a68-47f9-aacc-5f68c9d406e5/光復鄉北富村富田古井指定為歷史建築公告910923.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "本案建於1916年，古井深達12公尺，以石頭糯米砌成，村民對此古井已做妥善維護，其在建築歷史上深具紀念性意義。",
+    "lawsReference": "文化資產保存法第二十七條之一暨歷史建築登錄及輔助辦法第七條。",
+    "govInstitutionCode": "970",
+    "govInstitutionName": "花蓮縣政府",
+    "belongCityId": 23,
+    "belongCityName": "花蓮縣",
+    "belongDistName": "光復鄉",
+    "govInstitution": "花蓮縣文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-8227121-316",
+    "govDeptAddress": "花蓮縣花蓮市文復路6號",
+    "cadasters": [
+        {
+            "fileid": 158403,
+            "name": "光復鄉北富村富田古井地籍資料_東富段_0849號地籍資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-04-08/38f13574-ed90-4d45-8df4-40259f567f92/光復鄉北富村富田古井地籍資料_東富段_0849號地籍資料.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "花蓮縣光復鄉東富段0849號",
+    "buildingFeatures": "民國88年(1999) ，富田村拉度倫階層成員周添丁、黃仁義等15 位阿美族人發起修復，妥善維護並立碑紀念。",
+    "inHouseFeatures": "古井位於族人搭建之鋼構鐵棚下，外附竹子裝飾，並有農耕機具展示。",
+    "buildingUsage": "周邊偶村民居住，並有專人管理維護。",
+    "buildingActualState": "傳說大巴塱先祖拉鼓娃階層合力挖掘古井，供應北富村居民日常飲用水，為太巴塱部落八大古井之一，後因自來水方便而廢棄不用。",
+    "buildingKeyMaintainItem": "加強環境美綠化。",
+    "bulkTransfer": 0,
+    "belongAddress": "北富村富強街",
+    "isOpenVisit": true,
+    "openUpTime": "隨時開放。",
+    "isCharge": false,
+    "isOpenDownload": true,
+    "longitude": 121.453546209581,
+    "latitude": 23.6612157762079,
+    "representImageSource": "花蓮縣文化局",
+    "landScope": "花蓮縣光復鄉東富段0849地號。",
+    "selfCoverage": "位於花蓮縣光復鄉北富村富強街，古井深達12公尺，以石頭糯米砌成。",
+    "addresses": [
+        {
+            "cityName": "花蓮縣",
+            "distName": "光復鄉",
+            "id": 149501,
+            "caseId": 1898,
+            "caseStatus": true,
+            "cityId": 23,
+            "distId": 2307,
+            "address": "北富村富強街"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "花蓮縣",
+            "distName": "光復鄉",
+            "landNoName": "東富段",
+            "id": 207158,
+            "caseId": 1898,
+            "caseStatus": true,
+            "cityId": 23,
+            "distId": 2307,
+            "landNoId": 14311,
+            "landSerialNo": "0849",
+            "landownership": 1,
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 162653,
+            "caseId": 1898,
+            "caseStatus": true,
+            "registerDate": 1032765613000,
+            "officialDocNo": "府文推字第09105800790 號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.45357454844194,23.661487290905153],[121.45362176285332,23.661442829138398],[121.4535944645712,23.661287236499835],[121.4536000796378,23.66119596238247],[121.4535594423932,23.661152649863237],[121.45348367122641,23.66120383115539],[121.45340896787454,23.661228662189203],[121.45334998498615,23.66118445515512],[121.45332081806647,23.66121098689267],[121.45330521379431,23.661221036627722],[121.45328207912803,23.661218963327915],[121.45324704263403,23.661217214686566],[121.45319193988777,23.661248390411032],[121.45319666992641,23.661279120279453],[121.45322945403319,23.661246556025716],[121.45326210122609,23.661228881373248],[121.45330830995107,23.661232223599004],[121.45338810587343,23.661255394485153],[121.45353248564528,23.661232763316075],[121.45356123707592,23.661281039982892],[121.45357434960594,23.661484213234527],[121.45357454844194,23.661487290905153],[121.45357454844194,23.661487290905153]]]]},\"properties\":{\"envelope\":{\"left\":\"121.45319193988777\",\"top\":\"23.661152649863237\",\"right\":\"121.45362176285332\",\"bottom\":\"23.661487290905153\"},\"landLot\":\"花蓮縣光復鄉東富段0849\"}}],\"notfound\":[]}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": "花蓮縣歷史建築「光復鄉北富村富田古井」管理維護計畫"
+}

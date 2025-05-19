@@ -1,0 +1,105 @@
+{
+    "id": 3396,
+    "caseId": "20131219000020",
+    "count": 53,
+    "shareCount": 0,
+    "representImage": 5916,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7151/photo/范文正公政府奏議（元刊本）_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7151/photo/范文正公政府奏議（元刊本）.jpg",
+        "name": "范文正公政府奏議（元刊本）"
+    },
+    "caseName": "范文正公政府奏議（元刊本）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1387382400000,
+    "officialDocNo": "文資局物字第 10220148851號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "元元統二年(1334)范氏歲寒堂刊本。\n作者范仲淹(989－1052)，字希文，諡文正。先世邠州人，後遷居江南，為蘇州吳縣人，大中祥符八年（1015）登進士第。北宋政治家、文學家、軍事家、教育家。范仲淹文學素養很高，寫有不少著名作品，如〈岳陽樓記〉等。\n書末文從簡手跋云：「此元槧中之寶本也，字法絕似趙文敏公(趙孟頫)，秀勁而多風韻，仍不失古雅之致，且傳本絕稀，為董玄宰(董其昌)舊物，宜珍秘之」。\n元版古籍，罕見稀有，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號04699",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 2,
+    "notes": "",
+    "descAge": "元元統2年(1334)范文英刊本",
+    "descCreator": "宋范仲淹撰",
+    "descSize": "半葉12行，版匡23.3x15.2公分",
+    "descMaterial": "紙質",
+    "reserveStatusDesc": "共二卷（上、下），書末文從簡手跋云：「此元槧中之寶本也，字法絕似趙文敏公（趙孟頫），秀勁而多風韻，仍不失古雅之致，且傳本絕稀，為董玄宰(董其昌)舊物，宜珍秘之」。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有虫蛀，經修裱，書況良好\n",
+    "documents": [
+        {
+            "fileid": 5917,
+            "name": "f0afec0d-8556-4bdf-976a-5e99a5ce13aa.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44011/file/f0afec0d-8556-4bdf-976a-5e99a5ce13aa.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3538,
+            "caseId": 3396,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3538,
+            "caseId": 3396,
+            "caseStatus": true,
+            "registerDate": 1387382400000,
+            "officialDocNo": "文資局物字第 10220148851號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

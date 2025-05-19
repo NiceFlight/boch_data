@@ -1,0 +1,112 @@
+{
+    "id": 1057,
+    "caseId": "20070327000008",
+    "count": 3494,
+    "shareCount": 5,
+    "representImage": 189557,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/8290a4cd-30c9-43e8-8765-ee1e015214fc/國立臺灣大學日式宿舍－丁觀海、丁肇中寓所_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/8290a4cd-30c9-43e8-8765-ee1e015214fc/國立臺灣大學日式宿舍－丁觀海、丁肇中寓所.jpg",
+        "name": "國立臺灣大學日式宿舍－丁觀海、丁肇中寓所"
+    },
+    "caseName": "國立臺灣大學日式宿舍－丁觀海、丁肇中寓所",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "1928年臺北帝國大學在新生南路與羅斯福路一帶設校，在溫州街臺大教職員宿舍群，蘊育此處人文氣氛。為臺大名教授丁觀海寓所，以及其子國家名學者諾貝爾物理獎得主丁肇中先生兒時住宅，具人文特色價值。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 179136,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/4e26fcbf-dc4a-4361-83f3-01a51087ab65/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1.建築形式具特色，為少見之二樓日式住宅，建物保存尚佳，樓梯、二樓之木窗、天花板均為原物。\r\n2.為臺大名教授丁觀海寓所，以及其子國家名學者諾貝爾物理獎得主丁肇中先生兒時住宅，具人文特色價值。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、2、3、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 179137,
+            "name": "d1b0c297-9ae6-4853-86ce-6395dca440a2.gif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/5ea776b7-f11a-4e9f-8dc9-218bf35a07bc/d1b0c297-9ae6-4853-86ce-6395dca440a2.gif"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "locationLandNo": "臺北市大安區龍泉段1小段0292-0000地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "保存尚佳，樓梯、二樓之木窗、天花板均為原物。目前臺灣大學宿舍使用。",
+    "buildingKeyMaintainItem": "圍牆以內，含建築及庭院。",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isOpenDownload": false,
+    "longitude": 121.531687,
+    "latitude": 25.024023,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市大安區龍泉段1小段0292-0000地號",
+    "selfCoverage": "保存範圍: 圍牆以內，含建築及庭院",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 95058,
+            "caseId": 1057,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "泰順街33巷4號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "龍泉段一小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 117457,
+            "caseId": 1057,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 717,
+            "landSerialNo": "0292-0000",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "448平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 102560,
+            "caseId": 1057,
+            "caseStatus": true,
+            "registerDate": 1174924800000,
+            "officialDocNo": "府文化二字第09630231800號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

@@ -1,0 +1,102 @@
+{
+    "id": 16327,
+    "caseId": "20181106000002",
+    "count": 689,
+    "shareCount": 0,
+    "representImage": 51177,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-11-06/588ccceb-6086-4cd0-82f8-17fa1cc738f6/大梭形瑪瑙珠_c.png"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-11-06/588ccceb-6086-4cd0-82f8-17fa1cc738f6/大梭形瑪瑙珠.png",
+        "name": "大梭形瑪瑙珠"
+    },
+    "caseName": "大梭形瑪瑙珠",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1488934984293,
+    "officialDocNo": "府文資字第1060001547J號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "數量稀少者"
+    ],
+    "registerReason": "1.平埔族婦女好以瑪瑙珠作為裝飾物，此瑪瑙珠為女性飾物，是瞭解噶瑪蘭女性的重要器物，反映了當時女性的身分、地位、裝飾之表徵，頗能表現傳統、族群及地方文化特色。\n2.大梭形瑪瑙珠是噶瑪蘭族佩帶的生活器物，此物由淇武蘭遺址出土，以天然礦石直接磨製而成，反映了當時代的審美趣味及藝術造詣，具有當時代之特色及技術，且作為貿易往來之交換物，見證了噶瑪蘭族重要的生活文化及貿易行為。\n3.此物出土位置、時間、年代資料完整，品相雖非上等，但仍為宜蘭出土的瑪瑙珠中，體積最大者，具有珍貴及稀有性。\n",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、3、5款",
+    "govInstitutionCode": "260",
+    "govInstitutionName": "宜蘭縣政府",
+    "belongCityId": 4,
+    "belongCityName": "宜蘭縣",
+    "belongDistName": "宜蘭市",
+    "govInstitution": "宜蘭縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-9322440 #609",
+    "govDeptAddress": "宜蘭縣宜蘭市復興路101號",
+    "reservationCode": "0",
+    "amount": 1,
+    "descAge": "約600~200年前",
+    "descSize": "長5.94公分、寬3.42公分、厚3.88公分",
+    "descMaterial": "瑪瑙",
+    "reserveStatusDesc": "長5.94公分、寬3.42公分、厚3.88公分、穿徑0.29-0.3公分、重99克，形如長橢圓形，略似橄欖，剖面圓形，磨面間的轉角圓滑，表面具玻璃光澤，整器長度超過4公分的大梭型瑪瑙珠，屬文獻上記載「有如榴子大者」。",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "遺址名稱/地點/GPS：宜蘭縣礁溪鄉淇武蘭遺址",
+    "saveEnvironment": 1,
+    "reserveStatus": "以袋封裝後，放置於文物室的小格塑膠櫃子中，定期檢查。",
+    "documents": [
+        {
+            "fileid": 51176,
+            "name": "大梭型瑪瑙珠.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-11-06/6983900f-b516-40a6-97bb-3164dc626648/大梭型瑪瑙珠.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 121.744848,
+    "latitude": 24.748957,
+    "representImageSource": "宜蘭縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "宜蘭縣立蘭陽博物館",
+            "keepName": "宜蘭縣立蘭陽博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "宜蘭縣立蘭陽博物館",
+            "keepAddressNew": "宜蘭縣頭城鎮青雲路三段750號",
+            "saveSpaceIdStr": "公務設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "宜蘭縣",
+            "keepNameDistName": "頭城鎮",
+            "keepNameAddress": "青雲路三段750號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "宜蘭縣",
+            "distName": "頭城鎮",
+            "id": 148318,
+            "caseId": 16327,
+            "caseStatus": true,
+            "cityId": 4,
+            "distId": 402,
+            "address": "青雲路三段750號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 161192,
+            "caseId": 16327,
+            "caseStatus": true,
+            "registerDate": 1488934984293,
+            "officialDocNo": "府文資字第1060001547J號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

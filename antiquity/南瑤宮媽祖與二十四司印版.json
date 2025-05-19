@@ -1,0 +1,96 @@
+{
+    "id": 21053,
+    "caseId": "20221005000001",
+    "count": 507,
+    "shareCount": 0,
+    "representImage": 185956,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-09-29/66d57576-8550-47e6-8838-4f2e799b21b0/案4-南瑤宮媽祖與二十四司印版_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-09-29/66d57576-8550-47e6-8838-4f2e799b21b0/案4-南瑤宮媽祖與二十四司印版.jpg",
+        "name": "案4-南瑤宮媽祖與二十四司印版"
+    },
+    "caseName": "南瑤宮媽祖與二十四司印版",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "數量稀少者"
+    ],
+    "registerReason": "1.具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：印版刷印媽祖與二十四司圖像可供信徒安奉鎮宅，反映民間信仰文化特色。\n2.數量稀少者：印版刻有媽祖偕宮娥、千里眼、順風耳合圖，下層刻廿四司，罕見少有。",
+    "lawsReference": "<<文化資產保存法>>第67條暨<<古物分級指定及廢止審查辦法>>第2條第1、5款",
+    "govInstitutionCode": "500",
+    "govInstitutionName": "彰化縣政府",
+    "govInstitution": "彰化縣政府",
+    "govDeptName": "彰化縣文化局",
+    "govDeptPhone": "04-7510709",
+    "govDeptAddress": "彰化縣彰化市平和七街66號",
+    "reservationCode": "府授文戲字第 1110216915D 號",
+    "amount": 1,
+    "descAge": "清領時期",
+    "descSize": "寬 40.8 公分、高 79.7 公分、厚 1 公分",
+    "descMaterial": "木",
+    "reserveStatusDesc": "整片木板浮雕圖案，最上層刻南瑤宮廟宇，媽祖正面坐像，左、右各立持扇侍者一位，外側左右有千里眼、順風耳，下層刻六行、四列共二十四個帶騎官將，各刻有名號，姿態各異。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定，印版背面有一處補丁",
+    "documents": [
+        {
+            "fileid": 211235,
+            "name": "南瑤宮媽祖與二十四司印版1110620.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-04-12/ecc53dfc-f609-46f4-85b2-11bd7cffa56a/南瑤宮媽祖與二十四司印版1110620.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.536559,
+    "latitude": 24.067785,
+    "representImageSource": "彰化縣文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "彰化縣彰化市公所",
+            "keepName": "彰化縣彰化市公所",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "古月民俗館",
+            "keepAddressNew": "彰化縣彰化市中華路57號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "公務設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "彰化縣",
+            "keepNameDistName": "彰化市",
+            "keepNameAddress": "中華路57號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "彰化縣",
+            "distName": "彰化市",
+            "id": 148836,
+            "caseId": 21053,
+            "caseStatus": true,
+            "cityId": 11,
+            "distId": 1101,
+            "address": "中華路57號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 161844,
+            "caseId": 21053,
+            "caseStatus": true,
+            "registerDate": 1655723035389,
+            "officialDocNo": "府授文戲字第 1110216915D 號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

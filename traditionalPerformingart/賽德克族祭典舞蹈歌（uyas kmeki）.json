@@ -1,0 +1,107 @@
+{
+    "id": 2443,
+    "caseId": "20130115000001",
+    "count": 527,
+    "shareCount": 4,
+    "representImage": 4740,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/traditional_art/3426/photo/0da6b657-dba7-4f22-aeaa-5d0e29571375_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/traditional_art/3426/photo/0da6b657-dba7-4f22-aeaa-5d0e29571375.JPG",
+        "name": "0da6b657-dba7-4f22-aeaa-5d0e29571375"
+    },
+    "caseName": "賽德克族祭典舞蹈歌（uyas kmeki）",
+    "classifyCode": "4.1",
+    "classifyName": "傳統表演藝術",
+    "assetsTypeNames": "音樂",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "4.1.1",
+    "assetsClassifyName": "傳統表演藝術",
+    "registerDate": 1358237481000,
+    "officialDocNo": "府授文資字第10200120151號",
+    "documents": [
+        {
+            "fileid": 99554,
+            "name": "賽德克祭典舞蹈歌公告+表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-03-11/1a7b6bbb-b2cf-43e8-98e7-12ffb81812bc/賽德克祭典舞蹈歌公告+表.pdf"
+        },
+        {
+            "fileid": 233477,
+            "name": "1071206重新登錄公告文化資產類別公文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-10-18/d41835fc-9836-446c-96f2-db0aae097a2a/1071206重新登錄公告文化資產類別公文.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "藝術性:具有藝術價值者",
+        "特殊性:構成傳統藝術之特殊藝能表現,其技法優秀者",
+        "地方性:傳統藝術領域有價值與地位,並具有地方色彩或流派特色顯著者"
+    ],
+    "registerReason": "1、祭典舞蹈歌「uyas kmeki」的複音歌唱，其精髓繫於領唱者的即興領唱與領舞。在過往歲月中，有能力擔任領唱的人才在部落間代代傳承，然而現今傳承機制已不復存在，有瀕危之虞。\r\n2、「賽德克傳統文化藝術團」的成員主要由南山溪部落的族人所組成，該部落屬於最古老的都克達雅語族，他們在傳統文化一片急速的凋零聲中，由碩果僅存的高齡耆老Obin Nawi帶領著年輕世代持續傳唱祖先所留下的古謠，而且曲目保存相對完整。\r\n3、符合傳統藝術民俗及有關文物登錄指定及廢止審查辦法第2條第1項第1款各目傳統藝術登錄基準。",
+    "lawsReference": "文化資產保存法第59條。傳統藝術民俗及有關文物登錄指定及廢止審查辦法第2條規定。",
+    "govInstitutionCode": "540",
+    "govInstitutionName": "南投縣政府",
+    "belongCityId": 12,
+    "belongCityName": "南投縣",
+    "govInstitution": "南投縣政府",
+    "govDeptName": "南投縣政府文化局",
+    "govDeptPhone": "0492231191",
+    "govDeptAddress": "南投市建國路135號",
+    "belongAddress": "",
+    "historyDevelopment": "在賽德克族人的觀念中，「uyas kmeki」並非指特定的某一首歌曲，而是賽德克族祭典歌舞的泛稱，由一連串曲調前後銜接而成，並即興配上歌詞與舞步。在賽德克族過去的傳統生活中，「uyas kmeki」的唱跳在全年各種農事、獵首、狩獵祭典中，是不可或缺的一部分，甚至可以說，祭典的精華即在於歌舞。",
+    "preservers": [
+        {
+            "id": 18625,
+            "type": "團體",
+            "caseName": "賽德克傳統文化藝術團",
+            "cityName": "南投縣",
+            "distName": "仁愛鄉",
+            "caseArtistEntities": [],
+            "representImage": 99557,
+            "registrationDate": 1358179200000,
+            "judgeCriteria": [
+                "熟知並能正確體現該登錄項目之知識、技藝與文化表現形式，並具代表性",
+                "具該登錄項目之傳習能力與意願",
+                "在文化脈絡下為適當者"
+            ],
+            "registerReason": "「賽德克傳統文化藝術團」的成員主要由南山溪部落的族人所組成，該部落屬於最古老的都克達雅語族，他們在傳統文化一片急速的凋零聲中，由碩果僅存的高齡耆老Obin Nawi帶領著年輕世代持續傳唱祖先所留下的古謠，而且曲目保存相對完整。",
+            "lawsReference": "<<傳統表演藝術登錄認定及廢止審查辦法>>第4條第1、2、3款",
+            "isOpenDownload": false,
+            "representImageSource": "南投縣政府文化局",
+            "contactorIsOpen": false
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "南投縣政府文化局",
+    "addresses": [
+        {
+            "cityName": "南投縣",
+            "distName": "仁愛鄉",
+            "id": 115516,
+            "caseId": 2443,
+            "caseStatus": true,
+            "cityId": 12,
+            "distId": 1206,
+            "address": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 125872,
+            "caseId": 2443,
+            "caseStatus": true,
+            "registerDate": 1358237481000,
+            "officialDocNo": "府授文資字第10200120151號",
+            "classificationId": 1
+        },
+        {
+            "id": 125873,
+            "caseId": 2443,
+            "caseStatus": true,
+            "registerDate": 1544084602496,
+            "officialDocNo": "府授文資字第10702661491號",
+            "classificationId": 2
+        }
+    ]
+}

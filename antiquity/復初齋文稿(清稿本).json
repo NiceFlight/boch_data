@@ -1,0 +1,105 @@
+{
+    "id": 3491,
+    "caseId": "20130610000027",
+    "count": 30,
+    "shareCount": 0,
+    "representImage": 6093,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7562/photo/復初齋文稿(清稿本)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7562/photo/復初齋文稿(清稿本).jpg",
+        "name": "復初齋文稿(清稿本)"
+    },
+    "caseName": "復初齋文稿(清稿本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1370793600000,
+    "officialDocNo": "文資局物字第10220062581號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "清乾隆至嘉慶間(1736-1820)翁方綱手稿本，清魏錫曾手書題記。\r\n翁方綱為清代大儒，精研經術，擅長考據，詩文俱佳，書名猶盛。此本收翁氏詩、文、筆記、札記諸稿，經魏錫曾校讀。其中多未刊之作，實為一巨觀。\r\n珍貴稀有，具重要歷史、文化與清代儒學研究價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號13335",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 138,
+    "notes": "",
+    "descAge": "清乾隆至嘉慶間(1736-1820)",
+    "descCreator": "清翁方綱撰",
+    "descSize": "版匡12.3公分x14.1公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "詩稿六十七卷，筆記稿十五卷，札記稿不分卷，138冊。\n\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 6094,
+            "name": "4fbf3e53-145f-46ce-9808-a315874fbf31.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44093/file/4fbf3e53-145f-46ce-9808-a315874fbf31.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3633,
+            "caseId": 3491,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3633,
+            "caseId": 3491,
+            "caseStatus": true,
+            "registerDate": 1370793600000,
+            "officialDocNo": "文資局物字第10220062581號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

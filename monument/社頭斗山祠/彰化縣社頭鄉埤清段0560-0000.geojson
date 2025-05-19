@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "彰化縣社頭鄉埤清段0560-0000"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

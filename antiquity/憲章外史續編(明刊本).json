@@ -1,0 +1,105 @@
+{
+    "id": 3428,
+    "caseId": "20131219000052",
+    "count": 43,
+    "shareCount": 0,
+    "representImage": 5979,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7199/photo/憲章外史續編(明刊本)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7199/photo/憲章外史續編(明刊本).jpg",
+        "name": "憲章外史續編(明刊本)"
+    },
+    "caseName": "憲章外史續編(明刊本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1387382400000,
+    "officialDocNo": "文資局物字第 10220148851號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "明崇禎六年(1633)刊本。\r\n編者許重熙(1592?-1661?)，南直隸常熟人。\r\n編年體明代史書。全書記嘉靖以來五朝史事，書中多有論斷，以明得失。如作者序稱明天啟後，以國事為諱忌，莫知所則傚，於是取「嘉靖以來近事彰之，聞見者裒其大略，用次成編，以為鑒戒，展卷易竟。繇嘉靖以求觀洪武，庶幾有合焉。」\r\n明版古籍，罕見稀有，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號01922",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 5,
+    "notes": "",
+    "descAge": "明崇禎六年(1633)",
+    "descCreator": "明許重熙編",
+    "descSize": "半葉10行，版匡21.6x14.4公分",
+    "descMaterial": " 紙質刊本",
+    "reserveStatusDesc": "十四卷。\n編年體明代史書。全書記嘉靖以來五朝史事，書中多有論斷，以明得失。如作者序稱明天啟後，以國事為諱忌，莫知所則傚，於是取「嘉靖以來近事彰之，聞見者裒其大略，用次成編，以為鑒戒，展卷易竟。繇嘉靖以求觀洪武，庶幾有合焉。」\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有虫蛀。經修裱，書況良好。\n",
+    "documents": [
+        {
+            "fileid": 5980,
+            "name": "fc0e55d2-6c08-4836-a020-2c7337b02c7c.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44042/file/fc0e55d2-6c08-4836-a020-2c7337b02c7c.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3570,
+            "caseId": 3428,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3570,
+            "caseId": 3428,
+            "caseStatus": true,
+            "registerDate": 1387382400000,
+            "officialDocNo": "文資局物字第 10220148851號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

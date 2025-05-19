@@ -1,0 +1,144 @@
+{
+    "id": 16479,
+    "caseId": "20190108000002",
+    "count": 3779,
+    "shareCount": 5,
+    "representImage": 164414,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-05-19/53372ba5-7716-41b7-a7d0-2993774b9054/歷060原電姬館_P001_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-05-19/53372ba5-7716-41b7-a7d0-2993774b9054/歷060原電姬館_P001.jpg",
+        "name": "歷060原電姬館_P001"
+    },
+    "caseName": "原電姬館",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "戲劇院",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1542074179549,
+    "officialDocNo": "府文資處字第1071281402A號",
+    "documents": [
+        {
+            "fileid": 164412,
+            "name": "原電姬館公告-107.11.13.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-19/05148187-b2fd-467a-bfd7-455fe500a98b/原電姬館公告-107.11.13.pdf"
+        },
+        {
+            "fileid": 164413,
+            "name": "原電姬戲館更正公告-108.01.11.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-19/a2f2ee01-891f-49ab-ab35-8afdc4647dd9/原電姬戲館更正公告-108.01.11.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "(1) 具建築史或技術史之價值者：建築表現採當時最流行的藝術裝飾（ART DECO）風格，參以少數日本趣味或西洋歷史式樣裝飾，見證日治時期建築材料、工法與式樣。\n(2) 具地區性建造物類型之特色者：為1930年代臺南重要的娛樂場所，見證都市現代化與市民公共活動的發達，代表麻豆地區文化發展的記憶。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第2、3款登錄基準",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "麻豆區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569 ",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 53853,
+            "name": "麻豆區穀興段774、775地號地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2019-01-08/53d9d537-26fa-47f3-b578-981ceabf8417/麻豆區穀興段774、775地號地籍圖.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺南市麻豆區穀興段774、775地號。",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "bulkTransfer": 0,
+    "belongAddress": "臺南市麻豆區中山路112號",
+    "isOpenVisit": false,
+    "openUpTime": "",
+    "isOpenDownload": false,
+    "longitude": 120.24492,
+    "latitude": 23.18376,
+    "representImageSource": "臺南市政府",
+    "landScope": "臺南市麻豆區穀興段774（部分）、775地號（部分），即本體範圍之投影面積",
+    "selfCoverage": "電姬館之沿街立面及其不可分割之構造（即騎樓及其內一跨進深，北側以與沿街立面構造相連二樓看臺混凝土立柱之最外側為界）",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "麻豆區",
+            "id": 80320,
+            "caseId": 16479,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1619,
+            "address": "中山路112號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺南市",
+            "distName": "麻豆區",
+            "landNoName": "穀興段",
+            "id": 86683,
+            "caseId": 16479,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1619,
+            "landNoId": 3018,
+            "landSerialNo": "774",
+            "coverageId": 1,
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "臺南市",
+            "distName": "麻豆區",
+            "landNoName": "穀興段",
+            "id": 86684,
+            "caseId": 16479,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1619,
+            "landNoId": 3018,
+            "landSerialNo": "775",
+            "coverageId": 1,
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 86286,
+            "caseId": 16479,
+            "caseStatus": true,
+            "registerDate": 1542074179549,
+            "officialDocNo": "府文資處字第1071281402A號",
+            "classificationId": 1
+        },
+        {
+            "id": 86287,
+            "caseId": 16479,
+            "caseStatus": true,
+            "registerDate": 1547136000000,
+            "officialDocNo": "府文資處字第1080074187A號",
+            "classificationId": 2
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.24502063717968,23.183751699475845],[120.24488054145314,23.183751574799633],[120.24502166895236,23.183831731979005],[120.24502063717968,23.183751699475845],[120.24502063717968,23.183751699475845]]]]},\"properties\":{\"envelope\":{\"left\":\"120.24488054145314\",\"top\":\"23.183751574799633\",\"right\":\"120.24502166895236\",\"bottom\":\"23.183831731979005\"},\"landLot\":\"臺南市麻豆區穀興段774\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.24502751132303,23.183883696725427],[120.24503365884216,23.183838468274047],[120.24502166895236,23.183831731979005],[120.24488054145314,23.183751574799633],[120.24478343546954,23.183751540508396],[120.2447058806514,23.183958612733267],[120.24469956295749,23.183974664870302],[120.24500875956794,23.184022632356562],[120.24502751132303,23.183883696725427],[120.24502751132303,23.183883696725427]]]]},\"properties\":{\"envelope\":{\"left\":\"120.24469956295749\",\"top\":\"23.183751540508396\",\"right\":\"120.24503365884216\",\"bottom\":\"23.184022632356562\"},\"landLot\":\"臺南市麻豆區穀興段775\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀"
+}

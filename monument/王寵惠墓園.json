@@ -1,0 +1,150 @@
+{
+    "id": 158,
+    "caseId": "20140923000001",
+    "count": 5535,
+    "shareCount": 4,
+    "representImage": 189525,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/bffe14a3-b3a0-42dd-ab11-d8ff4e3da072/代表圖像_王寵惠墓園_20220719(IMG_E0607)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/bffe14a3-b3a0-42dd-ab11-d8ff4e3da072/代表圖像_王寵惠墓園_20220719(IMG_E0607).jpg",
+        "name": "代表圖像_王寵惠墓園_20220719(IMG_E0607)"
+    },
+    "caseName": "王寵惠墓園",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "王寵惠先生出生於1881年，曾任南京臨時政府外交總長（1912）、國民政府司法院院長（1928-1931）、國民政府外交部長（1937-1941）、中華民國司法院院長（1948-1958），為中國近代史上代表人物之一，1958年過世，由總統府應東吳大學所請權葬於該校校園內，墓園由其子王大閎先生設計。",
+    "assetsTypeNames": "墓葬",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 145147,
+            "name": "3._1030923指定市定古蹟公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/f94bb461-d477-4f3e-8534-88539ec60caa/3._1030923指定市定古蹟公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "重要歷史事件或人物之關係",
+        "各時代表現地方營造技術流派特色者",
+        "具建築史上之意義，有再利用之價值及潛力者"
+    ],
+    "registerReason": "1.王寵惠先生為近代史上重要人物，歷任革命黨、同盟會、北洋政府及國民政府等要職，來臺後，為行憲後首任司法院院長，於任內過世，後由總統府應東吳大學所請權葬於此。\r\n2.墓園設計者為其子名建築師王大閎，墓園設計採簡約式樣，表現王大閎一貫嚴謹風格；墓道碑為總統蔣中正題署，並由秘書長張羣表述其生平，具建築史與文化歷史之價值。",
+    "lawsReference": "符合古蹟指定及廢止審查辦法第2條第1項第1、2、3、5款指定基準。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 145148,
+            "name": "e4327579-c719-4bc0-9e2a-9d61b9fc4711.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/8dd04668-5dd7-402b-b327-975297aa24c3/e4327579-c719-4bc0-9e2a-9d61b9fc4711.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 5,
+    "cityLandUseTypeName": "文教區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市士林區翠山段2小段789地號（部分）、781地號（部分）及783地號（部分）",
+    "buildingFeatures": "墓園分為上下二部分，下方平台立有一座石碑，該石碑正面由蔣前總統中正親自提署、背面之墓誌銘則為前總統府秘書長張群先生所書，石碑正後方有一石梯與上方平台相連，平台下方為卵石砌擋土牆。墓穴本體為混凝土鑄造，周圍紅磚圍牆圍繞，整體風格簡潔莊嚴",
+    "inHouseFeatures": "",
+    "buildingUsage": "墓葬用",
+    "buildingActualState": "建造物外觀保存良好",
+    "buildingKeyMaintainItem": "墓園全部",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.545748,
+    "latitude": 25.094415,
+    "representImageSource": "臺北市文化局",
+    "landScope": "東吳大學雙溪校區校園南側。實際保存面積需以保存範圍實測數據為準",
+    "selfCoverage": "王寵惠墓園",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 95046,
+            "caseId": 158,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "臺北市士林區臨溪路70號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "翠山段二小段",
+            "cityLandUseTypeName": "文教區",
+            "id": 117438,
+            "caseId": 158,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 589,
+            "landSerialNo": "781",
+            "landownership": 1,
+            "cityLandUseTypeId": 5,
+            "coverageId": 1,
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "翠山段二小段",
+            "cityLandUseTypeName": "文教區",
+            "id": 117439,
+            "caseId": 158,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 589,
+            "landSerialNo": "783",
+            "landownership": 1,
+            "cityLandUseTypeId": 5,
+            "coverageId": 1,
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "翠山段二小段",
+            "cityLandUseTypeName": "文教區",
+            "id": 117440,
+            "caseId": 158,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 589,
+            "landSerialNo": "789",
+            "landownership": 1,
+            "cityLandUseTypeId": 5,
+            "coverageId": 1,
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 102544,
+            "caseId": 158,
+            "caseStatus": true,
+            "registerDate": 1411401600000,
+            "officialDocNo": "北市文化文資10330465500號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false,
+    "pastHistorySource": "提報表"
+}

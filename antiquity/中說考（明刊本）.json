@@ -1,0 +1,105 @@
+{
+    "id": 3560,
+    "caseId": "20130813000015",
+    "count": 30,
+    "shareCount": 0,
+    "representImage": 6223,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7261/photo/中說考（明刊本）_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7261/photo/中說考（明刊本）.png",
+        "name": "中說考（明刊本）"
+    },
+    "caseName": "中說考（明刊本）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1376323200000,
+    "officialDocNo": "文資局物字第 10220091271號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "明正德、嘉靖間(1506-1566)原刊本。\r\n《中說》一書為王通諸弟子所作。王通出身於官宦兼儒學世家，以著書講學為業。死後，門人私諡為「文中子」。《中說》即其弟子為了紀念他，弘揚他在儒學上的貢獻，仿孔子門徒作《論語》而編《中說》（又稱《文中子說》）。據館藏此書序，崔銑因《中說》醇駁相雜，又或依仿論語為書，讀者厭之，於是權量其旨，類分為三篇，曰內、曰外、曰雜。內篇以其義美文醇，外篇辭若誇張，其餘疑出後人所附，潤為雜篇。\r\n明版古籍，罕見稀有，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號05434",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "明正德、嘉靖間(1506-1566)",
+    "descCreator": "明崔銑考釋",
+    "descSize": "半葉10行，版匡18.1x12.3公分",
+    "descMaterial": "紙質刊本",
+    "reserveStatusDesc": "七卷。\n《中說》一書為王通諸弟子所作。王通出身於官宦兼儒學世家，以著書講學為業。死後，門人私諡為「文中子」。《中說》即其弟子為了紀念他，弘揚他在儒學上的貢獻，仿孔子門徒作《論語》而編《中說》（又稱《文中子說》）。據館藏此書序，崔銑因《中說》醇駁相雜，又或依仿論語為書，讀者厭之，於是權量其旨，類分為三篇，曰內、曰外、曰雜。內篇以其義美文醇，外篇辭若誇張，其餘疑出後人所附，潤為雜篇。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有蟲蛀。經修裱，部分書口處裂開，書況良好。\n",
+    "documents": [
+        {
+            "fileid": 6224,
+            "name": "ce8d6aa8-319b-4b0c-88b8-97eba6eda3e4.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44154/file/ce8d6aa8-319b-4b0c-88b8-97eba6eda3e4.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3702,
+            "caseId": 3560,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3702,
+            "caseId": 3560,
+            "caseStatus": true,
+            "registerDate": 1376323200000,
+            "officialDocNo": "文資局物字第 10220091271號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

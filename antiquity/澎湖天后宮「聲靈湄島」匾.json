@@ -1,0 +1,103 @@
+{
+    "id": 17330,
+    "caseId": "20200206000002",
+    "count": 268,
+    "shareCount": 0,
+    "representImage": 65667,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-02-06/f265c806-2adf-4436-80df-4637d8ec29e1/IMG_0631_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-02-06/f265c806-2adf-4436-80df-4637d8ec29e1/IMG_0631.jpg",
+        "name": "IMG_0631"
+    },
+    "caseName": "澎湖天后宮「聲靈湄島」匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1570587589792,
+    "officialDocNo": "中華民國108年10月9日府授文博字第1083703346號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "1、具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：本匾於大正3年(1914)由白沙港尾(今講美村)的信士所獻，因天后宮於大正11年(1922)改建，此匾顯現天后宮早已具有闔澎公廟的角色。\n2、具有藝術造詣或科學成就：本匾字體穩健、用筆粗細皆宜，破鋒處果斷，形成筆氣之動勢；而刻工亦表現出書法的靈動，具有工藝的造詣。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、4款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00646-P-106-0010",
+    "amount": 1,
+    "notes": "陳長澤（1858-?），名陳潤，講美人，煙草仲賣人， 於媽宮設立商行「長順」。1911年與陳淵堂發起拆除高墩（辟邪祈福塔），建張元帥廟，1913年兩人再與同族宗親改築，並增祀開漳聖王、臨水夫人。陳長澤熱心公益，與他曾在1910年「祈病愈時，以百金救濟貧乏」該事有關。參與昭和2（1927）年澎湖觀音亭重建，並熱心參與於廟方事務。有鑑於中屯南北兩端尚未建橋，常有落水溺死者，他於1914年發起超渡法會，也曾於1924年於觀音亭發起九日誦經法會，普渡全島冤魂。昭和3（1928）年再參與澎湖水仙宮之重建。",
+    "descAge": "大正3年(1914)",
+    "descSize": "寬約185公分",
+    "descMaterial": "木",
+    "reserveStatusDesc": "橫長形木匾，匾面黑二片拼接，字皆陰刻白描勾邊、填金漆。中行「聲靈湄島」，字有破鋒較不銳利，上款「大正癸丑年孟冬　吉旦」，下款「港尾鄉信士陳長澤敬獻」。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "時間：大正癸丑年孟冬　吉旦     捐贈者：港尾鄉信士陳長澤敬獻",
+    "saveEnvironment": 2,
+    "reserveStatus": "澎湖天后宮第二進後落右次間後點金柱間",
+    "documents": [
+        {
+            "fileid": 106911,
+            "name": "澎湖天后宮「聲靈湄島」匾公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-04-22/ca197c93-988c-47b2-a58e-eb28b2a5eb4c/澎湖天后宮「聲靈湄島」匾公告表.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.564038,
+    "latitude": 23.564693,
+    "representImageSource": "澎湖縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "澎湖天后宮",
+            "keepName": "蔡光明",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "澎湖天后宮",
+            "keepAddressNew": "澎湖縣馬公市中央里正義街1號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "澎湖縣",
+            "keepNameDistName": "馬公市",
+            "keepNameAddress": "中央里正義街1號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 127651,
+            "caseId": 17330,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "中央里正義街1號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 138573,
+            "caseId": 17330,
+            "caseStatus": true,
+            "registerDate": 1570587589792,
+            "officialDocNo": "府授文博字第1083703346號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

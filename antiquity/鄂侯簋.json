@@ -1,0 +1,105 @@
+{
+    "id": 16572,
+    "caseId": "20190215000011",
+    "count": 145,
+    "shareCount": 0,
+    "representImage": 55457,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-02-15/a12fde78-b460-4023-9464-58e46311c175/13-中銅001321-2_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-02-15/a12fde78-b460-4023-9464-58e46311c175/13-中銅001321-2.jpg",
+        "name": "13-中銅001321-2"
+    },
+    "caseName": "鄂侯簋",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1550124149251,
+    "officialDocNo": "文授資局物字第10830016641號",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此簋器身飾重環紋及瓦溝紋，器耳上有螺旋角獸首，圈足飾一道重環紋和三個小獸首，其下各有一獸足，為西周晚期器物。\n器內銘文記述位於南方的姞姓鄂侯將該國女子嫁給周王，見證周王室藉由婚姻與鄂國交好，進一步控制南方地區的歷史。對了解西周時期周王室對南土的經略有重要意義。銘文也說明了姞姓鄂國的存在，增進對西周晚期南方封國的認識。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "中銅001321",
+    "amount": 1,
+    "descAge": "西周晚期(西元前9-8世紀)",
+    "descSize": "通高16.4公分/口徑20.2公分/重4.11公斤",
+    "descMaterial": "銅/鑄造",
+    "reserveStatusDesc": "斂口鼓腹，雙耳飾螺旋角獸首，下有垂珥。口沿下飾兩道重環紋，器腹飾瓦溝紋。圈足沿外侈，圈足飾一道重環紋和三個小獸首，其下各有一獸足足。蓋已失。\n器內有底銘文二行十六字，重文一：\n噩（鄂）侯作王姞媵簋，王姞其萬年子子孫永寶。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "良好。",
+    "documents": [
+        {
+            "fileid": 146861,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-02/7dde3d78-f1f5-4af7-9922-48ebd6b816b4/公告.pdf"
+        },
+        {
+            "fileid": 146862,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-02/f629015f-42f4-4752-bfff-1a86966167a0/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 68720,
+            "caseId": 16572,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 72820,
+            "caseId": 16572,
+            "caseStatus": true,
+            "registerDate": 1550124149251,
+            "officialDocNo": "文授資局物字第10830016641號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

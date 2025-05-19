@@ -1,0 +1,116 @@
+{
+    "id": 125,
+    "caseId": "20060705000002",
+    "count": 4410,
+    "shareCount": 4,
+    "representImage": 168786,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/ee49b067-bdc5-4910-9df0-f6808038ba94/代表圖像_新富市場_20220531_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/ee49b067-bdc5-4910-9df0-f6808038ba94/代表圖像_新富市場_20220531.jpeg",
+        "name": "代表圖像_新富市場_20220531"
+    },
+    "caseName": "新富市場",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "興建於日大正年間，為臺北市公有市場。",
+    "assetsTypeNames": "產業",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 143191,
+            "name": "3._950705指定市定古蹟公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/ae0a4a91-05f8-411b-8c6e-a683f9d32cd6/3._950705指定市定古蹟公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "具建築史上之意義，有再利用之價值及潛力者"
+    ],
+    "registerReason": "1.本建物興建於1935年，為臺北市日治時期建置且至今仍留存的少數市場之一，具有歷史價值。\n2.市場平面為馬蹄形，中間留設採光通風天井，可繞室內一圈，動線流暢，有其便利性，相當具有特色，且市場外飾線具Art-Deco風格，屬當代建築前衛作法。\n3.除市場本館外，並附設木造的辦公處及住宿空間，且主結構仍維持原格局、原物料，另辦公與管理宿舍空間結合，具特殊建築類型特色。\n4.市場內仍留存當年的木造攤位及編號名牌，辦公處並留有當年的保險箱，亦具保存價值。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 143192,
+            "name": "86416fee-a2a7-4780-957f-a8df52994832.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/a1eba4c0-c071-48ab-a144-eab636b36b70/86416fee-a2a7-4780-957f-a8df52994832.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "市場用地",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市萬華區萬華2小段375地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "由忠泰建築文化藝術基金會團隊進行9年營運計畫，106年起，以「新富町文化市場」的新時代角色，作為老城再生的公共參與平台。空間使用規劃上,設置餐桌學堂、教室、展演空間、創意協作空間、辦公室及復合式餐飲空間等。",
+    "buildingActualState": "由臺北市市場處102年底修復完畢並由忠泰建設股份有限公司接管（委託財團法人忠泰建築文化藝術基金會營運管理)。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenDownload": false,
+    "longitude": 121.5018955,
+    "latitude": 25.0360209,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市萬華區萬華2小段375地號",
+    "selfCoverage": "新富市場（本館、辦公處、宿舍）",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "id": 82480,
+            "caseId": 125,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "address": "三水街70號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "landNoName": "萬華段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 91421,
+            "caseId": 125,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "landNoId": 171,
+            "landSerialNo": "375",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "cityLandUseTypeOther": "市場用地",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 88601,
+            "caseId": 125,
+            "caseStatus": true,
+            "registerDate": 1152028800000,
+            "officialDocNo": "府文化二字第09530270600號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "openVisitType": "",
+    "openUpTime": "全日",
+    "isCharge": false,
+    "pastHistorySource": ""
+}

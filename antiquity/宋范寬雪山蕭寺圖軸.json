@@ -1,0 +1,100 @@
+{
+    "id": 4411,
+    "caseId": "20151218000002",
+    "count": 345,
+    "shareCount": 2,
+    "representImage": 7407,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39084/photo/d90fc212-e1ed-47fb-b5af-32aeefc972e2_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39084/photo/d90fc212-e1ed-47fb-b5af-32aeefc972e2.jpg",
+        "name": "d90fc212-e1ed-47fb-b5af-32aeefc972e2"
+    },
+    "caseName": "宋范寬雪山蕭寺圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1450368000000,
+    "officialDocNo": "文授資局物字第10430113271號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "范寬（約950-1031間），據北宋《宣和畫譜》記載，其善畫雪景，曾作〈冬景山水圖〉、〈雪景寒林圖〉、〈雪山圖〉、〈雪峰圖〉等作，惟今多已不存。\n本幅無作者款印，詩塘王鐸（1592-1652）的題跋謂此作出自范寬。此作和范寬傳世的最典型真跡〈谿山行旅圖〉相較，皴法與樹法已略呈概念化的傾向，受李成、郭熙影響，推測成作年代應晚至南宋，但仍可做為理解南宋時，范寬風格影響的重要藝術史證據，加以畫作品質精優，可謂兼具藝術、文化與歷史的重要價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000824",
+    "amount": 1,
+    "descAge": "宋",
+    "descSize": "182.4 x 108.2 公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "本幅無作者款印，詩塘王鐸（1592-1652）的題跋謂此作出自范寬（約950-1031間）。\n畫中描繪數峰高聳，山頂遍佈密林，其下崗嶺相連，林木深邃，並點綴古寺﹑關隘﹑寒泉及行旅。通幅山勢極為健硬有力，章法嚴整而富有變化。墨色染出陰霾的天空，益能襯托出雪嶺高寒的氣氛。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。本幅：霉傷、水漬、傷損、傷補、絹裂、折裂、蟲蛀。天綾：霉傷、傷損、傷補、蟲蛀。",
+    "documents": [
+        {
+            "fileid": 148923,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-29/1e24d3ac-7ee9-4d77-9a0f-e581b529ddf2/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69716,
+            "caseId": 4411,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73895,
+            "caseId": 4411,
+            "caseStatus": true,
+            "registerDate": 1450368000000,
+            "officialDocNo": "文授資局物字第10430113271號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

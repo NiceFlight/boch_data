@@ -1,0 +1,122 @@
+{
+    "id": 1966,
+    "caseId": "20031222000001",
+    "count": 1440,
+    "shareCount": 1,
+    "representImage": 168342,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-06-20/cd2e0cf7-71ba-4a15-8810-976d8d9022c2/1封面_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-06-20/cd2e0cf7-71ba-4a15-8810-976d8d9022c2/1封面.jpg",
+        "name": "1封面"
+    },
+    "caseName": "陳氏古厝（現夏興客棧）",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "陳氏古厝建於清光緒末年以前（1900年代以前），興建者為現管理人陳連興之曾祖父。曾於民國3年（1914）重新整修，日本佔領金門期間和戰地政務時期均有軍隊進駐，直至民國58年（1969）始歸還，管理人於民國80年（1991）將古厝改為民宿營業至今。\n（詳細歷史沿革有待日後修復及再利用計畫調查）",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1072056851000,
+    "officialDocNo": "府教社字第0920061625 號",
+    "documents": [
+        {
+            "fileid": 257372,
+            "name": "2003-2007歷史建築登錄公告一覽表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-05-22/1f45a533-862a-4775-a354-6a8531f4aab0/2003-2007歷史建築登錄公告一覽表.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者"
+    ],
+    "registerReason": "表現地域風貌或民間藝術特色者",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "890",
+    "govInstitutionName": "金門縣政府",
+    "belongCityId": 24,
+    "belongCityName": "金門縣",
+    "belongDistName": "金湖鎮",
+    "govInstitution": "金門縣文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "082-325643#812",
+    "govDeptAddress": "金門縣金城鎮環島北路一段66號",
+    "cadasters": [
+        {
+            "fileid": 168407,
+            "name": "陳氏古厝-地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-06-20/4d48779c-cb09-430a-acd0-9637ba6a5313/陳氏古厝-地籍圖.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "金湖鎮夏興段1156-0000地號",
+    "buildingFeatures": "建築為三落大厝加右突歸帶前埕及牆規，正立面為花崗石磉平砌，上堵為斗砌磚牆；左、右、背三立面牆為花崗石砌，山牆則為斗砌磚牆。正立面水車堵飾有彩繪泥塑，榻受處門楣寫有「貞忠衍派」，榻受牆及對看堵以彩繪裝飾，插角彩繪木雕精美。",
+    "inHouseFeatures": "建築採穿鬪棟架與硬山擱楹，空間以中軸線由前至後為前落大廳、中落深井、中落正廳、後落深井、後落大廳，廳兩側為房、深井兩側為攑頭。屋內門扇雕花及彩繪精美，神祖龕木雕更為精緻。",
+    "buildingUsage": "民宿",
+    "buildingActualState": "1.多處木構造曾遭白蟻侵蝕，其餘結構大致良好。\n2.建築外牆磚體些微風化，檐板及拱仔頭些微裂損及滲漬。\n3.牆面、出料等植物竄生，彩繪部分風化剝落。",
+    "buildingKeyMaintainItem": "屋頂、牆面、出料等植物竄生建議定期清除，以免日後造成結構損壞。",
+    "bulkTransfer": 0,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "belongAddress": "正義村夏興27 號",
+    "isOpenVisit": true,
+    "openUpTime": "依民宿營業時間",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 118.39568,
+    "latitude": 24.44049,
+    "representImageSource": "曾逸仁、林建育",
+    "landScope": "金湖鎮夏興段1156地號",
+    "selfCoverage": "公告未指明歷史建築本體",
+    "addresses": [
+        {
+            "cityName": "金門縣",
+            "distName": "金湖鎮",
+            "id": 132082,
+            "caseId": 1966,
+            "caseStatus": true,
+            "cityId": 24,
+            "distId": 2402,
+            "address": "正義村夏興27號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "金門縣",
+            "distName": "金湖鎮",
+            "landNoName": "夏興段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 187839,
+            "caseId": 1966,
+            "caseStatus": true,
+            "cityId": 24,
+            "distId": 2402,
+            "landNoId": 15252,
+            "landSerialNo": "1156",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "area": "",
+            "cityLandUseTypeOther": "自然村專用區",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 143894,
+            "caseId": 1966,
+            "caseStatus": true,
+            "registerDate": 1072056851000,
+            "officialDocNo": "府教社字第0920061625號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[118.3958167668331,24.440249693220057],[118.39556591247333,24.440330058651874],[118.39560109372962,24.4404297121335],[118.39585314204706,24.440355305184745],[118.3958167668331,24.440249693220057],[118.3958167668331,24.440249693220057]]]]},\"properties\":{\"envelope\":{\"left\":\"118.39556591247333\",\"top\":\"24.440249693220057\",\"right\":\"118.39585314204706\",\"bottom\":\"24.4404297121335\"},\"landLot\":\"金門縣金湖鎮夏興段1156\"}}],\"notfound\":[]}]",
+    "openVisitType": "預約開放參觀",
+    "pastHistorySource": "歷史建築清冊"
+}

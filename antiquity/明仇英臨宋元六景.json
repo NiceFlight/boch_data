@@ -1,0 +1,101 @@
+{
+    "id": 3941,
+    "caseId": "20130128000022",
+    "count": 239,
+    "shareCount": 0,
+    "representImage": 6749,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32927/photo/00e70902-7fa2-4f71-b2aa-ee3533ee012f_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32927/photo/00e70902-7fa2-4f71-b2aa-ee3533ee012f.JPG",
+        "name": "00e70902-7fa2-4f71-b2aa-ee3533ee012f"
+    },
+    "caseName": "明仇英臨宋元六景",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1359302400000,
+    "officialDocNo": "文授字第10230006433號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "仇英曾館餼於項元汴（1525-1590）家臨習宋元古畫，所見既廣，自能結合眾長而成就出精緻典雅的個人特質。本冊為仇英54歲頃，嘉靖廿六年（1547），是受聘於項元汴家時所作。共六幅，分繪高峯遠湖、雲山樓閣、山坳田舍、關山漁舍、松林村落、竹籬壓雪。用筆率意，饒富天趣，設色亦雅澹，於精麗端整中不失瀟灑。是仇氏摹古風格的代表之作，也是研究明代繪畫的重要資料。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第3、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": " 04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫001131",
+    "amount": 8,
+    "notes": "",
+    "descAge": "明",
+    "descSize": "29.2 x 47.1；29.2 x 43.2；29.3 x 43.5；29.3 x 43.8；29.3 x 46.8；29.2 x 43.8（公分）",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "仇英（約西元一四九四－一五五二年），字實父，號十洲，江蘇太倉人。年青時曾為漆工，後遇周臣，經其指授，漸有名於藝壇。工畫山水、人物、兼善花卉、鳥獸、傳世蕃馬之作，亦復不少。\r\n本冊共六幅，分繪高峯遠湖、雲山樓閣、山坳田舍、關山漁舍、松林村落、竹籬壓雪。用筆率意，饒富天趣，設色亦雅澹，於精麗端整中不失瀟灑。畫成於嘉靖廿六年（一五四七），是受聘於項元汴家時所作。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。包首：傷補，霉傷，本幅：霉傷嚴重，絹裂，傷補。",
+    "documents": [
+        {
+            "fileid": 150739,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-19/0c137d79-7891-426a-8776-58d7c9af13b5/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71122,
+            "caseId": 3941,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75465,
+            "caseId": 3941,
+            "caseStatus": true,
+            "registerDate": 1359302400000,
+            "officialDocNo": "文授字第10230006433號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,95 @@
+{
+    "id": 22987,
+    "caseId": "20240913000005",
+    "count": 47,
+    "shareCount": 0,
+    "representImage": 262329,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-09-18/eacd0d64-e279-450a-9a50-362a771569d3/K1B012547N000000000PAB_c.png"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-09-18/eacd0d64-e279-450a-9a50-362a771569d3/K1B012547N000000000PAB.png",
+        "name": "K1B012547N000000000PAB"
+    },
+    "caseName": "明 永樂 青花穿蓮龍紋天球瓶",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "具有重要藝術造詣或科學成就",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "此件青花穿蓮龍紋天球瓶形體端整，碩大渾厚，胎體緻密，釉面瑩潤，整體氣勢堂皇莊重，是國立故宮博物院所藏永樂青花瓷器中的名品。\n此件作品器身以青花繪以威武雄猛的穿蓮三爪行龍，繪畫線條流暢，青花艷麗濃重，帶有滲青鐵鏽斑點，顯現出獨特鮮明的時代風格。\n本院共藏有三件青花穿蓮龍紋天球瓶，由清宮舊藏紀錄追索，三者皆藏於壽安宮，本件作品是其中品相最佳者，益顯珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第3、4、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故瓷012547",
+    "amount": 1,
+    "descAge": "明永樂",
+    "descSize": "高42.9口徑9.7 足徑15.8",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "此件天球瓶口略外侈、長頸、腹部豐碩，平底無足。口沿下畫花卉一週，上下加飾弦紋各二道。腹部畫蟠龍一條，露牙雙目圓睜，闊步張爪，龍身滿畫鱗甲，雄武矯健。隙地滿畫纏枝番蓮花，底邊飾弦紋二道。器底未施釉，露出白胎。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": " ",
+    "documents": [
+        {
+            "fileid": 262191,
+            "name": "11330087931號公告用印後PDF.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-09-13/42d63f45-1387-4ebb-a67b-784eb8e66897/11330087931號公告用印後PDF.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 135981,
+            "caseId": 22987,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 148468,
+            "caseId": 22987,
+            "caseStatus": true,
+            "registerDate": 1725345163807,
+            "officialDocNo": "文授資局物字第11330087931號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,101 @@
+{
+    "id": 3542,
+    "caseId": "20130613000024",
+    "count": 453,
+    "shareCount": 0,
+    "representImage": 188492,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-10-31/8d036dff-ff43-4140-96bf-820149751ac1/K2A000599N000000000PAA_c.png"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-10-31/8d036dff-ff43-4140-96bf-820149751ac1/K2A000599N000000000PAA.png",
+        "name": "K2A000599N000000000PAA"
+    },
+    "caseName": "明吳彬畫羅漢",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1371052800000,
+    "officialDocNo": "文資局物字第10220064921號",
+    "judgeCriteria": [
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊藝術造詣或科學成就",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "吳彬（1591-1643）是晚明變形畫風的代表人物，此軸是他為棲霞寺所作。畫中山水、人物皆具吳彬特色，同時也能藉之說明吳彬與南京地區寺院之互動關係。此作為吳彬紀年作品，屬吳彬中期之作，本件之造形及設色均為晚明變形主義風格下之重要指標作品，為極難能得之作。除藝術史價值外，也是晚明文化宗教史的重要資料。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第4條第三、四、六款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000599",
+    "amount": 1,
+    "descAge": "明",
+    "descSize": "151.1 x 80.7（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "此畫軸有吳彬款，為其萬曆辛丑（1602）之作，是為南京棲霞寺供奉之作。畫中描繪六位羅漢坐於大石上，正在觀看飛現於雲霧中的神龍。部分羅漢的五官奇特，與誇張的山石造型相應和，是晚明變形畫風的代表。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 150661,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-18/fb22f698-8f65-4448-8efe-7ee1835492e3/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 94713,
+            "caseId": 3542,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 102131,
+            "caseId": 3542,
+            "caseStatus": true,
+            "registerDate": 1371052800000,
+            "officialDocNo": "文資局物字第10220064921號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

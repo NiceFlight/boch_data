@@ -1,0 +1,101 @@
+{
+    "id": 3896,
+    "caseId": "20121112000020",
+    "count": 343,
+    "shareCount": 0,
+    "representImage": 6704,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32882/photo/b218c6b1-6e67-410a-934a-54a9faa5fa72_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32882/photo/b218c6b1-6e67-410a-934a-54a9faa5fa72.JPG",
+        "name": "b218c6b1-6e67-410a-934a-54a9faa5fa72"
+    },
+    "caseName": "陳侯午簋",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1352649600000,
+    "officialDocNo": "文授字第10120135331號",
+    "judgeCriteria": [
+        "具有史事重要淵源",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "陳侯午方座簋，器形復古，兩龍形獸耳外伸，比例上略大，上有重環紋與圓渦紋，腹部、圈足與方座飾波曲紋。腹內有銘文8行36字：「隹（唯）十又四年， （陳）侯午台（以）群者（諸）侯獻金乍（作）皇妣孝大妃祭器， （敦）台（以）蒸，台（以）嘗保又（有）齊邦，永 （世）毋忘」。記田齊桓公（即陳侯午）十四年為先母孝大妃作此祭器之事。銘文記載齊太公和之子桓公田午之重要史料，作器時間在公元前371年，可補文獻之不足。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第2、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局 ",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "中銅000590",
+    "amount": 1,
+    "notes": "",
+    "descAge": "戰國",
+    "descSize": "高34.1cm",
+    "descMaterial": "銅",
+    "reserveStatusDesc": "方座簋，獸耳上有重環紋與圓渦紋，腹部、圈足與方座飾波曲紋。腹內有銘文35字。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 150786,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-19/d9a40a65-899d-4c78-a56b-b24fc35ccf4d/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71163,
+            "caseId": 3896,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75510,
+            "caseId": 3896,
+            "caseStatus": true,
+            "registerDate": 1352649600000,
+            "officialDocNo": "文授字第10120135331號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

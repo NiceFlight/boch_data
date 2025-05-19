@@ -1,0 +1,99 @@
+{
+    "id": 17109,
+    "caseId": "20191004000005",
+    "count": 300,
+    "shareCount": 0,
+    "representImage": 61733,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-10-04/24da0ccb-9903-410a-8f82-267234f9e6b8/IMG_0688_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-10-04/24da0ccb-9903-410a-8f82-267234f9e6b8/IMG_0688.jpg",
+        "name": "IMG_0688"
+    },
+    "caseName": "澎湖天后宮「聖德母恩」楹聯",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1565884800000,
+    "officialDocNo": "中華民國108年8月16日府授文博字第1083702652號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者"
+    ],
+    "registerReason": "1、具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：楹聯上聯引澎湖有「三十六嶋」之說，最早源於元代汪大淵《島夷志略》的說法地區媽祖信仰；下聯「二百餘年」應指康熙23年(1684)領臺後，至大正12年(1923)已歷二百餘年，可對應天后宮於大正12年「天后宮改建碑記」有「廟修自前清康熙時代」一句。\n 2、具有地方重要人物或歷史事件之深厚淵源者：此聯以北甲眾弟子為名所獻，並鈐有「北甲」「北辰宮」二印，說明馬公北甲北辰宮參與天后宮的重建。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00646-P-106-0017",
+    "amount": 2,
+    "descAge": "1923年",
+    "descSize": "高224/寬32/厚7(公分)",
+    "descMaterial": "木",
+    "reserveStatusDesc": "直長形弧面木質楹聯，上下與聯面一體、分別刻飾蝙蝠與如意，頂於蝙蝠後有一金屬掛環，蝙蝠為紅金色，如意施彩色；聯面黑漆，字皆笑竹（陰刻）貼金。上聯「聖德配乾坤三十六嶋生靈永賴」，下聯「母恩深雨露二百餘年古廟重興」，上聯年款「大正十二年癸亥孟冬月重新落成」，下聯落款「北甲眾弟子仝敬酬」，後有二方印「北甲」與「北辰宮印」。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "時間：大正十二年癸亥孟冬月重新落成    捐贈者：北甲眾弟子仝敬酬",
+    "saveEnvironment": 2,
+    "reserveStatus": "正殿明間前副點金柱上",
+    "documents": [
+        {
+            "fileid": 61738,
+            "name": "澎湖天后宮-聖德母恩楹聯.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-10-04/f845b7fa-7c4b-460a-8d03-a5126477167d/澎湖天后宮-聖德母恩楹聯.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.564038,
+    "latitude": 23.564693,
+    "representImageSource": "澎湖縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "澎湖天后宮",
+            "keepName": "蔡光明",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "澎湖天后宮",
+            "keepAddressNew": "澎湖縣馬公市中央里正義街1號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 127668,
+            "caseId": 17109,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "中央里正義街1號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 138590,
+            "caseId": 17109,
+            "caseStatus": true,
+            "registerDate": 1565884800000,
+            "officialDocNo": "府授文博字第1083702652號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

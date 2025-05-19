@@ -1,0 +1,111 @@
+{
+    "id": 4103,
+    "caseId": "20110422000031",
+    "count": 254,
+    "shareCount": 0,
+    "representImage": 7021,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/34340/photo/38b237da-7beb-42ad-b82b-bbea70961eea_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/34340/photo/38b237da-7beb-42ad-b82b-bbea70961eea.JPG",
+        "name": "38b237da-7beb-42ad-b82b-bbea70961eea"
+    },
+    "caseName": "虞允文書劄子（宋人法書三冊12）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1303401600000,
+    "officialDocNo": "會授資籌二字10020040353號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事重要淵源",
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "虞允文為南宋名將，此件書法雍容寬綽，極具個人特色，又內容豐富頗具史料價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第一、二、三、四、五、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故書00024500012",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descSize": "36.8 x 50.6 公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "虞允文（1110-1174），字彬父，亦作彬甫，隆州（今四川省）仁壽人。於紹興三十一年的采石之戰，大敗金軍，阻止金人南侵。出入將相二十年，多薦知名士，又頗有文采。\n本件內容為虞允文贈與友人數件生辰壽禮，物品皆產自四川。除了養生藥材外，包括蜀墨、麥光箋等文房用具，還有文同畫竹石圖軸，及蜀善本書，雖是一般的饋贈，可看出宋人生活精緻考究的一面。書法結體雍容寬綽，極具個人特色，筆致含蓄，情趣天成。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "汚漬、霉傷。有損傷但狀況穩定。",
+    "documents": [
+        {
+            "fileid": 16465,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2017-11-06/f2c1f4f5-4654-42f4-8fd2-c00aa949b22a/公告.pdf"
+        },
+        {
+            "fileid": 152109,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-28/8ae7e23d-035a-41ef-83d6-92987032524a/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.55086199932353,
+    "latitude": 25.125603869620473,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71642,
+            "caseId": 4103,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 76115,
+            "caseId": 4103,
+            "caseStatus": true,
+            "registerDate": 1303401600000,
+            "officialDocNo": "會授資籌二字10020040353號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

@@ -1,0 +1,109 @@
+{
+    "id": 19484,
+    "caseId": "20210702000006",
+    "count": 1446,
+    "shareCount": 1,
+    "representImage": 141967,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-10-28/5de96212-0811-4999-a2b3-a5e2c55d58e3/DSC02227-hhy_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-10-28/5de96212-0811-4999-a2b3-a5e2c55d58e3/DSC02227-hhy.jpg",
+        "name": "DSC02227-hhy"
+    },
+    "caseName": "原公路局斗南站",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "興建於1952年，為少數至今仍然保留下來的交通部公路總局的建築物，是具有現代主義風格的兩層樓建築樣貌。原為交通部公路總局斗南站，是公路運輸的車站。在2015年被登錄為雲林縣歷史建築。",
+    "assetsTypeNames": "車站",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 122612,
+            "name": "中華民國104年04月28日 府文資二字第1047404384號 原公路局斗南站.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-07-05/b41cdd34-8760-4e1d-8afe-83b9f1fc43f4/中華民國104年04月28日 府文資二字第1047404384號 原公路局斗南站.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "(一)其公路總局建築物及其配置關係頗具特色及稀少性\n(二)台灣戰後建築形式跟隨機能之具體見證\n(三)為地方仕紳捐地共同參與交通建設之例證\n(四)建築空間彈性高具再利用潛力",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、2、3、4款",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "govInstitution": "雲林縣政府",
+    "govDeptName": "文化觀光處",
+    "govDeptPhone": "(05)5523218",
+    "govDeptAddress": "雲林縣斗六市大學路三段310號",
+    "cadasters": [
+        {
+            "fileid": 122473,
+            "name": "59.原公路局斗南站地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-07-02/428b9e21-a8ad-4c43-99ad-378ad376cf59/59.原公路局斗南站地籍圖.pdf"
+        },
+        {
+            "fileid": 122474,
+            "name": "59.原公路局斗南站地籍資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-07-02/e32c6265-4e3c-4352-99fd-8fe1260e1250/59.原公路局斗南站地籍資料.pdf"
+        }
+    ],
+    "buildingFeatures": "建築類別：單體建築\n建築樓層：二樓1棟\n建築構造：鋼筋混泥土造1棟\n屋頂形式：平屋頂",
+    "buildingUsage": "辦公使用",
+    "buildingActualState": "已完成修復，並由中正大學成人及繼續教育學系營運作為為青銀共創基地",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "openUpTime": "不開放參觀",
+    "isOpenDownload": false,
+    "longitude": 120.47808,
+    "latitude": 23.6731,
+    "representImageSource": "雲林縣政府",
+    "landScope": "雲林縣斗南鎮興國段204地號，土地面積1912平方公尺",
+    "selfCoverage": "建築物面積740.99平方公尺(1層362.57平方公尺；2層178.64平方公尺；騎樓76.74平方公尺；地下層123.04平方公尺)",
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "斗南鎮",
+            "id": 115091,
+            "caseId": 19484,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1301,
+            "address": "南昌路145號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "雲林縣",
+            "distName": "斗南鎮",
+            "landNoName": "興國段",
+            "id": 159619,
+            "caseId": 19484,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1301,
+            "landNoId": 11576,
+            "landSerialNo": "204",
+            "landownership": 1,
+            "area": "1912",
+            "noncityLandUseTypeOther": "",
+            "note": "重測前：斗南段２８３之１、２７８之１７號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 125343,
+            "caseId": 19484,
+            "caseStatus": true,
+            "registerDate": 1430161643144,
+            "officialDocNo": "府文資二字第1047404384B號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.4783806597153,23.673036551401456],[120.47840047764556,23.672889751761037],[120.47840612842641,23.67284830095688],[120.47841156828568,23.672809848207574],[120.47841684717197,23.672770454020537],[120.47842165731005,23.672732077708858],[120.47842679227192,23.672693127298025],[120.47843223572688,23.672654259192683],[120.47843723836203,23.67261554762277],[120.47844943263115,23.672527057818527],[120.4781466815266,23.67251865567664],[120.4781088629452,23.672549038762966],[120.47805315227669,23.672991180263974],[120.4780884002971,23.67302674240882],[120.47809942929823,23.67302709560161],[120.4783806597153,23.673036551401456],[120.4783806597153,23.673036551401456]]]]},\"properties\":{\"envelope\":{\"left\":\"120.47805315227669\",\"top\":\"23.67251865567664\",\"right\":\"120.47844943263115\",\"bottom\":\"23.673036551401456\"},\"landLot\":\"雲林縣斗南鎮興國段204\"}}],\"notfound\":[]}]",
+    "openVisitType": ""
+}

@@ -1,0 +1,101 @@
+{
+    "id": 17359,
+    "caseId": "20200219000008",
+    "count": 395,
+    "shareCount": 0,
+    "representImage": 66143,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-02-14/ff1f7201-1311-4ca9-bcc6-3cd2c3951959/05 (1)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-02-14/ff1f7201-1311-4ca9-bcc6-3cd2c3951959/05 (1).jpg",
+        "name": "05 (1)"
+    },
+    "caseName": "鵪鶉置物",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1581324277763,
+    "officialDocNo": "中華民國109年2月10日北市獻編字第1093001230號",
+    "judgeCriteria": [
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "1.\t反映19世紀末至20世紀初日本牙雕工藝特色，鳥類型態姿勢及具寫真，顯示工藝精細，有款。\n2.\t技藝成熟，細巧，鳥喙部啄羽毛絨捲起，對生物觀察入微，藝術水準及價值高。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第3、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "台北市萬華區中華路一段174之1號",
+    "reservationCode": "典藏05",
+    "amount": 2,
+    "descAge": "日本明治時期",
+    "descSize": "公：長12公分/高8公分/母：長9公分/高8.5公分",
+    "descMaterial": "象牙",
+    "reserveStatusDesc": "丸喜，為日本東京一專門從事牙雕、根付及金工藝術的工作室。本組牙雕作品即出自「丸喜」。雕琢成一對鵪鶉，鵪鶉小首，短頸，尖啄，團身，鳥身翎毛層疊有序，紋絲不亂。其一目視前方，張嘴翹舌，身軀飽滿，圓滾如球；另一鵪鶉低首正用鳥喙整理胸前的羽毛，幾根羽毛翩翩翹起，甚為靈巧生動。整組雕工刻劃精巧，惟妙惟肖。鵪鶉臀部下方皆有「日本國丸喜製」以及「如真」之款識，應為藝術家「如真」製作於日本丸喜工作室。\n\n鵪鶉為體形較小的雉科鳥類，如今所見的鵪鶉，最早是在日本被馴化的。野生鵪鶉在日本的首次記錄出現在8世紀，而較大規模的馴養則開始於12世紀。最初為半馴化歌唱鳥，之後才以產蛋為主要功能。",
+    "pastHistorySource": 1,
+    "saveEnvironment": 1,
+    "reserveStatus": "保存良好",
+    "documents": [
+        {
+            "fileid": 66144,
+            "name": "臺北市立文獻館公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-02-14/2410c7c3-c808-47a7-826d-b15e8111019c/臺北市立文獻館公告.pdf"
+        },
+        {
+            "fileid": 66145,
+            "name": "臺北市一般古物指定公告表_鵪鶉置物.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-02-14/7ed9eae7-89db-4eba-bf0c-2a680582a021/臺北市一般古物指定公告表_鵪鶉置物.pdf"
+        }
+    ],
+    "keepNames": [
+        {
+            "keepNameIdStr": "郭○穎",
+            "keepName": "郭芝穎",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "郭○穎",
+            "keepAddressNew": "台北市中正區重慶南路二段15號7樓",
+            "saveSpaceOther": "庫房",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "大安區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 6999,
+            "caseId": 17359,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 6999,
+            "caseId": 17359,
+            "caseStatus": true,
+            "registerDate": 1581324277763,
+            "officialDocNo": "中華民國109年2月10日北市獻編字第1093001230號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

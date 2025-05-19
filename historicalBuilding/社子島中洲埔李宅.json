@@ -1,0 +1,103 @@
+{
+    "id": 17784,
+    "caseId": "20200902000001",
+    "count": 1986,
+    "shareCount": 0,
+    "representImage": 205113,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/6112d7a6-b49f-4b7d-bcf3-bc7f3362803a/代表圖像_社子島中洲埔李宅_20221114_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/6112d7a6-b49f-4b7d-bcf3-bc7f3362803a/代表圖像_社子島中洲埔李宅_20221114.jpg",
+        "name": "代表圖像_社子島中洲埔李宅_20221114"
+    },
+    "caseName": "社子島中洲埔李宅",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "建物原為興建李忠記宅之李九世之弟李水交興建之祖厝，由其下四房共同居住，為中洲埔目前僅留存一棟同為兌山李家之宅邸。建物座向為坐東北朝西南，閩南建築三合院形式，正門木板雙開門，兩側窗戶為洋式上下推拉窗，窗扇分割特別，保存狀況良好具特色，窗戶上方設有突出之磚線腳。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 71741,
+            "name": "07 公告-社子島中洲埔李宅 歷史建築.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/59012314-ec6c-4bb1-871b-da7408ba3ee2/07 公告-社子島中洲埔李宅 歷史建築.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者"
+    ],
+    "registerReason": "1.建物原為興建李忠記宅之李九世之弟李水交興建之祖厝，由其下四房共同居住，為中洲埔目前僅留存一棟同為兌山李家之宅邸。\n2.建物座向為坐東北朝西南，閩南建築三合院形式，正門木板雙開門，兩側窗戶為洋式上下推拉窗，窗扇分割特別，保存狀況良好具特色，窗戶上方設有突出之磚線腳。\n3.外牆為磚造，正身正面為「凹壽」形式，內部為木造穿斗式屋架，室內及正面牆面上部為編竹夾泥牆，下部為木作裝修；山牆為單弧型馬背。護龍為磚造，前端山牆有三弧形之「水形」馬背。\n4.符合歷史建築紀念建築登錄廢止審查及輔助辦法第2條第1項第1、3款登錄基準。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 71742,
+            "name": "公告附件-地籍地形圖-李宅.docx",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/afdd03c3-9279-4210-b468-249f8cfac8a7/公告附件-地籍地形圖-李宅.docx"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "longitude": 121.47762690288707,
+    "latitude": 25.106045826820143,
+    "representImageSource": "臺北市文化局",
+    "landScope": "建物無登記建號，建築物坐落土地為士林區中洲段312地號(部分，該筆土地面積為2,105平方公尺)。（實際保存面積須以保存範圍實測數據為準）",
+    "selfCoverage": "歷史建築本體為社子島中洲埔李宅建築本體(建物面積為213.47平方公尺)，建物無登記建號。（實際保存面積須以實際保存範圍實測數據為準）\n",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 116467,
+            "caseId": 17784,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "延平北路9段92巷15號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "中洲段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 163079,
+            "caseId": 17784,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 537,
+            "landSerialNo": "312",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "2105",
+            "cityLandUseTypeOther": "變更中",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 127170,
+            "caseId": 17784,
+            "caseStatus": true,
+            "registerDate": 1586275200000,
+            "officialDocNo": "北市文化文資字第10930170787號",
+            "classificationId": 1,
+            "note": "本建物位於士林社子島地區細部計畫(草案)公園用地(公十七)範圍內，得配合社子島地區開發計畫提高本建物高程。"
+        }
+    ],
+    "geojson": "[{\"address\":[{\"address\":\"1. 個案名稱: 社子島中洲埔李宅 <br />\\n      2. 地址: 台北市士林區延平北路9段92巷15號 <br />\\n      3. 種類: 宅第 <br />\\n      4. 指定登錄理由: 1.建物原為興建李忠記宅之李九世之弟李水交興建之祖厝，由其下四房共同居住，為中洲埔目前僅留存一棟同為兌山李家之宅邸。\\n2.建物座向為坐東北朝西南，閩南建築三合院形式，正門木板雙開門，兩側窗戶為洋式上下推拉窗，窗扇分割特別，保存狀況良好具特色，窗戶上方設有突出之磚線腳。\\n3.外牆為磚造，正身正面為「凹壽」形式，內部為木造穿斗式屋架，室內及正面牆面上部為編竹夾泥牆，下部為木作裝修；山牆為單弧型馬背。護龍為磚造，前端山牆有三弧形之「水形」馬背。\\n4.符合歷史建築紀念建築登錄廢止審查及輔助辦法第2條第1項第1、3款登錄基準。 <br />\\n      5. 最後一筆公告日期: 2020-04-08 <br />\\n      6. 最後一筆公告文號: 北市文化文資字第10930170787號 <br />\\n      7. 管理單位: 私人 <br />\\n      8. 使用單位: 私人 <br />\\n      9. 建物狀態: 待修復 <br />\",\"lat\":25.106045826820143,\"lng\":121.47762690288707}]}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": "臺北市社子島地區文化資產普查計畫"
+}

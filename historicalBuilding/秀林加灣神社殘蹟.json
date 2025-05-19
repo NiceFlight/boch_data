@@ -1,0 +1,150 @@
+{
+    "id": 1883,
+    "caseId": "20110412000001",
+    "count": 2277,
+    "shareCount": 0,
+    "representImage": 210056,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-03-29/07a500bf-20c5-4e37-a40a-4457cec43fac/a秀林-加灣神社殘蹟03_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-03-29/07a500bf-20c5-4e37-a40a-4457cec43fac/a秀林-加灣神社殘蹟03.jpg",
+        "name": "a秀林-加灣神社殘蹟03"
+    },
+    "caseName": "秀林加灣神社殘蹟",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "神社是日本人與神道教的精神與信仰中心，神社主要祭祀對象為主神，─「天照大神」（太陽女神），日本人建築神社的目的不外乎祈求神風調雨順， 日本人信奉道教，神社有神主一名，前面是一個大的拜殿，後面是小的神殿，主要是膜拜能久親王以及造化三神大國魂命、大己貴命、少彥名命，或於特別慶典時使用。當時日本人為了要同化台灣人一律要敬拜神社，信奉道教並膜拜日本天皇。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "具有歷史、文化、藝術價值之建造物(神社)",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1302591566000,
+    "officialDocNo": "府文資字第1000061081B號",
+    "documents": [
+        {
+            "fileid": 152735,
+            "name": "秀林加灣神社殘蹟指定為歷史建築公告1000412.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-02-17/ac3887ad-97b1-4b56-adfb-939701089cc8/秀林加灣神社殘蹟指定為歷史建築公告1000412.pdf"
+        },
+        {
+            "fileid": 163133,
+            "name": "秀林加灣神社殘蹟重測調整定著土地地號及面積公告1010614.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-09/b1b9630d-6b04-48fc-b1bf-5f5199c49957/秀林加灣神社殘蹟重測調整定著土地地號及面積公告1010614.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "為日治時期治台政策之遺構，類似型態稀少，雖為殘蹟，亦具備有文化價值者。",
+    "lawsReference": "文化資產保存法第15條暨歷史建築登錄廢止審查及輔助辦法第4條規定。",
+    "govInstitutionCode": "970",
+    "govInstitutionName": "花蓮縣政府",
+    "belongCityId": 23,
+    "belongCityName": "花蓮縣",
+    "belongDistName": "秀林鄉",
+    "govInstitution": "花蓮縣文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-8227121#316",
+    "govDeptAddress": "花蓮縣花蓮市文復路6號",
+    "cadasters": [
+        {
+            "fileid": 3785,
+            "name": "秀林加灣神社殘蹟2.bmp",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/1167/photo/秀林加灣神社殘蹟2.bmp"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 6,
+    "nonCityLandUseTypeName": "山坡地保育區",
+    "nonCityLandUseSubTypeId": 5,
+    "nonCityLandUseSubTypeName": "農牧",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "花蓮縣秀林鄉景美段1570地號。",
+    "buildingFeatures": "一共分三層，第一層有一座鳥居、第二層為石階與御手洗殘蹟、頂層有神社殘蹟。",
+    "inHouseFeatures": "無。",
+    "buildingUsage": "現況保存。",
+    "buildingActualState": "位於產業道路旁無再利用。",
+    "buildingKeyMaintainItem": "應作為日常維護及環境清潔工作，並建議規劃步道及解說牌。",
+    "bulkTransfer": 0,
+    "belongAddress": "花蓮縣秀林鄉景美村景美國小後方",
+    "isOpenVisit": false,
+    "openUpTime": "戶外空間，隨時參觀。",
+    "isCharge": false,
+    "isOpenDownload": true,
+    "longitude": 121.605180381879,
+    "latitude": 24.0831794821576,
+    "representImageSource": "花蓮縣文化局",
+    "landScope": "花蓮縣秀林鄉德列克段65、76地號(原：景美段1570地號地號)，面積5420.59平方公尺。",
+    "selfCoverage": "神社鳥居一座及部分參拜道階梯及本殿基壇、石砌擋土牆等遺跡。",
+    "addresses": [
+        {
+            "cityName": "花蓮縣",
+            "distName": "秀林鄉",
+            "id": 107535,
+            "caseId": 1883,
+            "caseStatus": true,
+            "cityId": 23,
+            "distId": 2303,
+            "address": "花蓮縣秀林鄉景美村景美國小後方"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "花蓮縣",
+            "distName": "秀林鄉",
+            "landNoName": "德列克段",
+            "id": 134222,
+            "caseId": 1883,
+            "caseStatus": true,
+            "cityId": 23,
+            "distId": 2303,
+            "landNoId": 16180,
+            "landSerialNo": "65",
+            "landownership": 1,
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "花蓮縣",
+            "distName": "秀林鄉",
+            "landNoName": "德列克段",
+            "id": 134223,
+            "caseId": 1883,
+            "caseStatus": true,
+            "cityId": 23,
+            "distId": 2303,
+            "landNoId": 16180,
+            "landSerialNo": "76",
+            "landownership": 1,
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 115544,
+            "caseId": 1883,
+            "caseStatus": true,
+            "registerDate": 1302591566000,
+            "officialDocNo": "府文資字第1000061081B號",
+            "classificationId": 1
+        },
+        {
+            "id": 115545,
+            "caseId": 1883,
+            "caseStatus": true,
+            "registerDate": 1339664386100,
+            "officialDocNo": "府文資字第1010104415A號",
+            "classificationId": 2
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.60584726106872,24.083262873361445],[121.60610082061177,24.083181084936452],[121.60602651015225,24.083049544937595],[121.60588074094994,24.08309596345897],[121.60574817307968,24.082741227997904],[121.60559109588914,24.08280267037637],[121.6056153713858,24.08288082981999],[121.60560897233715,24.08290666947645],[121.60568628963294,24.08288078372517],[121.60570428715883,24.08294355527157],[121.60562378825288,24.08296838819298],[121.60529570370504,24.083046588279043],[121.6052913355649,24.08302951340201],[121.60526270525621,24.0830418070277],[121.60518621693208,24.083074623667837],[121.60517556406849,24.08312242095536],[121.60522499868645,24.083261734598178],[121.60530788042286,24.08324372751249],[121.6054215640107,24.08321301182437],[121.60551729886461,24.083190628784145],[121.60578822232681,24.083120464862283],[121.60584726106872,24.083262873361445],[121.60584726106872,24.083262873361445]]]]},\"properties\":{\"envelope\":{\"left\":\"121.60517556406849\",\"top\":\"24.082741227997904\",\"right\":\"121.60610082061177\",\"bottom\":\"24.083262873361445\"},\"landLot\":\"花蓮縣秀林鄉德列克段65\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.60501250383415,24.083675685721214],[121.6050575060707,24.083648041030386],[121.60504663514759,24.08360288613482],[121.60498865763344,24.083362062528334],[121.6051884803279,24.083299061120876],[121.60522499868645,24.083261734598178],[121.60517556406849,24.08312242095536],[121.60518621693208,24.083074623667837],[121.60513145500198,24.08304489069831],[121.60507424710234,24.083038814709596],[121.60502480268352,24.08303355672543],[121.60484198118078,24.082976348907813],[121.60427360214072,24.08338163864612],[121.60431907719023,24.083821936637587],[121.604467555786,24.08377205071671],[121.60487586371205,24.083659964745177],[121.60491796861139,24.083654109844407],[121.60501250383415,24.083675685721214],[121.60501250383415,24.083675685721214]]]]},\"properties\":{\"envelope\":{\"left\":\"121.60427360214072\",\"top\":\"24.082976348907813\",\"right\":\"121.60522499868645\",\"bottom\":\"24.083821936637587\"},\"landLot\":\"花蓮縣秀林鄉德列克段76\"}}],\"notfound\":[]}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": "訪談秀林鄉景美村加灣編輯委員 田信德 君提供。"
+}

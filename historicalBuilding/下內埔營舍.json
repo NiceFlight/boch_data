@@ -1,0 +1,112 @@
+{
+    "id": 1054,
+    "caseId": "20061030000001",
+    "count": 2586,
+    "shareCount": 4,
+    "representImage": 169383,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/9ca5abe3-87ac-4e56-8756-de73127ea7b7/代表圖像_下內埔營舍_20220613_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/9ca5abe3-87ac-4e56-8756-de73127ea7b7/代表圖像_下內埔營舍_20220613.jpeg",
+        "name": "代表圖像_下內埔營舍_20220613"
+    },
+    "caseName": "下內埔營舍",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "下內埔營舍係於民國40年代，由兵工以魚鱗木板建造之1層磚木造軍舍，約20棟，原係陸軍聯勤總部軍備物資單位使用，供裝甲兵部隊停放戰車之用，嗣後該部隊移防湖口，營區改為陸總部軍官宿舍，民國57-58年始分配予陸軍退伍軍官做為單身退員宿舍之用迄今約30餘年。\r\n原建物為磚木造營舍，坐落土地因係國小用地，業已完成建物拆除作業，正由臺北市政府教育局規劃興建和平國小用地。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "具有歷史、文化、藝術價值之建造物",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 167497,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/662fce19-aefa-47e0-bef1-77f03ab1e88e/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "下內埔營舍乃早期國軍工兵自建之營舍，係磚牆與木桁架屋頂構造物，嗣後成為單身退員宿舍使用，建物南北向，成平行式佈局，保存非常時期退員生活文化、記憶、空間之環境氛圍，具歷史意義與特色。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 167498,
+            "name": "f03725ca-dd03-412d-8668-c83f53f543a5.JPG",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/f2d2c588-6441-430f-9dec-962d4d127f16/f03725ca-dd03-412d-8668-c83f53f543a5.JPG"
+        }
+    ],
+    "cityLandUseTypeId": 5,
+    "cityLandUseTypeName": "文教區",
+    "locationLandNo": "臺北市大安區學府段1小段571部分地號土地",
+    "buildingFeatures": "原為下內埔營舍之入口門柱，柱身崁入卵石柱飾，每柱約長102公分，寬102公分，高213公分。\r\n原為下內埔營舍使用之洗手臺長約長993公分，寬113公分，高116公分。",
+    "inHouseFeatures": "",
+    "buildingUsage": "參考建物配置之空間紋理、環境氛圍之情境、意象融入未來新校園規劃設計。",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "保存範圍：入口大門之雙柱及洗手臺1座。",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.545461,
+    "latitude": 25.020939,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市大安區學府段1小段571部分地號土地(入口大門之雙柱及洗手臺1座)",
+    "selfCoverage": "13平方公尺(以現場測量為準)",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 82948,
+            "caseId": 1054,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "辛亥路三段（復興南路與基隆路間）的和平國小用地範圍內"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "學府段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 91966,
+            "caseId": 1054,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 741,
+            "landSerialNo": "571",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "20,022平方公尺",
+            "cityLandUseTypeOther": "國小用地（公共設施用地）",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 89078,
+            "caseId": 1054,
+            "caseStatus": true,
+            "registerDate": 1162137600000,
+            "officialDocNo": "府文化二字09530322700號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "訪查"
+}

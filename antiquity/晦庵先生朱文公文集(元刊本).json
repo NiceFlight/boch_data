@@ -1,0 +1,105 @@
+{
+    "id": 3480,
+    "caseId": "20130610000016",
+    "count": 39,
+    "shareCount": 0,
+    "representImage": 6072,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7528/photo/晦庵先生朱文公文集(元刊本)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7528/photo/晦庵先生朱文公文集(元刊本).jpg",
+        "name": "晦庵先生朱文公文集(元刊本)"
+    },
+    "caseName": "晦庵先生朱文公文集(元刊本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1370793600000,
+    "officialDocNo": "文資局物字第10220062581號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "元刊本。\r\n此本版面清晰，非後印，且未經明人修補。是書宋本有二：一為十行十九字的浙本，一為十行十八字的閩本；此本顯屬閩本系統。\r\n元版古籍，質精且罕見稀有，具重要歷史、文化與版本學研究價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號10495",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 100,
+    "notes": "",
+    "descAge": "元代",
+    "descCreator": "宋朱熹撰",
+    "descSize": "半葉10行，版匡20.7公分x16.7公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "一百卷，100冊。\n\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 6073,
+            "name": "435c6abc-7859-446e-8329-cf740fccf421.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44083/file/435c6abc-7859-446e-8329-cf740fccf421.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3622,
+            "caseId": 3480,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3622,
+            "caseId": 3480,
+            "caseStatus": true,
+            "registerDate": 1370793600000,
+            "officialDocNo": "文資局物字第10220062581號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

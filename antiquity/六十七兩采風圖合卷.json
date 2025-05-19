@@ -1,0 +1,106 @@
+{
+    "id": 4438,
+    "caseId": "20151221000004",
+    "count": 775,
+    "shareCount": 0,
+    "representImage": 7457,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43575/photo/c7edd133-1334-45ac-811f-223ed948a90b_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43575/photo/c7edd133-1334-45ac-811f-223ed948a90b.jpg",
+        "name": "c7edd133-1334-45ac-811f-223ed948a90b"
+    },
+    "caseName": "六十七兩采風圖合卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1450627200000,
+    "officialDocNo": "文授資局物字第10430113451號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本圖冊係乾隆年間滿籍巡臺御史六十七之《臺海采風圖》、《番社采風圖》的殘存摹本。原圖為六十七於清乾隆九年至十二年（1744-1747）巡臺期間命畫工繪製，並編寫圖考。\r\n此藏本有24幅圖畫冊頁，內含風俗圖12幅、風物圖12幅，描繪18世紀臺灣原住民捕鹿、種芋、耕種、刈禾、舂米、迎婦、織布、乘屋等生活風俗圖及油菜花、曇花、扶桑花、龍眼、畨薯、梹榔、黃梨、釋迦果等當時臺灣物產圖，並各有題詞，可作為研究臺灣早期住民生活、風俗與文化之重要圖文資料，具有重要歷史與文化價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第1、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 3,
+    "belongCityName": "新北市",
+    "belongDistName": "中和區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "075915 ",
+    "keepNameId": 20,
+    "keepName": "國立臺灣圖書館",
+    "keepNameNew": 20,
+    "keepAddressNew": "235新北市中和區中安街85號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "清乾隆年間(1736-1795)",
+    "descCreator": "六十七",
+    "descSize": "長36.5公分；寬28.5公分；高2.7公分",
+    "descMaterial": "紙質",
+    "reserveStatusDesc": "本圖冊由六十七於清乾隆9年（1744）4月以戶科給事中巡臺時命畫工繪製，預備呈獻皇帝，藉以歌頌其教化事功之作。本館藏本為24幅圖畫冊頁，內含風俗圖12幅、風物圖12幅（3幅重複）。24幅冊頁皆無題款，亦無鈐印。\n1934年（昭和9年），臺灣總督府圖書館第五任館長山中樵撰有〈六十七と兩采風圖〉一文，認為12幅風俗圖採自〈番社采風圖〉，另12幅風物圖則採自〈臺海采風圖〉，此即「合卷」說之由來；同時，也認定《六十七兩采風圖卷》為殘存摹本。在風俗圖方面，其內容包括有描繪當時原住民維生方式的捕鹿、種芋、耕種、刈禾、舂米圖，描繪生活風俗習慣的迎婦、織布、乘屋等。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "1934",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 7458,
+            "name": "a3d8736f-b8c3-4e21-bd19-96c679205447.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44677/file/a3d8736f-b8c3-4e21-bd19-96c679205447.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立臺灣圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立臺灣圖書館",
+            "keepName": "國立臺灣圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立臺灣圖書館",
+            "keepAddressNew": "235新北市中和區中安街85號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "新北市",
+            "keepNameDistName": "中和區",
+            "keepNameAddress": "中安街85號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "新北市",
+            "distName": "中和區",
+            "id": 4582,
+            "caseId": 4438,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 315
+        }
+    ],
+    "announces": [
+        {
+            "id": 4582,
+            "caseId": 4438,
+            "caseStatus": true,
+            "registerDate": 1450627200000,
+            "officialDocNo": "文授資局物字第10430113451號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

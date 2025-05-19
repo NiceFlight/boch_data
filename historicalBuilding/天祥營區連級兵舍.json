@@ -1,0 +1,119 @@
+{
+    "id": 17675,
+    "caseId": "20200717000001",
+    "count": 1736,
+    "shareCount": 1,
+    "representImage": 70177,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-07-17/a01b47d1-d2f8-4357-a687-83e101fd18ee/天祥圖片1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-07-17/a01b47d1-d2f8-4357-a687-83e101fd18ee/天祥圖片1.jpg",
+        "name": "天祥圖片1"
+    },
+    "caseName": "天祥營區連級兵舍",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "澎湖地區國民政府時期第一批興建之兵舍，屬連級官士兵活動場域，見證歷史澎湖要塞基地之基礎連隊居住狀況。\n",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "兵舍",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1563811200000,
+    "officialDocNo": "府授文資字10837022261號",
+    "documents": [
+        {
+            "fileid": 70176,
+            "name": "天祥營區連級兵舍-公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-07-17/93915ccf-5e7d-4ba5-848c-23737825652e/天祥營區連級兵舍-公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "(1) 表現地域風貌或民間藝術特色者：漿砌石造，外在形貌及構造型式為早期國軍兵宿之特色，且三棟建築物之配 置格局為標準之連集合場，具軍事歷史文化價值。\n(2) 具地區性建造物類型之特色者： 澎湖地區國民政府時期第一批興建之兵舍，屬連級官士兵活動場域，見證歷史澎湖要塞基地之基礎連隊居住狀況。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、3款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "06-9261141#138",
+    "govDeptAddress": "澎湖縣馬公市中華路230號",
+    "cadasters": [
+        {
+            "fileid": 70178,
+            "name": "地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2020-07-17/674b0065-d728-4ff1-b564-f781af5e5f55/地籍圖.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "中衛段1337地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "由國軍使用，做為兵舍。",
+    "buildingActualState": "本標的位於軍事用地，需提前申請方能進入訪視。",
+    "buildingKeyMaintainItem": "依原樣保存維護。",
+    "bulkTransfer": 0,
+    "belongAddress": "中衛段1337地號",
+    "isOpenVisit": false,
+    "openUpTime": "不開放",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 119.587009,
+    "latitude": 23.566043,
+    "representImageSource": "澎湖縣政府文化局文化資產科",
+    "landScope": "澎湖縣馬公市中衛段1337地號",
+    "selfCoverage": "建物定著基地範圍，包括三幢建物共同形塑之集會空間。不包含中衛段1337地號上其它建物。",
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 110297,
+            "caseId": 17675,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "中衛段1337地號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "landNoName": "中衛段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 142287,
+            "caseId": 17675,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "landNoId": 15495,
+            "landSerialNo": "1337",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "area": "3690.31平方公尺",
+            "cityLandUseTypeOther": "機關用地",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 119303,
+            "caseId": 17675,
+            "caseStatus": true,
+            "registerDate": 1563811200000,
+            "officialDocNo": "府授文資字10837022261號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[119.58750304090562,23.566237687289973],[119.58747468618071,23.566164494547998],[119.58741365576314,23.56599780388482],[119.5873233506502,23.565835511949043],[119.58699921973873,23.565856399818706],[119.58679079656592,23.56605593987081],[119.58673461054539,23.566109733519923],[119.58656761334255,23.565884211717975],[119.58651924552045,23.565887330980523],[119.58659711411632,23.56607441313259],[119.58679953637852,23.56653021167875],[119.58724965536032,23.566358478830008],[119.58750304090562,23.566237687289973],[119.58750304090562,23.566237687289973]],[[119.58685169860472,23.566468680940574],[119.58677538017983,23.56629743252152],[119.58707586353518,23.566175927328196],[119.58714840250884,23.566325523693763],[119.58707807433744,23.56635575935564],[119.5871001989237,23.56640049830256],[119.5869322218375,23.566466013437402],[119.58685169860472,23.566468680940574],[119.58685169860472,23.566468680940574]]]]},\"properties\":{\"envelope\":{\"left\":\"119.58651924552045\",\"top\":\"23.565835511949043\",\"right\":\"119.58750304090562\",\"bottom\":\"23.566530211678749\"},\"landLot\":\"澎湖縣馬公市中衛段1337\"}}],\"notfound\":[]}]",
+    "openVisitType": ""
+}

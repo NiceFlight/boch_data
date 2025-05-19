@@ -1,0 +1,132 @@
+{
+    "id": 17051,
+    "caseId": "20190827000005",
+    "count": 1818,
+    "shareCount": 0,
+    "representImage": 224352,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-05-26/0032b36f-900f-411a-b107-6e80767f8766/IMG_1628_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-05-26/0032b36f-900f-411a-b107-6e80767f8766/IMG_1628.jpg",
+        "name": "IMG_1628"
+    },
+    "caseName": "大溪和平路協興",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本店原名「恆產」，經營建材及煤炭事業，後易名「協興」，1967年轉作藥局，是大溪老街少數未曾易主的店屋。協興的格局為兩落一過水，牌樓面有圓形間柱及3道圓拱，間柱柱身及柱墩表面為洗石子，柱頭以上使用清水紅磚砌築。山牆兩側利用紅磚橫豎疊砌出花樣，巧思獨具。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "古市街類",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1073923200000,
+    "officialDocNo": "府文資字第0930534224號",
+    "documents": [
+        {
+            "fileid": 184757,
+            "name": "府文資字第0930534224號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-09-21/129bfe8e-397b-4479-8fe0-e5699384ce60/府文資字第0930534224號.pdf"
+        },
+        {
+            "fileid": 184758,
+            "name": "府文資字第10303236382號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-09-21/b8caf1af-b620-4e85-958d-cdd11749bd1a/府文資字第10303236382號.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "具有保存價值",
+    "lawsReference": "文化資產保存法第二十七條之一、歷史建築登錄輔助辦法第七條\n桃園縣九十二年九月十五日召開之歷史建築登錄審查會議決議",
+    "govInstitutionCode": "330",
+    "govInstitutionName": "桃園市政府",
+    "belongCityId": 5,
+    "belongCityName": "桃園市",
+    "belongDistName": "大溪區",
+    "govInstitution": "桃園市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-3322592分機8612",
+    "govDeptAddress": "桃園市桃園區縣府路21號",
+    "cadasters": [
+        {
+            "fileid": 136936,
+            "name": "大溪和平路協興.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-09-03/5cc204e9-78d0-4983-8a3f-651171b9a5a2/大溪和平路協興.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "大溪區和平段512地號",
+    "buildingFeatures": "牌樓間柱柱頭採用紅磚疊澀（磚頭逐層向外出挑），柱身及柱墩表面皆為洗石子，柱頭以上使用清水紅磚，以一順一丁的方式砌築。山牆兩側利用紅磚橫豎疊砌，形似「喜」字。牌匾內的協興2字則以洗石子技法呈現出白色調，在紅色系的磚牆面上凸顯其質感。",
+    "inHouseFeatures": "",
+    "buildingUsage": "維持騎樓作用，室內作為藥局及住家使用",
+    "buildingActualState": "立面及騎樓保持完整，內部空間已改建。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "桃園市大溪區和平路23號",
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.28832250000005,
+    "latitude": 24.8847286,
+    "representImageSource": "桃園市政府文化局",
+    "landScope": "桃園市大溪區和平段512地號，面積計16平方公尺。",
+    "selfCoverage": "桃園市大溪區和平路23號騎樓",
+    "addresses": [
+        {
+            "cityName": "桃園市",
+            "distName": "大溪區",
+            "id": 149691,
+            "caseId": 17051,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 510,
+            "address": "和平路23號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "桃園市",
+            "distName": "大溪區",
+            "landNoName": "和平段",
+            "cityLandUseTypeName": "商業區",
+            "id": 207539,
+            "caseId": 17051,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 510,
+            "landNoId": 7662,
+            "landSerialNo": "512",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "area": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 162926,
+            "caseId": 17051,
+            "caseStatus": true,
+            "registerDate": 1073923200000,
+            "officialDocNo": "府文資字第0930534224號",
+            "classificationId": 1
+        },
+        {
+            "id": 162927,
+            "caseId": 17051,
+            "caseStatus": true,
+            "registerDate": 1421078400000,
+            "officialDocNo": "府文資字第10303236382號",
+            "classificationId": 2,
+            "note": "行政改制"
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.28841600516455,24.884422559384635],[121.28836872263896,24.884443055029298],[121.28838020840175,24.88447913760456],[121.28842887392666,24.8844617540986],[121.28841600516455,24.884422559384635],[121.28841600516455,24.884422559384635]]]]},\"properties\":{\"envelope\":{\"left\":\"121.28836872263896\",\"top\":\"24.884422559384635\",\"right\":\"121.28842887392666\",\"bottom\":\"24.884479137604561\"},\"landLot\":\"桃園市大溪區和平段512\"}}],\"notfound\":[]}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": "桃園市文化資產導覽手冊"
+}

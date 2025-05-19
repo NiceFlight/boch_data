@@ -1,0 +1,101 @@
+{
+    "id": 2748,
+    "caseId": "20090109000002",
+    "count": 2137,
+    "shareCount": 1,
+    "representImage": 5109,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/relate_cultural/134044/photo/中港慈裕宮洗港1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/relate_cultural/134044/photo/中港慈裕宮洗港1.jpg",
+        "name": "中港慈裕宮洗港1"
+    },
+    "caseName": "中港慈裕宮洗港",
+    "classifyCode": "5.1",
+    "classifyName": "民俗",
+    "assetsTypeNames": "儀式、祭典、節慶",
+    "assetsClassifyCode": "5.1.1",
+    "assetsClassifyName": "民俗",
+    "registerDate": 1231508939000,
+    "officialDocNo": "府文資字第0987500293號",
+    "documents": [
+        {
+            "fileid": 137346,
+            "name": "中港慈裕宮洗港-公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-09-07/0c846903-0998-41a0-b1af-b61c22d957b2/中港慈裕宮洗港-公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "地方性：民俗其形成與發展具地方特色，或與其他地區有顯著差異者",
+        "歷史性：由歷史事件形成，具有紀念性意義者",
+        "文化性：具有特殊生活文化價值者"
+    ],
+    "registerReason": "全台唯一一個夏季媽祖出巡的宗教活動，具有歷史故事背景（和先民開發、船難有關），活動層面廣，本地廟宇參與及民眾自動沿路參與祭拜形式具有特色，是中港地區當地具歷史傳統的儀式活動，並具有悲天憫人、安定民心之作用",
+    "lawsReference": "文資法第59條、傳統藝術民俗及有關文物登錄指定及廢止審查辦法第2條",
+    "govInstitutionCode": "360",
+    "govInstitutionName": "苗栗縣政府",
+    "belongCityId": 8,
+    "belongCityName": "苗栗縣",
+    "govInstitution": "苗栗縣政府",
+    "govDeptName": "文化觀光局文化資產科",
+    "govDeptPhone": "　037-352961#713",
+    "govDeptAddress": "　苗栗市自治路50號",
+    "belongAddress": "中港溪口",
+    "historyDevelopment": "竹南端午節祭江，為極具特色的民俗信仰活動。此儀式相傳自康熙末葉設中港塘以來每年舉行，因為中港溪口是當時台南至淡水必經之地，屢屢發生行人渡溪溺水而死的慘劇，且有上游漂來的屍體。另外，昭和十八年（1943年）2月19日，乘渡船參觀大鯨魚的民眾在港中因翻船造成32人罹難，之後一併納入祭江洗港，以慰亡靈。許葉金「中港慈裕宮志」言：「一面慰祭曾在中港溪口觀鯨覆舟罹難生靈，一面弔祭水底有祀無祀幽魂，使汪海清淨，合境平安。」因此「洗港」活動應非源自某一特定事件，而是先民開發中港整個過程的艱辛與感恩的總紀錄。最初只在出海口設案祭拜，之後隨中港的發展、墾民增加，其間發生的不幸意外，使此儀式範圍與規模擴大，成為中港地區特有的民俗宗教活動。也是台灣唯一媽祖夏季出巡的活動。",
+    "preservers": [
+        {
+            "id": 4711,
+            "type": "團體",
+            "caseName": "中港慈裕宮管理委員會",
+            "cityName": "苗栗縣",
+            "distName": "竹南鎮",
+            "caseArtistEntities": [],
+            "representImage": 137347,
+            "registrationDate": 1231430400000,
+            "judgeCriteria": [
+                "具協助推動該登錄項目保存維護工作之能力與意願"
+            ],
+            "registerReason": "全台唯一一個夏季媽祖出巡的宗教活動，具有歷史故事背景(和先民開發、船難有關)，活動層面廣，本地廟宇參與及民眾自動沿路參觀與祭拜形式具有特色，是中港地區當地歷史傳統的儀式活動，並具有悲天憫人、安定民心之作用。",
+            "lawsReference": "<<民俗登錄認定及廢止審查辦法>>第4條第2款",
+            "status": "",
+            "school": "",
+            "isOpenDownload": false,
+            "representImageSource": "苗栗縣政府文化觀光局",
+            "contactorIsOpen": false
+        }
+    ],
+    "culturalArtifact": [],
+    "holdPeriod": 4,
+    "holdPeriodTimes": 1,
+    "hostContactorAddress": "",
+    "representImageSource": "趙守彥",
+    "addresses": [
+        {
+            "cityName": "苗栗縣",
+            "distName": "竹南鎮",
+            "id": 136487,
+            "caseId": 2748,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 801,
+            "address": "中港溪口"
+        }
+    ],
+    "announces": [
+        {
+            "id": 149060,
+            "caseId": 2748,
+            "caseStatus": true,
+            "registerDate": 1231508939000,
+            "officialDocNo": "府文資字第0987500296號",
+            "classificationId": 1
+        }
+    ],
+    "ceremony": [],
+    "lops": [],
+    "taboos": [],
+    "features": [],
+    "isOpenDownload": false
+}

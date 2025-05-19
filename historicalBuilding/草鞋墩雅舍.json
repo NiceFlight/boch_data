@@ -1,0 +1,115 @@
+{
+    "id": 20522,
+    "caseId": "20220322000001",
+    "count": 2767,
+    "shareCount": 4,
+    "representImage": 232099,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-10-01/e1b1b190-521e-48f9-a942-671f175f21b6/草鞋墩雅舍_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-10-01/e1b1b190-521e-48f9-a942-671f175f21b6/草鞋墩雅舍.jpg",
+        "name": "草鞋墩雅舍"
+    },
+    "caseName": "草鞋墩雅舍",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "「草鞋墩雅舍」位於南投縣草屯鎮中正路579-3、579-4號，創建於日治昭和6年(1931)，迄今已有91年歷史。兩棟日式建築物，外牆為雨淋板，屋頂蓋日式黑甕根瓦之建築，曾作為林務相關業務宿舍，目前雖已無林務局南投林管處員工居住，整體結構除了內部破損外，其他如外觀及牆堵保存狀況尚良好，具有歷史性之價值。除此之外，「草鞋墩雅舍」為目前草屯地區保存極為稀少且細部構造優雅之日式木構造建築，具有稀有性，呈現日式建築技術及文化，值得保存修復。\n",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "宿舍",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 155985,
+            "name": "草鞋墩雅舍公告0315.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-03-22/bcd5aedf-95a3-4347-8ed7-55d1d4949dd6/草鞋墩雅舍公告0315.pdf"
+        },
+        {
+            "fileid": 165642,
+            "name": "登錄公告勘誤表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-26/4aa5dab0-1996-4522-934b-8f2e6cff535b/登錄公告勘誤表.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "具建築史或技術史之價值者:為行政院農業委員會林務局相關業務宿舍，已有80餘年歷史之日是雨淋板蓋、日式黑色甕根瓦之日式建築，整體結構還算完整，外觀及牆堵保存狀況尚良好，呈現日式特殊建築技術及文化。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第2款",
+    "govInstitutionCode": "540",
+    "govInstitutionName": "南投縣政府",
+    "govInstitution": "南投縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(049)231191",
+    "govDeptAddress": "南投市建國路135號",
+    "cadasters": [
+        {
+            "fileid": 155504,
+            "name": "草鞋墩雅舍地籍圖.docx",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-03-19/88cbd513-ebc5-414f-950a-81ef39794dfa/草鞋墩雅舍地籍圖.docx"
+        }
+    ],
+    "buildingFeatures": "日式木構造建築雨淋板蓋日式黑色甕根瓦建築，外觀及牆堵保存狀況尚良好，且為目前草屯地區保存稀少之特殊日式木構造建築，呈現日式特殊建築技術及文化。",
+    "inHouseFeatures": "雖內部破損，但整體結構保存尚良好。",
+    "buildingUsage": "為原林務局南投林區管理處草屯日治時期宿舍，現已無員工居住。",
+    "buildingActualState": "於2022年3月15日正式指定登錄為南投縣第45個歷史建築。",
+    "bulkTransfer": 0,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenVisit": true,
+    "openUpTime": "整修中",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.688929,
+    "latitude": 23.979278,
+    "representImageSource": "南投縣政府文化局",
+    "landScope": "位於南投縣草屯鎮新富功段469-1地號，面積為3,712.27平方公尺。",
+    "selfCoverage": "宿舍本體面積125.58平方公尺。",
+    "addresses": [
+        {
+            "cityName": "南投縣",
+            "distName": "草屯鎮",
+            "id": 129871,
+            "caseId": 20522,
+            "caseStatus": true,
+            "cityId": 12,
+            "distId": 1203,
+            "address": "中正路579-3、579-4號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "南投縣",
+            "distName": "草屯鎮",
+            "landNoName": "新富功段",
+            "id": 182119,
+            "caseId": 20522,
+            "caseStatus": true,
+            "cityId": 12,
+            "distId": 1203,
+            "landNoId": 9816,
+            "landSerialNo": "469-1",
+            "landownership": 1,
+            "coverageId": 2,
+            "area": "3,712.27平方公尺",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 141428,
+            "caseId": 20522,
+            "caseStatus": true,
+            "registerDate": 1647324221758,
+            "officialDocNo": "府授文資字第11100564801號函",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"南投縣草屯鎮新富功段469-1\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "landScopeJson": "{\"type\": \"FeatureCollection\",\"features\": []}",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": "南投縣政府文化局彙整"
+}

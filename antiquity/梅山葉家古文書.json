@@ -1,0 +1,102 @@
+{
+    "id": 3072,
+    "caseId": "20131030000003",
+    "count": 447,
+    "shareCount": 0,
+    "representImage": 5487,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7248/photo/梅山葉家古文書_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7248/photo/梅山葉家古文書.jpg",
+        "name": "梅山葉家古文書"
+    },
+    "caseName": "梅山葉家古文書",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-其他",
+    "otherAssetsType": "圖書文獻及影音資料",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1383062400000,
+    "officialDocNo": "府授文資字第1020195879號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源"
+    ],
+    "registerReason": "(一)「葉家古文書」是嘉義地區近年被公開的較大批古文書，並是唯一同時包括番界內、外開墾契字的古文書，具有歷史意義。\n(二)此批古文書的立契年代，始自嘉慶3年（1798），迄明治40年（1907）。內容包含契書、鬮書、字據、合約及當單等，對於葉家在梅山地區的墾拓與家族的發展，有重要的歷史文化研究價值。 \n(三)符合古物分級登錄指定及廢止審查辦法第2條第1項第1、2款。\n",
+    "lawsReference": "《古物分級登錄指定及廢止審查辦法》第2條第1項第1、2款。",
+    "govInstitutionCode": "612",
+    "govInstitutionName": "嘉義縣政府",
+    "belongCityId": 15,
+    "belongCityName": "嘉義縣",
+    "belongDistName": "太保市",
+    "govInstitution": "嘉義縣文化觀光局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": " 05-3628123*311 ",
+    "govDeptAddress": "嘉義縣太保市太子大道158號",
+    "reservationCode": "  ",
+    "amount": 41,
+    "notes": "",
+    "descAge": "嘉慶3年(1798)至明治40年(1907)間",
+    "descSize": " ",
+    "descMaterial": "紙",
+    "reserveStatusDesc": "一、文物描述：「葉家古文書」係由世居梅山的葉家後代-葉良印先生贈予嘉義縣政府，為求能以數位化方式長久保存，委由嘉義大學史地學系於2006年9月代為掃描成高解析之未壓縮格式的TIFF（Tagged Image File Format）圖檔。嘉義縣政府亦提供本份古文書的影本、數位檔予中研院臺灣史研究所典藏，入藏該所的古文書室；臺史所稱這份古文書為「嘉義梅山葉家土地文書」，批號為T0660D0536，自2009年4月2日正式開放，供學術流通研究。   \n「葉家古文書」共有41件，是嘉義地區近年被公開的較大批古文書，並是唯一同時包括番界內、外開墾契字的古文書。此批古文書的立契的年代，始自嘉慶3年（1798），迄明治40年（1907）。內容包含契書、鬮書、字據、合約及當單等，對於葉家在梅山地區的墾拓與家族的發展，有重要的研究價值。\n",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "葉良印先生捐蹭",
+    "saveEnvironment": 1,
+    "reserveStatus": "已由嘉義大學修復完成 ",
+    "documents": [
+        {
+            "fileid": 175540,
+            "name": "梅山葉家古文書-公告1021030.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-25/a0769217-156c-4d22-a97f-bd6b8115aa68/梅山葉家古文書-公告1021030.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.426323,
+    "latitude": 23.541397,
+    "representImageSource": "嘉義縣政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "嘉義縣政府",
+            "keepName": " 嘉義縣太保市祥和一路東段1號",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立嘉義大學",
+            "keepAddressNew": "嘉義縣民雄鄉文隆村85號",
+            "saveSpaceIdStr": "學校",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "嘉義市",
+            "keepNameAddress": "學府路300號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "嘉義縣",
+            "distName": "民雄鄉",
+            "id": 130077,
+            "caseId": 3072,
+            "caseStatus": true,
+            "cityId": 15,
+            "distId": 1514,
+            "address": "文隆村85號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 141655,
+            "caseId": 3072,
+            "caseStatus": true,
+            "registerDate": 1383062400000,
+            "officialDocNo": "府授文資字第1020195879號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,105 @@
+{
+    "id": 3549,
+    "caseId": "20130813000004",
+    "count": 67,
+    "shareCount": 0,
+    "representImage": 6201,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7252/photo/會通館印正宋諸臣奏議（明刊本）_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7252/photo/會通館印正宋諸臣奏議（明刊本）.png",
+        "name": "會通館印正宋諸臣奏議（明刊本）"
+    },
+    "caseName": "會通館印正宋諸臣奏議（明刊本）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1376323200000,
+    "officialDocNo": "文資局物字第 10220091271號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "明弘治三年(1490)錫山華氏會通館銅活字印小字本。\r\n此書為明朝弘治三年無錫華燧開會通館，首創以銅活字排版印書，是現存最早銅活字印本；因屬草創，故在活字排印及用墨方面不如其後印本，但可用以印證古代印刷術的發展，具歷史文物價值。卷末有清馬玉堂手跋。\r\n\r\n此書為中國現存最早的銅活字本，品質評價不高，歷史價值卻深受重視，為明代罕見之版本，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號04829",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 64,
+    "notes": "",
+    "descAge": "明弘治3年(1490)",
+    "descCreator": "宋趙汝愚編",
+    "descSize": "半葉9行，版匡20.2x15.3公分",
+    "descMaterial": "紙質刊本",
+    "reserveStatusDesc": "一百五十卷。\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "第1冊有蟲蛀。書口處部分裂開；有漫漶情形，經修裱。保存狀況良好。",
+    "documents": [
+        {
+            "fileid": 6202,
+            "name": "0dc14995-fc98-457a-8912-65330ea060c8.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44143/file/0dc14995-fc98-457a-8912-65330ea060c8.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3691,
+            "caseId": 3549,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3691,
+            "caseId": 3549,
+            "caseStatus": true,
+            "registerDate": 1376323200000,
+            "officialDocNo": "文資局物字第 10220091271號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

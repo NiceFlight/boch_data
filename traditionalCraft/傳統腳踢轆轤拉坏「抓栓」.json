@@ -1,0 +1,94 @@
+{
+    "id": 16893,
+    "caseId": "20210817000002",
+    "count": 49,
+    "shareCount": 0,
+    "representImage": 136602,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-09-01/0c6c86e3-9fdd-44fc-bb48-134bdfd0a10b/林瑞華傳統腳踢轆轤拉坏抓栓-圖像來源(竹南蛇窯)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-09-01/0c6c86e3-9fdd-44fc-bb48-134bdfd0a10b/林瑞華傳統腳踢轆轤拉坏抓栓-圖像來源(竹南蛇窯).jpg",
+        "name": "林瑞華傳統腳踢轆轤拉坏抓栓-圖像來源(竹南蛇窯)"
+    },
+    "caseName": "傳統腳踢轆轤拉坏「抓栓」",
+    "classifyCode": "4.2",
+    "classifyName": "傳統工藝",
+    "assetsTypeNames": "製陶",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "4.2.1",
+    "assetsClassifyName": "傳統工藝",
+    "registerDate": 1552355810254,
+    "officialDocNo": "府文資字第1080002678A號",
+    "documents": [
+        {
+            "fileid": 224386,
+            "name": "公告-傳統腳踢轆轤拉坏「抓栓」-林瑞華.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-05-26/c4d7e7e0-ee53-4c85-b3da-894b83c5c252/公告-傳統腳踢轆轤拉坏「抓栓」-林瑞華.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具有藝術價值",
+        "具時代或流派特色",
+        "顯著反映族群或地方之審美觀",
+        "顯著反映族群或地方之生活特色並具代表性"
+    ],
+    "registerReason": "「傳統腳踢轆轤拉坏『抓栓』」，目前已瀕臨失傳，其福州式的低姿態操作方式以及轆轤結構的下陷地面穩定基座，配合拉坏「抓栓」技術，可以確保拉坏形體的完整性，具藝術價值及時代特色等登錄基準。",
+    "lawsReference": "1.《文化資產保存法》第91條第1項\n2.《傳統工藝認定及廢止審查辦法》第2條及第4條。",
+    "govInstitutionCode": "360",
+    "govInstitutionName": "苗栗縣政府",
+    "belongCityId": 8,
+    "belongCityName": "苗栗縣",
+    "govInstitution": "苗栗縣政府",
+    "govDeptName": "文化觀光局文化資產科",
+    "govDeptPhone": "037-352961#713",
+    "govDeptAddress": "苗栗市自治路50號",
+    "belongAddress": "苗栗縣竹南鎮公館里7鄰大埔頂7號",
+    "historyDevelopment": "源自中國，由福州師引進台灣，林添福老陶師是台灣第一代承襲此類技藝者。竹南蛇窯第二代窯主林瑞華薪傳父親林添福陶詩藝技，珍惜前人的智慧，保留此傳統腳踢轆轤拉坏抓栓技藝，擔起承先啟後之責使這項傳統文化的技藝得以延續流傳。",
+    "preservers": [
+        {
+            "id": 16894,
+            "type": "個人",
+            "caseName": "林瑞華",
+            "cityName": "苗栗縣",
+            "distName": "竹南鎮",
+            "caseArtistEntities": [],
+            "representImage": 132818,
+            "registrationDate": 1552320000000,
+            "patentNo": "傳統工藝類第○一一",
+            "judgeCriteria": [
+                "熟知並能正確體現該登錄項目之知識、技藝與文化表現形式",
+                "具該登錄項目之傳習能力與意願",
+                "在文化脈絡下為適當者"
+            ],
+            "registerReason": "林瑞華先生承襲臺灣第一代此類技藝者林添福老陶師技藝，並擔起承先啟後之責，足以認定為保存者並執行傳藝。",
+            "lawsReference": "「傳統工藝登錄認定及廢止審查辦法」第4條第1、2、3項",
+            "isOpenDownload": false,
+            "representImageSource": "苗栗縣政府文化觀光局",
+            "contactorIsOpen": false
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "林瑞華提供",
+    "addresses": [
+        {
+            "cityName": "苗栗縣",
+            "id": 110602,
+            "caseId": 16893,
+            "caseStatus": true,
+            "cityId": 8,
+            "address": "苗栗縣竹南鎮公館里7鄰大埔頂7號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 119614,
+            "caseId": 16893,
+            "caseStatus": true,
+            "registerDate": 1552355810254,
+            "officialDocNo": "府文資字第1080002678A號",
+            "classificationId": 1
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "id": 17383,
+    "caseId": "20200219000029",
+    "count": 153,
+    "shareCount": 0,
+    "representImage": 66226,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-02-16/cf8016e0-c6f1-47d2-ae80-3e2e9b206ab6/DSC_0291_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-02-16/cf8016e0-c6f1-47d2-ae80-3e2e9b206ab6/DSC_0291.jpg",
+        "name": "DSC_0291"
+    },
+    "caseName": "象牙臂擱18羅漢高浮雕紋飾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1581322592935,
+    "officialDocNo": "中華民國109年2月10日北市獻編字第1093001230號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "1.\t十九世紀廣東牙匠作品。\n2.\t雕工細巧完整，尚稱雅致，十八羅漢人物精細，足堪展示留存，具藝術價值。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第3、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "萬華區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "10846臺北市萬華區中華路1段174之1號",
+    "reservationCode": "19",
+    "amount": 1,
+    "descAge": "19世紀早期清中晚期",
+    "descSize": "高26.8公分",
+    "descMaterial": "象牙",
+    "reserveStatusDesc": "象牙內心雕18羅漢，各站立於團雲上，各持不同法器，表情不同，雲端上一穿雲龍穿梭於雲海中，背面一老翁一童子持鋤頭上山採藥。雕工精細，打底平整，是件北京工法很優秀的文玩器物。",
+    "pastHistorySource": 2,
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定",
+    "documents": [
+        {
+            "fileid": 66227,
+            "name": "臺北市立文獻館公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-02-16/aeae36a2-f881-4af6-a347-b1eeae432e0d/臺北市立文獻館公告.pdf"
+        },
+        {
+            "fileid": 66228,
+            "name": "臺北市一般古物指定公告表_象牙臂擱18羅漢高浮雕紋飾.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-02-16/84c88b50-1d2c-4bd4-9358-fe75955656dd/臺北市一般古物指定公告表_象牙臂擱18羅漢高浮雕紋飾.pdf"
+        }
+    ],
+    "keepNames": [
+        {
+            "keepNameIdStr": "吳○志",
+            "keepName": "吳明志",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "吳○志",
+            "keepAddressNew": "臺北市萬華區中華路一段182號5樓之3",
+            "saveSpaceOther": "庫房",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "萬華區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "id": 7024,
+            "caseId": 17383,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106
+        }
+    ],
+    "announces": [
+        {
+            "id": 7024,
+            "caseId": 17383,
+            "caseStatus": true,
+            "registerDate": 1581322592935,
+            "officialDocNo": "中華民國109年2月10日北市獻編字第1093001230號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,103 @@
+{
+    "id": 17046,
+    "caseId": "20190827000001",
+    "count": 319,
+    "shareCount": 0,
+    "representImage": 61208,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-08-27/0c67a981-061f-4b26-b8a6-90713befd50d/16-003IMG_3407_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-08-27/0c67a981-061f-4b26-b8a6-90713befd50d/16-003IMG_3407.jpg",
+        "name": "16-003IMG_3407"
+    },
+    "caseName": "武聖廟「亘古無雙」匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1563497486835,
+    "officialDocNo": "中華民國108年7月19日府授文博字第1083702325號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者"
+    ],
+    "registerReason": "（1）具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：詹功顯水師行伍出身，在擔任護理福建澎湖協水師副將時，與澎湖通判蔣鏞同獻此匾，見證武聖廟於清代為官方祠廟，也是澎湖班兵的信仰中心，並受到地方文武官員所重視。\n（2）具有地方重要人物或歷史事件之深厚淵源者：蔣、詹皆道光年間澎湖的文武要員，建設澎湖的事蹟頗多，匾由二人同獻，文武並列深具意義。\n (3) 能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者: 澎湖此類文官通判與武官副將同獻匾額實屬少例，詹功顯曾於嘉慶21年以千總身分參與武聖廟修建，蔣鏞於道光4年第一次至澎湖擔任通判，並於道光5年重修武聖廟，道光11年再任。兩人於道光15年同獻本匾，可見證當時澎湖官員調動頻繁之時代背景。\n",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2、3款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00685-P-M022-003 ",
+    "amount": 1,
+    "descAge": "1835年",
+    "descCreator": "",
+    "descSize": "寬(約) 182 公分",
+    "descMaterial": "木",
+    "reserveStatusDesc": "橫長形木匾，匾框拼接，面黑綠框無紋，字皆陰刻填金，中行書破鋒題「亘古無雙」，左「道光十五年歲次乙未葭月」，右「福建知州借補臺灣府澎湖通判蔣鏞 護福建澎湖水師副總兵官詹功顯　仝立」。「仝立」二字填紅彩。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "時間：1835年    捐贈者：蔣鏞、詹功顯",
+    "saveEnvironment": 2,
+    "reserveStatus": "武聖廟二樓文物典藏室，有溫溼度控制。",
+    "documents": [
+        {
+            "fileid": 61207,
+            "name": "img-190827081458.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-08-27/94fb1b35-9f06-4673-92ae-f7f780dd07c4/img-190827081458.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.575211,
+    "latitude": 23.573159,
+    "representImageSource": "澎湖縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "武聖廟",
+            "keepName": "王照界",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "武聖廟",
+            "keepAddressNew": "澎湖縣馬公市朝陽里陽明路30號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2,
+            "keepNameCityName": "澎湖縣",
+            "keepNameDistName": "馬公市",
+            "keepNameAddress": "朝陽里陽明路30號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 127676,
+            "caseId": 17046,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "朝陽里陽明路30號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 138599,
+            "caseId": 17046,
+            "caseStatus": true,
+            "registerDate": 1563497486835,
+            "officialDocNo": "府授文博字第1083702325號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

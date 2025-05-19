@@ -1,0 +1,106 @@
+{
+    "id": 3956,
+    "caseId": "20120326000011",
+    "count": 226,
+    "shareCount": 0,
+    "representImage": 6774,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32942/photo/78d116b4-9934-4290-aab5-de7b24a3560c_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32942/photo/78d116b4-9934-4290-aab5-de7b24a3560c.JPG",
+        "name": "78d116b4-9934-4290-aab5-de7b24a3560c"
+    },
+    "caseName": "宋人竹石鳩子圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "通幅筆墨，勁挺中甚為樸質。作者注重寫生，不但仔細描寫鳥羽層層疊覆的變化，同時斑鳩的神情與動態，也都描繪得栩栩如生。本幅無作者款印，故宮博物院另藏一幅傳五代後蜀黃荃竹林鵓鴿軸，與此幅應為一稿多本，兩相對照，此幅較勝，年代或不能至宋代，但保留宋代花鳥畫法度精嚴，形神逼肖的成就。品質精良，具有重要文化藝術價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第五、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000206",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descSize": "166 x 93.9（公分）",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "坡石上茅葉、荊棘、小竹叢生。霜後郊原，半歸枯槁。斑鳩五隻，飛者如聞鼓翼之聲，行者則神態安閒，怡然自得。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。本幅：舊傷補。裂痕。象牙軸頭：裂痕。舊傷補。",
+    "documents": [
+        {
+            "fileid": 151244,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-24/6aa721d5-58f4-4fde-a569-5ac0f877c6dd/公告.pdf"
+        },
+        {
+            "fileid": 151245,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-24/fb408b36-8502-4903-ae4d-ac82238298bb/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71371,
+            "caseId": 3956,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75787,
+            "caseId": 3956,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "宜蘭縣南澳鄉澳花段9013-9"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

@@ -1,0 +1,102 @@
+{
+    "id": 17643,
+    "caseId": "20200611000012",
+    "count": 209,
+    "shareCount": 0,
+    "representImage": 69613,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-06-11/2fdaf0d1-e51d-4983-8adf-50602bd22065/22清 仿官釉青瓷八方弦紋瓶_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-06-11/2fdaf0d1-e51d-4983-8adf-50602bd22065/22清 仿官釉青瓷八方弦紋瓶.jpg",
+        "name": "22清 仿官釉青瓷八方弦紋瓶"
+    },
+    "caseName": "清 仿官釉青瓷八方弦紋瓶",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1589855815689,
+    "officialDocNo": "文授資局物字第10930056341號",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "數量特別稀少或具完整性保存意義者",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此器呈盤形口，長頸，腹扁碩，平底，矮圈足。瓶身凸起八稜、頸、腹各飾弦紋二道。胎厚釉薄，青色勻潤，邊稜均現黑骨，並有褐色斑點。釉面紋片黯淡，略有沙眼。足底塗黑灰色護胎汁。足內底面鐫刻乾隆皇帝〈詠宋官窯八方瓶〉御製詩。詩末署「乾隆乙巳御題」紀年銘（乾隆五十年，1785），並落「比德」和「朗潤」兩枚鈐印。現今所知傳世帶有御製詩的瓷器，約為130件，可知數量特別稀少。另外，透過御製詩的內容以及器上鈐印，可推知乾隆皇帝對此器的識別與鑑賞觀，益顯珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故瓷14086",
+    "amount": 1,
+    "descAge": " 清",
+    "descSize": "高23.3公分，口徑7公分",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "此器呈盤形口，長頸，扁碩腹，平底，矮圈足。瓶身凸起八稜，頸腹共飾弦紋四道。胎骨略厚，上施粉青色釉，釉色不勻，釉薄處現出灰色胎，施釉至足邊，底面有釉，足緣無釉，加塗黑灰色護胎汁。足內底面鐫刻乾隆皇帝〈詠宋官窯八方瓶〉御製詩。詩末署「乾隆乙巳御題」紀年銘（乾隆五十年，1785），並落「比德」和「朗潤」兩枚鈐印。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "竹節處有剝釉。",
+    "documents": [
+        {
+            "fileid": 144516,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-10/0a88a0f7-8f74-4a89-bc2a-122b7be43c35/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": " ",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 67192,
+            "caseId": 17643,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號   "
+        }
+    ],
+    "announces": [
+        {
+            "id": 71391,
+            "caseId": 17643,
+            "caseStatus": true,
+            "registerDate": 1589855815689,
+            "officialDocNo": "文授資局物字第10930056341號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

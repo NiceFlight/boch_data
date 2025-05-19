@@ -1,0 +1,102 @@
+{
+    "id": 4434,
+    "caseId": "20160104000015",
+    "count": 303,
+    "shareCount": 0,
+    "representImage": 7450,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43303/photo/d541801d-9df1-4d6b-8551-4104380e4701_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43303/photo/d541801d-9df1-4d6b-8551-4104380e4701.jpg",
+        "name": "d541801d-9df1-4d6b-8551-4104380e4701"
+    },
+    "caseName": "清乾隆 玻璃胎畫琺瑯鼻煙壺四十二件(附蒔繪漆盒)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1451836800000,
+    "officialDocNo": "文授資局物字第10430118711號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "玻璃胎畫琺瑯鼻煙壺因燒造困難且成品率低，存世數量有限。此組玻璃胎畫琺瑯鼻煙壺同裝盛於一黑洋漆二層匣（即日本蒔繪漆盒）中，42件鼻煙壺雖造型相似，但從題材、配色到裝飾紋樣無一相同，極盡巧思，集各種裝飾紋樣之大成，件件精品，至為難得；數量之多又同存一盒更是舉世罕見。是乾隆皇帝珍貴的收藏，具體呈現乾隆時期玻璃胎畫琺瑯鼻煙壺工藝的巔峰之作。此外，與《活計檔》記載相符，益顯珍貴。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條1項第3、5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故瓷014047-故瓷014082、故瓷017630-故瓷017635",
+    "amount": 42,
+    "notes": "",
+    "descAge": "清　乾隆",
+    "descSize": "鼻煙壺高度約在4.4至5.4公分間；漆盒26.9公分x21.2公分x22公分。",
+    "descMaterial": "銅胎畫琺瑯、蒔繪漆",
+    "reserveStatusDesc": "這42件玻璃胎畫琺瑯鼻煙壺，為乾隆二年（1737）《活計檔》中記載，黑洋漆二層匣（即日本蒔繪漆盒）內所盛的各樣玻璃琺瑯鼻煙壺，組裝完成於乾隆四年（1739）。此42件鼻煙壺，均為扁圓壺式，尺寸略有差異，高度約在4.4至5.4公分間。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 148867,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-28/0e2fef42-79bd-4fac-bb09-67653835f91e/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69651,
+            "caseId": 4434,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73828,
+            "caseId": 4434,
+            "caseStatus": true,
+            "registerDate": 1451836800000,
+            "officialDocNo": "文授資局物字第10430118711號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

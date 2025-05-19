@@ -1,0 +1,106 @@
+{
+    "id": 3302,
+    "caseId": "20161118000003",
+    "count": 350,
+    "shareCount": 0,
+    "representImage": 5772,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133459/photo/A0039_廖繼春《風景》_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133459/photo/A0039_廖繼春《風景》.jpg",
+        "name": "A0039_廖繼春《風景》"
+    },
+    "caseName": "廖繼春《風景》",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1479398400000,
+    "officialDocNo": "北市獻編字第10530125000號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.\t藝術家融合抽象表現之代表作，也是風格轉變的記錄之一，風景抽象化，色彩豐富活潑，筆調暢快，頗為廖氏之特徵。\r\n2.\t作品尺寸夠大，抽象表現空間甚具特色，以單純豐富之藍、灰、綠為主調，透過微妙的紅色點綴，具體呈現風光景物，空間鋪陳及色彩表現，具藝術之成就，也是畫家抽象風格成熟表現。\r\n",
+    "lawsReference": "1.文化資產保存法第67條。\r\n2.古物分級登錄指定及廢止審查辦法第2條第1項第1、2、3、4、6款\r\n",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "中華路一段174之1號",
+    "reservationCode": "A0039",
+    "amount": 1,
+    "descAge": "戰後",
+    "descCreator": "廖繼春",
+    "descSize": "(H) 101X(W) 109cm",
+    "descMaterial": "油畫",
+    "reserveStatusDesc": "藍白相間的色塊，加上符號化的簡鍊線條，呈現出明快清朗的畫面。細看可發現花草樹木隱藏，又好像夾雜著屋舍風景。單純豐富的色彩中，以藍、綠、灰為主調，透過微妙的紅色點綴，打破了藍色的沉靜。",
+    "pastHistorySource": 2,
+    "saveEnvironment": 1,
+    "reserveStatus": "良好",
+    "documents": [
+        {
+            "fileid": 163702,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-13/03782802-54e7-4238-a823-b0fc021d3744/公告.pdf"
+        },
+        {
+            "fileid": 163703,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-13/f1fb1a81-9ad8-4133-a09b-333984ec8a6c/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.551944,
+    "latitude": 25.101026,
+    "representImageSource": "順益臺灣原住民博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "順益臺灣原住民博物館",
+            "keepName": "順益臺灣原住民博物館",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "順益臺灣原住民博物館",
+            "keepAddressNew": "臺北市士林區至善路二段282號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 79231,
+            "caseId": 3302,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段282號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 85025,
+            "caseId": 3302,
+            "caseStatus": true,
+            "registerDate": 1479398400000,
+            "officialDocNo": "北市獻編字第10530125000號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

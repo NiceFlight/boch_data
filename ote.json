@@ -1,0 +1,697 @@
+{
+    "info": [
+        {
+            "code": "5.2.1",
+            "count": 21
+        },
+        {
+            "code": "5.2.2",
+            "count": 1
+        }
+    ],
+    "rows": [
+        {
+            "id": 22624,
+            "caseName": "泰雅族Lmuhuw口述傳統",
+            "classifyName": "口述傳統",
+            "assetsTypeNames": "傳說,史詩,神話,俗諺,祭詞",
+            "govInstitutionName": "新竹縣政府",
+            "representImage": 258566,
+            "representImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2024-06-07/e0c8a602-19ef-4a33-8fc4-04acca6574e0/f7cf48c0-5a17-480d-bcd7-eaa4d6b77978_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2024-06-07/e0c8a602-19ef-4a33-8fc4-04acca6574e0/f7cf48c0-5a17-480d-bcd7-eaa4d6b77978.jpg",
+                "name": "f7cf48c0-5a17-480d-bcd7-eaa4d6b77978"
+            },
+            "classifyCode": "5.2",
+            "caseId": "20240607000001",
+            "preserverId": 22761,
+            "preserver": "台灣泰雅爾族永續協會",
+            "preserverImage": 258544,
+            "preserverImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2024-06-07/ea29e30b-68ff-4d13-9b91-23594a27ce3a/下載_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2024-06-07/ea29e30b-68ff-4d13-9b91-23594a27ce3a/下載.jpg",
+                "name": "下載"
+            },
+            "recorder": "台灣泰雅爾族永續協會",
+            "belongCity": "新竹縣五峰鄉,新竹縣尖石鄉"
+        },
+        {
+            "id": 22313,
+            "caseName": "泰雅族Mknazi群口述傳統",
+            "classifyName": "口述傳統",
+            "assetsTypeNames": "神話,俗諺,史詩,傳說,祭詞",
+            "govInstitutionName": "新竹縣政府",
+            "representImage": 263492,
+            "representImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2024-10-24/464350b9-5149-4b79-902d-724d2184ab5b/泰雅族Mknazi群口述傳統2_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2024-10-24/464350b9-5149-4b79-902d-724d2184ab5b/泰雅族Mknazi群口述傳統2.jpg",
+                "name": "泰雅族Mknazi群口述傳統2"
+            },
+            "classifyCode": "5.2",
+            "caseId": "20241022000001",
+            "preserverId": 23077,
+            "preserver": "Atung Yupas阿棟優帕司",
+            "preserverImage": 263493,
+            "preserverImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2024-10-24/4a2b7e0b-d4d6-422c-be24-0e25ddca7528/泰雅族Mknazi群口述傳統1_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2024-10-24/4a2b7e0b-d4d6-422c-be24-0e25ddca7528/泰雅族Mknazi群口述傳統1.jpg",
+                "name": "泰雅族Mknazi群口述傳統1"
+            },
+            "recorder": "Atung Yupas阿棟優帕司",
+            "belongCity": "新竹縣尖石鄉"
+        },
+        {
+            "id": 22272,
+            "caseName": "相褒歌",
+            "classifyName": "口述傳統",
+            "assetsTypeNames": "其他",
+            "govInstitutionName": "新北市政府",
+            "representImage": 234383,
+            "representImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2023-11-02/93a8d8a6-18d2-4df9-9d2a-7631185a6231/LINE_ALBUM_719相褒歌登錄前訪查_230720_12_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2023-11-02/93a8d8a6-18d2-4df9-9d2a-7631185a6231/LINE_ALBUM_719相褒歌登錄前訪查_230720_12.jpg",
+                "name": "LINE_ALBUM_719相褒歌登錄前訪查_230720_12"
+            },
+            "classifyCode": "5.2",
+            "caseId": "20231102000001",
+            "preserverId": 22273,
+            "preserver": "陳好夫",
+            "preserverImage": 234384,
+            "preserverImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2023-11-02/eaf4af49-4bae-4f8e-b0fe-c71cd708f402/LINE_ALBUM_20221212 _1_221212_25_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2023-11-02/eaf4af49-4bae-4f8e-b0fe-c71cd708f402/LINE_ALBUM_20221212 _1_221212_25.jpg",
+                "name": "LINE_ALBUM_20221212 _1_221212_25"
+            },
+            "recorder": "陳好夫、高羅珠",
+            "belongCity": "新北市石碇區"
+        },
+        {
+            "id": 22272,
+            "caseName": "相褒歌",
+            "classifyName": "口述傳統",
+            "assetsTypeNames": "其他",
+            "govInstitutionName": "新北市政府",
+            "representImage": 234383,
+            "representImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2023-11-02/93a8d8a6-18d2-4df9-9d2a-7631185a6231/LINE_ALBUM_719相褒歌登錄前訪查_230720_12_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2023-11-02/93a8d8a6-18d2-4df9-9d2a-7631185a6231/LINE_ALBUM_719相褒歌登錄前訪查_230720_12.jpg",
+                "name": "LINE_ALBUM_719相褒歌登錄前訪查_230720_12"
+            },
+            "classifyCode": "5.2",
+            "caseId": "20231102000001",
+            "preserverId": 22274,
+            "preserver": "高羅珠",
+            "preserverImage": 234386,
+            "preserverImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2023-11-02/23f97263-903a-4dc4-98e0-92e834b0c043/LINE_ALBUM_719相褒歌登錄前訪查_230720_10_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2023-11-02/23f97263-903a-4dc4-98e0-92e834b0c043/LINE_ALBUM_719相褒歌登錄前訪查_230720_10.jpg",
+                "name": "LINE_ALBUM_719相褒歌登錄前訪查_230720_10"
+            },
+            "recorder": "陳好夫、高羅珠",
+            "belongCity": "新北市石碇區"
+        },
+        {
+            "id": 19391,
+            "caseName": "Puljetji佳興Taljiyalep家族婚禮歌謠",
+            "classifyName": "口述傳統",
+            "assetsTypeNames": "其他",
+            "govInstitutionName": "屏東縣政府",
+            "representImage": 120029,
+            "representImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2021-06-22/185c1c40-f5f1-48f5-a347-cd40be16cce3/圖片1_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2021-06-22/185c1c40-f5f1-48f5-a347-cd40be16cce3/圖片1.jpg",
+                "name": "圖片1"
+            },
+            "classifyCode": "5.2",
+            "caseId": "20210622000001",
+            "preserverId": 19645,
+            "preserver": "董香圓pelepel takivalit",
+            "preserverImage": 125879,
+            "preserverImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-22/a64e6f43-7c90-414f-bb8f-88ed9d0617fe/董香圓_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-22/a64e6f43-7c90-414f-bb8f-88ed9d0617fe/董香圓.jpg",
+                "name": "董香圓"
+            },
+            "recorder": "孫江萬花dremedreman taljiyalep(歿)、邱玉美patagav sadjiljapan、劉鄭寶秀ukani tjavung、董美珠sakenge takivalit、屏東縣泰武鄉佳興社區發展協會、董香圓pelepel takivalit、盧玉春tjuku vucuvulj、屏東縣普樂地文化資產傳承保護協會",
+            "belongCity": "屏東縣泰武鄉"
+        },
+        {
+            "id": 19391,
+            "caseName": "Puljetji佳興Taljiyalep家族婚禮歌謠",
+            "classifyName": "口述傳統",
+            "assetsTypeNames": "其他",
+            "govInstitutionName": "屏東縣政府",
+            "representImage": 120029,
+            "representImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2021-06-22/185c1c40-f5f1-48f5-a347-cd40be16cce3/圖片1_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2021-06-22/185c1c40-f5f1-48f5-a347-cd40be16cce3/圖片1.jpg",
+                "name": "圖片1"
+            },
+            "classifyCode": "5.2",
+            "caseId": "20210622000001",
+            "preserverId": 19646,
+            "preserver": "盧玉春tjuku vucuvulj",
+            "preserverImage": 235768,
+            "preserverImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2023-11-20/ebc76ce2-3b40-478e-871b-5d6fc319683d/IMG_7387_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2023-11-20/ebc76ce2-3b40-478e-871b-5d6fc319683d/IMG_7387.jpg",
+                "name": "IMG_7387"
+            },
+            "recorder": "孫江萬花dremedreman taljiyalep(歿)、邱玉美patagav sadjiljapan、劉鄭寶秀ukani tjavung、董美珠sakenge takivalit、屏東縣泰武鄉佳興社區發展協會、董香圓pelepel takivalit、盧玉春tjuku vucuvulj、屏東縣普樂地文化資產傳承保護協會",
+            "belongCity": "屏東縣泰武鄉"
+        },
+        {
+            "id": 19391,
+            "caseName": "Puljetji佳興Taljiyalep家族婚禮歌謠",
+            "classifyName": "口述傳統",
+            "assetsTypeNames": "其他",
+            "govInstitutionName": "屏東縣政府",
+            "representImage": 120029,
+            "representImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2021-06-22/185c1c40-f5f1-48f5-a347-cd40be16cce3/圖片1_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2021-06-22/185c1c40-f5f1-48f5-a347-cd40be16cce3/圖片1.jpg",
+                "name": "圖片1"
+            },
+            "classifyCode": "5.2",
+            "caseId": "20210622000001",
+            "preserverId": 21732,
+            "preserver": "屏東縣普樂地文化資產傳承保護協會",
+            "preserverImage": 224185,
+            "preserverImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2023-05-25/90c717cb-583a-4520-9d63-0496f52e33f7/歌謠02_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2023-05-25/90c717cb-583a-4520-9d63-0496f52e33f7/歌謠02.jpg",
+                "name": "歌謠02"
+            },
+            "recorder": "孫江萬花dremedreman taljiyalep(歿)、邱玉美patagav sadjiljapan、劉鄭寶秀ukani tjavung、董美珠sakenge takivalit、屏東縣泰武鄉佳興社區發展協會、董香圓pelepel takivalit、盧玉春tjuku vucuvulj、屏東縣普樂地文化資產傳承保護協會",
+            "belongCity": "屏東縣泰武鄉"
+        },
+        {
+            "id": 19391,
+            "caseName": "Puljetji佳興Taljiyalep家族婚禮歌謠",
+            "classifyName": "口述傳統",
+            "assetsTypeNames": "其他",
+            "govInstitutionName": "屏東縣政府",
+            "representImage": 120029,
+            "representImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2021-06-22/185c1c40-f5f1-48f5-a347-cd40be16cce3/圖片1_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2021-06-22/185c1c40-f5f1-48f5-a347-cd40be16cce3/圖片1.jpg",
+                "name": "圖片1"
+            },
+            "classifyCode": "5.2",
+            "caseId": "20210622000001",
+            "preserverId": 19392,
+            "preserver": "孫江萬花dremedreman taljiyalep(歿)",
+            "preserverImage": 235766,
+            "preserverImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2023-11-20/6b95f84f-1c18-4c28-9f37-b9c210219329/237823_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2023-11-20/6b95f84f-1c18-4c28-9f37-b9c210219329/237823.jpg",
+                "name": "237823"
+            },
+            "recorder": "孫江萬花dremedreman taljiyalep(歿)、邱玉美patagav sadjiljapan、劉鄭寶秀ukani tjavung、董美珠sakenge takivalit、屏東縣泰武鄉佳興社區發展協會、董香圓pelepel takivalit、盧玉春tjuku vucuvulj、屏東縣普樂地文化資產傳承保護協會",
+            "belongCity": "屏東縣泰武鄉"
+        },
+        {
+            "id": 19391,
+            "caseName": "Puljetji佳興Taljiyalep家族婚禮歌謠",
+            "classifyName": "口述傳統",
+            "assetsTypeNames": "其他",
+            "govInstitutionName": "屏東縣政府",
+            "representImage": 120029,
+            "representImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2021-06-22/185c1c40-f5f1-48f5-a347-cd40be16cce3/圖片1_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2021-06-22/185c1c40-f5f1-48f5-a347-cd40be16cce3/圖片1.jpg",
+                "name": "圖片1"
+            },
+            "classifyCode": "5.2",
+            "caseId": "20210622000001",
+            "preserverId": 19393,
+            "preserver": "邱玉美patagav sadjiljapan",
+            "preserverImage": 235769,
+            "preserverImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2023-11-20/fc6c1070-5328-4cc9-ab8d-49ba8af50ea9/IMG_7389_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2023-11-20/fc6c1070-5328-4cc9-ab8d-49ba8af50ea9/IMG_7389.jpg",
+                "name": "IMG_7389"
+            },
+            "recorder": "孫江萬花dremedreman taljiyalep(歿)、邱玉美patagav sadjiljapan、劉鄭寶秀ukani tjavung、董美珠sakenge takivalit、屏東縣泰武鄉佳興社區發展協會、董香圓pelepel takivalit、盧玉春tjuku vucuvulj、屏東縣普樂地文化資產傳承保護協會",
+            "belongCity": "屏東縣泰武鄉"
+        },
+        {
+            "id": 19391,
+            "caseName": "Puljetji佳興Taljiyalep家族婚禮歌謠",
+            "classifyName": "口述傳統",
+            "assetsTypeNames": "其他",
+            "govInstitutionName": "屏東縣政府",
+            "representImage": 120029,
+            "representImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2021-06-22/185c1c40-f5f1-48f5-a347-cd40be16cce3/圖片1_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2021-06-22/185c1c40-f5f1-48f5-a347-cd40be16cce3/圖片1.jpg",
+                "name": "圖片1"
+            },
+            "classifyCode": "5.2",
+            "caseId": "20210622000001",
+            "preserverId": 19394,
+            "preserver": "劉鄭寶秀ukani tjavung",
+            "preserverImage": 120059,
+            "preserverImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2021-06-22/ad5bc509-c519-49be-a81f-864b84f83ed7/劉鄭寶秀_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2021-06-22/ad5bc509-c519-49be-a81f-864b84f83ed7/劉鄭寶秀.jpg",
+                "name": "劉鄭寶秀"
+            },
+            "recorder": "孫江萬花dremedreman taljiyalep(歿)、邱玉美patagav sadjiljapan、劉鄭寶秀ukani tjavung、董美珠sakenge takivalit、屏東縣泰武鄉佳興社區發展協會、董香圓pelepel takivalit、盧玉春tjuku vucuvulj、屏東縣普樂地文化資產傳承保護協會",
+            "belongCity": "屏東縣泰武鄉"
+        },
+        {
+            "id": 19391,
+            "caseName": "Puljetji佳興Taljiyalep家族婚禮歌謠",
+            "classifyName": "口述傳統",
+            "assetsTypeNames": "其他",
+            "govInstitutionName": "屏東縣政府",
+            "representImage": 120029,
+            "representImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2021-06-22/185c1c40-f5f1-48f5-a347-cd40be16cce3/圖片1_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2021-06-22/185c1c40-f5f1-48f5-a347-cd40be16cce3/圖片1.jpg",
+                "name": "圖片1"
+            },
+            "classifyCode": "5.2",
+            "caseId": "20210622000001",
+            "preserverId": 19395,
+            "preserver": "董美珠sakenge takivalit",
+            "preserverImage": 235770,
+            "preserverImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2023-11-20/c5192ece-1bcf-44c8-b4ec-167dec38855c/IMG_7396_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2023-11-20/c5192ece-1bcf-44c8-b4ec-167dec38855c/IMG_7396.jpg",
+                "name": "IMG_7396"
+            },
+            "recorder": "孫江萬花dremedreman taljiyalep(歿)、邱玉美patagav sadjiljapan、劉鄭寶秀ukani tjavung、董美珠sakenge takivalit、屏東縣泰武鄉佳興社區發展協會、董香圓pelepel takivalit、盧玉春tjuku vucuvulj、屏東縣普樂地文化資產傳承保護協會",
+            "belongCity": "屏東縣泰武鄉"
+        },
+        {
+            "id": 19391,
+            "caseName": "Puljetji佳興Taljiyalep家族婚禮歌謠",
+            "classifyName": "口述傳統",
+            "assetsTypeNames": "其他",
+            "govInstitutionName": "屏東縣政府",
+            "representImage": 120029,
+            "representImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2021-06-22/185c1c40-f5f1-48f5-a347-cd40be16cce3/圖片1_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2021-06-22/185c1c40-f5f1-48f5-a347-cd40be16cce3/圖片1.jpg",
+                "name": "圖片1"
+            },
+            "classifyCode": "5.2",
+            "caseId": "20210622000001",
+            "preserverId": 19396,
+            "preserver": "屏東縣泰武鄉佳興社區發展協會",
+            "preserverImage": 120061,
+            "preserverImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2021-06-22/5c6fbd82-e9ec-4075-8305-d70e00a19581/佳興歌謠_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2021-06-22/5c6fbd82-e9ec-4075-8305-d70e00a19581/佳興歌謠.jpg",
+                "name": "佳興歌謠"
+            },
+            "recorder": "孫江萬花dremedreman taljiyalep(歿)、邱玉美patagav sadjiljapan、劉鄭寶秀ukani tjavung、董美珠sakenge takivalit、屏東縣泰武鄉佳興社區發展協會、董香圓pelepel takivalit、盧玉春tjuku vucuvulj、屏東縣普樂地文化資產傳承保護協會",
+            "belongCity": "屏東縣泰武鄉"
+        },
+        {
+            "id": 17815,
+            "caseName": "臺東縣鹿野鄉Parayapay(巴拉雅拜)部落mifukayay、mirakatay及pa'olic喪禮歌謠吟唱",
+            "classifyName": "口述傳統",
+            "assetsTypeNames": "其他",
+            "govInstitutionName": "臺東縣政府",
+            "representImage": 125477,
+            "representImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-20/7eaa3f82-792e-44bf-81fc-b13c2d7e8f3e/口述傳統1-臺東縣鹿野鄉Parayapay(巴拉雅拜)部落mifukayay、mirakatay及pa'olic喪禮歌謠吟唱-永保_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-20/7eaa3f82-792e-44bf-81fc-b13c2d7e8f3e/口述傳統1-臺東縣鹿野鄉Parayapay(巴拉雅拜)部落mifukayay、mirakatay及pa'olic喪禮歌謠吟唱-永保.jpg",
+                "name": "口述傳統1-臺東縣鹿野鄉Parayapay(巴拉雅拜)部落mifukayay、mirakatay及pa'olic喪禮歌謠吟唱-永保"
+            },
+            "classifyCode": "5.2",
+            "caseId": "20200910000006",
+            "preserverId": 17991,
+            "preserver": "賴蘭妹",
+            "preserverImage": 117266,
+            "preserverImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2021-06-02/e0785019-2279-4d9e-8001-f8346ca67b0b/臺東縣口述傳統文化資產代表圖像-01臺東縣鹿野鄉Parayapay(巴拉雅拜)部落mifukayay、mirakatay及pa'olic喪禮歌謠吟唱_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2021-06-02/e0785019-2279-4d9e-8001-f8346ca67b0b/臺東縣口述傳統文化資產代表圖像-01臺東縣鹿野鄉Parayapay(巴拉雅拜)部落mifukayay、mirakatay及pa'olic喪禮歌謠吟唱.jpg",
+                "name": "臺東縣口述傳統文化資產代表圖像-01臺東縣鹿野鄉Parayapay(巴拉雅拜)部落mifukayay、mirakatay及pa'olic喪禮歌謠吟唱"
+            },
+            "recorder": "賴蘭妹",
+            "belongCity": "臺東縣鹿野鄉"
+        },
+        {
+            "id": 17560,
+            "caseName": "泰雅族北勢群Gaga口述傳統",
+            "classifyName": "口述傳統",
+            "assetsTypeNames": "神話,傳說",
+            "govInstitutionName": "苗栗縣政府",
+            "representImage": 68473,
+            "representImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2020-04-25/539158f3-0f67-4781-95b2-43e79897ed11/IMG_7179_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2020-04-25/539158f3-0f67-4781-95b2-43e79897ed11/IMG_7179.jpg",
+                "name": "IMG_7179"
+            },
+            "classifyCode": "5.2",
+            "caseId": "20200425000001",
+            "preserverId": 17561,
+            "preserver": "Yupas. Kagi柯正原",
+            "preserverImage": 131453,
+            "preserverImageInfo": {
+                "ext": "png",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2021-08-12/13e0ed50-32f3-49eb-bffc-c2913b2b33e9/Yupas.Kagi柯正原_c.png"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2021-08-12/13e0ed50-32f3-49eb-bffc-c2913b2b33e9/Yupas.Kagi柯正原.png",
+                "name": "Yupas.Kagi柯正原"
+            },
+            "recorder": "Yupas. Kagi柯正原、Tali. Wasaw高春輝、Yupas. Watan尤巴斯．瓦旦、Mayngus. Nawkih楊忠義",
+            "belongCity": "苗栗縣"
+        },
+        {
+            "id": 17560,
+            "caseName": "泰雅族北勢群Gaga口述傳統",
+            "classifyName": "口述傳統",
+            "assetsTypeNames": "神話,傳說",
+            "govInstitutionName": "苗栗縣政府",
+            "representImage": 68473,
+            "representImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2020-04-25/539158f3-0f67-4781-95b2-43e79897ed11/IMG_7179_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2020-04-25/539158f3-0f67-4781-95b2-43e79897ed11/IMG_7179.jpg",
+                "name": "IMG_7179"
+            },
+            "classifyCode": "5.2",
+            "caseId": "20200425000001",
+            "preserverId": 17562,
+            "preserver": "Tali. Wasaw高春輝",
+            "preserverImage": 131454,
+            "preserverImageInfo": {
+                "ext": "png",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2021-08-12/7ebe8161-3d93-4be3-b4eb-e5f050a13719/Tali.Usaw高春輝_c.png"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2021-08-12/7ebe8161-3d93-4be3-b4eb-e5f050a13719/Tali.Usaw高春輝.png",
+                "name": "Tali.Usaw高春輝"
+            },
+            "recorder": "Yupas. Kagi柯正原、Tali. Wasaw高春輝、Yupas. Watan尤巴斯．瓦旦、Mayngus. Nawkih楊忠義",
+            "belongCity": "苗栗縣"
+        },
+        {
+            "id": 17560,
+            "caseName": "泰雅族北勢群Gaga口述傳統",
+            "classifyName": "口述傳統",
+            "assetsTypeNames": "神話,傳說",
+            "govInstitutionName": "苗栗縣政府",
+            "representImage": 68473,
+            "representImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2020-04-25/539158f3-0f67-4781-95b2-43e79897ed11/IMG_7179_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2020-04-25/539158f3-0f67-4781-95b2-43e79897ed11/IMG_7179.jpg",
+                "name": "IMG_7179"
+            },
+            "classifyCode": "5.2",
+            "caseId": "20200425000001",
+            "preserverId": 17563,
+            "preserver": "Yupas. Watan尤巴斯．瓦旦",
+            "preserverImage": 131456,
+            "preserverImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2021-08-12/b7684d2d-3f5c-4e35-b050-bdf3b51cb2f6/Yupas.Watan尤巴斯‧瓦旦_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2021-08-12/b7684d2d-3f5c-4e35-b050-bdf3b51cb2f6/Yupas.Watan尤巴斯‧瓦旦.jpg",
+                "name": "Yupas.Watan尤巴斯‧瓦旦"
+            },
+            "recorder": "Yupas. Kagi柯正原、Tali. Wasaw高春輝、Yupas. Watan尤巴斯．瓦旦、Mayngus. Nawkih楊忠義",
+            "belongCity": "苗栗縣"
+        },
+        {
+            "id": 17560,
+            "caseName": "泰雅族北勢群Gaga口述傳統",
+            "classifyName": "口述傳統",
+            "assetsTypeNames": "神話,傳說",
+            "govInstitutionName": "苗栗縣政府",
+            "representImage": 68473,
+            "representImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2020-04-25/539158f3-0f67-4781-95b2-43e79897ed11/IMG_7179_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2020-04-25/539158f3-0f67-4781-95b2-43e79897ed11/IMG_7179.jpg",
+                "name": "IMG_7179"
+            },
+            "classifyCode": "5.2",
+            "caseId": "20200425000001",
+            "preserverId": 17564,
+            "preserver": "Mayngus. Nawkih楊忠義",
+            "preserverImage": 131462,
+            "preserverImageInfo": {
+                "ext": "png",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2021-08-12/61939e9d-4bf1-42a7-918f-793d50123ed0/Mayngus Nawkih 楊忠義_c.png"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2021-08-12/61939e9d-4bf1-42a7-918f-793d50123ed0/Mayngus Nawkih 楊忠義.png",
+                "name": "Mayngus Nawkih 楊忠義"
+            },
+            "recorder": "Yupas. Kagi柯正原、Tali. Wasaw高春輝、Yupas. Watan尤巴斯．瓦旦、Mayngus. Nawkih楊忠義",
+            "belongCity": "苗栗縣"
+        },
+        {
+            "id": 17184,
+            "caseName": "Lmuhuw na Msbtunux(泰雅族大嵙崁群口述傳統)",
+            "classifyName": "重要口述傳統",
+            "assetsTypeNames": "史詩,神話,傳說",
+            "govInstitutionName": "文化部",
+            "representImage": 63232,
+            "representImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2019-12-12/8fde5586-4e44-4a3b-97b5-deef71672dd4/IMG_6171_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2019-12-12/8fde5586-4e44-4a3b-97b5-deef71672dd4/IMG_6171.jpg",
+                "name": "IMG_6171"
+            },
+            "classifyCode": "5.2",
+            "caseId": "20191212000002",
+            "preserverId": 17187,
+            "preserver": "WatanTanga（林明福）",
+            "preserverImage": 159868,
+            "preserverImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2022-04-13/149f3a7d-881e-4408-bb20-87d0129c4900/IMG_6171_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2022-04-13/149f3a7d-881e-4408-bb20-87d0129c4900/IMG_6171.jpg",
+                "name": "IMG_6171"
+            },
+            "recorder": "WatanTanga（林明福）",
+            "belongCity": "桃園市"
+        },
+        {
+            "id": 16632,
+            "caseName": "泰雅族 Msbtunux 群 Lmuhuw",
+            "classifyName": "口述傳統",
+            "assetsTypeNames": "祭歌,祭詞,俗諺,史詩,神話,傳說",
+            "govInstitutionName": "桃園市政府",
+            "representImage": 157709,
+            "representImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2022-04-01/8c34c414-c1e5-4da2-83c0-085deac6b4d2/1081112  桃園市無形文化資產授證_191114_0048林明福_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2022-04-01/8c34c414-c1e5-4da2-83c0-085deac6b4d2/1081112  桃園市無形文化資產授證_191114_0048林明福.jpg",
+                "name": "1081112  桃園市無形文化資產授證_191114_0048林明福"
+            },
+            "classifyCode": "5.2",
+            "caseId": "20190225000001",
+            "preserverId": 16633,
+            "preserver": "Watan Tanga(林明福先生)",
+            "preserverImage": 157710,
+            "preserverImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2022-04-01/370f87db-3d92-4916-969e-f031cf2efd3d/1081112  桃園市無形文化資產授證_191114_0048林明福_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2022-04-01/370f87db-3d92-4916-969e-f031cf2efd3d/1081112  桃園市無形文化資產授證_191114_0048林明福.jpg",
+                "name": "1081112  桃園市無形文化資產授證_191114_0048林明福"
+            },
+            "recorder": "Watan Tanga(林明福先生)",
+            "belongCity": "桃園市"
+        },
+        {
+            "id": 16544,
+            "caseName": "泰雅族Malepa群口述傳統",
+            "classifyName": "口述傳統",
+            "assetsTypeNames": "神話,傳說,俗諺,史詩",
+            "govInstitutionName": "南投縣政府",
+            "representImage": 55047,
+            "representImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2019-02-01/8f3cc928-7ffd-4341-beae-e191506952c4/IMG_6190_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2019-02-01/8f3cc928-7ffd-4341-beae-e191506952c4/IMG_6190.jpg",
+                "name": "IMG_6190"
+            },
+            "classifyCode": "5.2",
+            "caseId": "20190201000001",
+            "preserverId": 16545,
+            "preserver": "翁進文(歿)",
+            "preserverImage": 172646,
+            "preserverImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2022-07-09/819dcdd2-5a61-43b6-a20a-e410f4be8d40/泰雅族口述傳統及吟唱-翁進文_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2022-07-09/819dcdd2-5a61-43b6-a20a-e410f4be8d40/泰雅族口述傳統及吟唱-翁進文.jpg",
+                "name": "泰雅族口述傳統及吟唱-翁進文"
+            },
+            "recorder": "翁進文(歿)",
+            "belongCity": "南投縣"
+        },
+        {
+            "id": 16485,
+            "caseName": "泰雅族Sqoyaw群口述傳統",
+            "classifyName": "口述傳統",
+            "assetsTypeNames": "史詩,神話,傳說,祭詞,俗諺",
+            "govInstitutionName": "臺中市政府",
+            "representImage": 140736,
+            "representImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2021-10-13/59fbbdef-e8e1-49a3-94c8-05b98a423636/廖英助與楊德福_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2021-10-13/59fbbdef-e8e1-49a3-94c8-05b98a423636/廖英助與楊德福.jpg",
+                "name": "廖英助與楊德福"
+            },
+            "classifyCode": "5.2",
+            "caseId": "20190108000006",
+            "preserverId": 16486,
+            "preserver": "Tesing．Silan 廖英助",
+            "preserverImage": 140662,
+            "preserverImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2021-10-13/f6c90db4-5ac0-4097-9a74-a3c6e2f4d1a0/871270d2-5153-4297-8b52-b9c9f3c7780e_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2021-10-13/f6c90db4-5ac0-4097-9a74-a3c6e2f4d1a0/871270d2-5153-4297-8b52-b9c9f3c7780e.jpg",
+                "name": "871270d2-5153-4297-8b52-b9c9f3c7780e"
+            },
+            "recorder": "Tesing．Silan 廖英助、Silan．Wilang詹坤煌",
+            "belongCity": "臺中市和平區"
+        },
+        {
+            "id": 16485,
+            "caseName": "泰雅族Sqoyaw群口述傳統",
+            "classifyName": "口述傳統",
+            "assetsTypeNames": "史詩,神話,傳說,祭詞,俗諺",
+            "govInstitutionName": "臺中市政府",
+            "representImage": 140736,
+            "representImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2021-10-13/59fbbdef-e8e1-49a3-94c8-05b98a423636/廖英助與楊德福_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2021-10-13/59fbbdef-e8e1-49a3-94c8-05b98a423636/廖英助與楊德福.jpg",
+                "name": "廖英助與楊德福"
+            },
+            "classifyCode": "5.2",
+            "caseId": "20190108000006",
+            "preserverId": 16487,
+            "preserver": "Silan．Wilang詹坤煌",
+            "preserverImage": 140738,
+            "preserverImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2021-10-13/4f4b1afa-97c0-4c79-bef3-60f23d4f5447/詹坤煌_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2021-10-13/4f4b1afa-97c0-4c79-bef3-60f23d4f5447/詹坤煌.jpg",
+                "name": "詹坤煌"
+            },
+            "recorder": "Tesing．Silan 廖英助、Silan．Wilang詹坤煌",
+            "belongCity": "臺中市和平區"
+        }
+    ],
+    "total": 22
+}

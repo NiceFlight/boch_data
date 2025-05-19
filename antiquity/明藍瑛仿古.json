@@ -1,0 +1,101 @@
+{
+    "id": 3867,
+    "caseId": "20121029000018",
+    "count": 230,
+    "shareCount": 0,
+    "representImage": 6675,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32853/photo/ae0ad253-7046-4ed8-a2e1-37eaa8914094_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32853/photo/ae0ad253-7046-4ed8-a2e1-37eaa8914094.JPG",
+        "name": "ae0ad253-7046-4ed8-a2e1-37eaa8914094"
+    },
+    "caseName": "明藍瑛仿古",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1351440000000,
+    "officialDocNo": "文資局物字第10120134511號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本冊畫於崇禎乙亥（1635）年，分別臨仿唐宋元諸家山水名作十幅。藍瑛（1585－1664）為「武林派」重要畫家，此冊筆法純熟，設色精麗細緻，雖是仿古作品，極具巧思及個人風格，為藍瑛精心之作。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第3、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫001286",
+    "amount": 10,
+    "notes": "",
+    "descAge": "明",
+    "descSize": "32.4 x 55.7（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "本冊畫於崇禎乙亥（1635）年，分別臨仿唐宋元諸家山水名作十幅。構圖精整，筆墨蒼潤，以石青、石綠、硃砂、赭石、鉛粉等色，點染青山白雲與紅樹，敷色明艷，粗放簡澹與明麗古雅互見，為藍瑛傳世佳作。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 151192,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-24/dd88076c-c80f-49db-8c4a-38a638cd73c3/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71333,
+            "caseId": 3867,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75741,
+            "caseId": 3867,
+            "caseStatus": true,
+            "registerDate": 1351440000000,
+            "officialDocNo": "文資局物字第10120134511號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

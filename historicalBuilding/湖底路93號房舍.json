@@ -1,0 +1,109 @@
+{
+    "id": 17349,
+    "caseId": "20200210000001",
+    "count": 2555,
+    "shareCount": 0,
+    "representImage": 205201,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/fb438ff8-f50f-4f59-90e6-af2657a2e475/代表圖像_湖底路93號房舍_20221219_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/fb438ff8-f50f-4f59-90e6-af2657a2e475/代表圖像_湖底路93號房舍_20221219.jpeg",
+        "name": "代表圖像_湖底路93號房舍_20221219"
+    },
+    "caseName": "湖底路93號房舍",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "1.原為日人在日治時代所建住宅，後曾有英國人居住。\n2.曾作為台北市政府之宿舍。\n3.目前閒置未使用。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 66129,
+            "name": "湖底路93號登錄為歷史建築公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-02-13/fd6fc27c-c2c3-447f-9d93-3132be180f1b/湖底路93號登錄為歷史建築公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1、本建物為日治時期所建住宅，為一層樓石造(部分木造)斜屋頂建築， 建有八角窗、溫泉浴室，整體建築樣式原為日式之「書院造」樣式， 具地域風貌特色。 \n2、建物鄰近歷史建築「草山行館」，同為日式溫泉建築，為陽明山後山 發展史之見證。 ",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第2、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 65835,
+            "name": "公告附件-湖底路-地形地籍示意圖.docx",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2020-02-10/00b9483b-6d7b-40cd-85fc-1eca1ce922b4/公告附件-湖底路-地形地籍示意圖.docx"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 8,
+    "nonCityLandUseTypeName": "國家公園區",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "北投區湖山段三小段243地號。",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "longitude": 121.538291,
+    "latitude": 25.1531941,
+    "representImageSource": "臺北市文化局",
+    "landScope": "坐落土地為北投區湖山段243地號，共計1筆地號，土地面積總計594.76平方公尺。",
+    "selfCoverage": "134平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "id": 106533,
+            "caseId": 17349,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "address": "北投區湖底路93號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "landNoName": "湖山段三小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 131921,
+            "caseId": 17349,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "landNoId": 708,
+            "landSerialNo": "243",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "594.76平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 114307,
+            "caseId": 17349,
+            "caseStatus": true,
+            "registerDate": 1551110400000,
+            "officialDocNo": "北市文化文資字第10830086911號",
+            "classificationId": 1,
+            "note": "無"
+        }
+    ],
+    "geojson": "[{\"features\":[{\"geometry\":{\"coordinates\":[[[[121.5388197804,25.154218933867],[121.53893872168,25.154406105807],[121.53873370727,25.1544801849],[121.53872122279,25.15448735004],[121.53864263672,25.154405047088],[121.5385847237,25.154309853407],[121.5388197804,25.154218933867]]]],\"type\":\"MultiPolygon\"},\"type\":\"Feature\",\"properties\":{\"ymin\":25.154218933867,\"xmin\":121.5385847237,\"段號\":2430000,\"query\":\"臺北市,湖山段三小段,243\",\"ycenter\":25.1543531419535,\"land_id\":2430000,\"area_id\":\"AE\",\"content\":\"1. 個案名稱: 湖底路93號房舍 <br />\\n      2. 地號: 臺北市,湖山段三小段,243 <br />\\n      3. 種類: 宅第 <br />\\n      4. 指定登錄理由: 1、本建物為日治時期所建住宅，為一層樓石造(部分木造)斜屋頂建築， 建有八角窗、溫泉浴室，整體建築樣式原為日式之「書院造」樣式， 具地域風貌特色。 \\n2、建物鄰近歷史建築「草山行館」，同為日式溫泉建築，為陽明山後山 發展史之見證。  <br />\\n      5. 最後一筆公告日期: 2019-02-26 <br />\\n      6. 最後一筆公告文號: 北市文化文資字第10830086911號 <br />\\n      7. 管理單位: 臺北市政府文化局 <br />\\n      8. 使用單位: 臺北市政府文化局 <br />\\n      9. 建物狀態: 待修復 <br />\",\"地段\":\"湖山段三小段\",\"縣市\":\"臺北市\",\"ymax\":25.15448735004,\"xcenter\":121.53876172269,\"xmax\":121.53893872168,\"section_id\":\"0993\",\"鄉鎮\":\"北投區\",\"id\":\"AE0993\",\"query_log\":[]}}],\"address\":[{\"address\":\"1. 個案名稱: 湖底路93號房舍 <br />\\n      2. 地址: 北投區湖底路93號 <br />\\n      3. 種類: 宅第 <br />\\n      4. 指定登錄理由: 1、本建物為日治時期所建住宅，為一層樓石造(部分木造)斜屋頂建築， 建有八角窗、溫泉浴室，整體建築樣式原為日式之「書院造」樣式， 具地域風貌特色。 \\n2、建物鄰近歷史建築「草山行館」，同為日式溫泉建築，為陽明山後山 發展史之見證。  <br />\\n      5. 最後一筆公告日期: 2019-02-26 <br />\\n      6. 最後一筆公告文號: 北市文化文資字第10830086911號 <br />\\n      7. 管理單位: 臺北市政府文化局 <br />\\n      8. 使用單位: 臺北市政府文化局 <br />\\n      9. 建物狀態: 待修復 <br />\",\"lat\":25.1531941,\"lng\":121.538291}],\"notFound\":[],\"type\":\"FeatureCollection\"}]",
+    "openVisitType": "",
+    "pastHistorySource": "內政部營建署陽明山國家公園管理處委託研究報告《陽明山國家公園日式溫泉建築調查研究 》"
+}

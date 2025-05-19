@@ -1,0 +1,100 @@
+{
+    "id": 22446,
+    "caseId": "20240103000010",
+    "count": 178,
+    "shareCount": 1,
+    "representImage": 240510,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-01-03/8ee0b7b2-bea2-40cd-81aa-9a32ca0b6641/PK2A001203N000000001PAA (2)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-01-03/8ee0b7b2-bea2-40cd-81aa-9a32ca0b6641/PK2A001203N000000001PAA (2).jpg",
+        "name": "PK2A001203N000000001PAA (2)"
+    },
+    "caseName": "清傳綮寫生 冊",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色之代表性",
+        "獨一無二或不可替代性"
+    ],
+    "registerReason": "八大山人宗室身分，於明末清初歷史巨變中有特殊意義，使其成為遺民繪畫代表人物。本作為八大山人傳世年代最早冊頁，除為其書畫研究提供珍貴早期資料外，本身藝術造詣已相當精湛，也發展出別具個人特色風格，對於理解其後來畫風相當關鍵。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第4條第3、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故畫001203",
+    "amount": 15,
+    "descAge": "清",
+    "descCreator": "傳綮",
+    "descSize": "24.6x31.5（cm）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "傳綮（1626-1705），即八大山人，俗姓朱，又名耷，世居江西南昌，是明代皇室一員，明亡後削髮為僧，能詩善書。\n根據此冊末幅己亥（1659）年款，是作者三十四歲壯年盛時作品，本冊共十五幅（書法三開），水墨畫蔬菜、花卉、瓜果、奇石等，每幅墨色皆變化豐富，行筆迅捷，構圖奇特；多開有作者以不同風格之書法題寫於上，為研究其早期書風重要材料。\n本冊雖留存明人寫生影響，然已出現不落俗套剪裁，也不刻意追求完整物象，反映畫家特立獨行個性，同時也預示其未來發展。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "良好。",
+    "documents": [
+        {
+            "fileid": 240508,
+            "name": "公告（20140103）.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-01-03/e28b0ea7-ac4a-4f75-83fb-1bf3dd0dec8d/公告（20140103）.pdf"
+        },
+        {
+            "fileid": 240509,
+            "name": "國寶公告表─清傳綮寫生 冊.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-01-03/392c3f6b-ad5c-467f-899d-67d9e8c05f45/國寶公告表─清傳綮寫生 冊.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 116556,
+            "caseId": 22446,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 127255,
+            "caseId": 22446,
+            "caseStatus": true,
+            "registerDate": 1704266348525,
+            "officialDocNo": "文授資局物字第11330000481號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

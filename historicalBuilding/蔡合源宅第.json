@@ -1,0 +1,143 @@
+{
+    "id": 952,
+    "caseId": "20101019000001",
+    "count": 2505,
+    "shareCount": 1,
+    "representImage": 185368,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/74867f4d-4762-4bc5-894d-d2c25650cb1d/代表圖像_蔡合源宅第_20220725_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/74867f4d-4762-4bc5-894d-d2c25650cb1d/代表圖像_蔡合源宅第_20220725.jpg",
+        "name": "代表圖像_蔡合源宅第_20220725"
+    },
+    "caseName": "蔡合源宅第",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本建築物所呈現之總體價值具有保存價值，足以彰顯在地建築技術。本建築物建於戰後之商店建築，有相當之建築品質，為台灣光復後之首批之建築式樣。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 164586,
+            "name": "99年10月公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/1e8ee733-f62f-4894-9cb1-1accc056103e/99年10月公告.pdf"
+        },
+        {
+            "fileid": 164587,
+            "name": "99年12月公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/4dd7e90a-e827-417f-91a2-69e591be8e7c/99年12月公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "1.本建築物所呈現之總體價值具有保存價值，足以彰顯在地建築技術。 2.建於戰後之商店建築，有相當之建築品質，為台灣光復後之首批之建築式樣。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、2、4款評定基準",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 164588,
+            "name": "蔡合源宅第.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/29cf0ae0-0934-4d82-a867-055fcb26e9aa/蔡合源宅第.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "locationLandNo": "臺北市大同區市府段二小段66(面積為207平方公尺)及67(面積為17平方公尺)地號",
+    "buildingFeatures": "建物立面簡約，以水平帶狀切割作為立面形式之表現方式。",
+    "inHouseFeatures": "",
+    "buildingUsage": "建物目前為所有權人所使用。",
+    "buildingActualState": "建物外觀整體狀況良好。",
+    "buildingKeyMaintainItem": "保存範圍全棟保存，不含後期增建物。",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.5173082,
+    "latitude": 25.052508,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市大同區市府段二小段66及67地號",
+    "selfCoverage": " 571.50平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 93676,
+            "caseId": 952,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "承德路1段72號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "市府段二小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 115312,
+            "caseId": 952,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 185,
+            "landSerialNo": "66",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "coverageId": 2,
+            "area": "207平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "市府段二小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 115313,
+            "caseId": 952,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 185,
+            "landSerialNo": "67",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "coverageId": 2,
+            "area": "17平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 101090,
+            "caseId": 952,
+            "caseStatus": true,
+            "registerDate": 1287417600000,
+            "officialDocNo": "北市文化二字第09931856100號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        },
+        {
+            "id": 101089,
+            "caseId": 952,
+            "caseStatus": true,
+            "registerDate": 1293552000000,
+            "officialDocNo": "北市文化二字第09931882600號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "臺北市政府"
+}

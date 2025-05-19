@@ -1,0 +1,101 @@
+{
+    "id": 3855,
+    "caseId": "20121029000006",
+    "count": 341,
+    "shareCount": 0,
+    "representImage": 6663,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32841/photo/56cadc7d-49ef-4aaa-8815-985afc9441ec_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32841/photo/56cadc7d-49ef-4aaa-8815-985afc9441ec.JPG",
+        "name": "56cadc7d-49ef-4aaa-8815-985afc9441ec"
+    },
+    "caseName": "唐褚遂良摹王羲之長風帖",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1351440000000,
+    "officialDocNo": "文資局物字第10120134511號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "品質精良且數量稀少"
+    ],
+    "registerReason": "此卷昔日歸在唐褚遂良名下，實為宋人雙鉤廓填之作，所據底本為王羲之〈長風〉、〈知賢室〉、〈四紙飛白〉三帖。全卷點畫位置準確，牽絲帶筆呼應有情，以致於學界評為鉤摹佳本，或且以為可能和宋四家之一米芾有所關聯。王羲之草書面貌，多賴刻帖和摹本保存下來，凡鉤摹精到足以逼真的摹本，書史視為「下真蹟一等」，此卷可當之無愧。此卷雖然出於宋人，猶可追想王羲之風神韻味，相當難得。此外，本作有宋徽宗的收傳印，又有明代曾棨、董其昌、王廷相、汪道會的題跋，是一件流傳有緒的重要書法作品。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第3、5款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故書000055",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descSize": "27.5 x 40.9（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "此卷昔日歸在唐褚遂良名下，實為宋人雙鉤廓填之作，所據底本為王羲之〈長風〉、〈知賢室〉、〈四紙飛白〉三帖。全卷點畫位置準確，牽絲帶筆呼應有情，以致於學界評為鉤摹佳本，或且以為可能和宋四家之一米芾有所關聯。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "包首磨損，霉傷。本幅傷損，傷補，霉傷，折裂。",
+    "documents": [
+        {
+            "fileid": 151159,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-24/cdd84f01-8241-4af3-9b2f-a250fa1a44aa/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71314,
+            "caseId": 3855,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": " 至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75722,
+            "caseId": 3855,
+            "caseStatus": true,
+            "registerDate": 1351440000000,
+            "officialDocNo": "文資局物字第10120134511號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

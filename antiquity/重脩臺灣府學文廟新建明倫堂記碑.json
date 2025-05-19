@@ -1,0 +1,107 @@
+{
+    "id": 3099,
+    "caseId": "20141105000003",
+    "count": 226,
+    "shareCount": 0,
+    "representImage": 5515,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4780/photo/重脩臺灣府學文廟新建明倫堂記碑_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4780/photo/重脩臺灣府學文廟新建明倫堂記碑.png",
+        "name": "重脩臺灣府學文廟新建明倫堂記碑"
+    },
+    "caseName": "重脩臺灣府學文廟新建明倫堂記碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-其他",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1415116800000,
+    "officialDocNo": "府文資處字第1031018187B號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源"
+    ],
+    "registerReason": "本碑立於清康熙四十一年（西元1702年），為現存最早之臺灣府學重修碑記。該次重修使臺灣府學在規制上更加完備，共計新建明倫堂、東西兩廡、啟聖祠櫺星垣牖，以廟貌改觀宣揚天子文教之盛，強調官方正統性。竣工後由當時臺灣地區最高官階之官員臺廈道王之麟撰文勒石紀念，內記重修始末與捐俸諸官員暨府縣文武生員姓氏，深具歷史價值與濃厚政治宣示意味。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第2條第1項第1、2款。",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "中西區",
+    "govInstitution": "臺南市文化資產管理處",
+    "govDeptName": "-文化資產研究組",
+    "govDeptPhone": "06-2213597",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "reservationCode": "-",
+    "amount": 1,
+    "notes": "",
+    "descAge": "康熙四十一年（西元1702年）",
+    "descCreator": "王之麟",
+    "descSize": "高295公分、寬86公分",
+    "descMaterial": "花崗石",
+    "reserveStatusDesc": "1.年代：康熙四十一年（西元1702年）\n2.作者：王之麟 撰文\n3.材質：花崗石\n4.尺寸：高295公分、寬86公分       \n5.技法：石刻\n6.重量：無法測量\n7.數量：1組1件\n8.特徵：碑頭浮雕雙龍搶珠紋",
+    "pastHistorySource": 6,
+    "saveEnvironment": 4,
+    "saveEnvironmentNotes": "位於室內，與明倫堂壁相依，外壁水氣滲進入內壁，亦影響本碑之溫溼度。",
+    "reserveStatus": "有損傷但狀況穩定 ",
+    "documents": [
+        {
+            "fileid": 109829,
+            "name": "一般古物登錄清冊103.11.6.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-12/7301fde5-cc46-4d73-98ee-c4ee327b3016/一般古物登錄清冊103.11.6.pdf"
+        },
+        {
+            "fileid": 141863,
+            "name": "孔廟古物公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-10-27/0325466f-c100-43e3-be37-cab9ab563614/孔廟古物公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 22.990697864018713,
+    "latitude": 120.20424391283163,
+    "representImageSource": "臺南市政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "財團法人臺南市孔廟文化基金會",
+            "keepName": "財團法人臺南市孔廟文化基金會",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺南市中西區 南門路2號(臺南市孔廟)",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "id": 107130,
+            "caseId": 3099,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601
+        }
+    ],
+    "announces": [
+        {
+            "id": 115005,
+            "caseId": 3099,
+            "caseStatus": true,
+            "registerDate": 1415116800000,
+            "officialDocNo": "府文資處字第1031018187B號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

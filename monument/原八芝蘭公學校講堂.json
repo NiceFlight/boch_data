@@ -1,0 +1,127 @@
+{
+    "id": 893,
+    "caseId": "20170704000001",
+    "count": 3860,
+    "shareCount": 4,
+    "representImage": 185233,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/26398022-c55b-463d-8f08-103a876b7ef5/代表圖像_原八芝蘭公學校講堂_20220714_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/26398022-c55b-463d-8f08-103a876b7ef5/代表圖像_原八芝蘭公學校講堂_20220714.jpg",
+        "name": "代表圖像_原八芝蘭公學校講堂_20220714"
+    },
+    "caseName": "原八芝蘭公學校講堂",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "士林國小前身為芝山岩學堂，初設於芝山岩開漳聖王廟內，為日據之初(1895年)全臺最早設立的學校，後改稱為「國語學校第一附屬學校」與「八芝蘭公學校」。1904年新校舍落成後，八芝蘭公學校遷至現址。本建築為興建於大正5年(1916)之磚造校舍，是目前校園內唯一留存之日據時期的建築，見證士林國小百餘年的學校發展歷史，在教育史上具有重要意義。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "學校",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 145069,
+            "name": "106.04.25公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/db1ee535-5e83-49cc-b26e-7d005aea4df7/106.04.25公告.pdf"
+        },
+        {
+            "fileid": 145070,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/42f41dcc-2153-4e66-9b2f-8294043de2d2/公告表.pdf"
+        },
+        {
+            "fileid": 145071,
+            "name": "106.07.04公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/82872e20-9369-4248-8074-4d4d89fb06d0/106.07.04公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "重要歷史事件或人物之關係",
+        "具稀少性，不易再現者"
+    ],
+    "registerReason": "1.士林國小前身為芝山岩學堂，初設於芝山岩開漳聖王廟內，為日據之初(1895年)全臺最早設立的學校，後改稱為「國語學校第一附屬學校」與「八芝蘭公學校」。1904年新校舍落成後，八芝蘭公學校遷至現址。本建築為興建於大正5年(1916)之磚造校舍，是目前校園內唯一留存之日據時期的建築，見證士林國小百餘年的學校發展歷史，在教育史上具有重要意義。\r\n2.建築為大正時期盛行之紅磚建築式樣，目前仍保存原有的建築本體、圓拱窗、扶壁、舞臺等，具有重要價值。講堂前方的八芝蘭公學校時代之門柱，亦為學校的重要史蹟文物。\r\n",
+    "lawsReference": "古蹟指定及廢止審查辦法第2條第1項第1、2、4 款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 145072,
+            "name": "公告表-地籍圖.gif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/8c2f4c72-e246-45bd-97cf-64395b30c07a/公告表-地籍圖.gif"
+        }
+    ],
+    "cityLandUseTypeId": 5,
+    "cityLandUseTypeName": "文教區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市士林區光華段二小段55地號",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.5248831,
+    "latitude": 25.0932987,
+    "representImageSource": "臺北市文化局",
+    "landScope": "士林國小內",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 92499,
+            "caseId": 893,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "臺北市士林區大東路165號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "光華段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 112926,
+            "caseId": 893,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 509,
+            "landSerialNo": "55",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "30206平方公尺",
+            "cityLandUseTypeOther": "國小用地",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 99731,
+            "caseId": 893,
+            "caseStatus": true,
+            "registerDate": 1493049600000,
+            "officialDocNo": "北市文化文資字第10630439900",
+            "classificationId": 1,
+            "note": "公告"
+        },
+        {
+            "id": 99732,
+            "caseId": 893,
+            "caseStatus": true,
+            "registerDate": 1499097600000,
+            "officialDocNo": "北市文化文資字第10630473500",
+            "classificationId": 2,
+            "note": "修正公告"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false
+}

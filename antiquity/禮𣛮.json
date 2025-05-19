@@ -1,0 +1,107 @@
+{
+    "id": 3161,
+    "caseId": "20111220000014",
+    "count": 333,
+    "shareCount": 0,
+    "representImage": 5599,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/38034/photo/1cb578b4-cd58-4891-8699-2f504a95797f_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/38034/photo/1cb578b4-cd58-4891-8699-2f504a95797f.jpg",
+        "name": "1cb578b4-cd58-4891-8699-2f504a95797f"
+    },
+    "caseName": "禮𣛮",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1324310400000,
+    "officialDocNo": "高市府四維文博字第1000140520號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本文物一組2件但形制不同，具裝盛禮品或供品之用途，是昔日民間敬神、婚禮、送禮時不可或缺的器物，其雕刻精美、上施漆彩，是客家喜慶時盛裝禮品或於祭祀時挑牲禮之器具。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第1、6款",
+    "govInstitutionCode": "800",
+    "govInstitutionName": "高雄市政府",
+    "belongCityId": 18,
+    "belongCityName": "高雄市",
+    "belongDistName": "三民區",
+    "govInstitution": "高雄市客家事務委員會",
+    "govDeptName": "文化資產中心",
+    "govDeptPhone": "07-2225136",
+    "govDeptAddress": "高雄市苓雅區五福一路67號",
+    "reservationCode": "5040107-01-0000016",
+    "amount": 2,
+    "notes": "",
+    "descAge": "1900",
+    "descSize": "118*68*114cm",
+    "descMaterial": "木",
+    "reserveStatusDesc": "本文物一組2件但形制不同,具裝盛禮品或供品之用途,是昔日民間敬神、婚禮、送禮時不可或缺的器物,其雕刻精美、上施漆彩,是客家喜慶時盛裝禮品或於祭祀時挑牲禮之器具。早年一般人家做生意所使用的檻裝飾較為簡單,雕飾華麗、漆繪亮麗的木箱一般為喜慶場合使用,常用於婚禮上。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "高雄褒忠義民廟捐贈",
+    "saveEnvironment": 1,
+    "reserveStatus": "本件文物整體狀況良好",
+    "documents": [
+        {
+            "fileid": 79254,
+            "name": "1001220-高市府四維文博字第1000140520號公告表.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-11/b245ff8b-e16d-470b-9535-6ddae1315b00/1001220-高市府四維文博字第1000140520號公告表.jpg"
+        },
+        {
+            "fileid": 79255,
+            "name": "1001220-高市府四維文博字第1000140520號公告.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-11/126e6d97-cd55-41b6-a490-42f44b73c451/1001220-高市府四維文博字第1000140520號公告.jpg"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.294994,
+    "latitude": 22.64996,
+    "representImageSource": "高雄市客家事務委員會",
+    "keepNames": [
+        {
+            "keepNameIdStr": "高雄市政府客家事務委員會",
+            "keepName": "高雄市政府客家事務委員會",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "高雄市政府客家事務委員會",
+            "keepAddressNew": "高雄市三民區同盟二路215號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "高雄市",
+            "keepNameDistName": "三民區",
+            "keepNameAddress": "同盟二路217號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "高雄市",
+            "distName": "三民區",
+            "id": 79141,
+            "caseId": 3161,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1808,
+            "address": "同盟二路217號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 84939,
+            "caseId": 3161,
+            "caseStatus": true,
+            "registerDate": 1324310400000,
+            "officialDocNo": "高市府四維文博字第1000140520號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

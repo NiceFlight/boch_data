@@ -1,0 +1,118 @@
+{
+    "id": 17676,
+    "caseId": "20200717000002",
+    "count": 1533,
+    "shareCount": 0,
+    "representImage": 254398,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-03-27/28ac69c5-04df-4378-9d03-9216e6205eed/20240210_132827_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-03-27/28ac69c5-04df-4378-9d03-9216e6205eed/20240210_132827.jpg",
+        "name": "20240210_132827"
+    },
+    "caseName": "成功蕭克讓古宅",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待後續調查研究",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1575253839171,
+    "officialDocNo": "府授文資字第10837039722號",
+    "documents": [
+        {
+            "fileid": 70179,
+            "name": "成功蕭克讓古宅公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-07-17/ea4ffc52-bf96-4c37-9104-80605274971b/成功蕭克讓古宅公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "(1) 表現地域風貌或民間藝術特色者：為澎湖傳統合院建築形式，屋脊、門樓、捲簾棚裝飾保存尚好。\n(2) 具地區性建造物類型之特色者：形貌完整，保有傳統古宅的建築格局，包含建築物北側的硓𥑮石擋風牆和井一座，具備澎湖傳統合院特色。\n",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、3款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "湖西鄉",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "06-9261141#138",
+    "govDeptAddress": "澎湖縣馬公市中華路230號",
+    "cadasters": [
+        {
+            "fileid": 70181,
+            "name": "地籍圖1.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2020-07-17/dec29103-1cb4-4181-ab47-1d0ac210f81d/地籍圖1.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "湖西鄉成功南段16地號",
+    "buildingFeatures": "硓𥑮石擋風牆",
+    "inHouseFeatures": "待後續調查研究",
+    "buildingUsage": "閒置",
+    "buildingActualState": "閒置",
+    "buildingKeyMaintainItem": "依原樣保存維護",
+    "bulkTransfer": 0,
+    "belongAddress": "澎湖縣湖西鄉成功村8號",
+    "isOpenVisit": false,
+    "openUpTime": "不開放",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 119.62163,
+    "latitude": 23.577974,
+    "representImageSource": "澎湖縣政府文化局文化資產科",
+    "landScope": "澎湖縣湖西鄉成功南段16地號",
+    "selfCoverage": "包含建造物本體與建造物相連之圍牆（北方）及水井；建物所有權狀登載有附屬建物牛舍，現場勘查結果16地號上已無牛舍，故建物所有權狀登載之牛舍不屬登錄範圍。",
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "湖西鄉",
+            "id": 127942,
+            "caseId": 17676,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2106,
+            "address": "成功村8號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "湖西鄉",
+            "landNoName": "成功南段",
+            "noncityLandUseTypeName": "一般農業區",
+            "id": 176019,
+            "caseId": 17676,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2106,
+            "landNoId": 15600,
+            "landSerialNo": "16",
+            "landownership": 2,
+            "noncityLandUseTypeId": 2,
+            "area": "289.57平方公尺",
+            "noncityLandUseTypeOther": "甲種建築用地",
+            "note": "",
+            "cityLandUseId": 2
+        }
+    ],
+    "announces": [
+        {
+            "id": 138967,
+            "caseId": 17676,
+            "caseStatus": true,
+            "registerDate": 1575253839171,
+            "officialDocNo": "府授文資字第10837039722號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[119.6215203055373,23.578062793170222],[119.62176471280995,23.577989358790038],[119.62175640005184,23.577965786605716],[119.62173680408608,23.577903706228387],[119.62172117988462,23.577894602274224],[119.62150477451695,23.57795714515258],[119.6215203055373,23.578062793170222],[119.6215203055373,23.578062793170222]]]]},\"properties\":{\"envelope\":{\"left\":\"119.62150477451695\",\"top\":\"23.577894602274224\",\"right\":\"119.62176471280995\",\"bottom\":\"23.578062793170222\"},\"landLot\":\"澎湖縣湖西鄉成功南段16\"}}],\"notfound\":[]}]",
+    "openVisitType": ""
+}

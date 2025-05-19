@@ -1,0 +1,105 @@
+{
+    "id": 15595,
+    "caseId": "20180329000001",
+    "count": 567,
+    "shareCount": 2,
+    "representImage": 47818,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-03-29/072e6fb3-1be9-4172-8ce4-85763cd2a2cf/宮保第門額_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-03-29/072e6fb3-1be9-4172-8ce4-85763cd2a2cf/宮保第門額.jpg",
+        "name": "宮保第門額"
+    },
+    "caseName": "宮保第門額",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-其他",
+    "otherAssetsType": "匾額",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1507016825457,
+    "officialDocNo": "府授文資遺字第10602102091號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "\n1. 與霧峰林家發展有關，且為臺灣現存唯一「宮保第門額」，具有地方重要人物或歷史事件之深厚淵源。\n2. 具有晚清工藝特點，如撒螺鈿、小木作接榫、鑿花技法以及手工鐵釘固定等，具備地方族群及工藝技術價值。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第1、2、3、4、5、6款",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "霧峰區",
+    "govInstitution": "臺中市文化資產處",
+    "govDeptName": "遺址傳藝課",
+    "govDeptPhone": "04-22290280#501",
+    "govDeptAddress": "臺中市南區復興路三段362號R10",
+    "reservationCode": "106-01",
+    "amount": 1,
+    "descAge": "清同治9年(1870)",
+    "descSize": "107*66*130",
+    "descMaterial": "木",
+    "reserveStatusDesc": "為霧峰林家下厝五進官宅之門匾，代表霧峰林家林文察追封太子少保的官位，為臺灣碩果僅存唯一的宮保第，具有藝術及歷史價值。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清同治9年(1870)",
+    "saveEnvironment": 2,
+    "reserveStatus": "目前收藏於霧峰林家文物倉庫",
+    "documents": [
+        {
+            "fileid": 47816,
+            "name": "10602102091-宮保第門額.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-03-29/ed2029ee-a0ec-45f6-bc22-fc3698b2e6bf/10602102091-宮保第門額.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 120.70094485737421,
+    "latitude": 24.063039599985647,
+    "representImageSource": "臺中市文化資產處",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國定古蹟霧峰林家下厝管理委員會/林本堂股份有限公司",
+            "keepName": "國定古蹟霧峰林家下厝管理委員會",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國定古蹟霧峰林家下厝管理委員會",
+            "keepAddressNew": "臺中市霧峰區本堂里民生路26號",
+            "saveSpaceIdStr": "宅第",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "臺中市",
+            "keepNameDistName": "霧峰區",
+            "keepNameAddress": "本堂里民生路26號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "霧峰區",
+            "id": 95119,
+            "caseId": 15595,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1011
+        }
+    ],
+    "announces": [
+        {
+            "id": 102624,
+            "caseId": 15595,
+            "caseStatus": true,
+            "registerDate": 1507016825457,
+            "officialDocNo": "府授文資遺字第10602102091號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,82 @@
+{
+    "id": 2342,
+    "caseId": "20061027000001",
+    "count": 6215,
+    "shareCount": 6,
+    "representImage": 4627,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/cultural_tourism/269/photo/七美雙心石滬_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/cultural_tourism/269/photo/七美雙心石滬.JPG",
+        "name": "七美雙心石滬"
+    },
+    "caseName": "七美雙心石滬",
+    "classifyCode": "3.1",
+    "classifyName": "文化景觀",
+    "assetsTypeNames": "農林漁牧景觀",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "3.1.1",
+    "assetsClassifyName": "文化景觀",
+    "registerDate": 1161910593000,
+    "officialDocNo": "府授文視字第0953700070號",
+    "documents": [
+        {
+            "fileid": 102027,
+            "name": "公告公文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-03-23/fce1b45b-7309-4e03-bb85-2a86b74afa3d/公告公文.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現人類與自然互動具有文化意義",
+        "具紀念性、代表性或特殊性之歷史、文化、藝術或科學價值",
+        "具時代或社會意義",
+        "具罕見性"
+    ],
+    "registerReason": "一．表現人類與自然互動具有文化意義。\r\n二．具紀念性、代表性、特殊性之歷史、文化、藝術或科學價值。\r\n三．具時代與社會意義。\r\n四．具罕見性。",
+    "lawsReference": "<<文化景觀登錄及廢止審查辦法>>第2條第1項第1、2、3、4款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "七美鄉",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "06-9261141#132",
+    "govDeptAddress": "澎湖縣馬公市中華路230號",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "historyValue": "雙心石滬位於澎湖縣七美鄉，因鄰近頂隙漁港又稱為頂隙滬，為該島上唯一的石滬。雙心石滬原先並非「二窟一滬房」設計，因舊滬遭颱風吹襲倒塌，因此鄉民顏恭規劃重建，委請吉貝人稱「芭樂師」於現址建造新滬，於1937年完成修築，新滬比其舊滬多增加了一個滬房，而形成今貌。因其兩個滬房設計上狀似兩個心型而聞名，2006年澎湖縣政府正式將其登錄為文化景觀。",
+    "briefDescribe": "雙心石滬為位於澎湖縣七美鄉的頂隙滬，其因雙心造型優美，又象徵「心心相印」意涵，多年來深受情侶及遊客喜愛。\r\n雙心石滬以玄武岩建造，具有內、外滬房結構，左伸腳末端成螺鉤彎狀，右伸腳銜接岸邊，滬內並設有魚井。2006年10月27日正式為澎湖縣政府登錄為澎湖縣文化景觀。",
+    "notes": "",
+    "belongAddress": "位於澎湖縣七美鄉東湖村頂隙；涵括雙心石滬本體及附近淺坪海域",
+    "isOpenDownload": true,
+    "longitude": 119.446974,
+    "latitude": 23.220252,
+    "representImageSource": "澎湖縣政府文化局",
+    "landScope": "位於澎湖縣七美鄉東湖村頂隙；涵括雙心石滬本體及附近淺坪海域",
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "七美鄉",
+            "id": 89096,
+            "caseId": 2342,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2104,
+            "address": "東湖村頂隙"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 96127,
+            "caseId": 2342,
+            "caseStatus": true,
+            "registerDate": 1161910593000,
+            "officialDocNo": "府授文視字第0953700070號",
+            "classificationId": 1
+        }
+    ]
+}

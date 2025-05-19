@@ -1,0 +1,173 @@
+{
+    "id": 1126,
+    "caseId": "20120815000001",
+    "count": 2604,
+    "shareCount": 0,
+    "representImage": 2260,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/5174/photo/C121新北市 舊宜蘭線猴硐隧道群(歷建)(1)_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/5174/photo/C121新北市 舊宜蘭線猴硐隧道群(歷建)(1).JPG",
+        "name": "C121新北市 舊宜蘭線猴硐隧道群(歷建)(1)"
+    },
+    "caseName": "舊宜蘭線猴硐隧道群",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "產業",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1345012847000,
+    "officialDocNo": "1012286738",
+    "documents": [
+        {
+            "fileid": 161640,
+            "name": "舊宜蘭線猴硐舊隧道群公告-101.08.15.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-27/e3ee4d0d-7a98-4e7e-81ee-41e1956e4d2e/舊宜蘭線猴硐舊隧道群公告-101.08.15.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "1.猴硐舊隧道群建於1920年，為北臺灣連通臺北至宜蘭鐵道交通的歷史見證，對瑞芳、雙溪、平溪一帶的產業開發具重大貢獻。\n2.隧道之壁體構造保存完整，具歷史文化保存價值。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "220",
+    "govInstitutionName": "新北市政府",
+    "belongCityId": 3,
+    "belongCityName": "新北市",
+    "belongDistName": "瑞芳區",
+    "govInstitution": "新北市政府",
+    "govDeptName": "文化局",
+    "govDeptPhone": "(02)29603456",
+    "govDeptAddress": "新北市板橋區中山路一段161號28樓",
+    "cadasters": [
+        {
+            "fileid": 139038,
+            "name": "舊宜蘭線猴硐隧道群土地複丈圖2.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-09-17/44f26074-fe7b-4e82-a392-7d25ea6a95be/舊宜蘭線猴硐隧道群土地複丈圖2.pdf"
+        },
+        {
+            "fileid": 139039,
+            "name": "舊宜蘭線猴硐隧道群土地複丈圖1.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-09-17/8123ded5-a573-4abc-8e30-73fd90499e01/舊宜蘭線猴硐隧道群土地複丈圖1.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "交通計畫用地",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "新北市瑞芳區三爪子段坪林小段54-1、54-19、 54-21地號及瑞芳區三爪子段蛇子形小段2-4地號、未登錄土地。",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "belongAddress": "新北市瑞芳區三爪子段坪林小段54-1、54-19、 54-21地號及瑞芳區三爪子段蛇子形小段2-4地號、未登錄土地。",
+    "isOpenVisit": true,
+    "openUpTime": "自由參觀",
+    "isOpenDownload": false,
+    "longitude": 121.83024429335028,
+    "latitude": 25.102258964992572,
+    "representImageSource": "新北市政府文化局",
+    "landScope": "新北市瑞芳區三爪子段坪林小段54-1、54-19、 54-21地號及瑞芳區三爪子段蛇子形小段2-4地號、未登錄土地。新北市瑞芳區光復里柴寮路(猴硐隧道)與平林路(員山子隧道群)",
+    "selfCoverage": "第一員山隧道、第二員山隧道、第三員山隧道、猴硐隧道\n",
+    "addresses": [
+        {
+            "cityName": "新北市",
+            "distName": "瑞芳區",
+            "id": 113400,
+            "caseId": 1126,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 307,
+            "address": "三爪子段坪林小段54-1、54-19、 54-21地號及三爪子段蛇子形小段2-4地號、未登錄土地"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "新北市",
+            "distName": "瑞芳區",
+            "landNoName": "三爪子段坪林小段",
+            "id": 154882,
+            "caseId": 1126,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 307,
+            "landNoId": 6232,
+            "landSerialNo": "54-1地號",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "新北市",
+            "distName": "瑞芳區",
+            "landNoName": "三爪子段坪林小段",
+            "id": 154883,
+            "caseId": 1126,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 307,
+            "landNoId": 6232,
+            "landSerialNo": "54-19地號",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "新北市",
+            "distName": "瑞芳區",
+            "landNoName": "三爪子段坪林小段",
+            "id": 154884,
+            "caseId": 1126,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 307,
+            "landNoId": 6232,
+            "landSerialNo": "54-21地號",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "新北市",
+            "distName": "瑞芳區",
+            "landNoName": "三爪子段蛇子形小段",
+            "id": 154885,
+            "caseId": 1126,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 307,
+            "landNoId": 6228,
+            "landSerialNo": "2-4地號",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 123365,
+            "caseId": 1126,
+            "caseStatus": true,
+            "registerDate": 1345012847000,
+            "officialDocNo": "北府文資字第1012286738號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"新北市瑞芳區三爪子段坪林小段54-1地號\"}}],\"notfound\":\"沒有地號資料\"},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"新北市瑞芳區三爪子段坪林小段54-19地號\"}}],\"notfound\":\"沒有地號資料\"},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"新北市瑞芳區三爪子段坪林小段54-21地號\"}}],\"notfound\":\"沒有地號資料\"},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"新北市瑞芳區三爪子段蛇子形小段2-4地號\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": "待修復或再利用計畫完成後填列"
+}

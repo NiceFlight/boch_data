@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "臺南市新化區新化段王公廟小段1282-3地號"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

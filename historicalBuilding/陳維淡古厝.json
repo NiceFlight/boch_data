@@ -1,0 +1,120 @@
+{
+    "id": 1932,
+    "caseId": "20030331000003",
+    "count": 1307,
+    "shareCount": 1,
+    "representImage": 176901,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-07-28/b7831cd3-2381-40c2-80e8-db5abcf58727/01封面_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-07-28/b7831cd3-2381-40c2-80e8-db5abcf58727/01封面.jpg",
+        "name": "01封面"
+    },
+    "caseName": "陳維淡古厝",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "於清代年間創建，曾有國軍佔領，民國50年代至60年代（1960s-1970s）間曾翻修過。目前前埕加蓋鐵皮屋，攑頭部分改以RC。由於創建年代久遠，表現當地地域風貌與民間藝術特色，極具保存價值。\n（詳細歷史沿革有待日後修復及再利用計畫調查）",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1049079401000,
+    "officialDocNo": "府教社字第092001570 號",
+    "documents": [
+        {
+            "fileid": 176892,
+            "name": "92年陳維淡古厝歷史建築登錄公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-28/79ed8c5f-fd03-45e2-9167-11591cf69b73/92年陳維淡古厝歷史建築登錄公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者"
+    ],
+    "registerReason": "1.創建年期久遠者\r\n2.表現地域風貌或民間藝術特色者",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "890",
+    "govInstitutionName": "金門縣政府",
+    "belongCityId": 24,
+    "belongCityName": "金門縣",
+    "belongDistName": "金沙鎮",
+    "govInstitution": "金門縣文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "082-325643#812",
+    "govDeptAddress": "金門縣金城鎮環島北路一段66號",
+    "cadasters": [
+        {
+            "fileid": 176899,
+            "name": "陳維淡古厝-地籍圖.bmp",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-07-28/7347f7f4-08fe-46aa-98ed-5958dd01fdd1/陳維淡古厝-地籍圖.bmp"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 11,
+    "nonCityLandUseTypeName": "其他使用區",
+    "nonLandUseOtherType": "宅地",
+    "locationLandNo": "碧山段1327-0000地號",
+    "buildingFeatures": "平面格局為一落二攑頭，四向立面牆全以花崗石埆人字砌、轉角牆作水平聖旨砌。正立面圓脊牆規為傳統煙炙磚砌，攑頭兩側砌有煙炙磚女兒牆；側立面大規壁為傳統斗砌磚牆，規尾做柳條花窗，大規壁以鳥踏分隔下方花崗石确牆身。屋面屬傳統瓦作雙坡屋頂，屋脊為翹脊。其後寮牆與後方一落二攑頭建築相連。",
+    "inHouseFeatures": "由外往內以中軸線上分別為入口牆規、深井、巷頭、大廳；深井兩側為攑頭，巷頭兩端各有一半樓，大廳兩側為左右房。攑頭改為RC構造，牆體面磚作斗砌造型。正身鏡面上緣為木作，窗額作木格扇雕花，下緣為封堵石砌，入口大門改為現代鋁門。正廳為穿鬪式木作棟架，內部儉樸，無特殊之裝飾作法。",
+    "buildingUsage": "屋主平時進行日常管理維護，狀況大致良好。",
+    "buildingActualState": "建築本體結構狀況良好。",
+    "buildingKeyMaintainItem": "現為居住使用，有祭祀、炊事用火，應多加留意相關設備使用之安全。",
+    "bulkTransfer": 0,
+    "belongAddress": "碧山4號",
+    "isOpenVisit": false,
+    "openUpTime": "",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 118.44318,
+    "latitude": 24.48638,
+    "representImageSource": "曾逸仁",
+    "landScope": "金沙鎮碧山段1327地號",
+    "selfCoverage": "公告未指明歷史建築本體",
+    "addresses": [
+        {
+            "cityName": "金門縣",
+            "distName": "金沙鎮",
+            "id": 148756,
+            "caseId": 1932,
+            "caseStatus": true,
+            "cityId": 24,
+            "distId": 2401,
+            "address": "碧山4號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "金門縣",
+            "distName": "金沙鎮",
+            "landNoName": "碧山段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 205736,
+            "caseId": 1932,
+            "caseStatus": true,
+            "cityId": 24,
+            "distId": 2401,
+            "landNoId": 15287,
+            "landSerialNo": "1327",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "area": "",
+            "cityLandUseTypeOther": "自然村專用區",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 161740,
+            "caseId": 1932,
+            "caseStatus": true,
+            "registerDate": 1049079401000,
+            "officialDocNo": "府教社字第092001570號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[118.44316821118292,24.486291270411904],[118.44309623979936,24.48636279872312],[118.44318384650448,24.486434588086023],[118.4432544366145,24.48636251612407],[118.44316821118292,24.486291270411904],[118.44316821118292,24.486291270411904]]]]},\"properties\":{\"envelope\":{\"left\":\"118.44309623979936\",\"top\":\"24.486291270411904\",\"right\":\"118.4432544366145\",\"bottom\":\"24.486434588086023\"},\"landLot\":\"金門縣金沙鎮碧山段1327\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": "1.歷史建築清冊 2.曾逸仁主持，2022，《110年度金門縣文資防護專業服務中心成果報告書》，國立金門大學，金門縣文化局委託"
+}

@@ -1,0 +1,105 @@
+{
+    "id": 3427,
+    "caseId": "20131219000051",
+    "count": 34,
+    "shareCount": 0,
+    "representImage": 5977,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7200/photo/元史節要(明刊本)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7200/photo/元史節要(明刊本).jpg",
+        "name": "元史節要(明刊本)"
+    },
+    "caseName": "元史節要(明刊本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1387382400000,
+    "officialDocNo": "文資局物字第 10220148851號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "明洪武丁丑(三十年，1397)建安書堂刊本。\r\n編者張九韶(生卒年未詳)字美和，後以字行。臨江人。元末累舉不仕。洪武三年（1370），以薦為縣學教諭，遷國子助教，改翰林編修，致仕歸。\r\n此明初坊刻，傳本頗少。帝號以墨圍別出，干支紀年則別之以白文墨蓋子。序後有元朝玉商表、原始節要綱目，下卷尾題後又有元史節要釋文並續增音釋，讀者稱便。\r\n明代罕見之版本，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號01884",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 2,
+    "notes": "",
+    "descAge": "明洪武丁丑(三十年，1397)",
+    "descCreator": "明張九韶編",
+    "descSize": "半葉17行，版匡20.4x12.6公分",
+    "descMaterial": "紙質刊本",
+    "reserveStatusDesc": "二卷。此明初坊刻，傳本頗少。帝號以墨圍別出，干支紀年則別之以白文墨蓋子。序後有元朝玉商表、原始節要綱目，下卷尾題後又有元史節要釋文並續增音釋，讀者稱便。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有虫蛀。經修裱，書況良好。\n",
+    "documents": [
+        {
+            "fileid": 5978,
+            "name": "eaea0535-076d-4136-86b0-ce3331ae0b45.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44041/file/eaea0535-076d-4136-86b0-ce3331ae0b45.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3569,
+            "caseId": 3427,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3569,
+            "caseId": 3427,
+            "caseStatus": true,
+            "registerDate": 1387382400000,
+            "officialDocNo": "文資局物字第 10220148851號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

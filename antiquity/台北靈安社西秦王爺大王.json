@@ -1,0 +1,94 @@
+{
+    "id": 21488,
+    "caseId": "20230118000002",
+    "count": 276,
+    "shareCount": 1,
+    "representImage": 206061,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-01-18/e12a235f-85f9-447a-8b07-937eb913ad91/靈安社西秦王爺大王-1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-01-18/e12a235f-85f9-447a-8b07-937eb913ad91/靈安社西秦王爺大王-1.jpg",
+        "name": "靈安社西秦王爺大王-1"
+    },
+    "caseName": "台北靈安社西秦王爺大王",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "1.具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：西秦王爺為台北靈安社所奉福祿派樂神，與臺北市的北管劇樂活動、信仰與生活文化息息相關。\n2.具有藝術造詣或科學成就：木雕神像工法細緻，具藝術造詣。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "萬華區中華路一段174-1號",
+    "reservationCode": "1875-001",
+    "amount": 1,
+    "descAge": "不晚於清光緒年間",
+    "descSize": "長 12 公分，寬 12 公分，高 26.5 公分。附屬文物 4 件 ：手持官印侍 從一，高 17 公分；手持奏板侍從二，高 17 公分；舉左手侍從三，高 17 公 分；舉右手侍從四，高 17 公分。",
+    "descMaterial": "木雕",
+    "reserveStatusDesc": "西秦王爺大王鎮殿於台北靈安社社舘神龕中，神尊體態嬌小，因此神衣及神帽皆須訂製才能穿戴，王爺臉上原本蓄鬍，因為年代久遠鬍子已經掉光了，大王前方有四尊不同造型站立的侍從，其中兩尊分別手持奏板及官印，官印上書寫西秦王爺，神桌下配祀西秦王爺殿前的將軍爺神位。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "1875年",
+    "saveEnvironment": 2,
+    "reserveStatus": "狀況不良，需維護",
+    "documents": [
+        {
+            "fileid": 206060,
+            "name": "111年10月31日北市獻編字第1113003847號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-01-18/b08e92b1-89fa-4831-a6b1-d3747c8eb833/111年10月31日北市獻編字第1113003847號公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.515471,
+    "latitude": 25.058465,
+    "representImageSource": "台北靈安社",
+    "keepNames": [
+        {
+            "keepNameIdStr": "台北靈安社",
+            "keepName": "台北靈安社",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "台北靈安社",
+            "keepAddressNew": "台北靈安社",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "民俗團體",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 106771,
+            "caseId": 21488,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "歸綏街116號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 114565,
+            "caseId": 21488,
+            "caseStatus": true,
+            "registerDate": 1667145600000,
+            "officialDocNo": "北市獻編字第 1113003847號公告",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

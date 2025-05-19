@@ -1,0 +1,117 @@
+{
+    "id": 4558,
+    "caseId": "20130121000004",
+    "count": 1199,
+    "shareCount": 3,
+    "representImage": 7621,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/reserve_skill/577/photo/傳統彩繪技術_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/reserve_skill/577/photo/傳統彩繪技術.JPG",
+        "name": "傳統彩繪技術"
+    },
+    "caseName": "傳統彩繪技術",
+    "classifyCode": "7.1",
+    "classifyName": "保存技術及保存者",
+    "assetsClassifyCode": "7.1.2",
+    "assetsClassifyName": "重要保存技術及保存者",
+    "registerDate": 1358697600000,
+    "officialDocNo": "文資局傳字第10120170901號",
+    "documents": [
+        {
+            "fileid": 16256,
+            "name": "102-傳統彩繪技術暨黃友謙保存者公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2017-10-30/27204f41-9f7d-4dce-881b-aea9d1bd9ae5/102-傳統彩繪技術暨黃友謙保存者公告.pdf"
+        },
+        {
+            "fileid": 92689,
+            "name": "106-修法公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-01-25/06be1c09-92bb-4b55-b563-b4491b38d7f7/106-修法公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "特殊性對文化資產保存、修復具有全國性之重大影響"
+    ],
+    "registerReason": "黃友謙熟諳傳統的彩繪工法，筆法細膩，層次豐富，甚具文人特質；其彩繪作品現多典藏於澎湖。黃藝師致力於廟宇門神彩繪的修復工作，兼授南、北兩派彩繪技法，貢獻不止於傳統彩繪技術的保存，更藉由作品呈現藝師獨到的特色與創意，為彩繪傳承注入了新活力。",
+    "lawsReference": "文化資產保存法第九十六條第二項及第三項、行政程序法第一百二十二條",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "govInstitution": "文化部文化資產局",
+    "govDeptName": "傳藝民俗組保存技術科",
+    "govDeptPhone": "04-2177777",
+    "govDeptAddress": "臺中市南區復興路3段362號",
+    "preservers": [
+        {
+            "id": 4886,
+            "type": "個人",
+            "caseName": "黃友謙",
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "caseArtistEntities": [],
+            "representImage": 159992,
+            "registrationDate": 1358697600000,
+            "judgeCriteria": [
+                "充分掌握該項保存技術所需相關知識與執行程序",
+                "正確體現、執行該項保存技術之能力",
+                "傳習該項保存技術之溝通及輔導能力"
+            ],
+            "registerReason": "黃友謙熟諳傳統的彩繪工法，筆法細膩，層次豐富，甚具文人特質；其彩繪作品現多典藏於澎湖。黃藝師致力於廟宇門神彩繪的修復工作，兼授南、北兩派彩繪技法，貢獻不止於傳統彩繪技術的保存，更藉由作品呈現藝師獨到的特色與創意，為彩繪傳承注入了新活力。",
+            "lawsReference": "<<文化資產保存技術及保存者登錄認定廢止審查辦法>>第4條第1項第1、2、3款",
+            "isOpenDownload": false,
+            "representImageSource": "文化部文化資產局",
+            "contactorIsOpen": false
+        }
+    ],
+    "skillNote": "傳統彩繪是為保護傳統建築木構件或壁體所延伸之重要工藝技術，無論是在垛頭、垛仁或壁堵上不同題材的經典故事；或門神的保護廟宇意義上，傳統彩繪不僅美化建築環境，更顯空間莊嚴。傳統彩繪它包括了前置作業的補縫、整平、加固基底層的整理；傳統地仗層又可根據經濟狀況、基底層材質、結構等狀況，分為不使用布料的「單皮灰」與使用布料的「麻布地仗」，並以桐油灰與豬血灰作為封護、防水的材料；彩繪裝飾處理是在地仗層施作完畢後，開始打底稿，待畫師定稿後，即可執行安金、上色等繪畫技法。而彩繪修復過程除瞭解科學技術的介入性，更須掌握原畫者之創作風格及畫作題材典故的布局應用等傳統知識。",
+    "visitsDate": 1353081600000,
+    "description": "",
+    "classify": [
+        "1.1",
+        "1.2",
+        "1.3",
+        "1.4"
+    ],
+    "skillType": [
+        {
+            "id": 1
+        },
+        {
+            "id": 2
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "文化部文化資產局",
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 9227,
+            "caseId": 4558,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101
+        }
+    ],
+    "announces": [
+        {
+            "id": 9288,
+            "caseId": 4558,
+            "caseStatus": true,
+            "registerDate": 1358697600000,
+            "officialDocNo": "文資局傳字第10120170901號",
+            "classificationId": 1
+        },
+        {
+            "id": 9289,
+            "caseId": 4558,
+            "caseStatus": true,
+            "registerDate": 1512714478182,
+            "officialDocNo": "文授資局傳字第10630139792號",
+            "classificationId": 1
+        }
+    ]
+}

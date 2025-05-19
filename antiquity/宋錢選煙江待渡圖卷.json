@@ -1,0 +1,107 @@
+{
+    "id": 3974,
+    "caseId": "20120326000029",
+    "count": 386,
+    "shareCount": 0,
+    "representImage": 6810,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32960/photo/1b8e76ce-8142-4cd7-a0b2-7df7ecd5d2bf_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32960/photo/1b8e76ce-8142-4cd7-a0b2-7df7ecd5d2bf.JPG",
+        "name": "1b8e76ce-8142-4cd7-a0b2-7df7ecd5d2bf"
+    },
+    "caseName": "宋錢選煙江待渡圖卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本卷為明代收藏家項元汴的舊藏。通幅採青綠設色，筆致於古拙中蘊含典雅氣息。卷末拖尾並有明清多位名家的題跋，流傳有緒，足以代表南宋末年文人畫家在師法古人的脈絡中，尋求形塑理想山水的典型。具有重要之時代特色、技術及流派。具有重要藝術價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第三、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫001000",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descCreator": "錢選",
+    "descSize": "21.6 x 111.2、引首 22.1 x 55.1 、拖尾 323（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "錢選（西元1239-1301年），霅川（浙江湖州）人。字舜舉，號玉潭，霅豁翁等。南宋景定鄉貢進士。入元後不仕，以書畫終其身。山水師法趙令穰與趙伯駒，花鳥師趙昌，人物師李公麟，然不為前人法度所拘。 \n此卷繪秋景山水，山巒平坡多用硬拙直筆勾皴，既表現出青綠山水的古雅工麗，又富有文人畫的恬靜意趣。樹叢以細筆皴點，蔥鬱清麗，構圖平遠浩渺，頗有絕世出塵之境。畫家藉著創作此幽寂靜謐，充滿詩意的山水，並在畫上題詩，委婉曲折地表達自己隱遁避世之願望。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 151494,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-25/eb055e15-ae12-4486-8334-56190491980a/公告表.pdf"
+        },
+        {
+            "fileid": 151495,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-25/d9bb99ee-69cb-40cd-875c-e1f87070930c/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71419,
+            "caseId": 3974,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75854,
+            "caseId": 3974,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

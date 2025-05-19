@@ -1,0 +1,102 @@
+{
+    "id": 20319,
+    "caseId": "20211221000006",
+    "count": 198,
+    "shareCount": 0,
+    "representImage": 148223,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-21/1741b55a-749f-4e48-b41b-2b6b12b4ab29/PC2A000301N000000000PAA (1)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-21/1741b55a-749f-4e48-b41b-2b6b12b4ab29/PC2A000301N000000000PAA (1).jpg",
+        "name": "PC2A000301N000000000PAA (1)"
+    },
+    "caseName": "宋宣祖后坐像　軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "judgeCriteria": [
+        "歷代著名人物、國家重大事件之代表性",
+        "具有獨特藝術造詣或科學成就"
+    ],
+    "registerReason": "此作為存世唯一之宋宣祖后（902-961）全身像。由籤題標注「乾隆戊辰年重裝」及《南薰殿圖像考》等文獻資料可知，此像承自明代宮廷，並於乾隆十三年（1748）修復重裝後，貯存於南薰殿。畫作流傳有緒，為宋代貴族婦女裝束難得一見的珍貴畫作，可與宮廷奉祀儀典相互參照，極具歷史意義與研究價值。\n本作描繪袍服、座具、椅披，均飾以複雜細膩圖案，繽紛悅目，代表宮廷畫家的高度成就。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第4條第2、4款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "中畫000301",
+    "amount": 1,
+    "descAge": "宋",
+    "descCreator": "",
+    "descSize": "本幅 189.4 x 150.8 公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "宋宣祖后（902-961）為宋代開國君主趙匡胤（927-976）之母杜氏。宋代皇后像均著褘衣，宋宣祖后則穿著淡黃色外袍，華麗的鳳紋霞披，織著花樣的半透明長紗裙，增添了對於宋初后妃服飾及物質生活的認識。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "舊傷補。",
+    "documents": [
+        {
+            "fileid": 152314,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-02-08/f15a9f85-fd8f-4d59-a745-38d613db4724/公告.pdf"
+        },
+        {
+            "fileid": 152315,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-02-08/e672200c-7963-451d-b824-1868edf1f38c/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.549499,
+    "latitude": 25.10037,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " 書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71771,
+            "caseId": 20319,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路2段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 76253,
+            "caseId": 20319,
+            "caseStatus": true,
+            "registerDate": 1639929600000,
+            "officialDocNo": "文授資局物字第11030139521號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

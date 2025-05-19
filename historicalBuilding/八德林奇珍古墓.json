@@ -1,0 +1,131 @@
+{
+    "id": 1267,
+    "caseId": "20090327000002",
+    "count": 2440,
+    "shareCount": 4,
+    "representImage": 189336,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-11-04/7cecd41f-ff11-4d3f-8310-49355d318510/八德林奇珍古墓 (2)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-11-04/7cecd41f-ff11-4d3f-8310-49355d318510/八德林奇珍古墓 (2).jpg",
+        "name": "八德林奇珍古墓 (2)"
+    },
+    "caseName": "八德林奇珍古墓",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "八德林奇珍古墓立碑於清同治 3 年（1864 年）座落家族墓園，陵墓成圓形丘狀，面向屯墾農園，墓旁植樹，乃墓樹成拱庇蔭後人並祈福社稷，為清代開拓有成之民間式樣。\n\n墓碑陰刻仿宋體，其中「澄邑」代表林二公林奇珍祖籍福建漳州海澄縣，推測其約出生於乾嘉交會之際的 1796 年前後，來臺時間大約在 1820 年左右，為清中葉八德地區漢人墾拓之歷史直接見證。墓碑銘為山形陰刻仿宋體墓碑，年代亦超過 150 年，使古墓具有歷史文化價值，並足以表現地域風貌或民間藝術特色。\n\n民國 98 年因逢八德地區擴大及變更都市計畫而遷移墓葬，古墓碑牌存於林家，為彰顯八德地區之開發史，於原址鄰近之興豐公園內設置林奇珍古墓紀念碑牌。",
+    "assetsTypeNames": "墓葬",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1238144123000,
+    "officialDocNo": "府文資字第0981060615號",
+    "documents": [
+        {
+            "fileid": 189334,
+            "name": "府文資字第0981060615號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-11-04/adee15c2-a482-4e56-8ca6-2917029e60f3/府文資字第0981060615號.pdf"
+        },
+        {
+            "fileid": 212196,
+            "name": "府文資字第10303236382號-行政改制.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-04-25/47174f43-98b4-4a9d-933d-8e2e65e1a7ca/府文資字第10303236382號-行政改制.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者"
+    ],
+    "registerReason": "前清中葉八德地區漢民族墾拓之直接見證，具有歷史文化價值，並足以表現地域風貌或民間藝術特色。",
+    "lawsReference": "文化資產保存法、歷史建築登錄廢止審查及輔助辦法，暨桃園縣98年度第一次文化資產審議委員會決議辦理。",
+    "govInstitutionCode": "330",
+    "govInstitutionName": "桃園市政府",
+    "belongCityId": 5,
+    "belongCityName": "桃園市",
+    "belongDistName": "八德區",
+    "govInstitution": "桃園市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-3322592分機8628",
+    "govDeptAddress": "桃園市桃園區縣府路21號",
+    "cadasters": [
+        {
+            "fileid": 189335,
+            "name": "地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-11-04/a7402f7f-6341-44d3-b608-63af38080c41/地籍圖.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "桃園市八德區興豐段1268地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "八德林奇珍古墓目前已遷離原址，在八德興豐公園內興建一紀念空間。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "桃園市八德區建興街92巷",
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.288073633442,
+    "latitude": 24.9319797660388,
+    "representImageSource": "桃園市政府文化局",
+    "landScope": "桃園縣八德市興豐段1268地號",
+    "selfCoverage": "登錄土地面積：691.94平方公尺",
+    "addresses": [
+        {
+            "cityName": "桃園市",
+            "distName": "八德區",
+            "id": 149634,
+            "caseId": 1267,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 509,
+            "address": "建興街92巷"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "桃園市",
+            "distName": "八德區",
+            "landNoName": "興豐段",
+            "id": 207477,
+            "caseId": 1267,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 509,
+            "landNoId": 8158,
+            "landSerialNo": "1268",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 162851,
+            "caseId": 1267,
+            "caseStatus": true,
+            "registerDate": 1238144123000,
+            "officialDocNo": "府文資字第0981060615號",
+            "classificationId": 1
+        },
+        {
+            "id": 162852,
+            "caseId": 1267,
+            "caseStatus": true,
+            "registerDate": 1421129251186,
+            "officialDocNo": "府文資字第10303236382號 ",
+            "classificationId": 2,
+            "note": "行政改制"
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"桃園市八德區興豐段1268\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "openVisitType": "部分開放參觀",
+    "pastHistorySource": "桃園市文化資產導覽手冊"
+}

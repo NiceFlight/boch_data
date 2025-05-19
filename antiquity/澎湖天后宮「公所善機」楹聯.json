@@ -1,0 +1,99 @@
+{
+    "id": 17113,
+    "caseId": "20191004000008",
+    "count": 385,
+    "shareCount": 0,
+    "representImage": 61756,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-10-04/87da0879-40f1-462b-9fa4-c7f9ded657ad/IMG_0796_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-10-04/87da0879-40f1-462b-9fa4-c7f9ded657ad/IMG_0796.jpg",
+        "name": "IMG_0796"
+    },
+    "caseName": "澎湖天后宮「公所善機」楹聯",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1565941310087,
+    "officialDocNo": "中華民國108年8月16日府授文博字1083702655號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者"
+    ],
+    "registerReason": "1、具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：楹聯落款為「天后宮聖母林氏敬撰」，由媽祖降鸞所撰，反映信仰特色。\n2、能反映政治、經濟、社會、人文、科學等歷史變遷或時代特色者：公善樓為早期地方仕紳籌畫公益事宜，或澎湖士子以文會友、教授漢學的場所，此楹聯文字「公所常臨和衷籌義舉」、「善機咸動協力鼓仁風」標示此處的社會意義。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、3款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00646- M01-31",
+    "amount": 2,
+    "descAge": "1926年",
+    "descSize": "高157/寬21/厚4(公分)",
+    "descMaterial": "木",
+    "reserveStatusDesc": "直長形弧面木質楹聯，聯面黑漆，字皆笑竹（陰刻）填金，頂有如意頭形金屬掛環。上聯「公所常臨和衷籌義舉」，下聯「善機咸動協力鼓仁風」；上聯年款「大正丙寅年清和之月　吉旦」，下聯落款「天后宮聖母林氏敬撰」，下款以白色補土將陰刻填滿，「林氏敬撰」四字曾有黑漆覆蓋痕跡。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "時間：大正拾参年歲次甲子秋月吉旦    捐贈者：董事黃財隆率男　通明、華、雄　敬献",
+    "saveEnvironment": 2,
+    "reserveStatus": "清風閣二樓明間前柱",
+    "documents": [
+        {
+            "fileid": 61754,
+            "name": "澎湖天后宮-公所善機楹聯.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-10-04/d3619ef4-dc4b-4f31-b004-558bc3049755/澎湖天后宮-公所善機楹聯.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.564038,
+    "latitude": 23.564693,
+    "representImageSource": "澎湖縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "澎湖天后宮",
+            "keepName": "蔡光明",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "澎湖天后宮",
+            "keepAddressNew": "澎湖縣馬公市中央里正義街1號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 127664,
+            "caseId": 17113,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "中央里正義街1號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 138586,
+            "caseId": 17113,
+            "caseStatus": true,
+            "registerDate": 1565941310087,
+            "officialDocNo": "府授文博字第1083702655號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

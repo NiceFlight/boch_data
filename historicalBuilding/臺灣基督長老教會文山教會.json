@@ -1,0 +1,123 @@
+{
+    "id": 17497,
+    "caseId": "20200323000001",
+    "count": 3134,
+    "shareCount": 5,
+    "representImage": 189571,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/7c52f144-cee1-4d64-9b87-43fc0030fdb4/代表圖像_臺灣基督長老教會文山教會_20220916(IMG_E0844)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/7c52f144-cee1-4d64-9b87-43fc0030fdb4/代表圖像_臺灣基督長老教會文山教會_20220916(IMG_E0844).jpg",
+        "name": "代表圖像_臺灣基督長老教會文山教會_20220916(IMG_E0844)"
+    },
+    "caseName": "臺灣基督長老教會文山教會",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "1.1891年由木柵山區張迺鴻等信眾創立。\n2.1894年於現址購地興建教堂。\n3.現有禮拜堂於1964年落成。",
+    "assetsTypeNames": "教堂",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 67630,
+            "name": "03.20200309公告影本.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-03-23/34fc7a82-e827-4376-bb1e-7eeb0deffff0/03.20200309公告影本.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1、本教會由木柵山區張迺鴻等信眾於1891年創立，屬新店教會分支，見證馬偕牧師北臺灣傳教歷史，為文山地區的重要信仰中心。\n2、本教會為文山地區之首座長老教會，1894年於現址購地興建教堂，現有禮拜堂於1964年落成，教會位處市場東端入口，緊鄰木柵老街，為文山地區重要街景與記憶場所。\n3、建築本體立面簡潔，正立面一門二窗，為尖拱形式，兩側各開二大一小方窗，兩側後段各開一尖拱門，雖經整修，大致仍維持原格局及樣貌。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 67632,
+            "name": "歷史建築定著土地範圍.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2020-03-23/7052007a-f5d1-4b74-8d5d-fa41e56400fe/歷史建築定著土地範圍.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市文山區木柵段一小段91、165地號",
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.569731,
+    "latitude": 24.989147,
+    "representImageSource": "臺北市文化局",
+    "landScope": "1.座落土地：臺北市文山區木柵段一小段 91 號（部分，48平方公尺）\n2.座落土地：臺北市文山區木柵段一小段 165號（部分，179平方公尺）\n",
+    "selfCoverage": "124平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "文山區",
+            "id": 95077,
+            "caseId": 17497,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 112,
+            "address": "開元街25號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "文山區",
+            "landNoName": "木柵段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 117482,
+            "caseId": 17497,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 112,
+            "landNoId": 101,
+            "landSerialNo": "91",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "area": "48",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "文山區",
+            "landNoName": "木柵段一小段",
+            "cityLandUseTypeName": "保存區",
+            "id": 117483,
+            "caseId": 17497,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 112,
+            "landNoId": 101,
+            "landSerialNo": "165",
+            "landownership": 2,
+            "cityLandUseTypeId": 7,
+            "area": "179",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 102574,
+            "caseId": 17497,
+            "caseStatus": true,
+            "registerDate": 1583683200000,
+            "officialDocNo": "北市文化文資字10930147631號",
+            "classificationId": 1,
+            "note": "登錄「臺灣基督長老教會文山教會」為本市歷史建築"
+        }
+    ],
+    "openVisitType": ""
+}

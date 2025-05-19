@@ -1,0 +1,108 @@
+{
+    "id": 20526,
+    "caseId": "20220328000001",
+    "count": 1947,
+    "shareCount": 1,
+    "representImage": 156451,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/cf67c97e-616f-4363-9450-ff1875299c8b/2021122案一溫泉路現勘_210122_9_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/cf67c97e-616f-4363-9450-ff1875299c8b/2021122案一溫泉路現勘_210122_9.jpg",
+        "name": "2021122案一溫泉路現勘_210122_9"
+    },
+    "caseName": "溫泉路119號",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "系日治時期某家礦業株式會社所建，地基、圍牆皆以唭哩岸石堆砌，建物皆為扁柏，屋頂為鬼瓦，具有歷史意義。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 156452,
+            "name": "公告+地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/a33a729c-f9fd-47c3-9b17-7dd3708ccc7e/公告+地籍圖.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "1.本案建物A棟興建於大正2年（1913），B棟興建於昭和19年（1944），為溫泉地區會社休憩使用，具有日治時期溫泉建築之歷史文化價值。\n2.A棟和室空間雖有改變，惟仍保存原有格局，B棟保存原物較多，包括二間和室皆留有「床之間」、「違棚」、「欄間」、原有「竿緣天花」、「緣側」等，庭園保存原有踏石，石燈籠。兩座建物與庭園、溪流關係緊密。",
+    "lawsReference": "符合歷史建築紀念建築登錄廢止審查及輔助辦法第 2 條第 1 項第 1 、 3 款登錄基準。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 156453,
+            "name": "歷史建築定著土地範圍.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/3416e293-4a99-436d-a903-41d4785a2d1d/歷史建築定著土地範圍.pdf"
+        }
+    ],
+    "longitude": 121.51230087889991,
+    "latitude": 25.13665375175898,
+    "landScope": "北投區新民段四小段257(615 平方公尺 ) 、 258 部分該筆土地面積 944 平方公尺）地號等 2 筆土地（實際保存面積",
+    "selfCoverage": "北投區溫泉路119號建築本體（Ａ棟、Ｂ棟），建物為北投區新民段四小段 40192 建號（建物總面積 213 平方公尺）",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "id": 79877,
+            "caseId": 20526,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "address": "溫泉路119號（ A 棟、 B 棟）"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "landNoName": "新民段四小段",
+            "id": 85768,
+            "caseId": 20526,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "landNoId": 646,
+            "landSerialNo": "257",
+            "landownership": 1,
+            "area": "615 平方公尺",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "landNoName": "新民段四小段",
+            "id": 85769,
+            "caseId": 20526,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "landNoId": 646,
+            "landSerialNo": "258",
+            "landownership": 1,
+            "area": "部分（筆土地面積 944 平方公尺）",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 85717,
+            "caseId": 20526,
+            "caseStatus": true,
+            "registerDate": 1647360000000,
+            "officialDocNo": "北市文化文資字第11130108941號",
+            "classificationId": 1,
+            "note": "歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "提報資料"
+}

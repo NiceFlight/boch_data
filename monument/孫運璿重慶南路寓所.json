@@ -1,0 +1,116 @@
+{
+    "id": 68,
+    "caseId": "20060623000001",
+    "count": 2582,
+    "shareCount": 0,
+    "representImage": 167986,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/35501006-f750-448b-ace9-4256aa429585/代表圖像_孫運璿重慶南路寓所_20220602_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/35501006-f750-448b-ace9-4256aa429585/代表圖像_孫運璿重慶南路寓所_20220602.jpeg",
+        "name": "代表圖像_孫運璿重慶南路寓所_20220602"
+    },
+    "caseName": "孫運璿重慶南路寓所",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "1.本地區日式宿舍之發展，主要以明治34年（西元1901年）公佈之「台北城外南方市區計畫」為起始，屬於開發新街區而規劃之計畫。本區日式宿舍之發展主要以林業試驗所、第一中學附近至高等學校、台北帝國大學等已日人住宅及教職員員工宿舍為主。\r\n2.本建築物係孫先生晚年寓所，原為一棟日式宿舍，部分為其遷入時新建東半部洋樓，西半部留存日式後屋，仍維持屋頂及外觀。\r\n3.孫運璿先生於民國69年底搬遷到此居住迄本（95）年2月因病辭世。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 143222,
+            "name": "3._950623指定市定古蹟公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/0a66811d-8d4d-42aa-878b-c51135c0962d/3._950623指定市定古蹟公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "重要歷史事件或人物之關係",
+        "具其他古蹟價值者"
+    ],
+    "registerReason": "1.孫運璿先生乃代表臺灣經濟、科技發展及國家現代化過程之重要推手。\n2.本建築物係孫運璿先生之晚年寓所，建物之西半部仍為日據時期建築原貌，屋簷二重，有唐博風屋頂，內部多為木構造，建物東半部洋樓之設計具現代主義特色，兼容洋房與日式宿舍之美，保存相當良好，室內文物仍存在，有再利用之價值及潛力，週邊環境清幽，庭園面積寬廣，植物茂盛，與西側植物園相互呼應，具歷史、文化與人文關係之保存意義。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 143223,
+            "name": "建物調查表(重慶南路).doc",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/62fbf2c4-3e56-4e8d-96b0-251953f9e8c8/建物調查表(重慶南路).doc"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "中正區南海段5小段53地號",
+    "buildingFeatures": "環境清幽，面積寬廣，植物茂盛，與西側植物園相互呼應，西半部仍為日治時期舊物，屋簷二重，有唐博風屋頂，內部大部分仍為木造，東半部洋樓之設計具現代主義特色。",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "文化局已委託財團法人孫運璿學術基金會經營管理，定名為「孫運璿科技‧人文紀念館」，已對外開放參觀。參觀資訊詳http://www.sysmm.org/",
+    "buildingKeyMaintainItem": "建築物木構造外牆、屋頂、入口及玄關、東側露臺、石階及木造之建築原貌；圍牆以內之環境應予維持。",
+    "bulkTransfer": 1,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenDownload": false,
+    "longitude": 121.5115509,
+    "latitude": 25.0335624,
+    "representImageSource": "臺北市文化局",
+    "landScope": "中正區南海段5小段53地號",
+    "selfCoverage": "中正區南海段五小段17、2335建號",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 81962,
+            "caseId": 68,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "重慶南路2段6巷10號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "南海段五小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 90557,
+            "caseId": 68,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 18,
+            "landSerialNo": "0053-0000",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "2863平方公尺",
+            "note": "重測前:南門段2小段15-10地號\n因分割增加地號:53-1地號\n因分割增加地號:53-2地號\n因分割增加地號:53-3地號",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 88106,
+            "caseId": 68,
+            "caseStatus": true,
+            "registerDate": 1150992000000,
+            "officialDocNo": "府文化二字第09530267500號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "openVisitType": "",
+    "openUpTime": "參觀資訊詳http://www.sysmm.org/",
+    "isCharge": true,
+    "pastHistorySource": "摘錄自95年6月23日公告古蹟清冊資料"
+}

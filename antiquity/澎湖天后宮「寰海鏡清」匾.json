@@ -1,0 +1,102 @@
+{
+    "id": 17338,
+    "caseId": "20200206000009",
+    "count": 651,
+    "shareCount": 0,
+    "representImage": 65771,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-02-06/8b77f29d-7170-4bbd-a569-c32f17cce0c5/IMG_0603_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-02-06/8b77f29d-7170-4bbd-a569-c32f17cce0c5/IMG_0603.jpg",
+        "name": "IMG_0603"
+    },
+    "caseName": "澎湖天后宮「寰海鏡清」匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1570613020446,
+    "officialDocNo": "中華民國108年10月9日府授文博字第1083703354號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "1、具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：本匾製作工藝為日治時期匾；「寰海鏡清」所指為天下太平，為媽祖信仰文化中常見之匾詞。\n2、具有藝術造詣或科學成就：本匾刻工保留書家於紙面的漲墨效果，筆畫間留存微小之空白，予以無聲勝有聲之境界。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、4款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00646-P-106-0003",
+    "amount": 1,
+    "descAge": "日治時期",
+    "descSize": "寬約195公分",
+    "descMaterial": "木",
+    "reserveStatusDesc": "橫長形木匾，匾面燻黑（或為黑漆），近框處有槽，邊緣露出青綠色底漆，匾框榫接，上下飾太陽花捲草紋，左右為硬團紋，淺浮雕原似有貼金已脫落。中行陽文貼字，題「寰海鏡清」四字，字有破鋒，除「鏡」外三字有螺絲釘加固，「寰」字掠筆末端斷缺，字貼金多脫落。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "無",
+    "saveEnvironment": 2,
+    "reserveStatus": "澎湖天后宮第二進前落左次間前副點柱間",
+    "documents": [
+        {
+            "fileid": 106536,
+            "name": "澎湖天后宮「寰海鏡清」匾.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-04-20/482749b4-f211-465a-a347-b02b38ee02d0/澎湖天后宮「寰海鏡清」匾.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.564038,
+    "latitude": 23.564693,
+    "representImageSource": "澎湖縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "澎湖天后宮",
+            "keepName": "蔡光明",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "澎湖天后宮",
+            "keepAddressNew": "澎湖縣馬公市中央里正義街1號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "澎湖縣",
+            "keepNameDistName": "馬公市",
+            "keepNameAddress": "中央里正義街1號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 127639,
+            "caseId": 17338,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "中央里正義街1號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 138561,
+            "caseId": 17338,
+            "caseStatus": true,
+            "registerDate": 1570613020446,
+            "officialDocNo": "府授文博字第1083703354號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

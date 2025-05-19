@@ -1,0 +1,106 @@
+{
+    "id": 16955,
+    "caseId": "20190730000021",
+    "count": 93,
+    "shareCount": 0,
+    "representImage": 153695,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-03-02/3f1b93fa-9b1d-4bbb-857d-653ec13d9ce1/K1B010347N000000000PAD_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-03-02/3f1b93fa-9b1d-4bbb-857d-653ec13d9ce1/K1B010347N000000000PAD.jpg",
+        "name": "K1B010347N000000000PAD"
+    },
+    "caseName": "官窯青瓷葵口盤（故瓷010347）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1564133534357,
+    "officialDocNo": "文授資局物字第10830078621號",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "數量特別稀少或具完整性保存意義者",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "六瓣葵花形，侈口，淺壁，至足際向內橫折成折腰盤式，盤底心微凹，矮圈足。胎體稍薄，施青瓷釉，釉色偏綠，釉表開深色紋片。施釉至足際，足緣無釉，露出燒後胎色。\n此器施青瓷釉，底面鐫刻乾隆皇帝〈詠官窯葵花盤〉詩，詩末署「乾隆丁酉新春御題」紀年銘（1777），並落「太璞」一枚鈐印。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故瓷010347",
+    "amount": 1,
+    "descAge": "南宋",
+    "descSize": "高4.1公分、口徑18公分、足徑5.5 公分",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "六瓣葵花形，侈口，淺壁，至足際向內橫折成折腰盤式，盤底心微凹，矮圈足。胎體稍薄，施青瓷釉，釉色偏綠，釉表開深色紋片。施釉至足際，足緣無釉，露出燒後胎色。底面鐫刻乾隆皇帝〈詠官窯葵花盤〉詩，詩末署「乾隆丁酉新春御題」紀年銘（乾隆四十二年：1777），並落「太璞」一枚鈐印。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "已修補，有舊黏補痕。器外釉面磕傷。",
+    "documents": [
+        {
+            "fileid": 145247,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-17/51eaac95-f8dd-4c2e-8e95-605ab0d1d1d8/公告.pdf"
+        },
+        {
+            "fileid": 145248,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-17/8e0cf544-55ef-4a80-91ac-8c095e83cb38/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 72853,
+            "caseId": 16955,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 77701,
+            "caseId": 16955,
+            "caseStatus": true,
+            "registerDate": 1564133534357,
+            "officialDocNo": "文授資局物字第10830078621號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

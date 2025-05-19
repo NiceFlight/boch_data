@@ -1,0 +1,78 @@
+{
+    "id": 2572,
+    "caseId": "20100809000005",
+    "count": 436,
+    "shareCount": 0,
+    "representImage": 4887,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/traditional_art/39408/photo/pic6_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/traditional_art/39408/photo/pic6.png",
+        "name": "pic6"
+    },
+    "caseName": "風箏",
+    "classifyCode": "4.2",
+    "classifyName": "傳統工藝",
+    "assetsTypeNames": "其他",
+    "otherAssetsType": "竹籐工藝",
+    "assetsClassifyCode": "4.2.1",
+    "assetsClassifyName": "傳統工藝",
+    "registerDate": 1281347483000,
+    "officialDocNo": "府文化三字第09931583902號",
+    "documents": [],
+    "judgeCriteria": [
+        "藝術性:具有藝術價值者",
+        "特殊性:構成傳統藝術之特殊藝能表現,其技法優秀者",
+        "地方性:傳統藝術領域有價值與地位,並具有地方色彩或流派特色顯著者"
+    ],
+    "registerReason": "一、無論從傳統到創新的風箏在造形上，色彩上均具有美術價值，符合「傳統藝術民俗及有關文物登錄指定及廢止審查辦法」第二條第一項第一款第一目，具藝術性。\r\n二、製作之風箏在天上飛翔、鳴叫，必須對力學，氣流都要有所了解，符合「傳統藝術民俗及有關文物登錄指定及廢止審查辦法」第二條第一項第一款第二目，具特殊性。\r\n三、由客家地區出發，製作台灣民間特色風箏，具傳統地方色彩，符合「傳統藝術民俗及有關文物登錄指定及廢止審查辦法」第二條第一項第一款第三目，具地方性。",
+    "lawsReference": "一、「文化資產保存法」。\r\n二、「傳統藝術民俗及有關文物登錄指定及廢止審查辦法」。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongAddress": "",
+    "historyDevelopment": "略",
+    "preservers": [
+        {
+            "id": 4586,
+            "type": "個人",
+            "caseName": "謝金鑑",
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "caseArtistEntities": [],
+            "representImage": 7635,
+            "judgeCriteria": [],
+            "school": "21歲開始自行研學，曾經至20多國展覽。",
+            "isOpenDownload": false,
+            "contactorIsOpen": false,
+            "caseAliasName": ""
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "臺北市政府文化局",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 2698,
+            "caseId": 2572,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 2698,
+            "caseId": 2572,
+            "caseStatus": true,
+            "registerDate": 1281347483000,
+            "officialDocNo": "府文化三字第09931583902號",
+            "classificationId": 1
+        }
+    ]
+}

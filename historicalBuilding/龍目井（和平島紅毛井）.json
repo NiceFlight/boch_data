@@ -1,0 +1,120 @@
+{
+    "id": 2119,
+    "caseId": "20061207000006",
+    "count": 2581,
+    "shareCount": 5,
+    "representImage": 231545,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-09-21/a81f5087-9f9b-4919-a39d-c5fb2fd33e96/龍目井3_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-09-21/a81f5087-9f9b-4919-a39d-c5fb2fd33e96/龍目井3.jpg",
+        "name": "龍目井3"
+    },
+    "caseName": "龍目井（和平島紅毛井）",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "因位於和平島三島之中的盤踞島北側的「龍仔頂」山的眼睛所在，自以「龍目」命名之。\n西元1626年5月16日，西班牙軍隊佔領和平島，當時為了覓尋合適飲用的水源，找到這口自然湧出的泉水；當時為了取水方便，以炸藥炸出一深井以利取水。1642年荷蘭人登陸和平島，正也是從龍目井外的海邊登陸上岸，擊退西班牙人。\n清領初期，和平島的龍目甘泉為諸羅縣的六景之一，直至日治時期，日本人在昭和10年(1935年)興建大基隆橋（舊和平橋）時，於井的四周及上方，興建一西班牙風格的半圓拱形的水泥遮頂，作為防空襲掩體之用。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "水井",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1165420800000,
+    "officialDocNo": "基府文資壹第0950145209B",
+    "documents": [
+        {
+            "fileid": 174994,
+            "name": "951207-登錄公告--龍目井.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-21/7ef9f142-09e5-4c47-9f1f-bebe7c098ebd/951207-登錄公告--龍目井.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者"
+    ],
+    "registerReason": "具歷史文化價值、表現地域風貌或民間藝術特色者",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、2款",
+    "govInstitutionCode": "200",
+    "govInstitutionName": "基隆市政府",
+    "belongCityId": 2,
+    "belongCityName": "基隆市",
+    "belongDistName": "中正區",
+    "govInstitution": "基隆市文化觀光局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2422-4170",
+    "govDeptAddress": "基隆市中正區信一路181號",
+    "cadasters": [
+        {
+            "fileid": 174999,
+            "name": "龍目井（和平島紅毛井） 地籍資料.bmp",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-07-21/3fcd3169-9970-4572-b05a-ddc822fff866/龍目井（和平島紅毛井） 地籍資料.bmp"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "公園用地",
+    "locationLandNo": "和平段500地號",
+    "buildingFeatures": "水井上方有半圓拱型之混凝土頂蓋。",
+    "inHouseFeatures": "頂蓋內部為一水井，內部有當地設置之抽水馬達設備。",
+    "buildingUsage": "使用中。",
+    "buildingActualState": "供東南山麓阿拉寶灣的阿美族原住民使用。",
+    "bulkTransfer": 0,
+    "belongAddress": "和平島和一路2巷",
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.770261,
+    "latitude": 25.156992,
+    "representImageSource": "基隆市文化觀光局",
+    "landScope": "基隆市中正區和平段500地號，共計1區，土地面積總計3526平方公尺。",
+    "selfCoverage": "水井及半圓拱型混凝土頂蓋",
+    "addresses": [
+        {
+            "cityName": "基隆市",
+            "distName": "中正區",
+            "id": 149776,
+            "caseId": 2119,
+            "caseStatus": true,
+            "cityId": 2,
+            "distId": 203,
+            "address": "和平島和一路2巷"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "基隆市",
+            "distName": "中正區",
+            "landNoName": "和平段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 207581,
+            "caseId": 2119,
+            "caseStatus": true,
+            "cityId": 2,
+            "distId": 203,
+            "landNoId": 2230,
+            "landSerialNo": "2-1",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "3525.96",
+            "cityLandUseTypeOther": "第二類港埠用地",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 163015,
+            "caseId": 2119,
+            "caseStatus": true,
+            "registerDate": 1165420800000,
+            "officialDocNo": "基府文資壹第0950145209B",
+            "classificationId": 1,
+            "note": "登錄「龍目井」為歷史建築"
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"properties\":{\"envelope\":{\"left\":121.76986663967497,\"right\":121.77239316017355,\"top\":25.158198201558232,\"bottom\":25.15613771783711,\"renderer\":null},\"landLot\":\"基隆市中正區和平段2-1\"},\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[121.77239316017355,25.158071498979762],[121.77083853805065,25.157070458743735],[121.7704460312491,25.156816175293695],[121.76991836308949,25.156475129006964],[121.76992136446935,25.15613771783711],[121.76989660151885,25.15619421805488],[121.76987132188573,25.15630447079017],[121.76986663967497,25.156351804629118],[121.7698717223061,25.156388500954332],[121.76987225851654,25.156535415342898],[121.76987464617005,25.156539710030003],[121.77044451413944,25.15692079669514],[121.77071238433494,25.157100517600693],[121.77205871025082,25.157996610045686],[121.77217459965338,25.158073742965133],[121.77224621948446,25.158121716214374],[121.77236040492181,25.158198201558232],[121.77239316017355,25.158071498979762],[121.77239316017355,25.158071498979762]]]}}]}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": "愛鄉文化協會"
+}

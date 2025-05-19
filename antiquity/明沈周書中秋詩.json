@@ -1,0 +1,101 @@
+{
+    "id": 3749,
+    "caseId": "20140425000055",
+    "count": 234,
+    "shareCount": 0,
+    "representImage": 188452,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-10-31/e1e878da-9caf-451f-a829-d48c7e269b83/K2B000421N000000000PAD_c.png"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-10-31/e1e878da-9caf-451f-a829-d48c7e269b83/K2B000421N000000000PAD.png",
+        "name": "K2B000421N000000000PAD"
+    },
+    "caseName": "明沈周書中秋詩",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1398355200000,
+    "officialDocNo": "10320044791",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "沈周（1427-1509）字啟南，號石田、白石翁，是明代中期蘇州的重要畫家。\r\n沈周單純書法作品較少，此卷用筆雄強剛勁，精力飽滿，為其六十歲時山谷體成熟之作，具有書風發展的階段意義。引首張瑞圖所題「靜月」二字，用筆俐落，風格簡約渾穆，為其晚年大字佳作。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條1項第5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故書000421",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descSize": "31.9 x 232（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "沈周，字啟南，號石田、白石翁，蘇州府長洲縣相城人，生於明宣德二年（1427），卒於明正德四年（1509），享年八十三歲。沈周自幼過目成誦，聰慧絕人。少從陳寬學，既長，廣涉經傳子史百家，兼及醫方卜筮，乃至野史傳奇等。詩文、書畫俱有所成。\r\n一四八六年中秋前一夜，沈周與浦舒菴、祝允明及家中子侄七人賞月，繪有〈十四夜月圖並詩〉。一四八九年八月望後，他在雙峨樓又重書此詩，即此卷。\r\n雙峨樓可能位於重元寺，因寺前有二土阜，俗稱雙峨寺。沈周不少畫作皆完成於雙峨寺，為其經常創作之地點。中秋節時，沈周賞月之餘，經常從事書畫活動，此次展出的題林逋〈手札二帖〉與題王維〈江干雪意〉就是寫於不同年的中秋節，此外，他也曾在一四八七年中秋日作〈仿黃公望富春山居圖〉。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。引首：折痕、傷損、污漬、霉傷。本幅：霉傷、磨損、輕污。前後隔水污漬、傷損。",
+    "documents": [
+        {
+            "fileid": 150209,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-12/f42faa90-7048-4ede-8e31-0eafeedb6bc6/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 94654,
+            "caseId": 3749,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": " 至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 102108,
+            "caseId": 3749,
+            "caseStatus": true,
+            "registerDate": 1398355200000,
+            "officialDocNo": "10320044791",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

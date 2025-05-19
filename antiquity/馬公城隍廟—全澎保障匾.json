@@ -1,0 +1,103 @@
+{
+    "id": 16313,
+    "caseId": "20181031000006",
+    "count": 426,
+    "shareCount": 2,
+    "representImage": 51100,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-10-31/de333b3f-82bd-42ea-b430-1c3652f26808/10-026IMG_8842_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-10-31/de333b3f-82bd-42ea-b430-1c3652f26808/10-026IMG_8842.jpg",
+        "name": "10-026IMG_8842"
+    },
+    "caseName": "馬公城隍廟—全澎保障匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1535967075797,
+    "officialDocNo": "府授文博字第1073702664號",
+    "judgeCriteria": [
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "（1）具有地方重要人物或歷史事件之深厚淵源者：具史事淵源。\n（2）能反映政治、經濟、社會、人文、科學等歷史變遷或時代特色者：具歷史價值。\n（3）具有藝術造詣或科學成就：語氣磅礡，形式完整，具藝術價值。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第2、3、4款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00679-P-M015-026",
+    "amount": 1,
+    "notes": "戎陳猷，浙江錢塘縣監生，遵例報捐布經歷，指分福建補用加捐鹽提舉銜，同治元年到省借補。同治十年捐輸甘肅軍餉，議敘藍翎，借補按察司經歷。光緒九年計典保薦卓異，升補臺灣府澎湖通判。光緒11年清法戰爭後，先由程邦基代理失守案被發往黑龍江的鄭膺杰，後來由戎陳猷接任通判一職，於光緒十二年四月初一日到任。此匾說明城隍廟由程邦基主持修建後，工程應該是在接任的戎陳猷任內竣工，戎陳猷再獻此匾予城隍廟。戎陳猷光緒13年丁本生母憂，卸事請咨，回籍守制。",
+    "descAge": "1886年",
+    "descSize": "寬約200公分",
+    "descMaterial": "木",
+    "reserveStatusDesc": "橫長形木匾，匾面為四片木板拼接，面無紋無框，施紅漆，中行為平面陽文貼字，題行書「全澎保障」，上款「光緒丙戌仲夏 鼓旦」，下款「提舉銜澎城通判戎陳猷敬立」。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "時間：1886年    捐贈者：提舉銜澎城通判戎陳猷敬立",
+    "saveEnvironment": 2,
+    "reserveStatus": "表面保護漆老化，懸於拜殿明間門楣。",
+    "documents": [
+        {
+            "fileid": 51099,
+            "name": "馬公城隍廟-全澎保障匾.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-10-31/e9fafce6-092d-4d96-8cd1-20ab3e23d9d7/馬公城隍廟-全澎保障匾.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.566317,
+    "latitude": 23.566223,
+    "representImageSource": "澎湖縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "馬公城隍廟",
+            "keepName": "顏敏雄",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "馬公城隍廟",
+            "keepAddressNew": "澎湖縣馬公市重慶里光明路20 號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "澎湖縣",
+            "keepNameDistName": "馬公市",
+            "keepNameAddress": "重慶里光明路8鄰20號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 26893,
+            "caseId": 16313,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "重慶里光明路20 號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 27124,
+            "caseId": 16313,
+            "caseStatus": true,
+            "registerDate": 1535967075797,
+            "officialDocNo": "府授文博字第1073702664號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,100 @@
+{
+    "id": 4414,
+    "caseId": "20151218000005",
+    "count": 234,
+    "shareCount": 0,
+    "representImage": 7413,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39090/photo/99b2dc22-18fd-4d1f-bdaa-87b8d7354626_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39090/photo/99b2dc22-18fd-4d1f-bdaa-87b8d7354626.jpg",
+        "name": "99b2dc22-18fd-4d1f-bdaa-87b8d7354626"
+    },
+    "caseName": "明王紱淇渭圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1450368000000,
+    "officialDocNo": "\t文授資局物字第10430113271號",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "品質精良且數量稀少"
+    ],
+    "registerReason": "王紱（1362-1416）為明初畫竹名家，畫風承襲北宋文同（1018-1079）的墨竹傳統，筆法靈活穩健，為明代重要墨竹畫家。\n本幅畫垂竹，全幅佈置頗有巧思，以墨畫竹，密葉疏枝，俯仰向背，用筆靈巧富變化，整幅竹葉之清雅，表現無遺。畫幅不大，猶如臨窗所見，竹葉之映影，風清令人心爽，其格局與氣度，為文人畫之一種代表，為傳世王紱墨竹的代表作品，也是畫竹史上之名作。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第4、5款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": " 04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000390",
+    "amount": 1,
+    "descAge": "明",
+    "descSize": "78.2公分 x 34.5公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "王紱（1362-1416），江蘇無錫人。字孟端，號友石、九龍山人。博學工詩，永樂中以能書薦入翰林，擢為中書舍人。為明代重要墨竹畫家，評者謂其畫竹能於遒勁中帶姿媚，縱橫外見洒落。\n河南淇水和甘肅渭水以產竹聞名，有「淇園之竹」和「渭川千畝竹」之稱，為本幅題名由來。畫中以遒勁筆法畫竹梢一段。墨竹密葉疏枝，俯仰向背，全幅佈置頗有巧思，以小觀大，頗現千畝之勢。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "包首：傷補，霉。本幅：蟲蛀，傷補，霉傷，折痕。全幅褐斑。",
+    "documents": [
+        {
+            "fileid": 148932,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-29/a25ce3d3-368f-4fe6-a4ce-d35b9f7e6402/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69720,
+            "caseId": 4414,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73899,
+            "caseId": 4414,
+            "caseStatus": true,
+            "registerDate": 1450368000000,
+            "officialDocNo": "\t文授資局物字第10430113271號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

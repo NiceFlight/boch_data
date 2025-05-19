@@ -1,0 +1,163 @@
+{
+    "id": 985,
+    "caseId": "20060217000006",
+    "count": 2218,
+    "shareCount": 1,
+    "representImage": 170935,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/0a8a9682-64e4-4171-b795-fb21b9b190d2/代表圖像_迪化街1段183號店屋_20220623_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/0a8a9682-64e4-4171-b795-fb21b9b190d2/代表圖像_迪化街1段183號店屋_20220623.jpg",
+        "name": "代表圖像_迪化街1段183號店屋_20220623"
+    },
+    "caseName": "迪化街1段183號店屋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "根據台北市建成地政事務所提供日據時期原始之「土地登記簿」、「建物登記謄本」、「建物圖面」以及「臺北市商工人名錄」等資料，綜合各項調查資料，得知本基地的相關歷史如下：\r\n本基地迪化街一段181、183號，日據時期分別為永樂町五丁目114、113番地，土地及建物所有權至為單純，日據時期兩宗土地主要為蔡姓家族所擁有，183號於戰後移轉至陳姓持有人。經查，昭和11年至19年間之共同地主為蔡家祥，181號曾為地主蔡家祥自營棉絲布匹批發零售的「老榮發」布行，183號曾出租予由黃潭經營食品雜貨的「信成商行」，亦作為「臺北市清飲會」及「臺北果精會」等飲料業的「任意組合」（同業間所組成的公會組織形式）之登記地址。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 167933,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/430d727e-894d-4d88-acc0-5f2eb0c5b4f5/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "為1920-30年代建築，加強磚造街屋格局，正立面為四柱三窗式，保留當時面磚。客廳天花及燈座、線腳具有特色，樓梯為洗石子，保存亦佳。",
+    "lawsReference": "文化資產保存法第15條及歷史建築登錄及廢止審查辦法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 167934,
+            "name": "downloadfile (5).JPG",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/ff476aff-e73c-4e84-a29c-eb253b7c5bdf/downloadfile (5).JPG"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "特定專用區",
+    "locationLandNo": "大同區延平段三小段201、202-1、202、202-2地號",
+    "buildingFeatures": "建築風格為近代建築樣式，其構造特徵以RC為主，立面形式採四柱三間式，以簡單樸素的幾何圖形與線腳作裝飾，立面材料為日據末期特有的北投窯廠生產之國防面磚貼覆。",
+    "inHouseFeatures": "現況室內還保有舊有精緻的門窗及五金構件。",
+    "buildingUsage": "原貌修復完成。",
+    "buildingActualState": "原貌修復完成。",
+    "buildingKeyMaintainItem": "應保存傳統街屋建築形式，復原街屋進落及天井，屋面及立面整修。",
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.5096078,
+    "latitude": 25.0590321,
+    "representImageSource": "臺北市文化局",
+    "landScope": "大同區延平段三小段201、202-1、202、202-2地號",
+    "selfCoverage": "大同區延平段三小段1376建號，104平方公尺，以實際測量為主",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 83732,
+            "caseId": 985,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "迪化街1段183號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段三小段",
+            "id": 94559,
+            "caseId": 985,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 189,
+            "landSerialNo": "201",
+            "landownership": 2,
+            "coverageId": 2,
+            "area": "10平方公尺",
+            "note": "建築完成日期:\t100年01月13日\n其他登記事項:\t（權狀註記事項）建築基地地號：延平段三小段１９９－１、１９９－２、２００、２０１、２０２、２０２－１、２０２－２、２０２－３地號\n使用執照字號：１００使字第００１４號\n本建物不得加設夾層，違者無條件拆除，並負擔拆除費用\n主要用途：一層、二層、三層：一般批發業（供疋頭、服飾品、日用飲食品）\n主要建材：加強磚造、鋼筋混凝土造\n土地參考資訊檔:\t(空白); (空白)",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段三小段",
+            "id": 94560,
+            "caseId": 985,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 189,
+            "landSerialNo": "202",
+            "landownership": 2,
+            "coverageId": 2,
+            "area": "104平方公尺",
+            "note": "其他登記事項:\t重測前：永樂段五小段１１３地號\n因分割增加地號：２０２—１地號\n因分割增加地號：２０２—２、２０２—３地號\n（權狀註記事項）建築基地地號：延平段三小段１９９－１、１９９－２、２００、２０１、２０２、２０２－１、２０２－２、２０２－３地號\n（權狀註記事項）延平段三小段１３７５建號等之建築基地地號\n地價備註事項:\t(空白)\n土地參考資訊檔:\t容積移轉相關資訊;已公告為容積移轉送出基地\n土地使用分區;特定專用區(供特定商業使用)。",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段三小段",
+            "id": 94561,
+            "caseId": 985,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 189,
+            "landSerialNo": "202-1",
+            "landownership": 2,
+            "coverageId": 2,
+            "area": "30平方公尺",
+            "note": "其他登記事項:\t分割自：２０２地號\n（權狀註記事項）建築基地地號：延平段三小段１９９－１、１９９－２、２００、２０１、２０２、２０２－１、２０２－２、２０２－３地號\n（權狀註記事項）延平段三小段１３７５建號等之建築基地地號\n地價備註事項:\t(空白)\n土地參考資訊檔:\t容積移轉相關資訊;已公告為容積移轉送出基地\n土地使用分區;特定專用區(供特定商業使用)。",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段三小段",
+            "id": 94562,
+            "caseId": 985,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 189,
+            "landSerialNo": "202-2",
+            "landownership": 2,
+            "coverageId": 2,
+            "area": "7平方公尺",
+            "note": "其他登記事項:\t分割自：２０２地號\n（權狀註記事項）建築基地地號：延平段三小段１９９－１、１９９－２、２００、２０１、２０２、２０２－１、２０２－２、２０２－３地號\n（權狀註記事項）延平段三小段１３７５建號等之建築基地地號\n地價備註事項:\t(空白)\n土地參考資訊檔:\t容積移轉相關資訊;已公告為容積移轉送出基地\n土地使用分區;特定專用區(供特定商業使用)。",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 89911,
+            "caseId": 985,
+            "caseStatus": true,
+            "registerDate": 1140105600000,
+            "officialDocNo": "府文化二字第09530213700號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

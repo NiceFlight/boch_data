@@ -1,0 +1,105 @@
+{
+    "id": 3029,
+    "caseId": "20141210000003",
+    "count": 710,
+    "shareCount": 2,
+    "representImage": 36721,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2017-11-16/ab4c34f1-713a-43f3-901f-59076e56669a/大北門曲奏迎神匾_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2017-11-16/ab4c34f1-713a-43f3-901f-59076e56669a/大北門曲奏迎神匾.jpg",
+        "name": "大北門曲奏迎神匾"
+    },
+    "caseName": "大北門曲奏迎神匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1418140800000,
+    "officialDocNo": "府授文資遺字第1030254885號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.\t為清代建省當時1891年臺灣知縣黃承乙所題，屬清代臺灣建省的歷史證物僅存僅見，具歷史、文物價值。\r\n2.\t清末建省築城紀念物，至今僅存者不多，予以登錄為一般古物。",
+    "lawsReference": "符合「古物分級登錄指定及廢止審查辦法」第2條第1項第1、2、5、6款評定基準，爰依據「古物分級登錄指定及廢止審查辦法」第5、7條登錄。",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "南區",
+    "govInstitution": "臺中市政府文化局",
+    "govDeptName": "臺中市文化資產處",
+    "govDeptPhone": "04-22290280",
+    "govDeptAddress": "臺中市南區復興路3段362號R10",
+    "reservationCode": " ",
+    "keepNameId": 17,
+    "keepName": "臺中市文化資產處",
+    "keepNameNew": 17,
+    "keepAddressNew": "臺中市南區復興路三段362號R10",
+    "saveSpaceId": 16,
+    "saveSpaceIdentityId": 2,
+    "amount": 1,
+    "descAge": "創建年代/ 清光緒年間 15-18年(西元1889-1892年)",
+    "descSize": " ",
+    "descMaterial": " ",
+    "reserveStatusDesc": "1.\t年代：清\r\n2.\t材質：木\r\n3.\t形制：碑碣",
+    "pastHistorySource": 7,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 5440,
+            "name": "35facf2e-6b52-4130-8156-56747c3f1283.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44284/file/35facf2e-6b52-4130-8156-56747c3f1283.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "臺中市文化資產處",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "臺中市文化資產處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺中市南區復興路三段362號R10",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "南區",
+            "id": 3166,
+            "caseId": 3029,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1003
+        }
+    ],
+    "announces": [
+        {
+            "id": 3166,
+            "caseId": 3029,
+            "caseStatus": true,
+            "registerDate": 1418140800000,
+            "officialDocNo": "府授文資遺字第1030254885號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

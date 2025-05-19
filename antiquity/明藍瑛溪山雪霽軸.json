@@ -1,0 +1,102 @@
+{
+    "id": 4480,
+    "caseId": "20160803000018",
+    "count": 208,
+    "shareCount": 0,
+    "representImage": 7535,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133383/photo/2明藍瑛溪山雪霽軸_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133383/photo/2明藍瑛溪山雪霽軸.jpg",
+        "name": "2明藍瑛溪山雪霽軸"
+    },
+    "caseName": "明藍瑛溪山雪霽軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1470153600000,
+    "officialDocNo": "文授資局物字第10530074283號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "品質精良且數量稀少"
+    ],
+    "registerReason": "藍瑛（1585-1664之後），善畫山水、人物、花鳥，蘭石尤絕。藍瑛山水，早年多學黃公望，久而用筆愈重，傅彩愈濃，復古中更求新意。\n本幅作於天啟三年（1623），時方三十九歲，正當盛年，筆墨精整，設色明麗，是藍氏傳世之佳作。藍瑛的倣古作風面貌多元，此軸以晚明畫家所認識的王維雪景為表現主題，用筆技巧極為講究，既有從黃公望筆墨脫化而出的靈動用筆，勾勒山體，再以藍瑛獨有的華麗設色手法增添效果，足稱藍瑛倣古風格中的精品。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第3、5款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000663",
+    "amount": 1,
+    "descAge": "明",
+    "descCreator": "藍瑛",
+    "descSize": "82.3公分 x 28.9公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "藍瑛的倣古作風面貌多元，此軸以晚明畫家所認識的王維雪景為表現主題，用筆技巧極為講究，既有從黃公望筆墨脫出的靈動用筆勾勒山體，再以華麗設色手法增添效果，足稱藍瑛倣古風格中的精品。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷需處理。包首；傷補，霉傷。本幅：傷補，霉傷。",
+    "documents": [
+        {
+            "fileid": 7536,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133382/file/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69599,
+            "caseId": 4480,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73766,
+            "caseId": 4480,
+            "caseStatus": true,
+            "registerDate": 1470153600000,
+            "officialDocNo": "文授資局物字第10530074283號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

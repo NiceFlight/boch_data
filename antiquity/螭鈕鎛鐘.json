@@ -1,0 +1,107 @@
+{
+    "id": 3666,
+    "caseId": "20110211000006",
+    "count": 203,
+    "shareCount": 0,
+    "representImage": 6407,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32614/photo/bba49a8c-f172-4342-b814-e9f8b4a35e56_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32614/photo/bba49a8c-f172-4342-b814-e9f8b4a35e56.jpg",
+        "name": "bba49a8c-f172-4342-b814-e9f8b4a35e56"
+    },
+    "caseName": "螭鈕鎛鐘",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1297353600000,
+    "officialDocNo": "會授資籌二字第10020006991號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事重要淵源",
+        "具有重要之時代特色、技術及流派",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "此器為河南新鄭出土，屬鄭公大墓遺物，為春秋時代中原地區的重要樂器。鎛鐘為單懸，大都只有一件，但新鄭鄭公大墓竟出土了大小不等的4件鎛鐘，此為其中次大的一件，亦為臺灣現藏最大的一件，彌足珍貴。鎛鐘體型巨大，呈合瓦形，上面有懸鈕而于平，掛起時直垂，下沿與地面齊平。上面的懸鈕，飾以鏤空蟠螭紋飾，所以稱為螭鈕鎛鐘。鎛鐘為低音鐘，演奏作合聲和掌握節奏之用，具體呈現了春秋時代鄭國音樂「鄭聲」的遺緒，具有重要歷史、文化價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第一、二、三、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "天字2號(h0000273)",
+    "keepNameId": 7,
+    "keepName": "國立歷史博物館",
+    "keepNameNew": 7,
+    "keepAddressNew": "100台北市中正區南海路49號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "春秋中期",
+    "descSize": "高95公分、口徑52公分",
+    "descMaterial": "青銅",
+    "reserveStatusDesc": "大致完整餘有老修補及修護",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": " 1923年河南新鄭鄭公大墓出土(代管文物)",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定 ",
+    "documents": [
+        {
+            "fileid": 53548,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-12-27/93ce1513-77b1-4045-9675-f0235e7e505b/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立歷史博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立歷史博物館",
+            "keepName": "國立歷史博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立歷史博物館",
+            "keepAddressNew": "100台北市中正區南海路49號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "徐州路21號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3808,
+            "caseId": 3666,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3808,
+            "caseId": 3666,
+            "caseStatus": true,
+            "registerDate": 1297353600000,
+            "officialDocNo": "會授資籌二字第10020006991號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

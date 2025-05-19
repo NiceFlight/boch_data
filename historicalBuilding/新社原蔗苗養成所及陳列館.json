@@ -1,0 +1,114 @@
+{
+    "id": 5286,
+    "caseId": "20171109000001",
+    "count": 2143,
+    "shareCount": 0,
+    "representImage": 16585,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2017-11-09/c33d15f0-2dce-4126-8b74-809b76fe889f/S__6176820_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2017-11-09/c33d15f0-2dce-4126-8b74-809b76fe889f/S__6176820.jpg",
+        "name": "S__6176820"
+    },
+    "caseName": "新社原蔗苗養成所及陳列館",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "日治時期，在「農業臺灣，工業日本」的目標下，積極發展臺灣糖業，大正2年（1913）於新社大南河階設立「大南庄蔗苗養成所」，著力於蔗作的改革和品種的改良。戰後（1945～），於民國36年（1947）改制隸屬於「臺灣省政府農林廳蔗苗繁殖場」，除種植甘蔗外並逐漸趨向多樣化種苗生產。後歷經多次組織變革，於民國88年（1999）因「精省」而改隸屬於行政院農業委員會，現稱「種苗改良繁殖場」。\n\n本建築包括日治昭和2年（1927）興建之磚造事務所，以及戰後初期所興建之陳列館，民國106年（2017）臺中市政府以本兩棟建物分別見證二戰前後歷史及工法，構造精美且格局保有原風貌，並具有再利用之潛力，公告登錄為歷史建築。\n",
+    "assetsTypeNames": "產業",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1498724676643,
+    "officialDocNo": "府受文資古字第10601332341號",
+    "documents": [
+        {
+            "fileid": 181042,
+            "name": "1060629_新社原蔗苗養成所及陳列館_登錄公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-08-22/625b8c64-f6e7-4907-aa7e-b4e582eabb0d/1060629_新社原蔗苗養成所及陳列館_登錄公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者"
+    ],
+    "registerReason": "位於種苗場入口兩側的「原蔗苗養成所」與「陳列館」分別興建於1927年及二戰後。原蔗苗養成所構造精美，且格局型態歷經1935年墩仔腳大地震及1999年的921大地震後，仍保有原有風貌；另陳列館雖為二戰後所建，但已超過50年，其建築形式係仿「原蔗苗養成所」之樣式所造，兩棟建物均保持尚可，目前仍持續使用，雖有部分修繕，但不影響其保存及價值，並具再利用之潛力。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第3、4條規定",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "新社區",
+    "govInstitution": "台中市政府文化局",
+    "govDeptName": "臺中市文化資產處",
+    "govDeptPhone": "04-22290280",
+    "govDeptAddress": "臺中市西區市府路41巷19號",
+    "cadasters": [
+        {
+            "fileid": 181043,
+            "name": "1060629_新社原蔗苗養成所及陳列館_地籍.jpeg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-08-22/cef14061-5f06-467d-8ca4-13e4d28248a7/1060629_新社原蔗苗養成所及陳列館_地籍.jpeg"
+        }
+    ],
+    "landUseOtherType": "",
+    "locationLandNo": "新社區大南段大南小段109-580地號",
+    "buildingActualState": "仍由種苗場持續使用",
+    "bulkTransfer": 0,
+    "belongAddress": "新社區大南里興中街46號",
+    "isOpenVisit": true,
+    "openUpTime": " 上午8點30分至下午5點30分",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.80352110000001,
+    "latitude": 24.2230993,
+    "representImageSource": "臺中市文化資產處",
+    "landScope": "新社區大南段大南小段109-580地號共計一筆",
+    "selfCoverage": "原蔗苗養成所與陳列館",
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "新社區",
+            "id": 127287,
+            "caseId": 5286,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1018,
+            "address": "大南里興中街46號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺中市",
+            "distName": "新社區",
+            "landNoName": "大南段大南小段",
+            "noncityLandUseTypeName": "特定專用區",
+            "id": 174578,
+            "caseId": 5286,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1018,
+            "landNoId": 1626,
+            "landSerialNo": "109-580",
+            "landownership": 1,
+            "noncityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 2
+        }
+    ],
+    "announces": [
+        {
+            "id": 138115,
+            "caseId": 5286,
+            "caseStatus": true,
+            "registerDate": 1498724676643,
+            "officialDocNo": "府受文資古字第10601332341號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.80420562892365,24.22910219387984],[120.80420637945718,24.227936661293818],[120.80345775782914,24.227935953663074],[120.80345618631004,24.227935951634397],[120.80346549622004,24.228650988502263],[120.80346549614221,24.22865103920364],[120.80347106982725,24.229079145453294],[120.80347109235072,24.22908091562532],[120.80420562849552,24.229102473839642],[120.80420562892365,24.22910219387984],[120.80420562892365,24.22910219387984]]]]},\"properties\":{\"envelope\":{\"left\":\"120.80345618631004\",\"top\":\"24.227935951634397\",\"right\":\"120.80420637945718\",\"bottom\":\"24.229102473839642\"},\"landLot\":\"臺中市新社區大南段大南小段109-580\"}}],\"notfound\":[]}]",
+    "openVisitType": "部分開放參觀"
+}

@@ -1,0 +1,107 @@
+{
+    "id": 4011,
+    "caseId": "20120326000066",
+    "count": 437,
+    "shareCount": 0,
+    "representImage": 6882,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32997/photo/af7bf6cb-c1ea-4ae0-8f3c-fbc271aee864_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32997/photo/af7bf6cb-c1ea-4ae0-8f3c-fbc271aee864.JPG",
+        "name": "af7bf6cb-c1ea-4ae0-8f3c-fbc271aee864"
+    },
+    "caseName": "五代人丹楓呦鹿圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有特殊之時代特色、技術及流派",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "此作古風盎然，極富裝飾趣味，繪畫技法與用色方式與漢人相異，被認為是十世紀後半遼代繪畫之代表作。具有特殊之時代特色和藝術價值，品質精良且數量特別稀少。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第四條第一項第三、五、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000032",
+    "amount": 1,
+    "notes": "",
+    "descAge": "遼",
+    "descSize": "118.5 × 64 公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "本幅畫秋日楓林中，群鹿嬉遊憩息的情景，畫幅左側長角雄鹿昂首遠望，似乎擔任值警的任務，其餘鹿群視線朝左，也多作舉首豎耳聆聽之貌，流露出驚覺欲奔的神情，意態十分生動。該幅和院藏另一幅〈秋林群鹿〉的風格尺寸極為接近，均無作者款印，有學者推測此或出自巨幅聯屏或通景屏，屬同一組畫作。全圖不留空白，鹿的軀體用暈染法，周圍的樹木用沒骨畫法，色調絢麗意態生動。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。",
+    "documents": [
+        {
+            "fileid": 151744,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-26/e39f0151-0c7d-4375-bb17-1d192a9ed122/公告.pdf"
+        },
+        {
+            "fileid": 151745,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-26/56771465-f986-45fc-ba96-0e4e9d35c59c/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71489,
+            "caseId": 4011,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75946,
+            "caseId": 4011,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

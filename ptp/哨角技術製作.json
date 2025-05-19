@@ -1,0 +1,122 @@
+{
+    "id": 17299,
+    "caseId": "20200109000003",
+    "count": 123,
+    "shareCount": 0,
+    "representImage": 64934,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-01-09/f6f0162a-2e02-4ad9-98a8-49fefe9b05c4/DSC07483_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-01-09/f6f0162a-2e02-4ad9-98a8-49fefe9b05c4/DSC07483.jpg",
+        "name": "DSC07483"
+    },
+    "caseName": "哨角技術製作",
+    "classifyCode": "7.1",
+    "classifyName": "保存技術及保存者",
+    "assetsClassifyCode": "7.1.1",
+    "assetsClassifyName": "保存技術及保存者",
+    "registerDate": 1540224000000,
+    "officialDocNo": "府文資二字第1073811247A號 ",
+    "documents": [
+        {
+            "fileid": 116752,
+            "name": "府文資二字第1073811247AB號 魏幼謙.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-31/f3ef08be-54ad-4cbb-87e6-7389cf95dab7/府文資二字第1073811247AB號 魏幼謙.pdf"
+        },
+        {
+            "fileid": 116753,
+            "name": "府文資二字第1083800676AB號 魏幼謙.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-31/19166420-6cad-41fd-9ae0-22f68b3e3162/府文資二字第1083800676AB號 魏幼謙.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "無形文化資產實踐中不可或缺物件製作、修復之傳統技術；其技術具有一定專業性、針對特定無形文化資產之實踐所發展，並對表現該無形文化資產價值具有顯著作用"
+    ],
+    "registerReason": "(一)正確體現、執行哨角保存技術之能力，結合地方民俗活\n動與需求進行修護創作哨角，其手工作品，比機械產品\n聲音好，且耐用。\n(二)哨角製作技術為國指定無形文化資產實踐中不可或缺物\n(三)保存者長期從事哨角製作，符合保存技術認定基準。\n(四)哨角製作有瀕臨失傳危機，保存者具執行保存哨角製作\n之能力。",
+    "lawsReference": "<<文化資產保存技術及保存者登錄認定廢止審查辦法>>第2條第1項第2款",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "belongCityId": 13,
+    "belongCityName": "雲林縣",
+    "govInstitution": "雲林縣政府",
+    "govDeptName": "文化觀光處",
+    "govDeptPhone": "05-5523218",
+    "govDeptAddress": "雲林縣斗六市大學路三段310號",
+    "preservers": [
+        {
+            "id": 17306,
+            "type": "個人",
+            "caseName": "魏幼謙(歿)",
+            "cityName": "雲林縣",
+            "distName": "北港鎮",
+            "caseArtistEntities": [],
+            "representImage": 116161,
+            "patentNo": "1073811247A",
+            "judgeCriteria": [
+                "充分掌握該項保存技術所需相關知識與執行程序",
+                "正確體現、執行該項保存技術之能力"
+            ],
+            "registerReason": "1.正確體現、執行哨角保存技術之能力，結合地方民俗活動與需求進行修護創作哨角，其手工作品，比機械產品收音好，且耐用。\n2.哨角製作技術為國家指定無形文化資產實踐中不可或缺物件製作技術。\n3.保存者長期從事哨角製作，符合保存技術認定基準\n4.哨角製作有瀕臨失傳危機，保存者具執行保存哨角製作能力。",
+            "lawsReference": "<<文化資產保存技術及保存者登錄認定廢止審查辦法>>第4條第1項第1、2款",
+            "isOpenDownload": false,
+            "representImageSource": "雲林縣政府",
+            "contactorIsOpen": false
+        }
+    ],
+    "skillNote": "以手工把薄銅片、(走銀岸)焊接串聯方式製作哨角和喇叭口，放音的喇叭口弧度及口徑嚴格依照「文公尺」的吉祥尺寸製作。\n不採取鑄模方法，而是以手工將整塊的銅研模、焊接、裁剪修整，製作能吹出多個音的吹嘴和哨角。\n製作技藝更有銅製獅頭、白鐵製獅頭、銅笛、嗩吶吹嘴(昌管)、傳統七月普渡燈等。",
+    "visitsDate": 1527523200000,
+    "classify": [
+        "4.2"
+    ],
+    "skillType": [
+        {
+            "id": 1,
+            "other": ""
+        },
+        {
+            "id": 2,
+            "other": ""
+        },
+        {
+            "id": 3,
+            "other": ""
+        },
+        {
+            "id": 5,
+            "other": ""
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "雲林縣政府/雲林科技大學",
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "北港鎮",
+            "id": 65979,
+            "caseId": 17299,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1316
+        }
+    ],
+    "announces": [
+        {
+            "id": 70093,
+            "caseId": 17299,
+            "caseStatus": true,
+            "registerDate": 1540224000000,
+            "officialDocNo": "府文資二字第1073811247A號 ",
+            "classificationId": 1
+        },
+        {
+            "id": 70094,
+            "caseId": 17299,
+            "caseStatus": true,
+            "registerDate": 1550053205622,
+            "officialDocNo": "府文資二字第1083800676A號 ",
+            "classificationId": 1
+        }
+    ]
+}

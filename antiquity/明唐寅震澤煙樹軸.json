@@ -1,0 +1,101 @@
+{
+    "id": 4314,
+    "caseId": "20150121000017",
+    "count": 252,
+    "shareCount": 0,
+    "representImage": 7240,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4648/photo/明唐寅震澤煙樹軸_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4648/photo/明唐寅震澤煙樹軸.jpg",
+        "name": "明唐寅震澤煙樹軸"
+    },
+    "caseName": "明唐寅震澤煙樹軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1421769600000,
+    "officialDocNo": "文資局物字第10420004333號",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "此圖依畫上題識，乃是唐寅為好友耿敬齋畫其所居景，詩文透露畫家期待與老友悠游寄情山水，全軸詩景相融，意境深遠。用筆極簡率，水墨渲染甚多，濃淡有致，風格平淡清逸，為其晚年的代表作。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條1項第4、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "中畫000031",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descSize": "47 x 37.8（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "此軸繪太湖巖壁、沙洲、密林煙水之間。遼闊水域對岸礁石數疊，僅見一角。上略施鉤勒，皴筆簡潔扼要，而染墨深厚。右下角洲渚及茅屋，以淡墨暈染淺灘。小舟泊於岸邊，另兩艘隨波起伏。左上角數筆礁石，非以斧劈皴為主，石面河岸以披麻皴帶過，加以墨色暈染。漁舟、沙岸、曲折水灣，畫中筆墨隨心所欲地揮灑，樹木叢竹具有生拙隨意的趣味。\n此圖乃是為好友耿敬齋畫其所居景，詩文透露畫家期待與老友悠游寄情山水，全軸詩景相融，意境深遠。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。本幅：霉傷、蟲蛀、傷補、磨損、折痕。裱綾：污漬、折痕。",
+    "documents": [
+        {
+            "fileid": 150073,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-10/91ea2d26-1e2f-4b57-a532-849495d9bc73/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70534,
+            "caseId": 4314,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 74781,
+            "caseId": 4314,
+            "caseStatus": true,
+            "registerDate": 1421769600000,
+            "officialDocNo": "文資局物字第10420004333號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

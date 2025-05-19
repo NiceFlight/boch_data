@@ -1,0 +1,118 @@
+{
+    "id": 16322,
+    "caseId": "20181105000002",
+    "count": 2862,
+    "shareCount": 1,
+    "representImage": 170304,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/e5502a66-1e5c-4c81-973d-4932b15919f8/代表圖像_蠶業改良場宿舍_20220623_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/e5502a66-1e5c-4c81-973d-4932b15919f8/代表圖像_蠶業改良場宿舍_20220623.jpeg",
+        "name": "代表圖像_蠶業改良場宿舍_20220623"
+    },
+    "caseName": "蠶業改良場宿舍",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "為蠶業改良場目前僅存之建物，與周邊總督府農試所昆蟲部及臺大昆蟲館連結，見證臺灣農業研究發展歷程",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 51158,
+            "name": "1071015公告登錄歷史建築.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-11-05/4a623360-70ae-4967-bbf5-1055931e701a/1071015公告登錄歷史建築.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1.\t本建物約建於1915年，為一幢雙併建物，按標準官舍形式興建，且建築圖說保留完整，未來可依原貌修復，具保存價值。\n2.\t為蠶業改良場目前僅存之建物，與周邊總督府農試所昆蟲部及臺大昆蟲館連結，見證臺灣農業研究發展歷程，具歷史價值。\n",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第2、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 51160,
+            "name": "範圍示意圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2018-11-05/4f3e4987-b1d8-44af-9041-37d3bfb743ee/範圍示意圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "學校用地(公共設施用地)",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "大安區辛亥段五小段281地號",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "longitude": 121.5390508037674,
+    "latitude": 25.00958042532752,
+    "representImageSource": "臺北市文化局",
+    "landScope": "大安區辛亥段五小段281地號（部分）1筆土地。",
+    "selfCoverage": "建物面積69.42平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 83509,
+            "caseId": 16322,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "羅斯福路四段119巷62號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 83510,
+            "caseId": 16322,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "羅斯福路四段119巷64號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "辛亥段五小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 93531,
+            "caseId": 16322,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 763,
+            "landSerialNo": "281",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "4,726平方公尺",
+            "cityLandUseTypeOther": "學校用地（公共設施用地）",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 89720,
+            "caseId": 16322,
+            "caseStatus": true,
+            "registerDate": 1539532800000,
+            "officialDocNo": "北市文化文資字第10760226851號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": ""
+}

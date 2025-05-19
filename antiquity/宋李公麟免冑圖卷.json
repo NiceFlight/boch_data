@@ -1,0 +1,107 @@
+{
+    "id": 3973,
+    "caseId": "20120326000028",
+    "count": 323,
+    "shareCount": 0,
+    "representImage": 6808,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32959/photo/2c7e010d-a165-4afa-84c7-c5b7702bc651_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32959/photo/2c7e010d-a165-4afa-84c7-c5b7702bc651.JPG",
+        "name": "2c7e010d-a165-4afa-84c7-c5b7702bc651"
+    },
+    "caseName": "宋李公麟免冑圖卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "李公麟（西元1049-1106年）創立以水墨鉤描線條的白描畫馬法，具有文人畫清逸雅淡的韻味，其傳世作品甚少，此圖亦是後人逕自加上傳稱的。本幅免冑圖為品質精良之白描歷史故事畫，不惟繪製精謹，並具戲劇張力，全圖生動有趣，並極富藝術與歷史價值。品質精良且數量特別稀少。具有重要歷史、文化、藝術價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第五、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000965",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descCreator": "",
+    "descSize": "33.4 x 112.6 cm、引首 31 x 98.7 cm、拖尾 31 x 299.2 cm",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "唐代宗永泰元年（西元七六五年），回紇等部率大軍入侵，郭子儀（六九七－七八一）奉詔守涇陽，寡不敵眾。回紇聞公名欲求見，子儀除去盔甲，領數十騎直入敵陣，見其大酋，回紇感其忠誠英勇，捨兵下馬禮拜。馬是貴族地位的象徵，也是將士忠誠伙伴。李公麟（一O四九－一一O六）創立以水墨鉤描線條的白描畫馬法，具有文人畫清逸雅淡的韻味，其傳世作品甚少，此圖亦是後人逕自加上傳稱的。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 151492,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-25/1ce994e0-06fe-49c3-ba7d-9492d9cb2172/公告.pdf"
+        },
+        {
+            "fileid": 151493,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-25/adf552cd-8fb5-4d35-8b31-6488456d3e35/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71418,
+            "caseId": 3973,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75853,
+            "caseId": 3973,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

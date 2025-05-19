@@ -1,0 +1,110 @@
+{
+    "id": 1056,
+    "caseId": "20070327000007",
+    "count": 3135,
+    "shareCount": 2,
+    "representImage": 186370,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/9b6f585e-fa68-4881-b4ba-782cce88b293/代表圖像__國立臺灣大學日式宿舍－和平東路1段183巷7弄6號_20220713_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/9b6f585e-fa68-4881-b4ba-782cce88b293/代表圖像__國立臺灣大學日式宿舍－和平東路1段183巷7弄6號_20220713.jpg",
+        "name": "代表圖像__國立臺灣大學日式宿舍－和平東路1段183巷7弄6號_20220713"
+    },
+    "caseName": "國立臺灣大學日式宿舍－和平東路1段183巷7弄6號",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "1.本區日式住宅約建於1930年代，由臺北帝國大學(臺灣大學前身)教授及臺北高商(臺灣大學法學院前身)佐藤佐教授等發起，由學人教授自資興建供為住家使用之建築。\r\n2.戰後為臺大醫學院院長楊思標住所，建築物仍保持原貌，內部雖經整修，仍具極高品質，戶外庭園花草亦極完整，環境幽靜。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 167451,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/c1f961f9-aeff-42ca-ae15-0eec08081f37/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1.建於1930年代的臺北帝大教授宿舍，當時由日人教授自資興建，建築格局、形式與一般官式宿舍不同。\n2.戰後為臺大醫學院院長楊思標住所，建築物仍保持原貌，內部雖經修理，仍具極高品質，戶外庭園花草亦極完整，環境幽靜。\n3.住宅坐南朝北，面臨東西向巷道，可見證日治時期臺北市日式宿舍群之規劃配置及都市建築紋理。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 167452,
+            "name": "27624933-2dc5-43d2-be1b-01cc4aa13250.png",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/26d510f5-38bb-47bd-a087-38b285cee764/27624933-2dc5-43d2-be1b-01cc4aa13250.png"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "locationLandNo": "臺北市大安區金華段2小段0403-0000地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "建築物仍保持原貌，內部雖經修理，仍具極高品質，戶外庭園花草亦極完整，環境幽靜。",
+    "buildingKeyMaintainItem": "圍牆以內之日式宿舍建築形貌應予維持。",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isOpenDownload": false,
+    "longitude": 121.53364441215022,
+    "latitude": 25.027131631503803,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市大安區金華段二小段0403-0000地號",
+    "selfCoverage": "保存範圍：圍牆以內之日式宿舍建築形貌應予維持。",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 93198,
+            "caseId": 1056,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "和平東路1段183巷7弄6號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "金華段二小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 114589,
+            "caseId": 1056,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 721,
+            "landSerialNo": "0403-0000",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "370平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 100593,
+            "caseId": 1056,
+            "caseStatus": true,
+            "registerDate": 1174924800000,
+            "officialDocNo": "府文化二字第09630231800號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

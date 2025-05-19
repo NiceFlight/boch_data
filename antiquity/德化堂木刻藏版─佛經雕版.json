@@ -1,0 +1,98 @@
+{
+    "id": 19874,
+    "caseId": "20210820000002",
+    "count": 91,
+    "shareCount": 0,
+    "representImage": 136176,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-08-31/124d922e-15c3-427b-b00d-5905930c3500/佛說金剛經論_1.2頁_P003_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-08-31/124d922e-15c3-427b-b00d-5905930c3500/佛說金剛經論_1.2頁_P003.jpg",
+        "name": "佛說金剛經論_1.2頁_P003"
+    },
+    "caseName": "德化堂木刻藏版─佛經雕版",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-宗教經典",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有一定之時代特色、技術及流派",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本組木刻雕版為德化堂所藏之佛經雕版，包含大藏正教血盆經、佛說金剛經、金剛經註講、高王觀世音菩薩真經等4部經書雕版，見證臺灣清領時期雕版印刷、出版史之發展，以及佛教經典於臺灣民間之流通。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第1、3、5、6款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "govInstitution": "臺南市文化資產管理處",
+    "govDeptName": "文化資產研究組",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區 中正路5巷1號3樓",
+    "reservationCode": "尚未編列",
+    "amount": 72,
+    "descAge": "佛說金剛經論年款「道光戊 戌年」(道光 18，1838)；金 剛經註講年款「咸豐丙辰 年」(咸豐 6，1856)；高王 觀世音菩薩真經年款「甲申 年」(道光 4，1824) ",
+    "descSize": "一案多件，詳見相關古物清單。",
+    "descMaterial": "木質",
+    "reserveStatusDesc": "包含「大藏正教血盆經」3 塊、「佛說金剛經論」21 塊、「金剛經註講一部」42 塊、「高王觀世音菩薩真經」6 塊，共有 72 塊版。 \n有雙面版，部分單面版。部分版因蟲蛀造成文字缺損。  ",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "保存狀況良好。",
+    "documents": [
+        {
+            "fileid": 133597,
+            "name": "德化堂木刻藏版公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-08-20/91dfc8c6-927a-499b-bc0d-a9f25fb329d5/德化堂木刻藏版公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 22.97477,
+    "latitude": 120.22155,
+    "representImageSource": "臺南市政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "臺南德化堂",
+            "keepName": "臺南德化堂",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺南市文化中心",
+            "saveSpaceOther": "臺南市東區中華東路三段332號",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "澎湖縣",
+            "keepNameDistName": "馬公市",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "東區",
+            "id": 60993,
+            "caseId": 19874,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1602,
+            "address": "中華東路三段332號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 63858,
+            "caseId": 19874,
+            "caseStatus": true,
+            "registerDate": 1473151709832,
+            "officialDocNo": "府文資處字第1050863322B號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,138 @@
+{
+    "id": 313,
+    "caseId": "20100624000001",
+    "count": 3220,
+    "shareCount": 2,
+    "representImage": 15874,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2017-09-19/9991bc3e-6aed-40d1-8abd-ba620e6c2e1f/D042桃園市蘆竹德馨堂_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2017-09-19/9991bc3e-6aed-40d1-8abd-ba620e6c2e1f/D042桃園市蘆竹德馨堂.jpg",
+        "name": "D042桃園市蘆竹德馨堂"
+    },
+    "caseName": "蘆竹德馨堂",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "建於西元1898年，爲紀念陳氏先前來台先人，作為紀念祭祀追念忠中心。",
+    "assetsTypeNames": "祠堂",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "registerDate": 1277346264000,
+    "officialDocNo": "府文資字第0991061163號",
+    "documents": [
+        {
+            "fileid": 160379,
+            "name": "府文資字第0991060423號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-14/1764786e-326f-4bbd-ab13-0312431ee10d/府文資字第0991060423號.pdf"
+        },
+        {
+            "fileid": 213631,
+            "name": "府文資字第1030323638號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-05-17/a28936cc-3360-4e54-aa14-cb9a0f80233d/府文資字第1030323638號.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "各時代表現地方營造技術流派特色者",
+        "具稀少性，不易再現者",
+        "具建築史上之意義，有再利用之價值及潛力者"
+    ],
+    "registerReason": "1.為桃園市蘆竹區少數僅存形制保存良好之閩南式傳統民居，室內外之建築形體彰顯原建築風貌，甚具保存價值。\n2.傳統生活空間保存完整，可作為祠堂空間之代表。\n3.建築材料、構造及裝修泥塑等工藝具備建築史及技術史之研究價值。",
+    "lawsReference": "文化資產保存法第14條規定暨99年2月10日「桃園市99年度地1次文化資產審議委員會議」決議辦理。",
+    "govInstitutionCode": "330",
+    "govInstitutionName": "桃園市政府",
+    "belongCityId": 5,
+    "belongCityName": "桃園市",
+    "belongDistName": "蘆竹區",
+    "govInstitution": "桃園市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-3322592分機8612",
+    "govDeptAddress": "桃園市桃園區 縣府路21號",
+    "cadasters": [
+        {
+            "fileid": 160380,
+            "name": "地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-04-14/3aedc07a-9962-416c-b6d2-a8aaf1a0d7c6/地籍圖.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 9,
+    "cityLandUseTypeName": "農業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "桃園市蘆竹區南崁廟口段山鼻子小段149地號",
+    "buildingFeatures": "屬燕尾式清代建築，前有牌樓，中堂為祖先牌位，外牆磚造為土角。",
+    "inHouseFeatures": "正身室內牆壁裝飾，祭祀擺設。",
+    "buildingUsage": "家族祭祀使用",
+    "buildingActualState": "建物保存良好，目前作為家族祭祀使用。",
+    "buildingKeyMaintainItem": "依現況保存。",
+    "bulkTransfer": 0,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "belongAddress": "桃園市蘆竹區山鼻村4鄰92號",
+    "isOpenDownload": false,
+    "longitude": 121.2860404053075,
+    "latitude": 25.079316555338114,
+    "representImageSource": "桃園市政府文化局",
+    "landScope": "桃園市蘆竹區南崁廟口段山鼻子小段149地號。(新整編地號:蘆竹區福山段1540地號)",
+    "selfCoverage": "桃園市蘆竹區南崁廟口段山鼻子小段149地號(新整編地號:蘆竹區福山段1540地號)內建築本體、前埕、門樓、圍牆定著之土地。",
+    "addresses": [
+        {
+            "cityName": "桃園市",
+            "distName": "蘆竹區",
+            "id": 149556,
+            "caseId": 313,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 513,
+            "address": "桃園市蘆竹區山鼻村4鄰92號(整編後:蘆竹區南山路三段68號)"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "桃園市",
+            "distName": "蘆竹區",
+            "landNoName": "南崁廟口段山鼻子小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 207261,
+            "caseId": 313,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 513,
+            "landNoId": 7987,
+            "landSerialNo": "149",
+            "landownership": 2,
+            "cityLandUseTypeId": 1,
+            "area": "",
+            "cityLandUseTypeOther": "第一種住宅區",
+            "note": "重測後福山段1540地號",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 162737,
+            "caseId": 313,
+            "caseStatus": true,
+            "registerDate": 1268928000000,
+            "officialDocNo": "府文資字第0991060423號",
+            "classificationId": 1
+        },
+        {
+            "id": 162738,
+            "caseId": 313,
+            "caseStatus": true,
+            "registerDate": 1421121165660,
+            "officialDocNo": "府文資字第1030323638號",
+            "classificationId": 2,
+            "note": "行政改制"
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.28599058878538,25.07978449653058],[121.28610062728082,25.07973595122326],[121.2862118357492,25.079757361209793],[121.2862121493806,25.079754850625076],[121.28621197867669,25.07975481678988],[121.28621254957275,25.07975235640459],[121.28621827929939,25.07970103265927],[121.28622134181157,25.079694671076396],[121.28623927483751,25.079657391255267],[121.28626165241131,25.0796101538611],[121.28629776623104,25.07959324502002],[121.28623881144486,25.079171599980736],[121.28628415790213,25.07900417151204],[121.28625703561832,25.078957466558382],[121.286061065018,25.07895836953064],[121.28596408950044,25.078979249000827],[121.28595197077837,25.078995064560765],[121.28587706957484,25.079009042117168],[121.28580561085697,25.079029955540594],[121.28580067782731,25.079030714452006],[121.28580256135717,25.07904088189307],[121.28580443279918,25.07905105486776],[121.28579951124283,25.07905180438939],[121.28585463516298,25.07934919232132],[121.28589255631047,25.07955376007675],[121.28591634871934,25.07968215138157],[121.28593691818128,25.07971708175459],[121.28599058878538,25.07978449653058],[121.28599058878538,25.07978449653058]]]]},\"properties\":{\"envelope\":{\"left\":\"121.28579951124283\",\"top\":\"25.078957466558382\",\"right\":\"121.28629776623104\",\"bottom\":\"25.079784496530579\"},\"landLot\":\"桃園市蘆竹區南崁廟口段山鼻子小段149\"}}],\"notfound\":[]}]",
+    "openVisitType": "預約開放參觀",
+    "openUpTime": "每日10:00-16:00",
+    "isCharge": false,
+    "pastHistorySource": "提報人陳台淇先生提供"
+}

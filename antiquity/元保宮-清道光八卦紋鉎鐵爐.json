@@ -1,0 +1,92 @@
+{
+    "id": 3261,
+    "caseId": "20160112000010",
+    "count": 439,
+    "shareCount": 0,
+    "representImage": 5716,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43369/photo/a0c358d0-4a6a-4e83-9531-e8eb8565a62b_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43369/photo/a0c358d0-4a6a-4e83-9531-e8eb8565a62b.jpg",
+        "name": "a0c358d0-4a6a-4e83-9531-e8eb8565a62b"
+    },
+    "caseName": "元保宮-清道光八卦紋鉎鐵爐",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1452528000000,
+    "officialDocNo": "府授文資遺字第10500045402號",
+    "judgeCriteria": [
+        "具有一定之時代特色、技術及流派",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.\t八卦紋鉎鐵爐，形狀為盤口、筒腹、三足，筒腹圍繞一周八卦紋，三足皆作螭虎吞腳；此等工藝技術不僅保存了清代工藝技術，更可看出廟宇在當時有一定的規模，具藝術及歷史價值。\r\n2.\t推知為清時期宮內燒金紙、疏文的器具，得見金爐的演變史，具有文化價值。",
+    "lawsReference": "符合「古物分級登錄指定及廢止審查辦法」第2條第1項第3、5、6款評定基準。",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "北區",
+    "reservationCode": "",
+    "keepNameId": 17,
+    "keepName": "元保宮",
+    "keepNameNew": 17,
+    "keepAddressNew": "臺中市北區梅川西路三段109號",
+    "amount": 1,
+    "notes": "",
+    "reserveStatusDesc": "",
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 5717,
+            "name": "96bc23c8-309f-4728-8ba9-fc372a2aa54f.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44717/file/96bc23c8-309f-4728-8ba9-fc372a2aa54f.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "元保宮",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺中市北區梅川西路三段109號",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "北區",
+            "id": 3402,
+            "caseId": 3261,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1005
+        }
+    ],
+    "announces": [
+        {
+            "id": 3402,
+            "caseId": 3261,
+            "caseStatus": true,
+            "registerDate": 1452528000000,
+            "officialDocNo": "府授文資遺字第10500045402號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

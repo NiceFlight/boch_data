@@ -1,0 +1,105 @@
+{
+    "id": 3228,
+    "caseId": "20150915000002",
+    "count": 665,
+    "shareCount": 0,
+    "representImage": 5671,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4182/photo/北港飛龍團錫爐_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4182/photo/北港飛龍團錫爐.jpg",
+        "name": "北港飛龍團錫爐"
+    },
+    "caseName": "北港飛龍團錫爐",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1442246400000,
+    "officialDocNo": "府文資二字第1047408518B號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "(一)長期為北港地區百年藝陣飛龍團所使用，見證該團發展歷史。\r\n(二)屬日治大正年間作品，年代明確，為日治時期錫製工藝之見證。\r\n(三)造型簡樸，具有民間工藝之技術成就。",
+    "lawsReference": "《文化資產保存法》第65條暨《古物分級登錄指定及廢止審查辦法》第2條第1項第1款至第6款及第7條規定。",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "belongCityId": 13,
+    "belongCityName": "雲林縣",
+    "belongDistName": "北港鎮",
+    "govInstitution": "雲林縣政府",
+    "govDeptName": "文化觀光處",
+    "govDeptPhone": "(05)5523218",
+    "govDeptAddress": "雲林縣斗六市大學路三段310號",
+    "reservationCode": "暫無",
+    "amount": 1,
+    "notes": "",
+    "descAge": "大正11年（1922年）",
+    "descSize": "待測量",
+    "descMaterial": "錫",
+    "reserveStatusDesc": "北港飛龍團錫爐製作於日治大正11年（1922年），主要材質為錫，屬傳統戟耳爐造型，造型古樸，為飛龍團鎮館錫爐。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 2,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 142085,
+            "name": "中華民國104年03月10日 府文資二字第1047401914號 北港飛龍團錫爐.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-10-31/5b881216-8a66-4076-8de7-2a2a63b81caf/中華民國104年03月10日 府文資二字第1047401914號 北港飛龍團錫爐.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 23.571303214786745,
+    "latitude": 120.30607819144952,
+    "representImageSource": "雲林縣政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "北港飛龍團",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "北港飛龍團",
+            "keepAddressNew": "雲林縣北港鎮公館里2鄰仁和路102號",
+            "saveSpaceIdStr": "民俗團體",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2,
+            "keepNameCityName": "雲林縣",
+            "keepNameDistName": "北港鎮",
+            "keepNameAddress": "公館里 2鄰仁和路102號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "北港鎮",
+            "id": 76765,
+            "caseId": 3228,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1316,
+            "address": "仁和路102號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 82446,
+            "caseId": 3228,
+            "caseStatus": true,
+            "registerDate": 1425916800000,
+            "officialDocNo": "府文資二字第1047401914B號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

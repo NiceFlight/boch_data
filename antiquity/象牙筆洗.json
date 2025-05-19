@@ -1,0 +1,95 @@
+{
+    "id": 18224,
+    "caseId": "20201217000034",
+    "count": 166,
+    "shareCount": 0,
+    "representImage": 90129,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-12-17/756cc3ab-3b42-4bc6-93c6-195977273048/210778_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-12-17/756cc3ab-3b42-4bc6-93c6-195977273048/210778.jpg",
+        "name": "210778"
+    },
+    "caseName": "象牙筆洗",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1606379270180,
+    "officialDocNo": "北市獻編字第1093004298號",
+    "judgeCriteria": [
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "雕工精細靈活生動，造型佈局具巧思及藝術性，人物神情生動，松枝盤繞，劉海俯視趣味盎然。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174-1號",
+    "reservationCode": "NO.11",
+    "amount": 1,
+    "descAge": "清代",
+    "descSize": "長 6.5 公分 寬 5.3 公分 高 3 公分",
+    "descMaterial": "象牙",
+    "reserveStatusDesc": "象牙筆洗雕有劉海戲金蟬之可愛畫面栩栩如生，松枝松葉盤踞池邊《劉海》手中持銅錢調戲《金蟾》，整體布局之人與動物及植物結合呈天人合一。",
+    "pastHistorySource": 2,
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定。完整如初。",
+    "documents": [
+        {
+            "fileid": 90128,
+            "name": "臺北市公告指定一般古物1091126.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-17/628da5df-8665-48b3-a167-060caf382126/臺北市公告指定一般古物1091126.pdf"
+        }
+    ],
+    "keepNames": [
+        {
+            "keepNameIdStr": "高○樹",
+            "keepName": "高○樹",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "高○樹",
+            "keepAddressNew": "臺北市士林區天山里4鄰天母東路47號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "宅第",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 7839,
+            "caseId": 18224,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108
+        }
+    ],
+    "announces": [
+        {
+            "id": 7839,
+            "caseId": 18224,
+            "caseStatus": true,
+            "registerDate": 1606379270180,
+            "officialDocNo": "北市獻編字第1093004298號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

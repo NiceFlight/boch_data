@@ -1,0 +1,98 @@
+{
+    "id": 19052,
+    "caseId": "20210511000001",
+    "count": 5372,
+    "shareCount": 17,
+    "representImage": 161766,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-04-28/63c4d7e5-80d8-4ced-9279-adeef481e4be/IMG-1927_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-04-28/63c4d7e5-80d8-4ced-9279-adeef481e4be/IMG-1927.jpg",
+        "name": "IMG-1927"
+    },
+    "caseName": "觀音白沙岬燈塔",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "日本領有臺灣之初，為了開拓南進航線，從日本門司港經基隆港到高雄港的「臺灣內地及沿岸航路」或從基隆港到南洋各地的「臺灣南洋間航路」，都必須穿越臺灣海峽，經過海洋營力變化多端的觀音海域，因此選擇觀音溪白沙岬規劃領臺後的第三座燈塔。 ",
+    "assetsTypeNames": "燈塔",
+    "assetsClassifyCode": "1.1.1",
+    "assetsClassifyName": "國定古蹟",
+    "documents": [
+        {
+            "fileid": 160867,
+            "name": "公告用印掃描pdf檔.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-20/efe6a23d-4d4a-493d-9b89-ae7bd9b590a9/公告用印掃描pdf檔.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "已指定之古蹟中較具重要、保存完整並為各時代或某類型之典範者"
+    ],
+    "registerReason": "1. 已指定古蹟中具重要性：1900 年竣工的觀音白沙岬燈塔為曾任臺灣航路標識管理所技師留學英國的日本工學博士石橋絢彥設計，觀音白沙岬燈塔更採用二重殼複合構造，為臺灣首座採用該等構造的建築。\n2. 已指定古蹟中保存完整性：目前觀音白沙岬燈塔法國巴比埃公司承製的三等透鏡迴轉機重錘系統雖已停用，但仍 保 存 完 整 。 在 鏡 機 旋 轉 臺 上 仍 留 有\nBabbier&BenardConstructeurs,Paris,1897 的銅牌一方，是 1897(明治 30)年由法國巴比埃及貝納爾公司承製的明證，彌足珍貴。塔內尚保存裝飾精美的鏤空豎板鑄鐵套裝迴旋樓梯及層層套接的金屬製圓形塔心以供鏡機旋轉的纜繩與砝碼運作。園區日晷石基座造型及保存完整，足為各燈塔之最。\n3. 已指定古蹟中各時代或某類型之典範：初代的觀音白沙岬燈塔本體為雙同心圓式「二重殼複合構造」，為日本明治 30 年代燈塔的設計風格，也是當時臨時臺灣燈標建設部高等官三等石橋絢彥技師的設計手法。雙同心圓外再作一環 2/3 圈的披廈(lean-to)做為燈塔入口的門廳、辦公室及庫房。燈塔本體原設計外作披廈雖已拆除，但其基座仍完整保留。燈塔以突出 12 組牛腿最為特殊，成為造形的主要特色。塔頂下檐有成圈的齒狀飾，做為滴水之用兼具裝飾美感的特質，是所有燈塔中罕見的實例。",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第2項",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177665",
+    "govDeptAddress": "台中市南區復興路3段362號",
+    "cadasters": [
+        {
+            "fileid": 109717,
+            "name": "古蹟清冊.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-05-11/16b7b859-8bf6-472c-a8f0-0e9adbd47537/古蹟清冊.pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenDownload": false,
+    "longitude": 121.075993,
+    "latitude": 25.041029,
+    "representImageSource": "桃園縣政府",
+    "landScope": "桃園市觀音區觀新段119地號",
+    "selfCoverage": "白沙岬建築本體(含塔內燈器)、日晷、圍牆",
+    "addresses": [
+        {
+            "cityName": "桃園市",
+            "distName": "觀音區",
+            "id": 88702,
+            "caseId": 19052,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 506,
+            "address": "光明路216號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "桃園市",
+            "distName": "觀音區",
+            "landNoName": "觀新段",
+            "id": 105869,
+            "caseId": 19052,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 506,
+            "landNoId": 7528,
+            "landSerialNo": "119",
+            "landownership": 1,
+            "coverageId": 2,
+            "area": "24688.96",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 2
+        }
+    ],
+    "announces": [
+        {
+            "id": 95683,
+            "caseId": 19052,
+            "caseStatus": true,
+            "registerDate": 1620626048139,
+            "officialDocNo": "文授資局蹟字第11030046391",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.07727052997565,25.04151674598477],[121.07761099824866,25.040707819090358],[121.07649868869278,25.04067641576646],[121.07649657391754,25.040633356244104],[121.07648667681761,25.040633596075544],[121.07619463743258,25.04064051284891],[121.07616749695117,25.040641157843883],[121.07602660367883,25.04064449103195],[121.07601032504859,25.040753426139368],[121.07580191110708,25.04075875098093],[121.07566360825149,25.0410432138021],[121.07552528956428,25.041031015577772],[121.07536971099505,25.04135872716841],[121.07688843169092,25.042285213262325],[121.07693511094521,25.042313687010612],[121.07727052997565,25.04151674598477],[121.07727052997565,25.04151674598477]]]]},\"properties\":{\"envelope\":{\"left\":\"121.07536971099505\",\"top\":\"25.040633356244104\",\"right\":\"121.07761099824866\",\"bottom\":\"25.042313687010612\"},\"landLot\":\"桃園市觀音區觀新段119\"}}],\"notfound\":[]}]",
+    "openVisitType": ""
+}

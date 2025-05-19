@@ -1,0 +1,105 @@
+{
+    "id": 3638,
+    "caseId": "20130813000093",
+    "count": 49,
+    "shareCount": 0,
+    "representImage": 6376,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7343/photo/老子或問(明刊本)_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7343/photo/老子或問(明刊本).png",
+        "name": "老子或問(明刊本)"
+    },
+    "caseName": "老子或問(明刊本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1376323200000,
+    "officialDocNo": "文資局物字第 10220091271號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "明吉水羅棟刊本。\n王時槐跋稱老子致虛守靜，不為天下先，猶易乾初傳之稱潛龍，故龔修默手著《老子或問》，發明詳悉，覽者當知學之本於潛也，庶可幾於龍德。\n明版古籍，罕見稀有，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號09053",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 4,
+    "notes": "",
+    "descAge": "明代",
+    "descCreator": "明龔修默撰",
+    "descSize": "半葉7行，版匡18.3x12.5公分",
+    "descMaterial": "紙質",
+    "reserveStatusDesc": "二卷；刊本。\n王時槐跋稱老子致虛守靜，不為天下先，猶易乾初傳之稱潛龍，故龔修默手著《老子或問》，發明詳悉，覽者當知學之本於潛也，庶可幾於龍德。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "第1-4冊有輕微虫蛀，經修裱。第2冊部分頁面有火燒痕跡，書況尚稱良好。\n",
+    "documents": [
+        {
+            "fileid": 6377,
+            "name": "3c81cc61-6b7f-47ca-9719-aca7d3352609.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44226/file/3c81cc61-6b7f-47ca-9719-aca7d3352609.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3780,
+            "caseId": 3638,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3780,
+            "caseId": 3638,
+            "caseStatus": true,
+            "registerDate": 1376323200000,
+            "officialDocNo": "文資局物字第 10220091271號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

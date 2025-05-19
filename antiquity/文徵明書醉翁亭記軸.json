@@ -1,0 +1,107 @@
+{
+    "id": 4039,
+    "caseId": "20120326000094",
+    "count": 425,
+    "shareCount": 0,
+    "representImage": 6936,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/33025/photo/af33d467-be43-4e78-8e81-d129299d936a_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/33025/photo/af33d467-be43-4e78-8e81-d129299d936a.JPG",
+        "name": "af33d467-be43-4e78-8e81-d129299d936a"
+    },
+    "caseName": "文徵明書醉翁亭記軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少"
+    ],
+    "registerReason": "文徵明在書法上兼擅各體，但他的小楷頗為後世所推崇。本幅為他八十二歲時的作品，精整挺秀，筆筆如鐵劃銀鉤，一絲不茍，允稱晚年代表之作。具有特殊藝術造詣，品質精良。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第四條第一項第四、五款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故書000017",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descCreator": "文徵明",
+    "descSize": "53.5 x 28.6（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "文徵明（1470－1559），是十六世紀明代中葉蘇州藝壇具有重要影響力的藝術家。在鑑賞與臨習古代書蹟上，他下了許多工夫，並從其中獲得新的創作力量。這幅八十二歲（1551）的小楷書後有長跋，談到當時書法上的體驗與書歐陽修〈醉翁亭記〉的原由。歐陽修從韓愈的文章得到啟發，文徵明也希望從鑽研王羲之的書蹟中，追求如不食人間煙火的仙人一般，冰清玉骨的質感。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。 ",
+    "documents": [
+        {
+            "fileid": 151898,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-26/cd8f7bf6-87b6-4eb8-bbe6-71dc81acad90/公告.pdf"
+        },
+        {
+            "fileid": 151899,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-26/c803974b-1a43-4f78-af01-57fdbf014bdb/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71540,
+            "caseId": 4039,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 76005,
+            "caseId": 4039,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

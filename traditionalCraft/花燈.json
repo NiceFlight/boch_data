@@ -1,0 +1,88 @@
+{
+    "id": 22636,
+    "caseId": "20240403000001",
+    "count": 0,
+    "shareCount": 0,
+    "representImage": 254872,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-04-03/4e23012b-d5b4-48e4-8b98-98aeabe51aa7/工作照2_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-04-03/4e23012b-d5b4-48e4-8b98-98aeabe51aa7/工作照2.jpg",
+        "name": "工作照2"
+    },
+    "caseName": "花燈",
+    "classifyCode": "4.2",
+    "classifyName": "傳統工藝",
+    "assetsTypeNames": "其他",
+    "otherAssetsType": "其他",
+    "assetsClassifyCode": "4.2.1",
+    "assetsClassifyName": "傳統工藝",
+    "documents": [
+        {
+            "fileid": 254874,
+            "name": "113.04.02花燈(蕭在淦).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-04-03/9c0b1a31-3b98-40dd-9c68-9785a29f306f/113.04.02花燈(蕭在淦).pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具有藝術價值",
+        "顯著反映族群或地方之生活特色並具代表性"
+    ],
+    "registerReason": "花燈是圍繞元宵賞燈而展現的藝術創作，作為觀賞用途，因此在造型、色彩、裝飾上極富變化與美感。承襲傳統民俗吉祥意象，取材寬廣活潑，融入現代化技巧，使花燈更富創意及藝術價值。\n花燈在新竹歷史悠久，緣於1932年新竹都城隍廟方辦理迎花燈活動，以活絡市街商機，後演變成拼花燈，迄今每年的花燈競賽仍是地方盛事，足以反映新竹地區的在地燈藝文化。\n",
+    "lawsReference": "<<傳統工藝登錄認定及廢止審查辦法>>第2條第1、4款",
+    "govInstitutionCode": "300",
+    "govInstitutionName": "新竹市政府",
+    "govInstitution": "新竹市文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-5319756",
+    "govDeptAddress": "300新竹市北區中央路109號",
+    "historyDevelopment": "花燈源自於傳統照明器具與竹紙工藝之結合，係由燈籠演化而來，中國歷代以來即為元宵節最熱門的活動，是早期隨著先民渡海來台的傳統民間藝術。台灣早期農耕社會寺廟提供民眾掛燈祈求平安、財富、子嗣與光明。新竹地區至晚1932年即有元宵節競賽花燈、賞花燈之風俗，為花燈的重要發展地區。",
+    "preservers": [
+        {
+            "id": 22637,
+            "type": "個人",
+            "caseName": "蕭在淦",
+            "cityName": "新竹市",
+            "distName": "北區",
+            "caseArtistEntities": [],
+            "representImage": 254864,
+            "registrationDate": 1711987200000,
+            "patentNo": "傳統工藝第113011號",
+            "judgeCriteria": [
+                "熟知並能正確體現該登錄項目之知識、技藝與文化表現形式",
+                "具該登錄項目之傳習能力與意願",
+                "在文化脈絡下為適當者"
+            ],
+            "registerReason": "一、熟知並能正確體現該登錄項目之知識、技藝及文化表現形式：從傳統花燈材料備料（竹篾剖製、搓製紙輪筋、麵粉糊仔製作、自製凹彎工具）等花燈糊製製作（綁骨、燈源設置、表面紙糊製、裝飾）技藝嫻熟，兼備傳統花燈製作所需之工具與材料的知識與技能。\n二、具該登錄項目之傳習能力及意願：目前已傳承至四名子女，亦期望能夠紀錄並傳承花燈製作工藝的傳統技法。\n三、蕭在淦專研傳統花燈製作70餘年，除多次榮獲全國性花燈競賽首獎及參與大型展覽，手藝精巧、作品細緻，是台灣少數花燈製作手藝精湛之藝師，在文化脈絡下為適當者。",
+            "lawsReference": "<<傳統工藝登錄認定及廢止審查辦法>>第4條第1、2、3款",
+            "isOpenDownload": false,
+            "representImageSource": "新竹市文化局",
+            "contactorIsOpen": false
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "新竹市文化局",
+    "addresses": [
+        {
+            "cityName": "新竹市",
+            "distName": "北區",
+            "id": 131531,
+            "caseId": 22636,
+            "caseStatus": true,
+            "cityId": 6,
+            "distId": 602
+        }
+    ],
+    "announces": [
+        {
+            "id": 143376,
+            "caseId": 22636,
+            "caseStatus": true,
+            "registerDate": 1712047321851,
+            "officialDocNo": "113年4月2日府授文資字第1130055425號",
+            "classificationId": 1
+        }
+    ]
+}

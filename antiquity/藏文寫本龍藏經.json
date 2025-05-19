@@ -1,0 +1,100 @@
+{
+    "id": 22941,
+    "caseId": "20240805000001",
+    "count": 213,
+    "shareCount": 1,
+    "representImage": 260665,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-08-05/0da6bb9c-297f-4cf9-9af0-1cd86f69aeec/K3J000017H001PAA-DW_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-08-05/0da6bb9c-297f-4cf9-9af0-1cd86f69aeec/K3J000017H001PAA-DW.jpg",
+        "name": "K3J000017H001PAA-DW"
+    },
+    "caseName": "藏文寫本龍藏經",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-宗教經典",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "judgeCriteria": [
+        "能表現傳統、族群或地方之風俗、記憶及傳說、信仰、技藝或生活文化特色之典型",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色之代表性",
+        "獨一無二或不可替代性"
+    ],
+    "registerReason": "一、 乾隆皇帝於乾隆五十七年(1792)頒布《喇嘛說》中曾言:「興黃教，即所以安眾蒙古。」可代表滿人於建立大清王朝後，為何獨尊藏傳佛教格魯派（黃教）之總體考量：格魯派在十七世紀已是當時蒙藏民族共同崇奉佛教教派，透過清廷繼續扶植，於政治、宗教、文化上均可達到維繫滿、蒙、藏間之統合。自康熙朝起，清帝下令於北京製作蒙藏語文「甘珠爾」與「丹珠爾」，均於此背景下陸續進行。\n\n二、 清康熙朝內府泥金寫本藏文龍藏經，屬「甘珠爾」類別佛教經藏，意即「佛語之譯」，內容包括「秘密」、「般若」、「寶積」、「華嚴」、「諸經」及「戒律」六大部，是總集釋迦牟尼佛畢生傳授「教法」暨所制「律典」之藏文譯本，也是大清於宮內製作的第一部藏文甘珠爾藏經。\n\n三、 本經於康熙六年（1667）孝莊太皇太后博爾濟吉特氏布木布泰下詔修造，康熙八年（1669）完成。《秘殿珠林初編》卷二十四著錄：「太皇太后欽命修造，鑲嵌珠寶、磁青箋、泥金書、西域字《龍藏經》一部，共一百八本，內有釋迦牟尼佛口授口傳諸經。」此經共108函，裝幀考究、工藝精緻、富麗堂皇，是舉世僅存一部藏傳佛教珍貴經典，兼具宗教、歷史、藝術、語言、文化等多方面獨特內涵與價值。\n",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第4條第1、3、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故藏000001-000024、000026-000090、000092-000110",
+    "amount": 108,
+    "descAge": "清",
+    "descSize": "經葉90x35、版框69x26",
+    "descMaterial": "紙、木（內外護經版）、織布（絹、緞、棉)、鑲嵌寶石",
+    "reserveStatusDesc": " ",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "保存良好",
+    "documents": [
+        {
+            "fileid": 260663,
+            "name": "公告用印後PDF (7).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-08-05/25a5810c-bc0f-4fed-94a1-d7d725ce2756/公告用印後PDF (7).pdf"
+        },
+        {
+            "fileid": 260664,
+            "name": "公告表1.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-08-05/34d5e169-b8b0-47e5-9c06-320ef3dbac27/公告表1.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 132603,
+            "caseId": 22941,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 144576,
+            "caseId": 22941,
+            "caseStatus": true,
+            "registerDate": 1722838565778,
+            "officialDocNo": "文授資局物字第11330079251號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

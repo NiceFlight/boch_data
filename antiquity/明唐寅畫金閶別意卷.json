@@ -1,0 +1,101 @@
+{
+    "id": 4310,
+    "caseId": "20150121000013",
+    "count": 293,
+    "shareCount": 0,
+    "representImage": 7236,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4644/photo/明唐寅畫金閶別意卷_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4644/photo/明唐寅畫金閶別意卷.jpg",
+        "name": "明唐寅畫金閶別意卷"
+    },
+    "caseName": "明唐寅畫金閶別意卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1421769600000,
+    "officialDocNo": "文資局物字第10420004333號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就"
+    ],
+    "registerReason": "此卷前景城樓隱約其中，即蘇州城之閶門，此地為蘇州繁華之最。畫面岸邊亭子旁官民散列船埠，殷殷話別離相送。著朱色官服回首與士民相向拱揖，即鄭儲豸大人（生平待考）。鄭氏時任蘇州知府，應是入北京陛見之前，唐寅繪作此卷，用為送別贈禮。\r\n本幅筆法甚草率，中年唐寅別格，有陰文南京解元印，甚少見，作品極好，題跋精彩。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條1項第3、4款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局 ",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫001033",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descSize": "28.5 x 126.1（公分）",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "此卷前景城樓隱約其中，即蘇州城之閶門，此地為蘇州繁華之最。畫面岸邊亭子旁官民散列船埠，殷殷話別離相送。著朱色官服回首與士民相向拱揖，即鄭儲豸大人（生平待考）。鄭氏時任蘇州知府，應是入北京陛見之前，唐寅繪作此卷，用為送別贈禮。\n山石塊面奇特起伏，繪山石採中鋒披麻皴，線條流利眩目，率筆類似草書，富有書寫性筆趣。對山皴砍兼施，只有山頂有筆，山腹以上全用烘染，渲染濕墨表現出雲霧空間感。近景碎筆枯樹，剛勁有力，行筆靈活快速，為唐寅另一種獨創的風格。\n作者款識：「別意江南柳。相思渭北天。一盃黃菊酒。五兩黑樓船。故舊情悽切。窮民淚泗漣。傾危望扶植。丹陛莫留連。侍下唐寅詩畫。奉餞鄭儲豸大人先生朝覲之別。」",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。包首：磨損。本幅：霉傷、水漬。磨損。",
+    "documents": [
+        {
+            "fileid": 150056,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-10/1d30f3dd-e523-4c31-8e14-3a05f5e75149/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70494,
+            "caseId": 4310,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": " 至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 74733,
+            "caseId": 4310,
+            "caseStatus": true,
+            "registerDate": 1421769600000,
+            "officialDocNo": "文資局物字第10420004333號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,146 @@
+{
+    "id": 16155,
+    "caseId": "20180919000001",
+    "count": 4996,
+    "shareCount": 6,
+    "representImage": 285807,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2025-05-09/d919121b-cd27-4900-9199-f401e58b5990/古123許嵩煙故居_P001_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2025-05-09/d919121b-cd27-4900-9199-f401e58b5990/古123許嵩煙故居_P001.jpg",
+        "name": "古123許嵩煙故居_P001"
+    },
+    "caseName": "許嵩煙故居",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "待修復或再利用計畫完成後填列。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "registerDate": 1501052770075,
+    "officialDocNo": "府文資處字第1060764508B號",
+    "documents": [
+        {
+            "fileid": 158333,
+            "name": "許嵩煙故居公告106.07.26.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-07/1154b4d2-5851-4764-9cd4-8929f8c847cf/許嵩煙故居公告106.07.26.pdf"
+        },
+        {
+            "fileid": 158334,
+            "name": "變更許嵩煙故居之定著土地面積公告107.09.07.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-07/91a14e8b-f210-402f-9eb2-e4fa0a9e7303/變更許嵩煙故居之定著土地面積公告107.09.07.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具建築史上之意義，有再利用之價值及潛力者"
+    ],
+    "registerReason": "本建築約建於1930年代，原屋主許嵩煙先生為第一屆臺南市議會議員。本建築為西洋歷史式樣街屋，其中建物女兒牆、柱頭及立面浮雕皆工藝精美且細緻，為裝飾主義中後期之風格；二樓明間為傳統穿鬪大木棟架，楹端雞舌木等次構件工藝精美，具藝術價值。本建築臨街面為西式表現，二樓室內格局類似閩南建築之明次間，具文化融合特色，有其特殊性。",
+    "lawsReference": "古蹟指定及廢止審查辦法第2條第1項第5款及第3條",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "東區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569 ",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 142266,
+            "name": "許嵩煙故居地籍.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-11-02/2074fd1f-548c-4400-b878-776824b66b39/許嵩煙故居地籍.pdf"
+        },
+        {
+            "fileid": 142267,
+            "name": "許嵩煙故居地圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-11-02/aa03ceae-9951-49bd-a5ee-7ea623788f22/許嵩煙故居地圖.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺南市東區東安段929及930地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "bulkTransfer": 0,
+    "belongAddress": "臺南市東區東門路二段95號",
+    "isOpenDownload": false,
+    "longitude": 120.22143510000001,
+    "latitude": 22.9859617,
+    "representImageSource": "臺南市政府",
+    "landScope": "臺南市東區東安段929及930地號",
+    "selfCoverage": "臨路兩層樓建築",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "東區",
+            "id": 149408,
+            "caseId": 16155,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1602,
+            "address": "臺南市東區東門路二段95號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺南市",
+            "distName": "東區",
+            "landNoName": "東安段",
+            "id": 206970,
+            "caseId": 16155,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1602,
+            "landNoId": 2526,
+            "landSerialNo": "929",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "臺南市",
+            "distName": "東區",
+            "landNoName": "東安段",
+            "id": 206971,
+            "caseId": 16155,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1602,
+            "landNoId": 2526,
+            "landSerialNo": "930",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 162523,
+            "caseId": 16155,
+            "caseStatus": true,
+            "registerDate": 1501052770075,
+            "officialDocNo": "府文資處字第1060764508B號",
+            "classificationId": 1
+        },
+        {
+            "id": 162524,
+            "caseId": 16155,
+            "caseStatus": true,
+            "registerDate": 1536308589976,
+            "officialDocNo": "府文資處字第1070960907A號",
+            "classificationId": 2
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.2215018441504,22.98610437006846],[120.22144016228742,22.985920615801074],[120.22143627514798,22.985922567091734],[120.2213988520051,22.985939188018875],[120.22132173207216,22.98597505982136],[120.22131129293219,22.985953161179488],[120.2212811994175,22.985962444156268],[120.22138743819859,22.986139356539336],[120.2215018441504,22.98610437006846],[120.2215018441504,22.98610437006846]]]]},\"properties\":{\"envelope\":{\"left\":\"120.2212811994175\",\"top\":\"22.985920615801074\",\"right\":\"120.2215018441504\",\"bottom\":\"22.986139356539336\"},\"landLot\":\"臺南市東區東安段929\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.22143627514798,22.985922567091734],[120.22143180983267,22.98591478099241],[120.22139244488928,22.985927759145223],[120.22131129293219,22.985953161179488],[120.22132173207216,22.98597505982136],[120.2213988520051,22.985939188018875],[120.22143627514798,22.985922567091734],[120.22143627514798,22.985922567091734]]]]},\"properties\":{\"envelope\":{\"left\":\"120.22131129293219\",\"top\":\"22.98591478099241\",\"right\":\"120.22143627514798\",\"bottom\":\"22.98597505982136\"},\"landLot\":\"臺南市東區東安段930\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀",
+    "openUpTime": "",
+    "isCharge": false,
+    "pastHistorySource": "待修復或再利用計畫完成後填列。"
+}

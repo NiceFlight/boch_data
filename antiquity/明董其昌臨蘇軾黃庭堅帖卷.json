@@ -1,0 +1,106 @@
+{
+    "id": 3952,
+    "caseId": "20120326000007",
+    "count": 213,
+    "shareCount": 0,
+    "representImage": 6766,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32938/photo/8277b256-adee-4c5e-83d9-6d593a2e7865_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32938/photo/8277b256-adee-4c5e-83d9-6d593a2e7865.JPG",
+        "name": "8277b256-adee-4c5e-83d9-6d593a2e7865"
+    },
+    "caseName": "明董其昌臨蘇軾黃庭堅帖卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "董其昌是明代晚期在書法上集大成者，其書法在明末清初時影響非常大。董氏流傳作品以臨仿為主，擅長行書、楷書，經由廣泛臨摹古人作品，融會各書法家風格，最終成就了自我風貌。此卷可呈現董其昌藉由臨仿展現的個人特色。具有重要之藝術價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故書000125",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descCreator": "董其昌",
+    "descSize": "23.9 x 214.7（公分）",
+    "descMaterial": " 紙本",
+    "reserveStatusDesc": "董其昌（1555－1636），松江華亭人，萬曆十七年（1589）進士，官至南京禮部尚書。在鑑賞、臨摹與創作上有很高成就，對明末清初書法影響深遠。董其昌對蘇軾書法和繪畫思想研究得都非常深入，此卷為董氏臨蘇軾詩文、仿黃庭堅的書法，但從書風觀察，臨某家特徵並不明顯，這是董其昌書法創新的一面。此卷前一段書蘇軾書五則，款云：其昌書蘇子瞻語。後一段臨黃庭堅書三則，款云：倣山谷書。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。包首缺別子，缺一軸頭，破損，蟲蛀嚴重。本幅蟲蛀，霉傷，水漬嚴重，包邊紙破損，傷損，傷補，折痕。",
+    "documents": [
+        {
+            "fileid": 151236,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-24/88aaaeaf-1689-46ec-ba0b-ff7c636d92a2/公告.pdf"
+        },
+        {
+            "fileid": 151237,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-24/74f65084-1ce8-42b0-91c0-c04c4e2cda1d/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71365,
+            "caseId": 3952,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75780,
+            "caseId": 3952,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

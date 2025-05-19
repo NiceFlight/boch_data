@@ -1,0 +1,103 @@
+{
+    "id": 16310,
+    "caseId": "20181031000003",
+    "count": 380,
+    "shareCount": 1,
+    "representImage": 51094,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-10-31/0e2fec51-dd2f-4cdc-b4ce-f1977bf2fce6/08-014IMG_5136_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-10-31/0e2fec51-dd2f-4cdc-b4ce-f1977bf2fce6/08-014IMG_5136.jpg",
+        "name": "08-014IMG_5136"
+    },
+    "caseName": "馬公東甲北極殿—一方百室楹聯",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1535963753153,
+    "officialDocNo": "府授文博字第1073702690號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "（1）具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：有地方文化意義。\n（2）具有地方重要人物或歷史事件之深厚淵源者：敬獻人較特殊。\n（3）能反映政治、經濟、社會、人文、科學等歷史變遷或時代特色者：表現歷史價值。\n（4）具有藝術造詣或科學成就：文辭俊秀，異於一般楹聯，且書法字體文雅，具藝術性。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2、3、4款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00677-P-M013-014",
+    "amount": 2,
+    "descAge": "1893年",
+    "descSize": "厚2公分/寬16.2公分/高114.5公分",
+    "descMaterial": "木",
+    "reserveStatusDesc": "直長型平面楹聯，聯施紅漆，字為陰刻勾邊淺陰刻，楷書貼金，上下聯「一方恒保障，百室賴匡扶」，上下款「光緒癸巳春二月穀立」、「合肥弟子王蕙生敬立」。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "時間：1893年    捐贈者：合肥弟子王蕙生",
+    "saveEnvironment": 2,
+    "reserveStatus": "狀況穩定，於一樓神案上使用。",
+    "documents": [
+        {
+            "fileid": 51093,
+            "name": "馬公東甲北極殿—一方百室楹聯.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-10-31/e7221b23-90b5-482b-b277-c100a2645c58/馬公東甲北極殿—一方百室楹聯.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.566883,
+    "latitude": 23.564947,
+    "representImageSource": "澎湖縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "東甲北極殿",
+            "keepName": "蘇崑雄",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "東甲北極殿",
+            "keepAddressNew": "澎湖縣馬公市啟明里啟明街2號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 2,
+            "keepNameCityName": "澎湖縣",
+            "keepNameDistName": "馬公市",
+            "keepNameAddress": "啟明里啟明街2號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 27016,
+            "caseId": 16310,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "啟明里啟明街2號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 27242,
+            "caseId": 16310,
+            "caseStatus": true,
+            "registerDate": 1535963753153,
+            "officialDocNo": "府授文博字第1073702690號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

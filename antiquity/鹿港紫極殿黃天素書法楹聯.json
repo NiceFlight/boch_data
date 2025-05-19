@@ -1,0 +1,118 @@
+{
+    "id": 15533,
+    "caseId": "20180309000002",
+    "count": 1164,
+    "shareCount": 2,
+    "representImage": 211098,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-04-11/4a185a69-23e6-4e87-a69b-55381ab06374/鹿港紫極殿黃天素書法楹聯_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-04-11/4a185a69-23e6-4e87-a69b-55381ab06374/鹿港紫極殿黃天素書法楹聯.jpg",
+        "name": "鹿港紫極殿黃天素書法楹聯"
+    },
+    "caseName": "鹿港紫極殿黃天素書法楹聯",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1505369733768,
+    "officialDocNo": "府授文演字第1060320282C號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就",
+        "對地方或族群知識、技術或流派發展具影響或意義"
+    ],
+    "registerReason": "黃天素楷書楹聯係與門神彩繪同為廟門構件，為鹿港書法家黃天素的作品，具有其時代及在地地方特色與藝術造詣。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1項第1、3、4、6款",
+    "govInstitutionCode": "500",
+    "govInstitutionName": "彰化縣政府",
+    "belongCityId": 11,
+    "belongCityName": "彰化縣",
+    "belongDistName": "鹿港鎮",
+    "govInstitution": "彰化縣政府",
+    "govDeptName": "彰化縣文化局",
+    "govDeptPhone": "04-7510709",
+    "govDeptAddress": "彰化縣彰化市平和七街66號",
+    "reservationCode": " 府授文演字第1070140294H號",
+    "amount": 2,
+    "descAge": "民國56-57年（西元1967-1968年）",
+    "descCreator": "黃天素",
+    "descSize": "225 X 21 X 6公分",
+    "descMaterial": "檜木",
+    "reserveStatusDesc": "黃天素為鹿港鎮菜園里人士，以書法造詣名聞遐邇，曾任菜園里里長，紫極殿管理委員會主委，於民國57年（西元1968年）主導紫極殿重修。此楹聯與門神彩繪同為廟門構件，技法為木作陰雕朱安金。",
+    "pastHistorySource": 2,
+    "pastHistorySourceNotes": "廟方出資製作",
+    "saveEnvironment": 2,
+    "reserveStatus": "保存完整",
+    "documents": [
+        {
+            "fileid": 211096,
+            "name": "鹿港紫極殿黃天素書法楹聯1060914.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-04-11/ba1d149a-4023-4647-bc3f-3f108dfc39d1/鹿港紫極殿黃天素書法楹聯1060914.pdf"
+        },
+        {
+            "fileid": 211097,
+            "name": "鹿港紫極殿黃天素書法楹聯1070511.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-04-11/8c86da3b-5062-4471-817e-022e040445c5/鹿港紫極殿黃天素書法楹聯1070511.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 24.778289,
+    "latitude": 120.988108,
+    "representImageSource": " 彰化縣文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "鹿港紫極殿",
+            "keepName": "鹿港紫極殿",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "鹿港紫極殿",
+            "keepAddressNew": "彰化縣鹿港鎮菜園里三民路206號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2,
+            "keepNameCityName": "彰化縣",
+            "keepNameDistName": "鹿港鎮",
+            "keepNameAddress": "菜園里三民路206號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "彰化縣",
+            "distName": "鹿港鎮",
+            "id": 128532,
+            "caseId": 15533,
+            "caseStatus": true,
+            "cityId": 11,
+            "distId": 1105,
+            "address": "菜園里三民路206號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 139691,
+            "caseId": 15533,
+            "caseStatus": true,
+            "registerDate": 1505369733768,
+            "officialDocNo": "府授文演字第1060320282C號",
+            "classificationId": 1
+        },
+        {
+            "id": 139692,
+            "caseId": 15533,
+            "caseStatus": true,
+            "registerDate": 1526025801748,
+            "officialDocNo": "府授文演字第1070140294H號",
+            "classificationId": 2,
+            "note": " 修正指定為彰化縣一般古物"
+        }
+    ],
+    "isPublic": false
+}

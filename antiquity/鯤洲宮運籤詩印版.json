@@ -1,0 +1,99 @@
+{
+    "id": 23196,
+    "caseId": "20250214000005",
+    "count": 55,
+    "shareCount": 0,
+    "representImage": 280921,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2025-02-14/67c53178-4d82-443e-b0cc-248c3f5b5924/鯤洲宮運籤印板_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2025-02-14/67c53178-4d82-443e-b0cc-248c3f5b5924/鯤洲宮運籤印板.jpg",
+        "name": "鯤洲宮運籤印板"
+    },
+    "caseName": "鯤洲宮運籤詩印版",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色"
+    ],
+    "registerReason": "    本組古物保存完整六十甲子運籤詩印版，雕刻精美，且與地方信仰及祭祀活動密切相關，是旗山溪洲地區居民因水患而祈求玄天上帝庇佑的具體信仰表現。用於刷印籤詩，供信徒在祭祀過程中求籤問卜，體現當地特有的宗教儀式和信仰傳統。印版上的籤詩內容與捐獻者姓名，紀錄當地家族信仰傳承的歷史，並延續了地方祭祀文化的記憶與風俗。因此，本組古物符合「具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色」之指定基準。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1款",
+    "govInstitutionCode": "800",
+    "govInstitutionName": "高雄市政府",
+    "govInstitution": "高雄市政府文化局",
+    "govDeptName": "高雄市立歷史博物館",
+    "govDeptPhone": "075312560*317",
+    "govDeptAddress": "高雄市鹽埕區河西路99號3樓",
+    "reservationCode": "保管單位使用之編號",
+    "amount": 5,
+    "descAge": "清領時期",
+    "descSize": "甲／癸：長56/寬10/厚1.1 乙／庚：長49.6/寬9.3/厚1.1 丙／丁：長50/寬9.3/厚1.1 戊／辛：長53/寬10/厚1 己／壬：長53/寬10/厚1",
+    "descMaterial": "木質",
+    "reserveStatusDesc": "運籤詩印版為木製，內容上有鯤洲宮，下為運籤內文，採用陽刻方式，經辨認為六十首籤詩版本；為鯤洲宮所募集信徒捐獻刻印，捐獻者並留名在印版上：柯同和、柯祖秀、周清水、陳文滔。而捐獻者當中的周清水，經查訪為鯤洲宮前任監察委員周立先生(時年92歲)之曾祖父，推估其應為清朝道光年間時期之人，但從印版雕刻工法研判或為光緒時期的產物。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "1887年",
+    "saveEnvironment": 2,
+    "reserveStatus": "此組5件六聯幅雙面淺浮雕樟木印版，版面保留有用於量測固定文字定寬的縱向斜口刀切痕，和三角刀挖空背景的「V」形鑿痕，浮雕印版木基底狀況佳，邊角線框有破損，表面有灰塵堆積與黑色印墨及蟑螂卵鞘。",
+    "documents": [
+        {
+            "fileid": 280919,
+            "name": "公告_1140114_高市府文資字第11430036903號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2025-02-14/9f39c081-8bb1-4a25-bf20-d8b32083cecf/公告_1140114_高市府文資字第11430036903號.pdf"
+        },
+        {
+            "fileid": 280922,
+            "name": "公告表_1140114_高市府文資字第11430036903號-2.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2025-02-14/99ac4e35-cc2e-4631-a0b3-efefe5627ce4/公告表_1140114_高市府文資字第11430036903號-2.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "111年高雄市旗山區鯤洲宮列冊追蹤文物調查研究計畫",
+    "keepNames": [
+        {
+            "keepNameIdStr": "旗山鯤洲宮",
+            "keepName": "柯正派",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "旗山鯤洲宮",
+            "keepAddressNew": "高雄市旗山區中洲路84號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2,
+            "keepNameCityName": "高雄市",
+            "keepNameDistName": "旗山區",
+            "keepNameAddress": "旗山區中洲路84號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "高雄市",
+            "distName": "旗山區",
+            "id": 147843,
+            "caseId": 23196,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1829,
+            "address": "中洲路84號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 160571,
+            "caseId": 23196,
+            "caseStatus": true,
+            "registerDate": 1736784000000,
+            "officialDocNo": "高市府文資字第11430036903號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

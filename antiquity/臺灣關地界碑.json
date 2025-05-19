@@ -1,0 +1,102 @@
+{
+    "id": 16333,
+    "caseId": "20181107000002",
+    "count": 484,
+    "shareCount": 0,
+    "representImage": 262400,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-09-24/91010178-cb28-4c75-941f-9d96edaf1806/臺灣關地界碑-1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-09-24/91010178-cb28-4c75-941f-9d96edaf1806/臺灣關地界碑-1.jpg",
+        "name": "臺灣關地界碑-1"
+    },
+    "caseName": "臺灣關地界碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1538106819152,
+    "officialDocNo": "高市府文資字第10731588700號",
+    "judgeCriteria": [
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "數量稀少者"
+    ],
+    "registerReason": "1.\t1858-1860年天津、北京條約簽訂後，臺灣開港對清際臺灣外貿之擴張影響甚大，海關設臺灣、淡水二關，但臺灣關兼轄安平、打狗，淡水關兼轄淡水、雞籠二關。此碑乃臺灣關打狗口之界碑，約設置於1869年後（清同治8年），見證清末海關的歷史，對臺灣海關歷史具有重要的歷史意義與價值。\n2.\t本案1組2件之「臺灣關地界」碑，比對其形制、尺寸與材質，與2011年及2013年指定為重要古物者應為同歷史場域、同時期之界碑，具珍貴性與完整性。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第2、3、5款",
+    "govInstitutionCode": "800",
+    "govInstitutionName": "高雄市政府",
+    "belongCityId": 18,
+    "belongCityName": "高雄市",
+    "belongDistName": "鹽埕區",
+    "govInstitution": "高雄市政府文化局",
+    "govDeptName": "高雄市立歷史博物館",
+    "govDeptPhone": "07-5312560#236",
+    "govDeptAddress": "803高雄市鹽埕區中正四路272號",
+    "reservationCode": "KH2018.001.001 KH2018.002.001",
+    "amount": 2,
+    "descAge": "1869",
+    "descSize": "長116  寬27  高10.5 cm /長107  寬26  高9.5cm",
+    "descMaterial": "花崗岩",
+    "reserveStatusDesc": "此碑為花崗岩單面鑿刻楷書「臺灣關地界」五字，碑體上半段經切割磨製平整，下半段保留花崗岩材質原始樣貌，無鑿刻裝飾，亦無彩繪裝飾，碑上並無落款及其他銘刻，形制與目前本市發掘出土之臺灣關地界碑一致。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "2018年4月8日 捐贈人：謝天從/高雄市舊城文化協會",
+    "saveEnvironment": 1,
+    "reserveStatus": "現展存於高雄市立歷史博物館，斷裂的現依公有古物管理維護辦法完成修復接合，此兩件石碑刻正配合「打狗古事-土地、城市與港灣的輪廓」特展展出，將於展出結束後收藏於高雄市立歷史博物館典藏庫房",
+    "documents": [
+        {
+            "fileid": 51207,
+            "name": "107古物（府函附件）-原大崗山龍湖庵彩繪藻井+臺灣關地界碑公告及公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-11-07/073bbeec-4273-483b-b4c4-475118fa7509/107古物（府函附件）-原大崗山龍湖庵彩繪藻井+臺灣關地界碑公告及公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 22.68951085855884,
+    "latitude": 120.29874045371457,
+    "representImageSource": "高雄市立歷史博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "高雄市立歷史博物館",
+            "keepName": "鍾子瑄",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "高雄市立歷史博物館",
+            "keepAddressNew": "高雄市鹽埕區河西路99號3樓",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "高雄市",
+            "keepNameDistName": "鹽埕區",
+            "keepNameAddress": "中正四路272號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "高雄市",
+            "distName": "左營區",
+            "id": 136034,
+            "caseId": 16333,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1811,
+            "address": "蓮潭路400號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 148542,
+            "caseId": 16333,
+            "caseStatus": true,
+            "registerDate": 1538106819152,
+            "officialDocNo": "高市府文資字第10731588700號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

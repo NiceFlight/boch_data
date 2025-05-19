@@ -1,0 +1,135 @@
+{
+    "id": 1014,
+    "caseId": "20061205000003",
+    "count": 3147,
+    "shareCount": 8,
+    "representImage": 200666,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/d9ea1ada-046d-4422-b534-f1c5f8a71334/代表圖像_新生北路3段62巷25號_20220920_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/d9ea1ada-046d-4422-b534-f1c5f8a71334/代表圖像_新生北路3段62巷25號_20220920.jpeg",
+        "name": "代表圖像_新生北路3段62巷25號_20220920"
+    },
+    "caseName": "新生北路3段62巷25號",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本建築為1940年代國軍興建之高階官舍，建物造型具西式風格，又有日式水池、疊石之設計，呈現當時代之多元建築特色。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 167462,
+            "name": "95年公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/2298a515-fd19-4408-99ea-41014b076eab/95年公告.pdf"
+        },
+        {
+            "fileid": 167463,
+            "name": "106年公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/b3648d7b-da0f-4dc7-86dc-905f9509581c/106年公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "本建築屬戰後國軍興建之高階官舍，建物造型具西式風格，又有日式水池、疊石之設計，呈現當時代之多元建築特色。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、4款評定基準",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 167464,
+            "name": "歷史建築公告範圍.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/23b87ac3-e3d5-4761-87e4-76e3f6f7da80/歷史建築公告範圍.pdf"
+        },
+        {
+            "fileid": 167465,
+            "name": "位置圖、地形地籍套繪圖與地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/892e4020-230f-4b1b-bdb7-64ccb553a86c/位置圖、地形地籍套繪圖與地籍圖.pdf"
+        },
+        {
+            "fileid": 167466,
+            "name": "地籍圖與都市計畫圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/fb8d8e76-d775-4b34-a2ec-31e15e5a995c/地籍圖與都市計畫圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "locationLandNo": "臺北市中山區德惠段四小段353、352-1、352地號",
+    "buildingFeatures": "外牆為洗石子，開窗處設雨遮，山牆頂並開有條狀通氣孔，一樓玄關柱頭有優美之線腳。",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.5263777,
+    "latitude": 25.0659191,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市中山區德惠段四小段353、352-1、352地號",
+    "selfCoverage": "270.58平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中山區",
+            "id": 105783,
+            "caseId": 1014,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 103,
+            "address": "新生北路3段62巷25號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中山區",
+            "landNoName": "德惠段四小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 130004,
+            "caseId": 1014,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 103,
+            "landNoId": 245,
+            "landSerialNo": "350",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "coverageId": 1,
+            "area": "360平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 113374,
+            "caseId": 1014,
+            "caseStatus": true,
+            "registerDate": 1165248000000,
+            "officialDocNo": "北市府文化二字09530330500號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        },
+        {
+            "id": 113375,
+            "caseId": 1014,
+            "caseStatus": true,
+            "registerDate": 1495728000000,
+            "officialDocNo": "北市文化文資字10630456000號",
+            "classificationId": 2,
+            "note": "變更門牌號：原27號改25號"
+        }
+    ],
+    "openVisitType": ""
+}

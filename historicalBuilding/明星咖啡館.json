@@ -1,0 +1,178 @@
+{
+    "id": 945,
+    "caseId": "20120109000001",
+    "count": 4425,
+    "shareCount": 6,
+    "representImage": 169451,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/cb6e8e98-e574-4e2b-9eb9-4bf463a93f6a/代表圖像_明星咖啡館_20220621_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/cb6e8e98-e574-4e2b-9eb9-4bf463a93f6a/代表圖像_明星咖啡館_20220621.jpg",
+        "name": "代表圖像_明星咖啡館_20220621"
+    },
+    "caseName": "明星咖啡館",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本市中正區武昌街一段5、7號為臺北市舊城區老商號「明星西點麵包店」所在地，本棟建物早期有許多文學作家在此停住創作，為孕育當代文學藝術之推手。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 114404,
+            "name": "3._1010109登錄歷史建築公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/082d3841-f042-45c0-83d5-be7334b8105f/3._1010109登錄歷史建築公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1.建物約建於二次大戰後期，設計風格屬於簡約之街屋形式，目前做為明星西點咖啡館使用，為臺北城內知名之老店家。\r\n2.早期許多臺灣文學作家曾在此駐足創作，《現代文學》、《文學季刊》也曾在此編輯討論，為臺北重要的文學地標，深具歷史文化意義。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1款第1、4款登錄評定基準。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 114405,
+            "name": "位置圖與都市計畫圖、地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/30be3d24-9cdb-43e1-a5e2-a9ce72c9841c/位置圖與都市計畫圖、地籍圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "locationLandNo": "臺北市中正區城中段一小段258、259、260、261地號",
+    "buildingFeatures": "四柱三窗現代主義風格",
+    "inHouseFeatures": "",
+    "buildingUsage": "明星咖啡館使用",
+    "buildingActualState": "明星咖啡館使用",
+    "buildingKeyMaintainItem": "現有建物可配合都市更新開發，但應配合以下事項，\r\n1.更新規劃應保有延續明星咖啡館建物元素，包含低樓層商店規劃維持三層樓的高度，創造和現有相同規模的大跨距內部空間及開窗比例，以恢復1960-70年代明星咖啡館之歷史風貌為原則。\r\n2.與明星咖啡館有關的近代重要文學家（如周夢蝶流浪詩人）之意象，請納入保存計畫，以維繫近代臺北文學記憶。\r\n3.後續營運須沿用「明星咖啡館」之名稱，並維持西餐廳的使用型態。",
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isCharge": true,
+    "isOpenDownload": false,
+    "longitude": 121.5127048,
+    "latitude": 25.0441941,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市中正區城中段一小段258、259、260，261地號（面積約為174平方公尺）",
+    "selfCoverage": "台北市城中段一小段841、842建號（面積約為440.95平方公尺）",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 82984,
+            "caseId": 945,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "武昌街1段5號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 82985,
+            "caseId": 945,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "武昌街1段7號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "城中段一小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 92023,
+            "caseId": 945,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 146,
+            "landSerialNo": "258",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "coverageId": 2,
+            "area": "",
+            "note": "4個地號範圍面積約為174平方公尺",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "城中段一小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 92024,
+            "caseId": 945,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 146,
+            "landSerialNo": "259",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "coverageId": 2,
+            "area": "",
+            "note": "4個地號範圍面積約為174平方公尺",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "城中段一小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 92025,
+            "caseId": 945,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 146,
+            "landSerialNo": "260",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "coverageId": 2,
+            "area": "",
+            "note": "4個地號範圍面積約為174平方公尺",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "城中段一小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 92026,
+            "caseId": 945,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 146,
+            "landSerialNo": "261",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "coverageId": 2,
+            "area": "",
+            "note": "4個地號範圍面積約為174平方公尺",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 89138,
+            "caseId": 945,
+            "caseStatus": true,
+            "registerDate": 1326038400000,
+            "officialDocNo": "北市文化二字第10130269900號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "金門縣金寧鄉中山林段153-6"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

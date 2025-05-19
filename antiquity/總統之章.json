@@ -1,0 +1,99 @@
+{
+    "id": 16589,
+    "caseId": "20190215000028",
+    "count": 1084,
+    "shareCount": 0,
+    "representImage": 55532,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-02-15/0a2feec8-322e-40b8-8f0c-44a7993706cb/S文物照片-01_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-02-15/0a2feec8-322e-40b8-8f0c-44a7993706cb/S文物照片-01.jpg",
+        "name": "S文物照片-01"
+    },
+    "caseName": "總統之章",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1547026544882,
+    "officialDocNo": "文授資局物字第10830003731號",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "民國46年（1957）5月9日修正公布的《印信條例》規定，總統之章屬「國璽」、「印」、「關防」、「職章」、「圖記」等五類印信中的「職章」，總統就職時由國民大會推派代表授與；國民大會廢除後，《印信條例》於民國96年（2007）3月2日配合修正，改為由立法院院長授與，表示立法院院長代表人民，將掌理國家政務的重責大任賦予總統，為中華民國全體國民之所付託。\n本件文物為政府在臺首次刻製之「總統之章」，自民國47年(1958) 7月11日使用至註銷日已逾50年。此章象徵總統以元首身分執行國家意志，直接影響臺灣人民，在法政上極具意義，國內典藏僅此一件。\n",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、3、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "0722177623",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "002000000140C",
+    "keepNameId": 21,
+    "keepName": "國史館",
+    "keepAddressNew": "",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 1,
+    "amount": 1,
+    "descAge": "民國47年7月(1958)",
+    "descSize": "長3公分、寬3公分、高5公分  ",
+    "descMaterial": "銀/篆刻",
+    "reserveStatusDesc": "本印為直柄式正方形銀質印章，陽刻朱文篆字，印面正方。印面刻有「總統之章」，章面左下角已截角，表示本印已作廢。\n本印於民國47年（1958）7月11日頒發，為中央政府遷臺後首次刻製之「總統之章」。因長期使用，印面磨損，總統府依《印信製發啟用管理換發及廢舊印信繳銷辦法》第9條、第13條規定向中央印製廠申請換發，並將舊印截角作廢。",
+    "pastHistorySource": 3,
+    "pastHistorySourceNotes": "民國97年（2008）12月17日依《總統副總統文物管理條例》規定移交國史館。",
+    "saveEnvironment": 1,
+    "reserveStatus": "本印因長期使用，導致印面磨損，仍殘存朱色印泥。印體表面殘留藍色線條；印身有兩處半弧形凹痕。整體金屬氧化變色，周身滿布刮磨痕與撞擊凹點。",
+    "documents": [
+        {
+            "fileid": 55533,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-02-15/0cfae98c-ed7b-4abf-af37-3d3924b87593/公告.pdf"
+        }
+    ],
+    "representImageSource": "",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國史館",
+            "keepName": "國史館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepAddressNew": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 6277,
+            "caseId": 16589,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 6277,
+            "caseId": 16589,
+            "caseStatus": true,
+            "registerDate": 1547026544882,
+            "officialDocNo": "文授資局物字第10830003731號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

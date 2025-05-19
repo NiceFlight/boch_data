@@ -1,0 +1,133 @@
+{
+    "id": 17312,
+    "caseId": "20200116000001",
+    "count": 2346,
+    "shareCount": 1,
+    "representImage": 65312,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-01-16/370251f0-b306-40ee-a515-90c07114c7c4/IMG20190816103045_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-01-16/370251f0-b306-40ee-a515-90c07114c7c4/IMG20190816103045.jpg",
+        "name": "IMG20190816103045"
+    },
+    "caseName": "烏來加九寮臺車道橋樑遺構",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "橋樑",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1576824605872,
+    "officialDocNo": "新北府文資字第1081414912號",
+    "documents": [
+        {
+            "fileid": 161448,
+            "name": "烏來加九寮臺車道橋樑遺構公告-108.12.20.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-26/6eaf66f1-4c74-4def-aefa-9cd4bfac9b8b/烏來加九寮臺車道橋樑遺構公告-108.12.20.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "一、此橋樑遺構為1920年代日本三井合名會社所築臺車道橋樑，見證當時日人在烏來地區從事山林產業的開發歷程。符合「歷史建築紀念建築登錄廢止審查及輔助辦法」第2條第1項第1款之登錄基準。\n二、此橋樑遺構造型簡潔，呈現橋樑的力學美感，具建築史價值。符合「歷史建築紀念建築登錄廢止審查及輔助辦法」第2條第1項第2款之登錄基準。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、2款之登錄基準\n",
+    "govInstitutionCode": "220",
+    "govInstitutionName": "新北市政府",
+    "belongCityId": 3,
+    "belongCityName": "新北市",
+    "belongDistName": "烏來區",
+    "govInstitution": "新北市政府",
+    "govDeptName": "文化局",
+    "govDeptPhone": "(02)29603456",
+    "govDeptAddress": "新北市板橋區中山路一段161號28樓",
+    "cadasters": [
+        {
+            "fileid": 65313,
+            "name": "【公告】烏來加九寮臺車道橋樑遺構.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2020-01-16/ba6fd8cb-9558-42db-85f3-bf898b8ebde0/【公告】烏來加九寮臺車道橋樑遺構.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 8,
+    "cityLandUseTypeName": "保護區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "新北市烏來區烏沙段2、21地號",
+    "buildingFeatures": "",
+    "buildingActualState": "",
+    "bulkTransfer": 0,
+    "belongAddress": "新北市烏來區烏沙段2、21地號",
+    "isOpenVisit": true,
+    "openUpTime": "全天",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.53872939885865,
+    "latitude": 24.884403345793654,
+    "representImageSource": "新北市政府文化局",
+    "landScope": "新北市烏來區烏沙段2、21地號(均為部分)",
+    "selfCoverage": "橋樑遺構\n",
+    "addresses": [
+        {
+            "cityName": "新北市",
+            "distName": "烏來區",
+            "id": 108317,
+            "caseId": 17312,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 313,
+            "address": "烏沙段2、21地號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "新北市",
+            "distName": "烏來區",
+            "landNoName": "烏沙段",
+            "id": 135827,
+            "caseId": 17312,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 313,
+            "landNoId": 5838,
+            "landSerialNo": "2地號",
+            "coverageId": 1,
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "新北市",
+            "distName": "烏來區",
+            "landNoName": "烏沙段",
+            "id": 135828,
+            "caseId": 17312,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 313,
+            "landNoId": 5838,
+            "landSerialNo": "21地號",
+            "coverageId": 1,
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 116696,
+            "caseId": 17312,
+            "caseStatus": true,
+            "registerDate": 1576824605872,
+            "officialDocNo": "新北府文資字第1081414912號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"新北市烏來區烏沙段2地號\"}}],\"notfound\":\"沒有地號資料\"},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"新北市烏來區烏沙段21地號\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": ""
+}

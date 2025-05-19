@@ -1,0 +1,113 @@
+{
+    "id": 129,
+    "caseId": "19850819000018",
+    "count": 3717,
+    "shareCount": 2,
+    "representImage": 168086,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/17be1f31-5bc0-4461-9d5a-2f7bda8f5fa9/代表圖像_艋舺地藏庵_20220531_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/17be1f31-5bc0-4461-9d5a-2f7bda8f5fa9/代表圖像_艋舺地藏庵_20220531.jpeg",
+        "name": "代表圖像_艋舺地藏庵_20220531"
+    },
+    "caseName": "艋舺地藏庵",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "三級古蹟「艋舺地藏庵」，又稱地藏王廟，從祀府城隍及田都元帥。廟位於今臺北市萬華區西昌街二四五號，興建於清乾隆二十五年〈西元一七六０年〉，道光十八年〈西元一八三八年〉重修。迄今仍保持清代中葉單殿式寺廟建築之風格，建築結構簡潔，雕飾有樸拙之風，廟旁有大眾廟一座，亦為乾隆二十五年所建，兩廟歷史有密切關係。 ",
+    "assetsTypeNames": "寺廟",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 137087,
+            "name": "艋舺地藏庵.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/6924759c-f341-428b-a7db-79d3e05b458a/艋舺地藏庵.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "具其他古蹟價值者"
+    ],
+    "registerReason": "具有保存價值",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 137088,
+            "name": "無資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/893befa4-ed28-450a-bb0b-97e2b91591d9/無資料.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "萬華區龍山段一小段176地號",
+    "buildingFeatures": "屋脊兩端為燕尾脊，屋頂舖黑瓦簡單樸實，無剪黏及五彩裝飾，廟內石雕甚少，檜木棟架乃表現中國傳統建築特色，建積為O、O一三八公頃。",
+    "inHouseFeatures": "",
+    "buildingUsage": "寺廟使用",
+    "buildingActualState": "大木構件有傾斜及屋頂漏水情形，民國101年進行本體工程修復，102年7月完成，彩繪修復工程102年5月開工，102年9月完成修復。",
+    "buildingKeyMaintainItem": "由龍山寺負責管理維護，禁制事項與龍山寺相同，車輛嚴禁進入廣場。",
+    "bulkTransfer": 1,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenDownload": false,
+    "longitude": 121.5006844,
+    "latitude": 25.0369444,
+    "representImageSource": "臺北市文化局",
+    "landScope": "萬華區龍山段一小段176地號",
+    "selfCoverage": "本體",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "id": 82031,
+            "caseId": 129,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "address": "西昌街245號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "landNoName": "龍山段一小段",
+            "id": 90712,
+            "caseId": 129,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "landNoId": 175,
+            "landSerialNo": "0176-0000",
+            "landownership": 2,
+            "coverageId": 2,
+            "area": "295平方公尺",
+            "note": "重測前:新富段貳小段58地號\n因分割增加地號:176-2地號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 88173,
+            "caseId": 129,
+            "caseStatus": true,
+            "registerDate": 493228800000,
+            "officialDocNo": "74台內民字第338095號",
+            "classificationId": 1,
+            "note": "無"
+        }
+    ],
+    "openVisitType": "",
+    "openUpTime": "全日",
+    "isCharge": false,
+    "pastHistorySource": ""
+}

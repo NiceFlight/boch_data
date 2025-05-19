@@ -1,0 +1,149 @@
+{
+    "id": 1154,
+    "caseId": "20060717000002",
+    "count": 3438,
+    "shareCount": 4,
+    "representImage": 110282,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-05-13/2f0017f4-26cd-4146-9d97-e6306460318f/L1220765_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-05-13/2f0017f4-26cd-4146-9d97-e6306460318f/L1220765.jpg",
+        "name": "L1220765"
+    },
+    "caseName": "鶯歌成發居",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1153118112000,
+    "officialDocNo": "北府文資字第0950005862",
+    "documents": [
+        {
+            "fileid": 163920,
+            "name": "鶯歌成發居公告-95.7.17.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-17/2843af70-9ad0-4038-83d6-b75251762e89/鶯歌成發居公告-95.7.17.pdf"
+        },
+        {
+            "fileid": 163921,
+            "name": "鶯歌成發居變更公告-110.1.11.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-17/f7cbb11b-b046-4ed1-8240-89c61da5e2fb/鶯歌成發居變更公告-110.1.11.pdf"
+        },
+        {
+            "fileid": 163922,
+            "name": "鶯歌成發居變更公告-100.2.18.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-17/9fb1ae1e-3a20-472e-a2b4-ae80416cc1c0/鶯歌成發居變更公告-100.2.18.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "1、成發居建於日治時期，為鶯歌在日治大正初年具代表性的建築，當時設拱廊騎樓，面對縱貫線，為一種番仔樓牌樓厝。\r\n2、成發居建築群龐大，立面為五開間，四進不對稱的建築。目前除第一進較為完整，大多頹毀，不易留存。正面臨街為亭仔腳騎樓，具有時代特色。\r\n3、成發居如能保存一小部分，或移建局部，對鶯歌史有見證作用。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、2款",
+    "govInstitutionCode": "220",
+    "govInstitutionName": "新北市政府",
+    "belongCityId": 3,
+    "belongCityName": "新北市",
+    "belongDistName": "鶯歌區",
+    "govInstitution": "新北市政府",
+    "govDeptName": "文化局",
+    "govDeptPhone": "02-29603456",
+    "govDeptAddress": "新北市板橋區中山路一段161號28樓",
+    "cadasters": [
+        {
+            "fileid": 172156,
+            "name": "鶯歌成發居複丈成果圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-07-06/59286ca6-88da-4d6c-81c2-f07865e57fe7/鶯歌成發居複丈成果圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "俟重建後另案公告",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "鶯歌區文化路233、235號（100年2月18日變更公告：俟重建後另案公告）",
+    "isOpenVisit": true,
+    "openUpTime": "開放",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.354004485496,
+    "latitude": 24.9532612111348,
+    "representImageSource": "新北市政府文化局",
+    "landScope": "新北市鶯歌區中正段1184地號中歷史建築本體（騎樓構造本體）正投影面積，面積66平方公尺",
+    "selfCoverage": "騎樓構造本體",
+    "addresses": [
+        {
+            "cityName": "新北市",
+            "distName": "鶯歌區",
+            "id": 137294,
+            "caseId": 1154,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 319,
+            "address": "文化路233、235號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "新北市",
+            "distName": "鶯歌區",
+            "landNoName": "中正段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 202684,
+            "caseId": 1154,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 319,
+            "landNoId": 6643,
+            "landSerialNo": "1184",
+            "landownership": 2,
+            "cityLandUseTypeId": 1,
+            "coverageId": 1,
+            "area": "66平方公尺",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 150022,
+            "caseId": 1154,
+            "caseStatus": true,
+            "registerDate": 1153118112000,
+            "officialDocNo": "北府文資字第0950005862號",
+            "classificationId": 1
+        },
+        {
+            "id": 150023,
+            "caseId": 1154,
+            "caseStatus": true,
+            "registerDate": 1297958400000,
+            "officialDocNo": "北府文資字第1000002537號",
+            "classificationId": 2,
+            "note": "變更公告"
+        },
+        {
+            "id": 150024,
+            "caseId": 1154,
+            "caseStatus": true,
+            "registerDate": 1610353385146,
+            "officialDocNo": "新北府文資字第1100028015號",
+            "classificationId": 2,
+            "note": "補充公告並廢止100年2月18日公告"
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.35411669273796,24.95307710666078],[121.35411895171197,24.95306710061218],[121.35412005773003,24.95306220192084],[121.35418150421239,24.953072029433578],[121.35423855011446,24.953080923925125],[121.35426425554404,24.953085501551204],[121.35426514885202,24.95299587973162],[121.35412470436873,24.952968769349727],[121.35414215921571,24.9528977372099],[121.35402913470833,24.952885683997913],[121.35398999046498,24.952876075179237],[121.35395002298335,24.952866359063446],[121.35392364897193,24.95285998362515],[121.3539038092957,24.952855115737638],[121.35385220165674,24.952842553531607],[121.35384542974029,24.952840729643817],[121.3538424468908,24.952853872043697],[121.35380846374103,24.952994888573294],[121.35381674229933,24.95299650213549],[121.35379430775431,24.95309239202331],[121.35378221473476,24.953144214455182],[121.35376426811237,24.953223443636464],[121.3538141839041,24.95323996700544],[121.35385948671947,24.953254699261183],[121.35386626018123,24.953257055815687],[121.35389855101228,24.95326747995417],[121.35393808274821,24.953280611630984],[121.35398211622268,24.953295066084006],[121.35400812029332,24.95330363717634],[121.35402238553154,24.95330638941724],[121.35406059314519,24.953313940187474],[121.35411669273796,24.95307710666078],[121.35411669273796,24.95307710666078]]]]},\"properties\":{\"envelope\":{\"left\":\"121.35376426811237\",\"top\":\"24.952840729643817\",\"right\":\"121.35426514885202\",\"bottom\":\"24.953313940187474\"},\"landLot\":\"新北市鶯歌區中正段1184\"}}],\"notfound\":[]}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": ""
+}

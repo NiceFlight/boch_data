@@ -1,0 +1,103 @@
+{
+    "id": 17785,
+    "caseId": "20200902000002",
+    "count": 2110,
+    "shareCount": 0,
+    "representImage": 205119,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/e1fa0444-705b-41f8-bdfd-25d85015dc13/代表圖像_社子島下溪砂尾陳家祖厝_20221025_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/e1fa0444-705b-41f8-bdfd-25d85015dc13/代表圖像_社子島下溪砂尾陳家祖厝_20221025.jpg",
+        "name": "代表圖像_社子島下溪砂尾陳家祖厝_20221025"
+    },
+    "caseName": "社子島下溪砂尾陳家祖厝",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "興建背景:\n下溪砂尾陳家祖厝為祖籍福建省泉州府同安縣山後鄉十二都的陳氏家族祖厝。所在土地原為溪沙尾217番地，屬於建築敷地，\n建築特色:\n陳家祖厝為閩南建築一條龍形式，正身採「凹壽」形式，外牆下半部為石砌，上半部為磚造，門面為木造，牆面上半部為編竹夾泥牆，下半部為木板拼接，正門為木製雙開門；右次間有半樓仔；建築背面大部分被鐵皮包圍，僅有一面牆可見為下半部石砌，上半部磚造；內部為木造穿斗式屋架，牆面皆為上部編竹夾泥牆，下部木作裝修，室內有半樓。門面入口兩側窗戶為木製直櫺窗，窗框上下部皆有花紋雕飾；左次間窗戶為木製直櫺窗；右次間窗戶為左右推拉窗；建築背面則有磚造直櫺窗。左右耳室門上皆有斗拱；正廳梁下有螃蟹雕飾。\n",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 71744,
+            "name": "06 公告-社子島下溪砂尾陳家祖厝 歷史建築.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/9a95e5dd-3e6a-4620-acd4-2662bf67b2b5/06 公告-社子島下溪砂尾陳家祖厝 歷史建築.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者"
+    ],
+    "registerReason": "1.建物為閩南建築三合院形式，座向為坐東北朝西南，外牆為磚石混合構造，一邊為唭哩岸石砌造，另一邊為斗子砌磚造，為適應社子島經年淹水之氣候，室內有半樓作為避難空間，建築本體保存完整，具稀有性，不易再現。\n2.建物內部為木造穿斗式屋架，正面為「凹壽」形式，左右步通上有短柱及斗栱，正門為木板雙開門，兩側有木造直櫺窗，原貌保存狀況皆良好。\n3.符合歷史建築紀念建築登錄廢止審查及輔助辦法第2條第1項第1、3款登錄基準。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 71745,
+            "name": "公告附件-地籍地形圖-祖厝.docx",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/6cd7fca4-2816-48ed-bd11-19c3405ab074/公告附件-地籍地形圖-祖厝.docx"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "longitude": 121.47990320019964,
+    "latitude": 25.107179302248646,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市士林區建築物坐落土地為士林區富安段三小段138地號(部分，該筆土地面積為1,819平方公尺)。（實際保存面積須以保存範圍實測數據為準）",
+    "selfCoverage": "歷史建築本體為社子島下溪砂尾陳家祖厝建築本體(建物面積為85.85平方公尺)，建物無登記建號。（實際保存面積須以實際保存範圍實測數據為準）",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 106505,
+            "caseId": 17785,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "延平北路8段242巷46號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "富安段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 131548,
+            "caseId": 17785,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 543,
+            "landSerialNo": "138",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "1819",
+            "cityLandUseTypeOther": "變更中",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 114280,
+            "caseId": 17785,
+            "caseStatus": true,
+            "registerDate": 1586275200000,
+            "officialDocNo": "北市文化文資字第10930170786號",
+            "classificationId": 1,
+            "note": "本建物位於士林社子島地區細部計畫(草案)公園用地(公十)範圍內，得配合社子島地區開發計畫提高本建物高程。"
+        }
+    ],
+    "geojson": "[{\"address\":[{\"address\":\"1. 個案名稱: 社子島下溪砂尾陳家祖厝 <br />\\n      2. 地址: 延平北路8段242巷46號 <br />\\n      3. 種類: 宅第 <br />\\n      4. 指定登錄理由: 1.建物為閩南建築三合院形式，座向為坐東北朝西南，外牆為磚石混合構造，一邊為唭哩岸石砌造，另一邊為斗子砌磚造，為適應社子島經年淹水之氣候，室內有半樓作為避難空間，建築本體保存完整，具稀有性，不易再現。\\n2.建物內部為木造穿斗式屋架，正面為「凹壽」形式，左右步通上有短柱及斗栱，正門為木板雙開門，兩側有木造直櫺窗，原貌保存狀況皆良好。\\n3.符合歷史建築紀念建築登錄廢止審查及輔助辦法第2條第1項第1、3款登錄基準。 <br />\\n      5. 最後一筆公告日期: 2020-04-08 <br />\\n      6. 最後一筆公告文號: 北市文化文資字第10930170786號 <br />\\n      7. 管理單位: 私人 <br />\\n      8. 使用單位: 私人 <br />\\n      9. 建物狀態: 現況良好 <br />\",\"lat\":25.107179302248646,\"lng\":121.47990320019964}]}]",
+    "openVisitType": "",
+    "pastHistorySource": "臺北市社子島地區文化資產普查計畫"
+}

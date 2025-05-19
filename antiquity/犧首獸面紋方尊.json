@@ -1,0 +1,102 @@
+{
+    "id": 3898,
+    "caseId": "20121112000022",
+    "count": 237,
+    "shareCount": 0,
+    "representImage": 6706,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32884/photo/883c584c-fb45-43ed-9a0d-c6293356a50b_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32884/photo/883c584c-fb45-43ed-9a0d-c6293356a50b.JPG",
+        "name": "883c584c-fb45-43ed-9a0d-c6293356a50b"
+    },
+    "caseName": "犧首獸面紋方尊",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1352649600000,
+    "officialDocNo": "文授字第10120135331號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就"
+    ],
+    "registerReason": "大口、圓脰、方形腹、方形足。此方圓共現一器形制極特別。脰飾弦紋，肩上夔紋，腹部飾獸面紋，獸鼻猶如蛇首，有鼓起的雙眼。此器方圓合構，其蛇首形鼻獸面紋飾及高浮雕鳥紋，造型或紋飾皆特殊，具有南方區域特性。於研究古代銅器工藝上，具有重要價值。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第1、3、4款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局 ",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "中銅000650",
+    "amount": 1,
+    "notes": "",
+    "descAge": "商",
+    "descSize": "高44.9cm、口徑43.5cm、腹深32.8cm、足徑19.2×20.1cm、足深12.5cm。",
+    "descMaterial": "銅",
+    "reserveStatusDesc": "大口、圓脰、方形腹、方形足。此方圓共現一器形制極特別。脰飾弦紋，肩上夔紋，腹部飾獸面紋，獸鼻猶如蛇首，有鼓起的雙眼。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "1、多處傷缺。2、斷補。3、大塊舊傷補，傷補表面部分脫落、邊緣有裂傷。4、獸鼻尖鏽塊部分脫落。5、小孔。6、鏽蝕。",
+    "documents": [
+        {
+            "fileid": 150800,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-19/b7219235-a9e8-42d4-8cfd-4ed504e24c27/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": " 國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71180,
+            "caseId": 3898,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75544,
+            "caseId": 3898,
+            "caseStatus": true,
+            "registerDate": 1352649600000,
+            "officialDocNo": "文授字第10120135331號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

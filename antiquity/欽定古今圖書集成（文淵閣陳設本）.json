@@ -1,0 +1,102 @@
+{
+    "id": 4543,
+    "caseId": "20170526000001",
+    "count": 475,
+    "shareCount": 0,
+    "representImage": 15629,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/134844/photo/《欽定古今圖書集成》文淵閣陳設本全函_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/134844/photo/《欽定古今圖書集成》文淵閣陳設本全函.jpg",
+        "name": "《欽定古今圖書集成》文淵閣陳設本全函"
+    },
+    "caseName": "欽定古今圖書集成（文淵閣陳設本）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1495728000000,
+    "officialDocNo": "中華民國106年5月26日文授資局物字第10630055051號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要之時代特色、技術及流派",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "《古今圖書集成》為清康熙年間陳夢雷編纂，雍正朝蔣廷錫奉敕校正，並由武英殿以銅活字印製。全書共10,000卷、目錄40卷，引書逾3,400種，是一部綜合性類書鉅帙，具重要歷史、學術價值。\r\n此部書也是中國古代規模最大的銅活字印刷書籍，銅活字印製技術及太史連紙之使用，皆精且數量龐大，具有當時代印刷工藝代表性。\r\n《古今圖書集成》清宮共刷印64部，存世完整者罕見。此帙為文淵閣陳設本，共5,020冊、576函。每冊首末各鈐「文淵閣寶」、「乾隆御覽之寶」，保存完整且裝幀精美，具重要文化、藝術及科學價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第1、3、5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局 ",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故殿043165-048184",
+    "amount": 5020,
+    "descAge": "清",
+    "descSize": "版框：21.4X14公分、書冊：27.5X17.5公分；木函：30.2X19.8X約14公分。",
+    "descMaterial": "紙本，絹、木",
+    "reserveStatusDesc": "古今圖書集成》為清康熙年間陳夢雷編纂，雍正朝蔣廷錫奉敕校正，並由武英殿以銅活字印製。全書共10,000卷、目錄40卷，引書逾3,400種，是一部綜合性類書鉅帙，也是中國古代規模最大的銅活字印刷書籍。清宮共刷印64部，存世完整者罕見。\n此帙為清文淵閣陳設本，共5,020冊、576函。每冊首末各鈐「文淵閣寶」、「乾隆御覽之寶」。黃絹書衣，包背裝，太史連紙印本。盛以楠木書函，內有夾板，明黃色絹束帶。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "1.\t書籍保存狀況完好。\n2.\t部分木函破損待修復。",
+    "documents": [
+        {
+            "fileid": 148176,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-21/9b9013fa-7c78-4408-9a3e-1096a9f2d9d0/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫文獻處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69335,
+            "caseId": 4543,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73490,
+            "caseId": 4543,
+            "caseStatus": true,
+            "registerDate": 1495728000000,
+            "officialDocNo": "中華民國106年5月26日文授資局物字第10630055051號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

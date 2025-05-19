@@ -1,0 +1,211 @@
+{
+    "id": 2162,
+    "caseId": "20160822000001",
+    "count": 3568,
+    "shareCount": 6,
+    "representImage": 184450,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/93dc97b0-4959-4062-83b3-9ce6f47d4db2/代表圖像_林華泰茶行_20220718_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/93dc97b0-4959-4062-83b3-9ce6f47d4db2/代表圖像_林華泰茶行_20220718.jpeg",
+        "name": "代表圖像_林華泰茶行_20220718"
+    },
+    "caseName": "林華泰茶行",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "林家族人來自泉州安溪，原居住石碇並經營茶產業，後遷居臺北市，至今已至第五代，目前仍維持茶葉的生產。該茶行仍保存完整的茶產業鏈，包括上、下游的種茶、製茶，商業文化甚為完整，為臺北茶產業文化之代表 ",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 161936,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/0b31d1c5-d5dd-46da-9890-33e802a06153/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "1.林家族人來自泉州安溪，原居住石碇並經營茶產業，後遷居臺北市，至今已至第五代，目前仍維持茶葉的生產。該茶行仍保存完整的茶產業鏈，包括上、下游的種茶、製茶，商業文化甚為完整，為臺北茶產業文化之代表。\r\n2.建築物於1966年興建，茶行結合店鋪、工廠與住宅空間使用功能，具建築類型特色。此外，仍保存二口焙籠坑及部分早期製茶設備，亦具保存價值。 ",
+    "lawsReference": "歷史建築登錄廢止審查及輔助辦法第2條第1項第1、3款評定基準 ",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 161937,
+            "name": "林華泰茶行地籍圖.gif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/6a082e59-0718-44aa-844e-8972cf817e1d/林華泰茶行地籍圖.gif"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "locationLandNo": "大同區雙連段二小段698、699、700、700-1、702地號。",
+    "buildingFeatures": "地上四層，平面為口字型，中央有天井 ",
+    "inHouseFeatures": "仍保存二口焙籠坑 ",
+    "buildingUsage": "為林華泰茶行店面、辦公室、倉庫、工廠與住家使用 ",
+    "buildingActualState": "為林華泰茶行店面、辦公室、倉庫、工廠與住家使用 ",
+    "bulkTransfer": 1,
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.5137170587243,
+    "latitude": 25.06014138407525,
+    "representImageSource": "臺北市文化局",
+    "landScope": "位於重慶北路二段，與市定古蹟-臺灣基督長老教會大稻埕教會直線距離約一百公尺。 ",
+    "selfCoverage": "2041.5平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 92134,
+            "caseId": 2162,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "重慶北路2段193號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 92135,
+            "caseId": 2162,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "重慶北路2段193-1號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 92136,
+            "caseId": 2162,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "重慶北路2段195號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 92137,
+            "caseId": 2162,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "重慶北路2段195-1號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "雙連段二小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 112355,
+            "caseId": 2162,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 206,
+            "landSerialNo": "698",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "coverageId": 2,
+            "area": "158平方公尺",
+            "note": "重測前：日新段３小段９０—３地號\n因分割增加地號：０６９８－０００１地號",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "雙連段二小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 112356,
+            "caseId": 2162,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 206,
+            "landSerialNo": "699",
+            "cityLandUseTypeId": 2,
+            "coverageId": 2,
+            "area": "18平方公尺",
+            "note": "重測前：日新段３小段９０—３５地號\n因分割增加地號：０６９９－０００１地號",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "雙連段二小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 112357,
+            "caseId": 2162,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 206,
+            "landSerialNo": "700",
+            "cityLandUseTypeId": 2,
+            "coverageId": 2,
+            "area": "28平方公尺",
+            "note": "重測前：日新段３小段９０—３６地號",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "雙連段二小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 112358,
+            "caseId": 2162,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 206,
+            "landSerialNo": "701-1",
+            "cityLandUseTypeId": 2,
+            "coverageId": 2,
+            "area": "13平方公尺",
+            "note": "分割自：７０１地號",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "雙連段二小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 112359,
+            "caseId": 2162,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 206,
+            "landSerialNo": "702",
+            "cityLandUseTypeId": 2,
+            "coverageId": 2,
+            "area": "302平方公尺",
+            "note": "\t重測前：日新段３小段９０—３７地號",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 99232,
+            "caseId": 2162,
+            "caseStatus": true,
+            "registerDate": 1471795200000,
+            "officialDocNo": "北市文化文資字第10530429400號 ",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": ""
+}

@@ -1,0 +1,132 @@
+{
+    "id": 47,
+    "caseId": "19980325000004",
+    "count": 4405,
+    "shareCount": 0,
+    "representImage": 169362,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/7c4e4126-93d7-482c-b6b7-4b57854c2fb5/代表圖像_臺北第一高女_20220616_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/7c4e4126-93d7-482c-b6b7-4b57854c2fb5/代表圖像_臺北第一高女_20220616.jpeg",
+        "name": "代表圖像_臺北第一高女_20220616"
+    },
+    "caseName": "臺北第一高女",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "北一女中原為日據時期州立臺北第一高等女學校，初創於1904年，為臺灣最早的高女之一。光復後改制為臺北一女中，教育英才無數，成為臺灣最出名的女子中學。它的校址原為清代城內的文廟，初建時期的校舍均為木造，現在主要校舍為1933年所建成。\n(註:民國92年4月24日公告光復樓建築本體第四層解除古蹟範圍)",
+    "assetsTypeNames": "學校",
+    "otherAssetsType": "其他",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 117240,
+            "name": "_870325指定十二處市定古蹟與二處紀念性建物公告(1).tif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/65f78c75-7b49-42f0-b751-af0f0b00b181/_870325指定十二處市定古蹟與二處紀念性建物公告(1).tif"
+        },
+        {
+            "fileid": 117241,
+            "name": "_870325指定十二處市定古蹟與二處紀念性建物公告(2).tif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/4c237ad3-e748-4cbe-a620-c7e42aa2033a/_870325指定十二處市定古蹟與二處紀念性建物公告(2).tif"
+        },
+        {
+            "fileid": 117242,
+            "name": "3._920424檢送市定古蹟台北第一高女光復樓建築本體第四層解除古蹟範圍公告.tif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/61ecd413-0e1c-427c-a07d-7703fbce1c21/3._920424檢送市定古蹟台北第一高女光復樓建築本體第四層解除古蹟範圍公告.tif"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值"
+    ],
+    "registerReason": "具有保存價值",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 117243,
+            "name": "無.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/3c01a58d-1f20-4bd5-bc77-0df1a4159b43/無.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 4,
+    "cityLandUseTypeName": "行政區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市中正區公園段三小段310地號",
+    "buildingFeatures": "北一女中原為日據時期州立臺北第一高等女學校，初創於一九０四年，稱為國語學校第三附屬學校，為臺灣最早的高女之一。當時城內多為日本人，本校幾乎專收日本學生，與專收臺籍學生的第三高女形成明顯的對比。",
+    "inHouseFeatures": "臺北市立第一女子高級中學校舍使用",
+    "buildingUsage": "戰後改制為臺北一女中，由於校風卓越，教育英才無數，成為臺灣最出名的女子中學。",
+    "buildingActualState": "臺北市立第一女子高級中學校舍使用。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenDownload": false,
+    "longitude": 121.513015,
+    "latitude": 25.038606,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市中正區公園段三小段310地號",
+    "selfCoverage": "光復樓建築本體",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 127847,
+            "caseId": 47,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "重慶南路1段165號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "公園段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 175559,
+            "caseId": 47,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 145,
+            "landSerialNo": "310",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "cityLandUseTypeOther": "公共設施",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 138859,
+            "caseId": 47,
+            "caseStatus": true,
+            "registerDate": 735580800000,
+            "officialDocNo": "府文化二字第092105614號",
+            "classificationId": 2,
+            "note": "變更"
+        },
+        {
+            "id": 138858,
+            "caseId": 47,
+            "caseStatus": true,
+            "registerDate": 890755200000,
+            "officialDocNo": "府民三字第8701538601號",
+            "classificationId": 1,
+            "note": "本市市定古蹟"
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.5149985551323,25.037805799181793],[121.51381533233071,25.03777477589181],[121.51374792439896,25.03718655722821],[121.51277620162747,25.037270715075927],[121.5129191519519,25.038672827774977],[121.51295777406509,25.038704744214748],[121.51511294182507,25.038512754382893],[121.5151411685894,25.03847573160039],[121.51500699611962,25.038021270697175],[121.5149985551323,25.037805799181793],[121.5149985551323,25.037805799181793]]]]},\"properties\":{\"xcenter\":121.51377595912774,\"ycenter\":25.038040947089378,\"query\":\"台北市中正區公園段三小段-地號310號\",\"content\":\"1. 個案名稱: 臺北第一高女 <br />\\n      2. 地號: 台北市中正區公園段三小段-地號310號 <br />\\n      3. 級別: 直轄市定古蹟 <br />\\n      4. 種類: 學校 <br />\\n      5. 指定登錄理由: 具有保存價值 <br />\\n      6. 最後一筆公告日期: 1993-04-24 <br />\\n      7. 最後一筆公告文號: 府文化二字第092105614號 <br />\\n      8. 管理單位: 臺北市立第一女子高級中學 <br />\\n      9. 使用單位: 臺北市立第一女子高級中學 <br />\\n      10. 建物狀態: 現況良好 <br />\"}}]}]",
+    "openVisitType": "不開放參觀",
+    "isCharge": false,
+    "pastHistorySource": "摘錄自台北市古蹟巡覽-下冊"
+}

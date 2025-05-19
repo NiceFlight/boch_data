@@ -1,0 +1,101 @@
+{
+    "id": 17350,
+    "caseId": "20200219000005",
+    "count": 290,
+    "shareCount": 0,
+    "representImage": 65973,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-02-11/3d9620c5-302f-44e1-bb02-69490b762811/02 (1)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-02-11/3d9620c5-302f-44e1-bb02-69490b762811/02 (1).jpg",
+        "name": "02 (1)"
+    },
+    "caseName": "釣翁",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1581325512032,
+    "officialDocNo": "中華民國109年2月10日北市獻編字第1093001230號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "1.\t反映19世紀末至20世紀初之日本牙雕特色及人文藝術，具名家名款。\n2.\t人物造型觀察入微，細節部分不馬虎，神情細膩，工藝纖巧，具藝術造詣。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第3、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "10846臺北市萬華區中華路1段174之1號",
+    "reservationCode": "典藏02",
+    "amount": 1,
+    "descAge": "日本明治時期",
+    "descSize": "高12.5公分",
+    "descMaterial": "象牙",
+    "reserveStatusDesc": "本件作品以一垂釣老翁為主題，老翁面容寬厚，表情閒適，頭戴帽，身著寬鬆服飾，盤坐於編織坐墊上。身微前傾，似在感受水中動靜，一手持細長的竹製釣竿垂釣，另一手輕握漁網，隨時準備將釣到的大魚撈起。底部有石川光明的「光明」款及花押款。整體雕琢極為細膩，人物面部細節、表情維妙維肖，鏤空的漁網更是藝術家嘔心瀝血的成果；石川光明更發揮精湛技巧，將象牙刻劃出竹子質感的釣竿，不僅竹節處栩栩如生，竹根部的根鬚細節更是表現得非常完美。而人物前方放置的煙管、火柴，是當時日常生活配件的展現。整體造型甚大，耗費牙材甚巨，極為難得。",
+    "pastHistorySource": 1,
+    "saveEnvironment": 1,
+    "reserveStatus": "保存良好",
+    "documents": [
+        {
+            "fileid": 65971,
+            "name": "公告函.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-02-11/fc0e4648-be53-4d49-85c1-7acd112c4a16/公告函.pdf"
+        },
+        {
+            "fileid": 65972,
+            "name": "臺北市一般古物指定公告表_釣翁.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-02-11/103ad41f-fc18-46dd-ad6b-5aaef4f490dc/臺北市一般古物指定公告表_釣翁.pdf"
+        }
+    ],
+    "keepNames": [
+        {
+            "keepNameIdStr": "郭○穎",
+            "keepName": "郭芝穎",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "郭○穎",
+            "keepAddressNew": "台北市中正區重慶南路二段15號7樓",
+            "saveSpaceOther": "庫房",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "大安區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 6990,
+            "caseId": 17350,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 6990,
+            "caseId": 17350,
+            "caseStatus": true,
+            "registerDate": 1581325512032,
+            "officialDocNo": "中華民國109年2月10日北市獻編字第1093001230號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

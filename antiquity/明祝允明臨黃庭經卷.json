@@ -1,0 +1,102 @@
+{
+    "id": 3525,
+    "caseId": "20130613000007",
+    "count": 361,
+    "shareCount": 0,
+    "representImage": 6161,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7499/photo/明祝允明臨黃庭經卷_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7499/photo/明祝允明臨黃庭經卷.JPG",
+        "name": "明祝允明臨黃庭經卷"
+    },
+    "caseName": "明祝允明臨黃庭經卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1371052800000,
+    "officialDocNo": "文資局物字第10220064921號",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "王羲之的〈黃庭經〉是影響祝允明小楷很重要的經典作品，據考從他二十七歲開始，到去世前一年的六十七歲之間，每一時期都有臨本。\r\n此冊用筆圓潤，結字扁方，間架寬闊。〈黃庭經〉中與鍾繇接近的方闊結體，以及圓轉肥短的線條在此卷中都被強調，透露出祝允明對寬博古雅的喜好，這也成為他小楷書的一大特色。\r\n此為祝允明臨書之代表作，可藉以理解其臨書態度與對古代筆法的詮釋，具重要藝術價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第4條第四、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故書000094",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descCreator": "祝允明",
+    "descSize": "21.3公分 x 73.2公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "王羲之的〈黃庭經〉是影響祝允明小楷很重要的經典作品，據考從他二十七歲開始，到去世前一年的六十七歲之間，每一時期都有臨本。此冊用筆圓潤，結字扁方，間架寬闊。〈黃庭經〉中與鍾繇接近的方闊結體，以及圓轉肥短的線條在此卷中都被強調，透露出祝允明對寬博古雅的喜好，這也成為他小楷書的一大特色。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 150568,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-18/08e6ac5b-121e-4cd1-aef1-106c7a9e0f9c/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71038,
+            "caseId": 3525,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75356,
+            "caseId": 3525,
+            "caseStatus": true,
+            "registerDate": 1371052800000,
+            "officialDocNo": "文資局物字第10220064921號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

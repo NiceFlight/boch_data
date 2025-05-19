@@ -1,0 +1,103 @@
+{
+    "id": 3877,
+    "caseId": "20121112000003",
+    "count": 694,
+    "shareCount": 2,
+    "representImage": 6685,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32863/photo/1ec8d2bd-c0f1-4adf-8c55-ec9593e2b064_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32863/photo/1ec8d2bd-c0f1-4adf-8c55-ec9593e2b064.JPG",
+        "name": "1ec8d2bd-c0f1-4adf-8c55-ec9593e2b064"
+    },
+    "caseName": "頌壺",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1352649600000,
+    "officialDocNo": "文授字第10120135331號",
+    "judgeCriteria": [
+        "歷史流傳已久或史事具有深厚淵源",
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "頌壺器身作橢方形，巨腹、圈足、兩獸耳銜環，足飾垂鱗紋，腹飾蛟龍紋，頸飾環帶紋，形制莊重、紋飾瑰麗。蓋器同銘，各21行152字，記周王對頌的一次冊命。大意為周王在鎬京康邵宮，冊命頌掌管成周二十處屯倉，並賞賜服飾和車馬具。頌接受命冊，佩於腰間而辭出，隨後又返回覲見，獻納玉璋，完成典禮。頌鑄此壺以頌揚王恩、祭祀先父母龔叔、龔姒，並祈求康樂大福、萬年長命。對時、地、人物描述清楚，典禮程序、冊命內容及賞賜亦記載詳備，是研究西周的冊命制度的重要史料。本器銘文，可以和《左傳》僖公二十八年傳等文獻上所提到的策命互相印證。是保存西周冊命儀節最翔實的，是史書上都漏記的。作器者頌前後鑄造了不下十餘件禮器，包括鼎、簋、盤、匜等，而所有的頌器中，故宮所藏的頌壺，器、蓋完整，是最漂亮、最大器的一件。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第4條第1項第2、4、5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "中銅001888",
+    "amount": 1,
+    "notes": "",
+    "descAge": "西周",
+    "descSize": "通高63cm、腹深44.4cm、口徑21.2×16.9cm、底徑24.3×31.7cm、腹圍107cm、容量17450cc。",
+    "descMaterial": "銅",
+    "reserveStatusDesc": "器口緣飾環帶紋，腹飾蛟龍紋，足飾垂鱗紋，兩獸耳銜環。蓋飾竊曲紋及垂鱗紋。器內和蓋內各有銘文152字。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "1、裂（蓋內口沿字上方）。\n2、裂（蓋內口沿「寶」字上方）。\n3、蓋口變形，邊緣有裂傷。\n4、圈足緣有二孔。\n5、器身多處小孔。",
+    "documents": [
+        {
+            "fileid": 150756,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-19/5bb4a7ef-6606-469f-84b8-a60e430ea664/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71146,
+            "caseId": 3877,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75492,
+            "caseId": 3877,
+            "caseStatus": true,
+            "registerDate": 1352649600000,
+            "officialDocNo": "文授字第10120135331號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

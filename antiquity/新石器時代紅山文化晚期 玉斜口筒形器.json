@@ -1,0 +1,100 @@
+{
+    "id": 3750,
+    "caseId": "20140421000009",
+    "count": 363,
+    "shareCount": 0,
+    "representImage": 6528,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7061/photo/新石器時代紅山文化晚期玉斜口筒形器_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7061/photo/新石器時代紅山文化晚期玉斜口筒形器.JPG",
+        "name": "新石器時代紅山文化晚期玉斜口筒形器"
+    },
+    "caseName": "新石器時代紅山文化晚期 玉斜口筒形器",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1398009600000,
+    "officialDocNo": "文資物字第10320043691號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派"
+    ],
+    "registerReason": "此件紅山文化玉斜口筒形器，淡綠色閃玉質。器作橢圓形、上大下小、上端一邊高一邊低而形成斜口、底端平齊之筒狀。斜口口緣由兩面磨薄似刃。在器較矮一邊的內側壁面，留有清晰的、垂直下降的鑽孔旋痕，呈現紅山文化晚期之玉器工藝技術。\r\n本器類型在紅山文化墓葬中常枕於墓主頭下或胸前。而本器之質地與造形均為典型紅山文化遺物，且留有原始製作痕跡。因此，本器是對於瞭解新石器時代區域文化、玉器禮制化、工藝技術等議題，不可或缺的環節。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第3款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "購玉000192",
+    "amount": 1,
+    "notes": "",
+    "descAge": "新石器時代",
+    "descSize": "高：13.4；最寬：7.28；壁厚：0.6（公分）",
+    "descMaterial": "閃玉",
+    "reserveStatusDesc": "質材：勻淨溫潤之淡綠色閃玉。\r\n形制：器作橢圓形、上大下小、上端一邊高一邊低而形成斜口、底端平齊之筒狀。斜口口緣由兩面磨薄似刃。\r\n製作：在器較矮一邊的內側壁面，留有清晰的、垂直下降的鑽孔旋痕。",
+    "pastHistorySource": 2,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。斜口上緣及器下緣均有傷缺，器壁有長條裂璺。",
+    "documents": [
+        {
+            "fileid": 150240,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-12/0fec4de3-46c5-4e0a-b876-43d7c43796af/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70822,
+            "caseId": 3750,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75089,
+            "caseId": 3750,
+            "caseStatus": true,
+            "registerDate": 1398009600000,
+            "officialDocNo": "文資物字第10320043691號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

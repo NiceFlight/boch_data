@@ -1,0 +1,144 @@
+{
+    "id": 1136,
+    "caseId": "20120508000002",
+    "count": 2425,
+    "shareCount": 3,
+    "representImage": 2281,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/36735/photo/6c091b8c-ae54-49e9-baa1-c28926c78caf_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/36735/photo/6c091b8c-ae54-49e9-baa1-c28926c78caf.JPG",
+        "name": "6c091b8c-ae54-49e9-baa1-c28926c78caf"
+    },
+    "caseName": "平溪灰窯",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "產業",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1336464605000,
+    "officialDocNo": "北府文資字第1011676914號 、2012/10/22北府文資字第1012746083號",
+    "documents": [
+        {
+            "fileid": 161561,
+            "name": "平溪灰窯補正公告-101.10.22.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-27/15b94e9c-c255-40ff-9f37-b9ab1f1080a9/平溪灰窯補正公告-101.10.22.pdf"
+        },
+        {
+            "fileid": 161562,
+            "name": "平溪灰窯公告-101.05.08.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-27/ecfdaf6f-91ec-4948-81ee-d0fa9ea94d62/平溪灰窯公告-101.05.08.pdf"
+        },
+        {
+            "fileid": 186201,
+            "name": "1110928平溪灰窯修正公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-10-03/4be8940a-7622-4b9e-8ab9-47dc93e2383d/1110928平溪灰窯修正公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "一、灰窯地名甚多，但窯體並不多見。一般灰窯皆在海邊以硓咕石煉之，像望古村在內山以石灰岩脈燒煉者確實稀罕。  \r\n二、以灰窯產業設施見證平溪地區為了製藍靛及建屋所需，而產生製灰產業文化特色。\r\n三、窯體石砌構造仍相當完整，取灰礦之挖洞也留存完善，極具文化資產保存價值。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、3款",
+    "govInstitutionCode": "220",
+    "govInstitutionName": "新北市政府",
+    "belongCityId": 3,
+    "belongCityName": "新北市",
+    "belongDistName": "平溪區",
+    "govInstitution": "新北市政府",
+    "govDeptName": "文化局",
+    "govDeptPhone": "(02)29603456",
+    "govDeptAddress": "新北市板橋區中山路一段161號28樓",
+    "cadasters": [
+        {
+            "fileid": 186202,
+            "name": "公告附件-平溪灰窯使用面積測量成果圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-10-03/c226af9f-1dc8-4a8b-a2f9-2e354765c178/公告附件-平溪灰窯使用面積測量成果圖.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 6,
+    "nonCityLandUseTypeName": "山坡地保育區",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "平溪區十分寮段平溪子小段146地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "新北市平溪區灰窯農路0.5K路標南方約200公尺處",
+    "isOpenVisit": true,
+    "openUpTime": "全天",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.769199,
+    "latitude": 25.021412,
+    "representImageSource": "新北市政府文化局",
+    "landScope": "平溪區十分寮段平溪子小段146地號",
+    "selfCoverage": "灰窯構造本體及石灰洞窟\n",
+    "addresses": [
+        {
+            "cityName": "新北市",
+            "distName": "平溪區",
+            "id": 109219,
+            "caseId": 1136,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 308,
+            "address": "十分寮段平溪子小段146地號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "新北市",
+            "distName": "平溪區",
+            "landNoName": "十分寮段平溪子小段",
+            "id": 138648,
+            "caseId": 1136,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 308,
+            "landNoId": 6250,
+            "landSerialNo": "146地號",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 117880,
+            "caseId": 1136,
+            "caseStatus": true,
+            "registerDate": 1336464605000,
+            "officialDocNo": "北府文資字第1011676914號 ",
+            "classificationId": 1
+        },
+        {
+            "id": 117881,
+            "caseId": 1136,
+            "caseStatus": true,
+            "registerDate": 1350890319367,
+            "officialDocNo": "北府文資字第1012746083號",
+            "classificationId": 2
+        },
+        {
+            "id": 117882,
+            "caseId": 1136,
+            "caseStatus": true,
+            "registerDate": 1664352419035,
+            "officialDocNo": "新北府文資字第1111809434號",
+            "classificationId": 2
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"新北市平溪區十分寮段平溪子小段146地號\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": "待修復或再利用計畫完成後填列"
+}

@@ -1,0 +1,102 @@
+{
+    "id": 4059,
+    "caseId": "20131219000096",
+    "count": 201,
+    "shareCount": 0,
+    "representImage": 6975,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7235/photo/元柯九思晚香高節軸_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7235/photo/元柯九思晚香高節軸.JPG",
+        "name": "元柯九思晚香高節軸"
+    },
+    "caseName": "元柯九思晚香高節軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1387382400000,
+    "officialDocNo": "文資局物字第10220145081號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要之時代特色、技術及流派",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "柯九思（1312-1365年），浙江台州人。字敬仲，號丹丘生。工書，並善墨竹，亦善山水。為元代墨竹名家。\r\n柯敬仲墨竹，醉心於東坡，家藏蘇竹一幅，至臨之數百遍。本幅一竹獨峙，用筆枯勁，襯以菊花坡石，明簡而樸質，為柯九思竹畫的代表作之一。又，此畫乃柯氏為高昌人正臣所作，是蒙元時期多族文化交流的具體證明，具歷史意義。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第1、3、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局 ",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000243",
+    "amount": 1,
+    "notes": "",
+    "descAge": "元",
+    "descSize": "126.3 x 75.2（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "柯九思（西元1312-1365年），浙江台州人。字敬仲，號丹丘生。元文宗置奎章閣，特授學士院鑒書博士，博學能詩文，工書，並善墨竹，亦善山水。此幅為正臣所作，正臣，高昌人，與柯九思為友，富收藏，有東坡墨竹圖，敬仲嘗為作跋。柯敬仲墨竹，醉心於東坡，家藏蘇竹一幅，至臨之數百遍。本幅一竹獨峙，用筆枯勁，襯以菊花坡石，明簡而樸質。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 150414,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-17/13f1c798-d61a-4875-90ae-17e4978c1684/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70936,
+            "caseId": 4059,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 75214,
+            "caseId": 4059,
+            "caseStatus": true,
+            "registerDate": 1387382400000,
+            "officialDocNo": "文資局物字第10220145081號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

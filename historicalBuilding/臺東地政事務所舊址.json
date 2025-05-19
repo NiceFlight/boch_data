@@ -1,0 +1,106 @@
+{
+    "id": 5081,
+    "caseId": "20171005000001",
+    "count": 3287,
+    "shareCount": 1,
+    "representImage": 164633,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-05-22/e971e5f6-9053-4464-a854-90a388da7b6f/地政代表圖像_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-05-22/e971e5f6-9053-4464-a854-90a388da7b6f/地政代表圖像.jpg",
+        "name": "地政代表圖像"
+    },
+    "caseName": "臺東地政事務所舊址",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "臺東地政事務所舊址位於臺東市博愛路，臺東市地標鯉魚山山麓，坐西北朝東南。最早興建於日治時期大正7年（1918年），作為臺灣總督府臺北地方法院臺東出張所（俗稱土地登記所）之辦公廳舍。 \n臺灣光復初期，臺東縣政府改臺北地方法院臺東出張所為臺東縣臺東地政事務所。後因空間狹小，分別於民國46年（1957）、52年（1963）、75年（1986）及79年（1990）增改建。臺東地政事務所主建築興建於民國52年（1963），簷下額框有泥塑〝中華民國五十二年立、臺東縣臺東地政事務所、沈時可（1908-1994，時任臺灣省民政廳地政局長）題〞等字樣。\n\n",
+    "assetsTypeNames": "機關",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1502726400000,
+    "officialDocNo": "府文資字第1060168627號",
+    "documents": [
+        {
+            "fileid": 114773,
+            "name": "02臺東縣歷史建築公告文-臺東地政事務所舊址-106年補正公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-28/dcf8d212-d789-4366-9db8-daeb39a4ed89/02臺東縣歷史建築公告文-臺東地政事務所舊址-106年補正公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "日治時期辦公廳舍原址，屬於臺灣光復後第一代臺東辦公廳舍的現代建築，其建築特色在於正、側立面表達模矩化間距的梁柱關係，並有密集的遮陽板反映熱帶氣候的設計，具有歷史及文化價值之建造物。\n",
+    "lawsReference": "1.文化資產保存法第15、18條規定。\n2.歷史建築登錄廢止審查及輔助辦法第2條第1項第1款、第4款規定。\n3.106年2月20日臺東縣文資審議委員會決議辦理。\n",
+    "govInstitutionCode": "950",
+    "govInstitutionName": "臺東縣政府",
+    "belongCityId": 22,
+    "belongCityName": "臺東縣",
+    "belongDistName": "臺東市",
+    "govInstitution": "臺東縣政府",
+    "govDeptName": "文化處文化資產科",
+    "govDeptPhone": "089-350129",
+    "govDeptAddress": "臺東市南京路25號",
+    "cadasters": [
+        {
+            "fileid": 281157,
+            "name": "臺東地政事務所舊址_地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2025-02-20/3c797bd8-07f6-42e6-a88c-39999665a5f1/臺東地政事務所舊址_地籍圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "地號：臺東段0567-0028\n地號：臺東段0555-0000\n地號：臺東段0555-0006\n地號：臺東段0555-0009",
+    "bulkTransfer": 0,
+    "belongAddress": "臺東縣台東市博愛路478號",
+    "isOpenVisit": true,
+    "openUpTime": "星期三~星期一\t10:30–21:00\n星期二\t休息\n",
+    "isOpenDownload": true,
+    "longitude": 121.14538458319568,
+    "latitude": 22.754010548276323,
+    "representImageSource": "111年度臺東縣文化資產個案資料同步更新維護計畫",
+    "landScope": "臺東市臺東段567-28、555-00、555-6、555-9地號。",
+    "selfCoverage": "臺東市臺東段567-28、550-00、555-6、555-9地號。",
+    "addresses": [
+        {
+            "cityName": "臺東縣",
+            "distName": "臺東市",
+            "id": 147888,
+            "caseId": 5081,
+            "caseStatus": true,
+            "cityId": 22,
+            "distId": 2201,
+            "address": "臺東縣臺東市博愛路478號"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 160629,
+            "caseId": 5081,
+            "caseStatus": true,
+            "registerDate": 1488384000000,
+            "officialDocNo": "府文資字第1060041373號",
+            "classificationId": 1,
+            "note": "登錄"
+        },
+        {
+            "id": 160630,
+            "caseId": 5081,
+            "caseStatus": true,
+            "registerDate": 1502726400000,
+            "officialDocNo": "府文資字第1060168627號",
+            "classificationId": 2,
+            "note": "補正"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "109年至110年文化資產資料數位整合計畫"
+}

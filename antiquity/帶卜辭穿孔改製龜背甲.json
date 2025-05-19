@@ -1,0 +1,101 @@
+{
+    "id": 4269,
+    "caseId": "20080402000021",
+    "count": 188,
+    "shareCount": 1,
+    "representImage": 7195,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36683/photo/b836ec43-702a-4d26-a003-be4101c203ad_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36683/photo/b836ec43-702a-4d26-a003-be4101c203ad.jpg",
+        "name": "b836ec43-702a-4d26-a003-be4101c203ad"
+    },
+    "caseName": "帶卜辭穿孔改製龜背甲",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-古代文字、各族群語言紀錄",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1207065600000,
+    "officialDocNo": "文資籌二字第0972102147號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "「帶卜辭穿孔改製龜背甲」為1936年殷墟第13次發掘所得，屬於一期卜辭。為鞋底形，是由龜背甲切割而成，中間穿洞可供繩索串聯。內容占卜「癸已卜, 賓：單以。單不其以」。本件「帶卜辭穿孔改製龜背甲」是少見穿孔改製龜背甲中保存極佳的一件，具有重要歷史、文化價值，符合「古物分級登錄指定及廢止審查辦法」第三條第一、五、六款，指定為重要古物。",
+    "lawsReference": "文化資產保存法第六十六條 、古物分級登錄指定及廢止審查辦法",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "南港區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "R044752",
+    "amount": 1,
+    "notes": "相關研究資料：\r\n董作賓，《中國考古報告集2‧小屯‧第二本‧殷虛文字乙編》，1948-1953。",
+    "descAge": "商",
+    "descCreator": "不詳",
+    "descSize": "長14.5公分，寬6.6公分",
+    "descMaterial": "龜背甲",
+    "reserveStatusDesc": "為1936年殷墟第13次發掘所得，屬於一期卜辭。本版為長卵形，是由龜背甲切割而成。中間穿洞以示可以用繩索串聯成冊，一般稱之為「龜冊」。內容占卜「癸已卜， 賓；單以。單不其以。」是少見龜冊中保存極佳的一件。\n",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "1936-06-26殷墟第13次發掘；小屯灰坑127",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 53818,
+            "name": "20080402公告函.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-01-07/fdf95e49-a2d8-41f5-99f6-384ad696f2ba/20080402公告函.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "中央研究院歷史語言研究所",
+    "keepNames": [
+        {
+            "keepNameIdStr": "中央研究院歷史語言研究所",
+            "keepName": "中央研究院歷史語言研究所",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "中央研究院歷史語言研究所",
+            "keepAddressNew": "115台北市南港區研究院路二段130號",
+            "saveSpaceIdStr": "研究設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "南港區",
+            "keepNameAddress": "研究院路二段130號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "南港區",
+            "id": 116487,
+            "caseId": 4269,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 111
+        }
+    ],
+    "announces": [
+        {
+            "id": 127190,
+            "caseId": 4269,
+            "caseStatus": true,
+            "registerDate": 1207065600000,
+            "officialDocNo": "文資籌二字第0972102147號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

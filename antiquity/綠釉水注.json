@@ -1,0 +1,100 @@
+{
+    "id": 3340,
+    "caseId": "20101215000012",
+    "count": 67,
+    "shareCount": 0,
+    "representImage": 5809,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32557/photo/d0e1bec5-ba0d-4799-ac29-4567370eae06_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32557/photo/d0e1bec5-ba0d-4799-ac29-4567370eae06.jpg",
+        "name": "d0e1bec5-ba0d-4799-ac29-4567370eae06"
+    },
+    "caseName": "綠釉水注",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1292342400000,
+    "officialDocNo": "會授資籌二字第09920152382號",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本件文物器型特殊、數量稀少，釉斑自然，具有重要歷史、文化、藝術價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第四、六款、第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "87-281",
+    "amount": 1,
+    "notes": "",
+    "descAge": "唐代",
+    "descSize": "高62.5公分，面寛27.5公分，底徑12公分 ",
+    "descMaterial": "陶、綠釉",
+    "reserveStatusDesc": "唐代以三彩和彩繪陶最具代表性，綠釉較少，尤其此件水注甚大，更屬難得。而除了釉彩的光澤，顯示獨特美感；小口、細頸、削肩、豐腰，加上弓形豎起的細條握柄的優美造型，更顯出此器的不同凡響。",
+    "pastHistorySource": 2,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 53447,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-12-26/233a7b22-e014-4da3-a97e-54a24405f3bc/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.51984879730222,
+    "latitude": 25.032456306173696,
+    "representImageSource": "國立歷史博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立歷史博物館",
+            "keepName": "國立歷史博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立歷史博物館",
+            "keepAddressNew": "100台北市中正區襄陽路2號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "徐州路21號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 69697,
+            "caseId": 3340,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 73876,
+            "caseId": 3340,
+            "caseStatus": true,
+            "registerDate": 1292342400000,
+            "officialDocNo": "會授資籌二字第09920152382號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

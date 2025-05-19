@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "彰化縣彰化市西勢子段過溝子小段202地號部分土地"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

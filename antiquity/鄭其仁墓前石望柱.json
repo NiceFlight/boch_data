@@ -1,0 +1,109 @@
+{
+    "id": 3276,
+    "caseId": "20150511000005",
+    "count": 550,
+    "shareCount": 0,
+    "representImage": 5738,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/38224/photo/9a781595-16fa-45ac-801a-f444f53dc2c4_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/38224/photo/9a781595-16fa-45ac-801a-f444f53dc2c4.jpg",
+        "name": "9a781595-16fa-45ac-801a-f444f53dc2c4"
+    },
+    "caseName": "鄭其仁墓前石望柱",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-其他",
+    "otherAssetsType": "生活及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1431273600000,
+    "officialDocNo": "府文資處字第1040415095B號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本件文物為前清鄭其仁墓前石望柱，民國65年（西元1976年）出土於永康洲仔尾一帶。鄭其仁，府城西定坊武生，在林爽文事件率義軍協助清軍作戰，後於乾隆五十三年（西元 1788 年）殉難於屏東放索（林邊），事後清廷「加都司銜、賜諡忠勇，予祭葬，祀於京城昭忠祠」，因鄭氏死後受賜都司銜，為四品官，依照「大清會典」規定，墓前石象生可安置石望柱、石馬、石虎各一對，此一石望柱乃因此而設；其墓址位於「府治小北門之洲仔尾」；據其墓碑落款「嘉慶丁卯花月」，可知其墓築於嘉慶十二年（西元1807年）二月，此一石望柱應置於同時。\n本件石望柱，原置於林爽文事件重要義首鄭其仁墓前，其上書鄭氏功績，為見證重要歷史事件之文物。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第2條第1項第 1、2、6款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "永康區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "reservationCode": "公告無資料",
+    "amount": 1,
+    "notes": "",
+    "descAge": "1807年（清嘉慶十二年）",
+    "descSize": "251公分*17公分（柱身六面體之寬）；又柱上石獅高約 42 公分。",
+    "descMaterial": "花崗岩",
+    "reserveStatusDesc": "數量：1組1件\n主要材質：花崗岩\n尺寸：（長）251公分*17公分（柱身六面體之寬）；又柱上石獅高約 42 公分。\n特徵：整體為六角面立柱，柱上有石獅。柱身正面刻有傳統陰刻楷書「勳昭東港千秋勇氣壯山河」等字；柱上石獅則為傳統古拙的立體雕。",
+    "pastHistorySource": 4,
+    "saveEnvironment": 3,
+    "reserveStatus": "公告無資料",
+    "documents": [
+        {
+            "fileid": 168913,
+            "name": "鄭其仁墓前石望柱公告-104.05.11.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-06-22/62683167-9240-4d4b-b158-13163147bedc/鄭其仁墓前石望柱公告-104.05.11.pdf"
+        },
+        {
+            "fileid": 168914,
+            "name": "鄭其仁墓前石望柱公告表-104.05.11.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-06-22/c173fac1-547b-4d3d-9155-b52f857f8cec/鄭其仁墓前石望柱公告表-104.05.11.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 120.23562989980408,
+    "latitude": 23.039550499998267,
+    "representImageSource": "  ",
+    "keepNames": [
+        {
+            "keepNameIdStr": "鹽行天后宮",
+            "keepName": "鹽行天后宮管理委員會",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "鹽行天后宮",
+            "keepAddressNew": "臺南市永康區中正南路690號",
+            "saveSpaceOther": "無資料",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2,
+            "keepNameCityName": "臺南市",
+            "keepNameDistName": "永康區",
+            "keepNameAddress": "中正南路690號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "永康區",
+            "id": 92594,
+            "caseId": 3276,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1608,
+            "address": "中正南路690號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 99883,
+            "caseId": 3276,
+            "caseStatus": true,
+            "registerDate": 1431273600000,
+            "officialDocNo": "府文資處字第1040415095B號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

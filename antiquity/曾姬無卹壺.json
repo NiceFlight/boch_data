@@ -1,0 +1,101 @@
+{
+    "id": 3889,
+    "caseId": "20121112000013",
+    "count": 293,
+    "shareCount": 0,
+    "representImage": 6697,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32875/photo/3333fd30-be8d-4edd-aa25-1ca528bb7a11_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32875/photo/3333fd30-be8d-4edd-aa25-1ca528bb7a11.JPG",
+        "name": "3333fd30-be8d-4edd-aa25-1ca528bb7a11"
+    },
+    "caseName": "曾姬無卹壺",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1352649600000,
+    "officialDocNo": "文授字第10120135331號",
+    "judgeCriteria": [
+        "具有史事重要淵源",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "器、蓋均飾蟠虺紋，兩耳做獸形，蓋上有四S形扁飾。造型與紋飾為研究東周南方銅器的重要資料。此器故宮藏有一對，乃民國二十年安徽楚墓出土，器口內壁皆有銘文5行39字：「唯王廿又六年，聖□之夫人曾姬無卹，望安茲漾陵蒿間之無匹，用作宗彝尊壺，後嗣用之，職在王室」。大意為楚王聖來自曾國的夫人過世後歸葬於漾陵，在世的親人做了這件器物以誌此事，使後世子孫保存使用。為研究東周時期曾、楚關係之重要文物。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第2、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "中銅000060、中銅000393",
+    "amount": 2,
+    "notes": "",
+    "descAge": "春秋",
+    "descSize": "（一）通高78.3cm、器高68.8cm、腹深55.8cm、口徑20.6×18.9cm、底徑24.6×23.7cm。 （二）通高78cm、器高67.3cm、腹深57.5cm、口徑20.8×18.8cm。",
+    "descMaterial": "銅",
+    "reserveStatusDesc": "蓋器均飾蟠虺紋，兩耳做獸形，蓋有四扁足。口內有銘文39字。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "（一）蓋上破壹小縫，蓋上裂縫，加大並折下一瓣。\n（二）蓋口緣缺，蓋上原有裂縫，蓋鈕舊缺。",
+    "documents": [
+        {
+            "fileid": 150775,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-19/aa762947-12d4-4f63-ae6d-ef6d0a71e3ed/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71154,
+            "caseId": 3889,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": " 至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75500,
+            "caseId": 3889,
+            "caseStatus": true,
+            "registerDate": 1352649600000,
+            "officialDocNo": "文授字第10120135331號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

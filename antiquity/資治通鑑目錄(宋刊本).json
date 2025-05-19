@@ -1,0 +1,105 @@
+{
+    "id": 3421,
+    "caseId": "20131219000045",
+    "count": 121,
+    "shareCount": 0,
+    "representImage": 5965,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7186/photo/資治通鑑目錄(宋刊本)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7186/photo/資治通鑑目錄(宋刊本).jpg",
+        "name": "資治通鑑目錄(宋刊本)"
+    },
+    "caseName": "資治通鑑目錄(宋刊本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1387382400000,
+    "officialDocNo": "文資局物字第 10220148851號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "南宋初刊宋元遞修本。\r\n編者司馬光(1019-1086)，字君實，號迂叟。陝州夏縣人，世稱涑水先生，諡文正。北宋政治家、文學家、史學家，主持編纂中國歷史上第一部編年體通史《資治通鑑》。\r\n《資治通鑑》一書，包羅宏富，卷帙浩繁，實非一時所能盡閱，故司馬光在編纂《通鑑》的同時，又著《資治通鑑目錄》，目的是便於讀者檢閱。此書自刻工考察，可推定係南宋紹興年間杭州地區所刻。補版遞修至元，未經明人修版。\r\n宋版古籍，罕見稀有，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號01731",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 12,
+    "notes": "",
+    "descAge": "宋嘉定己卯(十二年，1219)",
+    "descCreator": "宋司馬光編",
+    "descSize": "半葉8行，版匡19.2x14.4公分",
+    "descMaterial": "紙質刊本",
+    "reserveStatusDesc": "三十卷。此書據司馬光《資治通鑑》及其《通鑑目錄》、《通鑑舉要曆》和胡安國《資治通鑑舉要補遺》編成。刪繁就簡，補其所未備，並本儒家綱常名教，簡化內容，編為綱目。修補僅至明初。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "無虫蛀。未經修裱，書況良好。\n",
+    "documents": [
+        {
+            "fileid": 5966,
+            "name": "0dbe66e2-cf03-4895-a7e5-88b1c99ffe65.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44035/file/0dbe66e2-cf03-4895-a7e5-88b1c99ffe65.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3563,
+            "caseId": 3421,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3563,
+            "caseId": 3421,
+            "caseStatus": true,
+            "registerDate": 1387382400000,
+            "officialDocNo": "文資局物字第 10220148851號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

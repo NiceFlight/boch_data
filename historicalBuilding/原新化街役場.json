@@ -1,0 +1,119 @@
+{
+    "id": 1664,
+    "caseId": "20021118000001",
+    "count": 5236,
+    "shareCount": 4,
+    "representImage": 159192,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-04-11/496ef5b1-1e95-4ca5-a585-bf0faa46e126/歷008原新化街役場_P002_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-04-11/496ef5b1-1e95-4ca5-a585-bf0faa46e126/歷008原新化街役場_P002.jpg",
+        "name": "歷008原新化街役場_P002"
+    },
+    "caseName": "原新化街役場",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "建築物類",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1037585222000,
+    "officialDocNo": "府文資字第0910190059號",
+    "documents": [
+        {
+            "fileid": 159191,
+            "name": "原新化街役場公告91.11.18.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-11/938066e3-a6fb-4846-b5e2-f1e23c2247e8/原新化街役場公告91.11.18.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "公告無資料",
+    "lawsReference": "1.\t文化資產保存法第27條之1第1項\n2.\t行政院文化建設委員會函頒「歷史建築登錄及補助辦法」。",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "新化區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 142271,
+            "name": "原新化街役場.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-11-02/3f8b6ba8-4b26-4cd1-bbe7-a312fedf4802/原新化街役場.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "廣場兼停車場",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "新化區新國段286地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "wenSitename": "新化街役場古蹟餐坊",
+    "wenSiteaddress": "https://1934.com.tw/p01-1.html",
+    "belongAddress": "中正路500 號",
+    "isOpenVisit": true,
+    "openUpTime": "11:00~22:00(周一公休，寒暑假無公休)",
+    "isCharge": true,
+    "isOpenDownload": false,
+    "longitude": 120.307376607887,
+    "latitude": 23.0382515893148,
+    "representImageSource": "臺南市政府",
+    "landScope": "",
+    "selfCoverage": "公告無資料",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "新化區",
+            "id": 75845,
+            "caseId": 1664,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1610,
+            "address": "中正路500 號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺南市",
+            "distName": "新化區",
+            "landNoName": "新國段",
+            "id": 77255,
+            "caseId": 1664,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1610,
+            "landNoId": 3420,
+            "landSerialNo": "286地號",
+            "area": "1284.16平方公尺",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 81133,
+            "caseId": 1664,
+            "caseStatus": true,
+            "registerDate": 1037585222000,
+            "officialDocNo": "府文資字第0910190059號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"臺南市新化區新國段286地號\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": ""
+}

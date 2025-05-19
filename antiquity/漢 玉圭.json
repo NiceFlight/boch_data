@@ -1,0 +1,101 @@
+{
+    "id": 3812,
+    "caseId": "20140421000026",
+    "count": 406,
+    "shareCount": 0,
+    "representImage": 6608,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7084/photo/漢玉圭_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7084/photo/漢玉圭.JPG",
+        "name": "漢玉圭"
+    },
+    "caseName": "漢 玉圭",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1398009600000,
+    "officialDocNo": "文資物字第10320043691號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要之時代特色、技術及流派"
+    ],
+    "registerReason": "此件漢玉圭，青灰閃玉質，表面分佈許多淺褐沁斑。全器呈長方帶三角尖形厚板狀。近底部處，有一小圓孔。平素無紋。\r\n漢代玉圭僅見於貴族大墓，於祭祀遺址中與玉壁相伴出土，是探討漢代禮制的重要文物。本件尺寸大，甚為稀有。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第1、3　款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故玉003601",
+    "amount": 1,
+    "notes": "",
+    "descAge": "漢",
+    "descSize": "高：18.56；寬：7；厚：0.9（公分）",
+    "descMaterial": "閃玉",
+    "reserveStatusDesc": "質材：青灰閃玉質，微受沁，表面分佈許多淺褐沁斑。\r\n形制：全器呈長方帶三角尖形厚板狀。近底部處，有一小圓孔。\r\n紋飾：平素無紋。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。邊緣及尖端多處小傷缺。",
+    "documents": [
+        {
+            "fileid": 150250,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-13/cf1fe0e6-15e6-43c7-b09e-10cdf222a4ca/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": " 國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70857,
+            "caseId": 3812,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75126,
+            "caseId": 3812,
+            "caseStatus": true,
+            "registerDate": 1398009600000,
+            "officialDocNo": "文資物字第10320043691號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

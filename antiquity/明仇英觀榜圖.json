@@ -1,0 +1,105 @@
+{
+    "id": 17344,
+    "caseId": "20200219000001",
+    "count": 250,
+    "shareCount": 0,
+    "representImage": 65825,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-02-10/9fc0925d-6e8c-4a0a-8c63-7594a1d78089/明 仇英 觀榜圖 卷1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-02-10/9fc0925d-6e8c-4a0a-8c63-7594a1d78089/明 仇英 觀榜圖 卷1.jpg",
+        "name": "明 仇英 觀榜圖 卷1"
+    },
+    "caseName": "明仇英觀榜圖",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1581313755057,
+    "officialDocNo": "中華民國109年2月10日北市獻編字第1093001230號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就",
+        "對地方或族群知識、技術或流派發展具影響或意義"
+    ],
+    "registerReason": "1.\t科舉考試取人才而用之，是文化上的重大事件，使用人取材成為國家大事反映當時的社會現象。\n2.\t反映當時建築、植栽、文樣特徵。\n3.\t反映政治社會特色，描繪科舉時代的社會寫真、設色鮮明為一大特色，顏料似乎有西方元素的影響，可深入研究。\n4.\t人物群像姿態生動 屋宇建築細筆勾畫，極具藝術造詣。\n5.\t古代手卷的裝裱樣式可供修復家學習，對地方或族群知識、技術或流派發展具影響或意義。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2、3、4、6款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "台北市萬華區中華路一段174之1號",
+    "reservationCode": "故畫001608",
+    "amount": 1,
+    "descAge": "1368-1644",
+    "descSize": "長34.4公分/寬638公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "仇英（約1494-1552），字實父，號十洲， 江蘇太倉人。與沈周（1427-1509）、文徵明（1470-1559）、唐寅（1470-1523）並稱「明四家」。工畫山水、人物、花鳥。本幅舊題為仇英畫，但與仇英精麗絕倫的工筆畫風相比，猶有落差，推斷為明後期畫家的託名之作。明代科舉考試共分三級，初級為院試，及格者稱生員，亦稱秀才。二級為鄉試，中者為舉人，榜首稱解元。最高一級為會試，舉人均可參加，中者稱貢士，榜首稱會元。貢士得以入殿廷由皇帝面試，殿試成績最高者為狀元，次名稱榜眼，三名稱探花。這件作品畫觀榜人潮洶湧，高中者興奮登馬而去，落榜者則滿臉沮喪，由人攙扶，頹然而返。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "舊傷補、褐斑、黃化",
+    "documents": [
+        {
+            "fileid": 65961,
+            "name": "公告函.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-02-11/7d5f4f9e-8d25-4e2a-a30e-4af738a451f1/公告函.pdf"
+        },
+        {
+            "fileid": 65962,
+            "name": "臺北市一般古物指定公告表_明仇英觀榜圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-02-11/a52dbdbe-dce2-49a5-8e68-881fef628695/臺北市一般古物指定公告表_明仇英觀榜圖.pdf"
+        }
+    ],
+    "representImageSource": "國立故宮博物院Open Data",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "台北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 6984,
+            "caseId": 17344,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108
+        }
+    ],
+    "announces": [
+        {
+            "id": 6984,
+            "caseId": 17344,
+            "caseStatus": true,
+            "registerDate": 1581313755057,
+            "officialDocNo": "中華民國109年2月10日北市獻編字第1093001230號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

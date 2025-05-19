@@ -1,0 +1,103 @@
+{
+    "id": 3251,
+    "caseId": "20151225000002",
+    "count": 418,
+    "shareCount": 1,
+    "representImage": 5698,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43334/photo/bd422691-f817-47d8-a16c-f6492752a8c1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43334/photo/bd422691-f817-47d8-a16c-f6492752a8c1.jpg",
+        "name": "bd422691-f817-47d8-a16c-f6492752a8c1"
+    },
+    "caseName": "彰化聖廟「與天地参」匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1450972800000,
+    "officialDocNo": "府授文資字第1040431125F號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有一定之時代特色、技術及流派",
+        "具有珍貴及稀有性者"
+    ],
+    "registerReason": "1.具有歷史意義或能表現傳統、族群或地方文化特色：清代為強化統治之正統性，推崇孔子興建孔子廟，歷代皇帝皆御題匾額賜給各地孔子廟。\n2.具有一定之時代特色、技術及流派：為清代匾額工藝，額面有皇帝御璽，為清御匾標準形式。\n3.具有珍貴及稀有性者：目前台灣僅存稀有之與天地参孔廟御匾之一。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第1、3、5款",
+    "govInstitutionCode": "500",
+    "govInstitutionName": "彰化縣政府",
+    "belongCityId": 11,
+    "belongCityName": "彰化縣",
+    "belongDistName": "彰化市",
+    "govInstitution": "彰化縣政府",
+    "govDeptName": "彰化縣文化局",
+    "govDeptPhone": "04-7510709",
+    "govDeptAddress": "彰化縣彰化市平和七街66號",
+    "reservationCode": "府授文資字第1040431125F號",
+    "amount": 1,
+    "notes": "",
+    "descAge": "乾隆4年（西元1739年）",
+    "descSize": "447 x 143 (cm)",
+    "descMaterial": "木製",
+    "reserveStatusDesc": "此一「與天地参」匾額，為一木製匾額，現今位於彰化孔廟大成殿的神龕上方，清代君主為了強化其統治的正統性，故思想上推崇孔子，廣建孔廟，到19世紀中，中國大陸的孔子廟共有1730所。並且從康熙皇帝以後，新皇帝登基皆會御題匾額，並頒發給全國各所學校孔子廟。年款為「乾隆戊午孟春」，意即此匾額的年代為乾隆4年（西元1739年），賜匾者為乾隆皇帝，匾額的作者已經無從考證。「與天地参」四字中的「参」字曾因時代久遠而脫落，現今已修復完畢。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "乾隆4年（西元1739年）",
+    "saveEnvironment": 2,
+    "reserveStatus": "雖曾有部分構件脫落，但經過修復後現今保存完整良好。",
+    "documents": [
+        {
+            "fileid": 264142,
+            "name": "彰化聖廟「與天地参」匾1041225.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-11-07/e4e7cec7-3940-46e6-bc4a-7b1f65c28df1/彰化聖廟「與天地参」匾1041225.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 24.078856473340274,
+    "latitude": 120.54575195512545,
+    "representImageSource": "彰化縣文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "彰化孔子廟",
+            "keepName": "彰化孔子廟",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "彰化孔子廟",
+            "keepAddressNew": "孔門路30號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "彰化縣",
+            "keepNameDistName": "彰化市",
+            "keepNameAddress": "孔門路30號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "彰化縣",
+            "distName": "彰化市",
+            "id": 136739,
+            "caseId": 3251,
+            "caseStatus": true,
+            "cityId": 11,
+            "distId": 1101,
+            "address": "中山路二段500號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 149359,
+            "caseId": 3251,
+            "caseStatus": true,
+            "registerDate": 1450972800000,
+            "officialDocNo": "府授文資字第1040431125F號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

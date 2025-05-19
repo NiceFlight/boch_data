@@ -1,0 +1,95 @@
+{
+    "id": 22988,
+    "caseId": "20240918000001",
+    "count": 41,
+    "shareCount": 0,
+    "representImage": 262330,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-09-18/cc40a847-1ea1-4acc-a0c8-747f9f4ec5e6/K1A002342N000000000PAB_c.png"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-09-18/cc40a847-1ea1-4acc-a0c8-747f9f4ec5e6/K1A002342N000000000PAB.png",
+        "name": "K1A002342N000000000PAB"
+    },
+    "caseName": "商晚期至西周早期 引作文父丁鼎",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "具有重要藝術造詣或科學成就",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "此三足圓鼎量體雄偉，形制典雅，紋飾線條流暢，是商晚期至西周早期(西元前13世紀-前10世紀)的典型大鼎樣式。由銘文內容可知此器的作器者□，為其父親「丁」所作的禮器。「□」為族氏銘文，「□」有兩說，一為屬於族氏銘文，另一說認為通假作「鑊」，「鑊」為器物名稱的專字，屬於鼎的別名。鑄有此族氏銘文的器物主要見於商末周初，數量不多。   ",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第3、4、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故銅002342",
+    "amount": 1,
+    "descAge": "商晚期至西周早期",
+    "descSize": "高75.9口徑54.5",
+    "descMaterial": "銅",
+    "reserveStatusDesc": "此三足圓鼎，折沿，立耳略向外張，深腹，蹄形足。頸飾六組浮雕獸面紋，獸面圖樣分為兩式，一式為歧尾式連身獸面紋，另一式則為相應於三足上方的垂尾獸面紋，獸身上方的空隙填飾一倒夔紋。獸面中央皆有一道扉稜，雲雷紋襯地。蹄足上有高浮雕卷角獸面紋及短扉棱，下飾三道弦紋。器內壁第三足上方有銘文三行八字：「□作文父丁□。〔□ (鑊)〕。」此器為渾鑄，全器狀況基本完好，腹內下側有舊傷補。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": " ",
+    "documents": [
+        {
+            "fileid": 262267,
+            "name": "11330087931號公告用印後PDF.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-09-18/5e331074-6788-4da9-b7bc-66a20bac341c/11330087931號公告用印後PDF.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 135982,
+            "caseId": 22988,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 148469,
+            "caseId": 22988,
+            "caseStatus": true,
+            "registerDate": 1725345332937,
+            "officialDocNo": "文授資局物字第11330087931號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

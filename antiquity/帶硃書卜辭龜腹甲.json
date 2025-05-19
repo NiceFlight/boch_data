@@ -1,0 +1,107 @@
+{
+    "id": 4254,
+    "caseId": "20080402000017",
+    "count": 241,
+    "shareCount": 0,
+    "representImage": 7180,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36668/photo/76888758-00e4-4e0a-a2ff-e00756c86594_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36668/photo/76888758-00e4-4e0a-a2ff-e00756c86594.jpg",
+        "name": "76888758-00e4-4e0a-a2ff-e00756c86594"
+    },
+    "caseName": "帶硃書卜辭龜腹甲",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-古代文字、各族群語言紀錄",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1207065600000,
+    "officialDocNo": "文資籌二字第0972102147號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "「帶硃書卜辭龜腹甲」為1936年殷墟第13次發掘所得，屬於一期卜辭。內容占卜收成好不好，是常見占卜內容，但背面右邊甲橋「雀入二百五十」一行字，刻後塗硃，是典型的甲橋刻辭之一，記錄進貢的來源地。中間兩行用毛筆寫而未刻的文字，呈暗紅色，是甲骨文中罕見而珍貴的真蹟。本件「帶硃書卜辭龜腹甲」具有重要歷史、文化價值，符合「古物分級登錄指定及廢止審查辦法」第三條第一、五、六款，指定為重要古物。",
+    "lawsReference": "文化資產保存法第六十六條、古物分級登錄指定及廢止審查辦法",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "南港區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "R044802",
+    "keepNameId": 5,
+    "keepName": "中央研究院歷史語言研究所",
+    "keepNameNew": 5,
+    "keepAddressNew": "115台北市南港區研究院路二段130號",
+    "saveSpaceId": 11,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "相關研究資料：\r\n董作賓，《中國考古報告集2‧小屯‧第二本‧殷虛文字乙編》，1948-1953。",
+    "descAge": "商",
+    "descCreator": "不詳",
+    "descSize": "長16.6公分，寬9公分。",
+    "descMaterial": "龜腹甲",
+    "reserveStatusDesc": "1936年殷墟第13次發掘所得，屬於一期卜辭。內容占卜收成好不好，是常見占卜內容，但背面右邊甲橋「雀入二百五十」一行字，刻後塗硃，是典型的甲橋刻辭之一，說明可能進貢的來源地中間兩行用毛筆寫而未刻的文字，呈暗紅色，是甲骨文中少見的例子。\n",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "1936年殷墟第13次發掘；小屯灰坑127",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ；帶有朱書",
+    "documents": [
+        {
+            "fileid": 53815,
+            "name": "20080402公告函.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-01-07/2b49822c-5318-4799-94d5-87b3bb667606/20080402公告函.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "中央研究院歷史語言研究所",
+    "keepNames": [
+        {
+            "keepNameIdStr": "中央研究院歷史語言研究所",
+            "keepName": "中央研究院歷史語言研究所",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "中央研究院歷史語言研究所",
+            "keepAddressNew": "115台北市南港區研究院路二段130號",
+            "saveSpaceIdStr": "研究設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "南港區",
+            "keepNameAddress": "研究院路二段130號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "南港區",
+            "id": 4396,
+            "caseId": 4254,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 111
+        }
+    ],
+    "announces": [
+        {
+            "id": 4396,
+            "caseId": 4254,
+            "caseStatus": true,
+            "registerDate": 1207065600000,
+            "officialDocNo": "文資籌二字第0972102147號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

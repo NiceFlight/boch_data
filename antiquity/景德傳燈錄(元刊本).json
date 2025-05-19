@@ -1,0 +1,105 @@
+{
+    "id": 3627,
+    "caseId": "20130813000082",
+    "count": 112,
+    "shareCount": 0,
+    "representImage": 6354,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7334/photo/景德傳燈錄(元刊本)_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7334/photo/景德傳燈錄(元刊本).png",
+        "name": "景德傳燈錄(元刊本)"
+    },
+    "caseName": "景德傳燈錄(元刊本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1376323200000,
+    "officialDocNo": "文資局物字第 10220091271號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "元延祐三年(1316)湖州禪幽庵刊配補宋臨安刊本。\r\n景德為宋真宗年號，此本為佛教書史，記載了禪宗歷代傳法人的事蹟。佛家謂佛的教旨可以破除迷暗，像燈照明一樣，因稱傳法曰傳燈。此刊本之時間去宋室之亡不足40年，所據底本與校本應皆為宋本，各卷卷末多有牌記，內容或作「延祐三年刻梓于湖州道場禪幽庵」，或作「釋氏希渭刻梓虎巖禪幽之菴」等，可據此考察宋代圖書刊刻之情形。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號08917",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 20,
+    "notes": "",
+    "descAge": "元延祐三年(1316)",
+    "descCreator": "宋釋道原撰",
+    "descSize": "半葉13行，版匡21.7x15.7公分",
+    "descMaterial": "紙質",
+    "reserveStatusDesc": "三十卷；刊本。\n景德為宋真宗年號，此本為佛教書史，記載了禪宗歷代傳法人的事蹟。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "虫蛀較多；經修裱。卷1-6﹑13﹑14內文有部分鈔補，卷22-24全三卷為配補宋刊。保存狀況良好。\n",
+    "documents": [
+        {
+            "fileid": 6355,
+            "name": "08b9583c-1c86-451b-b924-0dbc34815560.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43956/file/08b9583c-1c86-451b-b924-0dbc34815560.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3769,
+            "caseId": 3627,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3769,
+            "caseId": 3627,
+            "caseStatus": true,
+            "registerDate": 1376323200000,
+            "officialDocNo": "文資局物字第 10220091271號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

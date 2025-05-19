@@ -1,0 +1,107 @@
+{
+    "id": 4030,
+    "caseId": "20120326000085",
+    "count": 362,
+    "shareCount": 0,
+    "representImage": 6918,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/33016/photo/2f478fff-a538-4b73-8faf-b3914c188e5f_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/33016/photo/2f478fff-a538-4b73-8faf-b3914c188e5f.JPG",
+        "name": "2f478fff-a538-4b73-8faf-b3914c188e5f"
+    },
+    "caseName": "元方從義神嶽瓊林圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "方從義山水畫風格蕭散，在元代復古潮流之下，別有新意。傳世作品不多，本幅為立軸形式，正可與他傳世手卷形式山水畫互相參照。而方氏以道教中人參與繪事，本幅亦為其他道士所畫，且繪龍虎山晚年隱居一地，亦可作為了解元代山水畫和道教關係的重要作品。具有特殊時代特色，並具特殊文化和藝術價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第四條第一項第三、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000322",
+    "amount": 1,
+    "notes": "",
+    "descAge": "元",
+    "descCreator": "方從義",
+    "descSize": "120.3 x 55.7（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "方從義（約1301－1378後），字無隅，號方壺、上清羽士，江西龍虎山上清宮道士。年輕時隨金蓬頭學道，後出遊往大都，遍覽道教名山。在大都時盡觀權貴收藏。根據款題，本幅作於至正二十五年（1365），為南溟真人程元翼畫。圖繪江西龍虎山瓊林一帶，為方氏晚年隱居處。方從義畫以宋代米家山水為師，而更顯蕭散。本幅運用深淺濕潤筆墨，奔放的線條及墨點，塑造山石，山水頗具動態。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 151871,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-26/292f03d1-905b-4ef3-a1e6-a64c926991c1/公告.pdf"
+        },
+        {
+            "fileid": 151872,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-26/c4cdea7c-53e7-4f84-9b68-45aa7ec7993b/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71527,
+            "caseId": 4030,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 75990,
+            "caseId": 4030,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

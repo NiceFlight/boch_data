@@ -1,0 +1,95 @@
+{
+    "id": 21910,
+    "caseId": "20230811000001",
+    "count": 141,
+    "shareCount": 0,
+    "representImage": 229841,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-08-11/c07fbc3a-17c6-4003-97a2-920a5dc98e5d/有教無類_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-08-11/c07fbc3a-17c6-4003-97a2-920a5dc98e5d/有教無類.jpg",
+        "name": "有教無類"
+    },
+    "caseName": "「有教無類」匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "數量稀少者"
+    ],
+    "registerReason": "1.符合一般古物指定基準第3款「能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者」：本匾為1950年臺北孔廟重建完成後擴大舉行祭孔大典時，由總統蔣中正先生頒贈之匾，能反映國民政府來臺之初對儒家思想教化之傳承與重視。\n2.符合一般古物指定基準第5款「數量稀少者」：匾面中行文字「有教無類」上方中央刻有「榮典之璽」印文，為目前已知臺南孔廟之外唯一刻有「榮典之璽」印文的蔣中正總統贈匾，數量稀少。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第3、5款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "萬華區中華路一段174-1號",
+    "reservationCode": "B0001-01",
+    "amount": 1,
+    "descAge": "1950年",
+    "descSize": "寬258公分",
+    "descMaterial": "木",
+    "reserveStatusDesc": "匾名：「有教無類」，上款：「中華民國三十九年八月」。中款：「榮典之璽」方印。下款：「蔣中正」、「蔣中正」方印。寬258公分，高無法測得。全幅為木質目視無接縫為整塊板製成，黑底金字楷書陰刻，所有字皆漆金漆，中款方印底為紅色嵌方框。匾無邊框，匾座為獅座，匾下方有圓孔掛勾。懸掛於大成殿神龕最上方。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "1950年，蔣中正",
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定，懸掛於大成殿內。",
+    "documents": [
+        {
+            "fileid": 229840,
+            "name": "112年7月13日北市獻編字第1123002644號公告_新.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-08-11/4e0477f8-0644-4d60-a8a5-18864624c938/112年7月13日北市獻編字第1123002644號公告_新.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "臺北市孔廟",
+    "keepNames": [
+        {
+            "keepNameIdStr": "臺北市孔廟管理委員會",
+            "keepName": "臺北市孔廟管理委員會",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "臺北市孔廟管理委員會",
+            "keepAddressNew": "臺北市大同區大龍街275號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "大同區",
+            "keepNameAddress": "大龍街275號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 114062,
+            "caseId": 21910,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "大龍街275號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 124181,
+            "caseId": 21910,
+            "caseStatus": true,
+            "registerDate": 1689229291191,
+            "officialDocNo": "北市獻編字第1123002644號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

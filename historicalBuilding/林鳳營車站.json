@@ -1,0 +1,119 @@
+{
+    "id": 1694,
+    "caseId": "20050318000003",
+    "count": 2839,
+    "shareCount": 4,
+    "representImage": 3428,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/37937/photo/922e404b-1b41-4926-8e18-1897cb1328d1_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/37937/photo/922e404b-1b41-4926-8e18-1897cb1328d1.JPG",
+        "name": "922e404b-1b41-4926-8e18-1897cb1328d1"
+    },
+    "caseName": "林鳳營車站",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "車站",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1111115736000,
+    "officialDocNo": "府文資字第0940057308號函",
+    "documents": [
+        {
+            "fileid": 107215,
+            "name": "021林鳳營車站公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-04-26/b72abcc0-e566-46c2-87dc-a03078c4b285/021林鳳營車站公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "林鳳營火車站是臺灣僅存幾棟日式木造火車站之一，深具美感與時代意義，可為台鐵發展史留下歷史軌跡。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "六甲區",
+    "govInstitution": "臺南市文化資產管理處",
+    "govDeptName": "有形資產組",
+    "govDeptPhone": "(06)2213569",
+    "govDeptAddress": "臺南市中西區 中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 141786,
+            "name": "林鳳營車站地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-10-27/344811db-f3a5-4c04-bef1-5f2ced3eb955/林鳳營車站地籍圖.jpg"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 4,
+    "nonCityLandUseTypeName": "鄉村區",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "六甲區港子頭段291地號",
+    "buildingFeatures": "車站主體採日式四坡寄棟頂，坡面四脊保存鬼瓦福神原貌，建築形式優美，入口處木作矮屏、屋架通風口與迴廊屋架都是它的特色。\r\n候車室三面繞以木作迴廊，木作迴廊之木柱，由上下兩根木材，以斜口螺栓對接的方式構成，木柱立於錐狀洗石子基座上，上承水平檁材，雙向並輔以斜撐構材。",
+    "inHouseFeatures": "林鳳營火車站主體建築之中央部份為主要進出車站與買票之動線，無任何家具擺設，僅在受票口前有一木作矮屏。左側則為候車室，前後牆面與中央各設座椅。右側為辦公室與售票處。在室內可清楚見到構成門窗之框架，裙牆部份則以木板裝修。目前室內裝設有明架天花板，地上則鋪有現代地磚。辦公室右側為站長室。再往右之附屬建築為茶水間與值夜室。",
+    "buildingUsage": "車站使用",
+    "buildingActualState": "林鳳營火車站，是臺灣僅存幾棟日式木造火車站之一，深具美感與時代意義。",
+    "buildingKeyMaintainItem": "無",
+    "bulkTransfer": 0,
+    "wenSitename": "臺南縣政府觀光旅遊網",
+    "wenSiteaddress": "http://tour.tainan.gov.tw/view.aspx?sn=96",
+    "belongAddress": "林鳳營16號",
+    "isOpenVisit": true,
+    "openUpTime": "日間",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.320966067377,
+    "latitude": 23.2426124493943,
+    "representImageSource": "台南市政府",
+    "landScope": "六甲區港子頭段291地號",
+    "selfCoverage": "木造車站建築本體一棟",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "六甲區",
+            "id": 115743,
+            "caseId": 1694,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1630,
+            "address": "林鳳營16號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺南市",
+            "distName": "六甲區",
+            "landNoName": "港子頭段",
+            "id": 161592,
+            "caseId": 1694,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1630,
+            "landNoId": 2972,
+            "landSerialNo": "291地號",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 126180,
+            "caseId": 1694,
+            "caseStatus": true,
+            "registerDate": 1111115736000,
+            "officialDocNo": "府文資字第0940057308號函",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"臺南市六甲區港子頭段291地號\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

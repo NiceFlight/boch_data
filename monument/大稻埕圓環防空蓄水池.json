@@ -1,0 +1,112 @@
+{
+    "id": 83,
+    "caseId": "20030923000001",
+    "count": 3293,
+    "shareCount": 2,
+    "representImage": 185378,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/ac1df8f5-bafb-414f-a4d8-12a592c6f86c/代表圖像_大稻埕圓環防空蓄水池_20220725_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/ac1df8f5-bafb-414f-a4d8-12a592c6f86c/代表圖像_大稻埕圓環防空蓄水池_20220725.jpg",
+        "name": "代表圖像_大稻埕圓環防空蓄水池_20220725"
+    },
+    "caseName": "大稻埕圓環防空蓄水池",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "此古蹟為目前臺北市僅有出土之最大的防空蓄水池，位於重慶北路與南京西路交口之圓環位置，極具歷史價值，在1920年代，小販開始聚集於此，商業興盛。到了1943年，美軍轟炸臺灣，圓環攤販的商業行為也開始被政府禁止，並在圓環中央開挖防空蓄水池，以供空襲發生火災時汲水滅火。二次大戰後，防空壕、蓄水池等陸續被填平，圓環恢復往日盛景，夜晚時分販賣各地小吃、日用百貨，一度成為台北最旺盛的夜市，而地下建物則逐漸被人淡忘。民國九十一年四月間，市府新建圓環美食文化館工程開挖地面時，意外發現地下大片紅磚牆面，遂緊急停工，邀集文獻古蹟專家鑑定，確定為戰時防空蓄水池，高二點二公尺，直徑十一公尺，足以見證二次大戰期間台北市民生活，極具歷史價值。基於保存城市歷史記憶，工程單位配合辦理變更設計，採取原貌保存方式，與美食館合為一體，使此一珍貴歷史遺跡融入圓環地標。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "蓄水池",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 142050,
+            "name": "3._920923指定市定古蹟公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/4e809f00-5072-4751-b46a-292913668631/3._920923指定市定古蹟公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值"
+    ],
+    "registerReason": "具有保存價值",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 47581,
+            "name": "大稻埕圓環.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2018-02-22/9f69f288-00ee-475e-8be9-be5192a41fcb/大稻埕圓環.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "圓環專用區(兼供市場使用)",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "台北市大同區圓環段三小段四九三之二號",
+    "buildingFeatures": "民國九十一年四月間，市府新建圓環美食文化館工程開挖地面時，意外發現地下大片紅磚牆面，遂緊急停工，邀集文獻古蹟專家鑑定，確定為戰時防空蓄水池，高二點二公尺，直徑十一公尺，足以見證二次大戰期間台北市民生活，極具歷史價值。",
+    "inHouseFeatures": "",
+    "buildingUsage": "二次世界大戰末期，殖民政府為預防盟軍轟炸，停止攤販營業，並於圓環一帶建造防空壕和蓄水池，以供空襲時避難消防之用，老一輩民眾都還留有躲警報的印象。",
+    "buildingActualState": "基於保存城市歷史記憶，工程單位配合辦理變更設計，採取原貌保存方式，與美食館合為一體，使此一珍貴歷史遺跡融入圓環地標。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.5146522,
+    "latitude": 25.0537718,
+    "representImageSource": "臺北市文化局",
+    "landScope": "台北市大同區圓環段三小段四九三之二號",
+    "selfCoverage": "防空蓄水池",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 92611,
+            "caseId": 83,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "建成圓環"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "圓環段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 113098,
+            "caseId": 83,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 183,
+            "landSerialNo": "0493-0002",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "1265平方公尺",
+            "cityLandUseTypeOther": "圓環專用區",
+            "note": "因分割增加地號:493-3地號\n因分割增加地號:0493-0005地號",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 99904,
+            "caseId": 83,
+            "caseStatus": true,
+            "registerDate": 1064246400000,
+            "officialDocNo": "府文化字第09200516500號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "<台北市古蹟巡覽-上冊／策劃：臺北市文化局、藝術家出版社／發行：藝術家出版社／初版：2007年1月>"
+}

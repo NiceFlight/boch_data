@@ -1,0 +1,133 @@
+{
+    "id": 1281,
+    "caseId": "20040113000010",
+    "count": 1732,
+    "shareCount": 1,
+    "representImage": 184863,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-09-22/f850c6a6-82db-4068-9b47-7aa3c69bf9b9/IMG_5758_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-09-22/f850c6a6-82db-4068-9b47-7aa3c69bf9b9/IMG_5758.jpg",
+        "name": "IMG_5758"
+    },
+    "caseName": "大溪和平路茂發",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "茂發蘇宅原為三落二過水規模，與隔壁的廣大同時改建樓房而成現況。山尖形山牆上有植物紋飾的家徽、西洋式卷草、彩帶花籃、匾額題字及短柱柱頭作立體的螺旋紋，兩側有凹弧尖形的左右小山牆。茂發近年改建，除保留老街牌樓面與亭仔腳，在建築立面上也模仿老街的紋樣圖飾，維持了老街完整風貌。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "古市街類",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1073962712000,
+    "officialDocNo": "府文資字第0930534224號",
+    "documents": [
+        {
+            "fileid": 184860,
+            "name": "府文資字第10303236382號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-09-22/9dea7b55-8eb6-4c24-ad88-6902f2ade73e/府文資字第10303236382號.pdf"
+        },
+        {
+            "fileid": 184861,
+            "name": "府文資字第0930534224號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-09-22/5a93c836-2933-48d5-9324-d6870c77388b/府文資字第0930534224號.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "具有保存價值",
+    "lawsReference": "文化資產保存法第二十七條之一、歷史建築登錄輔助辦法第七條\n桃園縣九十二年九月十五日召開之歷史建築登錄審查會議決議",
+    "govInstitutionCode": "330",
+    "govInstitutionName": "桃園市政府",
+    "belongCityId": 5,
+    "belongCityName": "桃園市",
+    "belongDistName": "大溪區",
+    "govInstitution": "桃園市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-3322592分機8612",
+    "govDeptAddress": "桃園市桃園區縣府路21號",
+    "cadasters": [
+        {
+            "fileid": 184862,
+            "name": "地籍資料.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-09-22/d9506ff8-bfe2-4678-8097-ba002c60e661/地籍資料.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "桃園市大溪區和平段49地號",
+    "buildingFeatures": "立面採折衷樣式，清水磚砌三拱圈。",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "近年的改建，屋主除了保留原有老街牌樓面與亭仔腳外，在建築立面上也模仿老街的紋樣圖飾，維持老街街廓的完整。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "和平路28號",
+    "isOpenVisit": true,
+    "openUpTime": "",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.288400251751,
+    "latitude": 24.8847807162061,
+    "representImageSource": "桃園市政府文化局",
+    "landScope": "桃園市大溪區和平段49地號，面積計16平方公尺",
+    "selfCoverage": "桃園市大溪區和平路28號騎樓",
+    "addresses": [
+        {
+            "cityName": "桃園市",
+            "distName": "大溪區",
+            "id": 149700,
+            "caseId": 1281,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 510,
+            "address": "和平路28號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "桃園市",
+            "distName": "大溪區",
+            "landNoName": "和平段",
+            "cityLandUseTypeName": "商業區",
+            "id": 207548,
+            "caseId": 1281,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 510,
+            "landNoId": 7662,
+            "landSerialNo": "49",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "area": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 162943,
+            "caseId": 1281,
+            "caseStatus": true,
+            "registerDate": 1073962712000,
+            "officialDocNo": "府文資字第0930534224號",
+            "classificationId": 1
+        },
+        {
+            "id": 162944,
+            "caseId": 1281,
+            "caseStatus": true,
+            "registerDate": 1421078400000,
+            "officialDocNo": "府文資字第10303236382號",
+            "classificationId": 2,
+            "note": "行政改制"
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.28839363351557,24.884774991968342],[121.28847408162284,24.885019832473592],[121.28851852868056,24.885005725388872],[121.28843883560168,24.884762129374497],[121.28839363351557,24.884774991968342],[121.28839363351557,24.884774991968342]]]]},\"properties\":{\"envelope\":{\"left\":\"121.28839363351557\",\"top\":\"24.884762129374497\",\"right\":\"121.28851852868056\",\"bottom\":\"24.885019832473592\"},\"landLot\":\"桃園市大溪區和平段49\"}}],\"notfound\":[]}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": "桃園市文化資產導覽手冊"
+}

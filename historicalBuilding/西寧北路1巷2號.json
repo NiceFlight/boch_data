@@ -1,0 +1,100 @@
+{
+    "id": 17683,
+    "caseId": "20200720000005",
+    "count": 2099,
+    "shareCount": 2,
+    "representImage": 70236,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/485aba7b-8ba9-4ff2-b539-e413389f3db5/IMG_3242_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/485aba7b-8ba9-4ff2-b539-e413389f3db5/IMG_3242.jpg",
+        "name": "IMG_3242"
+    },
+    "caseName": "西寧北路1巷2號",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "為1932年建單棟高階官員宿舍，為鐵道部官舍建築群之一",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 70237,
+            "name": "1090601北市文化文資字第10930212081號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/5a9a5047-e108-4cfe-a89e-2823a49103b9/1090601北市文化文資字第10930212081號公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1.\t建築形式日式1層樓木構屋瓦構造，惟外觀舊物尚存，有修復之可行性，屋頂為四坡水和式屋架，牆體為編竹夾泥牆，具建築類型特色。\n2.\t為1932年建單棟高階官員宿舍，為鐵道部官舍建築群之一（處長宿舍），具歷史意義及整體性價值。\n3.\t臺北北門外鄭州路、延平北路、忠孝西路、西寧北路所圍合之區域，歷經清朝機器局，及日治時期砲兵工廠、鐵道部等時期，見證臺北城現代化之歷程。\n",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 70238,
+            "name": "1090601公告_地形地籍示意圖（奉核）.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/4622ca94-0e6d-4ebf-b0d2-0f5eaf0a049d/1090601公告_地形地籍示意圖（奉核）.pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.50830694027104,
+    "latitude": 25.049255298786594,
+    "representImageSource": "文化局",
+    "landScope": "臺北市大同區玉泉段二小段371-19地號等1筆土地。",
+    "selfCoverage": "大同區玉泉段二小段371-19地號（部分，該筆土地面積為2,481平方公尺）地號等1筆土地。（實際保存面積須以保存範圍實測數據為準）",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 60974,
+            "caseId": 17683,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "西寧北路1巷2號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "玉泉段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 47817,
+            "caseId": 17683,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 191,
+            "landSerialNo": "371-19",
+            "cityLandUseTypeId": 10,
+            "area": "2481",
+            "cityLandUseTypeOther": "交通廣場用地",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 63830,
+            "caseId": 17683,
+            "caseStatus": true,
+            "registerDate": 1590940800000,
+            "officialDocNo": "北市文化文資字第10930212081號",
+            "classificationId": 1,
+            "note": " "
+        }
+    ],
+    "openVisitType": ""
+}

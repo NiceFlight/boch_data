@@ -1,0 +1,102 @@
+{
+    "id": 17655,
+    "caseId": "20200611000023",
+    "count": 134,
+    "shareCount": 0,
+    "representImage": 69637,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-06-11/6ad758de-dea5-4010-8a58-55250f70cf73/41北宋至金 定窯白瓷印花瑞獸紋花式洗_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-06-11/6ad758de-dea5-4010-8a58-55250f70cf73/41北宋至金 定窯白瓷印花瑞獸紋花式洗.jpg",
+        "name": "41北宋至金 定窯白瓷印花瑞獸紋花式洗"
+    },
+    "caseName": "北宋至金 定窯白瓷印花瑞獸紋花式洗",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1589858653530,
+    "officialDocNo": "文授資局物字第10930056341號",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "數量特別稀少或具完整性保存意義者",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此器曾收入由乾隆皇帝主導，完成於乾隆五十一年（1786）名為「珍陶萃美」的多寶格，整件作品的造型特徵也繪入典藏圖冊中，益顯珍貴。此器呈花邊口，淺壁，平底無足。器底心印異獸一隻，邊印回紋一周。薄胎骨，釉色微灰，口沿露胎。傳世帶木座，底刻「宋定窯瑞獸洗」、「甲」字和「古稀天子御玩」。因木座刻出與圖冊所見相同品名，足見圖冊所畫正是這件作品，而得知乾隆皇帝降旨組合此類瓷器多寶格，除了配製收納的匣盒之外，同時亦考慮到陳設的可能性，遂逐一加配木座以兼顧實用與美感需求。透過木座底部標記而出，同時涵蓋甲、乙兩種等第的記號，也得知乾隆皇帝確實效法前人積極為文物建等；以及此類多寶格並不單以收納甲等文物為主。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故瓷9305",
+    "amount": 1,
+    "descAge": "北宋至金",
+    "descSize": "高2.5公分，口徑14.9×14.3公分，底徑11.5公分",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "此器呈十六瓣花邊口，淺弧壁，平底，無足。全器施牙白色釉，釉色偏黃。口沿無釉露白胎，底面施釉，故知使用覆燒法燒製。底面飾一瑞獸，外繞回紋一周。\n\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "口緣有傷。",
+    "documents": [
+        {
+            "fileid": 144488,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-10/1735b88f-46b8-4c2c-9d75-be1640baa6f5/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": " ",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 67147,
+            "caseId": 17655,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 71353,
+            "caseId": 17655,
+            "caseStatus": true,
+            "registerDate": 1589858653530,
+            "officialDocNo": "文授資局物字第10930056341號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

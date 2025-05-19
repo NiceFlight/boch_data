@@ -1,0 +1,108 @@
+{
+    "id": 120,
+    "caseId": "20070411000003",
+    "count": 3226,
+    "shareCount": 2,
+    "representImage": 142382,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/5332e41b-6d5c-4ec7-b615-e2155f6eb50b/B245 台北市 國立臺灣大學日式宿舍 青田街7巷2號 (直轄定)01_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/5332e41b-6d5c-4ec7-b615-e2155f6eb50b/B245 台北市 國立臺灣大學日式宿舍 青田街7巷2號 (直轄定)01.JPG",
+        "name": "B245 台北市 國立臺灣大學日式宿舍 青田街7巷2號 (直轄定)01"
+    },
+    "caseName": "國立臺灣大學日式宿舍－青田街7巷2號",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "本區日式住宅約建於1930年代，由臺北帝國大學(臺灣大學前身)教授及臺北高商(台灣大學法學院前身)佐藤佐教授等發起由學人教授自資興建供為住家使用之建築。建築形式完整，現為臺灣大學宿舍。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 142383,
+            "name": "3._960411指定市定古蹟公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/61e7884a-83eb-4d60-a87d-850092be7b02/3._960411指定市定古蹟公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "具建築史上之意義，有再利用之價值及潛力者"
+    ],
+    "registerReason": "1.建於1930年代的臺北帝大教授宿舍，當時由日人教授自資興建，建築格局、形式與一般官式宿舍不同。\r\n2.戰後為臺灣大學獸醫系劉榮標教授寓所，建物原材料百分比極高，包括玄關、客廳應接室及後面長廊均為原物。後院有心形池，為日據時期大宅常有之設計。\r\n3.住宅坐南朝北，面臨東西向巷道，可見證日據時期臺北市日式宿舍群之規劃配置及都市建築紋理。",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、5款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 142384,
+            "name": "76180760-36f9-41c2-94ad-514680d3ee1b.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/e1e95daa-97af-496b-aeed-9ea59f2831a9/76180760-36f9-41c2-94ad-514680d3ee1b.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "locationLandNo": "臺北市大安區金華段2小段0228-0000地號土地",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "建築物形式完整，保存良好，由臺灣大學辦理委外經營管理。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.532112,
+    "latitude": 25.0279769,
+    "representImageSource": "文化局",
+    "landScope": "臺北市大安區金華段2小段0228-0000地號土地",
+    "selfCoverage": "金華段二小段7建號",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 66250,
+            "caseId": 120,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "青田街7巷2號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "金華段二小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 60366,
+            "caseId": 120,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 721,
+            "landSerialNo": "228",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "area": "683",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 70420,
+            "caseId": 120,
+            "caseStatus": true,
+            "registerDate": 1176220800000,
+            "officialDocNo": "府文化二字第09630239600 號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

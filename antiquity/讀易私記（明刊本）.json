@@ -1,0 +1,105 @@
+{
+    "id": 3350,
+    "caseId": "20140425000006",
+    "count": 44,
+    "shareCount": 0,
+    "representImage": 5825,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/6992/photo/讀易私記（明刊本）_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/6992/photo/讀易私記（明刊本）.jpg",
+        "name": "讀易私記（明刊本）"
+    },
+    "caseName": "讀易私記（明刊本）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1398355200000,
+    "officialDocNo": "10320044271",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "明崇禎辛未（四年, 1631） 清白堂刊本。\r\n黃光昇（1506-1586），字明舉，號葵峰，明福建晉江人，嘉靖八年（1529）進士，諡恭肅。\r\n撰者少學《易》於先人，因一一私記而成是編。以世之言《易》者，假象立教而滯於事，去聖人之旨遠矣。唯彖、象所言，不失卦爻辭之旨。\r\n明代罕見之版本，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第1項第5、6款指定基準。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號00084",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 12,
+    "notes": "",
+    "descAge": "明崇禎辛未",
+    "descCreator": "黃光昇",
+    "descSize": "半葉12行，版匡18.9x13.1公分。",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "十卷。\r\n有蟲蛀，經二次修裱，保存情況良好。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 5826,
+            "name": "7cdb2ae1-1b5b-458b-bcf7-2877b829f8c7.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43966/file/7cdb2ae1-1b5b-458b-bcf7-2877b829f8c7.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3492,
+            "caseId": 3350,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3492,
+            "caseId": 3350,
+            "caseStatus": true,
+            "registerDate": 1398355200000,
+            "officialDocNo": "10320044271",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

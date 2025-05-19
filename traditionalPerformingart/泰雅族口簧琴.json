@@ -1,0 +1,104 @@
+{
+    "id": 2425,
+    "caseId": "20120521000002",
+    "count": 1622,
+    "shareCount": 1,
+    "representImage": 54090,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-01-11/5a27bfeb-12a4-463e-a1ee-18c04b672156/IMG_8095_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-01-11/5a27bfeb-12a4-463e-a1ee-18c04b672156/IMG_8095.jpg",
+        "name": "IMG_8095"
+    },
+    "caseName": "泰雅族口簧琴",
+    "classifyCode": "4.1",
+    "classifyName": "傳統表演藝術",
+    "assetsTypeNames": "音樂",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "4.1.1",
+    "assetsClassifyName": "傳統表演藝術",
+    "registerDate": 1337586093000,
+    "officialDocNo": "1020004776",
+    "documents": [
+        {
+            "fileid": 135703,
+            "name": "泰雅族口簧琴(多乃、漢名-梁玉水)-公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-08-30/10a443d8-1d1c-4585-af5c-b7ae095c36b3/泰雅族口簧琴(多乃、漢名-梁玉水)-公告.pdf"
+        },
+        {
+            "fileid": 224264,
+            "name": "泰雅族口簧琴-傳統藝術變更為傳統表演藝術公告-1081119.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-05-26/eeac0b3e-1ac0-4374-9d32-1a947caebf7a/泰雅族口簧琴-傳統藝術變更為傳統表演藝術公告-1081119.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "地方性:傳統藝術領域有價值與地位,並具有地方色彩或流派特色顯著者"
+    ],
+    "registerReason": "1.以泰雅族具代表性的生活樂器（口簧琴）呈現泰雅常民音樂的價值與特色。\n2.吹奏口簧琴技能特殊，技法瀕臨失傳。\n3.兼具口簧琴吹奏與製作技藝，致力教學與傳承工作。",
+    "lawsReference": "符合文化資產保存法第59條第4項規定訂定之「傳統藝術民俗及有關文物登錄指定及廢止審查辦法」第2條第1項第1款第1、2、3目之登錄基準。",
+    "govInstitutionCode": "360",
+    "govInstitutionName": "苗栗縣政府",
+    "belongCityId": 8,
+    "belongCityName": "苗栗縣",
+    "govInstitution": "苗栗縣政府文化觀光局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "037-352961#713",
+    "govDeptAddress": "苗栗市自治路50號",
+    "belongAddress": "苗栗縣",
+    "historyDevelopment": "暫無",
+    "preservers": [
+        {
+            "id": 17878,
+            "type": "個人",
+            "caseName": "梁玉水（多乃）",
+            "cityName": "苗栗縣",
+            "distName": "泰安鄉",
+            "caseArtistEntities": [],
+            "representImage": 137038,
+            "registrationDate": 1369065600000,
+            "patentNo": "傳統表演藝術類第○○三",
+            "judgeCriteria": [
+                "熟知並能正確體現該登錄項目之知識、技藝與文化表現形式，並具代表性",
+                "具該登錄項目之傳習能力與意願",
+                "在文化脈絡下為適當者"
+            ],
+            "registerReason": "少數仍製作泰雅口簧琴的師傅。",
+            "lawsReference": "符合文化資產保存法第59條第4項規定訂定之「傳統藝術民俗及有關文物登錄指定及廢止審查辦法」第2條第1項第1款第1、2、3目之登錄基準。",
+            "isOpenDownload": false,
+            "representImageSource": "苗栗縣政府文化觀光局",
+            "contactorIsOpen": false
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "苗栗縣政府文化觀光局",
+    "addresses": [
+        {
+            "cityName": "苗栗縣",
+            "id": 110574,
+            "caseId": 2425,
+            "caseStatus": true,
+            "cityId": 8,
+            "address": "苗栗縣"
+        }
+    ],
+    "announces": [
+        {
+            "id": 119566,
+            "caseId": 2425,
+            "caseStatus": true,
+            "registerDate": 1369065600000,
+            "officialDocNo": "府文資字第1020004776號",
+            "classificationId": 1
+        },
+        {
+            "id": 119567,
+            "caseId": 2425,
+            "caseStatus": true,
+            "registerDate": 1574092800000,
+            "officialDocNo": "府文資字第1080014338B號",
+            "classificationId": 2
+        }
+    ]
+}

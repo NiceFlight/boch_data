@@ -1,0 +1,100 @@
+{
+    "id": 18016,
+    "caseId": "20201209000008",
+    "count": 182,
+    "shareCount": 0,
+    "representImage": 78821,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-12-09/5da8765a-0040-4b44-a722-34debd067f59/案006-1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-12-09/5da8765a-0040-4b44-a722-34debd067f59/案006-1.jpg",
+        "name": "案006-1"
+    },
+    "caseName": "象牙雕八仙過海",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1606361896853,
+    "officialDocNo": "北市獻編字第1093004298號",
+    "judgeCriteria": [
+        "有地方重要人物或歷史事件之深厚淵源者"
+    ],
+    "registerReason": "1.嚴家收藏，為祝壽賀壽禮物，為重要人物史事。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第2款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "內湖區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174-1號",
+    "reservationCode": "典藏 I006",
+    "amount": 1,
+    "descAge": "1960年代",
+    "descSize": "扇形長： 26 公分、 高：7公分",
+    "descMaterial": "象牙",
+    "reserveStatusDesc": "“八仙過海，各顯神通”。此象牙以片狀雕鏤刻出八仙乘龍船一式，雖為弧形片狀，然兩面皆精細雕刻，呈現立體式樣。\n雕刻上具體表現出 八仙來祝壽的歡樂氣氛位於船首的鐘離權手持扇子呂洞賓手持寶劍，曹國舅手持玉板，張果老手持魚鼓，李鐵拐手持葫蘆，藍采和手持花籃，韓湘子手持笛子船尾 何仙姑手持荷花及划槳併乘坐龍首形船隻，頂上還有蝙蝠、鶴啣佛珠，代表了人們美好的願望和追求，也表明了中國人崇尚各有所能、各顯神通及八仙祝壽的文化。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "民國 5 0 年代 地點： 台北市 ",
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定。",
+    "documents": [
+        {
+            "fileid": 78822,
+            "name": "臺北市公告指定一般古物1091126.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-09/54b0e431-b0ee-4632-9d9f-c76f9cbf51af/臺北市公告指定一般古物1091126.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.51984879730222,
+    "latitude": 25.032456306173696,
+    "representImageSource": "嚴○泰/嚴○隆",
+    "keepNames": [
+        {
+            "keepNameIdStr": "嚴○泰/嚴○隆",
+            "keepName": "嚴○泰/嚴○隆",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "嚴○泰/嚴○隆",
+            "keepAddressNew": "台北市內湖區行忠路2號2樓",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "宅第",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "內湖區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 68653,
+            "caseId": 18016,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 72753,
+            "caseId": 18016,
+            "caseStatus": true,
+            "registerDate": 1606361896853,
+            "officialDocNo": "北市獻編字第1093004298號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

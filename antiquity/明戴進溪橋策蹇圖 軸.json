@@ -1,0 +1,106 @@
+{
+    "id": 16653,
+    "caseId": "20190319000002",
+    "count": 197,
+    "shareCount": 1,
+    "representImage": 56068,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-03-19/aa87909c-231e-4248-9742-89ec21c7dfad/24-故畫000403_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-03-19/aa87909c-231e-4248-9742-89ec21c7dfad/24-故畫000403.jpg",
+        "name": "24-故畫000403"
+    },
+    "caseName": "明戴進溪橋策蹇圖 軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1550469645341,
+    "officialDocNo": "文授資局物字第10830017351號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色之代表性",
+        "具有獨特藝術造詣或科學成就",
+        "對知識、技術或流派發展具特殊影響或意義"
+    ],
+    "registerReason": "戴進（1388-1462），明代畫家，為「浙派」倡始者。其畫風源於南宋院畫體系，又加入了縱逸奔放的新面目，樹立明代「浙派」山水風格，成為後世學習楷模，被奉為浙派之祖。\n〈溪橋策蹇〉前景流水湍急，亂石橫壘，後方懸崖峭立，山峰突起，一隊行旅正跨越木橋；右後半邊為開闊水面，遠山帆影，漁夫垂釣，映對出另一悠閒風情。對角線的構圖，源自南宋院體；樹木線條及苔點，用筆蒼潤渾厚，蘊含元代吳鎮（1280-1354）、盛懋（約活動於14世紀前半葉）等人面貌；而樹石輪廓勾勒，則見疾速奔放。\n此幅兼具典雅空靈與簡勁縱逸兩種面貌，可謂戴進過渡性階段的典型風範，具有獨特藝術造詣，且顯現浙派畫風特色之代表性，對流派發展具特殊意義。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第4條第3、4、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故畫000403",
+    "amount": 1,
+    "descAge": "明",
+    "descSize": "137.5×63.1公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "戴進（1388-1462），字文進，號靜庵，浙江錢塘人。樹立明代「浙派」山水風格，成為後世學習楷模，被奉為浙派之祖。\n前景流水湍急，亂石橫壘，後方懸崖峭立，山峰突起，一隊行旅正跨越木橋；右後半邊為開闊水面，遠山帆影，漁夫垂釣，映對出另一悠閒風情。對角線的構圖，源自南宋院體；樹木線條及苔點，用筆蒼潤渾厚，蘊含元代吳鎮（1280-1354）、盛懋（約活動於14世紀前半葉）等人面貌；而樹石輪廓勾勒，則見疾速奔放。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "包首：傷補、霉傷。本幅：蟲蛀、傷補、霉傷、折裂。本幅絹裂摺痕刮痕磨傷損。",
+    "documents": [
+        {
+            "fileid": 146762,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-01/fb255c51-4696-415e-9da5-b0fe592fc3f3/公告.pdf"
+        },
+        {
+            "fileid": 146763,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-01/a3c05503-7fcd-45f3-b335-850e99c1ae91/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 75773,
+            "caseId": 16653,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 81021,
+            "caseId": 16653,
+            "caseStatus": true,
+            "registerDate": 1550469645341,
+            "officialDocNo": "文授資局物字第10830017351號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

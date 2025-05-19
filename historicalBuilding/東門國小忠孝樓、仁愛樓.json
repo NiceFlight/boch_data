@@ -1,0 +1,102 @@
+{
+    "id": 18088,
+    "caseId": "20201203000002",
+    "count": 2665,
+    "shareCount": 1,
+    "representImage": 169264,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/333ab60c-a489-4d87-b0de-9e8dade86006/代表圖像_東門國小忠孝樓、仁愛樓_20220621_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/333ab60c-a489-4d87-b0de-9e8dade86006/代表圖像_東門國小忠孝樓、仁愛樓_20220621.jpeg",
+        "name": "代表圖像_東門國小忠孝樓、仁愛樓_20220621"
+    },
+    "caseName": "東門國小忠孝樓、仁愛樓",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "清冊無",
+    "assetsTypeNames": "學校",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 77445,
+            "name": "用印公告(含圖).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/c2c668d2-6817-4438-b405-76c1214406fc/用印公告(含圖).pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1、東門國小原為總督府國語學校附屬小學校，為日治時期東門地區重要小學，1896年創立，1905年遷至現址，1915年改稱臺北城東尋常小學，1922年更名為旭小學校，光復後改為東門國小。\n2、東門國小忠孝樓與仁愛樓興建於1933年，為日治昭和時期小學校舍代表案例，格局完整，現狀維持仍佳。「仁愛樓、忠孝樓」外觀主要為洗石子，教室均設上、下鑄鐵通氣孔；入口川廊、雨庇前後廊、垃圾管道，皆具特色。\n3、符合歷史建築紀念建築登錄廢止審查及輔助辦法第2條第1項第2、3款登錄基準。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第2、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 77446,
+            "name": "公告附件-範圍示意圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/5eeb81f4-d736-4907-becc-70e4a7537c07/公告附件-範圍示意圖.pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isCharge": false,
+    "longitude": 121.52055452345337,
+    "latitude": 25.03859758847014,
+    "representImageSource": "臺北市文化局",
+    "landScope": "中正區中正段三小段103地號（部分）（實際保存面積須以保存範圍實測數據為準）",
+    "selfCoverage": "歷史建築本體為「忠孝樓、仁愛樓（不含後期增建）」建築本體，建物為中正區中正段三小段270-1建號（部分，該筆建物總面積為15,065.24平方公尺）（實際保存面積須以保存範圍實測數據為準）",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 82840,
+            "caseId": 18088,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "仁愛路1段2之4號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "中正段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 91814,
+            "caseId": 18088,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 135,
+            "landSerialNo": "103",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "20,369平方公尺",
+            "cityLandUseTypeOther": "公共設施用地（國小用地）",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 88968,
+            "caseId": 18088,
+            "caseStatus": true,
+            "registerDate": 1605456000000,
+            "officialDocNo": "北市文化文資字第10930392401號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": ""
+}

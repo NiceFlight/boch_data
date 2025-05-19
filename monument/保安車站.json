@@ -1,0 +1,104 @@
+{
+    "id": 628,
+    "caseId": "20011231000001",
+    "count": 3950,
+    "shareCount": 5,
+    "representImage": 1235,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/37890/photo/effa9e1a-0283-42c6-9541-a305a57f0755_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/37890/photo/effa9e1a-0283-42c6-9541-a305a57f0755.jpg",
+        "name": "effa9e1a-0283-42c6-9541-a305a57f0755"
+    },
+    "caseName": "保安車站",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "一、現存的保安車站是明治四十二年（西元1909年）為配合車路墘製糖所（今仁德虎山糖廠）運輸需要，由原站北遷1.5公里重建而成。\r\n二、該車站站房於民國三十六年四月三十日接管而來。",
+    "assetsTypeNames": "車站",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "registerDate": 1009777884000,
+    "officialDocNo": "府文資字第186903號",
+    "documents": [
+        {
+            "fileid": 107508,
+            "name": "124保安車站公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-04-27/0bb60959-2ea7-4d7e-bfcc-af6d26ed2897/124保安車站公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "具稀少性，不易再現者",
+        "具建築史上之意義，有再利用之價值及潛力者"
+    ],
+    "registerReason": "保安車站在地方交通史上有重要價值。並且已成為鐵道文化的重要景點之一，因此若能加以保存，則將對鐵道文化之提昇有所助益。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "仁德區",
+    "govInstitution": "臺南市文化資產管理處",
+    "govDeptName": "有形資產組",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區 中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 142238,
+            "name": "保安車站地籍地圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-11-01/7cbe4d96-4119-4e65-9d84-9add37e3177e/保安車站地籍地圖.jpg"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 2,
+    "nonCityLandUseTypeName": "一般農業區",
+    "nonCityLandUseSubTypeId": 11,
+    "nonCityLandUseSubTypeName": "交通",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "仁德區車頭段120地號",
+    "buildingFeatures": "保安車站在地方交通史上有重要價值。並且已成為鐵道文化的重要景點之一，因此若能加以保存，則將對鐵道文化之提昇有所助益。 \r\n\r\n　",
+    "inHouseFeatures": "室內建材為木造建築",
+    "buildingUsage": "在地方交通史上具有重要價值。並且已成為鐵道文化的重要景點之一。",
+    "buildingActualState": "代表台鐵早期木造車站之典型。名為保安，塑造新景點與訴求，發展潛力亦佳。",
+    "buildingKeyMaintainItem": "1、保安車站之色彩、站名牌及內部部分，如售票口等已非原貌，如今後修護時可予以恢復原貌。\r\n\r\n2、修護須完全修護日治末期、二戰後初期風貌。\r\n\r\n3、門口的郵箱可建議郵局更換為老式圖形的郵筒。",
+    "bulkTransfer": 0,
+    "wenSitename": "台南縣政府觀光旅遊網",
+    "wenSiteaddress": "http://tour.tainan.gov.tw/view.aspx?sn=137",
+    "belongAddress": "臺南市仁德區保安村文賢路一段529巷10號",
+    "isOpenDownload": false,
+    "longitude": 120.231629841511,
+    "latitude": 22.9329539990343,
+    "representImageSource": "台南市政府",
+    "landScope": "仁德區車頭段120、126、127、141、142、143、200、201、232地號",
+    "selfCoverage": "車站本體及北側站長宿舍 ",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "仁德區",
+            "id": 66151,
+            "caseId": 628,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1615,
+            "address": "臺南市仁德區保安村文賢路一段529巷10號"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 70308,
+            "caseId": 628,
+            "caseStatus": true,
+            "registerDate": 1009777884000,
+            "officialDocNo": "府文資字第186903號",
+            "classificationId": 1
+        }
+    ],
+    "openVisitType": "",
+    "openUpTime": "日間",
+    "isCharge": false,
+    "pastHistorySource": "現場訪談"
+}

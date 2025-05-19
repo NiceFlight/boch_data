@@ -1,0 +1,101 @@
+{
+    "id": 4276,
+    "caseId": "20090508000040",
+    "count": 116,
+    "shareCount": 0,
+    "representImage": 7202,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36690/photo/c5441e1e-9e08-4784-b472-bfc8a7244c26_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36690/photo/c5441e1e-9e08-4784-b472-bfc8a7244c26.jpg",
+        "name": "c5441e1e-9e08-4784-b472-bfc8a7244c26"
+    },
+    "caseName": "西北岡1022號祭祀坑酒器組",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1241712000000,
+    "officialDocNo": "會授資籌二字第0982105246號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本組出土於西北岡祭祀坑第1022號，全墓長2.3公尺，寬0.8-0.9公尺，墓坑不大但出土10件製作精良的酒器，分別為2爵、1觚、2觶、1角、2斝、1卣、1彝。10件器物中的角和卣皆為目前考古發現以來唯一的一件。10件器物中有二件器物有銘文，一件為爵鋬內的「中」字，以及彝蓋及器內的「右」字，多數學者認為與祭祀擺放的位置及其組件有關。10件器物呈現考古出土脈絡，器物完整而精美，具有重要歷史、文化、科學、藝術價值。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第4條第1項第1、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "南港區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "R001071；R001094；R001029；R001050；R001051；R001075；R001076；R001077；R001114；R001113",
+    "amount": 10,
+    "notes": "",
+    "descAge": "商（後期）",
+    "descCreator": "",
+    "descSize": "通高28公分",
+    "descMaterial": "青銅",
+    "reserveStatusDesc": "本組出土於西北岡祭祀坑第1022號，全墓長2.3公尺，寬0.8-0.9公尺，墓坑不大但出土10件製作精良的酒器，分別為2爵、1觚、2觶、1角、2斝、1卣、1彝。10件器物中的角和卣皆為目前考古發現以來唯一的一件。10件器物中有二件器物有銘文，一件為爵鋬內的「中」字，以及彝蓋及器內的「右」字，多數學者認為與祭祀擺放的位置及其組件有關。",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "1934年；河南安陽西北崗墓1022出土",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定 ",
+    "documents": [
+        {
+            "fileid": 53910,
+            "name": "20090508公告.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-01-08/83e77c25-007e-4f6a-9124-d29e0ecdf24a/20090508公告.jpg"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "中研院歷史語言研究所",
+    "keepNames": [
+        {
+            "keepNameIdStr": "中央研究院歷史語言研究所",
+            "keepName": "中研院歷史語言研究所",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "中央研究院歷史語言研究所",
+            "keepAddressNew": "115台北市南港區研究院路二段130號",
+            "saveSpaceIdStr": "研究設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "南港區",
+            "keepNameAddress": "研究院路二段130號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "南港區",
+            "id": 116446,
+            "caseId": 4276,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 111
+        }
+    ],
+    "announces": [
+        {
+            "id": 127147,
+            "caseId": 4276,
+            "caseStatus": true,
+            "registerDate": 1241712000000,
+            "officialDocNo": "會授資籌二字第0982105246號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

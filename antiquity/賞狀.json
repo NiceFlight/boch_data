@@ -1,0 +1,103 @@
+{
+    "id": 5058,
+    "caseId": "20170925000012",
+    "count": 292,
+    "shareCount": 0,
+    "representImage": 63020,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-12-05/e22e2078-e05c-4ef5-bebc-f25db146ee60/賞狀1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-12-05/e22e2078-e05c-4ef5-bebc-f25db146ee60/賞狀1.jpg",
+        "name": "賞狀1"
+    },
+    "caseName": "賞狀",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-其他",
+    "otherAssetsType": "證書",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1505706852726,
+    "officialDocNo": "北市獻編字第10630553000號",
+    "judgeCriteria": [
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "數量稀少者",
+        "對地方或族群知識、技術或流派發展具影響或意義"
+    ],
+    "registerReason": "1.明治年間，時間久遠，亦稀少。\n2.該校為承續1895年芝山巖學堂之最早老學校，所存校方文獻史籍(書類、帳冊、證明\n   書類)，均值得保存，為臺灣地區近代教育史留下見證。\n",
+    "lawsReference": "符合古物分級指定及廢止審查辦法第 2 條第2、3、5、6款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "研究員",
+    "govDeptPhone": "02-23115355#20",
+    "govDeptAddress": "臺北市萬華區中華路1段174-1",
+    "reservationCode": "無",
+    "amount": 1,
+    "descAge": "1911年(明治44年)",
+    "descSize": "32cm*43cm*2cm",
+    "descMaterial": "紙質",
+    "reserveStatusDesc": "日本時期留下之獎狀",
+    "pastHistorySource": 1,
+    "saveEnvironment": 1,
+    "reserveStatus": "有摺痕、尚完整",
+    "documents": [
+        {
+            "fileid": 15969,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2017-09-25/c73a2478-b039-4e02-a689-d2f53c5a1dd1/公告.pdf"
+        },
+        {
+            "fileid": 47408,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-01-16/b7b21046-10d0-4501-898c-641ca07bfe64/公告表.pdf"
+        }
+    ],
+    "representImageSource": "臺北市士林區士林國民小學",
+    "keepNames": [
+        {
+            "keepNameIdStr": "臺北市士林區士林國民小學",
+            "keepName": "羅麗文",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "臺北市士林區士林國民小學",
+            "keepAddressNew": "臺北市士林區大東路165號",
+            "saveSpaceIdStr": "學校",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameAddress": "大東路一六五號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 5196,
+            "caseId": 5058,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108
+        }
+    ],
+    "announces": [
+        {
+            "id": 5196,
+            "caseId": 5058,
+            "caseStatus": true,
+            "registerDate": 1505706852726,
+            "officialDocNo": "北市獻編字第10630553000號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

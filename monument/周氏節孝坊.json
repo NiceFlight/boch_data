@@ -1,0 +1,121 @@
+{
+    "id": 164,
+    "caseId": "19850819000023",
+    "count": 2509,
+    "shareCount": 1,
+    "representImage": 185392,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/6d1011be-219b-41bb-857c-013d72ad471d/代表圖像_周氏節孝坊_20220801_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/6d1011be-219b-41bb-857c-013d72ad471d/代表圖像_周氏節孝坊_20220801.jpg",
+        "name": "代表圖像_周氏節孝坊_20220801"
+    },
+    "caseName": "周氏節孝坊",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "三級古蹟「周氏節孝坊」，位於北投區豐年路一段三十六號前，係為表彰周氏而建。周氏名絹，生於清乾隆五十三年〈西元一七八八年〉，卒於道光二十六年〈西元一八四六年〉。早年喪夫守節撫孤，侍奉翁姑至孝。其堅貞事蹟，經禮部職名閩浙總督劉珂等於道光三十年〈西元一八五０年〉題准建坊。坊成於咸豐十一年〈西元一八六一年〉。此坊原為四柱三間三層石造，光緒二十三年〈西元一八九七年〉大地震，坊自二層以下部分倒塌，近年由市政府予以復原整修，現已成為當地街巷之重要地標。",
+    "assetsTypeNames": "牌坊",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 137236,
+            "name": "周氏節孝坊740829台閩地區古蹟指定函(2).tif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/c455364a-fc2b-491b-8514-c7b63c2dcb11/周氏節孝坊740829台閩地區古蹟指定函(2).tif"
+        },
+        {
+            "fileid": 137237,
+            "name": "周氏節孝坊740829台閩地區古蹟指定函(1).tif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/a677b851-8a61-4c5a-a71e-5bebc67364e9/周氏節孝坊740829台閩地區古蹟指定函(1).tif"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值"
+    ],
+    "registerReason": "具有保存價值",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 137238,
+            "name": "1abbc496-22c9-4c1c-8b4d-3f2ce54ab2bb.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/c594ce20-613b-4a6e-a339-dd6724d7684b/1abbc496-22c9-4c1c-8b4d-3f2ce54ab2bb.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市北投區大業段二小段307地號",
+    "buildingFeatures": "前由市政府予以復原整修，現已成為當地街巷之重要地標。",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "平時有老人在此聊天，夜間有夜間部學生停放機車，亦有大學生到此拍照",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenDownload": false,
+    "longitude": 121.4977834,
+    "latitude": 25.1341265,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市北投區大業段二小段307地號",
+    "selfCoverage": "本體",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "id": 92623,
+            "caseId": 164,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "address": "豐年路1段36號門口"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "landNoName": "大業段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 113117,
+            "caseId": 164,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "landNoId": 651,
+            "landSerialNo": "0307-0000",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "945平方公尺",
+            "cityLandUseTypeOther": "道路用地",
+            "note": "重測前:北投段588-3地號",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 99918,
+            "caseId": 164,
+            "caseStatus": true,
+            "registerDate": 493228800000,
+            "officialDocNo": "七十四台內民字第338095號",
+            "classificationId": 1,
+            "note": "無"
+        }
+    ],
+    "openVisitType": "",
+    "openUpTime": "",
+    "isCharge": false,
+    "pastHistorySource": ""
+}

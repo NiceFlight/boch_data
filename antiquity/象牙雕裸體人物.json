@@ -1,0 +1,100 @@
+{
+    "id": 18170,
+    "caseId": "20201215000001",
+    "count": 77,
+    "shareCount": 1,
+    "representImage": 89826,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-12-15/58fa6039-7eba-45b2-85e7-fe3121f5936b/案010-1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-12-15/58fa6039-7eba-45b2-85e7-fe3121f5936b/案010-1.jpg",
+        "name": "案010-1"
+    },
+    "caseName": "象牙雕裸體人物",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1606376446812,
+    "officialDocNo": "北市獻編字第1093004298號",
+    "judgeCriteria": [
+        "對地方或族群知識、技術或流派發展具影響或意義"
+    ],
+    "registerReason": "為非洲人物工藝寫真之雕刻藝術，表現地方工藝特色，對技術、流派具有意義。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第6款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "內湖區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174-1號",
+    "reservationCode": "典藏 I010",
+    "amount": 1,
+    "descAge": "1970年",
+    "descSize": "高25公分",
+    "descMaterial": "象牙",
+    "reserveStatusDesc": "藝術家以象牙為材料雕刻出非洲女性美麗的裸體身形，非洲特有髮型、腕飾、腳飾及非洲人特有的臉蛋線條，精工細緻。作品上除了刻工線條，本身象牙的布紋更襯托出整件作品的流暢細緻的絲滑刻工。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "民國60年代   地點： 台北市 ",
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定。",
+    "documents": [
+        {
+            "fileid": 89825,
+            "name": "臺北市公告指定一般古物1091126.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-15/151b6be6-b7f3-406c-a163-ec69d09dc125/臺北市公告指定一般古物1091126.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.51984879730222,
+    "latitude": 25.032456306173696,
+    "representImageSource": "嚴○泰/嚴○隆",
+    "keepNames": [
+        {
+            "keepNameIdStr": "嚴○泰/嚴○隆",
+            "keepName": "嚴○泰/嚴○隆",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "嚴○泰/嚴○隆",
+            "keepAddressNew": "臺北市內湖區行忠路2號2樓",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "宅第",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "內湖區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 68650,
+            "caseId": 18170,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 72750,
+            "caseId": 18170,
+            "caseStatus": true,
+            "registerDate": 1606376446812,
+            "officialDocNo": "北市獻編字第1093004298號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

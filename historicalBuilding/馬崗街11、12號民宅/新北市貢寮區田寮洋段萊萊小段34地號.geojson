@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "新北市貢寮區田寮洋段萊萊小段34地號"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

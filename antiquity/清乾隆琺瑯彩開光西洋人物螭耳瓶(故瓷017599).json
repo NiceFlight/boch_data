@@ -1,0 +1,96 @@
+{
+    "id": 19629,
+    "caseId": "20210719000017",
+    "count": 228,
+    "shareCount": 0,
+    "representImage": 125209,
+    "representImageInfo": {
+        "ext": "bmp",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-19/6cb6f9b4-f003-4da6-9cea-8bf6ccad2e47/圖片17_c.bmp"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-19/6cb6f9b4-f003-4da6-9cea-8bf6ccad2e47/圖片17.bmp",
+        "name": "圖片17"
+    },
+    "caseName": "清乾隆琺瑯彩開光西洋人物螭耳瓶(故瓷017599)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "數量特別稀少或具完整性保存意義者",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此器呈敞口，短頸，弧肩，長腹平底，肩部貼飾對稱螭形耳。口下與圈足外牆以黑色琺瑯料為地，加飾五色花果及綠色卷枝紋。器內與底部施白釉，腹部兩面開光內繪西洋仕女及孩童，並以田園風光作為背景；開光之外的隙地彩繪百花圖案。器底有「乾隆年製」藍料雙方框楷書款。此瓶因人物面容敷染細緻，眼鼻額唇勾勒清晰，並以立體明暗法渲染肌膚，加上背景圖畫近似西方油畫，令人產生西洋寫實風格影響的聯想。然而，器身兩側保留中國傳統作風的螭形耳，讓中西風格在此器物上完美的融合成一體。目前所知，該類製品全世界僅有二件（此件與故瓷17600），益顯珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "0422177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故瓷017599",
+    "amount": 1,
+    "descAge": " 清",
+    "descSize": "高18.9公分 口徑5.4公分 足徑6.3 公分",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "此器呈敞口，短頸，弧肩，長腹平底，矮圈足。肩部兩側對飾螭形耳。口足加飾墨圈並各留出一道白邊。器腹兩面以琺瑯彩飾開光西洋婦女及孩童，背景以田野風景作陪襯，開光之外飾百花圖案。口下與足均以黑地繪五色花果及綠色卷枝紋。器底施白釉，器底有「乾隆年製」藍料雙方框楷書款。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "口沿有微傷。",
+    "documents": [
+        {
+            "fileid": 142633,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-04/b216e753-31f0-4cdd-8c8f-c9e36f4e6786/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.5484322510235,
+    "latitude": 121.5484322510235,
+    "representImageSource": " 國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": " ",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 66407,
+            "caseId": 19629,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 70596,
+            "caseId": 19629,
+            "caseStatus": true,
+            "registerDate": 1624434942473,
+            "officialDocNo": "文授資局物字第11030062561號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,88 @@
+{
+    "id": 22549,
+    "caseId": "20240223000002",
+    "count": 0,
+    "shareCount": 1,
+    "representImage": 242367,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-02-23/132e5ae2-fd91-4288-9477-a0fa7a04e3a5/船嘉寶_黃奕薰_認證登入照片_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-02-23/132e5ae2-fd91-4288-9477-a0fa7a04e3a5/船嘉寶_黃奕薰_認證登入照片.jpg",
+        "name": "船嘉寶_黃奕薰_認證登入照片"
+    },
+    "caseName": "竹頭筊",
+    "classifyCode": "4.2",
+    "classifyName": "傳統工藝",
+    "assetsTypeNames": "其他",
+    "otherAssetsType": "竹頭筊",
+    "assetsClassifyCode": "4.2.1",
+    "assetsClassifyName": "傳統工藝",
+    "documents": [
+        {
+            "fileid": 242366,
+            "name": "竹頭筊登錄公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-02-23/f490da03-df1b-4938-a92a-4572a61a287f/竹頭筊登錄公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具有藝術價值",
+        "顯著反映族群或地方之審美觀",
+        "顯著反映族群或地方之生活特色並具代表性"
+    ],
+    "registerReason": "１.具有藝術價值：以天然竹頭製作杯筊，造型與紋樣自然變化加上人工的細緻處理，成品兼具天然竹材美感及藝術性。\n２.顯著反映族群或地方之審美觀：傳統竹頭筊製作，經選材、初期曝曬、修整裁切、長期曝曬、修磨拋光等繁瑣製程，可經久擲不易壞且聲音清脆響亮，實用且可為收藏，造型及外觀貼合地方審美觀。\n３.顯著反映族群或地方之生活特色並具代表性：竹頭筊是族群信仰之禮儀器物，是祈願、祭祀、求神靈指示的溝通儀式器物，深具傳統與生活信仰意義，是漢民族宗教文化之特色傳統工藝。",
+    "lawsReference": "《文化資產保存法》第91條第1項。\n《傳統工藝登錄認定及廢止審查辦法》第2條第1項第1、3、4款登錄基準。\n《傳統工藝登錄認定及廢止審查辦法》第4條第1項第1、2、3款認定條件。",
+    "govInstitutionCode": "612",
+    "govInstitutionName": "嘉義縣政府",
+    "govInstitution": "嘉義縣政府",
+    "govDeptName": "嘉義縣文化觀光局",
+    "govDeptPhone": "05-3628123",
+    "govDeptAddress": "嘉義縣太保市東勢里太子大道158號",
+    "historyDevelopment": "竹頭筊係民間信仰重要的文物，選用來自臺灣本地竹材，經特殊的製程及工法，成為足以反映地方信仰及生活美感的特殊工藝。",
+    "preservers": [
+        {
+            "id": 22550,
+            "type": "個人",
+            "caseName": "黃奕薰",
+            "cityName": "嘉義縣",
+            "distName": "六腳鄉",
+            "caseArtistEntities": [],
+            "representImage": 242369,
+            "registrationDate": 1641139200000,
+            "judgeCriteria": [
+                "熟知並能正確體現該登錄項目之知識、技藝與文化表現形式",
+                "具該登錄項目之傳習能力與意願",
+                "在文化脈絡下為適當者"
+            ],
+            "registerReason": "１.熟知並能正確體現該登錄項目之知識、技藝及文化表現形式：專業技術純熟，熟知本項工藝之相關知識與技藝，具傑出之表現。\n２.具該登錄項目之傳習能力及意願：設有工作室，具傳承與技藝推廣之意願。\n３.在文化脈絡下為適當者：熟悉民間信仰之典故與杯筊之材質選用及製作技術，對製作工藝及文化內涵知識豐富，技藝精湛。",
+            "lawsReference": "<<傳統工藝登錄認定及廢止審查辦法>>第4條第1、2、3款",
+            "isOpenDownload": false,
+            "representImageSource": "保存者提供",
+            "contactorIsOpen": false
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "保存者提供",
+    "addresses": [
+        {
+            "cityName": "嘉義縣",
+            "distName": "六腳鄉",
+            "id": 130390,
+            "caseId": 22549,
+            "caseStatus": true,
+            "cityId": 15,
+            "distId": 1512
+        }
+    ],
+    "announces": [
+        {
+            "id": 142004,
+            "caseId": 22549,
+            "caseStatus": true,
+            "registerDate": 1641199562447,
+            "officialDocNo": "府授文資字第11002984541號",
+            "classificationId": 1
+        }
+    ]
+}

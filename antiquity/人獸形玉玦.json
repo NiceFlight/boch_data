@@ -1,0 +1,106 @@
+{
+    "id": 4338,
+    "caseId": "20121107000002",
+    "count": 1666,
+    "shareCount": 2,
+    "representImage": 7275,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/38137/photo/9aee346e-39b8-439c-b25a-5300c315bcbb_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/38137/photo/9aee346e-39b8-439c-b25a-5300c315bcbb.jpg",
+        "name": "9aee346e-39b8-439c-b25a-5300c315bcbb"
+    },
+    "caseName": "人獸形玉玦",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1352217600000,
+    "officialDocNo": "文資局物字第10120133973號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "具有特殊之時代特色、技術及流派",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "人獸形玉玦目前僅見於臺灣數處遺址，數量稀少。本件人獸形玉玦，出自卑南遺址石板棺，為同類型器物中體型較大者，外形為雙人頂一獸，獸形為豎耳、拱背、翹尾。人形為雙人並立，圓顱、雙手扶腰際、兩腿開立，膝部有線條修飾、底部立於一橫棒、棒下帶圓突，在獸身處有舊修補孔，顯示古人的珍愛與惜用。整體而言，本件玉器質地晶瑩剔透、作工精緻、造型異常優美、形制極為獨特、數量非常稀少。",
+    "lawsReference": "「古物分級登錄指定及廢止審查辦法」第4條第1項第1、3、5、6款；第6條及第7條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 22,
+    "belongCityName": "臺東縣",
+    "belongDistName": "臺東市",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "201216-00001-PN",
+    "keepNameId": 10,
+    "keepName": "國立臺灣史前文化博物館",
+    "keepNameNew": 10,
+    "keepAddressNew": "950台東縣台東市博物館路1號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "距今2800-2300年",
+    "descSize": "長：6.958公分、7公分；寬：3.809公分、厚：0.44 公分",
+    "descMaterial": "臺灣玉",
+    "reserveStatusDesc": "片狀鏤雕玉飾，外形為雙人頂一獸，獸形豎耳、拱背、翹尾。人形為雙人並立，圓顱、雙手扶腰際、兩腿開立，底部立於一橫飾帶圓突，膝部作線條修飾，彰顯腿膝之靈活性，亦點出膝下或有綁腿之可能性。此標本於陪葬之時已殘缺，故獸身帶修補孔。",
+    "pastHistorySource": 3,
+    "pastHistorySourceNotes": "臺東縣政府採集發掘移轉標本",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 52742,
+            "name": "用印公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-12-19/7a16a30e-3a40-4914-8242-c19fe282e98a/用印公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立臺灣史前文化博物館",
+            "keepName": "國立臺灣史前文化博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立臺灣史前文化博物館",
+            "keepAddressNew": "950台東縣台東市博物館路1號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺東縣",
+            "keepNameAddress": "豐田里博物館路1號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺東縣",
+            "distName": "臺東市",
+            "id": 4481,
+            "caseId": 4338,
+            "caseStatus": true,
+            "cityId": 22,
+            "distId": 2201
+        }
+    ],
+    "announces": [
+        {
+            "id": 4481,
+            "caseId": 4338,
+            "caseStatus": true,
+            "registerDate": 1352217600000,
+            "officialDocNo": "文資局物字第10120133973號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

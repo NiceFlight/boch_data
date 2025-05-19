@@ -1,0 +1,106 @@
+{
+    "id": 17919,
+    "caseId": "20201026000001",
+    "count": 5000,
+    "shareCount": 2,
+    "representImage": 73659,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-10-26/1eb429a0-3967-426a-aa18-8978afd1868e/住吉1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-10-26/1eb429a0-3967-426a-aa18-8978afd1868e/住吉1.jpg",
+        "name": "住吉1"
+    },
+    "caseName": "原住吉組宅邸（高家宅邸）",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "詳公告之指定理由。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "registerDate": 1597116728717,
+    "officialDocNo": "南市文資字第1090857911A號",
+    "documents": [
+        {
+            "fileid": 159031,
+            "name": "原住吉秀松宅邸公告109.08.11.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-11/6adb7130-85c2-4382-b250-8ba14b071c44/原住吉秀松宅邸公告109.08.11.pdf"
+        },
+        {
+            "fileid": 280892,
+            "name": "公告-A.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2025-02-14/cd47a097-0582-4e47-b975-6520633d1591/公告-A.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具高度歷史、藝術或科學價值者",
+        "表現各時代營造技術流派特色者",
+        "具稀少性，不易再現者"
+    ],
+    "registerReason": "（1）具高度歷史、藝術或科學價值者：定著土地範圍為清代崇文書院舊址，日治時期則為「臺南消防之父」請負業住吉組創立者住吉秀松家族之私有宅邸，戰後初期分派薛岳將軍使用，後由高錦德及其子前臺南縣長高育仁家族購入至今，亦見證臺南地方自治歷史。日式木造建築本體室內床之間、付書院及欄間，室外洗石子袖垣、袖塀及圍牆、以及邸內社之石燈群等，均作工精緻極具匠藝。軸組構造使用大跨距鋼帶板複合桁架以形塑寬廣之空間尺度；庭院下方之防空壕各項配套設計完善，具科學價值。\n（2）表現各時代營造技術流派特色者：建築涵括日式軸組木構造系統中的各式構造，足以代表日治時期軸組木構造建築營造技術之大成。\n（3）具稀少性，不易再現者：本古蹟形制格局完整，包含主入口前庭仿木塀洗石子圍牆、腕木門與袖塀、空間尺度較大之二層樓主建築、具石組佈置之庭院、邸內社與石燈群、戰時防空壕等，在眾多日治時期軸組木造住宅與宿舍案例中，實具稀少性且不易再現。",
+    "lawsReference": "符合《古蹟指定及廢止審查辦法》第2條第1項第1款至第3款之基準。",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "中西區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569 ",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 280894,
+            "name": "0705地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2025-02-14/e6967973-09e7-44fe-8e77-54a062f55d77/0705地籍圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺南市中西區青年段752、752-1、753、753-1、753-2、753-3、754地號",
+    "bulkTransfer": 0,
+    "belongAddress": "臺南市中西區青年路173號",
+    "isOpenDownload": false,
+    "longitude": 120.2100247,
+    "latitude": 22.9920139,
+    "representImageSource": "臺南市政府",
+    "landScope": "臺南市中西區青年段752、752-1、753、753-1、753-2、753-3、754、760地號",
+    "selfCoverage": "建物本體、防空壕、邸內社及石燈群、腕木門及袖塀、前庭兩側圍牆",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "id": 147876,
+            "caseId": 17919,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601,
+            "address": "青年路173號"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 160606,
+            "caseId": 17919,
+            "caseStatus": true,
+            "registerDate": 1597116728717,
+            "officialDocNo": "南市文資字第1090857911A號",
+            "classificationId": 1
+        },
+        {
+            "id": 160607,
+            "caseId": 17919,
+            "caseStatus": true,
+            "registerDate": 1731384275593,
+            "officialDocNo": "南市文資字第1132324233A號",
+            "classificationId": 2
+        }
+    ],
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": "市定古蹟原住吉秀松宅邸調查研究及修復再利用計畫成果報告書"
+}

@@ -1,0 +1,151 @@
+{
+    "id": 991,
+    "caseId": "20050725000002",
+    "count": 2505,
+    "shareCount": 2,
+    "representImage": 170922,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/34b5e622-4528-4d61-9991-c6f6041a09ce/代表圖像_迪化街1段155號_20220623_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/34b5e622-4528-4d61-9991-c6f6041a09ce/代表圖像_迪化街1段155號_20220623.jpg",
+        "name": "代表圖像_迪化街1段155號_20220623"
+    },
+    "caseName": "迪化街1段155號",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "建築可溯自1850年代，建築包含了清代、日治及近期不同階段的增建形式，足以呈現大稻程市街的營建歷史，其特殊建築形式有保存價值。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 169569,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/bdc6639c-f84e-4ca2-98a0-b16e4fe24461/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "1.建築可溯自1850年代，建築包含了清代、日治及近期不同階段的增建形式，足以呈現大稻程市街的營建歷史，其特殊建築形式有保存價值。\r\n2.符合臺北市市定古蹟指定暨歷史建築登錄作業要點第18點第2款「具歷史文化意義，足以為時代表徵者。」、第3款「表現地域風貌或民間藝術特色者」及第4款「具稀少性，不易再現者」之規定。",
+    "lawsReference": "文化資產保存法歷史建築登錄及廢止審查辦法。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 169570,
+            "name": "downloadfile.png",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/8a5f8012-8069-4651-b7e4-906af9d3db1b/downloadfile.png"
+        },
+        {
+            "fileid": 169572,
+            "name": "都市計畫與地籍圖(2).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/a054c9e9-7721-415c-8570-90226a6a21c9/都市計畫與地籍圖(2).pdf"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "locationLandNo": "大同區延平段三小段162、163及163-1",
+    "buildingFeatures": "建築為1層樓3進規模，為傳統閩南建築樣式，不帶任何裝飾性的立面，而亭仔腳與主屋一體化，將主屋退縮讓出作為亭仔腳的形式。",
+    "inHouseFeatures": "",
+    "buildingUsage": "已整修完畢，商業使用。",
+    "buildingActualState": "已整修完畢，商業使用。",
+    "buildingKeyMaintainItem": "應保存傳統閩南建築形式，復原街屋進落與天井，屋面整修復原。",
+    "bulkTransfer": 2,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.509703,
+    "latitude": 25.058382,
+    "representImageSource": "臺北市文化局",
+    "landScope": "大同區延平段三小段162、163及163-1地號。",
+    "selfCoverage": "大同區延平段三小段94建號，338.39平方公尺，以實際測量為主。",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 83729,
+            "caseId": 991,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "迪化街1段155號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段三小段",
+            "id": 94550,
+            "caseId": 991,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 189,
+            "landSerialNo": "162",
+            "landownership": 1,
+            "coverageId": 2,
+            "area": "10平方公尺",
+            "note": "其他登記事項:\t重測前：永樂段五小段１４１—１地號\n地價備註事項:\t(空白)\n土地參考資訊檔:\t容積移轉相關資訊;已公告為容積移轉送出基地\n土地使用分區;特定專用區(供特定商業使用)。",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段三小段",
+            "id": 94551,
+            "caseId": 991,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 189,
+            "landSerialNo": "163",
+            "landownership": 1,
+            "coverageId": 2,
+            "area": "175平方公尺",
+            "note": "其他登記事項:\t重測前：永樂段五小段１４１地號\n因分割增加地號：１６３—１地號\n地價備註事項:\t(空白)\n土地參考資訊檔:\t容積移轉相關資訊;已公告為容積移轉送出基地\n土地使用分區;特定專用區(供特定商業使用)。",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段三小段",
+            "id": 94552,
+            "caseId": 991,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 189,
+            "landSerialNo": "163-1",
+            "landownership": 2,
+            "coverageId": 2,
+            "area": "35平方公尺",
+            "note": "其他登記事項:\t分割自：１６３地號\n地價備註事項:\t(空白)\n土地參考資訊檔:\t容積移轉相關資訊;已公告為容積移轉送出基地\n土地使用分區;特定專用區(供特定商業使用)。",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 89908,
+            "caseId": 991,
+            "caseStatus": true,
+            "registerDate": 1122220800000,
+            "officialDocNo": "府文化二字第09406165900號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

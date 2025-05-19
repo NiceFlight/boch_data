@@ -1,0 +1,106 @@
+{
+    "id": 3963,
+    "caseId": "20120326000018",
+    "count": 260,
+    "shareCount": 0,
+    "representImage": 6788,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32949/photo/620880d8-1750-49da-81a5-5a6455b09ee3_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32949/photo/620880d8-1750-49da-81a5-5a6455b09ee3.JPG",
+        "name": "620880d8-1750-49da-81a5-5a6455b09ee3"
+    },
+    "caseName": "明沈周策杖圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派"
+    ],
+    "registerReason": "全作構圖簡約清逸，用筆雄健蒼勁渾厚。師倪瓚，筆墨自有本色。畫上題詩，詩畫意境相契。明人評學倪雲林者沈周一人而已，此畫足為代表。\r\n具有重要之時代特色、技術及流派。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第三款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000439",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descCreator": "沈周",
+    "descSize": "159.1 x 72.2（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "沈周（1427－1509），長洲（今江蘇蘇州）人。字啟南，號石田，又號白石翁。為人寬厚有大度，能詩文，善書法，又長山水，並兼工墨畫花果、翎毛等。　\n溪山間，一人策杖而行。本幅以河水來分隔畫面，形成三段式構圖。筆墨簡澹，頗具倪瓚清逸之趣，惟用筆雄健，蒼勁渾厚，仍見石田本色。題識書法與本院所藏沈氏乙巳年（1485）重題〈參天特秀〉圖近似，推測此乃沈氏五十九歲左右之作。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。",
+    "documents": [
+        {
+            "fileid": 151272,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-25/3624a7e2-618d-4f5b-bb2b-e613f18d968b/公告.pdf"
+        },
+        {
+            "fileid": 151273,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-25/bb0df1a6-17fc-4550-a554-0571b2d12840/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71398,
+            "caseId": 3963,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75828,
+            "caseId": 3963,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

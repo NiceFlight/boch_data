@@ -1,0 +1,105 @@
+{
+    "id": 4232,
+    "caseId": "20090508000024",
+    "count": 219,
+    "shareCount": 0,
+    "representImage": 7152,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36649/photo/46eb952c-e95f-4437-9a61-54aea498fcf5_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36649/photo/46eb952c-e95f-4437-9a61-54aea498fcf5.jpg",
+        "name": "46eb952c-e95f-4437-9a61-54aea498fcf5"
+    },
+    "caseName": "羊頭方卣",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1241712000000,
+    "officialDocNo": "會授資籌二字第0982105246號",
+    "judgeCriteria": [
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本件為方形銅卣中形制較特殊的一件。方體的四隅以獸面裝飾，肩部的邊角共有八個犧首，左右兩側中心的犧首與提梁相接，提梁巧妙的變成犧首的身體。提梁與蓋頂間的連環構成動物形，蓋頂手把作成有茸角的展翅鳥形。製作精美，具有重要歷史、文化價值。",
+    "lawsReference": "「文化資產保存法」第66條。「古物分級登錄指定及廢止審查辦法」第3條第1項第1、5、6款、第6、7條",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "南港區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "R002066 ",
+    "keepNameId": 5,
+    "keepName": "中央研究院歷史語言研究所",
+    "keepNameNew": 5,
+    "keepAddressNew": "115台北市南港區研究院路二段130號",
+    "saveSpaceId": 11,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "商（後期）",
+    "descCreator": "",
+    "descSize": "通梁高35.0公分，腹寬11.1×11.8公分。",
+    "descMaterial": "青銅",
+    "reserveStatusDesc": "器身口圓體方，長頸，圈足。方體的四隅裝飾以獸面，肩部的邊角共有八個犧首，左右兩側中心的犧首與提梁相接，提梁巧妙的變成的變成犧首的身體。提梁與蓋頂間的連環構成動物形，蓋頂手把作成有茸角的展翅鳥形。",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "小屯墓331 ",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 （有青銅病）",
+    "documents": [
+        {
+            "fileid": 53988,
+            "name": "20090508公告.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-01-09/bb299cf3-4cef-401f-b1d5-20cc338a0da7/20090508公告.jpg"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "",
+    "keepNames": [
+        {
+            "keepNameIdStr": "中央研究院歷史語言研究所",
+            "keepName": "中央研究院歷史語言研究所",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "中央研究院歷史語言研究所",
+            "keepAddressNew": "115台北市南港區研究院路二段130號",
+            "saveSpaceIdStr": "研究設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "南港區",
+            "keepNameAddress": "研究院路二段130號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "南港區",
+            "id": 4374,
+            "caseId": 4232,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 111
+        }
+    ],
+    "announces": [
+        {
+            "id": 4374,
+            "caseId": 4232,
+            "caseStatus": true,
+            "registerDate": 1241712000000,
+            "officialDocNo": "會授資籌二字第0982105246號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

@@ -1,0 +1,108 @@
+{
+    "id": 16426,
+    "caseId": "20181225000003",
+    "count": 3188,
+    "shareCount": 2,
+    "representImage": 186697,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/07ac50cc-e336-4054-903f-e3647a1e575c/代表圖像_原臺北第二師範學校警衛室_20220613_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/07ac50cc-e336-4054-903f-e3647a1e575c/代表圖像_原臺北第二師範學校警衛室_20220613.jpeg",
+        "name": "代表圖像_原臺北第二師範學校警衛室_20220613"
+    },
+    "caseName": "原臺北第二師範學校警衛室",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "臺北第二師範學校為日治時期完整規劃的師範學校，包括有教學區與宿舍區，本警衛室為當時校園宿舍入口之重要建築，見證國立臺北教育大學之源起。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "警衛室",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 53275,
+            "name": "原台北第二師範學校警衛室公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-12-25/e094da8a-1055-4dfe-ac06-f37a543a8f8a/原台北第二師範學校警衛室公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1.臺北第二師範學校為日治時期完整規劃的師範學校，包括有教學區與宿舍區，本警衛室為當時校園宿舍入口之重要建築，見證國立臺北教育大學之源起，具歷史價值。\n2.本建物仍保存日治時期臺北第二師範學校警衛室之外觀、室內格局與裝修，包括門窗、天花、和室等，屋頂(兩批水)於各立面處之山牆部份作法，甚具特色，內部木構造亦保有原構造特色，空間樣式為木造洋房建築，具保存價值。\n3.符合歷史建築紀念建築登錄廢止審查及輔助辦法第2條第1項第2、3款評定基準。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第2、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 53277,
+            "name": "原台北第二師範學校警衛室公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2018-12-25/a86b6428-b715-41bb-9149-9d803cbb3936/原台北第二師範學校警衛室公告.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 5,
+    "cityLandUseTypeName": "文教區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市大安區學府段一小段591地號",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "longitude": 121.54647554895239,
+    "latitude": 25.024268764323086,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市大安區學府段一小段591地號(部分，該筆地號面積為70,449.3平方公尺)",
+    "selfCoverage": "建物無建號登記",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 93487,
+            "caseId": 16426,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "和平東路二段136巷19號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "學府段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 115076,
+            "caseId": 16426,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 741,
+            "landSerialNo": "591",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "70,449.3平方公尺",
+            "cityLandUseTypeOther": "師專用地（公共設施用地）",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 100905,
+            "caseId": 16426,
+            "caseStatus": true,
+            "registerDate": 1541692800000,
+            "officialDocNo": "北市文化文資字第10760248561號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": ""
+}

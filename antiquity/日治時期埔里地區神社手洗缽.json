@@ -1,0 +1,105 @@
+{
+    "id": 3046,
+    "caseId": "20130313000001",
+    "count": 580,
+    "shareCount": 0,
+    "representImage": 212821,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-05-05/3db5707f-bdd8-4417-80aa-4f24d1601c49/日治時期埔里地區神社手洗缽_c.png"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-05-05/3db5707f-bdd8-4417-80aa-4f24d1601c49/日治時期埔里地區神社手洗缽.png",
+        "name": "日治時期埔里地區神社手洗缽"
+    },
+    "caseName": "日治時期埔里地區神社手洗缽",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-其他",
+    "otherAssetsType": "神社手洗缽",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1363104000000,
+    "officialDocNo": "府授文資字第10200487131號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有一定之時代特色、技術及流派",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.此手洗缽保存完整，為日治時期神社所留遺物，不僅數量稀少，並可見證日治時期日本神道教於埔里地區發展之情形。\r\n2.此手洗缽在南投縣具有歷史意義、一定之時代特色、珍貴及稀有性與工藝技術價值。\r\n3.符合古物分級登錄指定及廢止審查辦法第2條第1項第1、3、5、6款登錄基準。",
+    "lawsReference": "文化資產保存法第65條\r\n2.古物分級登錄指定及廢止審查辦法第2條",
+    "govInstitutionCode": "540",
+    "govInstitutionName": "南投縣政府",
+    "belongCityId": 12,
+    "belongCityName": "南投縣",
+    "belongDistName": "埔里鎮",
+    "govInstitution": "南投縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "049-2231191",
+    "govDeptAddress": "540南投市建國路135號",
+    "reservationCode": "無",
+    "amount": 1,
+    "notes": "",
+    "descAge": "大正12年11月(1923)",
+    "descSize": "長80 寬80 高60公分",
+    "descMaterial": "石製",
+    "reserveStatusDesc": "1.石製，部分石雕\n2.不規則形狀，上刻有「大正十二年十一月吉日 佐藤善次奉納」之文字。",
+    "pastHistorySource": 5,
+    "pastHistorySourceNotes": "埔里鎮隆生橋頭小公園",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 172322,
+            "name": "日治時期埔里地區神社手洗缽 公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-07/903bd5f6-c5d9-4e74-8e17-596ef836468b/日治時期埔里地區神社手洗缽 公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.97144,
+    "latitude": 23.9702,
+    "representImageSource": "南投縣政府文化局(拍攝者:巷弄文旅有限公司-謝顯林)",
+    "keepNames": [
+        {
+            "keepNameIdStr": "南投縣埔里鎮公所",
+            "keepName": "南投縣埔里鎮立圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "南投縣埔里鎮立圖書館",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "南投縣",
+            "distName": "埔里鎮",
+            "id": 114453,
+            "caseId": 3046,
+            "caseStatus": true,
+            "cityId": 12,
+            "distId": 1205,
+            "address": "六合路178號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 124607,
+            "caseId": 3046,
+            "caseStatus": true,
+            "registerDate": 1363104000000,
+            "officialDocNo": "府授文資字第10200487131號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

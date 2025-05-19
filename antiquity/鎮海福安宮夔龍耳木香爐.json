@@ -1,0 +1,95 @@
+{
+    "id": 22582,
+    "caseId": "20240319000004",
+    "count": 57,
+    "shareCount": 0,
+    "representImage": 254180,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-03-19/b0a4cf56-224f-4d1b-a0e5-6eb44cd033a3/01_鎮海福安宮夔龍耳木香爐_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-03-19/b0a4cf56-224f-4d1b-a0e5-6eb44cd033a3/01_鎮海福安宮夔龍耳木香爐.jpg",
+        "name": "01_鎮海福安宮夔龍耳木香爐"
+    },
+    "caseName": "鎮海福安宮夔龍耳木香爐",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者"
+    ],
+    "registerReason": "1、具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：本爐為小赤崁人呂秋所謝贈，說明當年鄰近村落間，信眾得有機緣，會謝叩獻贈相關物件的風俗。\n2、具有地方重要人物或歷史事件之深厚淵源者：1914年「小赤崁弟子呂秋等敬獻」，見證宮廟間交陪及信眾的往來。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "govInstitution": "澎湖縣政府",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405#6408",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG02210-P-107-0002",
+    "amount": 1,
+    "descAge": "1914年",
+    "descSize": "寬62公分、高36.2公分、深21.3公分",
+    "descMaterial": "木",
+    "reserveStatusDesc": "1、展耳木方爐，橫刻「福安宮」，上款「甲寅年五月吉旦」、「小赤崁呂秋等叩謝」。展耳祥龍捲草紋，正面中央盤龍紋，兩側竹節刻款，施金蔥，有姬峰築巢痕跡，四足螭虎吞腳。\n2、從木香爐造型風格，甲寅年可能為1854年或1914年，再根據鎮海福安宮廟外石柱落款有「昭和七年壬申年葭月吉置」、「小赤崁弟子呂秋等敬献」的資訊，推測這兩處呂秋等為同人，呂秋等應為白沙小赤崁人，於1914至1931年間活耀於小赤崁，並積極參與鎮海福安宮的交陪活動，本件香爐當屬為1914年所雕刻，本件香爐見證兩村於此時的交陪情況。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "1914年小赤崁呂秋等",
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定",
+    "documents": [
+        {
+            "fileid": 254141,
+            "name": "1120706_清風閣等12案指定一般古物-公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-03-19/6b31b4f6-bc38-492c-ae23-0cdf75fecc17/1120706_清風閣等12案指定一般古物-公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "〈澎湖縣百年歷史廟宇及教堂文物普查計畫（四）‧成果報告〉",
+    "keepNames": [
+        {
+            "keepNameIdStr": "鎮海福安宮",
+            "keepName": "陳文淵",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "鎮海福安宮",
+            "keepAddressNew": "澎湖縣白沙鄉鎮海村1鄰6號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2,
+            "keepNameCityName": "澎湖縣",
+            "keepNameDistName": "白沙鄉",
+            "keepNameAddress": "鎮海村1鄰6號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "白沙鄉",
+            "id": 128235,
+            "caseId": 22582,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2105,
+            "address": "鎮海村1鄰6號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 139308,
+            "caseId": 22582,
+            "caseStatus": true,
+            "registerDate": 1688572800000,
+            "officialDocNo": "府授文博字第1123702174號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

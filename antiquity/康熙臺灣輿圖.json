@@ -1,0 +1,107 @@
+{
+    "id": 3328,
+    "caseId": "20100614000001",
+    "count": 1373,
+    "shareCount": 3,
+    "representImage": 5797,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32545/photo/d2b997d9-0569-44a3-8a07-0475cf1541bb_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32545/photo/d2b997d9-0569-44a3-8a07-0475cf1541bb.jpg",
+        "name": "d2b997d9-0569-44a3-8a07-0475cf1541bb"
+    },
+    "caseName": "康熙臺灣輿圖",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖繪",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1276444800000,
+    "officialDocNo": "會授資籌二字第09920066461號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "具有特殊之時代特色、技術及流派",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.\t本件為漢文輿圖中最早、最完整之臺灣輿圖，具稀有性其學術價值高。2.\t以寫實手法描繪出17、18世紀更迭之際，臺灣西部由北到南的山川地形、兵備部署與城鄉生活等景觀，表現出當時臺灣社會文化生活及清初對臺灣地理知識的一個縮影。3.\t本輿圖為雍正臺灣輿圖、乾隆臺灣輿圖之所本。可上溯鄭氏時期之形貌，又可作為其後地圖之比較，顯現臺灣地貌的演變。具有特殊歷史、文化及學術價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。2.符合「古物分級登錄指定及廢止審查辦法」第四條第一、二、五、六款、第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "AH580",
+    "keepNameId": 4,
+    "keepName": "國立臺灣博物館",
+    "keepNameNew": 4,
+    "keepAddressNew": "100台北市中正區襄陽路2號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 1,
+    "amount": 1,
+    "notes": "",
+    "descAge": "約清康熙38至43年（1699-1704）",
+    "descSize": "69.7×565公分",
+    "descMaterial": "絹本設色",
+    "reserveStatusDesc": "1.\t民國92年12月至93年6月進行修護前狀況檢測，製作等比例損傷地圖，並擬定修護方針2.\t民國93年9月至94年12月進行藏品修護，包括顏料層加固、浮起散亂之絹片重新加固、以清水洗淨、揭除背紙及原先之不當折條、以乾式法揭除舊裱、修理原先之錯亂補絹、重新托心及加固、按原手卷形式重心裝裱、製作高級桐木雙層包存箱等各項工序3.\t經修護後，本藏品狀況獲得大幅改善，目前狀態已穩定。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "可能為清宮流出品，輾轉入藏日治時期臺灣總督府博物館，民國34年由臺灣省立博物館接收，一直典藏至今",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定 ",
+    "documents": [
+        {
+            "fileid": 53278,
+            "name": "公告函.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-12-25/6d72764a-049c-4bcc-8fc3-323df17bb4f1/公告函.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立臺灣博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立臺灣博物館",
+            "keepName": "國立臺灣博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立臺灣博物館",
+            "keepAddressNew": "100台北市中正區襄陽路2號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "襄陽路2號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3470,
+            "caseId": 3328,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3470,
+            "caseId": 3328,
+            "caseStatus": true,
+            "registerDate": 1276444800000,
+            "officialDocNo": "會授資籌二字第09920066461號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

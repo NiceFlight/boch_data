@@ -1,0 +1,155 @@
+{
+    "id": 2103,
+    "caseId": "20151221000001",
+    "count": 2124,
+    "shareCount": 2,
+    "representImage": 170767,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/5b59653f-11ed-4512-a662-fd0a7556c55a/代表圖像_迪化街一段339號店屋_20220623_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/5b59653f-11ed-4512-a662-fd0a7556c55a/代表圖像_迪化街一段339號店屋_20220623.jpeg",
+        "name": "代表圖像_迪化街一段339號店屋_20220623"
+    },
+    "caseName": "迪化街一段339號店屋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本建物興建於日治時期大正八年(1919)，約1950年代改建，騎樓、二樓拱形磚牆、圓木屋架、牆面等，仍為原有構造與材料，具傳統街屋之特色。日治時期屋主曾赴中經營真珠產業，本建築主要做為住家，戰後曾租給中藥店使用，代表迪化街家族發展的型態之一。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 145498,
+            "name": "3._1041221登錄歷史建築公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/bc445980-e909-468e-bbdf-c74e3d84d029/3._1041221登錄歷史建築公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1、本建物位處大稻埕歷史風貌特定區內，具維護街區景觀與地區風貌之價值與特色。\n2、本建物興建於日治時期，約1950年代改建，騎樓、二樓拱形磚牆、圓木屋架、牆面等，仍為原有構造與材料，具傳統街屋之特色。\n3、日治時期屋主曾赴中經營真珠產業，本建築主要做為住家，戰後曾租給中藥店使用，代表迪化街家族發展的型態之一。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、4款評定基準。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 145499,
+            "name": "5e185680-8ac2-4c48-a943-b15b99b24862.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/9f01a451-94b2-474a-a33d-2a6851bbddd1/5e185680-8ac2-4c48-a943-b15b99b24862.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市大同區延平段二小段143、143-1、144地號等3筆土地",
+    "buildingFeatures": "紅磚柱、石樑、洗石子",
+    "inHouseFeatures": "二樓留有拱形磚牆、圓木屋架",
+    "buildingUsage": "民宅使用",
+    "buildingActualState": "外觀尚可，民宅使用",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isOpenDownload": false,
+    "longitude": 121.5093224,
+    "latitude": 25.0627687,
+    "representImageSource": "臺北市文化局",
+    "landScope": "迪化街1段街尾，鄰近民權西路",
+    "selfCoverage": "實際保存面積須以保存範圍實測數據為準",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 83651,
+            "caseId": 2103,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "臺北市大同區迪化街1段339號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 94384,
+            "caseId": 2103,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 188,
+            "landSerialNo": "143",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "87平方公尺",
+            "cityLandUseTypeOther": "特專",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 94385,
+            "caseId": 2103,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 188,
+            "landSerialNo": "143-1",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "13平方公尺",
+            "cityLandUseTypeOther": "特專",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 94386,
+            "caseId": 2103,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 188,
+            "landSerialNo": "144",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "19平方公尺",
+            "cityLandUseTypeOther": "特專",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 89830,
+            "caseId": 2103,
+            "caseStatus": true,
+            "registerDate": 1450627200000,
+            "officialDocNo": "北市文化文資字第10430466700號",
+            "classificationId": 1,
+            "note": "登錄"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

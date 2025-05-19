@@ -1,0 +1,119 @@
+{
+    "id": 1922,
+    "caseId": "20030331000002",
+    "count": 1392,
+    "shareCount": 0,
+    "representImage": 182084,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-08-29/e84bc19f-eaa6-420e-9352-867114a9de6c/01封面_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-08-29/e84bc19f-eaa6-420e-9352-867114a9de6c/01封面.jpg",
+        "name": "01封面"
+    },
+    "caseName": "陳氏一落四櫸頭(35號)",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "建築約創建於清末，為一落四攑頭前方帶有照壁之格局。民國38年至47年（1949-1958）國軍駐紮於此，並曾於民國60年至70年（1971-1981）曾進行整修。建築牆體大抵以石砌為主，正身牆體上緣為斗仔砌，大廳採穿鬪式牆體。\n（詳細歷史沿革待未來修復及再利用計畫深入調查）",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1049040000000,
+    "officialDocNo": "府教社字第092001570號",
+    "documents": [
+        {
+            "fileid": 259153,
+            "name": "陳氏一落四櫸頭(35號)歷史建築登錄公告_92.03.31.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-06-28/ce966530-d77f-42ff-88b4-1e3a8afd3a94/陳氏一落四櫸頭(35號)歷史建築登錄公告_92.03.31.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者"
+    ],
+    "registerReason": "表現地域風貌或民間藝術特色者",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "890",
+    "govInstitutionName": "金門縣政府",
+    "belongCityId": 24,
+    "belongCityName": "金門縣",
+    "belongDistName": "金沙鎮",
+    "govInstitution": "金門縣文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "082-325643#812",
+    "govDeptAddress": "金門縣金城鎮環島北路1段66號",
+    "cadasters": [
+        {
+            "fileid": 182081,
+            "name": "陳氏一落四櫸頭(35號)_地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-08-29/7cb863fc-11f6-43da-bdf3-363124420640/陳氏一落四櫸頭(35號)_地籍圖.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 11,
+    "nonCityLandUseTypeName": "其他使用區",
+    "nonLandUseOtherType": "自然村",
+    "locationLandNo": "金沙鎮碧山段 1374-0001地號",
+    "buildingFeatures": "建築為一落四攑頭，前有照壁，照壁為新作。屋頂為閩南傳統雙坡翹脊型式，屋面為紅瓦，脊肚以彩磁裝飾。牆體正面為石砌，左右側立面以石砌為主，正身上緣為斗仔砌，背立面則通體為石砌，轉角柱以石條砌收邊。攑頭牆面為石砌。",
+    "inHouseFeatures": "建築中軸線由外至內為照壁、前埕、深井、巷頭、正廳、壽堂後，深井兩側為攑頭，廳兩側為房，正身採穿鬪式牆體。鏡面牆額堵為彩磁，正門兩側為聯對，馬鼻窗上方以「梅開五福」、「竹報平安」對聯裝飾。",
+    "buildingUsage": "維持原使用功能",
+    "buildingActualState": "中度受損，屋脊破損、山牆檐板及鳥踏破損。",
+    "buildingKeyMaintainItem": "壁體裂隙，山牆檐板破損，建議屋主多加留意是否有滲水。",
+    "bulkTransfer": 0,
+    "belongAddress": "金門縣金沙鎮碧山35號",
+    "isOpenVisit": false,
+    "openUpTime": "不開放參觀",
+    "isOpenDownload": false,
+    "longitude": 118.44211,
+    "latitude": 24.48602,
+    "representImageSource": "曾逸仁",
+    "landScope": "金沙鎮碧山段1374-1地號",
+    "selfCoverage": "公告未指明歷史建築本體",
+    "addresses": [
+        {
+            "cityName": "金門縣",
+            "distName": "金沙鎮",
+            "id": 131677,
+            "caseId": 1922,
+            "caseStatus": true,
+            "cityId": 24,
+            "distId": 2401,
+            "address": "碧山35號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "金門縣",
+            "distName": "金沙鎮",
+            "landNoName": "碧山段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 186828,
+            "caseId": 1922,
+            "caseStatus": true,
+            "cityId": 24,
+            "distId": 2401,
+            "landNoId": 15287,
+            "landSerialNo": "1374-1",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "area": "",
+            "cityLandUseTypeOther": "自然村專用區",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 143541,
+            "caseId": 1922,
+            "caseStatus": true,
+            "registerDate": 1049040000000,
+            "officialDocNo": "府教社字第092001570號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[118.44211237112269,24.48594585191707],[118.44203643392483,24.486009399155368],[118.4420929440939,24.48606735210097],[118.44212475062726,24.48609850859975],[118.4421885742788,24.4860447717611],[118.44220173329961,24.48603351996685],[118.44215761449107,24.485990219110253],[118.44211237112269,24.48594585191707],[118.44211237112269,24.48594585191707]]]]},\"properties\":{\"envelope\":{\"left\":\"118.44203643392483\",\"top\":\"24.485945851917069\",\"right\":\"118.44220173329961\",\"bottom\":\"24.486098508599749\"},\"landLot\":\"金門縣金沙鎮碧山段1374-1\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": "歷史建築清冊"
+}

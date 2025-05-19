@@ -1,0 +1,100 @@
+{
+    "id": 3822,
+    "caseId": "20140421000036",
+    "count": 637,
+    "shareCount": 0,
+    "representImage": 6623,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7093/photo/明玉鰲魚花插_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7093/photo/明玉鰲魚花插.JPG",
+        "name": "明玉鰲魚花插"
+    },
+    "caseName": "明 玉鰲魚花插",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1398009600000,
+    "officialDocNo": "文資物字第10320043691號",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就"
+    ],
+    "registerReason": "此件明代玉鰲魚花插，白玉有褐黑斑。順玉質顏色巧雕成龍角、龍鬚、龍口、魚鰭及魚尾。魚身縱向，魚尾捲翹上揚，下端則雕飾波濤，並配以水紋木座與之呼應，營造魚正自水中奮力躍出的剎那。頭首部份：雙目努出、有長鬚、突鼻、且生雙角，已具龍首造形，寓意「魚躍龍門」的吉兆。\r\n中國器物之造形、紋飾的設計，追求「圖必有意；意必吉祥」。此器即以巧雕技法完成之吉兆玉器的代表作，表現明代器物文化特色與藝術價值，亦是後來清宮玉作傳摹的經典，深受一般大眾之喜愛。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第4款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故玉002171",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descSize": "高：15.1（公分）",
+    "descMaterial": "閃玉",
+    "reserveStatusDesc": "質材：白玉有褐黑斑。\r\n特徵：順玉質顏色巧雕成龍角、龍鬚、龍口、魚鰭及魚尾。魚身縱向，魚尾捲翹上揚，下端則雕飾波濤，並配以水紋木座與之呼應，營造魚正自水中奮力躍出的剎那。頭首部份：雙目努出、有長鬚、突鼻、且生雙角，分明已成龍形。此一造形寓意「魚躍龍門」的吉兆。\r\n其他：配紫檀木座。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。有玉璺。",
+    "documents": [
+        {
+            "fileid": 150286,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-13/71ec7e24-0a5f-4d3e-9eb0-d367fc129f0d/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70892,
+            "caseId": 3822,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75168,
+            "caseId": 3822,
+            "caseStatus": true,
+            "registerDate": 1398009600000,
+            "officialDocNo": "文資物字第10320043691號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

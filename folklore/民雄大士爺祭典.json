@@ -1,0 +1,92 @@
+{
+    "id": 2769,
+    "caseId": "20090619000002",
+    "count": 3488,
+    "shareCount": 6,
+    "representImage": 5132,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/relate_cultural/134130/photo/民雄大士爺祭典1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/relate_cultural/134130/photo/民雄大士爺祭典1.jpg",
+        "name": "民雄大士爺祭典1"
+    },
+    "caseName": "民雄大士爺祭典",
+    "classifyCode": "5.1",
+    "classifyName": "民俗",
+    "assetsTypeNames": "儀式、祭典、節慶",
+    "assetsClassifyCode": "5.1.1",
+    "assetsClassifyName": "民俗",
+    "registerDate": 1550678400000,
+    "officialDocNo": "府授文資字第1080038674號",
+    "documents": [
+        {
+            "fileid": 56574,
+            "name": "嘉義縣政府108年2月21日府授文資字第1080038674號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-04-07/47349482-9d3e-44c0-abab-0607b4cdd78b/嘉義縣政府108年2月21日府授文資字第1080038674號公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "傳統性：具有古昔生活傳承，風俗形成與發展者",
+        "地方性：民俗其形成與發展具地方特色，或與其他地區有顯著差異者",
+        "文化性：具有特殊生活文化價值者"
+    ],
+    "registerReason": "本民俗具傳統性、地方性及文化性，因此登錄為民俗。",
+    "lawsReference": "《傳統藝術民俗及有關文物登錄指定及廢止審查辦法》",
+    "govInstitutionCode": "612",
+    "govInstitutionName": "嘉義縣政府",
+    "belongCityId": 15,
+    "belongCityName": "嘉義縣",
+    "govInstitution": " 嘉義縣文化觀光局",
+    "govDeptName": " 文化資產科",
+    "govDeptPhone": " 053628123-310",
+    "govDeptAddress": " 嘉義縣太保市太子大道158號",
+    "belongAddress": "民雄大士爺廟",
+    "historyDevelopment": "民雄原名打貓街，據傳乾隆年間，7月1日起，每日下午陰風慘淡，嘗聞鬼聲啼哭，人人畏懼，時有觀音大士，屢次顯身，俾街中人共見之，向一丈餘，頭生雙角，身穿紅甲，青面獠牙，若見大士陰風輒止鬼聲皆息，人知大士足以鎮壓孤魂。於是每年普渡期間用紅緞塗大士爺神像奉祀壇中，並進行普渡儀式，並於結束後火化大士爺升天。本普渡活動為本縣民雄地區重要的民俗活動，具有傳統性、地方性及文化性，爰予以登錄為民俗。",
+    "preservers": [
+        {
+            "id": 4768,
+            "type": "團體",
+            "caseName": "財團法人台灣省嘉義縣民雄鄉大士爺廟",
+            "cityName": "嘉義縣",
+            "distName": "民雄鄉",
+            "caseArtistEntities": [],
+            "judgeCriteria": [],
+            "status": "",
+            "school": "",
+            "isOpenDownload": false,
+            "contactorIsOpen": false
+        }
+    ],
+    "culturalArtifact": [],
+    "holdPeriod": 1,
+    "hostContactorAddress": "",
+    "representImageSource": "趙守彥",
+    "addresses": [
+        {
+            "cityName": "嘉義縣",
+            "id": 127833,
+            "caseId": 2769,
+            "caseStatus": true,
+            "cityId": 15,
+            "address": "民雄大士爺廟"
+        }
+    ],
+    "announces": [
+        {
+            "id": 138840,
+            "caseId": 2769,
+            "caseStatus": true,
+            "registerDate": 1550678400000,
+            "officialDocNo": "府授文資字第1080038674號",
+            "classificationId": 1,
+            "note": "廢止【民俗及有關文物】名稱，變更為【民俗】"
+        }
+    ],
+    "ceremony": [],
+    "lops": [],
+    "taboos": [],
+    "features": [],
+    "isOpenDownload": false
+}

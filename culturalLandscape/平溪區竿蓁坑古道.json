@@ -1,0 +1,98 @@
+{
+    "id": 2316,
+    "caseId": "20090511000005",
+    "count": 2911,
+    "shareCount": 0,
+    "representImage": 138296,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-09-13/76c02336-6f46-40fd-8e76-79b09c642d68/CW01新北市平溪竿蓁坑古道(1)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-09-13/76c02336-6f46-40fd-8e76-79b09c642d68/CW01新北市平溪竿蓁坑古道(1).jpg",
+        "name": "CW01新北市平溪竿蓁坑古道(1)"
+    },
+    "caseName": "平溪區竿蓁坑古道",
+    "classifyCode": "3.1",
+    "classifyName": "文化景觀",
+    "assetsTypeNames": "農林漁牧景觀",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "3.1.1",
+    "assetsClassifyName": "文化景觀",
+    "registerDate": 1242021702000,
+    "officialDocNo": "北府文資字第0980005581號",
+    "documents": [
+        {
+            "fileid": 180597,
+            "name": "平溪鄉竿蓁坑古道公告-98.5.11.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-08-18/5ee402b5-e0c3-4274-b9c0-3a7a0b2b5750/平溪鄉竿蓁坑古道公告-98.5.11.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現人類與自然互動具有文化意義"
+    ],
+    "registerReason": "（一）平溪鄉竿蓁坑古道係昔日平溪地區居民聯繫坪林的主要道路，留存先民的產業交通發展、聚落開發歷史記憶，於地方發展歷史文化與現代生態休閒、鄉土教育等均具保存之價值。\r\n（二）古道位於平溪鄉竿蓁坑聚落內保存完整的古老土地公廟與石碑，沿途亦有長亨、萬載兩座保存尚完整的石板橋、老榕樹，以及日治時期石田部長紀念碑遺址，深具平溪地方先民拓墾的歷史見證意義。",
+    "lawsReference": "<<文化景觀登錄及廢止審查辦法>>第2條第1項第1款",
+    "govInstitutionCode": "220",
+    "govInstitutionName": "新北市政府",
+    "belongCityId": 3,
+    "belongCityName": "新北市",
+    "belongDistName": "平溪區",
+    "govInstitution": "新北市政府",
+    "govDeptName": "文化局",
+    "govDeptPhone": "(02)29603456轉4551",
+    "govDeptAddress": "新北市板橋區中山路一段161號28樓",
+    "historyValue": "一、平溪區東坪古道可說集生活、歷史、產業與生態野趣之內涵於一身，於地方歷史、休閒觀光或鄉土教育都有保存之價值。\n二、東坪古道除了路跡，還有古土地公廟、古碑和兩座古橋。尤其是長亨橋建築之特色、保存的完整性，在目前的新北市難出其右。若得保存，略其修護，可為平溪地區添一自然與人文勝景。",
+    "content": "自萬載橋本體至長亨橋本體古道",
+    "actualState": "古道由於偏離公路，未遭破壞，保有先民拓墾時的早期環境特色。",
+    "feature": "百年前之重要交通要道，沿途有兩座以 4 米餘長之石板鋪設而成之橋（萬載、長亨）、古碑、老土地公廟及老榕樹。",
+    "briefDescribe": "待保存維護計畫完成後填列",
+    "notes": "",
+    "belongAddress": "新北市平溪區石底段竿蓁坑小段377地號毗鄰之未登錄地",
+    "isOpenDownload": true,
+    "longitude": 121.735274,
+    "latitude": 24.988819,
+    "representImageSource": "新北市政府文化局",
+    "landScope": "新北市平溪區石底段竿蓁坑小段377地號毗鄰之未登錄地",
+    "addresses": [
+        {
+            "cityName": "新北市",
+            "distName": "平溪區",
+            "id": 113913,
+            "caseId": 2316,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 308,
+            "address": "石底段竿蓁坑小段377地號毗鄰之未登錄地"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "新北市",
+            "distName": "平溪區",
+            "landNoName": "石底段竿蓁林小段",
+            "id": 156273,
+            "caseId": 2316,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 308,
+            "landNoId": 6266,
+            "landSerialNo": "377",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 123959,
+            "caseId": 2316,
+            "caseStatus": true,
+            "registerDate": 1242021702000,
+            "officialDocNo": "北府文資字第0980005581號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"新北市平溪區石底段竿蓁林小段377\"}}],\"notfound\":\"沒有地號資料\"}]"
+}

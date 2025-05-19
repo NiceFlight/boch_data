@@ -1,0 +1,107 @@
+{
+    "id": 4300,
+    "caseId": "20061212000001",
+    "count": 896,
+    "shareCount": 0,
+    "representImage": 7226,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39128/photo/4f4326cd-26eb-4d76-abd8-01bb341a77b9_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39128/photo/4f4326cd-26eb-4d76-abd8-01bb341a77b9.jpg",
+        "name": "4f4326cd-26eb-4d76-abd8-01bb341a77b9"
+    },
+    "caseName": "沙鹿鎮南勢坑遺址文化層斷面（灰坑剝取物）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "出土(水)-出土、出水物品",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1165852800000,
+    "officialDocNo": "文資籌研字第09500050540",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事重要淵源",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "「沙鹿鎮南勢坑遺址文化層斷面」（灰坑剝取物）為罕見之多層次灰坑，涵蓋兩個不同時期之文化堆積物，具中部番仔園文化的灰坑特性，且含豐富之歷史訊息，完整保留台中地區古代人類生活行為，深具研究、保存之價值，以及教育展示之功能。符合「古物分級登錄指定及廢止審查辦法」第三條第一項第一、二、五、六款之規定，指定為重要古物。\r\n",
+    "lawsReference": "1.「文化資產保存法」第六十六條。2.「古物分級登錄指定及廢止審查辦法」第三條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "清水區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777#6722",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": " ",
+    "keepNameId": 105,
+    "keepName": "牛罵頭遺址文化園區",
+    "keepNameNew": 105,
+    "keepAddressNew": "臺中市清水區鰲海路59號",
+    "saveSpaceId": 15,
+    "saveSpaceIdentityId": 5,
+    "amount": 1,
+    "descAge": "距今1,000年至650年前",
+    "descCreator": "",
+    "descSize": "高約2.3公尺，長邊約3.5 公尺，短邊約2.5公尺，高度約2.3公尺，厚度約30-60公分。",
+    "descMaterial": "由壤土與文化遺物的集合體構成",
+    "reserveStatusDesc": " ",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "臺中縣沙鹿鎮自由路95巷16號前空地地下灰坑現象（舊地名：南勢坑）。",
+    "saveEnvironment": 2,
+    "reserveStatus": "完整良好",
+    "documents": [
+        {
+            "fileid": 59326,
+            "name": "公告_沙鹿鎮南勢坑遺址文化層斷面.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-06-12/9ac27b48-ed7b-40b4-b4b5-561db9d21a1f/公告_沙鹿鎮南勢坑遺址文化層斷面.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "臺中縣文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "牛罵頭遺址文化園區",
+            "keepName": "牛罵頭遺址文化園區",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "牛罵頭遺址文化園區",
+            "keepAddressNew": "臺中市清水區鰲海路59號",
+            "saveSpaceIdStr": "遺址",
+            "saveSpaceIdentityIdStr": "考古遺址",
+            "type": 1,
+            "keepNameCityName": "臺中市",
+            "keepNameDistName": "清水區",
+            "keepNameAddress": "鰲海路59號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "清水區",
+            "id": 4443,
+            "caseId": 4300,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1026
+        }
+    ],
+    "announces": [
+        {
+            "id": 4443,
+            "caseId": 4300,
+            "caseStatus": true,
+            "registerDate": 1165852800000,
+            "officialDocNo": "文資籌研字第09500050540",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

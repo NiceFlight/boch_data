@@ -1,0 +1,217 @@
+{
+    "id": 85,
+    "caseId": "19850819000011",
+    "count": 6321,
+    "shareCount": 11,
+    "representImage": 173356,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/fb8d0bbf-4e96-4d02-84e2-3a15c40f7857/代表圖像_台北霞海城隍廟20220707_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/fb8d0bbf-4e96-4d02-84e2-3a15c40f7857/代表圖像_台北霞海城隍廟20220707.jpeg",
+        "name": "代表圖像_台北霞海城隍廟20220707"
+    },
+    "caseName": "台北霞海城隍廟",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "霞海城隍，原係福建泉州同安下店鄉五鄉莊居民鎮守之神，於清道光年間由善信陳金絨等奉靈來臺，初建廟於艋舺市區東邊的八甲莊。咸豐三年〈西元一八五三年〉以頂下郊拼毀於兵災，信徒從火焰中救出金身，暫時安置於大稻埕陳浩烈金同利鋪中。咸豐六年〈西元一八五六年〉，乃倡議擇地建廟，地主蘇協臺捐獻廟地，咸豐九年〈西元一八五九年〉，建廟於今址。奉祀霞海城隍主神，並配祀三十八義勇公〈即自艋舺護送金身至大稻埕途中受襲死難者〉等。廟格局較小只有正殿與拜亭，但香火鼎盛，信徒眾多，每遇祭典盛況空前，有「五月十三人看人，迎神賽會甲天下」之稱，近年經過整修，已經恢復原貌。",
+    "assetsTypeNames": "寺廟",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 118233,
+            "name": "_880420民政局公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/a849de00-430b-4542-aa55-28dd3a9a902c/_880420民政局公告.pdf"
+        },
+        {
+            "fileid": 118234,
+            "name": "_740829台閩地區古蹟指定函(2).tif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/c4eb2f27-39a8-4dff-9a45-a90c1a8c86d2/_740829台閩地區古蹟指定函(2).tif"
+        },
+        {
+            "fileid": 118235,
+            "name": "3._740829台閩地區古蹟指定函(1).tif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/6f7b35bc-6cfd-40df-bac1-d3619dfb3697/3._740829台閩地區古蹟指定函(1).tif"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "重要歷史事件或人物之關係",
+        "各時代表現地方營造技術流派特色者",
+        "具稀少性，不易再現者",
+        "具建築史上之意義，有再利用之價值及潛力者",
+        "具其他古蹟價值者"
+    ],
+    "registerReason": "具有保存價值",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 118236,
+            "name": "B063 台北市 大稻埕霞海城隍廟 (三級)04.JPG",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/8c6beeca-5420-45a2-956c-25df67a620a1/B063 台北市 大稻埕霞海城隍廟 (三級)04.JPG"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "locationLandNo": "延平區迪化段二小段223號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "祭祀空間。",
+    "buildingActualState": "本廟之建築物為平家構造，民國二十三年第一次修建時，原狀均未變動。直到民國六十一年第二次修建時偏殿部分牆壁吉木造房間有所拆改。並所有牆壁表面全部加貼磁磚，為內部構造仍舊為創建當時原來之二台尺厚石頭土割材料。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.510168,
+    "latitude": 25.0556001,
+    "representImageSource": "臺北市文化局",
+    "landScope": "延平區迪化段二小段223號",
+    "selfCoverage": "本體",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 87376,
+            "caseId": 85,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "迪化街一段61號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段二小段",
+            "id": 103052,
+            "caseId": 85,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 193,
+            "landSerialNo": "0223-0000",
+            "landownership": 2,
+            "coverageId": 2,
+            "area": "178平方公尺",
+            "note": "重測前:永樂段三小段5地號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段二小段",
+            "id": 103053,
+            "caseId": 85,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 193,
+            "landSerialNo": "0224-0000",
+            "landownership": 1,
+            "coverageId": 2,
+            "area": "120平方公尺",
+            "note": "重測前:永樂段三小段7地號\n因分割增加地號:224-1、224-2、224-3地號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段二小段",
+            "id": 103054,
+            "caseId": 85,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 193,
+            "landSerialNo": "0224-0002",
+            "landownership": 1,
+            "coverageId": 2,
+            "area": "75平方公尺",
+            "note": "分割自:224地號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段二小段",
+            "id": 103055,
+            "caseId": 85,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 193,
+            "landSerialNo": "0225-0000",
+            "landownership": 2,
+            "coverageId": 2,
+            "area": "9平方公尺",
+            "note": "重測前:永樂段三小段6地號\n因分割增加地號:225-1地號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段二小段",
+            "id": 103056,
+            "caseId": 85,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 193,
+            "landSerialNo": "0225-0001",
+            "landownership": 2,
+            "coverageId": 2,
+            "area": "13平方公尺",
+            "note": "分割自:225地號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段二小段",
+            "id": 103057,
+            "caseId": 85,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 193,
+            "landSerialNo": "0226-0000",
+            "landownership": 2,
+            "coverageId": 2,
+            "area": "19平方公尺",
+            "note": "重測前:永樂段三小段6-3地號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段二小段",
+            "id": 103058,
+            "caseId": 85,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 193,
+            "landSerialNo": "0227-0000",
+            "landownership": 2,
+            "coverageId": 2,
+            "area": "27平方公尺",
+            "note": "重測前:永樂段三小段6-4地號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 94099,
+            "caseId": 85,
+            "caseStatus": true,
+            "registerDate": 493228800000,
+            "officialDocNo": "台內民字第338095號",
+            "classificationId": 1,
+            "note": "古蹟"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false,
+    "pastHistorySource": "（略）"
+}

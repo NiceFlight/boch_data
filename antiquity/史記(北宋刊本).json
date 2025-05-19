@@ -1,0 +1,108 @@
+{
+    "id": 4245,
+    "caseId": "20140915000023",
+    "count": 473,
+    "shareCount": 0,
+    "representImage": 7165,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/5869/photo/史記(北宋刊本)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/5869/photo/史記(北宋刊本).jpg",
+        "name": "史記(北宋刊本)"
+    },
+    "caseName": "史記(北宋刊本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1410710400000,
+    "officialDocNo": "10320112111",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "歷史流傳已久或史事具有深厚淵源",
+        "具有特殊之時代特色、技術及流派",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本書為北宋刊南宋遞修本，配補南宋黃善夫本及元饒州路儒學本。曾經中央研究院歷史語言研究所趙萬里、傅斯年、勞榦等先生，由避諱字、刻工及〈老子傳〉為「列傳之首」審之，本書確為北宋刊南宋遞修本。勞榦嘗言：「此書至精，今世幾無第二帙可與並論者，誠乙部之冠冕，人間之至寶也」。\r\n此書版本為目前僅見，配補之南宋黃善夫本亦為珍稀，具特殊歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第4條第1項第1、2、3、5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "南港區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "185467-185506",
+    "keepNameId": 15,
+    "keepName": "博斯年圖書館",
+    "keepNameNew": 15,
+    "keepAddressNew": "115台北市南港區研究院路二段130號",
+    "saveSpaceId": 11,
+    "saveSpaceIdentityId": 8,
+    "amount": 40,
+    "notes": "",
+    "descAge": "北宋",
+    "descCreator": "（漢）司馬遷撰；（劉宋）裴駰集解",
+    "descSize": "30.1x19.5公分；版框22.1×14.8公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "一百三十卷，存一百十五卷，所缺〈本紀〉五、六及〈世家〉十八至二十五，以元饒州路儒學本配補（十行二十二字，三魚尾）；又缺〈列傳〉四十一至四十五，以南宋黃善夫本配補（十行十八字，雙魚尾）。\n半葉十行十九字，注文雙行二十五、六、七字不等；左右雙邊，白口，單魚尾，魚尾下方刻書名卷第、葉次及刻工。\n首冊前有民國九年曹元忠手書題記，末有民國三十年郭則澐手跋；第二冊末有沈曾植手跋；第二十一冊卷中有民國廿五年傅增湘手書簽條。本書鈐有明朱承爵「朱子儋印」、傅增湘「傅增湘」、「沅叔審定」、「藏園秘籍」、「藏園秘籍孤本」、「雙鑑樓」、「雙鑑樓珍藏印」、「藏園老人」；傅忠謨「忠謨繼鑑」、「晉生心賞」；史語所收藏珍本圖書記等印記。",
+    "pastHistorySource": 2,
+    "saveEnvironment": 1,
+    "reserveStatus": "全書八函四十冊，金鑲玉裝。部分葉面有白塗料，少部分有蛀洞、水漬、缺損及書口裂開，餘尚佳。\n        \n\n",
+    "documents": [
+        {
+            "fileid": 7166,
+            "name": "b46e4afd-5a89-4566-8d9e-51140b349534.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44637/file/b46e4afd-5a89-4566-8d9e-51140b349534.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "中央研究院傅斯年圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "中央研究院歷史語言研究所-傅斯年圖書館",
+            "keepName": "博斯年圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "中央研究院歷史語言研究所-傅斯年圖書館",
+            "keepAddressNew": "115台北市南港區研究院路二段130號",
+            "saveSpaceIdStr": "研究設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "南港區",
+            "keepNameAddress": "研究院路二段130號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "南港區",
+            "id": 4387,
+            "caseId": 4245,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 111
+        }
+    ],
+    "announces": [
+        {
+            "id": 4387,
+            "caseId": 4245,
+            "caseStatus": true,
+            "registerDate": 1410710400000,
+            "officialDocNo": "10320112111",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

@@ -1,0 +1,102 @@
+{
+    "id": 17629,
+    "caseId": "20200610000006",
+    "count": 288,
+    "shareCount": 0,
+    "representImage": 69583,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-06-10/42de387e-acc0-4509-aa3c-0c53447a2992/06清 白瓷鍑式洗(帶銅膽)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-06-10/42de387e-acc0-4509-aa3c-0c53447a2992/06清 白瓷鍑式洗(帶銅膽).jpg",
+        "name": "06清 白瓷鍑式洗(帶銅膽)"
+    },
+    "caseName": "清 白瓷鍑式洗（帶銅膽）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1589882610411,
+    "officialDocNo": "文授資局物字第10930056341號",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "數量特別稀少或具完整性保存意義者",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此器仿銅器鍑形，斂口，腹部扁圓，平底，矮圓足。厚胎濃釉，白色純潔勻潤。底面鐫刻乾隆皇帝〈詠定窯素鍑〉御製詩。詩末署「乾隆庚子仲春御題」紀年銘（乾隆四十五年：1780），且落「幾暇怡情」一枚鈐印。從傳世隨附有面開七孔的銅膽，得知此器流傳至清宮曾被當作花器使用。現今所知傳世帶有御製詩的瓷器，約為130件，可知數量特別稀少。另外，透過御製詩的內容以及器上鈐印，可推知乾隆皇帝對此器的識別與鑑賞觀，益顯珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": " 文化部文化資產局",
+    "govDeptPhone": " 04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故瓷4056",
+    "amount": 1,
+    "descAge": " 清",
+    "descSize": "高8.8公分，口徑12.8公分，足徑12.3公分",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "此器仿銅器鍑，斂口出一道捲邊，腹部扁圓，中間一道轉折，平底，矮圈足。厚胎上施透明白釉，積釉處釉色偏黃，釉表開冰裂細紋片，施釉至足際，底緣無釉，露胎處加塗深赭色護胎汁。底面鐫刻乾隆皇帝〈詠定窯素鍑〉御製詩。詩末署「乾隆庚子仲春御題」紀年銘（乾隆四十五年，1780），且落「幾暇怡情」一枚鈐印。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "良好。",
+    "documents": [
+        {
+            "fileid": 144400,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-10/4d914880-bbbc-4f04-94ce-633f295c710e/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69980,
+            "caseId": 17629,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 74198,
+            "caseId": 17629,
+            "caseStatus": true,
+            "registerDate": 1589882610411,
+            "officialDocNo": "文授資局物字第10930056341號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

@@ -1,0 +1,175 @@
+{
+    "id": 947,
+    "caseId": "20120301000001",
+    "count": 2550,
+    "shareCount": 2,
+    "representImage": 170937,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/2166fb9d-e665-4d62-bde8-722970155cc2/代表圖像_迪化街一段248號_20220623_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/2166fb9d-e665-4d62-bde8-722970155cc2/代表圖像_迪化街一段248號_20220623.jpg",
+        "name": "代表圖像_迪化街一段248號_20220623"
+    },
+    "caseName": "迪化街一段248號",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "約建於清末及日治時期之間(西元1885~1927)，初建時應為一層樓建築，日治時期經過市街改正，成為二樓二進建築，立面形式受日人「現代式」立面影響，裝飾簡明單純，與日治早期流行的裝飾性華麗風格不同。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 163674,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/f925e0fd-670d-485a-97e2-aee7d175e7f5/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1、立面型式及構造符合大稻埕迪化街區風貌，立面為國防色面磚，開窗極簡潔，為現代主義影響之設計。\r\n2、天井與鄰棟建物有一口共用井，於臺北附近頗為罕見，本建物為迪化街整體景觀重要組成的一部分。",
+    "lawsReference": "文化資產保存法、歷史建築登錄廢止審查及輔助辦法第2條第1項第1、2、4款評定基準。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 163675,
+            "name": "迪化街一段248號.gif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/b6a35840-031d-4e9d-a4c4-e9fb7e391404/迪化街一段248號.gif"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "大稻埕歷史風貌特定專用區",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市大同區延平段二小段915、916、916-1、916-2地號",
+    "buildingFeatures": "層樓建物，平面格局為「兩進單過廊」，建物中央有天井，為四柱三窗之形式，立面面材為國防磚。",
+    "inHouseFeatures": "室內有唭哩岸石牆面、天井牆面留有共用井痕跡、木桁木天花。",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isOpenDownload": false,
+    "longitude": 121.5092822,
+    "latitude": 25.0602047,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市大同區延平段二小段915、916、916-1、916-2地號",
+    "selfCoverage": "臺北市大同區延平段二小段570、571建號，416.16平方公尺，以實際測量面積為準。",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 83733,
+            "caseId": 947,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "迪化街1段248號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 94563,
+            "caseId": 947,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 188,
+            "landSerialNo": "915",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "20平方公尺",
+            "cityLandUseTypeOther": "大稻埕歷史風貌特定專用區",
+            "note": "其他登記事項:\t重測前：永樂段５小段２４０—１地號\n（權狀註記事項）建築基地地號：延平段二小段９１５、９１６、９１６－１、９１６－２地號\n地價備註事項:\t(空白)\n土地參考資訊檔:\t土地使用分區;特定專用區(供特定住宅使用)。",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 94564,
+            "caseId": 947,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 188,
+            "landSerialNo": "916",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "2平方公尺",
+            "cityLandUseTypeOther": "大稻埕歷史風貌特定專用區",
+            "note": "重測前：永樂段５小段２４０地號\n因分割增加地號：９１６—１地號\n因分割增加地號：９１６—２地號\n（權狀註記事項）建築基地地號：延平段二小段９１５、９１６、９１６－１、９１６－２地號\n地價備註事項:\t(空白)\n土地參考資訊檔:\t土地使用分區;特定專用區(供河濱住宅使用)。",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 94565,
+            "caseId": 947,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 188,
+            "landSerialNo": "916-1",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "1平方公尺",
+            "cityLandUseTypeOther": "大稻埕歷史風貌特定專用區",
+            "note": "其他登記事項:\t分割自：９１６地號\n（權狀註記事項）建築基地地號：延平段二小段９１５、９１６、９１６－１、９１６－２地號\n地價備註事項:\t(空白)\n土地參考資訊檔:\t土地使用分區;特定專用區(供特定住宅使用)。",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 94566,
+            "caseId": 947,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 188,
+            "landSerialNo": "916-2",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "217平方公尺",
+            "cityLandUseTypeOther": "大稻埕歷史風貌特定專用區",
+            "note": "其他登記事項:\t分割自：９１６地號\n（權狀註記事項）建築基地地號：延平段二小段９１５、９１６、９１６－１、９１６－２地號\n地價備註事項:\t(空白)\n土地參考資訊檔:\t土地使用分區;特定專用區(供特定住宅使用)。",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 89912,
+            "caseId": 947,
+            "caseStatus": true,
+            "registerDate": 1330531200000,
+            "officialDocNo": "北市文化二字第10130287000 號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "劉亞邦建築師事務所"
+}

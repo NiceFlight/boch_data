@@ -1,0 +1,106 @@
+{
+    "id": 16942,
+    "caseId": "20190730000009",
+    "count": 113,
+    "shareCount": 0,
+    "representImage": 153732,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-03-02/de907cdb-97bc-4356-bd8d-97b61ec774b3/K1B017426N000000000PAC_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-03-02/de907cdb-97bc-4356-bd8d-97b61ec774b3/K1B017426N000000000PAC.jpg",
+        "name": "K1B017426N000000000PAC"
+    },
+    "caseName": "定窯系白瓷劃花如意枕",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1564131589774,
+    "officialDocNo": "文授資局物字第10830078621號",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "數量特別稀少或具完整性保存意義者",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "枕作如意形，枕面及週壁施白釉。底面鐫刻乾隆皇帝〈白瓷枕〉御製詩，詩末署「乾隆丙寅御題」（乾隆十一年：1746），並落「乾」、「隆」兩枚鈐印。\n乾隆皇帝鑑賞瓷枕，透過作夢的聯想，表達出「竭此夢羲皇，古風如可即」。以藉由瓷枕神遊上古與聖人交流。此點反映出他擬透過御製詩，賦予一件瓷枕全新涵意，以及和聖人交流功能。此器的御製詩流露出乾隆皇帝對陶瓷器重視及其鑑賞觀，益顯珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故瓷017426",
+    "amount": 1,
+    "descAge": "北宋至金",
+    "descSize": "最高14公分、面通長36.5公分、面通寬29.8公分、底通長31公分、底通寬23.8公分",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "枕作如意形，週壁前高後低，枕面略凹，前週壁留有兩個圓孔，器內中空。胎骨堅實，枕面及週壁施白釉，底面無釉露出灰白色胎。枕面中心劃錦地牡丹外圍菱形邊，菱形外緣，再劃一圈勾雲紋、一圈卷草紋，最外層則繞如意形篦劃七道線紋。底面鐫刻乾隆皇帝〈白瓷枕〉詩，詩末署「乾隆丙寅御題」（乾隆十一年：1746），並落「乾」、「隆」兩枚鈐印。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "器面多處縮釉及舊使用痕，枕沿、底沿多處脫釉。",
+    "documents": [
+        {
+            "fileid": 145778,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-22/060360b7-9ea7-49a2-8956-9fb032eeb60b/公告.pdf"
+        },
+        {
+            "fileid": 145779,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-22/6d5d0779-757b-4efc-a65c-33166463af82/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 72878,
+            "caseId": 16942,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 77726,
+            "caseId": 16942,
+            "caseStatus": true,
+            "registerDate": 1564131589774,
+            "officialDocNo": "文授資局物字第10830078621號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

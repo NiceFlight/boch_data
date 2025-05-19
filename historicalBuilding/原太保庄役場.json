@@ -1,0 +1,92 @@
+{
+    "id": 17615,
+    "caseId": "20200528000001",
+    "count": 2333,
+    "shareCount": 1,
+    "representImage": 69315,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-05-28/c00ba8aa-913b-412e-9d66-967b3089c803/照片二_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-05-28/c00ba8aa-913b-412e-9d66-967b3089c803/照片二.jpg",
+        "name": "照片二"
+    },
+    "caseName": "原太保庄役場",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "日治時期太保庄政府機關所在，為地方治理中官方建物之代表，見證太保地區行政制度及空間變遷。",
+    "assetsTypeNames": "機關",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1579104000000,
+    "officialDocNo": "府授文資字第1090003219號函",
+    "documents": [
+        {
+            "fileid": 177534,
+            "name": "原太保庄役場-公告1090116.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-08-01/71ab4e3b-361e-4f9e-8b89-93f1ba06be93/原太保庄役場-公告1090116.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1.表現地域風貌或民間藝術特色者：保留日治中期公共建築的型制及風格，有公家衙署之歷史意義，另可供研究1976年代移屋技術。\n2.具建築史或技術史之價值者：採用日治時期小型辦公室式樣與建築工法，完整呈現1920年代建築特色與裝飾藝術風貌，具有臺灣建築史之研究價值。\n3.具地區性建造物類型之特色者：日治時期太保庄政府機關所在，為地方治理中官方建物之代表，見證太保地區行政制度及空間變遷。\n",
+    "lawsReference": "《歷史建築紀念建築登錄廢止審查及輔助辦法》第2條第1項第1、2、3款登錄基準。",
+    "govInstitutionCode": "612",
+    "govInstitutionName": "嘉義縣政府",
+    "belongCityId": 15,
+    "belongCityName": "嘉義縣",
+    "belongDistName": "太保市",
+    "govInstitution": "嘉義縣文化觀光局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "05-3628123*310",
+    "govDeptAddress": "嘉義縣太保市太子大道158號",
+    "cadasters": [
+        {
+            "fileid": 69316,
+            "name": "地籍圖.png",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2020-05-28/d28c5e9b-de8e-4249-ab82-0bba23ce6ee8/地籍圖.png"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "嘉義縣太保市祥和段670、678地號",
+    "bulkTransfer": 0,
+    "belongAddress": "嘉義縣太保市太保里66號",
+    "isOpenVisit": false,
+    "isOpenDownload": false,
+    "longitude": 120.3323479,
+    "latitude": 23.458967,
+    "representImageSource": "嘉義縣文化觀光局",
+    "landScope": "嘉義縣太保市祥和段670、678地號內部分土地",
+    "selfCoverage": "庄役場",
+    "addresses": [
+        {
+            "cityName": "嘉義縣",
+            "distName": "太保市",
+            "id": 129922,
+            "caseId": 17615,
+            "caseStatus": true,
+            "cityId": 15,
+            "distId": 1509,
+            "address": "太保里66號"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 141494,
+            "caseId": 17615,
+            "caseStatus": true,
+            "registerDate": 1579104000000,
+            "officialDocNo": "府授文資字第1090003219號函",
+            "classificationId": 1
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": " "
+}

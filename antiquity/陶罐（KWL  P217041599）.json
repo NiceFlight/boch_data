@@ -1,0 +1,107 @@
+{
+    "id": 2918,
+    "caseId": "20090121000006",
+    "count": 394,
+    "shareCount": 0,
+    "representImage": 133751,
+    "representImageInfo": {
+        "ext": "gif",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-08-23/008fd40a-c69c-4bbf-a332-6be815868e06/A04陶罐(KWL P217041599)代表圖_c.gif"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-08-23/008fd40a-c69c-4bbf-a332-6be815868e06/A04陶罐(KWL P217041599)代表圖.gif",
+        "name": "A04陶罐(KWL P217041599)代表圖"
+    },
+    "caseName": "陶罐（KWL  P217041599）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1232467200000,
+    "officialDocNo": "府文資字第0980000328號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "（1）宜蘭淇武蘭遺址所出土的代表性陶罐，其保存狀況良好，並對地方文化歷史具有重要意義。\n（2）此陶罐展現宜蘭史前噶瑪蘭族群的工藝文化，並象徵該族群早先的歷史文化生活記錄。",
+    "lawsReference": "「文化資產保存法」第65條、「古物分級登錄指定及廢止審查辦法」第2條",
+    "govInstitutionCode": "260",
+    "govInstitutionName": "宜蘭縣政府",
+    "belongCityId": 4,
+    "belongCityName": "宜蘭縣",
+    "belongDistName": "宜蘭市",
+    "govInstitution": "宜蘭縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-9322440#609",
+    "govDeptAddress": "宜蘭縣宜蘭市復興路二段101號",
+    "reservationCode": "KWL  P217041599",
+    "amount": 1,
+    "notes": "",
+    "descAge": "600-200年前",
+    "descCreator": "噶瑪蘭人",
+    "descSize": "口徑120mm、總高114mm、腹厚3m",
+    "descMaterial": "陶",
+    "reserveStatusDesc": "陶",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "宜蘭縣礁溪鄉淇武蘭遺址出土",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 133750,
+            "name": "A04陶罐(KWL P217041599)公告公文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-08-23/34c76ab1-632d-4e94-bb52-bb8ff1857224/A04陶罐(KWL P217041599)公告公文.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 121.744848,
+    "latitude": 24.748957,
+    "representImageSource": "宜蘭縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "宜蘭縣立蘭陽博物館",
+            "keepName": "宜蘭縣立蘭陽博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "宜蘭縣立蘭陽博物館",
+            "keepAddressNew": "宜蘭縣頭城鎮青雲路三段750號",
+            "saveSpaceIdStr": "公務設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "宜蘭縣",
+            "keepNameDistName": "頭城鎮",
+            "keepNameAddress": "青雲路三段750號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "宜蘭縣",
+            "distName": "頭城鎮",
+            "id": 116393,
+            "caseId": 2918,
+            "caseStatus": true,
+            "cityId": 4,
+            "distId": 402,
+            "address": "青雲路三段750號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 127086,
+            "caseId": 2918,
+            "caseStatus": true,
+            "registerDate": 1232467200000,
+            "officialDocNo": "府文資字第0980000328號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

@@ -1,0 +1,101 @@
+{
+    "id": 3825,
+    "caseId": "20140421000039",
+    "count": 395,
+    "shareCount": 0,
+    "representImage": 6628,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7091/photo/印度平口雙柄蓋碗_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7091/photo/印度平口雙柄蓋碗.JPG",
+        "name": "印度平口雙柄蓋碗"
+    },
+    "caseName": "印度平口雙柄蓋碗",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1398009600000,
+    "officialDocNo": "文資物字第10320043691號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "品質精良且數量稀少"
+    ],
+    "registerReason": "此件印度平口雙柄蓋碗，豆綠色玉，蓋面與腹壁上，嵌飾白玉、碧玉、金屬絲、紅寶石等。碗身比例與常見的蒙兀兒玉碗不同，器底淺浮雕平展的八瓣花。蓋鈕琢成花蕾形。雙柄自腹壁中段向斜上方立雕一捲葉，葉內綻放盛開的小花，與典型蒙兀兒的作法不同，可能是十八世紀在印度為銷售至中國而產生的新款式，對研究中印商業、藝術交流具重要價值。\r\n此器在碗心及蓋內分別刻上「乾隆御用」及「子孫永寶」。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第1、5款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故玉003887",
+    "amount": 1,
+    "notes": "",
+    "descAge": "18世紀",
+    "descSize": "全高：9.7；口徑：12.9；底徑：6.7（公分）",
+    "descMaterial": "閃玉、金屬絲、紅寶石等",
+    "reserveStatusDesc": "質材：豆綠色玉，蓋面與腹壁上，嵌飾白玉、碧玉、金屬絲、紅寶石等。\r\n形制：深腹的蓋碗，碗身比例與常見的蒙兀兒玉碗不同，器底淺浮雕平展的八瓣花。蓋鈕琢成花蕾形。雙柄自腹壁中段向斜上方立雕一捲葉，葉內綻放盛開的小花，與典型蒙兀兒雙柄碗自腹壁下緣貼著器壁淺浮雕莨苕長葉至口沿，再垂下花苞的作法不同。\r\n紋飾：蓋面與腹壁嵌飾花葉紋。\r\n特徵：碗心及蓋內分別刻上「乾隆御用」及「子孫永寶」。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 150289,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-13/2da95579-a9b0-4c32-a8d3-924222fe0635/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70896,
+            "caseId": 3825,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": " 至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75172,
+            "caseId": 3825,
+            "caseStatus": true,
+            "registerDate": 1398009600000,
+            "officialDocNo": "文資物字第10320043691號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

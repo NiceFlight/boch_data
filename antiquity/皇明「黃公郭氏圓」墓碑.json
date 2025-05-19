@@ -1,0 +1,113 @@
+{
+    "id": 2914,
+    "caseId": "20130717000003",
+    "count": 894,
+    "shareCount": 3,
+    "representImage": 5287,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7391/photo/皇明「黃公郭氏圓」墓碑_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7391/photo/皇明「黃公郭氏圓」墓碑.JPG",
+        "name": "皇明「黃公郭氏圓」墓碑"
+    },
+    "caseName": "皇明「黃公郭氏圓」墓碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-其他",
+    "otherAssetsType": "墓碑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1373990400000,
+    "officialDocNo": "北府文資字第1022234918號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "一、碑文顯示淡水地區的漢人開發史可溯自明鄭政權，具有歷史意義。\r\n二、碑文見證明鄭時期北臺民間社會母女相依為命之史事淵源。\r\n三、目前北臺此一時期的墓碑極為少量，足以補足明鄭時期地方史事，具有珍貴性及稀有性。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第1、2、5、6款",
+    "govInstitutionCode": "220",
+    "govInstitutionName": "新北市政府",
+    "belongCityId": 3,
+    "belongCityName": "新北市",
+    "belongDistName": "淡水區",
+    "govInstitution": "新北市政府",
+    "govDeptName": "文化局",
+    "govDeptPhone": "(02)2960-3456",
+    "govDeptAddress": "新北市板橋區中山路1段161號28樓",
+    "reservationCode": "暫缺",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明永曆二十年",
+    "descCreator": "黃腰 ",
+    "descSize": "厚9公分x 寬21公分x高55公分",
+    "descMaterial": "石質",
+    "reserveStatusDesc": "皇明「黄公郭氏圓」墓碑原係由民眾所蒐藏，嗣因故捐贈新北市政府文化局，現由新北市立淡水古蹟博物館典藏中。\n皇明「黄公郭氏圓」墓碑主要材質為石，石雕技法，長方體造型，年代在明永曆二十年（1666年，丙午年），古物分類為生活及儀禮器物。\n碑文顯示淡水地區的歷史可溯自明鄭政權，具有歷史意義；同時見證鄭氏時期北臺民間社會母女相依為命之史事淵源。\n目前北臺此一時期的墓碑極為少量，足以補足明鄭時期地方史事，具有珍貴性及稀有性。",
+    "pastHistorySource": 1,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 136357,
+            "name": "1020717公告_古物_皇明「黃公郭氏圓」墓碑.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-08-31/a4561dcf-d6c1-46a3-9913-ac37e9158f76/1020717公告_古物_皇明「黃公郭氏圓」墓碑.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 25.1786,
+    "latitude": 121.4292,
+    "representImageSource": "新北市政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "新北市立淡水古蹟博物館",
+            "keepName": "新北市淡水區中正路28巷1號",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "新北市立淡水古蹟博物館",
+            "keepAddressNew": "新北市淡水區中正路28巷1號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "新北市",
+            "keepNameDistName": "淡水區",
+            "keepNameAddress": "中正路1段6巷32-2號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "新北市",
+            "distName": "淡水區",
+            "id": 148149,
+            "caseId": 2914,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 327,
+            "address": "中正路28巷1號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 160931,
+            "caseId": 2914,
+            "caseStatus": true,
+            "registerDate": 1367251200000,
+            "officialDocNo": "北府文資字第1021666326號",
+            "classificationId": 3
+        },
+        {
+            "id": 160932,
+            "caseId": 2914,
+            "caseStatus": true,
+            "registerDate": 1373990400000,
+            "officialDocNo": "北府文資字第1022234918號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

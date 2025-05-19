@@ -1,0 +1,96 @@
+{
+    "id": 19628,
+    "caseId": "20210719000016",
+    "count": 329,
+    "shareCount": 0,
+    "representImage": 125206,
+    "representImageInfo": {
+        "ext": "bmp",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-19/76f62bac-3f5b-4938-b043-e74a81484466/圖片16_c.bmp"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-19/76f62bac-3f5b-4938-b043-e74a81484466/圖片16.bmp",
+        "name": "圖片16"
+    },
+    "caseName": "清乾隆黃釉雙獸耳罐",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "數量特別稀少或具完整性保存意義者",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此器呈敞口，腹部上廣下削，平底淺凹。全器光素，僅肩上飾雙耳小獸形，器內外滿覆黃釉。器底有深色氣泡於釉下，並陰刻「大清乾隆年製」篆書款。此件雙獸耳罐顏色明亮鮮黃，在清代祭祀中，該類製品又稱為「尊」，黃色瓷尊盛酒，是在向地神、農耕之神、蠶桑之神祈福時的祭器，可見清代延續《周禮》中以黃色為大地之神顏色的傳統。另一方面，在清代，明黃色是帝王一族的顏色，其燒成品即使有瑕疵，亦禁止發賣民間，益顯珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "0422177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "中瓷001543",
+    "amount": 1,
+    "descAge": " 清",
+    "descSize": "高28.3公分",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "此器呈敞口，腹部上廣下削，平底淺凹。全器光素，僅肩上飾雙耳小獸形，器內外滿覆黃釉。器底有深色氣泡於釉下，並陰刻「大清乾隆年製」篆書款。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "器身舊刮痕、圈足舊傷缺。",
+    "documents": [
+        {
+            "fileid": 142619,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-03/2c75f515-5171-4c40-b722-8861672cf2fa/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.5484322510235,
+    "latitude": 121.5484322510235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": " ",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 66408,
+            "caseId": 19628,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 70597,
+            "caseId": 19628,
+            "caseStatus": true,
+            "registerDate": 1624434776558,
+            "officialDocNo": "文授資局物字第11030062561號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

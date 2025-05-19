@@ -1,0 +1,107 @@
+{
+    "id": 16564,
+    "caseId": "20190215000003",
+    "count": 158,
+    "shareCount": 0,
+    "representImage": 55421,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-02-15/1f185900-fa98-4cbd-93a4-962a7a131e24/5-中銅-001527-1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-02-15/1f185900-fa98-4cbd-93a4-962a7a131e24/5-中銅-001527-1.jpg",
+        "name": "5-中銅-001527-1"
+    },
+    "caseName": "亞醜方觚",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖,生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1550115737837,
+    "officialDocNo": "文授資局物字第10830016641號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "數量特別稀少或具完整性保存意義者",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此器為少見的方觚形制，高43.3公分，重7.5公斤，器壁厚實，鑄造精美，紋飾細緻。\n晚商貴族的器用中，方形器較圓形器更加尊貴，是高級貴族所擁有的器物。與本器相近者如德國科隆博物館藏一件高30.9公分的方觚。考古出土之參考器見於1990年河南安陽郭家莊M160號墓出土的方觚（M160：170）。M160方觚通高29.7公分，重1.95公斤。本器較之更加宏偉，也更表現出器主獨特的社會地位。\n帶有「亞醜」銘文的器物，曾多次出土於山東益都蘇埠屯遺址，體現晚商時期這一徽記所代表的人群在當時的特殊性。「亞醜」器群以傳世的方形器見長，此器即為清宮舊藏「亞醜」器中之精品。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第3、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "中銅001527",
+    "amount": 1,
+    "descAge": "商晚期(西元前11世紀)",
+    "descSize": "高43.3公分/口徑22.5×22.5公分/重7.535公斤",
+    "descMaterial": "銅/鑄造",
+    "reserveStatusDesc": "器呈方形，侈口，高足外撇。紋飾分為三段。脰部飾蕉葉紋，下為四瓣目紋；器腹為獸面紋；足上有一周四瓣目紋，下為獸面紋。紋飾均以雲雷紋襯地。脰、腹、足上皆有高鼓而粗厚的扉稜。全器器壁厚實，鑄造精美，紋飾細緻。器內壁有「亞醜」銘。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏，原陳設於熱河行宮。",
+    "saveEnvironment": 1,
+    "reserveStatus": "良好。",
+    "documents": [
+        {
+            "fileid": 146906,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-03/749a09b0-a0a7-4662-840c-7366a8342792/公告.pdf"
+        },
+        {
+            "fileid": 146907,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-03/91bbb8cc-63c4-4e46-a81f-dec073d36ac7/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 68734,
+            "caseId": 16564,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 72834,
+            "caseId": 16564,
+            "caseStatus": true,
+            "registerDate": 1550115737837,
+            "officialDocNo": "文授資局物字第10830016641號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

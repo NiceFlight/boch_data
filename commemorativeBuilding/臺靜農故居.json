@@ -1,0 +1,101 @@
+{
+    "id": 17668,
+    "caseId": "20200630000001",
+    "count": 3559,
+    "shareCount": 3,
+    "representImage": 69874,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/707aff4f-dd6f-48a2-acd8-8dca3526ba5b/52175_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/707aff4f-dd6f-48a2-acd8-8dca3526ba5b/52175.jpg",
+        "name": "52175"
+    },
+    "caseName": "臺靜農故居",
+    "classifyCode": "1.4",
+    "classifyName": "紀念建築",
+    "pastHistory": "1.本建物為1930年代所建，建物正面入口為「唐博風」形式，各部日式建物特徵尚保存完好，且坐落區位延續日治時代以來文教機構宿舍區之紋理風貌，具保存價值。\n2.臺靜農為臺灣大學教授，國立臺灣大學校門字體即取其書法集字，1990年5月遷至本址配住，同年11月過世。本建物為臺靜農最後住所，在臺灣人文學術發展史上具歷史意義。\n",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.4",
+    "assetsClassifyName": "紀念建築",
+    "documents": [
+        {
+            "fileid": 69875,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/bf223556-9e75-4332-94fc-8e65d65b0769/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者",
+        "合於歷史建築登錄基準之建造物與附屬設施物，如屬與歷史、文化、藝術等具有重要貢獻之人物相關者，得登錄為紀念建築"
+    ],
+    "registerReason": "1.本建物為1930年代所建，建物正面入口為「唐博風」形式，各部日式建物特徵尚保存完好，且坐落區位延續日治時代以來文教機構宿舍區之紋理風貌，具保存價值。\n2.臺靜農為臺灣大學教授，國立臺灣大學校門字體即取其書法集字，1990年5月遷至本址配住，同年11月過世。本建物為臺靜農最後住所，在臺灣人文學術發展史上具歷史意義。\n",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第2、3款,<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第2項",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 69876,
+            "name": "地籍地形圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/15eadcd9-5d3b-4f0d-9b36-3d1ffd3ebc55/地籍地形圖.pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isOpenDownload": false,
+    "longitude": 121.53358275974493,
+    "latitude": 25.024675054547625,
+    "representImageSource": "文化局",
+    "landScope": "坐落土地為臺北市大安區龍泉段一小段105地號，面積為382平方公尺。",
+    "selfCoverage": "125.16平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 83177,
+            "caseId": 17668,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "溫州街25號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "龍泉段一小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 92557,
+            "caseId": 17668,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 717,
+            "landSerialNo": "105",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "382",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 89382,
+            "caseId": 17668,
+            "caseStatus": true,
+            "registerDate": 1591891200000,
+            "officialDocNo": "北市文化文資字第10930221431號",
+            "classificationId": 1,
+            "note": "登錄紀念建築"
+        }
+    ],
+    "openVisitType": ""
+}

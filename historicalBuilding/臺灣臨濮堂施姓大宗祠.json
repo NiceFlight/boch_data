@@ -1,0 +1,133 @@
+{
+    "id": 22099,
+    "caseId": "20231003000001",
+    "count": 1031,
+    "shareCount": 1,
+    "representImage": 232513,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-10-03/ecb88911-a860-4895-b78e-c3fe1a7e318f/20220628施姓大宗祠_220628_10_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-10-03/ecb88911-a860-4895-b78e-c3fe1a7e318f/20220628施姓大宗祠_220628_10.jpg",
+        "name": "20220628施姓大宗祠_220628_10"
+    },
+    "caseName": "臺灣臨濮堂施姓大宗祠",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待調查研究後補充更新",
+    "assetsTypeNames": "祠堂",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 232479,
+            "name": "﹝公告﹞112.0731-歷史建築-中西區-臺灣臨濮堂施姓大宗祠.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-10-03/3ed71a2d-88f5-4955-a411-34460d5f4c07/﹝公告﹞112.0731-歷史建築-中西區-臺灣臨濮堂施姓大宗祠.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者"
+    ],
+    "registerReason": "表現地域風貌或民間藝術特色者：宗祠本體保有三通五瓜之木構架特色，正面三開間14扇木門留有潘岳雄之作品，拜亭採用西洋柱式之裝飾手法，呈現融合之風。\n",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第2款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "govInstitution": "臺南市文化資產管理處",
+    "govDeptName": "文化資產研究組",
+    "govDeptPhone": "06-2213579#607",
+    "govDeptAddress": "臺南市中西區中正路五巷一號3F",
+    "cadasters": [
+        {
+            "fileid": 232480,
+            "name": "﹝附圖﹞歷史建築「臺灣臨濮堂施姓大宗祠」.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2023-10-03/056d3518-835c-4135-9318-ef9aa0a229b5/﹝附圖﹞歷史建築「臺灣臨濮堂施姓大宗祠」.pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isOpenDownload": false,
+    "longitude": 120.19591,
+    "latitude": 22.9951,
+    "representImageSource": "機關拍攝",
+    "landScope": "臺南市中西區中正段916 、917 、918 地號，面積合計890 .79 平方公尺。",
+    "selfCoverage": "宗祠本體，包含明間及二側次間、宗祠拜亭，面積約200 平方公尺。",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "id": 148468,
+            "caseId": 22099,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601,
+            "address": "海安路二段79巷32號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "landNoName": "中正段",
+            "id": 205274,
+            "caseId": 22099,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601,
+            "landNoId": 2395,
+            "landSerialNo": "916",
+            "landownership": 1,
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "landNoName": "中正段",
+            "id": 205275,
+            "caseId": 22099,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601,
+            "landNoId": 2395,
+            "landSerialNo": "917",
+            "landownership": 2,
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "landNoName": "中正段",
+            "id": 205276,
+            "caseId": 22099,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601,
+            "landNoId": 2395,
+            "landSerialNo": "918",
+            "landownership": 2,
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 161376,
+            "caseId": 22099,
+            "caseStatus": true,
+            "registerDate": 1690790568234,
+            "officialDocNo": "南市文資字地1120949746A",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.19572573346285,22.995012423770167],[120.19571170879424,22.995107683542624],[120.19570893855322,22.995218026573454],[120.19573180645556,22.995332491085176],[120.1960298282167,22.99520557752132],[120.19602642792042,22.99519504920395],[120.1960169237255,22.99519570531716],[120.19589848808758,22.995257258495826],[120.1958336268491,22.99528157244187],[120.19577153722322,22.99528257563211],[120.19574748432422,22.995073406239616],[120.19576246613768,22.99500427546001],[120.19572573346285,22.995012423770167],[120.19572573346285,22.995012423770167]]]]},\"properties\":{\"envelope\":{\"left\":\"120.19570893855322\",\"top\":\"22.995004275460008\",\"right\":\"120.19602982821669\",\"bottom\":\"22.995332491085176\"},\"landLot\":\"臺南市中西區中正段916\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.19574748432422,22.995073406239616],[120.19577153722322,22.99528257563211],[120.1958336268491,22.99528157244187],[120.19589848808758,22.995257258495826],[120.1960169237255,22.99519570531716],[120.19602642792042,22.99519504920395],[120.19597731098868,22.99504287717119],[120.19593758372193,22.995049402969965],[120.19574748432422,22.995073406239616],[120.19574748432422,22.995073406239616]]]]},\"properties\":{\"envelope\":{\"left\":\"120.19574748432422\",\"top\":\"22.995042877171191\",\"right\":\"120.19602642792042\",\"bottom\":\"22.99528257563211\"},\"landLot\":\"臺南市中西區中正段917\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.19589270198587,22.994974324486787],[120.19576246613768,22.99500427546001],[120.19574748432422,22.995073406239616],[120.19593758372193,22.995049402969965],[120.19591799916329,22.994968483984305],[120.19589270198587,22.994974324486787],[120.19589270198587,22.994974324486787]]]]},\"properties\":{\"envelope\":{\"left\":\"120.19574748432422\",\"top\":\"22.994968483984305\",\"right\":\"120.19593758372193\",\"bottom\":\"22.995073406239616\"},\"landLot\":\"臺南市中西區中正段918\"}}],\"notfound\":[]}]",
+    "openVisitType": "",
+    "pastHistorySource": "待調查研究後補充更新"
+}

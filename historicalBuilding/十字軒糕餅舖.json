@@ -1,0 +1,178 @@
+{
+    "id": 957,
+    "caseId": "20090721000001",
+    "count": 2336,
+    "shareCount": 0,
+    "representImage": 174813,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/f340fdf5-a90b-47e0-b469-86582c5807dd/代表圖像_十字軒糕餅舖_20220712_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/f340fdf5-a90b-47e0-b469-86582c5807dd/代表圖像_十字軒糕餅舖_20220712.jpeg",
+        "name": "代表圖像_十字軒糕餅舖_20220712"
+    },
+    "caseName": "十字軒糕餅舖",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "1、古時祭典及民間文定之喜，多用十字軒所生產之「漢餅」，漢餅為臺灣傳統文化之一，十字軒在台北餅業歷史中，有其重要地位，從日治時期（1936）以來，名氣極大，具歷史文化保存意義。\r\n 2.本建物仍留有光復初期「樸實秀面」之風格，尚可代表太平町（延平北路）之印象，亦為戰後現代主義初期之典型設計，重視機能、外觀極簡潔、無裝飾。平面之特色為外觀二間，內部合為一間，有共同之天井，空間利用合宜。",
+    "assetsTypeNames": "產業,宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 164670,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/3307dd43-902f-4f81-814e-8b0819df919d/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1、古時祭典及民間文定之喜，多用十字軒所生產之「漢餅」，漢餅為臺灣傳統文化之一，十字軒在台北餅業歷史中，有其重要地位，從日治時期（1936）以來，名氣極大，具歷史文化保存意義。\r\n 2.本建物仍留有光復初期「樸實秀面」之風格，尚可代表太平町（延平北路）之印象，亦為戰後現代主義初期之典型設計，重視機能、外觀極簡潔、無裝飾。平面之特色為外觀二間，內部合為一間，有共同之天井，空間利用合宜。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、2、4款評定基準",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 98397,
+            "name": "十字軒糕餅舖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/57ab384d-4c0a-4f4a-ba59-76a9ec11ebd0/十字軒糕餅舖.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "特定專用區(供一般商業使用)",
+    "locationLandNo": "大同區迪化段2小段91、92、93、94地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "1.建物全棟保存及糕餅製造過程之歷史文物機具。\r\n2.未來66號建物店鋪應收回自用，並與68號建物空間結合，完整呈現十字軒糕餅文化歷史特色。",
+    "bulkTransfer": 0,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenVisit": true,
+    "openUpTime": "(現作店面使用，如欲參觀請洽商家)",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.5115584,
+    "latitude": 25.0556346,
+    "representImageSource": "臺北市文化局",
+    "landScope": "大同區迪化段2小段91、92、93、94地號",
+    "selfCoverage": "以實際測量面積為準",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 88619,
+            "caseId": 957,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "延平北路2段68號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 105675,
+            "caseId": 957,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 193,
+            "landSerialNo": "91",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "18平方公尺",
+            "cityLandUseTypeOther": "特定專用區（供一般商業使用）",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 105676,
+            "caseId": 957,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 193,
+            "landSerialNo": "92",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "111平方公尺",
+            "cityLandUseTypeOther": "特定專用區（供一般商業使用）",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 105677,
+            "caseId": 957,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 193,
+            "landSerialNo": "93",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "78平方公尺",
+            "cityLandUseTypeOther": "特定專用區（供一般商業使用）",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 105678,
+            "caseId": 957,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 193,
+            "landSerialNo": "94",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "17平方公尺",
+            "cityLandUseTypeOther": "特定專用區（供一般商業使用）",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 95625,
+            "caseId": 957,
+            "caseStatus": true,
+            "registerDate": 1248105600000,
+            "officialDocNo": "北市文化二字第09830189600號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "古蹟指定或歷史建築登錄申請表"
+}

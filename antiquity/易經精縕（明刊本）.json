@@ -1,0 +1,105 @@
+{
+    "id": 3349,
+    "caseId": "20140425000005",
+    "count": 31,
+    "shareCount": 0,
+    "representImage": 5823,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/6993/photo/易經精縕（明刊本）_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/6993/photo/易經精縕（明刊本）.jpg",
+        "name": "易經精縕（明刊本）"
+    },
+    "caseName": "易經精縕（明刊本）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1398355200000,
+    "officialDocNo": "10320044271",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "明嘉靖（1522-1566）初年原刊本。\r\n撰者朱綬（生卒年不詳）字文佩，嘉興人。明憲宗成化丁未（二十三年，1487）進士，以翰林院檢討侍歧王講讀，歷楚、晉二王府長史。\r\n此吳興劉氏嘉業堂舊藏。四庫未收，各家書目亦不著錄，蓋傳本罕見。\r\n明代罕見之版本，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第1項第5、6款指定基準。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三362號",
+    "reservationCode": "書號00076",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 8,
+    "notes": "",
+    "descAge": "明嘉靖",
+    "descCreator": "朱綬",
+    "descSize": "半葉10行，版匡19.2x12.7公分。二十四卷。",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "此吳興劉氏嘉業堂舊藏。四庫未收，各家書目亦不著錄，蓋傳本罕見。\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "無蟲蛀，經修裱，保存狀況良好。",
+    "documents": [
+        {
+            "fileid": 5824,
+            "name": "f99af09e-0cc8-4282-8680-08ff0b752357.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43965/file/f99af09e-0cc8-4282-8680-08ff0b752357.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3491,
+            "caseId": 3349,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3491,
+            "caseId": 3349,
+            "caseStatus": true,
+            "registerDate": 1398355200000,
+            "officialDocNo": "10320044271",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

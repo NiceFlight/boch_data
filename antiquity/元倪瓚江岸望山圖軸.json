@@ -1,0 +1,107 @@
+{
+    "id": 3986,
+    "caseId": "20120326000041",
+    "count": 316,
+    "shareCount": 0,
+    "representImage": 6833,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32972/photo/32e30007-763b-4a92-993d-fa4f8b3cc91f_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32972/photo/32e30007-763b-4a92-993d-fa4f8b3cc91f.JPG",
+        "name": "32e30007-763b-4a92-993d-fa4f8b3cc91f"
+    },
+    "caseName": "元倪瓚江岸望山圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "倪瓚（1301-1374），字元鎮，號雲林、迂翁，江蘇無錫人。善書畫，為元四大家之一。此畫為倪氏六十三歲之作，筆墨秀逸簡淡。曾經由卞永譽﹑梁清標及安岐等鑒藏家所庋藏，後入清宮至今，流傳有序。具有重要之時代特色與藝術價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第三、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000292",
+    "amount": 1,
+    "notes": "",
+    "descAge": "元",
+    "descCreator": "倪瓚",
+    "descSize": "111.3 x 33.2（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "本幅畫舟中望兩岸之景。高樹空亭，隔岸望山，山上長皴，未成折帶，利用苔點、深淺皴法及留白的運用，將山石立體實感呈現而出，氣勢雄壯。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。舊霉傷，折痕，上下兩端另紙接補，幅下端折痕重，詩塘折痕。",
+    "documents": [
+        {
+            "fileid": 151539,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-25/1952d0e8-b3a9-46ef-9000-366e01a7201d/公告表.pdf"
+        },
+        {
+            "fileid": 151540,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-25/7ef8f4b1-ed24-478a-9b28-271e8e3e4998/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71437,
+            "caseId": 3986,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75879,
+            "caseId": 3986,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

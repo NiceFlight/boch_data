@@ -1,0 +1,97 @@
+{
+    "id": 18977,
+    "caseId": "20210429000005",
+    "count": 354,
+    "shareCount": 0,
+    "representImage": 108048,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-04-29/8dcb34f7-573e-427d-ad8f-e3d40ab24035/07新石器時代良渚文化晚期 玉琮 附清宮裱綾銅膽、木座_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-04-29/8dcb34f7-573e-427d-ad8f-e3d40ab24035/07新石器時代良渚文化晚期 玉琮 附清宮裱綾銅膽、木座.jpg",
+        "name": "07新石器時代良渚文化晚期 玉琮 附清宮裱綾銅膽、木座"
+    },
+    "caseName": "新石器時代良渚文化晚期 玉琮 附清宮裱綾銅膽、木座",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "能表現傳統、族群或地方之風俗、記憶及傳說、信仰、技藝或生活文化之重要特色",
+        "重要人物或重大歷史事件",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色"
+    ],
+    "registerReason": "玉琮為新石器時代祭祀天地的重要玉禮器。此器為典型良渚文化晚期玉琮，器身雕琢六節小眼面紋，表現良渚文化信仰世界中神靈動物的形象。出土後，在明晚期以來追求古色的風尚下，被染成深褐色。後又經清宮配做銅膽及木座，成為具有花插功能的擺設。\n此器在新石器時代為具有神性的禮器。明清時期成為文人書房的器用陳設，又經宮廷收藏，在流傳及時代功能的改變上具有代表性。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第1、2、3款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "0422177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故玉002038",
+    "amount": 1,
+    "descAge": "新石器時代良渚文化晚期",
+    "descSize": "高15.7-15.8、 上寬6.6、下寬6.3、孔徑5.4-5.55公分",
+    "descMaterial": "玉石",
+    "reserveStatusDesc": "深綠色的玉質，表面上交雜深淺不一的褐色。方筒體上大下小，射口為圓角之方形，孔壁平順。全器琢成六節雙圈帶短眼角的小眼面紋，短橫稜雕方轉的回紋以示鼻頭。為典型良渚文化晚期玉琮的形式。\n器表可能在明晚期至清代被染成深褐色。配有銅膽，可用作花插。附清高宗時配製之木座，座底刻「乙」字填金。清宮舊藏，原儲於紫禁城重華宮。\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "1. 器表有傷。\n2. 銅膽裱綾破損。",
+    "documents": [
+        {
+            "fileid": 143161,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-05/1b7cd1b9-c984-4fa7-bc2e-8a4baedb6059/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 121.548432,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "國立故宮博物院",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 66543,
+            "caseId": 18977,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 70729,
+            "caseId": 18977,
+            "caseStatus": true,
+            "registerDate": 1617791592452,
+            "officialDocNo": "文授資局物字第11030033241號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,100 @@
+{
+    "id": 4347,
+    "caseId": "20140421000050",
+    "count": 315,
+    "shareCount": 0,
+    "representImage": 7289,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7120/photo/卑南文化環形帶齒緣玉玦_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7120/photo/卑南文化環形帶齒緣玉玦.jpg",
+        "name": "卑南文化環形帶齒緣玉玦"
+    },
+    "caseName": "卑南文化環形帶齒緣玉玦",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1398009600000,
+    "officialDocNo": "文資局物字第10320043651號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要之時代特色、技術及流派",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本件環形帶齒緣玉玦，為卑南文化早期玉器中形制特殊者，並為迄今所知唯一完整標本。玉質通透、磨製精良、極具美感，展現臺灣史前時代精湛的製玉工藝。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第1、3、5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 22,
+    "belongCityName": "臺東縣",
+    "belongDistName": "臺東市",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "200601-00301",
+    "amount": 1,
+    "notes": "",
+    "descAge": "卑南文化3500-2300BP",
+    "descSize": "肉寬：8.0(mm)、厚度：4.3(mm)、外徑：55.5(mm)、內徑：40.3(mm)",
+    "descMaterial": "閃玉(台灣玉)",
+    "reserveStatusDesc": "帶鋸齒邊緣環狀之玉玦，玉色為淡綠色，玉質呈半透明。外型正圓，環狀帶一缺口。",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "「保護臺東縣卑南史前遺址探勘發掘計劃」（卑南遺址第1-8梯次發掘）",
+    "saveEnvironment": 1,
+    "reserveStatus": "標本保存完整，展示於卑南文化公園展廳 ",
+    "documents": [
+        {
+            "fileid": 7290,
+            "name": "a75514da-436a-484f-b47f-425c2102a933.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44772/file/a75514da-436a-484f-b47f-425c2102a933.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立臺灣史前文化博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立臺灣史前文化博物館",
+            "keepName": "國立臺灣史前文化博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立臺灣史前文化博物館",
+            "keepAddressNew": "950台東縣台東市博物館路1號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺東縣",
+            "keepNameAddress": "豐田里博物館路1號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺東縣",
+            "distName": "臺東市",
+            "id": 148544,
+            "caseId": 4347,
+            "caseStatus": true,
+            "cityId": 22,
+            "distId": 2201
+        }
+    ],
+    "announces": [
+        {
+            "id": 161465,
+            "caseId": 4347,
+            "caseStatus": true,
+            "registerDate": 1398009600000,
+            "officialDocNo": "文資局物字第10320043651號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

@@ -1,0 +1,102 @@
+{
+    "id": 17332,
+    "caseId": "20200206000004",
+    "count": 289,
+    "shareCount": 0,
+    "representImage": 65689,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-02-06/4e1eb9a3-cb9b-4adc-ae3f-64ee1143b61c/IMG_0626_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-02-06/4e1eb9a3-cb9b-4adc-ae3f-64ee1143b61c/IMG_0626.jpg",
+        "name": "IMG_0626"
+    },
+    "caseName": "澎湖天后宮「德侔天地」匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1570592993035,
+    "officialDocNo": "中華民國108年10月9日府授文博字1083703349號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "1、具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：本匾於大正12年(1923)由港尾(今講美村)的信士所獻，而天后宮於大正12年(1923)完工，展現天后宮具有闔澎公廟的地位。\n2、具有藝術造詣或科學成就：本匾字體渾厚、佈局穩重，刻工亦為佳作。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、4款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00646-P-106-0008",
+    "amount": 1,
+    "descAge": "1923年",
+    "descSize": "寬約208公分",
+    "descMaterial": "木",
+    "reserveStatusDesc": "橫長形木匾，匾面色呈淺褐，為二片拼接。中行題字「徳侔天地」，字陰刻凸底，施黑漆，上下款陰刻填黑漆，上款「大正十二年嵗次癸亥小春吉置」，下款「信士洪媽追率男命侯敬獻」，後有二方印分別為「用章」與「洪媽追印」。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "時間:大正十二年嵗次癸亥小春吉置    捐贈者：港尾信士洪媽追率男命侯敬獻",
+    "saveEnvironment": 2,
+    "reserveStatus": "澎湖天后宮第二進前落右次間前副點柱間。",
+    "documents": [
+        {
+            "fileid": 106902,
+            "name": "澎湖天后宮「德侔天地」匾公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-04-22/d70d753c-ae01-43ad-88ca-f84dcc81570b/澎湖天后宮「德侔天地」匾公告表.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.564038,
+    "latitude": 23.564693,
+    "representImageSource": "澎湖縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "澎湖天后宮",
+            "keepName": "蔡光明",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "澎湖天后宮",
+            "keepAddressNew": "澎湖縣馬公市中央里正義街1號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "澎湖縣",
+            "keepNameDistName": "馬公市",
+            "keepNameAddress": "中央里正義街1號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 127647,
+            "caseId": 17332,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "中央里正義街1號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 138569,
+            "caseId": 17332,
+            "caseStatus": true,
+            "registerDate": 1570592993035,
+            "officialDocNo": "府授文博字第1083703349號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

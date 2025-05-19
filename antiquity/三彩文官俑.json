@@ -1,0 +1,107 @@
+{
+    "id": 3326,
+    "caseId": "20101215000001",
+    "count": 107,
+    "shareCount": 0,
+    "representImage": 5795,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32543/photo/d4fa5183-f336-4af8-b106-04441bd5c645_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32543/photo/d4fa5183-f336-4af8-b106-04441bd5c645.jpg",
+        "name": "d4fa5183-f336-4af8-b106-04441bd5c645"
+    },
+    "caseName": "三彩文官俑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1292342400000,
+    "officialDocNo": "會授資籌二字第09920152382號",
+    "judgeCriteria": [
+        "具有史事重要淵源",
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本件文物曾為河南博物院收藏，可溯及其考古脈絡；器形較同類器大，塑形、裝飾均佳，釉色豐富。具有重要歷史、文化、藝術價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第二、三、四、六款、第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "宙字413號(h0000130)",
+    "keepNameId": 7,
+    "keepName": "國立歷史博物館",
+    "keepNameNew": 7,
+    "keepAddressNew": "100台北市中正區南海路49號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "盛唐",
+    "descSize": "高107公分、身寛24.5公分、深21公分。",
+    "descMaterial": "陶",
+    "reserveStatusDesc": "胎土白、質鬆、釉色以褐、綠和米白色為主流。這一件俑頭戴高冠，雙手執笏於胸前，身著褐色寬口低領長衣，衣袖和胸前鑲白、綠邊。足著尖頭鞋，站立於黃、綠鏤空座上，臉部、手和冠帽沒有施釉之外全器施釉，人物表情親切、比例準確。\n本件文官俑不僅器物尺寸高大，呈非漢人的臉龐，臉部表情逼真，細膩部位也準確、寫實地描寫，唐三彩陶器的釉色—釉的流動感，無疑地呈現在眼前，的確是一件稀有性「國之重寶」。",
+    "pastHistorySource": 7,
+    "pastHistorySourceNotes": "河南博物院舊收藏（代管）",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 53534,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-12-27/583dc9ee-969b-4481-b7e1-fc61a185308c/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立歷史博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立歷史博物館",
+            "keepName": "國立歷史博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立歷史博物館",
+            "keepAddressNew": "100台北市中正區南海路49號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "徐州路21號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3468,
+            "caseId": 3326,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3468,
+            "caseId": 3326,
+            "caseStatus": true,
+            "registerDate": 1292342400000,
+            "officialDocNo": "會授資籌二字第09920152382號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

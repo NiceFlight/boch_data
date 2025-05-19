@@ -1,0 +1,170 @@
+{
+    "id": 16793,
+    "caseId": "20190522000001",
+    "count": 6015,
+    "shareCount": 9,
+    "representImage": 187200,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/859f25be-1e52-4fda-b9e9-bf207d8281b4/代表圖像_國父紀念館_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/859f25be-1e52-4fda-b9e9-bf207d8281b4/代表圖像_國父紀念館.jpg",
+        "name": "代表圖像_國父紀念館"
+    },
+    "caseName": "國父紀念館",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "「國父紀念館」為紀念中國近代史之重要人物孫中山先生，該建物亦為臺灣現代建築史發展過程之經典作品。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "紀念館",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 59030,
+            "name": "直轄市定古蹟-國父紀念館公告(1080503).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-05-22/cdb83a2c-a4d2-45f4-bd5f-f8a9b3a4616d/直轄市定古蹟-國父紀念館公告(1080503).pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具高度歷史、藝術或科學價值者",
+        "表現各時代營造技術流派特色者",
+        "具稀少性，不易再現者"
+    ],
+    "registerReason": "(1)國父紀念館落成於1972年，係為紀念中國近代史之重要人物孫中山，孫中山為亞洲地區推動創立民主共和國之先驅，其民主思想亦對亞洲及華人社會產生重大影響；國父紀念館內設置孫中山銅像，並陳列其革命史蹟及典藏相關學術研究史料，為推廣孫中山理念及畢生貢獻之重要場域。\n(2)國父紀念館為臺灣光復後具代表性的公共建築之一，由國內重要之現代主義建築師王大閎所設計，其建築整體平面格局、四周迴廊、屋頂飛簷、正門入口處屋簷起翹等形式特色，形塑出現代主義結合中國傳統建築精神之風格，為臺灣現代建築史發展過程之經典作品；建築形貌與戶外廣場之整體環境景觀，已成為臺北市重要之城市空間視覺意象。\n(3)國父紀念館內之大會堂，曾多次舉行國內重要視覺、表演藝術獎項（金馬獎、金鐘獎、金曲獎）之頒獎活動，並長期提供國內外藝術團體作為室內表演場地，為民眾參與藝文活動之重要場域。",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 59032,
+            "name": "地籍地形圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2019-05-22/779c55ad-41c2-43e4-af7d-04f4a5216fd8/地籍地形圖.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "公園用地、道路用地",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市信義區逸仙段二小段360（部分）、524（部分）、527（部分）、528（部分）地號等4筆土地",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 25.040983204744496,
+    "latitude": 121.56045977842253,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市信義區逸仙段二小段360地號（部分，該筆土地面積103,104平方公尺）、524地號（部分，該筆土地面積2,026平方公尺）、527地號（部分，該筆土地面積248平方公尺）、528地號（部分，該筆土地面積4,885平方公尺）",
+    "selfCoverage": "國父紀念館建物本體",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "信義區",
+            "id": 93840,
+            "caseId": 16793,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 107,
+            "address": "臺北市信義區仁愛路四段505號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "信義區",
+            "landNoName": "逸仙段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 115451,
+            "caseId": 16793,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 107,
+            "landNoId": 456,
+            "landSerialNo": "360",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "103104平方公尺",
+            "cityLandUseTypeOther": "公園用地、道路用地",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "信義區",
+            "landNoName": "逸仙段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 115452,
+            "caseId": 16793,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 107,
+            "landNoId": 456,
+            "landSerialNo": "524",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "2026平方公尺",
+            "cityLandUseTypeOther": "公園用地、道路用地",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "信義區",
+            "landNoName": "逸仙段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 115453,
+            "caseId": 16793,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 107,
+            "landNoId": 456,
+            "landSerialNo": "527",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "248平方公尺",
+            "cityLandUseTypeOther": "公園用地、道路用地",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "信義區",
+            "landNoName": "逸仙段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 115454,
+            "caseId": 16793,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 107,
+            "landNoId": 456,
+            "landSerialNo": "528",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "4885平方公尺",
+            "cityLandUseTypeOther": "公園用地、道路用地",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 101263,
+            "caseId": 16793,
+            "caseStatus": true,
+            "registerDate": 1556812800000,
+            "officialDocNo": "北市文化文資字第10830166191號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false,
+    "pastHistorySource": "國立國父紀念館提供資料、《國父紀念館建館始末-王大閎的妥協與磨難》（徐明松編，梁銘剛、曾光宗、蔣雅君、謝明達著，國立國父紀念館出版，2007年12月初版）"
+}

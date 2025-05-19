@@ -1,0 +1,108 @@
+{
+    "id": 3664,
+    "caseId": "20110211000005",
+    "count": 370,
+    "shareCount": 2,
+    "representImage": 6405,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32612/photo/7e3c7980-9e96-4646-95ee-30d55dbb23bd_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32612/photo/7e3c7980-9e96-4646-95ee-30d55dbb23bd.jpg",
+        "name": "7e3c7980-9e96-4646-95ee-30d55dbb23bd"
+    },
+    "caseName": "獸形器座",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1297353600000,
+    "officialDocNo": "會授資籌二字第10020006991號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "歷史流傳已久或史事具有深厚淵源",
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊藝術造詣或科學成就",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "此器為河南新鄭出土，屬春秋中期中原鄭公大墓遺物。這件獸面人身的座狀物，有著獸面、大眼、張口、人身的特徵，雙足各踏一蟠曲的蟠蛇，造型威猛，在頭部有四條向上的曲柱殘痕，上承物已失，大略屬案類之器座。此器為春秋青銅器中獨一無二的具有奇特寓意的獸面人身像，是研究春秋時代非常重要的青銅器，非常珍貴。具有重要歷史、文化價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第四條第一項第一、二、三、四、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "天字69號(h0000289)",
+    "keepNameId": 7,
+    "keepName": "國立歷史博物館",
+    "keepNameNew": 7,
+    "keepAddressNew": "100台北市中正區南海路49號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "重7.8公斤",
+    "descAge": "春秋中期",
+    "descSize": "長34公分、寬30公分、高47公分",
+    "descMaterial": "青銅",
+    "reserveStatusDesc": "本件出土地點明確，為春秋中原鄭公大墓出土。\r\n這件獸面人身的座狀物，特徵是獸面、大眼、張口、人身、雙足各踏一蟠蛇，造型威猛，在頭部有四條向上的曲柱殘痕，上承物已失，大略屬案類之物。此器為青銅器中獨一無二的具有奇特寓意的獸面人身像，是研究春秋時期非常重要的青銅器。",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "1923年河南新鄭鄭公大墓出土(代管文物)",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定 ",
+    "documents": [
+        {
+            "fileid": 53549,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-12-27/f2aca90a-38ed-4d02-b12f-0fa3cb5f13a8/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立歷史博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立歷史博物館",
+            "keepName": "國立歷史博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立歷史博物館",
+            "keepAddressNew": "100台北市中正區南海路49號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "徐州路21號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3806,
+            "caseId": 3664,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3806,
+            "caseId": 3664,
+            "caseStatus": true,
+            "registerDate": 1297353600000,
+            "officialDocNo": "會授資籌二字第10020006991號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

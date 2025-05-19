@@ -1,0 +1,105 @@
+{
+    "id": 3022,
+    "caseId": "20090601000001",
+    "count": 584,
+    "shareCount": 1,
+    "representImage": 144927,
+    "representImageInfo": {
+        "ext": "gif",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-11-16/3645e9d6-f6f4-4f7c-9a91-f7ee7f742bf1/s_e_a5_c.gif"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-11-16/3645e9d6-f6f4-4f7c-9a91-f7ee7f742bf1/s_e_a5.gif",
+        "name": "s_e_a5"
+    },
+    "caseName": "七家灣遺址出土陶罐",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1243785600000,
+    "officialDocNo": "府授文資第0980004025號函",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.具七家灣遺址上文化層文化內涵之代表。\r\n2.具宜蘭平原與臺中縣史前文化交流的淵源。\r\n3.具史前晚期陶器製造的特色。\r\n4.在臺中縣境內罕見之考古標本。\r\n5.具史前文化價值。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第1、2、3、5、6款",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "和平區",
+    "govInstitution": "臺中市政府文化局",
+    "govDeptName": "臺中市文化資產處",
+    "govDeptPhone": "0422290280",
+    "govDeptAddress": "臺中市西區市府路41巷19號",
+    "reservationCode": "5040190 5000092",
+    "amount": 1,
+    "descAge": "七家灣遺址上文化層（500-1200B.P.）",
+    "descSize": "0",
+    "descMaterial": "陶土",
+    "reserveStatusDesc": "七家灣遺址上文化層（500-1200B.P.）出土物，為目前臺中市境內少數較完整之史前陶罐，經過修補，惟在考古上不妨其價值",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "七家灣遺址",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 144926,
+            "name": "0980601_七家灣遺址出土陶罐_登錄公告.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-16/9fd44fa3-77b3-4fc6-8c72-c99b7bfe2903/0980601_七家灣遺址出土陶罐_登錄公告.jpg"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.310559,
+    "latitude": 24.374362,
+    "representImageSource": "臺中市文化資產處",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "行政院國軍退除役官兵輔導委員會武陵農場",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺中市和平區臺中市和平區武陵農場",
+            "saveSpaceOther": "武陵農場富野渡假村",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "和平區",
+            "id": 67567,
+            "caseId": 3022,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1017,
+            "address": "武陵農場富野渡假村(臺中市和平區武陵路3之16號)"
+        }
+    ],
+    "announces": [
+        {
+            "id": 71777,
+            "caseId": 3022,
+            "caseStatus": true,
+            "registerDate": 1243785600000,
+            "officialDocNo": "府授文資第0980004025號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

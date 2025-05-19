@@ -1,0 +1,78 @@
+{
+    "id": 2575,
+    "caseId": "20091203000001",
+    "count": 487,
+    "shareCount": 1,
+    "representImage": 4890,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/traditional_art/417/photo/d7ead12c-4225-43f8-a3f7-188ac379f009_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/traditional_art/417/photo/d7ead12c-4225-43f8-a3f7-188ac379f009.JPG",
+        "name": "d7ead12c-4225-43f8-a3f7-188ac379f009"
+    },
+    "caseName": "獅頭製作",
+    "classifyCode": "4.2",
+    "classifyName": "傳統工藝",
+    "assetsTypeNames": "其他",
+    "otherAssetsType": "纖維工藝",
+    "assetsClassifyCode": "4.2.1",
+    "assetsClassifyName": "傳統工藝",
+    "registerDate": 1259837291000,
+    "officialDocNo": "府文化三字第09830426702號",
+    "documents": [],
+    "judgeCriteria": [
+        "藝術性:具有藝術價值者",
+        "特殊性:構成傳統藝術之特殊藝能表現,其技法優秀者",
+        "地方性:傳統藝術領域有價值與地位,並具有地方色彩或流派特色顯著者"
+    ],
+    "registerReason": "1.保留傳統工藝技術，技藝精美，精通武術，是舞獅者，也是獅頭製作者，獅頭製作經歷七十餘年完成上千件，經驗豐富，且製作之獅頭吉祥威武，具實用性及美感。\r\n2.符合「傳統藝術民俗及有關文物登錄指定及廢止審查辦法」第二條第一項，具藝術性、特殊性、地方性等條件，故通過登錄為傳統藝術保存者。",
+    "lawsReference": "1.文化資產保存法第59條第1項。\r\n2.傳統藝術民俗及有關文物登錄指定及廢止審查辦法。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongAddress": "",
+    "historyDevelopment": "舞獅的傳統早在漢朝的百戲中，就有類似舞獅的「角觝戲」之記載，在唐朝則正式出現舞獅的記載。台灣獅陣的發展背景，則和清代的生活環境有關，當時盜匪橫行，族群之間械鬥十分嚴重，因此鄉里為了抵禦外來侵犯，便設立武館以訓練子弟保衛家園；加上農業社會中休閒娛樂少，因此武館往往結合武術及獅陣等，讓弟子在閒暇之餘既可強身也可娛樂，因此在農村之中便廣為流行。",
+    "preservers": [
+        {
+            "id": 4600,
+            "type": "個人",
+            "caseName": "洪來旺",
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "caseArtistEntities": [],
+            "representImage": 7638,
+            "judgeCriteria": [],
+            "school": "1.\t獅頭製作：\r\n臺北橋頭製作臺灣獅頭的「阿水師」因技藝精湛，北投地區於1924年聘請「阿水師」前來傳藝，「義塗師」得其真傳。9歲起洪來旺隨陳義塗學習「傳統獅頭製作法」。\r\n2.武術「太祖拳」：\r\n隨陳義塗學：三戰、彩戰、屈戰、五步仔、伍旗花。\r\n隨下埤頭「米粉財」學習鐵鞭、雙剪、雙劍、雙刀。\r\n隨溪湖人「洪拓」學習大刀四門。\r\n隨大屯山區青學的「矮仔火」學丈二、貓洗臉。",
+            "isOpenDownload": false,
+            "contactorIsOpen": false,
+            "caseAliasName": ""
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "id": 2701,
+            "caseId": 2575,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "address": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 2701,
+            "caseId": 2575,
+            "caseStatus": true,
+            "registerDate": 1259837291000,
+            "officialDocNo": "府文化三字第09830426702號",
+            "classificationId": 1
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "id": 944,
+    "caseId": "20101029000001",
+    "count": 3487,
+    "shareCount": 3,
+    "representImage": 169480,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/612aeb28-a255-4f67-943d-1aad1cb932a8/代表圖像_蒲添生故居_20220614_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/612aeb28-a255-4f67-943d-1aad1cb932a8/代表圖像_蒲添生故居_20220614.jpeg",
+        "name": "代表圖像_蒲添生故居_20220614"
+    },
+    "caseName": "蒲添生故居",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "民國52年，蒲添生為製作吳稚暉大型銅像，親自設計與打造自宅後方之工作室 ˙建物本體為日本殖民官舍住宅，為臺灣前輩雕塑家蒲添生之故宅。蒲氏受業於日本雕塑之父朝倉文夫門下，承襲東洋雕塑嚴謹訓練與西洋古典雕塑風格，為臺灣近代雕塑發展之重要開拓者。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 164582,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/3e3561f6-1c55-41de-83a3-c2dd391cf70e/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1.部分磚石構造之木造日式房舍，後方為民國52年增建工作室，為檜木挑高之建物，上方並有迴廊可以俯視大型作品之製作，亦兼具採光之功能，相當展現雕塑家工作空間之格局與特色，是專為雕塑創作所配置的空間，具有其空間的特殊性。\r\n2.蒲添生先生為臺灣藝術史發展的重要藝術家之一，為日本殖民時期臺灣本土藝術開展的重要見證，具有一定的地位。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、2、4款評定基準",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 164583,
+            "name": "蒲添生故居.gif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/ce0daba5-85c2-4769-a44b-bf787f63cf78/蒲添生故居.gif"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "中正區成功段一小段239地號",
+    "buildingFeatures": "建物本體為一層日式住宅，後方為增建之二層雕塑工作室。",
+    "inHouseFeatures": "保存蒲添生先生生平200多件之作品。",
+    "buildingUsage": "目前由蒲先生後代規劃為「蒲添生雕塑紀念館」，有戶外雕塑展示區、作品陳列廳、藝術走廊、紀念工作室和文物展示室等空間，以引導性的教育參觀路線，讓民眾欣賞蒲添生雕塑創作與故居建築特色。另部分作為私人空間使用。\r\n參觀時間及方式:平日採預約方式，週六﹑日(14:00~17:00)以先預約為原則。 \r\n電話：02-2321-3539 聯絡人 蒲浩志\r\n網址：http://www.wretch.cc/blog/ptsmm",
+    "buildingActualState": "已經規劃為蒲添生故居展示空間,開放免費參觀",
+    "buildingKeyMaintainItem": "保存範圍：建物本體及後期增建範圍。",
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.5246624,
+    "latitude": 25.0454919,
+    "representImageSource": "臺北市文化局",
+    "landScope": "中正區成功段一小段239地號",
+    "selfCoverage": "57.03平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 88609,
+            "caseId": 944,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "林森北路9巷16號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "成功段一小段",
+            "id": 105647,
+            "caseId": 944,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 140,
+            "landSerialNo": "239",
+            "landownership": 3,
+            "coverageId": 2,
+            "area": "562平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 95614,
+            "caseId": 944,
+            "caseStatus": true,
+            "registerDate": 1288281600000,
+            "officialDocNo": "北市文化二字第09931823500號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "民國52年，蒲添生為製作吳稚暉大型銅像，親自設計與打造自宅後方之工作室"
+}

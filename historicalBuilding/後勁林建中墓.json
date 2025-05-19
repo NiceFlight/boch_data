@@ -1,0 +1,103 @@
+{
+    "id": 20802,
+    "caseId": "20220616000001",
+    "count": 1800,
+    "shareCount": 2,
+    "representImage": 168090,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-06-16/67d492ca-d92c-47e2-84b1-5801fef41ae0/IMG_3426_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-06-16/67d492ca-d92c-47e2-84b1-5801fef41ae0/IMG_3426.jpg",
+        "name": "IMG_3426"
+    },
+    "caseName": "後勁林建中墓",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "   「林建中墓」墓主林建中相關資料見於《鳳山（縣）采訪冊》 ，該書己部篇記載林建中於「歲貢……咸豐……十一年辛酉：林建中、縣學、閩籍」，指出林建中為1861年之歲貢生 。墓碑中「清誥贈顯考歲進士林府公惠安官之佳城」中「歲進士」之字樣，據提報人所言係一期許提點後世子孫繼續求取功名之習俗。\n   林建中本名星，又名惠安。今墓碑係於1980年重修，原碑碑文不得而知。惟碑上勒文記載林建中逝世於光緒丙子（1876）年，與上述歲貢資料年代比對，林建中在世時間應為道咸同光等時期。\n   林建中係該宗族之四世祖。據鄭水萍（2000）指出，清領時期後勁地區位左營縣城旁，康熙年間起有劉添、陳大茂、陳士麟、蔡勸、楊篤齊、黃晉、鄭垣、王喜妹、陳亨續、林喜、趙雄、劉仲、黃清港、邱奎生、葉潔、馬苡、李榮德、李某、許朝坤、趙鼓等先後來墾。其中林喜即林建中宗族之開基祖。 而林建中及其子林啟心（貢生）、林啟泰（生員）為清領時期主要仕紳。\n   清領時期後勁地區五個居領導地方地位的楊、陳、林、趙、黃家，後四者在日治時期保正制度下仍維持其領導地位。在後勁地區主要廟宇聖雲宮「後勁聖雲宮沿革概述」碑中亦提及「宣統三年辛亥，西元一九一一年七月因颱風受災廟宇傾圮，經林啟泰、林海合議村民籌募重建」等紀錄可作為佐證。",
+    "assetsTypeNames": "墓葬",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 168088,
+            "name": "111.5.2登錄後勁林建中墓為歷史建築公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-06-16/c7165c02-fbc0-4588-8b85-6ee24420af36/111.5.2登錄後勁林建中墓為歷史建築公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "1.清代墓葬規制齊備(墓碑、墓桌、曲手、墓埕等)，曲手主要以紅磚砌成，簡單素淨，風水機制清晰，具傳統墓文化特色。\n2.反映後勁地區自然地理與漢人族群移墾歷史，見證後勁及林氏家族發展軌跡。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "800",
+    "govInstitutionName": "高雄市政府",
+    "govInstitution": "高雄市政府",
+    "govDeptName": "高雄市政府文化局",
+    "govDeptPhone": "07-2225136",
+    "govDeptAddress": "高雄市苓雅區五福一路67號",
+    "cadasters": [
+        {
+            "fileid": 168091,
+            "name": "01-歷史建築登錄公告表.docx",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-06-16/8400ab66-26d0-43e7-bb58-716e3a516a2a/01-歷史建築登錄公告表.docx"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isOpenDownload": true,
+    "longitude": 120.32899978312527,
+    "latitude": 22.71091686913018,
+    "representImageSource": "高雄市政府文化局",
+    "landScope": " 楠梓區高楠段3-1（部份）地號，面積322平方公尺。\n",
+    "selfCoverage": "楠梓區高楠段3-1（部份）地號，面積232平方公尺。\n",
+    "addresses": [
+        {
+            "cityName": "高雄市",
+            "distName": "楠梓區",
+            "id": 135975,
+            "caseId": 20802,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1809,
+            "address": "高楠段3-1地號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "高雄市",
+            "distName": "楠梓區",
+            "landNoName": "高楠段",
+            "cityLandUseTypeName": "農業區",
+            "id": 199085,
+            "caseId": 20802,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1809,
+            "landNoId": 4171,
+            "landSerialNo": "3-1",
+            "landownership": 2,
+            "cityLandUseTypeId": 9,
+            "coverageId": 1,
+            "area": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 148462,
+            "caseId": 20802,
+            "caseStatus": true,
+            "registerDate": 1651420800000,
+            "officialDocNo": "高市府文資字第11130877701號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.32903427533822,22.710867258609746],[120.32888144041301,22.71083967996993],[120.32878745076387,22.71103886153498],[120.32901855771263,22.71106905789526],[120.32903427533822,22.710867258609746],[120.32903427533822,22.710867258609746]]]]},\"properties\":{\"envelope\":{\"left\":\"120.32878745076387\",\"top\":\"22.710839679969929\",\"right\":\"120.32903427533822\",\"bottom\":\"22.711069057895259\"},\"landLot\":\"高雄市楠梓區高楠段3-1\"}}],\"notfound\":[]}]",
+    "openVisitType": "",
+    "pastHistorySource": "公告資料"
+}

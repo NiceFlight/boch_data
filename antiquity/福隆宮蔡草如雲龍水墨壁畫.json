@@ -1,0 +1,100 @@
+{
+    "id": 3325,
+    "caseId": "20160906000004",
+    "count": 454,
+    "shareCount": 2,
+    "representImage": 175142,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-07-21/639131f6-43df-421a-ad37-616033d7ceca/古物024福隆宮蔡草如雲龍水墨壁畫_P016_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-07-21/639131f6-43df-421a-ad37-616033d7ceca/古物024福隆宮蔡草如雲龍水墨壁畫_P016.jpg",
+        "name": "古物024福隆宮蔡草如雲龍水墨壁畫_P016"
+    },
+    "caseName": "福隆宮蔡草如雲龍水墨壁畫",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1473091200000,
+    "officialDocNo": "府文資處字第1050863322B",
+    "judgeCriteria": [
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1、蔡草如為府城已故知名彩繪藝師，其流傳於世之廟宇彩繪作品殊少有以「雲龍」為主題者，具珍貴、稀有性。\n2、有別於一般傳統廟宇壁畫創作方式，本件水墨壁畫單以水墨創作，不施色彩，畫面上雲浪明暗層次分明，雲龍乍現，龍姿矯健有力，神氣非凡，整體畫面具藝術張力。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第2條第1項第3、4、5、6款。",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "reservationCode": "尚未編列",
+    "amount": 1,
+    "descAge": "1985（民國七十四年）",
+    "descCreator": "蔡草如",
+    "descSize": "寬374公分、高252公分（含各邊之框木條寬各6公分）",
+    "descMaterial": "檜木板—麻紗布—白色底漆—黑墨著畫",
+    "reserveStatusDesc": "年代：1985（民國七十四年）\n作者：蔡草如\t\n尺寸：寬374公分、高252公分（含各邊之框木條寬各6公分）\n材質：檜木板－麻紗布－白色底漆－黑墨著畫",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "保存狀況良好",
+    "documents": [
+        {
+            "fileid": 175141,
+            "name": "福隆宮蔡草如雲龍水墨壁畫公告-105.09.06.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-21/f38d1986-9eea-46ba-899c-2f162b810571/福隆宮蔡草如雲龍水墨壁畫公告-105.09.06.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 22.97477,
+    "latitude": 120.22155,
+    "representImageSource": "臺南市政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "福隆宮",
+            "keepName": "福隆宮",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "福隆宮",
+            "keepAddressNew": "臺南市北區北門路2段公園里105號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2,
+            "keepNameCityName": "臺南市",
+            "keepNameDistName": "北區",
+            "keepNameAddress": "北門路2段公園里105號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "北區",
+            "id": 86184,
+            "caseId": 3325,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1605,
+            "address": "北門路2段公園里105號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 92660,
+            "caseId": 3325,
+            "caseStatus": true,
+            "registerDate": 1473091200000,
+            "officialDocNo": "府文資處字第1050863322B",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

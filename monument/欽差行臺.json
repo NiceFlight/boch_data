@@ -1,0 +1,129 @@
+{
+    "id": 29,
+    "caseId": "20130201000001",
+    "count": 8172,
+    "shareCount": 16,
+    "representImage": 186705,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/5866fb46-3750-4955-8e4b-617c29e7c8ec/代表圖像_欽差行臺_20220602_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/5866fb46-3750-4955-8e4b-617c29e7c8ec/代表圖像_欽差行臺_20220602.jpeg",
+        "name": "代表圖像_欽差行臺_20220602"
+    },
+    "caseName": "欽差行臺",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "欽差行臺位於布政使司衙門西側，由臺灣巡撫於光緒18年（1892）間花費二萬兩興建，為外地高級官員來台北時之旅館及宴會、會議之用。甲午戰後割臺期間，臺灣民主國大總統唐景崧曾將其改作「籌防局」，專司軍事佈防之務。日據以後，欽差行臺建築改為「臺灣總督府廳舍」，直到1919年新廳舍（今總統府）落成啟用後，舊廳舍便成了臨時性展覽聚會場所。1928年間，為了配合御大典紀念博覽會的舉行，臺北市政府擬定新建市役所及公會堂計畫，而其基地恰巧位於欽差行臺及布政使司衙門位置，因此引發各界保存舊廳舍的呼籲。\n1932年，欽差行臺遷移至植物園後，改作中央研究所林業部熱帶植物標本陳列室之用，光復後，歷經林業陳列館、文物館使用至今。",
+    "assetsTypeNames": "衙署",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 145176,
+            "name": "74年公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/de853f5d-5e60-43d7-be86-3bf19b6a97fb/74年公告.pdf"
+        },
+        {
+            "fileid": 145177,
+            "name": "102年公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/114fd281-cdf9-4f85-92d3-0247c5207c45/102年公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "具其他古蹟價值者"
+    ],
+    "registerReason": "原古蹟名稱為「臺灣布政使司衙門」，後修正名稱為「欽差行臺」，修正理由為：欽差行臺位於布政使司衙門西側，由臺灣巡撫於光緒18年興建，為外地高級官員來臺北時之旅館及宴會、會議之用。經查閱相關史料後，為符本建物之正確名稱，修正名稱為「欽差行臺」，以符實際。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 145178,
+            "name": "地籍圖.tif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/2845da93-c657-4fa3-903c-af4a92b216cc/地籍圖.tif"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "公園用地",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市中正區南海段五小段390地號",
+    "buildingFeatures": "屋頂採用抬樑式木屋架，屋坡較緩、棟架較密為其特色。",
+    "inHouseFeatures": "室內高敞，仍可見威嚴與氣勢。",
+    "buildingUsage": "光復後由林業試驗所接管，自105.01.01-109.12.31委託國立歷史博物館維護管理及營運。",
+    "buildingActualState": "1932年，欽差行臺遷移至植物園後，改作中央研究所林業部熱帶植物標本陳列室之用，光復後，歷經林業陳列館、文物館使用。",
+    "buildingKeyMaintainItem": "木作、文物等應加強維護，並注意白蟻、漏水等防治。",
+    "bulkTransfer": 1,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenDownload": false,
+    "longitude": 121.508655,
+    "latitude": 25.0310042,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市中正區南海段五小段390地號",
+    "selfCoverage": "欽差行臺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 93494,
+            "caseId": 29,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "南海路植物園西側(南海路53號)"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "南海段五小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 115087,
+            "caseId": 29,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 18,
+            "landSerialNo": "0390-0000",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "72849.00平方公尺",
+            "cityLandUseTypeOther": "公園用地",
+            "note": "重測前:南門段6小段2地號\n因分割增加地號:390-1、390-2",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 100913,
+            "caseId": 29,
+            "caseStatus": true,
+            "registerDate": 493228800000,
+            "officialDocNo": "台內民字第338093號",
+            "classificationId": 1,
+            "note": "指定"
+        },
+        {
+            "id": 100912,
+            "caseId": 29,
+            "caseStatus": true,
+            "registerDate": 1359648000000,
+            "officialDocNo": "北市文化二字第10230278400號",
+            "classificationId": 2,
+            "note": "修正名稱"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false,
+    "pastHistorySource": "張崑振教授"
+}

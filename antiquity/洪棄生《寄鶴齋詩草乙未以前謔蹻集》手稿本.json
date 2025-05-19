@@ -1,0 +1,106 @@
+{
+    "id": 4319,
+    "caseId": "20130618000001",
+    "count": 180,
+    "shareCount": 0,
+    "representImage": 7244,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7387/photo/洪棄生《寄鶴齋詩草乙未以前謔蹻集》手稿本_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7387/photo/洪棄生《寄鶴齋詩草乙未以前謔蹻集》手稿本.jpg",
+        "name": "洪棄生《寄鶴齋詩草乙未以前謔蹻集》手稿本"
+    },
+    "caseName": "洪棄生《寄鶴齋詩草乙未以前謔蹻集》手稿本",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-名人或名家手稿、手迹、信函、日誌等",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1371484800000,
+    "officialDocNo": "文資局物字第10220067541號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事重要淵源",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "洪繻(1867~1929)，鹿港人，原名攀桂，又名一枝，字月樵。臺灣淪日後，改名繻，字棄生。臺灣民主國亡，潛歸鹿港，絕意仕途，日人聞其文名，屢次徵聘，不從，潛心於詩、古文辭，其著作甚多，有「臺灣詩史」之稱。\r\n本套冊為手寫稿本，註明「乙未以前」，顯示為1895前清末之作，為臺灣古典文學中少見之文人手稿，具重要臺灣文學、歷史文化價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第一、二、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "中西區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "NMTL20060360002",
+    "keepNameId": 11,
+    "keepName": "國立臺灣文學館",
+    "keepNameNew": 11,
+    "keepAddressNew": "700台南市中西區中正路1號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 1,
+    "amount": 6,
+    "notes": "",
+    "descAge": "西元1895年之後日治時期",
+    "descSize": "長16.7公分、寬10.8公分、高0.4公分",
+    "descMaterial": "紙質手寫",
+    "reserveStatusDesc": "中式書籍，內頁為中式手抄紙，使用紙釘進行固定。書皮有黃化、皺摺痕、缺失等狀況，其中數冊書口處有紅色墨印沾染痕跡，書首處因內頁為單張裁切後才予以裝訂成冊，故長度不一，內頁有局部髒污、皺摺痕、裂痕、褐斑、黃化等劣化情形。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "2006；洪小如捐贈",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定 ",
+    "documents": [
+        {
+            "fileid": 7245,
+            "name": "803df111-2017-48b5-8dae-581881a12b12.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44705/file/803df111-2017-48b5-8dae-581881a12b12.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立臺灣文學館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立臺灣文學館",
+            "keepName": "國立臺灣文學館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立臺灣文學館",
+            "keepAddressNew": "700台南市中西區中正路1號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺南市",
+            "keepNameDistName": "中西區",
+            "keepNameAddress": "中正路1號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "id": 4462,
+            "caseId": 4319,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601
+        }
+    ],
+    "announces": [
+        {
+            "id": 4462,
+            "caseId": 4319,
+            "caseStatus": true,
+            "registerDate": 1371484800000,
+            "officialDocNo": "文資局物字第10220067541號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

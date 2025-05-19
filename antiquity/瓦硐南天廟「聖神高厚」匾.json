@@ -1,0 +1,99 @@
+{
+    "id": 17579,
+    "caseId": "20210518000001",
+    "count": 320,
+    "shareCount": 0,
+    "representImage": 110894,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-05-18/f4f383f1-dfdb-4107-aa39-84188783e642/IMG_8409 - 複製_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-05-18/f4f383f1-dfdb-4107-aa39-84188783e642/IMG_8409 - 複製.jpg",
+        "name": "IMG_8409 - 複製"
+    },
+    "caseName": "瓦硐南天廟「聖神高厚」匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色"
+    ],
+    "registerReason": "1、具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：引民國56年〈南天廟重修落成簡誌〉，本匾為永厚宮創建翌年由吳思啟所贈(嘉慶戊寅年桂月)，「永厚宮」為南天廟前身，本匾見證該廟創立和廟名更易的歷史，為地方發展與宗教信仰史實之見證。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "白沙鄉",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG02135-P-107-0010",
+    "amount": 1,
+    "descAge": "嘉慶戊寅年(1818年 )",
+    "descSize": "寬約127公分",
+    "descMaterial": "木",
+    "reserveStatusDesc": "橫長木匾，匾面紅漆，整木雕刻，中行陰刻勾邊金漆「聖神高厚」，上下款陰刻「嘉慶戊寅年桂月吉旦」、「吳思啟敬立」，後接二方印款「源海」、「思啟」。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "時間：1818年   捐贈者：吳思啟",
+    "saveEnvironment": 2,
+    "reserveStatus": "三川殿中門內側上",
+    "documents": [
+        {
+            "fileid": 110893,
+            "name": "聖神高厚匾公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-18/7356febb-fedc-4e4a-9832-fcaea456e046/聖神高厚匾公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.587895,
+    "latitude": 23.65641,
+    "representImageSource": "澎湖縣政府文化局/逢甲大學 陳英豪研究助理拍攝",
+    "keepNames": [
+        {
+            "keepNameIdStr": "南天廟",
+            "keepName": "吳清在",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "南天廟",
+            "keepAddressNew": "澎湖縣白沙鄉瓦硐村1鄰40-1號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2,
+            "keepNameCityName": "澎湖縣",
+            "keepNameDistName": "白沙鄉",
+            "keepNameAddress": "瓦硐村1鄰40-1號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "白沙鄉",
+            "id": 127630,
+            "caseId": 17579,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2105,
+            "address": "瓦硐村1鄰40-1號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 138546,
+            "caseId": 17579,
+            "caseStatus": true,
+            "registerDate": 1589854253706,
+            "officialDocNo": "府授文博字第1093701637號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

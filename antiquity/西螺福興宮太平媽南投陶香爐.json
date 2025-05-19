@@ -1,0 +1,106 @@
+{
+    "id": 3232,
+    "caseId": "20150915000006",
+    "count": 603,
+    "shareCount": 2,
+    "representImage": 5675,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4275/photo/西螺福興宮太平媽南投陶香爐_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4275/photo/西螺福興宮太平媽南投陶香爐.jpg",
+        "name": "西螺福興宮太平媽南投陶香爐"
+    },
+    "caseName": "西螺福興宮太平媽南投陶香爐",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物,生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1442246400000,
+    "officialDocNo": "府文資二字第1047408514B號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "(一)為早期南投陶之作，造型古樸優美，深具歷史價值。\r\n(二)爐身有「太平媽」字樣，反應出西螺太平媽的信仰內涵。",
+    "lawsReference": "《文化資產保存法》第65條暨《古物分級登錄指定及廢止審查辦法》第2條第1項第1款至第6款及第7條規定。",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "belongCityId": 13,
+    "belongCityName": "雲林縣",
+    "belongDistName": "西螺鎮",
+    "govInstitution": "雲林縣政府",
+    "govDeptName": "文化處文化資產科",
+    "govDeptPhone": "05-5523157",
+    "govDeptAddress": "雲林縣斗六市大學路三段310號",
+    "reservationCode": "暫無",
+    "amount": 1,
+    "notes": "",
+    "descAge": "西元1872年（同治11年）",
+    "descSize": "爐高21.5公分、口徑28.5公分、最寬42公分",
+    "descMaterial": "陶",
+    "reserveStatusDesc": "盤口、束頸、鼓腹，其下三柱足。爐身兩側各有張口獅首為紐。釉色橘中帶褐，釉光略帶顏色，反映出為低溫鉛釉，敲胎體後聲音低沉，顯示燒成溫度較低。釉層極薄，部分已有開片剝落現象。\r\n爐口沿側周邊飾以連續「己」字紋一周，爐身頸部嵌有「福興宮」、腹部正面有「太平媽」，左側有「同治壬申年陽月立」、右側有「弟子孫進海叩謝」，皆為白色瓷土，為台灣清晚期到民國五、六十年間傳世南投陶常見之作法。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "西元1872年（同治11年），捐贈者：孫進海   ",
+    "saveEnvironment": 2,
+    "reserveStatus": "尚可（有損傷但狀況穩定，可安全持拿）\n正面有一道斜向之大裂紋，兩座右兩側也有較小的裂紋，雖暫時不影響，但日後略裂紋加深，可能會崩裂。\n",
+    "documents": [
+        {
+            "fileid": 139992,
+            "name": "中華民國104年09月15日 府文資二字第1047408514號 西螺福興宮太平媽南投陶香爐.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-09-30/0e912b2b-d7a4-4157-84e5-71f04d6796d0/中華民國104年09月15日 府文資二字第1047408514號 西螺福興宮太平媽南投陶香爐.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 23.801592293090103,
+    "latitude": 120.46055573992001,
+    "representImageSource": "雲林縣西螺福興宮",
+    "keepNames": [
+        {
+            "keepNameIdStr": "財團法人西螺福興宮",
+            "keepName": "財團法人西螺福興宮",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "財團法人西螺福興宮",
+            "keepAddressNew": "雲林縣西螺鎮延平路180號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2,
+            "keepNameCityName": "雲林縣",
+            "keepNameDistName": "西螺鎮",
+            "keepNameAddress": "延平路180號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "西螺鎮",
+            "id": 64060,
+            "caseId": 3232,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1314,
+            "address": "延平路180號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 67705,
+            "caseId": 3232,
+            "caseStatus": true,
+            "registerDate": 1442246400000,
+            "officialDocNo": "府文資二字第1047408514B號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

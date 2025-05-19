@@ -1,0 +1,97 @@
+{
+    "id": 21054,
+    "caseId": "20221005000002",
+    "count": 283,
+    "shareCount": 0,
+    "representImage": 185958,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-09-29/754c875d-8923-4e99-b4e1-6a8e560568cd/案5-南瑤宮「慈帆普濟」匾_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-09-29/754c875d-8923-4e99-b4e1-6a8e560568cd/案5-南瑤宮「慈帆普濟」匾.jpg",
+        "name": "案5-南瑤宮「慈帆普濟」匾"
+    },
+    "caseName": "南瑤宮「慈帆普濟」匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者"
+    ],
+    "registerReason": "1.具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：陽刻行書金字「慈帆普濟」，以小釘釘在匾面。上款「嘉慶丙子年元月穀旦」，下款「特調福建臺湾北路等處地方副總兵官加一級紀錄八次明祥敬立」，以木條嵌入匾面。此匾呈現製作時嘉慶年代及修復時昭和時期，兩個時期製匾工藝。 \n2.具有地方重要人物或歷史事件之深厚淵源者：獻匾人明祥為蒙古正紅旗人，嘉慶年間先後擔任北路協鎮，為任內所獻，匾辭頌讚觀音佛祖，具歷史價值。",
+    "lawsReference": "<<文化資產保存法>>第67條暨<<古物分級指定及廢止審查辦法>>第2條第1、2款",
+    "govInstitutionCode": "500",
+    "govInstitutionName": "彰化縣政府",
+    "govInstitution": "彰化縣政府",
+    "govDeptName": "彰化縣文化局",
+    "govDeptPhone": "04-7510709",
+    "govDeptAddress": "彰化縣彰化市平和七街66號",
+    "reservationCode": "府授文戲字第 1110216915E 號",
+    "amount": 1,
+    "descAge": "嘉慶21年（西元1816年）；昭和5年（西元1930年）",
+    "descSize": "寬 244 公分、高 89 公分、厚 6 公分",
+    "descMaterial": "木",
+    "reserveStatusDesc": "橫長方形有邊框、陽刻金字行書字匾額，四片木板拼接。黑色匾面，中行為陽刻行書金字「慈帆普濟」，以小釘釘在匾面。上款陽刻楷書「嘉慶 丙子年元月穀旦」，以木條嵌入匾面，右側「□□庚午年桂月吉旦」，以小釘釘在匾面，「□□」原為「昭和」，被刻意去除。下款陽刻楷書「特調福建臺湾北路等處地方副總兵官加一級紀錄八次明祥敬立」，以木條嵌入匾面，左側「老二媽會會員重修匾額」，下方兩方篆印「明祥」、「敬奉」，以小釘釘在匾面。四邊框以龍紋為飾。匾面黑色漆與中行字金箔起甲嚴重，多處剝蝕。背面四根加固木榫，有水漬痕，邊框應是後製。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "嘉慶21年（西元1816年）；捐贈者：明祥",
+    "saveEnvironment": 2,
+    "reserveStatus": "狀況穩定，匾面黑色漆與中行字金箔起甲嚴重，多處剝蝕",
+    "documents": [
+        {
+            "fileid": 211238,
+            "name": "南瑤宮「慈帆普濟」匾1110620.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-04-12/4a5c23ba-54cb-48f9-a1f4-71640f8e3ce4/南瑤宮「慈帆普濟」匾1110620.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.53856676185,
+    "latitude": 24.0676783000564,
+    "representImageSource": "彰化縣文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "彰化縣彰化市公所",
+            "keepName": "彰化縣彰化市公所",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "南瑤宮",
+            "keepAddressNew": "彰化縣彰化市南瑤路43號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "彰化縣",
+            "keepNameDistName": "彰化市",
+            "keepNameAddress": "南瑶路43號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "彰化縣",
+            "distName": "彰化市",
+            "id": 148837,
+            "caseId": 21054,
+            "caseStatus": true,
+            "cityId": 11,
+            "distId": 1101,
+            "address": "南瑤里南瑤路43號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 161845,
+            "caseId": 21054,
+            "caseStatus": true,
+            "registerDate": 1655723450912,
+            "officialDocNo": "府授文戲字第 1110216915E 號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

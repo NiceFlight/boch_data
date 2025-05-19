@@ -1,0 +1,93 @@
+{
+    "id": 3019,
+    "caseId": "20130726000007",
+    "count": 367,
+    "shareCount": 0,
+    "representImage": 5421,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7371/photo/道光年間捐款題名籤牌_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7371/photo/道光年間捐款題名籤牌.JPG",
+        "name": "道光年間捐款題名籤牌"
+    },
+    "caseName": "道光年間捐款題名籤牌",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1374768000000,
+    "officialDocNo": "府授文資二字第1020143827號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有珍貴及稀有性者"
+    ],
+    "registerReason": "1.紀念捐款者以籤狀巨牌呈現，實屬罕見，亦反映當地木業之地方特色。\r\n2.籤牌年代久遠，牌上列名者為對地方公益事業夙有貢獻之熱心士紳，足資後人永遠紀念。\r\n3.此籤牌形制特殊，與一般石刻捐贈不同，且保存不易，具備當時文化背景、及歷史意義。",
+    "lawsReference": "1.文化資產保存法第65條。\r\n2.古物分級登錄指定及廢止審查辦法第5、7條。",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "東勢區",
+    "reservationCode": "",
+    "keepNameId": 17,
+    "keepName": "台灣巧聖仙師東勢祖廟管理委員會",
+    "keepNameNew": 17,
+    "keepAddressNew": "臺中市東勢區中寧里匠寮巷52號",
+    "amount": 1,
+    "notes": "",
+    "reserveStatusDesc": "1.紀念捐款者以籤狀巨牌呈現，實屬罕見，亦反映當地木業之地方特色。\r\n2.籤牌年代久遠，牌上列名者為對地方公益事業夙有貢獻之熱心士紳，足資後人永遠紀念。\r\n3.此籤牌形制特殊，與一般石刻捐贈不同，且保存不易，具備當時文化背景、及歷史意義。",
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 5422,
+            "name": "86b60f3c-f7c1-4c79-b95d-976b06bfd6a5.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44550/file/86b60f3c-f7c1-4c79-b95d-976b06bfd6a5.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "台灣巧聖仙師東勢祖廟管理委員會",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺中市東勢區中寧里匠寮巷52號",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "東勢區",
+            "id": 3156,
+            "caseId": 3019,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1016
+        }
+    ],
+    "announces": [
+        {
+            "id": 3156,
+            "caseId": 3019,
+            "caseStatus": true,
+            "registerDate": 1374768000000,
+            "officialDocNo": "府授文資二字第1020143827號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

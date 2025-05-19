@@ -1,0 +1,102 @@
+{
+    "id": 4372,
+    "caseId": "20151005000004",
+    "count": 619,
+    "shareCount": 2,
+    "representImage": 7339,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4179/photo/緬甸國銀葉表文_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4179/photo/緬甸國銀葉表文.jpg",
+        "name": "緬甸國銀葉表文"
+    },
+    "caseName": "緬甸國銀葉表文",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-公文書",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1443974400000,
+    "officialDocNo": "文授資局物字第10430087623號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "清代時期東南亞諸國遣使遞送清朝的表文國書，留存後世者非常稀少，極具歷史珍貴價值。\r\n表文盛入象牙筒內，以銀質薄片仿貝葉書形式製成，兩端經特別剪裁呈漸尖形，屬於傳統緬甸國典型的外交書簡，具有極高的文化藝術價值。表文內容中，緬甸國派遣使節入華送禮，以加強雙邊關係，然全無稱臣納貢的意思，從而反映十八世紀亞洲諸國對清朝的外交觀念，為今人研究傳統清緬關係的珍貴文獻。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第4條1項第1、5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故閣000051",
+    "amount": 1,
+    "notes": "",
+    "descAge": "18世紀中葉",
+    "descSize": "銀葉表文：縱10 公分，橫79 公分；象牙表筒：直徑10公分，高23公分",
+    "descMaterial": "表文銀合金；表筒象牙",
+    "reserveStatusDesc": "緬甸國銀葉表文是十八世紀緬甸國王遣使遞送清朝皇帝的國書。表文盛入象牙筒內，以銀質薄片仿貝葉書形式製成，其上鐫刻著七行古緬甸文，文體呈圓形，鉤圈相連，自左而右橫寫。象牙筒則由一整塊象牙雕刻而成，筒外分別刻有兩條騰龍紋飾。\n國立故宮博物院曾邀請法國國家科學研究中心研究員白詩薇小姐（Sylvie Pasquet）協助解讀，大致推斷表文撰寫於乾隆十五年（1750），是緬甸國王遣使入華遞交乾隆皇帝的國書。內容主要有三方面：一、希望恢復清緬雙方中斷一個多世紀的邦交；二、具體指出緬甸國管轄的領土範圍；三、利用乾隆母親孝聖憲皇太后六旬萬壽時機，藉贈送馴象與氈緞緬布等禮物，以表達慶賀之意，並顯示積極向清朝靠攏之意。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 149984,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-10/6508ee3d-97ac-4333-9b73-7a73d9b0784b/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": " 國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "圖書文獻處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70320,
+            "caseId": 4372,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": " 至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 74553,
+            "caseId": 4372,
+            "caseStatus": true,
+            "registerDate": 1443974400000,
+            "officialDocNo": "文授資局物字第10430087623號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

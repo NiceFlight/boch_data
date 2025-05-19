@@ -1,0 +1,103 @@
+{
+    "id": 3882,
+    "caseId": "20121112000008",
+    "count": 622,
+    "shareCount": 1,
+    "representImage": 6690,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32868/photo/94080315-cef6-4f6c-bd95-7f35087ad77d_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32868/photo/94080315-cef6-4f6c-bd95-7f35087ad77d.jpg",
+        "name": "94080315-cef6-4f6c-bd95-7f35087ad77d"
+    },
+    "caseName": "嘉量",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1352649600000,
+    "officialDocNo": "文授字第10120135331號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "王莽篡漢，立國號為新，在始建國元年，公元九年頒下了劉歆所製作的嘉量，嘉是美好的意思，以今天的白話來說嘉量就是標準量器的意思。嘉量一共是五個量，連備一體，器中央上為斛，下為斗，左耳為升，右耳上節為合，合下為龠。嘉量銘文說明尺寸、量值、及容積計算的方法，我們從而得知當時採用的圓周率應當是3.1547，與今日精確的圓周率3.1416很接近。根據嘉量，斛、斗、升、合的容積，可以知道在一世紀時，已行十進位制。嘉量製作精到、比例準確、完好無缺，於今巍然獨存，不但為歷代律數學家提供了核校度量制度的標準，也為先人的科技成就作了好見證。在世界度制、量制上的重耍地位是無出其右的。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第4條第1項第1、4、5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故銅002384",
+    "amount": 1,
+    "notes": "",
+    "descAge": "新莽",
+    "descSize": "通高25.6cm、口徑34cm",
+    "descMaterial": "銅",
+    "reserveStatusDesc": "新莽時器，全器一共分作五個量體：「斛」、「斗」、「升」、「合」、「龠」。鑄於器表六處共二百一十六字的銘文，則詳細的記述了鑄器的緣由，以及各部位的容量及尺寸等。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "多處有舊傷。",
+    "documents": [
+        {
+            "fileid": 150767,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-19/fbe082fc-3e42-4b3d-92d0-5b160bb1715c/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71151,
+            "caseId": 3882,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75497,
+            "caseId": 3882,
+            "caseStatus": true,
+            "registerDate": 1352649600000,
+            "officialDocNo": "文授字第10120135331號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,135 @@
+{
+    "id": 1125,
+    "caseId": "20070703000001",
+    "count": 2827,
+    "shareCount": 3,
+    "representImage": 2258,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/4797/photo/C047新北市台陽礦業國英坑(歷建)(1)_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/4797/photo/C047新北市台陽礦業國英坑(歷建)(1).JPG",
+        "name": "C047新北市台陽礦業國英坑(歷建)(1)"
+    },
+    "caseName": "臺陽礦業國英坑",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "產業",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1183454054000,
+    "officialDocNo": "北府文資字第0960006070號",
+    "documents": [
+        {
+            "fileid": 161638,
+            "name": "臺陽礦業國英坑公告-96.07.03.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-27/7330e4c4-9d5c-4d1f-a442-0179c8d73177/臺陽礦業國英坑公告-96.07.03.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "一、臺陽公司是日治時代可與日人抗衡之礦業企業，本礦坑可作為臺人企業經營能力之見證。本礦坑開鑿於昭和8（西元1933）年，是九份最大坑道之一，也是現存少有的現代化大坑道，在臺灣採金產業史上，佔有極重要的地位。\n二、主坑道直線長2205公尺，靠侯硐處有斜坑往上出口，對流通風良好，表現當時礦坑挖掘技術，斜坡地面以利排水，拱形鋼骨支架支撐以防落盤，皆是重要之營建技術。入口處為沈積岩，後段則為含有金礦之安山岩，坑洞高與寬足可通行小臺車，右側為潺潺流通之礦泉水。\n三、國英坑入口為極精緻紅磚所砌半圓拱，門額題有「國英坑」三字，字跡優美，係紀念當時顏國年及翁山英，外觀莊嚴優美。",
+    "lawsReference": "文化資產保存法第15條暨歷史建築登錄廢止審查及輔助辦法第3條",
+    "govInstitutionCode": "220",
+    "govInstitutionName": "新北市政府",
+    "belongCityId": 3,
+    "belongCityName": "新北市",
+    "belongDistName": "瑞芳區",
+    "govInstitution": "新北市政府",
+    "govDeptName": "文化局",
+    "govDeptPhone": "(02)29603456",
+    "govDeptAddress": "新北市板橋區中山路一段161號28樓",
+    "cadasters": [
+        {
+            "fileid": 161639,
+            "name": "臺陽礦業國英坑地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-04-27/f008e401-7147-478b-986c-028f3686fd8f/臺陽礦業國英坑地籍圖.jpg"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 6,
+    "nonCityLandUseTypeName": "山坡地保育區",
+    "nonCityLandUseSubTypeId": 18,
+    "nonCityLandUseSubTypeName": "特定目的事業",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "新北市瑞芳區焿子寮段172-1、172-2地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "焿子寮段172-1、172-2地號",
+    "isOpenVisit": true,
+    "openUpTime": "開放",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.83894672884145,
+    "latitude": 25.113045411765054,
+    "representImageSource": "新北市政府文化局",
+    "landScope": "新北市瑞芳區焿子寮段172-1、172-2地號",
+    "selfCoverage": "紅磚門、主坑道1500公尺(由坑口起算)\n",
+    "addresses": [
+        {
+            "cityName": "新北市",
+            "distName": "瑞芳區",
+            "id": 107498,
+            "caseId": 1125,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 307,
+            "address": "焿子寮段172-1、172-2地號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "新北市",
+            "distName": "瑞芳區",
+            "landNoName": "焿子寮段",
+            "id": 134018,
+            "caseId": 1125,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 307,
+            "landNoId": 6223,
+            "landSerialNo": "172-1地號",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "新北市",
+            "distName": "瑞芳區",
+            "landNoName": "焿子寮段",
+            "id": 134019,
+            "caseId": 1125,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 307,
+            "landNoId": 6223,
+            "landSerialNo": "172-2地號",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 115487,
+            "caseId": 1125,
+            "caseStatus": true,
+            "registerDate": 1183454054000,
+            "officialDocNo": "北府文資字第0960006070號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"新北市瑞芳區子寮段172-1地號\"}}],\"notfound\":\"沒有地號資料\"},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"新北市瑞芳區子寮段172-2地號\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": "待修復或再利用計畫完成後填列"
+}

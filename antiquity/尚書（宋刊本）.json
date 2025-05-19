@@ -1,0 +1,105 @@
+{
+    "id": 16657,
+    "caseId": "20190314000002",
+    "count": 64,
+    "shareCount": 0,
+    "representImage": 5827,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/6991/photo/尚書（宋刊本）_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/6991/photo/尚書（宋刊本）.jpg",
+        "name": "尚書（宋刊本）"
+    },
+    "caseName": "尚書（宋刊本）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1398355200000,
+    "officialDocNo": "10320044271",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "宋乾道(1165-1173)淳熙(1174-1189)間建安王朋甫刊本。\r\n孔安國（生卒年未詳），字子國，西漢魯國曲阜人，孔子十二世孫，以治尚書為武帝博士，西漢儒家學者、經學家。\r\n《尚書》又名《書經》，記載虞、夏、商、周時代帝王的文告和君臣談話記錄。此書除孔安國注外，增入陸德明釋文，並附纂圖。宋光宗(1190-1194)以後，浙江、福建等書坊又補入重言、重意，至宋末再發展為十行注疏合刻，則此刻實為祖本。\r\n宋版古籍，罕見稀有，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第1項第5、6款指定基準。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三3段62號",
+    "reservationCode": "書號00155",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 7,
+    "notes": "",
+    "descAge": "宋",
+    "descCreator": "孔安國",
+    "descSize": "半葉10行，版匡15.4x10.7公分。",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "十三卷。\r\n有蟲蛀，經2次修裱,保存情況良好。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 5828,
+            "name": "02dece36-7bf3-4284-b136-df2c56af265f.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43967/file/02dece36-7bf3-4284-b136-df2c56af265f.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 6339,
+            "caseId": 16657,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 6339,
+            "caseId": 16657,
+            "caseStatus": true,
+            "registerDate": 1398355200000,
+            "officialDocNo": "10320044271",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

@@ -1,0 +1,117 @@
+{
+    "id": 3037,
+    "caseId": "20141017000003",
+    "count": 764,
+    "shareCount": 0,
+    "representImage": 208156,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-03-07/d223209f-0fc7-4ee3-903f-4db93ac9b42b/近藤昌之碑_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-03-07/d223209f-0fc7-4ee3-903f-4db93ac9b42b/近藤昌之碑.jpg",
+        "name": "近藤昌之碑"
+    },
+    "caseName": "近藤昌之碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-其他",
+    "otherAssetsType": "碑碣",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1413475200000,
+    "officialDocNo": "府授文資字第10301991182號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本碑係明治38年（1905）臺灣總督府民政長官後藤新平撰文勒立，用以紀念土地調查局技手近藤昌之在雙冬地區測量之殉職事蹟，為日治初期土地調查之重要證據，有其時代意義。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第2條第1項第1、5、6款登錄基準。",
+    "govInstitutionCode": "540",
+    "govInstitutionName": "南投縣政府",
+    "belongCityId": 12,
+    "belongCityName": "南投縣",
+    "belongDistName": "南投市",
+    "govInstitution": "南投縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "049-2231191",
+    "govDeptAddress": "540南投市建國路135號",
+    "reservationCode": "20200014236",
+    "amount": 1,
+    "notes": "",
+    "descAge": "1905",
+    "descSize": "61*145",
+    "descMaterial": "砂岩",
+    "reserveStatusDesc": "碑文內容:\n臺灣總督府民政長官後藤新平撰文并篆額\n明治三十七年三月九日，近藤昌之以其職死于南投之火焰山。越明年六月，余巡視南投，南投廳長小柳君指昌之致命之地，謀立碑以傳其事，請余文。 昌之磐城東白川人也，少遊仙臺，治英學、好算術，通幾何、三角諸法。服兵役後，入臺灣總督府，任土地調查局技手，赴臺南從事地籍測量；旋往南投草鞋墩，測量火焰山。 山傍烏溪，尖巉如火焰，故名。時屬雨期，連日雷雨，溪水漲溢。昌之不少沮，銳意服務；山骨磷磷，詎雨後，石滑京崩，駐足不牢，顛蹶墜絕壑絕壑即殞，時年僅二十有七。僚友火其遺駭，歸葬其鄉；政府賜金，獎其功績，且卹遺族焉。 昌之性成篤實，恒重友誼，尤能盡職務。余特惜其不稍假天年，以遂所志，而又不忍其績之湮滅不傳也；乃小柳君之議，譔文勒碑立于双冬庄云云。明治三十八年十月初旬，三野山本由定書丹。",
+    "pastHistorySource": 7,
+    "pastHistorySourceNotes": "資料來源：國家圖書館 臺灣記憶 https://tm.ncl.edu.tw/",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定 ，保存於南投縣政府文化局縣史館",
+    "documents": [
+        {
+            "fileid": 177042,
+            "name": "近藤昌之碑 原公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-29/32810abb-0e94-4eba-9d47-bd80bf623e1d/近藤昌之碑 原公告.pdf"
+        },
+        {
+            "fileid": 177043,
+            "name": "近藤昌之碑 修正公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-29/bf686c38-21f9-4ba2-8700-77776122ae94/近藤昌之碑 修正公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.681546,
+    "latitude": 23.90799,
+    "representImageSource": "南投縣政府文化局(攝影者：巷弄文旅有限公司-謝顯林)",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "南投縣政府文化局",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "南投縣南投市彰南路二段65號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "南投縣",
+            "distName": "南投市",
+            "id": 114310,
+            "caseId": 3037,
+            "caseStatus": true,
+            "cityId": 12,
+            "distId": 1201,
+            "address": " 彰南路二段65號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 124490,
+            "caseId": 3037,
+            "caseStatus": true,
+            "registerDate": 1405041077441,
+            "officialDocNo": "府授文資字第10301338202號",
+            "classificationId": 1
+        },
+        {
+            "id": 124491,
+            "caseId": 3037,
+            "caseStatus": true,
+            "registerDate": 1413475200000,
+            "officialDocNo": "府授文資字第10301991182號",
+            "classificationId": 2
+        }
+    ],
+    "isPublic": false
+}

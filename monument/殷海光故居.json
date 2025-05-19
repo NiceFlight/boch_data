@@ -1,0 +1,146 @@
+{
+    "id": 106,
+    "caseId": "20040209000001",
+    "count": 6039,
+    "shareCount": 3,
+    "representImage": 186579,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/3c11704b-8126-44b8-8f9c-cb6989562268/代表圖像_殷海光故居_20220617_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/3c11704b-8126-44b8-8f9c-cb6989562268/代表圖像_殷海光故居_20220617.jpg",
+        "name": "代表圖像_殷海光故居_20220617"
+    },
+    "caseName": "殷海光故居",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "溫州街十八巷十六弄內植物濃綠蒼翠，日據時期本區即為臺大之宿舍群，不少學者在此棲身，洋溢著濃厚學術氣息。殷海光先生秉持「寧鳴而死，不默而生」的精神，勇於對抗威權、批評時政，啟迪學術與社會良知，是中國自由主義重要傳承人物。建物具有與重要人物相關之保存價值，見證五０年代知識份子參與民主運動之歷史痕跡，週邊整體環境脈絡，亦展現當年知識份子批判時政所處之環境氛圍。",
+    "assetsTypeNames": "其他設施",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 119046,
+            "name": "930209指定市定古蹟公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/9fe756e7-5fe1-4556-9ba4-fb9d751818f3/930209指定市定古蹟公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "重要歷史事件或人物之關係",
+        "具其他古蹟價值者"
+    ],
+    "registerReason": "1.殷海光先生在台灣戰後長期任教台大哲學系，乃倡導自由主義的先鋒，勇抗威權體制，對民主運動貢獻卓著。\r\n2.殷海光故居之建築與庭園仍保存其居住時之主要形制與空間特質，可反映當時歷史情境。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 119047,
+            "name": "downloadfile.png",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/0f99cb71-ee6f-4f30-869d-68addd42166c/downloadfile.png"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "locationLandNo": "臺北市大安區龍泉段一小段二一三之二部分地號、二一三之三部份地號、二一三之四部分地號",
+    "buildingFeatures": "建物規模不大，但庭院頗具規模，建築物部分外觀、室內地板、天花板、部分的門已有改建，但仍留有隔牆。戶外庭院水池、水溝、假山據其夫人夏君璐女士轉述，均由殷先生親建。故居後方的水系，可能係瑠公圳支流之遺跡，代表台北地區最早發展之都市紋理。",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "國立臺灣大學近年來開放「殷海光故居」供各學校之校外教學使用，並於97年11月委託財團法人紀念殷海光先生學術基金會經營管理。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.531995,
+    "latitude": 25.0241829,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市大安區龍泉段一小段二一三之二部分地號、二一三之三部份地號、二一三之四部分地號",
+    "selfCoverage": "殷海光故居建築本體含增建部分（龍坡段一小段33251建號）",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 93400,
+            "caseId": 106,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "溫州街18巷16弄1-1號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "龍泉段一小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 114956,
+            "caseId": 106,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 717,
+            "landSerialNo": "213-2",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 1,
+            "note": "包括圍牆以內四周庭院、紅磚鋪面、庭石。",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "龍泉段一小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 114957,
+            "caseId": 106,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 717,
+            "landSerialNo": "213-3",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 1,
+            "note": "包括圍牆以內四周庭院、紅磚鋪面、庭石。",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "龍泉段一小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 114958,
+            "caseId": 106,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 717,
+            "landSerialNo": "213-4",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 1,
+            "note": "包括圍牆以內四周庭院、紅磚鋪面、庭石。",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 100824,
+            "caseId": 106,
+            "caseStatus": true,
+            "registerDate": 1076256000000,
+            "officialDocNo": "府文化二字第09304427300號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false,
+    "pastHistorySource": ""
+}

@@ -1,0 +1,104 @@
+{
+    "id": 4459,
+    "caseId": "20160426000008",
+    "count": 382,
+    "shareCount": 0,
+    "representImage": 7494,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/132385/photo/4_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/132385/photo/4.png",
+        "name": "4"
+    },
+    "caseName": "孫文手繪民生主義圖(手稿)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-名人或名家手稿、手迹、信函、日誌等",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1461600000000,
+    "officialDocNo": "文授資局物字第10530036841號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色"
+    ],
+    "registerReason": "本件是孫文手繪之「民生主義」概念圖，以圖解說明民生主義的內涵遠較社會主義、共產主義和集產主義為廣，可以透過三民主義的具體實踐，達成民有、民治、民享的理想社會。\r\n此手稿藏本為民國13年（1924）1月23日孫文構思三民主義哲學體系時之手繪概念圖，可謂是記錄其建國政治理想思維過程之手迹文獻，彌足珍貴。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第1款。\r\n",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "134000000005C ",
+    "keepNameId": 21,
+    "keepName": "審編處採集科",
+    "keepNameNew": 17,
+    "keepAddressNew": "臺北市中正區長沙街一段2號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 1,
+    "amount": 1,
+    "descAge": "1924年1月23日",
+    "descCreator": "孫文",
+    "descSize": "長84公分、寬56.4公分。",
+    "descMaterial": "紙質",
+    "reserveStatusDesc": "紙本墨書手繪。早期曾折疊收藏，平面中央明顯有「十」摺痕。民國104年重新揭裱並加托於鳳梨宣，保存狀況良好。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "孫科",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 7495,
+            "name": "downloadfile (12).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/132405/file/downloadfile (12).pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國史館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國史館",
+            "keepName": "審編處採集科",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺北市中正區長沙街一段2號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 4605,
+            "caseId": 4459,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 4605,
+            "caseId": 4459,
+            "caseStatus": true,
+            "registerDate": 1461600000000,
+            "officialDocNo": "文授資局物字第10530036841號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

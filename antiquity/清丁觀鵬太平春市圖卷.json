@@ -1,0 +1,101 @@
+{
+    "id": 4375,
+    "caseId": "20151019000002",
+    "count": 445,
+    "shareCount": 1,
+    "representImage": 7345,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4079/photo/清丁觀鵬太平春市圖卷_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4079/photo/清丁觀鵬太平春市圖卷.jpg",
+        "name": "清丁觀鵬太平春市圖卷"
+    },
+    "caseName": "清丁觀鵬太平春市圖卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1445184000000,
+    "officialDocNo": "文授資局物字第10430092233",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "丁觀鵬（活動於十八世紀），順天（今北京）人。乾隆朝任一等畫畫人。學明末丁雲鵬筆意，並學郎世寧（1688－1766）西洋畫法，人物精麗。\n本幅為丁觀鵬乾隆七年（1742）力作，作品融合中西畫法，充分反映出時代特色與年節景象，且圖中描繪器皿如壺、碗、盤等，多與清代乾隆時期宮廷用器特色相同，為丁觀鵬傳世作品中特別精良者。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第3、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫001713",
+    "amount": 1,
+    "notes": "",
+    "descAge": "清",
+    "descSize": "30.3公分 x 233.5公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "丁觀鵬（活動於十八世紀），順天（今北京）人。雍正四年（1726）入宮，乾隆朝任一等畫畫人。學明末丁雲鵬筆意，並學郎世寧（1688－1766）西洋畫法，人物精麗。\n本幅作於乾隆七年（1742），描繪太平盛世的新春市集，從鄉人拜年，路旁表演，看相說書，世井攤販，貨郎擔等人文景象，均極生動逼真。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 148942,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-29/c726054d-e0c7-4417-8804-c04285a90979/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69734,
+            "caseId": 4375,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73915,
+            "caseId": 4375,
+            "caseStatus": true,
+            "registerDate": 1445184000000,
+            "officialDocNo": "文授資局物字第10430092233",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

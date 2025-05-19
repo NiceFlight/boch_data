@@ -1,0 +1,106 @@
+{
+    "id": 17002,
+    "caseId": "20190731000016",
+    "count": 100,
+    "shareCount": 0,
+    "representImage": 60547,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-07-31/9ef11c62-a90c-46c2-917e-556e0f82c812/官窯青瓷三登方壺_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-07-31/9ef11c62-a90c-46c2-917e-556e0f82c812/官窯青瓷三登方壺.jpg",
+        "name": "官窯青瓷三登方壺"
+    },
+    "caseName": "官窯青瓷三登方壺",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1564133769321,
+    "officialDocNo": "中華民國108年7月26日文授資局物字第10830078621號",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "數量特別稀少或具完整性保存意義者",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此器長方形，器身外鼓，三層相連，口沿出窄邊，平底，矮圈足，施米色釉，足內鐫刻乾隆皇帝〈詠官窯三登瓶〉詩，詩末署「乾隆甲午季春御題」紀年銘（1774），並落「會心不遠」和「德充符」兩枚鈐印。\n國立故宮博物院院藏另外三件器形與之相仿的清朝製品，透露出乾隆皇帝將此器視為象徵著豐收祭台想法。此器的詩文亦可推知乾隆皇帝對這件作品看法。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故瓷016930",
+    "amount": 1,
+    "descAge": "南宋至元",
+    "descSize": "高14.4公分、口徑9×12.5公分、底徑9.3×12.4公分",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "長方形，器深外鼓，三層相連，口沿出窄邊，平底，矮圈足，胎骨厚重，上施米色釉，釉表局部開大紋片；口沿釉薄處，現出灰色邊。施釉至足際，足緣無釉，露出燒後胎色。足內鐫刻乾隆皇帝〈詠官窯三登瓶〉詩，詩末署「乾隆甲午際春御題」紀年銘（乾隆三十九年：1774），並落「會心不遠」和「德充符」兩枚鈐印。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "器腹至器底有舊裂痕。",
+    "documents": [
+        {
+            "fileid": 145220,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-17/72cd49c3-221f-4ebe-bfef-1ed4c22d7871/公告.pdf"
+        },
+        {
+            "fileid": 145221,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-17/c85bb123-4fb2-4371-84ec-5a68d8deb2b9/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 67653,
+            "caseId": 17002,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 71904,
+            "caseId": 17002,
+            "caseStatus": true,
+            "registerDate": 1564133769321,
+            "officialDocNo": "中華民國108年7月26日文授資局物字第10830078621號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

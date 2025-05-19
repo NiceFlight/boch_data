@@ -1,0 +1,105 @@
+{
+    "id": 16574,
+    "caseId": "20190215000013",
+    "count": 621,
+    "shareCount": 1,
+    "representImage": 55468,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-02-15/823cd8cb-1942-4ccc-bdf2-d504543c6b18/15-中銅000421_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-02-15/823cd8cb-1942-4ccc-bdf2-d504543c6b18/15-中銅000421.jpg",
+        "name": "15-中銅000421"
+    },
+    "caseName": "越王州句劍",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-軍事設備",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1550124813304,
+    "officialDocNo": "文授資局物字第10830016641號",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色"
+    ],
+    "registerReason": "此圓莖劍為單脊長劍身，兩邊開刃，莖部帶有兩道凸弦，為戰國早期吳越地區的典型劍制，鑄造精良。\n此劍帶有銘文十四字，位於劍柄與劍身相接的「劍格」兩面，有「王州句」「自作用劍」銘文，說明為越王州句所持用之劍。與此器形制、行款近乎相同的〈越王州句劍〉出土於湖北荊門子陵崗。\n越王州句為越王句踐之曾孫，類似之州句自作用劍計有近二十件。銘文字體皆為裝飾性強烈的鳥蟲書，不但反映東周時期吳、越文字的區域特色，也展現州句在位時國力興盛及兵器工藝強健。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、3款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "中銅000421",
+    "amount": 1,
+    "descAge": "戰國早期(西元前5世紀)",
+    "descSize": "長49.5公分/重0.555公斤",
+    "descMaterial": "銅/鑄造",
+    "reserveStatusDesc": "此器為帶有首、箍、格的圓莖劍。劍首為圓形，上有平行的環紋。劍莖上有兩道凸弦。單脊長劍身，兩邊開刃。\n銘文十四字，分別在劍格的兩面。以中脊為界，一面分別為「戊州勾」及「王州勾」，另面為兩個相背的「自作用劍」銘文。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "良好。",
+    "documents": [
+        {
+            "fileid": 146857,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-02/1f9a0399-384a-454a-8d23-408caf41481f/公告.pdf"
+        },
+        {
+            "fileid": 146858,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-02/5b2e5a61-ee12-47a0-9465-90ccf2473e36/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 68718,
+            "caseId": 16574,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 72818,
+            "caseId": 16574,
+            "caseStatus": true,
+            "registerDate": 1550124813304,
+            "officialDocNo": "文授資局物字第10830016641號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

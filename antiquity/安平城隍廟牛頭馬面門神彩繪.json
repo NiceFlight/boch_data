@@ -1,0 +1,93 @@
+{
+    "id": 22674,
+    "caseId": "20240426000004",
+    "count": 350,
+    "shareCount": 0,
+    "representImage": 256135,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-04-26/182d2bd9-89d9-4599-898c-250cbd52ad5b/下載_c.png"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-04-26/182d2bd9-89d9-4599-898c-250cbd52ad5b/下載.png",
+        "name": "下載"
+    },
+    "caseName": "安平城隍廟牛頭馬面門神彩繪",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "具有藝術造詣或科學成就",
+        "數量稀少者"
+    ],
+    "registerReason": "1. 具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：本組門神為彩繪藝師陳壽彝所繪，呈現地方傳統彩繪技術及見證工藝傳承發展，以「牛頭馬面」作為城隍廟之門神主題，亦反映地方信仰文化特色。\n\n2. 具有藝術造詣或科學成就：陳壽彝藝師除傳承其父親陳玉峰的傳統彩繪技藝，更展現出自我特色，其彩繪技藝精湛，表現生動。本組作品除彩繪精細外，以牛頭馬面為主題更突破傳統門神既有框架，推向另一表現高峰，為民間信仰創造更為具體、多樣的嶄新形象。\n\n3. 數量稀少者：陳壽彝藝師的門神作品分佈於臺灣各地，此組作品為民國61年（1972）應安平城隍廟要求所作，選用牛頭馬面將軍作為門神主題，繪製於城隍廟門有嚇阻惡煞之意，此組門神為陳壽彝目前已知唯一一組以牛頭馬面為題材的門神作品，數量稀少且罕見。\n",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、4、5款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "govInstitution": "臺南市文化資產管理處",
+    "govDeptName": "遺址古物組",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市北區公園北路3號(許石音樂圖書館地下1樓)",
+    "reservationCode": "20210100002-001、 20210100002-002",
+    "amount": 2,
+    "descAge": "1972",
+    "descCreator": "陳壽彝",
+    "descSize": "牛面將軍左側長267.6cm(加軸頭279.9cm)、右側長266.5cm、寬度85.1cm、厚度4.9cm；馬面將軍左側長267.6cm(加軸頭：279.9cm)、右側長266.5cm、寬度85.1cm、厚度4.9cm。",
+    "descMaterial": "木質",
+    "reserveStatusDesc": "安平城隍廟牛頭馬面將軍門神，為陳壽彝藝師於1972年應廟方要求而創作，牛頭馬面將軍為地府的使者，將其繪製於城隍廟之門有嚇阻惡煞之意；陳壽彝藝師的門神作品，往往突破傳統，在技術上追求創新，本件作品即為以往未見的門神主題，牛頭及馬面將軍為全身立像，刻畫動物毛皮之細節，衣擺下緣左側處有署名「歲次壬子年府城阿生畫」。",
+    "pastHistorySource": 1,
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定",
+    "documents": [
+        {
+            "fileid": 256133,
+            "name": "03-安平城隍廟牛頭馬面門神彩繪公告new.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-04-26/71b6fc46-4dd6-4f22-8758-07e999c94292/03-安平城隍廟牛頭馬面門神彩繪公告new.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "拍攝",
+    "keepNames": [
+        {
+            "keepNameIdStr": "臺南市政府",
+            "keepName": "臺南市政府",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "柳營典藏中心",
+            "keepAddressNew": "柳營區",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "公務設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "柳營區",
+            "id": 135524,
+            "caseId": 22674,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1632,
+            "address": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 147999,
+            "caseId": 22674,
+            "caseStatus": true,
+            "registerDate": 1712572949276,
+            "officialDocNo": "南市文資字1130403942C號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

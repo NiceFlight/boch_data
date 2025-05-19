@@ -1,0 +1,95 @@
+{
+    "id": 3034,
+    "caseId": "20141210000005",
+    "count": 464,
+    "shareCount": 0,
+    "representImage": 5446,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4786/photo/南興宮清木雕香爐_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4786/photo/南興宮清木雕香爐.jpg",
+        "name": "南興宮清木雕香爐"
+    },
+    "caseName": "南興宮清木雕香爐",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1418140800000,
+    "officialDocNo": "府授文資遺字第1030254720號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本案木雕香爐，形制古樸，緩帶耳(或稱朝冠耳)刻梅花，爐耳為外接。方爐身正面裝飾淺浮雕麒麟，背面無雕工。爐底木刻鑿刻痕明顯，起線樸拙，頗具古樸的工藝技術，是較為少見木刻香爐。",
+    "lawsReference": "符合「古物分級登錄指定及廢止審查辦法」第2條第1項第1、2、3、4、5、6款評定基準，爰依據「古物分級登錄指定及廢止審查辦法」第5、7條登錄。",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "北屯區",
+    "reservationCode": "",
+    "keepNameId": 17,
+    "keepName": "",
+    "keepNameNew": 17,
+    "keepAddressNew": "臺中市北屯區舊社里舊社巷43號",
+    "amount": 1,
+    "notes": "",
+    "reserveStatusDesc": "",
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 5447,
+            "name": "4c1d220f-a117-41cf-afdb-5221e723ccd4.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44704/file/4c1d220f-a117-41cf-afdb-5221e723ccd4.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "臺中市文化資產處",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺中市北屯區舊社里舊社巷43號",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "北屯區",
+            "id": 3171,
+            "caseId": 3034,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1006
+        }
+    ],
+    "announces": [
+        {
+            "id": 3171,
+            "caseId": 3034,
+            "caseStatus": true,
+            "registerDate": 1418140800000,
+            "officialDocNo": "府授文資遺字第1030254720號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,111 @@
+{
+    "id": 4092,
+    "caseId": "20110422000023",
+    "count": 380,
+    "shareCount": 0,
+    "representImage": 7010,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/33765/photo/2bba4c13-e5f7-4b56-8285-b59866879837_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/33765/photo/2bba4c13-e5f7-4b56-8285-b59866879837.jpg",
+        "name": "2bba4c13-e5f7-4b56-8285-b59866879837"
+    },
+    "caseName": "宋高宗坐像",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1303401600000,
+    "officialDocNo": "會授資籌二字10020040353號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "歷史流傳已久或史事具有深厚淵源",
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1. 本幅為傳世極為罕見的南宋肖像畫作品，反映了當時畫家卓絕的寫實功力，以精緻的筆墨、細膩的敷色，真實地呈現宮中禮制。\n2. 畫中人物的容貌以及妝扮和服飾上的特色，是研究歷史和服飾史的重要依據。\n3. 本件為南薰殿舊藏，且為國立故宮博物院僅有。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第四條第一項第一、二、三、四、五、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化資產局",
+    "govDeptName": "古物科",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "中畫000278",
+    "amount": 1,
+    "notes": "",
+    "descAge": "南宋",
+    "descSize": "185.7 x 103.5 公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "宋室南渡後，高宗趙構（1107-1187）積極招攬畫人，重建宮廷畫院，並致力於蒐求散佚書畫，致使南宋的藝文活動得以迅速振興並續作發展。\n本幅畫高宗頭戴烏紗展腳幞頭，身著朱紅袍服。相貌溫文儒雅，雙目炯炯有神。此像在保存過程中，曾經遭受嚴重傷損，清代重加裝池時，將原本破損的背景移除，易以另絹，並用色粉調墨罩染，雖然色澤參差不勻，所幸實景部分猶能看出原畫大致的面貌。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "霉傷，傷損，折裂。有損傷但狀況穩定。\n",
+    "documents": [
+        {
+            "fileid": 152025,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-27/4044a6b6-c9d3-4c1e-8a86-67c19b69ea64/公告.pdf"
+        },
+        {
+            "fileid": 152026,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-27/9f285c3a-8fd3-4d5f-b2ae-73ba2223cbc2/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71612,
+            "caseId": 4092,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 76085,
+            "caseId": 4092,
+            "caseStatus": true,
+            "registerDate": 1303401600000,
+            "officialDocNo": "會授資籌二字10020040353號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

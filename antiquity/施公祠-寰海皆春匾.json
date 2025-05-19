@@ -1,0 +1,103 @@
+{
+    "id": 16025,
+    "caseId": "20180731000009",
+    "count": 570,
+    "shareCount": 0,
+    "representImage": 49359,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-07-31/0165dd98-5835-4cc5-bbd5-b7e3d7eb430b/07-003IMG_2554_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-07-31/0165dd98-5835-4cc5-bbd5-b7e3d7eb430b/07-003IMG_2554.jpg",
+        "name": "07-003IMG_2554"
+    },
+    "caseName": "施公祠-寰海皆春匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1532587354978,
+    "officialDocNo": "府授文博字1073701866號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者"
+    ],
+    "registerReason": "（1）具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：見證地方官員與寺廟信仰、興築之關係。\n（2）具有地方重要人物或歷史事件之深厚淵源者：具備。\n（3）能反映政治、經濟、社會、人文、科學等歷史變遷或時代特色者：具有歷史及文化之價值。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2、3款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00676-P-M012-003",
+    "amount": 1,
+    "notes": "詹功顯（1779－1854）福州府閩縣人，由武生，嘉慶六年任海壇鎮標左營額外外委（從九品），後於福建、臺灣任水師武官，道光23年任浙江提督（從一品）。",
+    "descAge": "1835年",
+    "descSize": "寬173公分",
+    "descMaterial": "木",
+    "reserveStatusDesc": "橫長形木匾，匾板上下有框線，字皆陰刻填金彩，中行題「寰海皆春」，上款前一方印，題宋體「道光十五年歲次乙未葭月吉旦」；下款為「護福建澎湖水師副總兵官詹功顯敬立」，後有二方款，一為「詹功顯印」，另一難辨。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "時間：1835年     捐贈者：護福建澎湖水師副總兵官詹功顯敬立",
+    "saveEnvironment": 2,
+    "reserveStatus": "懸掛於大門之上",
+    "documents": [
+        {
+            "fileid": 49358,
+            "name": "07_寰海皆春匾公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-07-31/a1c4996e-f68f-49ba-b821-293630c300c2/07_寰海皆春匾公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.564274,
+    "latitude": 23.564602,
+    "representImageSource": "澎湖縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "施公祠",
+            "keepName": "項宗信",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "施公祠",
+            "keepAddressNew": "澎湖縣馬公市中央里中央街10鄰1巷10號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "澎湖縣",
+            "keepNameDistName": "馬公市",
+            "keepNameAddress": "中央里中央街10鄰1巷10號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 127685,
+            "caseId": 16025,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "中央里中央街10鄰1巷10號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 138608,
+            "caseId": 16025,
+            "caseStatus": true,
+            "registerDate": 1529942400000,
+            "officialDocNo": "府授文博字第1073701866號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

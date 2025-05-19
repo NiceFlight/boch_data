@@ -1,0 +1,99 @@
+{
+    "id": 19235,
+    "caseId": "20210531000009",
+    "count": 246,
+    "shareCount": 1,
+    "representImage": 116720,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-05-31/13aea7e1-1024-4f49-b80e-00cb9c61dd9d/PK2B000018N000000000PAA (2)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-05-31/13aea7e1-1024-4f49-b80e-00cb9c61dd9d/PK2B000018N000000000PAA (2).jpg",
+        "name": "PK2B000018N000000000PAA (2)"
+    },
+    "caseName": "明文徵明書五言律詩　軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此軸為文徵明大字書法，筆勢縱橫，點畫開張，形成獨特書風，為明代大字行書之代表作。書寫時摻入黃庭堅行書筆法，也反映蘇州吳門書法對於宋代偏好風尚。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第4、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故書000018",
+    "amount": 1,
+    "descAge": "明",
+    "descCreator": "文徵明",
+    "descSize": "本幅191x72.2公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "文徵明（1470－1559），初名壁，字徵明，自號衡山，蘇州人。本幅書風奔放，乃是為友人作〈溪山欲雪圖〉而賦詩。書寫時筆勢縱橫，線條蒼勁俐落，點畫開張，帶有灑脫氣質。風格雖明顯學自黃庭堅的大字行草，卻又帶有自身的個性與矜持，形成一己的面貌。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "",
+    "saveEnvironment": 1,
+    "reserveStatus": "舊傷補。",
+    "documents": [
+        {
+            "fileid": 142908,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-05/b65a1661-2bfd-4a41-b89c-74bdbf4c7eaa/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.549499,
+    "latitude": 25.10037,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 66437,
+            "caseId": 19235,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 70626,
+            "caseId": 19235,
+            "caseStatus": true,
+            "registerDate": 1622451657076,
+            "officialDocNo": "文授資局物字第11030057001號",
+            "classificationId": 1,
+            "note": ""
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,116 @@
+{
+    "id": 926,
+    "caseId": "20070327000002",
+    "count": 5858,
+    "shareCount": 15,
+    "representImage": 200703,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/54ed25cc-8e18-43fa-ac20-8f29395edb5e/代表圖像_國立臺灣大學日式宿舍－方東美寓所_20220728._c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/54ed25cc-8e18-43fa-ac20-8f29395edb5e/代表圖像_國立臺灣大學日式宿舍－方東美寓所_20220728..jpeg",
+        "name": "代表圖像_國立臺灣大學日式宿舍－方東美寓所_20220728."
+    },
+    "caseName": "國立臺灣大學日式宿舍－方東美寓所",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "建於1929年。依文獻地圖比對日人聚集的主要有九區，本地區之日式宿舍之發展，主要以林業試驗所、第一中學附近至高等學校、臺北帝國大學等以日人住宅及教職員工宿舍為主，尤其臺北城南的古亭町，緊鄰城內軍政重地，一直是日人主要聚集地；而日治晚期因臺北帝國大學及高等師範學校的設立，大量的日人移居古亭町，使此區成日人文教區為主的職工宿舍。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 167458,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/4c7b6b0b-80ca-4430-9dd8-4701ee346b10/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "日據中期臺北帝國大學所建之教授宿舍群，光復後由臺灣大學著名教授方東美居住，深具歷史人文價值。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、2、3、4款評定基準",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 167459,
+            "name": "b223af33-0a34-4740-97ea-57edc2b9179b.png",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/864d97e7-452a-4b5e-a8d7-ec13b7b620b0/b223af33-0a34-4740-97ea-57edc2b9179b.png"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市中正區南海段2小段0514-0000地號部分土地(面積約645平方公尺)",
+    "buildingFeatures": "日式獨棟宿舍，屋頂四批落水，配置接近一字型平面；屋身多用雨淋板，內部則採用編竹泥牆；沒有入口玄關，庭院多種植高大喬木，庭院左側及右後方有增建多處房舍；因無人居住年久失修。管理單位已先將破損建物進行解體。",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.517759,
+    "latitude": 25.027426,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市中正區南海段2小段0514-0000地號部分土地(面積約645平方公尺)",
+    "selfCoverage": "110.21平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 105817,
+            "caseId": 926,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "牯嶺街60巷4號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "南海段二小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 130022,
+            "caseId": 926,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 15,
+            "landSerialNo": "0514-0000",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "645平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 113421,
+            "caseId": 926,
+            "caseStatus": true,
+            "registerDate": 1174924800000,
+            "officialDocNo": "府文化二字第09630231800號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

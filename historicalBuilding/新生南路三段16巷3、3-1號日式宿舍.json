@@ -1,0 +1,96 @@
+{
+    "id": 20751,
+    "caseId": "20220530000001",
+    "count": 1808,
+    "shareCount": 0,
+    "representImage": 166189,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/cb31e940-5bb0-4352-99b3-a877b3d57467/照片_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/cb31e940-5bb0-4352-99b3-a877b3d57467/照片.jpg",
+        "name": "照片"
+    },
+    "caseName": "新生南路三段16巷3、3-1號日式宿舍",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "為1935年日人興建私人住宅，日治時期居住者為任職臺北帝國大學理農學部衣笠俊男，二次大戰後由國立臺灣大學做為教職員宿舍。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 166190,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/89b8809f-cce2-4dc0-846f-5a33305c19fb/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1.本建物為1935年日人興建私人住宅，日治時期居住者為任職臺北帝國大學理農學部衣笠俊男，二次大戰後由國立臺灣大學做為教職員宿舍。\n2.初建時為獨棟木造住宅，後分隔為兩戶使用，屋架形式為日式「二重梁小屋組」，「應接室」有西式天花，後期雖經改建，大致仍保存日式建築格局。\n3.本建物與直轄市定古蹟「紫藤廬」及紀念建築「臺靜農故居」共同形塑地區之歷史紋理風貌。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 166191,
+            "name": "範圍示意圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/0a95616b-c39e-49bd-b743-32118d4b352f/範圍示意圖.pdf"
+        }
+    ],
+    "longitude": 121.53374894479981,
+    "latitude": 25.024605952725572,
+    "landScope": "坐落土地為臺北市大安區龍泉段一小段112地號1筆土地面積（317平方公尺）",
+    "selfCoverage": "紀念建築本體為溫州街25號建築本體，建物為大安區龍泉段一小段2555建號（建物總面積125.16平方公尺）",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 81186,
+            "caseId": 20751,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "新生南路3段16巷3、3-1號 "
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "龍泉段一小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 88124,
+            "caseId": 20751,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 717,
+            "landSerialNo": "112 ",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "317",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 87228,
+            "caseId": 20751,
+            "caseStatus": true,
+            "registerDate": 1653840000000,
+            "officialDocNo": "北市文化文資字第11130223991號",
+            "classificationId": 1,
+            "note": "登錄「新生南路三段16巷3、3-1號日式宿舍」為本市歷 史建築 。"
+        }
+    ],
+    "openVisitType": ""
+}

@@ -1,0 +1,95 @@
+{
+    "id": 20501,
+    "caseId": "20220316000001",
+    "count": 1652,
+    "shareCount": 6,
+    "representImage": 155304,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-03-16/e837f19c-b44e-4681-bb19-76b3d3473790/古物圖片_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-03-16/e837f19c-b44e-4681-bb19-76b3d3473790/古物圖片.jpg",
+        "name": "古物圖片"
+    },
+    "caseName": "澎湖天后宮『沈有容諭退紅毛番韋麻郎等』碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "judgeCriteria": [
+        "歷代著名人物、國家重大事件之代表性",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色之代表性",
+        "獨一無二或不可替代性"
+    ],
+    "registerReason": "本碑具有下列三項重要的意義\n一、年代上屬於臺澎地區第一碑：\n    立碑時間不晚於一六二○年代，亦即浯嶼水寨把總沈有容於1604年諭退韋麻郎後，直至1606年轉至浙江任官，又在1616-1620年再度回到福建擔任水師參將。因此1604-1620年間是最可能立碑之時期。目前在臺灣本島以及澎湖群島，未有發現年代早於此碑者。\n二、反映東亞世界的時代變遷：\n    碑文記載反映當時即將開啟之歐亞海上商業活動，即代表歐洲新教勢力的荷蘭東印度公司，與東亞大陸東南沿海閩南唐人 (Tn̂g-lâng) 海商之間的貿易交流序幕。從全球視野來看，代表舊有歐亞大陸俗稱絲路的陸上貿易，將被當時新興的歐亞海上遠洋貿易所取代。\n三、揭開臺灣歷史的關鍵序幕：\n    碑文記載提及荷蘭人初次在東亞海域尋求貿易據點，來到大明國的領土澎湖，談判未成，影響荷蘭東印度公司後續改至大明國疆域外的臺灣島建立貿易據點，繼而大量引進閩南唐人至島上開墾定居，奠定今日臺灣人口結構的基礎。\n",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第4條第2、3、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "  ",
+    "govDeptPhone": "0422177777",
+    "govDeptAddress": "  ",
+    "reservationCode": "STG00646-P-106-0022",
+    "amount": 1,
+    "descAge": "  ",
+    "descSize": "高194/寬28/厚14",
+    "descMaterial": "花崗岩",
+    "reserveStatusDesc": "本件保存狀況尚稱完好。碑體陰刻銘文「沈有容諭退紅毛番韋麻郎等」。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 2,
+    "reserveStatus": "本件保存狀況尚稱完好。",
+    "documents": [
+        {
+            "fileid": 155303,
+            "name": "公告用印後PDF.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-03-16/aedb38c9-7430-4c01-bbf6-b14da5c5754d/公告用印後PDF.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 119.56404,
+    "latitude": 23.56469,
+    "representImageSource": "  ",
+    "keepNames": [
+        {
+            "keepNameIdStr": "澎湖天后宮",
+            "keepName": "澎湖天后宮管理委員會",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "澎湖天后宮",
+            "keepAddressNew": "澎湖縣馬公市正義街1號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 73499,
+            "caseId": 20501,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "正義街1號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 78500,
+            "caseId": 20501,
+            "caseStatus": true,
+            "registerDate": 1646713001406,
+            "officialDocNo": "文授資局物字第11130022321號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

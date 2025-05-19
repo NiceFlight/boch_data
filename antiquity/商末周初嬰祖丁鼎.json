@@ -1,0 +1,108 @@
+{
+    "id": 17290,
+    "caseId": "20200108000019",
+    "count": 963,
+    "shareCount": 0,
+    "representImage": 64837,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-01-08/2af42885-1af7-440e-84e0-450942af5913/16-故-銅-002341_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-01-08/2af42885-1af7-440e-84e0-450942af5913/16-故-銅-002341.jpg",
+        "name": "16-故-銅-002341"
+    },
+    "caseName": "商末周初嬰祖丁鼎",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1577169917902,
+    "officialDocNo": "中華民國108年12月24日文授資局物字第10830139531號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "數量特別稀少或具完整性保存意義者",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此器高達八十五公分，總重近九十五公斤，為國立故宮博物院典藏銅器藏品中最巨者，於商周銅器量體中亦屬前茅。頸部和柱足的浮雕獸面為商末周初特色，帶銘三字「〔嬰〕。祖丁。」甚具歷史價值。其器壁寬厚，兩立耳稍外侈，腹略鼓，三柱足向內微束，全器形制磅礡，線條柔和，呈穩重典雅之感。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第3、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故銅002341",
+    "amount": 1,
+    "descAge": "商末周初",
+    "descSize": "高 85.5 公分，口徑 59.4 公分，重 94.65 公斤",
+    "descMaterial": "銅",
+    "reserveStatusDesc": "此器為深腹，折沿，立耳，柱足鼎。頸飾六組浮雕獸面紋，獸面圖樣分為兩式，中央皆有一道扉稜，雲雷紋襯地。柱足上有高浮雕卷角獸面紋及短扉棱，下有三道弦紋。全器狀況基本完好，腹壁局部及一足略有舊傷。器內壁有銘文三字：「〔嬰〕。祖丁。」銘文首字為族氏銘文，舊釋作「倗」，象正面人形肩荷兩串海貝；現依據古文字考釋，改隸為「嬰」，象正面人形頸戴貝飾。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏，原陳於養心殿。",
+    "saveEnvironment": 1,
+    "reserveStatus": "良好（1. 舊傷損、2. 舊補、3. 澆鑄缺陷、4. 鑄造氣泡、5. 舊刮痕、6. 缺孔、7. 舊補，假鏽浮動）",
+    "documents": [
+        {
+            "fileid": 144771,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-15/e2950924-a4a9-487d-9ec3-0fb577e5c162/公告.pdf"
+        },
+        {
+            "fileid": 144772,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-15/4efa1a0c-178e-4587-af30-68db2e469dd7/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "11143臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71923,
+            "caseId": 17290,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 76441,
+            "caseId": 17290,
+            "caseStatus": true,
+            "registerDate": 1577169917902,
+            "officialDocNo": "中華民國108年12月24日文授資局物字第10830139531號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

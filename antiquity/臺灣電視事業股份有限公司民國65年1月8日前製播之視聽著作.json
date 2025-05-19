@@ -1,0 +1,102 @@
+{
+    "id": 2899,
+    "caseId": "20080213000002",
+    "count": 549,
+    "shareCount": 2,
+    "representImage": 5268,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32672/photo/2cc54dd1-c8e9-4b6f-b0cd-c34df2f83c22_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32672/photo/2cc54dd1-c8e9-4b6f-b0cd-c34df2f83c22.png",
+        "name": "2cc54dd1-c8e9-4b6f-b0cd-c34df2f83c22"
+    },
+    "caseName": "臺灣電視事業股份有限公司民國65年1月8日前製播之視聽著作",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-影音資料",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1202832000000,
+    "officialDocNo": "臺北市政府府文化四字第0930534500號",
+    "judgeCriteria": [
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.臺灣電視事業股份有限公司為臺灣第一家電視臺，所保留的影音資料具有無可取代的地位。\r\n2.影帶內容為全民共同之歷史記憶，具有無可取代的價值。",
+    "lawsReference": "1.文化資產保存法第65條。\r\n2.古物分級登錄指定及廢止審查辦法第2、5、7條。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "松山區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174之1號",
+    "reservationCode": "無",
+    "amount": 6661,
+    "notes": "",
+    "descAge": "民國",
+    "descSize": "16mm",
+    "descMaterial": "錄影帶",
+    "reserveStatusDesc": "分為新聞帶與節目帶兩種。新聞帶部分，為16毫米帶，圓盤形，共6,460卷，現存於國立臺南藝術大學。節目帶部分為3/4吋帶，長方形，共201卷，保存於臺視公司。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 5269,
+            "name": "db1ee0ac-50f7-407c-b7ae-4f39752c169a.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44390/file/db1ee0ac-50f7-407c-b7ae-4f39752c169a.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 121.55775430332308,
+    "latitude": 25.05980196270487,
+    "representImageSource": "臺灣電視",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "臺灣電視事業股份有限公司",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺北市松山區臺北市八德路三段10號",
+            "saveSpaceIdStr": "學校",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "松山區",
+            "id": 69305,
+            "caseId": 2899,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 104
+        }
+    ],
+    "announces": [
+        {
+            "id": 73457,
+            "caseId": 2899,
+            "caseStatus": true,
+            "registerDate": 1202832000000,
+            "officialDocNo": "臺北市政府府文化四字第0930534500號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

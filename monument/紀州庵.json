@@ -1,0 +1,180 @@
+{
+    "id": 67,
+    "caseId": "20040212000001",
+    "count": 7756,
+    "shareCount": 46,
+    "representImage": 186825,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/071f85b5-81aa-4d13-ab12-a1f81a98d896/代表圖像_紀州庵_20220620_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/071f85b5-81aa-4d13-ab12-a1f81a98d896/代表圖像_紀州庵_20220620.jpeg",
+        "name": "代表圖像_紀州庵_20220620"
+    },
+    "caseName": "紀州庵",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "紀州為日本幕府時期紀伊國別稱，現位於日本和歌山縣與三重縣之交，本料理亭應為當地人士來台所開設。紀州庵本店位於當時的艋舺，此日式建物應為「紀州庵支店」。在川端町時期本區的商業型態以「料理」與「花植木」為主，料理屋除紀州庵外，尚有川屋敷、新茶屋、清涼亭、有馬屋支店、樂水、清月、潯陽亭等店。本店為已知八間料理屋中目前僅存者，其建築類型直接表現瑩橋地區休閒文化與特殊的地景風貌，相當具有代表性。戰後本建築由省政府接管作為公家宿舍，有不少文化界人士，如王文興等，在此居住、活動，極具歷史文化意義。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "其他",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 145465,
+            "name": "3._980629修正公告與地籍位置圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/d16f9e68-a9e3-4552-8c79-c59862f3b2e3/3._980629修正公告與地籍位置圖.pdf"
+        },
+        {
+            "fileid": 145466,
+            "name": "7.公告指定「紀州庵」為臺北市市定古蹟.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/ff347e3c-d36e-4444-8d7a-af3e15a26898/7.公告指定「紀州庵」為臺北市市定古蹟.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "具其他古蹟價值者"
+    ],
+    "registerReason": "1.本建築原為日治時期大正年間日人所經營的紀州庵料亭支店建築物群的一部份，至今仍保存宴會場及局部庭園山石遺跡，同類的建築遺構在台灣已屬罕見。\r\n2.目前建築仍保有「床之間」、「大廣間」、「天花」、「欄間」等原始構造，其屋頂形式與簷廊抬高之構造皆具歷史文化特色。\r\n3.紀州庵見證日治時期臺北市南區螢橋新店溪水岸休閒娛樂建築之歷史，表現城市發展史上特殊之地景風貌。",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、6款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 145467,
+            "name": "紀州庵地籍圖(公告用.doc",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/f628ac0a-057d-44d4-b897-4190699c297a/紀州庵地籍圖(公告用.doc"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "住宅區(住三)與商業區(商二)",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "中正區河堤段3小段649、649-1、649-7及639-3地號。",
+    "buildingFeatures": "戰後本建築由省政府接管作為公家宿舍，有不少文化界人士，如王文興等，在此居住、活動，極具歷史文化意義。",
+    "inHouseFeatures": "",
+    "buildingUsage": "在川端町時期本區的商業型態以「料理」與「花植木」為主，料理屋除紀州庵外，尚有川屋敷、新茶屋、清涼亭、有馬屋支店、樂水、清月、潯陽亭等店。",
+    "buildingActualState": "紀州庵文學森林，開放參觀。詳見http://www.kishuan.org.tw/home/",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.520369,
+    "latitude": 25.021114,
+    "representImageSource": "臺北市文化局",
+    "landScope": "中正區河堤段3小段649、649-1、649-7及639-3地號",
+    "selfCoverage": "中正區河堤段3小段5建號",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 93613,
+            "caseId": 67,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "同安街115號及109巷4弄6號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "河堤段三小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 115162,
+            "caseId": 67,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 10,
+            "landSerialNo": "649",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "河堤段三小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 115163,
+            "caseId": 67,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 10,
+            "landSerialNo": "649-1",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "河堤段三小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 115164,
+            "caseId": 67,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 10,
+            "landSerialNo": "649-7",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "河堤段三小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 115165,
+            "caseId": 67,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 10,
+            "landSerialNo": "639-3",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 101021,
+            "caseId": 67,
+            "caseStatus": true,
+            "registerDate": 1076515200000,
+            "officialDocNo": "府文化二字第09304427600號",
+            "classificationId": 1,
+            "note": "指定"
+        },
+        {
+            "id": 101022,
+            "caseId": 67,
+            "caseStatus": true,
+            "registerDate": 1246204800000,
+            "officialDocNo": "府文化二字第9830174000號",
+            "classificationId": 2,
+            "note": "修正公告事項"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false,
+    "pastHistorySource": ""
+}

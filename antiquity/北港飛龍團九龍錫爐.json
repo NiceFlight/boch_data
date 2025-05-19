@@ -1,0 +1,107 @@
+{
+    "id": 3053,
+    "caseId": "20140205000004",
+    "count": 445,
+    "shareCount": 0,
+    "representImage": 5468,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7122/photo/北港飛龍團九龍錫爐_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7122/photo/北港飛龍團九龍錫爐.JPG",
+        "name": "北港飛龍團九龍錫爐"
+    },
+    "caseName": "北港飛龍團九龍錫爐",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1391529600000,
+    "officialDocNo": "府文資字第1037400921A號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "(一)該項器物見證北港飛龍團歷史，具地方文化意義。\r\n(二)器物之工藝精巧，見證台灣錫器工藝的時代特色。",
+    "lawsReference": "符合文化資產保存法第65條暨古物分級登錄指定及廢止審查辦法第2條第1項第1、2、3、4、5、6款之基準。",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "belongCityId": 13,
+    "belongCityName": "雲林縣",
+    "belongDistName": "北港鎮",
+    "govInstitution": "雲林縣政府",
+    "govDeptName": "文化觀光處",
+    "govDeptPhone": "(05)5523218",
+    "govDeptAddress": "雲林縣斗六市大學路三段310號",
+    "reservationCode": "暫無",
+    "amount": 1,
+    "notes": "",
+    "descAge": "日治初期(1910年)",
+    "descSize": "長29公分、寬19公分、高29公分、重4.9公斤",
+    "descMaterial": "錫",
+    "reserveStatusDesc": "北港飛龍團九龍錫爐為飛龍團輪值爐主用香爐，主要材質為錫，有別於一般傳統香爐造型，本件呈半圓型龍珠狀，爐身鐫有九龍、水族，圓爐下方飾以波浪紋，底作成六角形，並點綴寶石增加華麗及可看性。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "北港錫雕工藝師 蔡峻所製。",
+    "saveEnvironment": 4,
+    "saveEnvironmentNotes": "爐主自宅",
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 142104,
+            "name": "中華民國103年02月05日 府文資二字第1037400921號 北港飛龍團九龍錫爐.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-10-31/6d876359-f5ba-4c77-950c-ac4eb1806133/中華民國103年02月05日 府文資二字第1037400921號 北港飛龍團九龍錫爐.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 23.571303214786745,
+    "latitude": 120.30607819144952,
+    "representImageSource": "雲林縣政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "北港飛龍團",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "文物置於爐主自宅",
+            "saveSpaceOther": "文物置於爐主自宅",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "北港鎮",
+            "id": 76846,
+            "caseId": 3053,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1316
+        }
+    ],
+    "announces": [
+        {
+            "id": 82540,
+            "caseId": 3053,
+            "caseStatus": true,
+            "registerDate": 1391529600000,
+            "officialDocNo": "府文資字第1037400921B號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,106 @@
+{
+    "id": 3310,
+    "caseId": "20161118000011",
+    "count": 389,
+    "shareCount": 0,
+    "representImage": 5780,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133467/photo/E0007_張義雄《魯凱族少女》_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133467/photo/E0007_張義雄《魯凱族少女》.jpg",
+        "name": "E0007_張義雄《魯凱族少女》"
+    },
+    "caseName": "張義雄《魯凱族少女》",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1479398400000,
+    "officialDocNo": "北市獻編字第10530125000號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.\t造形精準，展現作者描繪寫實的工力，線條生動而傳神，表情細膩，細節生動詳實，具藝術造詣。\t\r\n2.\t早期畫作描繪原住民少女甚難得，勾勒臺灣原住民少女的特色，原住民服飾文化的細節寫生描述，具族群之歷史意義。\r\n",
+    "lawsReference": "1.文化資產保存法第67條\r\n2.古物分級登錄指定及廢止審查辦法第2條第1項第1、2、3、4、5、6款\r\n",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "研究員",
+    "govDeptPhone": "02-23115355#20",
+    "govDeptAddress": "臺北市萬華區中華路1段174-1號",
+    "reservationCode": "E0007",
+    "amount": 1,
+    "descAge": "1957",
+    "descCreator": "張義雄",
+    "descSize": "(H) 45X(W) 30cm",
+    "descMaterial": "炭筆",
+    "reserveStatusDesc": "張義雄（1914 - ）生於嘉義，十歲時在嘉義市中央噴水池邊遇見陳澄波寫生，受其啟蒙立志成為畫家。日後赴日本川端畫學校進修，曾任教於師大、藝專，對於五〇年代的美術教育多有貢獻，六〇年代旅居日本，目前定居在他心目中最美的巴黎。\n　　此幅〈魯凱族少女〉是1957年張義雄四十三歲時的作品，可以看出畫家深厚的素描底子，生動傳神、姿態自然，線條乾淨俐落，將原住民深邃的五官，樸實自然的氣息表達無遺。在張義雄大部分的風景、靜物油彩畫作裡，是張珍貴少有的人物肖像作品。\n　　張義雄在早期窮苦的藝術生涯中，鍛鍊了奮鬥求生的能力，街頭寫生、人物肖像更是畫家浪跡四方持續不斷的生活方式之一，這幅炭筆畫可以看出張氏早期難得細膩的畫風。\n",
+    "pastHistorySource": 2,
+    "saveEnvironment": 1,
+    "reserveStatus": "尚可",
+    "documents": [
+        {
+            "fileid": 47436,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-01-16/1850eaf5-858a-4ad7-bfa4-46a30eb44dd1/公告.pdf"
+        },
+        {
+            "fileid": 47437,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-01-16/fcbabad2-98ac-41ef-9e6f-6d46be97e32a/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.551944,
+    "latitude": 25.101026,
+    "representImageSource": "順益臺灣原住民博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "順益臺灣原住民博物館",
+            "keepName": "順益臺灣原住民博物館",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "順益臺灣原住民博物館",
+            "keepAddressNew": "臺北市士林區至善路二段282號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 79239,
+            "caseId": 3310,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108
+        }
+    ],
+    "announces": [
+        {
+            "id": 85033,
+            "caseId": 3310,
+            "caseStatus": true,
+            "registerDate": 1479398400000,
+            "officialDocNo": "北市獻編字第10530125000號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

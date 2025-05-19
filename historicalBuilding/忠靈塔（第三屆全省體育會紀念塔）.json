@@ -1,0 +1,138 @@
+{
+    "id": 20440,
+    "caseId": "20220216000001",
+    "count": 1772,
+    "shareCount": 1,
+    "representImage": 152609,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-02-16/189b5652-3dcd-47d6-9172-133121e6a690/忠靈塔_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-02-16/189b5652-3dcd-47d6-9172-133121e6a690/忠靈塔.jpg",
+        "name": "忠靈塔"
+    },
+    "caseName": "忠靈塔（第三屆全省體育會紀念塔）",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "（俟修復再利用調查研究後再填列）",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "紀念塔",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 154583,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-03-10/23417c22-ea0f-453e-9700-82ae9f3b8d71/公告.pdf"
+        },
+        {
+            "fileid": 154584,
+            "name": "附件.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-03-10/c3f63cac-84a3-478f-b214-ab6a8d0c2896/附件.pdf"
+        },
+        {
+            "fileid": 169268,
+            "name": "1.公告及附圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-06-23/bf0d4f46-fe75-4da8-8d8b-1c56df9bd96c/1.公告及附圖.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "建物形式簡潔，反映當時代的建築特色。其紀念性質的轉變，亦呈現臺南市自日治至戰後的政治變遷。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第3款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區中正路5巷1號2樓",
+    "cadasters": [
+        {
+            "fileid": 152608,
+            "name": "111DC002065PIC1.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-02-16/6e0a6a99-deaf-47d9-9fe6-0932e7ebab57/111DC002065PIC1.pdf"
+        }
+    ],
+    "bulkTransfer": 1,
+    "isOpenVisit": true,
+    "isOpenDownload": false,
+    "longitude": 120.20799149563378,
+    "latitude": 22.97817982455231,
+    "representImageSource": "臺南市政府",
+    "landScope": "依既有階梯之基座為界，公英段1109地號部分、1110地號部分",
+    "selfCoverage": "忠靈塔及其下階梯基座為本體範圍，不含東邊擋土牆，公英段1109地號部分、1110地號部分。",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "南區",
+            "id": 82843,
+            "caseId": 20440,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1603,
+            "address": "體育路（青少年極限運動場旁）"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺南市",
+            "distName": "南區",
+            "landNoName": "公英段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 91825,
+            "caseId": 20440,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1603,
+            "landNoId": 2549,
+            "landSerialNo": "1109",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺南市",
+            "distName": "南區",
+            "landNoName": "公英段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 91826,
+            "caseId": 20440,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1603,
+            "landNoId": 2549,
+            "landSerialNo": "1110",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 88971,
+            "caseId": 20440,
+            "caseStatus": true,
+            "registerDate": 1644854400000,
+            "officialDocNo": "南市文資字第1110205297A",
+            "classificationId": 1
+        },
+        {
+            "id": 88972,
+            "caseId": 20440,
+            "caseStatus": true,
+            "registerDate": 1646641359992,
+            "officialDocNo": "南市文資字第1110275592A",
+            "classificationId": 2
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.20791322774996,22.978359138792353],[120.20815777056674,22.97835622147795],[120.208340776654,22.978353210843984],[120.208370320087,22.978352778582835],[120.20837027007578,22.9783426646],[120.20836005816545,22.978172684140215],[120.20835888608585,22.978144486048052],[120.20835606937415,22.978099724083787],[120.20835382188376,22.97805493575092],[120.20796701669647,22.978165275729975],[120.2079484415454,22.97817030095414],[120.20779414018675,22.978137176350142],[120.20755450430072,22.978076941267407],[120.20752969866626,22.978363665830514],[120.20791322774996,22.978359138792353],[120.20791322774996,22.978359138792353]]]]},\"properties\":{\"envelope\":{\"left\":\"120.20752969866626\",\"top\":\"22.978054935750919\",\"right\":\"120.208370320087\",\"bottom\":\"22.978363665830514\"},\"landLot\":\"臺南市南區公英段1109\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.20835382188376,22.97805493575092],[120.20846389245818,22.978023818727557],[120.2085741700305,22.977993332632654],[120.20866382293914,22.977967879725327],[120.20876558776924,22.9779395203492],[120.20880552782909,22.97782448928743],[120.2088064958733,22.977821701957193],[120.20856755090341,22.977746994609852],[120.20786202626535,22.97775641254873],[120.20782252718134,22.977754925437],[120.2078206795315,22.977754614719853],[120.20781887452834,22.9777541361129],[120.207817399919,22.97775375505852],[120.20781594772549,22.97775330687499],[120.20781452270649,22.97775279213726],[120.20781312545726,22.97775221084829],[120.20780087393476,22.97774423940954],[120.20780040168655,22.977776745397485],[120.20779746190142,22.977960810560344],[120.20779414018675,22.978137176350142],[120.2079484415454,22.97817030095414],[120.20796701669647,22.978165275729975],[120.20835382188376,22.97805493575092],[120.20835382188376,22.97805493575092]]]]},\"properties\":{\"envelope\":{\"left\":\"120.20779414018675\",\"top\":\"22.977744239409539\",\"right\":\"120.2088064958733\",\"bottom\":\"22.97817030095414\"},\"landLot\":\"臺南市南區公英段1110\"}}],\"notfound\":[]}]",
+    "openVisitType": ""
+}

@@ -1,0 +1,78 @@
+{
+    "id": 2576,
+    "caseId": "20100809000006",
+    "count": 722,
+    "shareCount": 4,
+    "representImage": 4891,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/traditional_art/418/photo/2c9b663b-0d85-41bf-9c32-74b1ed1c254b_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/traditional_art/418/photo/2c9b663b-0d85-41bf-9c32-74b1ed1c254b.JPG",
+        "name": "2c9b663b-0d85-41bf-9c32-74b1ed1c254b"
+    },
+    "caseName": "門神彩繪",
+    "classifyCode": "4.2",
+    "classifyName": "傳統工藝",
+    "assetsTypeNames": "彩繪",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "4.2.1",
+    "assetsClassifyName": "傳統工藝",
+    "registerDate": 1281347150000,
+    "officialDocNo": "府文化三字第09931583902號",
+    "documents": [],
+    "judgeCriteria": [
+        "藝術性:具有藝術價值者",
+        "特殊性:構成傳統藝術之特殊藝能表現,其技法優秀者",
+        "地方性:傳統藝術領域有價值與地位,並具有地方色彩或流派特色顯著者"
+    ],
+    "registerReason": "一、無論表現材料或技法、形色乃至造形能力均具純熟造詣與價值，符合「傳統藝術民俗及有關文物登錄指定及廢止審查辦法」第二條第一項第一款第一目，具藝術性。\r\n二、保有台灣門神彩繪的優秀技法與優美性，頗純熟且能匠心獨造，履有發揮，走向生活藝術，符合「傳統藝術民俗及有關文物登錄指定及廢止審查辦法」第二條第一項第一款第二目，具特殊性。\r\n三、師承傳統匠師，以南台灣地方風格為基礎，對台灣各主要大寺廟門加以比較分析，走出自己的風格，符合「傳統藝術民俗及有關文物登錄指定及廢止審查辦法」第二條第一項第一款第三目，具地方性。",
+    "lawsReference": "一、「文化資產保存法」。\r\n二、「傳統藝術民俗及有關文物登錄指定及廢止審查辦法」。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongAddress": "",
+    "historyDevelopment": "1966年由專業佛像畫家姨丈曾竹根先生的啟蒙。1970年初中畢業後到台南繼續向姨丈習藝。姨丈為了擴展劉家正老師的繪畫領域，將之帶往雲鵬工藝社（專業寺廟彩繪）拜師丁網先生(師承潘春原)。在此期間，劉老師仍常趁工作閒暇之餘向姨丈學習佛像畫。後因雲鵬工藝社專注於寺廟彩繪，精細處皆需另聘當時著名畫師潘麗水與蔡草如二人作畫，因而有幸師事兩位老師。於台南習藝前後共約10年整。1980年北上，受聘於木柵集應廟作畫，是為個人處女作，自此便邁向專業畫師之路。先後至關渡宮、關渡三將軍廟、北投宮玄觀、聖雲宮等，因深感宗教藝術之多元，不只宗教民俗藝術，還有書法與中國傳統之山水、花鳥、人物等作畫技巧皆須有所涉獵。為使畫作具更高藝術價值，遂持續不斷地學習精進，直至今日。",
+    "preservers": [
+        {
+            "id": 4601,
+            "type": "個人",
+            "caseName": "劉家正",
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "caseArtistEntities": [],
+            "representImage": 7639,
+            "judgeCriteria": [],
+            "school": "初中時就先至台南學習傳統彩繪，由丁網老師(府城知名畫司潘春源之弟子)啟蒙，約有三年多，並曾在潘麗水老師身邊當助手學習；後往台北再學中西畫，前前後後十年的學習才正式出師。",
+            "isOpenDownload": false,
+            "contactorIsOpen": false,
+            "caseAliasName": ""
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "臺北市政府文化局",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "id": 2702,
+            "caseId": 2576,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "address": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 2702,
+            "caseId": 2576,
+            "caseStatus": true,
+            "registerDate": 1281347150000,
+            "officialDocNo": "府文化三字第09931583902號",
+            "classificationId": 1
+        }
+    ]
+}

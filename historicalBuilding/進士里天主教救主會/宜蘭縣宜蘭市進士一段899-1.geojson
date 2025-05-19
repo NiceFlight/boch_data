@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "宜蘭縣宜蘭市進士一段899-1"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

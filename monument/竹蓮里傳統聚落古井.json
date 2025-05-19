@@ -1,0 +1,117 @@
+{
+    "id": 858,
+    "caseId": "20160812000001",
+    "count": 4303,
+    "shareCount": 4,
+    "representImage": 136430,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-09-01/3cc3ddfd-45b6-43e5-803f-8139e5cb121a/IMG_0108-代表圖_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-09-01/3cc3ddfd-45b6-43e5-803f-8139e5cb121a/IMG_0108-代表圖.jpg",
+        "name": "IMG_0108-代表圖"
+    },
+    "caseName": "竹蓮里傳統聚落古井",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "依據1895年(日軍攻台戰鬥地圖)來看，當時新竹城南門外已有頗具規模的聚落，此區重要寺廟「竹蓮寺」於清嘉慶年間遷建至此，推測必與聚落形成有關：而早在雍正年間因設詢府及民壯屯田開墾，而得「巡撫埔」之名，此公用井雖然出現時間不祥，但與傳統聚落的行程有密切關係，又從使用建材來看，最遲清末就已出現。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "古井",
+    "assetsClassifyCode": "1.1.3",
+    "assetsClassifyName": "縣(市)定古蹟",
+    "registerDate": 1470931200000,
+    "officialDocNo": "府授文資字第1050121258號 ",
+    "documents": [
+        {
+            "fileid": 1716,
+            "name": "105.08.12-竹蓮里傳統聚落古井公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/132778/file/105.08.12-竹蓮里傳統聚落古井公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "具稀少性，不易再現者",
+        "具其他古蹟價值者"
+    ],
+    "registerReason": "(1)具歷史、文化、藝術價值：與居民生活環境結為一體，見證南門外地區發展的具體實物。（位在竹蓮寺後側聚落的核心，四周保留舊有聚落街道紋理，曲折巷弄、合院建築。）\n(2)具稀少性，不易再現者：井體構造保存具新竹地區特色。（井緣構造水面以下為卵石交疊砌造，井口部分於卵石上先平鋪薄磚，再平砌八塊厚石板，上豎砌八塊石板，形成八角形井口。)\n(3)其他具古蹟價值者：目前維護良好、水質乾淨清涼。",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、4、6款",
+    "govInstitutionCode": "300",
+    "govInstitutionName": "新竹市政府",
+    "belongCityId": 6,
+    "belongCityName": "新竹市",
+    "belongDistName": "東區",
+    "govInstitution": "新竹市文化局",
+    "govDeptName": "新竹市文化局文化資產科",
+    "govDeptPhone": "03-5425079",
+    "govDeptAddress": "300新竹市北區中央路109號",
+    "cadasters": [
+        {
+            "fileid": 1717,
+            "name": "竹蓮里傳統聚落古井地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/132602/photo/竹蓮里傳統聚落古井地籍圖.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "buildingFeatures": "古井直徑約107cm。",
+    "inHouseFeatures": "水面下以約10-15cm左右的卵石交疊砌造，井口部分於卵石上以2.5cm的薄磚平鋪，再用8塊厚8cm之石板，上豎砌八塊石板形成，八腳形井口，井深約八公尺。",
+    "buildingUsage": "閒置。",
+    "buildingActualState": "良好。",
+    "bulkTransfer": 0,
+    "belongAddress": "公告指定「竹蓮里傳統聚落古井」新竹市市定古蹟。",
+    "isOpenDownload": true,
+    "longitude": 120.970941,
+    "latitude": 24.798525,
+    "representImageSource": "新竹市文化局",
+    "landScope": "坐落土地為新竹市竹蓮段3012地號，共計1筆地號，土地面積總計25㎡。\n所定著土地範圍：新竹市南大路338巷內，竹蓮段254地號、355地號、373地號所為之三角形地帶(屬巷弄用地，無地號)，古井位在29號門前",
+    "selfCoverage": "竹蓮段3012地號",
+    "addresses": [
+        {
+            "cityName": "新竹市",
+            "distName": "東區",
+            "id": 93077,
+            "caseId": 858,
+            "caseStatus": true,
+            "cityId": 6,
+            "distId": 601,
+            "address": "南大路338巷29號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "新竹市",
+            "distName": "東區",
+            "landNoName": "竹蓮段",
+            "cityLandUseTypeName": "商業區",
+            "id": 114099,
+            "caseId": 858,
+            "caseStatus": true,
+            "cityId": 6,
+            "distId": 601,
+            "landNoId": 11346,
+            "landSerialNo": "3012",
+            "landownership": 1,
+            "cityLandUseTypeId": 2,
+            "area": "",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 100443,
+            "caseId": 858,
+            "caseStatus": true,
+            "registerDate": 1470931200000,
+            "officialDocNo": "府授文資字第1050121258號 ",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.97067734898525,24.799272327653295],[120.97067507651307,24.799262007489816],[120.97066829320397,24.799254250571654],[120.97064118442334,24.79924541526058],[120.97061865470559,24.799238323368318],[120.97059423771223,24.799265214845715],[120.97060907067554,24.799279365614773],[120.97063759572409,24.799280265048328],[120.97067734898525,24.799272327653295],[120.97067734898525,24.799272327653295]]]]},\"properties\":{\"envelope\":{\"left\":\"120.97059423771223\",\"top\":\"24.799238323368318\",\"right\":\"120.97067734898525\",\"bottom\":\"24.799280265048328\"},\"landLot\":\"新竹市東區竹蓮段3012\"}}],\"notfound\":[]}]",
+    "openVisitType": "完全開放參觀",
+    "openUpTime": "公共空間",
+    "isCharge": false,
+    "pastHistorySource": "1895年<<日軍攻台戰鬥地圖>>"
+}

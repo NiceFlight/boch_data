@@ -1,0 +1,119 @@
+{
+    "id": 924,
+    "caseId": "20061220000002",
+    "count": 2769,
+    "shareCount": 0,
+    "representImage": 186842,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/fe6a7c32-8e37-4d40-9c56-9e9d5470855d/代表圖像_國立臺灣藝術教育館_20220617_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/fe6a7c32-8e37-4d40-9c56-9e9d5470855d/代表圖像_國立臺灣藝術教育館_20220617.jpg",
+        "name": "代表圖像_國立臺灣藝術教育館_20220617"
+    },
+    "caseName": "國立臺灣藝術教育館",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本館於45年8月15日開工，46年3月24日竣工，46年3月29日開館啟用，定名為「國立臺灣藝術館」，73年奉教育部函示更名為「國立臺灣藝術教育館」。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "其他",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 167660,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/84a3997f-c1cc-4161-af92-635117802a1f/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1.曾是台灣表演藝術重要的發表場地。2.1950年代建築，為戰後中國古典樣式新建築風格。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、2、3款評定基準",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 167661,
+            "name": "9229445c-9fda-4364-8329-28d7413b4854.gif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/cace27a7-9fc4-4a47-92d1-2fe629cf7556/9229445c-9fda-4364-8329-28d7413b4854.gif"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "公園用地",
+    "locationLandNo": "中正區南海段五小段0065-0006地號",
+    "buildingFeatures": "地上二層建築物，為RC柱樑構架配以周圍之磚牆建造而成，中央為六角形挑高之演藝廳，上方屋頂呈六角椎狀，為RC桁架組合結構。",
+    "inHouseFeatures": "建築物內部包含前廳、表演廳、兩側藝廊、辦公室及研習教室等空間。",
+    "buildingUsage": "藝文展演使用",
+    "buildingActualState": "藝文展演使用。\r\n服務專線：(02)2311-0574轉110\r\n詳見國立台灣藝術教育館網站http://www.arte.gov.tw/",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "wenSitename": "",
+    "wenSiteaddress": "http://www.arte.gov.tw/",
+    "isOpenVisit": true,
+    "openUpTime": "請上國立臺灣藝術教育館網站查詢",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.5118945,
+    "latitude": 25.0317407,
+    "representImageSource": "臺北市文化局",
+    "landScope": "約1000平方公尺",
+    "selfCoverage": "實際保存面積須以保存範圍實測數據為準",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 93628,
+            "caseId": 924,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "南海路47號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "南海段五小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 115184,
+            "caseId": 924,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 18,
+            "landSerialNo": "65-6",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "約1000平方公尺",
+            "cityLandUseTypeOther": "公園用地",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 101036,
+            "caseId": 924,
+            "caseStatus": true,
+            "registerDate": 1166544000000,
+            "officialDocNo": "府文化二字第09530346100號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

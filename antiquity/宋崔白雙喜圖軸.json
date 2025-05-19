@@ -1,0 +1,109 @@
+{
+    "id": 4016,
+    "caseId": "20120326000071",
+    "count": 445,
+    "shareCount": 0,
+    "representImage": 6891,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/33002/photo/d128ac46-152d-4db2-a883-2516c15c813a_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/33002/photo/d128ac46-152d-4db2-a883-2516c15c813a.JPG",
+        "name": "d128ac46-152d-4db2-a883-2516c15c813a"
+    },
+    "caseName": "宋崔白雙喜圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "崔白為北宋中期重要宮廷畫家，長於翎毛、走獸，此幅為存世有款署及紀年僅有之作，為北宋花鳥畫形神兼具的重要代表作，彌足珍貴。具特殊之時代特色與藝術造詣，品質精良且數量特別稀少。具有特殊藝術價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第四條第一項第三、四、五、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000834",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descCreator": "崔白",
+    "descSize": "193.7 × 103.4 公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "崔白（活動於十一世紀後半），字子西，安徽鳯陽人。仁宗時（1023－1063）為畫院藝學，神宗時（1067－1085）以性疏闊，辭去畫職。善花竹翎毛。傳世的作品並不多見，本幅為其代表作。畫家捕捉到瞬間即逝的自然生態情節，展現對生態的觀察入微和精湛的繪畫能力，並兼顧畫面的構圖之美，呈現出現優美的「Ｓ」型弧線，讓畫面具韻律感。這樣一幅描繪即時自然情景的巨幅佳作，又於情境、構圖和技法的表現上均生動感十足。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 151786,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-26/eadb7415-3dcd-4f61-9259-7d5dac765b95/公告.pdf"
+        },
+        {
+            "fileid": 151787,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-26/6b35388a-f850-4683-b25a-f38f59f94a3f/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71498,
+            "caseId": 4016,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": " 至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75959,
+            "caseId": 4016,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

@@ -1,0 +1,101 @@
+{
+    "id": 16203,
+    "caseId": "20181002000007",
+    "count": 135,
+    "shareCount": 0,
+    "representImage": 50411,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-10-02/c7bdb63d-e8be-4e7a-b814-69bd629c9a23/6-故畫000889_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-10-02/c7bdb63d-e8be-4e7a-b814-69bd629c9a23/6-故畫000889.jpg",
+        "name": "6-故畫000889"
+    },
+    "caseName": "明呂紀雪景翎毛軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1521561600000,
+    "officialDocNo": "文授資局物字第10730030851號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "呂紀（活動於西元1439-1505年間），明代畫家，擅花鳥畫。初學邊文進，後摹唐宋諸名家筆，結合工寫，益臻其妙。\n本幅畫雪後蕭條，江天如墨，群鳧畏寒相聚，半入睡鄉。凍雀寒鳩，棲依衰柳，皆體貼入微，直同眞景，而筆墨渾樸，不求繁縟，與呂紀常見的滿堂構圖略有不同，更多一層古趣。是極難得的花鳥畫佳作。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第3、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市復興路三段362號",
+    "reservationCode": "故畫000889",
+    "amount": 1,
+    "descAge": "1439-1505",
+    "descCreator": "呂紀",
+    "descSize": "169.6公分x90.5公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "呂紀（活動於西元1439-1505年間），浙江鄞縣（今寧波）人，字振廷，號樂愚，一作樂漁。弘治（1488-1505）間值仁智殿，官至錦衣指揮。花鳥初學邊文進，後摹唐宋諸名家筆，結合工寫，益臻其妙。本幅畫雪後蕭條，江天如墨，群鳬畏寒相聚，半入睡香。凍雀寒鳩，棲依衰柳，皆體貼入微，值同真景，而筆墨魂樸，不求繁縟，較之呂氏其他作品，似更多一層古趣。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "畫幅傷損嚴重。",
+    "documents": [
+        {
+            "fileid": 147495,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-14/674e5f9a-b5d9-401b-acbd-7d30c669b2d0/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69104,
+            "caseId": 16203,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73228,
+            "caseId": 16203,
+            "caseStatus": true,
+            "registerDate": 1521561600000,
+            "officialDocNo": "文授資局物字第10730030851號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

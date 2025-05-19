@@ -1,0 +1,101 @@
+{
+    "id": 4464,
+    "caseId": "20160803000002",
+    "count": 324,
+    "shareCount": 0,
+    "representImage": 7503,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133364/photo/五代南唐巨然雪圖軸_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133364/photo/五代南唐巨然雪圖軸.jpg",
+        "name": "五代南唐巨然雪圖軸"
+    },
+    "caseName": "五代南唐巨然雪圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1470153600000,
+    "officialDocNo": "文授資局物字第10530074283號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "此軸雖非巨然（十世紀）真蹟，但應是南宋或元人宗法李成風格之作。主山雙峰屏立，雄巖峻險，表現出奇峰積雪靄靄幽深的北地景緻，儼然具有北宋氣度。山石皴法及造型似從披麻、捲雲皴而來，林木松針尖挺，枯枝似郭熙蟹爪，但運筆佈墨極具畫家個人的特質。目前傳世南宋與元代的山水畫中，李郭畫派的作品甚為稀少，故相當珍貴。\n此幀的收傳印中，以南宋理宗「緝熙殿寶」（1232以後）最早，不過此印的尺寸較常見的「緝熙殿寶」為小。據幅上所鈐之「司印」半印，知明初其曾為明代內府收藏，後輾轉流入王時敏、王原祁、安岐之手，至少在乾隆年間（1736-1795）已為清內府所收，是一件流傳有緒的名蹟。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第3、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": " 文化部",
+    "govDeptName": "文化資產局 ",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000020",
+    "amount": 1,
+    "descAge": "南宋或元",
+    "descSize": "103.6公分 x 52.5公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "雙峰屏立，雄巖險峻，奇峰積雪，靄靄幽深。以墨淡染天水，反襯出積雪深厚。本幅無作者款印，董其昌認定是巨然的畫作。巨然（活動於十世紀）是南唐五代畫家，南唐亡後為開元寺僧，工畫山水，師從董源，和董源並稱「董巨」。\n本幅主山居中，山勢高聳崇偉，顯然為北地景致。通幅以尖筆焦墨為主，松針堅挺，畫枯枝頗似郭熙的蟹爪枝。無論是構圖或筆墨，皆與巨然淡墨濕筆的江南風格大異其趣，董其昌的鑒識當有失誤。近代學者的研究指出，從筆墨觀之，此軸應為南宋或元人宗法李成（919-約967）風格之作。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "良好。",
+    "documents": [
+        {
+            "fileid": 7504,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133363/file/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69578,
+            "caseId": 4464,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73745,
+            "caseId": 4464,
+            "caseStatus": true,
+            "registerDate": 1470153600000,
+            "officialDocNo": "文授資局物字第10530074283號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,103 @@
+{
+    "id": 21608,
+    "caseId": "20230324000001",
+    "count": 512,
+    "shareCount": 2,
+    "representImage": 209408,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-03-25/491d5436-6d5c-401b-9cec-cd495f98143e/陶棺_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-03-25/491d5436-6d5c-401b-9cec-cd495f98143e/陶棺.jpg",
+        "name": "陶棺"
+    },
+    "caseName": "陶棺",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有藝術造詣或科學成就",
+        "數量稀少者"
+    ],
+    "registerReason": "1.南投老陶師李元開設陶棺場，燒造10件，銷售不易，因時代變遷及921大地震影響，如今只存3件，南投陶展示館保存1件未使用過之陶棺，提供學術界及民眾參考，數量稀少，相當珍貴。\n2.陶棺量體大製作困難，製作工藝技術高，雖無棺蓋，但棺身製作不易，一般窯場罕製，陶棺之作品在國內相當少見，為南投陶三寶之一。\n",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第4、5款",
+    "govInstitutionCode": "540",
+    "govInstitutionName": "南投縣政府",
+    "govInstitution": "南投縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "049-2231191",
+    "govDeptAddress": "540南投市建國路135號",
+    "reservationCode": "20200012586",
+    "amount": 1,
+    "descAge": "日治時期",
+    "descCreator": "李元",
+    "descSize": "長208/寬53/高38",
+    "descMaterial": "陶",
+    "reserveStatusDesc": "此陶棺的造形是按照棺木的形狀製作的，一邊較寬、側邊有「福」的浮雕字，較窄的一邊，裡面的底部有兩個小孔，作用是排出屍水，口沿有凸出用以契合蓋子，棺蓋已經遺失。此陶棺是南投牛運堀信成陶器工廠李元先生製造的，據說是立著燒，製作與燒成技巧非常高。",
+    "pastHistorySource": 2,
+    "pastHistorySourceNotes": "1983年",
+    "saveEnvironment": 1,
+    "reserveStatus": "左下方有一道破損裂痕，2022年7月請李建章老師修復，陶棺下方有放置橡膠緩衝墊加以固定，以防止滑動。",
+    "documents": [
+        {
+            "fileid": 209189,
+            "name": "陶棺公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-03-24/b2d89f2c-8cdc-4cbe-810f-86f36ab80fc0/陶棺公告.pdf"
+        },
+        {
+            "fileid": 209190,
+            "name": "南投縣一般古物指定公告表陶棺.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-03-24/5ce483d5-9bd0-44ec-be73-fe9ec2919e4a/南投縣一般古物指定公告表陶棺.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 120.683901,
+    "latitude": 23.90945,
+    "representImageSource": "南投縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "南投縣政府文化局",
+            "keepName": "南投縣政府文化局",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "南投縣文化園區",
+            "keepAddressNew": "南投縣南投市彰南路二段65號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "南投縣",
+            "keepNameDistName": "南投市",
+            "keepNameAddress": "彰南路二段65號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "南投縣",
+            "distName": "南投市",
+            "id": 113345,
+            "caseId": 21608,
+            "caseStatus": true,
+            "cityId": 12,
+            "distId": 1201,
+            "address": "彰南路二段65號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 123276,
+            "caseId": 21608,
+            "caseStatus": true,
+            "registerDate": 1679555341992,
+            "officialDocNo": "府授文資第1120065128號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

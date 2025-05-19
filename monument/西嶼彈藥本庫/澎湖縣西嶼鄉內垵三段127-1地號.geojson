@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "澎湖縣西嶼鄉內垵三段127-1地號"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

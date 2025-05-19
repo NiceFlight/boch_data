@@ -1,0 +1,102 @@
+{
+    "id": 17345,
+    "caseId": "20200219000002",
+    "count": 173,
+    "shareCount": 0,
+    "representImage": 65965,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-02-11/10bd7e17-0391-4125-ad96-39d4faf479ca/明仇英松陰琴阮圖_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-02-11/10bd7e17-0391-4125-ad96-39d4faf479ca/明仇英松陰琴阮圖.jpg",
+        "name": "明仇英松陰琴阮圖"
+    },
+    "caseName": "明仇英松陰琴阮圖",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1581314217508,
+    "officialDocNo": "中華民國109年2月10日北市獻編字第1093001230號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就",
+        "數量稀少者"
+    ],
+    "registerReason": "1.\t琴阮圖反映人文 藝術酬和往來，用筆細緻，是白描作品中的精華之作，尤其淡墨的描線、人物的表現優美。\n2.\t琴阮圖水墨表現出色 仇英白描人物寫真、寫實且有紀年款，較為難得。\n3.\t為數量稀少者。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第3、4、5款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "10846臺北市萬華區中華路1段174之1號",
+    "reservationCode": "故畫002181",
+    "amount": 1,
+    "descAge": "1368-1644",
+    "descSize": "長55公分/寬28.4公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "仇英（約1494-1552），字實父，號十洲，江蘇太倉人。工畫山水、人物、花鳥。與沈周（1427-1509）、文徵明（1470-1559）、唐寅（1470-1523）並稱「明四家」。\n本幅繪高士二人，對坐於松木泉石之間，一人撥阮，另一人停琴諦聽。全畫構景清曠簡淡，人物衣紋用游絲描，石用披麻皴，於仇英作品中相當罕見。畫面右下方以篆書款署「嘉靖己酉（1549）」，時約五十六歲。左下角的「劍光閣」、「華氏明伯」二方收藏印記，前者為華雲（1488-1560）齋名，後者為華雲之子，故推測此畫是為華氏所作。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "畫心褐斑、裱邊摺痕、汙漬、褐斑",
+    "documents": [
+        {
+            "fileid": 65963,
+            "name": "公告函.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-02-11/2f57735e-2224-4ede-b07b-1a43f594fd95/公告函.pdf"
+        },
+        {
+            "fileid": 65964,
+            "name": "臺北市一般古物指定公告表_明仇英松陰琴阮圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-02-11/fd1e5f67-628a-432e-aebd-a97e4da8177d/臺北市一般古物指定公告表_明仇英松陰琴阮圖.pdf"
+        }
+    ],
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 6985,
+            "caseId": 17345,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108
+        }
+    ],
+    "announces": [
+        {
+            "id": 6985,
+            "caseId": 17345,
+            "caseStatus": true,
+            "registerDate": 1581314217508,
+            "officialDocNo": "中華民國109年2月10日北市獻編字第1093001230號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

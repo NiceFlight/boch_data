@@ -1,0 +1,139 @@
+{
+    "id": 2157,
+    "caseId": "20160414000001",
+    "count": 1962,
+    "shareCount": 1,
+    "representImage": 4378,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/132468/photo/馬公武德騎尉項得生古宅_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/132468/photo/馬公武德騎尉項得生古宅.JPG",
+        "name": "馬公武德騎尉項得生古宅"
+    },
+    "caseName": "馬公武德騎尉項得生古宅",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "為中央里街區僅存之原貌尚存的清領時期街屋。其雖為街屋，但以合院概念佈局，前後落間夾以天井。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1460563200000,
+    "officialDocNo": "府授文資字第10537009632號 ",
+    "documents": [
+        {
+            "fileid": 4379,
+            "name": "馬公武德騎尉項得生古宅公文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/132471/file/馬公武德騎尉項得生古宅公文.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "(一)具歷史文化價值者：為中央里街區僅存之原貌尚存的清領時期街屋。\r\n(二)具技術史之價值者：雖為街屋，但採合院概念佈局，前院落間置以天井。其牆體因高達二層，因應結構安全之需，牆體之構築極具特色，其間並以紅磚定平。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、3款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "06-9261141#138",
+    "govDeptAddress": "澎湖縣馬公市中華路230號",
+    "cadasters": [
+        {
+            "fileid": 99990,
+            "name": "地籍資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-03-12/44542b66-2cee-4150-921b-67e5dd8155f2/地籍資料.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "馬公市馬公段2403及2403-1地號",
+    "buildingFeatures": "1.簷體構法極具特色，轉角以汕石為材，其間夾以紅磚定平。\n2.外牆硓𥑮石、紅磚、石材交錯，其工法有磚石共砌等技術之展現。\n3.全棟硓𥑮石建材，紅磚為角柱，呈現澎湖島嶼獨特風貌。\n",
+    "inHouseFeatures": "樓閣建構亦保存中央古里「街內」區域特色。",
+    "buildingUsage": "閒置。",
+    "buildingActualState": "閒置。",
+    "buildingKeyMaintainItem": "建物結構本體損壞嚴重應防止建物崩落。",
+    "bulkTransfer": 0,
+    "belongAddress": "\t中央里中央街1巷4號",
+    "isOpenVisit": false,
+    "openUpTime": "外貌參觀",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 119.564488,
+    "latitude": 23.564606,
+    "representImageSource": "澎湖縣政府文化局文化資產科",
+    "landScope": "澎湖縣馬公市馬公段2403及2403-1地號",
+    "selfCoverage": "坐落馬公市馬公段2403、2403-1地號內之馬公市馬公段749建號建築本體，屬清朝合院街屋之二層傳統建築，包含前後落間天井，總樓層面積為145.06平方公尺。",
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 106255,
+            "caseId": 2157,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "\t中央里中央街1巷4號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "landNoName": "馬公段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 130889,
+            "caseId": 2157,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "landNoId": 15467,
+            "landSerialNo": "2403",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "area": "78平方公尺",
+            "cityLandUseTypeOther": "歷史風貌特定專用區",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "landNoName": "馬公段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 130890,
+            "caseId": 2157,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "landNoId": 15467,
+            "landSerialNo": "2403-1",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "area": "1平方公尺",
+            "cityLandUseTypeOther": "歷史風貌特定專用區",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 113926,
+            "caseId": 2157,
+            "caseStatus": true,
+            "registerDate": 1460563200000,
+            "officialDocNo": "府授文資字第10537009632號 ",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[119.5644796805311,23.564704847998083],[119.56450162249988,23.56462641103243],[119.56449872138282,23.56460024441793],[119.56444495402515,23.56458705215806],[119.56441845904347,23.564684755502686],[119.56441583839157,23.56469441937518],[119.56441991805652,23.564695086014797],[119.5644796805311,23.564704847998083],[119.5644796805311,23.564704847998083]]]]},\"properties\":{\"envelope\":{\"left\":\"119.56441583839157\",\"top\":\"23.56458705215806\",\"right\":\"119.56450162249988\",\"bottom\":\"23.564704847998083\"},\"landLot\":\"澎湖縣馬公市馬公段2403\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[119.56449872138282,23.56460024441793],[119.56450162249988,23.56462641103243],[119.56450540843947,23.56461196185768],[119.56450842606114,23.564603706960998],[119.56449872138282,23.56460024441793],[119.56449872138282,23.56460024441793]]]]},\"properties\":{\"envelope\":{\"left\":\"119.56449872138282\",\"top\":\"23.564600244417932\",\"right\":\"119.56450842606114\",\"bottom\":\"23.564626411032432\"},\"landLot\":\"澎湖縣馬公市馬公段2403-1\"}}],\"notfound\":[]}]",
+    "openVisitType": ""
+}

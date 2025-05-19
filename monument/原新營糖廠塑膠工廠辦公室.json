@@ -1,0 +1,112 @@
+{
+    "id": 16468,
+    "caseId": "20190107000001",
+    "count": 4126,
+    "shareCount": 3,
+    "representImage": 158386,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-04-07/0ddff9fa-26e8-42b7-bfc3-36852d1f52ce/古126原新營糖廠塑膠工廠辦公室_P001_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-04-07/0ddff9fa-26e8-42b7-bfc3-36852d1f52ce/古126原新營糖廠塑膠工廠辦公室_P001.jpg",
+        "name": "古126原新營糖廠塑膠工廠辦公室_P001"
+    },
+    "caseName": "原新營糖廠塑膠工廠辦公室",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "產業",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "registerDate": 1545990465893,
+    "officialDocNo": "府文資處字第1071388380A號",
+    "documents": [
+        {
+            "fileid": 158367,
+            "name": "原新營糖廠塑膠工廠辦公室公告107.12.28(含地籍圖).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-07/2981f665-2814-4426-867b-13ede2550b20/原新營糖廠塑膠工廠辦公室公告107.12.28(含地籍圖).pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具高度歷史、藝術或科學價值者",
+        "表現各時代營造技術流派特色者"
+    ],
+    "registerReason": "1、具高度歷史、藝術或科學價值者：民國37年（1948）啟用，曾作為塑膠工廠辦公室使用，民國90年新營糖廠蔗糖停壓以後閒置至今，為新營糖廠發展歷史進程之重要見證。\n2、表現各時代營造技術流派特色者：該建物混合了多種建築風格與工法，包含鋼筋混凝土、雨淋板、編竹夾泥牆、半圓木覆蓋之外牆等作法，並設有庭園與防空洞，其空間規劃與建築構造皆印證並呈現該時代的建築技術與特色。",
+    "lawsReference": "古蹟指定及廢止審查辦法第2條第1項第1、2款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "新營區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569 ",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 53766,
+            "name": "地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2019-01-07/a1da48d9-a27c-4e28-b4b8-0fe8b77b6857/地籍圖.pdf"
+        },
+        {
+            "fileid": 53767,
+            "name": "土地建物登記資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2019-01-07/91c733a4-222a-4795-bab1-fb3cc7b71669/土地建物登記資料.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺南市新營區興安段275地號。",
+    "bulkTransfer": 0,
+    "belongAddress": "120.318964,23.297856 ",
+    "isOpenDownload": false,
+    "longitude": 120.318964,
+    "latitude": 23.297856,
+    "representImageSource": "臺南市政府",
+    "landScope": "臺南市新營區興安段275地號",
+    "selfCoverage": "辦公室結構體、工具庫、防空洞",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "新營區",
+            "id": 82694,
+            "caseId": 16468,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1626,
+            "address": "新營糖廠廠區內"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺南市",
+            "distName": "新營區",
+            "landNoName": "興安段",
+            "id": 91673,
+            "caseId": 16468,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1626,
+            "landNoId": 2751,
+            "landSerialNo": "275",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 88824,
+            "caseId": 16468,
+            "caseStatus": true,
+            "registerDate": 1545990465893,
+            "officialDocNo": "府文資處字第1071388380A號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.31818751491407,23.29769938956647],[120.318166373257,23.29796414799069],[120.31816604516449,23.297968229994616],[120.31819535567622,23.29799779846786],[120.31914448541241,23.298037962410536],[120.31917345395007,23.298012125401588],[120.31917333080642,23.298009121128466],[120.31916762379294,23.29774850852948],[120.31915462679744,23.297722492638815],[120.31912232736755,23.297690576164303],[120.31821512433382,23.297673315346064],[120.31818751491407,23.29769938956647],[120.31818751491407,23.29769938956647]]]]},\"properties\":{\"envelope\":{\"left\":\"120.31816604516449\",\"top\":\"23.297673315346064\",\"right\":\"120.31917345395007\",\"bottom\":\"23.298037962410536\"},\"landLot\":\"臺南市新營區興安段275\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀"
+}

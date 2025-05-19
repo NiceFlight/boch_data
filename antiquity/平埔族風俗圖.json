@@ -1,0 +1,105 @@
+{
+    "id": 3648,
+    "caseId": "20100830000005",
+    "count": 685,
+    "shareCount": 4,
+    "representImage": 6389,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32596/photo/aef9b19d-28e8-47a1-a78b-506c6460686d_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32596/photo/aef9b19d-28e8-47a1-a78b-506c6460686d.jpg",
+        "name": "aef9b19d-28e8-47a1-a78b-506c6460686d"
+    },
+    "caseName": "平埔族風俗圖",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖繪",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1283097600000,
+    "officialDocNo": "會授資籌二字第09920102141號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.為刻畫平埔族群早期生活風俗之風俗畫，雖結合不同版本的內容，但仍忠實反映原住民文化內涵。2.\t筆觸鮮活，畫工精緻，並兼具原住民風俗畫版本比較之意義。具有文化及文獻價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。2.符合「古物分級登錄指定及廢止審查辦法」第三條第一、二、六款、第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "AH588",
+    "keepNameId": 4,
+    "keepName": "國立臺灣博物館",
+    "keepNameNew": 4,
+    "keepAddressNew": "100台北市中正區襄陽路2號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 1,
+    "amount": 1,
+    "notes": "1.杜正勝，1998，番社采風圖題解，中央研究院歷史語言研究所，台北。2.蕭瓊瑞，1999，島民、風俗、畫—十八世紀臺灣原住民生活圖像，東大圖書，台北。3.何勛堯，1986，館藏書畫選輯，臺灣省立博物館，台北。",
+    "descAge": "20世紀初",
+    "descSize": "637×55.8公分",
+    "descMaterial": "絹",
+    "reserveStatusDesc": "本幅絹本設色工筆長卷風俗畫，畫工富麗精細，其內容主要結合「潘敦仔行樂圖」及徐澍「臺灣番社圖」，再行摹繪而成。全圖包括12幅風俗場景，由右至左分別為潘敦仔行樂圖、番戲、揉採、鼻蕭、渡溪、捕魚、襁兒、織布、乘屋、收貯、臼舂(舂米)、教讀(社師)，其中「襁兒」為徐澍番社圖所無，可能係採「東寧陳氏番俗圖」內容入圖。結構完整，狀況良好。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "1945年由臺灣省立博物館接收，一直典藏至今",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 53298,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-12-25/7b576dca-e271-4382-a7fe-fc1d71ad3121/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立臺灣博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立臺灣博物館",
+            "keepName": "國立臺灣博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立臺灣博物館",
+            "keepAddressNew": "100台北市中正區襄陽路2號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "襄陽路2號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3790,
+            "caseId": 3648,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3790,
+            "caseId": 3648,
+            "caseStatus": true,
+            "registerDate": 1283097600000,
+            "officialDocNo": "會授資籌二字第09920102141號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

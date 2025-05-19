@@ -1,0 +1,106 @@
+{
+    "id": 4041,
+    "caseId": "20120326000096",
+    "count": 325,
+    "shareCount": 0,
+    "representImage": 6940,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/33027/photo/fb6f7284-2f6f-4538-95b4-1f7902acd219_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/33027/photo/fb6f7284-2f6f-4538-95b4-1f7902acd219.JPG",
+        "name": "fb6f7284-2f6f-4538-95b4-1f7902acd219"
+    },
+    "caseName": "宋人寒林待渡軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊藝術造詣或科學成就"
+    ],
+    "registerReason": "十至十一世紀，北方有一類以寒林為主題的山水畫，代表畫家首推五代李成（919-967）。不過傳世李成的寒林圖都作近景，松與枯樹為全幅的主景。此幅則作闊遠之景，坡石畫輪廓及皴染更接近郭熙（活動於11世紀後半），構圖也採中軸式，不過與郭熙〈早春圖〉相較，構圖較空疏，前景大石並用斧劈皴法，堪推為南宋以後學李郭一派的宋畫精雅代表之作。具有特殊之時代特色、技術及流派，具有特殊藝術造詣。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第四條第一項第三、四款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000214",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descSize": "136.8 x 99.7（公分）",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "河岸石坡上，二松勁挺，伸指布爪，如虯龍騰躍，其後枯枝雜樹為從。山坳間有簡陋的茅舍人家，另一邊艤舟泊岸，一人柱杖，一人驅驢將渡，。中景留空，稍遠處平坡迤邐，一角有籬院茅舍，屋中二人對飲。山勢漸遠，遠山輪廓高低起伏的隱沒在煙嵐中。全畫除了前景松石較繁重緊湊之外，皆以空疏簡淡之景，表現寒冬枯寂的情調。畫無款印，有明項元汴（1525-1590）、清梁清標（1620-1691）收藏印。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 151908,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-26/88095aa2-cb84-4c35-b601-903d8b850651/公告表.pdf"
+        },
+        {
+            "fileid": 151909,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-26/587d2c56-92dd-4cee-a716-9f9339d4bd6f/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71543,
+            "caseId": 4041,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 76008,
+            "caseId": 4041,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

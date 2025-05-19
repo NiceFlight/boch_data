@@ -1,0 +1,101 @@
+{
+    "id": 4545,
+    "caseId": "20170523000023",
+    "count": 371,
+    "shareCount": 0,
+    "representImage": 165625,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-05-26/b8936fdd-89ce-4033-82e2-f7a1b8c90469/K2A000234N000000000PAA_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-05-26/b8936fdd-89ce-4033-82e2-f7a1b8c90469/K2A000234N000000000PAA.jpg",
+        "name": "K2A000234N000000000PAA"
+    },
+    "caseName": "元李衎四季平安軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1495468800000,
+    "officialDocNo": "中華民國106年5月23日文授資局物字第1063005353號",
+    "judgeCriteria": [
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊藝術造詣或科學成就"
+    ],
+    "registerReason": "李衎（1245-1320），皇慶元年（1312）為吏部尚書，拜集賢大學士。善畫竹石，並曾刊行竹譜，開創蒙元時代畫竹的新趨勢。\n此軸李衎於山石一側坡岸畫竹四竿，其根部在空間中安排前後錯落，藉深淺墨色表現竹葉的前後關係，畫面繁密枝葉交錯，形成華麗眩目的視覺效果。畫竹姿態如真，用筆細膩，墨色變化豐富，是相當精采的立軸竹畫。存世元代墨竹作品中，此作亦能凸顯其不守陳規，超乎古人蹊徑。\n墨竹畫一門，於元代因與書法之結合，流行至今，本幅為結合畫竹生態與文人書法功力之做品，是李氏之代表作，也是墨竹作品中之佳作。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第4條第1項第3、4款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000234",
+    "amount": 1,
+    "descAge": "元",
+    "descCreator": "李衎",
+    "descSize": "131.4公分x 51.1公分",
+    "descMaterial": "絹",
+    "reserveStatusDesc": "籍貫河北的元初士人李衎（1245-1320），於元仁宗皇慶元年（1312）入為吏部尚書，拜集賢大學士，與趙孟頫等人同受當朝推崇。李衎善畫竹石，並曾刊行竹譜，開創蒙元時代畫竹的新趨勢。此軸於山石一側坡岸畫竹四竿，其根部在空間中安排前後錯落，畫家也藉深淺墨色表現竹葉的前後關係，畫面繁密枝葉交錯，形成華麗眩目的視覺效果。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "漆軸頭。本幅：霉傷，折裂，傷損傷補。",
+    "documents": [
+        {
+            "fileid": 148205,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-21/2bd3ecd4-e7bd-4678-a3c6-3ff82aff567e/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 84083,
+            "caseId": 4545,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 90315,
+            "caseId": 4545,
+            "caseStatus": true,
+            "registerDate": 1495468800000,
+            "officialDocNo": "中華民國106年5月23日文授資局物字第1063005353號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

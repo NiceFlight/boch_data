@@ -1,0 +1,104 @@
+{
+    "id": 16144,
+    "caseId": "20180912000013",
+    "count": 461,
+    "shareCount": 0,
+    "representImage": 50028,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-09-12/ef2825d4-969b-4bd4-96fc-8a52628100a5/3 南天宮-千里眼神像_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-09-12/ef2825d4-969b-4bd4-96fc-8a52628100a5/3 南天宮-千里眼神像.jpg",
+        "name": "3 南天宮-千里眼神像"
+    },
+    "caseName": "南天宮-千里眼神像(含媽祖神像、千里眼神像、順風耳神像)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1473067843934,
+    "officialDocNo": "府授文資遺字第10501858403號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.為閩臺人民媽祖信仰之代表物，反映臺灣漢人宗教民俗與原鄉連結之紀念物。\n2.反映霧峰地區之漳州裔移民史、信仰文化。\n3.與霧峰林家的家族史及太平天國、戴潮春事件有關，具史實價值。\n",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第1、2、3、5、6款",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "霧峰區",
+    "govInstitution": "臺中市文化資產處",
+    "govDeptName": "遺址傳藝課",
+    "govDeptPhone": "04-22290280#501",
+    "govDeptAddress": "臺中市南區復興路三段362號R10",
+    "reservationCode": "府授文資遺字第10501858403號",
+    "keepNameId": 70,
+    "keepName": "霧峰南天宮",
+    "keepNameNew": 70,
+    "keepAddressNew": "臺中市霧峰區萊園路57巷2號",
+    "saveSpaceId": 1,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "descAge": "清",
+    "descSize": "5.5吋",
+    "descMaterial": "木",
+    "reserveStatusDesc": "有損傷但狀況穩定 ",
+    "pastHistorySource": 6,
+    "saveEnvironment": 2,
+    "reserveStatus": "有損傷但狀況穩定 ",
+    "documents": [
+        {
+            "fileid": 50029,
+            "name": "3 南天宮-千里眼神像(公告-掃描).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-09-12/def326a7-dc56-45b6-a644-9a9dce2673a5/3 南天宮-千里眼神像(公告-掃描).pdf"
+        }
+    ],
+    "keepNames": [
+        {
+            "keepNameIdStr": "霧峰南天宮",
+            "keepName": "霧峰南天宮",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "霧峰南天宮",
+            "keepAddressNew": "臺中市霧峰區萊園路57巷2號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2,
+            "keepNameCityName": "臺中市",
+            "keepNameDistName": "霧峰區",
+            "keepNameAddress": "萊園路57巷2號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "霧峰區",
+            "id": 5881,
+            "caseId": 16144,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1011
+        }
+    ],
+    "announces": [
+        {
+            "id": 5881,
+            "caseId": 16144,
+            "caseStatus": true,
+            "registerDate": 1473067843934,
+            "officialDocNo": "府授文資遺字第10501858403號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

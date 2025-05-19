@@ -1,0 +1,107 @@
+{
+    "id": 4160,
+    "caseId": "20111130000009",
+    "count": 238,
+    "shareCount": 0,
+    "representImage": 7079,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/35896/photo/3960877a-89a8-4b5c-aa7e-34e72b2946a9_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/35896/photo/3960877a-89a8-4b5c-aa7e-34e72b2946a9.jpg",
+        "name": "3960877a-89a8-4b5c-aa7e-34e72b2946a9"
+    },
+    "caseName": "明沈周畫山水軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1322582400000,
+    "officialDocNo": "中華民國100年11月30日會授資籌二字第10020129221號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "此作用筆疏朗率意，經學者研究，與院藏〈崇山修竹〉相似，應為沈周1470年左右的佳作。由其自題「米不米、黃不黃」亦可見沈周當時對米芾與黃公望風格的理解與詮釋。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第三、四、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "0422177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫001316",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descSize": "59.7 x 43.1 公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "本幅前景作疏樹數株，隔江雙峰並列，其間有V字形山塢，暗藏礬頭與深淺林木，透露生意。遠山以數筆簡率勾勒山形，或以墨烘染。通幅皴山畫樹，用筆疏朗。自題云「米不米，黃不黃，淋漓水墨餘清蒼。」畫中山石以水墨烘染，似取法米氏雲山煙樹之朦朧風格；而清蒼簡率之畫境，或仿效著如張丑（1577-1643）提及的黃公望「皴紋極少」、「筆意尤為簡遠」一類作品。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "舊霉傷，蟲蛭，折痕，傷損傷補，污漬點，幅左中被刮印痕，幅右邊三分之二有被刮印痕，幅右上角上方與邊綾有污點，詩塘白紙有污點，畫幅不平。整體完整。",
+    "documents": [
+        {
+            "fileid": 151976,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-27/1880c29d-f9bf-46d1-b8ce-57b8028b6bbe/公告.pdf"
+        },
+        {
+            "fileid": 151977,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-27/8cde61b7-e27e-4232-aa8c-edd3821989e1/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71568,
+            "caseId": 4160,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 76035,
+            "caseId": 4160,
+            "caseStatus": true,
+            "registerDate": 1322582400000,
+            "officialDocNo": "中華民國100年11月30日會授資籌二字第10020129221號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

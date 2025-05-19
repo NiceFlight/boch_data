@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "雲林縣西螺鎮埔心段0357"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

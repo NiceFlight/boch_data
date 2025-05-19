@@ -1,0 +1,90 @@
+{
+    "id": 3028,
+    "caseId": "20140828000004",
+    "count": 649,
+    "shareCount": 0,
+    "representImage": 5437,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/5921/photo/西寧獸魂碑_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/5921/photo/西寧獸魂碑.jpg",
+        "name": "西寧獸魂碑"
+    },
+    "caseName": "西寧獸魂碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1409155200000,
+    "officialDocNo": "府授文資遺字第1030168651號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色"
+    ],
+    "registerReason": "1.\t此碑深刻、文字清晰，顯示二十世紀上半年臺灣豬業受日本文化影響而立之碑，具有地方史料意義。\r\n2.\t獸魂碑於今日臺灣所存不多，此碑字體清晰、鐫刻甚深，具文獻價值與在地信仰價值。",
+    "lawsReference": "符合「古物分級登錄指定及廢止審查辦法」第2條第1項第1評定基準，爰依據「古物分級登錄指定及廢止審查辦法」第5、7條登錄。",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "清水區",
+    "reservationCode": "",
+    "keepNameId": 17,
+    "keepName": "振坤宮",
+    "keepNameNew": 17,
+    "keepAddressNew": "臺中市清水區 西寧里五權東路45號(清水區社區發展協會活動中心)",
+    "amount": 1,
+    "notes": "",
+    "reserveStatusDesc": "1.\t年代：昭和16年(1941)\r\n2.\t材質：花崗岩\r\n3.\t形制：陰刻碑碣",
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 5438,
+            "name": "c5bbd101-f147-4a5d-aad3-b7cf2513a25b.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44299/file/c5bbd101-f147-4a5d-aad3-b7cf2513a25b.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "臺中市文化資產處",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "振坤宮",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺中市清水區 西寧里五權東路45號(清水區社區發展協會活動中心)",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "清水區",
+            "id": 3165,
+            "caseId": 3028,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1026
+        }
+    ],
+    "announces": [
+        {
+            "id": 3165,
+            "caseId": 3028,
+            "caseStatus": true,
+            "registerDate": 1409155200000,
+            "officialDocNo": "府授文資遺字第1030168651號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

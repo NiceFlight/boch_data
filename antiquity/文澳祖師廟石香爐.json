@@ -1,0 +1,95 @@
+{
+    "id": 22593,
+    "caseId": "20240319000012",
+    "count": 77,
+    "shareCount": 0,
+    "representImage": 254188,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-03-19/6b363e62-06a5-47dc-b057-fe5ad3998738/文澳祖師廟石香爐_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-03-19/6b363e62-06a5-47dc-b057-fe5ad3998738/文澳祖師廟石香爐.jpg",
+        "name": "文澳祖師廟石香爐"
+    },
+    "caseName": "文澳祖師廟石香爐",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "具有藝術造詣或科學成就",
+        "數量稀少者"
+    ],
+    "registerReason": "1、具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：見證清代宮廟祭祀儀式之物件。\n2、具有藝術造或科學成就：此爐石為材，高僅10公分，分配爐身和爐足，並雕鑿傳統紋飾，尤其三足螭虎吞腳，既現石材的堅實，又呈巧拙之趣。\n3、數量稀少者：圓形石香爐數量不多。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、4、5款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "govInstitution": "澎湖縣政府",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405#6408",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00652-P-107-0006",
+    "amount": 1,
+    "descAge": "清",
+    "descSize": "徑26.5公分、高10公分",
+    "descMaterial": "石",
+    "reserveStatusDesc": "1、圓口直壁微鼓，平底下三足，黑色，火成岩類石。爐口置有白鐵漏斗形的內爐，用來增加香爐之插香面積，爐身減地陽紋刻有團花捲草紋，三足為螭虎吞腳。\n2、根據研究，臺灣石香爐整體造形來看，清代石香爐係以四足的展耳方爐為主；日治時代以後則流行三足圓爐和圈底圓爐兩種。比較清代與日治時代石香爐造形的差異，可發現後者除了圓體造形數量增多，即便是方爐，爐身亦從斜直之輪廓線朝向曲弧線條、強調器腹飽滿之形態發展。雖不排除清代石香爐亦有圓體者，但日治時代圓體造形的比例才大幅提高。\n3、臺灣常見石爐多是方體、展耳為主要造形，而文澳祖師廟這件無年款的石爐，不僅造形獨特，形狀也相仿文澳城隍廟嘉慶二十四年石香爐。具有年代與造形上面的代表意義。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 2,
+    "reserveStatus": "狀況穩定",
+    "documents": [
+        {
+            "fileid": 254177,
+            "name": "1120706_清風閣等12案指定一般古物-公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-03-19/b4952e21-01f1-4445-8d70-83315a23c700/1120706_清風閣等12案指定一般古物-公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "〈澎湖縣百年歷史廟宇及教堂文物普查計畫（二）‧成果報告〉",
+    "keepNames": [
+        {
+            "keepNameIdStr": "文澳祖師廟",
+            "keepName": "吳榮文",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "文澳祖師廟",
+            "keepAddressNew": "澎湖縣馬公市西文里34號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2,
+            "keepNameCityName": "澎湖縣",
+            "keepNameDistName": "馬公市",
+            "keepNameAddress": "西文里34號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 128243,
+            "caseId": 22593,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "西文里34號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 139319,
+            "caseId": 22593,
+            "caseStatus": true,
+            "registerDate": 1688572800000,
+            "officialDocNo": "府授文博字第1123702174號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

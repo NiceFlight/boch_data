@@ -1,0 +1,133 @@
+{
+    "id": 100,
+    "caseId": "19980504000011",
+    "count": 3153,
+    "shareCount": 1,
+    "representImage": 200655,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/39ea92c0-cd17-4842-957c-b64939b83ef1/臺北市政府衛生局舊址_20220916_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/39ea92c0-cd17-4842-957c-b64939b83ef1/臺北市政府衛生局舊址_20220916.jpeg",
+        "name": "臺北市政府衛生局舊址_20220916"
+    },
+    "caseName": "臺北市政府衛生局舊址",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "原為日治時期臺北市簡易宿泊所、內部空間旋兼作職業紹介所之用，俟1930年公設質舖遷入合署，為本市社會福利服務發展之歷史見證。戰後曾為本市衛生院、性病防治所，現作為社會局身心障礙福利會館使用。\n建築設計仿歐風樣式，左右對稱，兩翼設有突出高塔，屋頂上開圓洞窗，並有橫帶裝飾，整體設計饒富趣味。屋頂原是半圓筒狀，今改為斜頂以利排水。",
+    "assetsTypeNames": "衙署",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 138126,
+            "name": "4._870504檢送市定古蹟公告函.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/5bdcc974-5068-41ba-95e3-f2b8df00f13d/4._870504檢送市定古蹟公告函.pdf"
+        },
+        {
+            "fileid": 138127,
+            "name": "_870504指定古蹟公告(4).tif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/780a2375-7d08-4d9d-9e19-1bbf03756af2/_870504指定古蹟公告(4).tif"
+        },
+        {
+            "fileid": 138128,
+            "name": "_870504指定古蹟公告(3).tif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/18ded4aa-c524-4eb2-b1f2-671139ab6715/_870504指定古蹟公告(3).tif"
+        },
+        {
+            "fileid": 138129,
+            "name": "_870504指定古蹟公告(2).tif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/f6f39d43-d646-4949-a34f-6695caba7376/_870504指定古蹟公告(2).tif"
+        },
+        {
+            "fileid": 138130,
+            "name": "3._870504指定市定古蹟(1).tif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/f43342a9-4683-42b5-8cd9-f7078a36a59b/3._870504指定市定古蹟(1).tif"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值"
+    ],
+    "registerReason": "具文化資產保存價值。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 138131,
+            "name": "地籍.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/95a444c6-e8f0-46f8-a946-d878137c0b9b/地籍.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "台北市正義段四小段236地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenDownload": false,
+    "longitude": 121.520692,
+    "latitude": 25.050205,
+    "representImageSource": "臺北市文化局",
+    "landScope": "台北市正義段四小段236地號",
+    "selfCoverage": "15號前棟日據時期興建之建築本體",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中山區",
+            "id": 148506,
+            "caseId": 100,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 103,
+            "address": "長安西路15號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中山區",
+            "landNoName": "正義段四小段",
+            "cityLandUseTypeName": "行政區",
+            "id": 205344,
+            "caseId": 100,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 103,
+            "landNoId": 221,
+            "landSerialNo": "236",
+            "landownership": 1,
+            "cityLandUseTypeId": 4,
+            "coverageId": 2,
+            "area": "456平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 161424,
+            "caseId": 100,
+            "caseStatus": true,
+            "registerDate": 894211200000,
+            "officialDocNo": "府民三字第8702427100號",
+            "classificationId": 1,
+            "note": "無"
+        }
+    ],
+    "geojson": "[{\"features\":[{\"geometry\":{\"coordinates\":[[[[121.52051156791,25.050429855885],[121.52042535131,25.050391195281],[121.52037368317,25.050199682497],[121.52073415868,25.050116710436],[121.52076914166,25.050135836826],[121.52088668998,25.05060556563],[121.52086035371,25.050632473868],[121.52052547857,25.050600858003],[121.52051156791,25.050429855885]]]],\"type\":\"MultiPolygon\"},\"type\":\"Feature\",\"properties\":{\"ymin\":25.050116710436,\"xmin\":121.52037368317,\"段號\":2360000,\"query\":\"臺北市,正義段四小段,236\",\"ycenter\":25.050374592152,\"land_id\":2360000,\"area_id\":\"AC\",\"content\":\"1. 個案名稱: 臺北市政府衛生局舊址 <br />\\n      2. 地號: 臺北市,正義段四小段,236 <br />\\n      3. 級別: 直轄市定古蹟 <br />\\n      4. 種類: 衙署 <br />\\n      5. 指定登錄理由: 具文化資產保存價值。 <br />\\n      6. 最後一筆公告日期: 1998-05-04 <br />\\n      7. 最後一筆公告文號: 府民三字第8702427100號 <br />\\n      8. 管理單位: 臺北市政府社會局 <br />\\n      9. 使用單位: 財團法人喜憨兒社會福利基金會 <br />\\n      10. 建物狀態: 現況良好 <br />\",\"地段\":\"正義段四小段\",\"縣市\":\"臺北市\",\"ymax\":25.050632473868,\"xcenter\":121.520630186575,\"xmax\":121.52088668998,\"section_id\":\"0413\",\"鄉鎮\":\"中山區\",\"id\":\"AC0413\",\"query_log\":[]}}],\"address\":[{\"address\":\"1. 個案名稱: 臺北市政府衛生局舊址 <br />\\n      2. 地址: 長安西路15號 <br />\\n      3. 級別: 直轄市定古蹟 <br />\\n      4. 種類: 衙署 <br />\\n      5. 指定登錄理由: 具文化資產保存價值。 <br />\\n      6. 最後一筆公告日期: 1998-05-04 <br />\\n      7. 最後一筆公告文號: 府民三字第8702427100號 <br />\\n      8. 管理單位: 臺北市政府社會局 <br />\\n      9. 使用單位: 財團法人喜憨兒社會福利基金會 <br />\\n      10. 建物狀態: 現況良好 <br />\",\"lat\":25.050205,\"lng\":121.520692}],\"notFound\":[],\"type\":\"FeatureCollection\"}]",
+    "openVisitType": "完全開放參觀",
+    "isCharge": false
+}

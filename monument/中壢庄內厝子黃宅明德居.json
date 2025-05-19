@@ -1,0 +1,177 @@
+{
+    "id": 20827,
+    "caseId": "20220701000001",
+    "count": 3759,
+    "shareCount": 9,
+    "representImage": 171004,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-07-01/e7718241-aba5-4233-8cc3-e14e42345bab/1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-07-01/e7718241-aba5-4233-8cc3-e14e42345bab/1.jpg",
+        "name": "1"
+    },
+    "caseName": "中壢庄內厝子黃宅明德居",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "由江夏堂明德居黃氏第22世祖五兄弟於西元1919年（大正8年）協力建造，在當時中壢郡中壢庄大崙內厝子200番地近千坪的土地上，蓋建三合院宅第與院落，並於1921年（大正10年）竣工。\n\n黃氏自第19世祖從廣東陸豐播遷來臺，自第22世祖從事水田及茶園耕作，並於1924年（大正13年）合資創建「永春合資會社」，以購置田產、承租茶園耕作，事業經營有成，為中壢大崙地區之望族。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 170998,
+            "name": "府文資字第11101187281號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-01/6998f30a-5646-454c-8f22-8729bf37ebb8/府文資字第11101187281號.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具高度歷史、藝術或科學價值者",
+        "表現各時代營造技術流派特色者",
+        "具稀少性，不易再現者"
+    ],
+    "registerReason": "一、具高度歷史、藝術或科學價值者：\n(1) 黃氏族人事業經營有成，為中壢大崙地區望族，而明德居有百年歷史，為黃氏家族發展之重要場所，可做為地方發展史之重要見證。\n(2) 建築充分運用石材、磚瓦、木等建材，輔以泥塑、剪黏及交趾陶等傳統手工藝術創作，具備高度建築藝術價值。\n(3) 一堂二橫、外埕及後方刺竹林保存完整，體現傳統民居之風水觀，具科學價值。\n\n二、表現各時代營造技術流派特色者：建築以土埆磚結合傳統斗子砌磚及部分日治時期TR磚砌造，並以石條及卵石砌為基座；屋脊有剪黏，水車堵則有特別延請唐山師傅手工製作的交趾陶裝飾，具日治大正時期結合傳統與當代建築構築工法之技術與美學。\n\n三、具稀少性，不易再現者：明德居建成逾百年，形式完整且保存情形良好，在當今桃園城鄉風貌變化快速之情形下，具稀少性，不易再現。",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "330",
+    "govInstitutionName": "桃園市政府",
+    "belongCityId": 501,
+    "belongCityName": "中壢區",
+    "govInstitution": "桃園市政府",
+    "govDeptName": "文化局文化資產科",
+    "govDeptPhone": "03-3322592分機8619",
+    "govDeptAddress": "桃園市桃園區縣府路21號",
+    "cadasters": [
+        {
+            "fileid": 171003,
+            "name": "地籍資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-07-01/cd4a73cd-b21f-40ce-8670-d963f86ebdb1/地籍資料.pdf"
+        }
+    ],
+    "buildingFeatures": "建築本體以磚、瓦、石、木等為材，基座為條石砌，屋身下段卵石砌，中段斗子砌，上段設水車堵。裝飾類型包括泥塑、剪黏及交趾陶，屋脊以剪黏為飾，水車堵為唐山師傅的交趾陶作品，具日治大正時期結合傳統與當代建築構築工法之技術與美學。",
+    "bulkTransfer": 1,
+    "belongAddress": "內厝里",
+    "isOpenDownload": false,
+    "longitude": 121.18213,
+    "latitude": 24.98471,
+    "representImageSource": "桃園市政府文化局",
+    "landScope": "中壢區大崙段855、859、860、861及862地號等5筆土地，計1502.14平方公尺",
+    "selfCoverage": "正堂、左右橫屋及內埕（含圍牆），計577.52平方公尺",
+    "addresses": [
+        {
+            "cityName": "桃園市",
+            "distName": "中壢區",
+            "id": 149545,
+            "caseId": 20827,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 501,
+            "address": "福嶺路二段198巷21弄80號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "桃園市",
+            "distName": "中壢區",
+            "landNoName": "大崙段",
+            "noncityLandUseTypeName": "特定農業區",
+            "id": 207224,
+            "caseId": 20827,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 501,
+            "landNoId": 7549,
+            "landSerialNo": "855",
+            "landownership": 2,
+            "noncityLandUseTypeId": 1,
+            "area": "",
+            "note": "",
+            "cityLandUseId": 2
+        },
+        {
+            "cityName": "桃園市",
+            "distName": "中壢區",
+            "landNoName": "大崙段",
+            "noncityLandUseTypeName": "特定農業區",
+            "id": 207225,
+            "caseId": 20827,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 501,
+            "landNoId": 7549,
+            "landSerialNo": "859",
+            "landownership": 2,
+            "noncityLandUseTypeId": 1,
+            "area": "",
+            "note": "",
+            "cityLandUseId": 2
+        },
+        {
+            "cityName": "桃園市",
+            "distName": "中壢區",
+            "landNoName": "大崙段",
+            "noncityLandUseTypeName": "特定農業區",
+            "id": 207226,
+            "caseId": 20827,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 501,
+            "landNoId": 7549,
+            "landSerialNo": "860",
+            "landownership": 2,
+            "noncityLandUseTypeId": 1,
+            "area": "",
+            "note": "",
+            "cityLandUseId": 2
+        },
+        {
+            "cityName": "桃園市",
+            "distName": "中壢區",
+            "landNoName": "大崙段",
+            "noncityLandUseTypeName": "特定農業區",
+            "id": 207227,
+            "caseId": 20827,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 501,
+            "landNoId": 7549,
+            "landSerialNo": "861",
+            "landownership": 2,
+            "noncityLandUseTypeId": 1,
+            "area": "",
+            "note": "",
+            "cityLandUseId": 2
+        },
+        {
+            "cityName": "桃園市",
+            "distName": "中壢區",
+            "landNoName": "大崙段",
+            "noncityLandUseTypeName": "特定農業區",
+            "id": 207228,
+            "caseId": 20827,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 501,
+            "landNoId": 7549,
+            "landSerialNo": "862",
+            "landownership": 2,
+            "noncityLandUseTypeId": 1,
+            "area": "",
+            "note": "",
+            "cityLandUseId": 2
+        }
+    ],
+    "announces": [
+        {
+            "id": 162710,
+            "caseId": 20827,
+            "caseStatus": true,
+            "registerDate": 1651766400000,
+            "officialDocNo": "府文資字第11101187281號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.18223260615156,24.984760704599086],[121.18208658258082,24.98472718041121],[121.1820679152299,24.984793630395966],[121.18221225533911,24.984826768442616],[121.18223260615156,24.984760704599086],[121.18223260615156,24.984760704599086]]]]},\"properties\":{\"envelope\":{\"left\":\"121.18206791522989\",\"top\":\"24.984727180411209\",\"right\":\"121.18223260615156\",\"bottom\":\"24.984826768442616\"},\"landLot\":\"桃園市中壢區大崙段855\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.18244463115629,24.98469768682221],[121.1823857104373,24.984684169533477],[121.18211604979051,24.98462225453928],[121.18185045110692,24.984561282973626],[121.1817906910019,24.984659251519545],[121.18208658258082,24.98472718041121],[121.18223260615156,24.984760704599086],[121.18236771407014,24.984791724006126],[121.18241155446323,24.984732696054547],[121.18244463115629,24.98469768682221],[121.18244463115629,24.98469768682221]]]]},\"properties\":{\"envelope\":{\"left\":\"121.18179069100189\",\"top\":\"24.984561282973626\",\"right\":\"121.18244463115629\",\"bottom\":\"24.984791724006126\"},\"landLot\":\"桃園市中壢區大崙段859\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.1821840210378,24.984536836986326],[121.18192711090106,24.984435606437504],[121.18185045110692,24.984561282973626],[121.18211604979051,24.98462225453928],[121.1821301862302,24.984571918513026],[121.18217659110843,24.984578024485256],[121.1821840210378,24.984536836986326],[121.1821840210378,24.984536836986326]]]]},\"properties\":{\"envelope\":{\"left\":\"121.18185045110692\",\"top\":\"24.984435606437504\",\"right\":\"121.1821840210378\",\"bottom\":\"24.984622254539278\"},\"landLot\":\"桃園市中壢區大崙段860\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.18240210379798,24.984622775475312],[121.1821840210378,24.984536836986326],[121.18217659110843,24.984578024485256],[121.1821301862302,24.984571918513026],[121.18211604979051,24.98462225453928],[121.1823857104373,24.984684169533477],[121.18240210379798,24.984622775475312],[121.18240210379798,24.984622775475312]]]]},\"properties\":{\"envelope\":{\"left\":\"121.18211604979051\",\"top\":\"24.984536836986326\",\"right\":\"121.18240210379798\",\"bottom\":\"24.984684169533477\"},\"landLot\":\"桃園市中壢區大崙段861\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.18248493018578,24.98465541172202],[121.18240210379798,24.984622775475312],[121.1823857104373,24.984684169533477],[121.18244463115629,24.98469768682221],[121.18248493018578,24.98465541172202],[121.18248493018578,24.98465541172202]]]]},\"properties\":{\"envelope\":{\"left\":\"121.1823857104373\",\"top\":\"24.984622775475312\",\"right\":\"121.18248493018578\",\"bottom\":\"24.984697686822209\"},\"landLot\":\"桃園市中壢區大崙段862\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": "「中壢庄內厝子黃宅明德居」古蹟指定審議簡報資料"
+}

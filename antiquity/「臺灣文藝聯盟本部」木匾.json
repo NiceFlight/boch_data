@@ -1,0 +1,105 @@
+{
+    "id": 4326,
+    "caseId": "20130618000008",
+    "count": 510,
+    "shareCount": 0,
+    "representImage": 7258,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7407/photo/「臺灣文藝聯盟本部」木匾_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7407/photo/「臺灣文藝聯盟本部」木匾.jpg",
+        "name": "「臺灣文藝聯盟本部」木匾"
+    },
+    "caseName": "「臺灣文藝聯盟本部」木匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1371484800000,
+    "officialDocNo": "文資局物字第10220067541號",
+    "judgeCriteria": [
+        "具有史事重要淵源",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1934年「臺灣文藝聯盟」由張深切、賴明弘等人發起，結合全島多位臺灣作家，於臺中成立本部，又在嘉義、埔里、佳里、東京等地先後成立支部，並於1934年11月發行《臺灣文藝》雜誌，提供臺灣作家作品發表園地，並藉以凝聚臺灣作家的向心力。「臺灣文藝聯盟」的成立，同時也標識臺灣新文學運動，已漸漸脫離政治運動附屬階段，成為臺灣日治時期具代表性、全島性之重要文學團體。\r\n本牌匾為1934年5月「臺灣文藝聯盟」於臺中成立時所懸掛之木質牌匾，為臺灣文學發展過程重要文物，具歷史文化價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第二、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "中西區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "NMTL20060320010",
+    "keepNameId": 11,
+    "keepName": "國立臺灣文學館",
+    "keepNameNew": 11,
+    "keepAddressNew": "700台南市中西區中正路1號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 1,
+    "amount": 1,
+    "notes": "",
+    "descAge": "1943",
+    "descSize": "長132.3公分、寬27公分、高2.7公分",
+    "descMaterial": "木質",
+    "reserveStatusDesc": "文物入藏前有明顯因碰撞所造成的缺損、裂痕、且木材部分因蟲蛀而有孔洞、磨損的情形。文物表面有多處明顯不明漬痕、刮痕與髒汙情形。\r\n入藏後已於2011年10月進行木材裂痕-木材鬆動部位之加固處理及表面清潔等修護工作，修護後狀況穩定。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "2006；張孫煜",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定 ",
+    "documents": [
+        {
+            "fileid": 7259,
+            "name": "0f244363-5aab-48f2-98a9-0d49c6671cdb.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44438/file/0f244363-5aab-48f2-98a9-0d49c6671cdb.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立臺灣文學館",
+            "keepName": "國立臺灣文學館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立臺灣文學館",
+            "keepAddressNew": "700台南市中西區中正路1號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺南市",
+            "keepNameDistName": "中西區",
+            "keepNameAddress": "中正路1號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "id": 4469,
+            "caseId": 4326,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601
+        }
+    ],
+    "announces": [
+        {
+            "id": 4469,
+            "caseId": 4326,
+            "caseStatus": true,
+            "registerDate": 1371484800000,
+            "officialDocNo": "文資局物字第10220067541號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

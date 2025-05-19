@@ -1,0 +1,119 @@
+{
+    "id": 3130,
+    "caseId": "20140331000001",
+    "count": 453,
+    "shareCount": 0,
+    "representImage": 168955,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-06-22/393190d6-24b4-4e56-a2be-c5d029216d62/古物031有槽石器_P002_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-06-22/393190d6-24b4-4e56-a2be-c5d029216d62/古物031有槽石器_P002.jpg",
+        "name": "古物031有槽石器_P002"
+    },
+    "caseName": "有槽石器",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-其他",
+    "otherAssetsType": "生活及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1396195200000,
+    "officialDocNo": "府文資處字 第1030150405號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有一定之時代特色、技術及流派",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "石器時代之石製工具或武器一般多未見有意製作之凹槽。但此件石器卻見多道直線凹槽，證明係人為有意磨刻而成，見證史前文明生活文化及臺灣新石器時代打磨技術，且具有珍貴性及稀有性。 ",
+    "lawsReference": "符合「古物分級登錄指定及廢止審查辦法」第2條第1項第1、3、5、6款。",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "安平區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "reservationCode": "公告無資料",
+    "amount": 1,
+    "descAge": "新石器時代",
+    "descSize": "寬約7.49公分，長約10.86公分，厚約3.36公分。",
+    "descMaterial": "砂岩",
+    "reserveStatusDesc": "主要材質及特徵：砂岩。近長方形，打磨與磨製，並刻縱向凹槽，寬約7.49公分，長約10.86公分，厚約3.36公分。",
+    "pastHistorySource": 7,
+    "pastHistorySourceNotes": "公告無資料",
+    "saveEnvironment": 4,
+    "saveEnvironmentNotes": "公告無資料",
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 168863,
+            "name": "有槽石器更正公告103.05.16.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-06-22/ac746a5c-69b2-4bf1-a413-ee5896b0be33/有槽石器更正公告103.05.16.pdf"
+        },
+        {
+            "fileid": 168864,
+            "name": "有槽石器公告103.03.31.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-06-22/cef009c8-af73-49fb-92b7-7453e71d6963/有槽石器公告103.03.31.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 120.1852922423287,
+    "latitude": 22.992315026855383,
+    "representImageSource": "臺南市政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "臺南市政府",
+            "keepName": "臺南市政府",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "臺南市政府",
+            "keepAddressNew": "臺南市安平區永華路二段6號",
+            "saveSpaceOther": "公告無資料",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺南市",
+            "keepNameDistName": "安平區",
+            "keepNameAddress": "永華路二段6號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "安平區",
+            "id": 92600,
+            "caseId": 3130,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1606,
+            "address": "永華路二段6號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 99890,
+            "caseId": 3130,
+            "caseStatus": true,
+            "registerDate": 1396195200000,
+            "officialDocNo": "府文資處字 第1030150405號",
+            "classificationId": 1
+        },
+        {
+            "id": 99891,
+            "caseId": 3130,
+            "caseStatus": true,
+            "registerDate": 1400169600000,
+            "officialDocNo": "府文資處字 第1030385679號",
+            "classificationId": 2
+        }
+    ],
+    "isPublic": false
+}

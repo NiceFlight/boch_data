@@ -1,0 +1,114 @@
+{
+    "id": 3048,
+    "caseId": "20141017000012",
+    "count": 592,
+    "shareCount": 2,
+    "representImage": 171150,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-07-02/151b0426-983d-4725-9e3a-c77826f3080c/喜捐祝生廟祀田碑_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-07-02/151b0426-983d-4725-9e3a-c77826f3080c/喜捐祝生廟祀田碑.jpg",
+        "name": "喜捐祝生廟祀田碑"
+    },
+    "caseName": "喜捐祝生廟祀田碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-其他",
+    "otherAssetsType": "碑碣",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1413475200000,
+    "officialDocNo": "府授文資字第1030199118B號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色"
+    ],
+    "registerReason": "本碑為清道光12年（1832）立石，載明業主許廷瑄捐置祀田，而以收租充為祝生廟香煙，永遠流傳不斷，許廷瑄為開發鹿谷大坪頂地區的大地主，對鹿谷開發貢獻至鉅。許氏開發鹿谷地區成功，認為是慚愧祖師庇佑所致，圖報崇恩獻香燈租，此香燈租一直維持到光緒末年，此碑紀錄下此一事件始末，深具歷史價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第2條第1項第1款",
+    "govInstitutionCode": "540",
+    "govInstitutionName": "南投縣政府",
+    "belongCityId": 12,
+    "belongCityName": "南投縣",
+    "belongDistName": "鹿谷鄉",
+    "govInstitution": "南投縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "0492231191",
+    "govDeptAddress": "540南投市建國路135號",
+    "reservationCode": "無",
+    "amount": 1,
+    "notes": "",
+    "descAge": "清道光12年(1832)",
+    "descSize": "123*46*14公分",
+    "descMaterial": "砂岩",
+    "reserveStatusDesc": "祝生廟主祀慚愧祖師，本件碑記係清道光十二年（西元一八三二年）立石，載明業主許廷瑄捐置祀田，而以收租充為祝生廟香煙，永遠流傳不斷；勒碑知其樂助誠意，並與斯廟同垂不朽。\n",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清道光12年(1832)",
+    "saveEnvironment": 2,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 177038,
+            "name": "喜捐祝生廟祀田碑原公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-29/1153cc3f-9af4-40e3-a84c-2553d3692306/喜捐祝生廟祀田碑原公告.pdf"
+        },
+        {
+            "fileid": 177039,
+            "name": "喜捐祝生廟祀田碑修正公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-29/154015e8-ba04-4251-a85b-c35e5f489c53/喜捐祝生廟祀田碑修正公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.75544,
+    "latitude": 23.74579,
+    "representImageSource": "南投縣政府文化局(拍攝者:巷弄文旅有限公司-謝顯林)",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "祝生廟管理委員會",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "南投縣鹿谷鄉彰雅村中厝巷21號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "南投縣",
+            "distName": "鹿谷鄉",
+            "id": 114454,
+            "caseId": 3048,
+            "caseStatus": true,
+            "cityId": 12,
+            "distId": 1213
+        }
+    ],
+    "announces": [
+        {
+            "id": 124608,
+            "caseId": 3048,
+            "caseStatus": true,
+            "registerDate": 1405040683155,
+            "officialDocNo": "府授文資字第1030133820B號",
+            "classificationId": 1
+        },
+        {
+            "id": 124609,
+            "caseId": 3048,
+            "caseStatus": true,
+            "registerDate": 1413475200000,
+            "officialDocNo": "府授文資字第1030199118B號",
+            "classificationId": 2
+        }
+    ],
+    "isPublic": false
+}

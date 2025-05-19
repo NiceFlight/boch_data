@@ -1,0 +1,118 @@
+{
+    "id": 1872,
+    "caseId": "20040319000002",
+    "count": 2053,
+    "shareCount": 0,
+    "representImage": 209401,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-03-25/12a461de-6471-42a8-bead-0f2449d75497/c花蓮-加水塔04_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-03-25/12a461de-6471-42a8-bead-0f2449d75497/c花蓮-加水塔04.jpg",
+        "name": "c花蓮-加水塔04"
+    },
+    "caseName": "前花蓮火車站加水塔",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "今日花蓮市中華路沿著福町路以東則為昔日花蓮車站的場區範圍，因花蓮車站與花蓮機房等鐵路機關遷移至現今位置後，整個園區部分遭到拆除，部分廳舍則被保存了下來，鐵道上的軌道也陸續拆除並鋪上柏油路面即成為今日的福町路，而原本的機關轉運等設備全數拆除，只有這座約近三層樓高的加水塔及儲水塔，幸運的被保存下來，而這座加水塔及儲水塔的保存，也見證了過去蒸氣機車頭南來北往的交通史。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "建築物類",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1079678630000,
+    "officialDocNo": "府文藝字第09305800270號",
+    "documents": [
+        {
+            "fileid": 152693,
+            "name": "前花蓮火車站加水塔指定為歷史建築公告930319.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-02-17/c35c62d3-36f0-4d98-a47a-ff05ce27e330/前花蓮火車站加水塔指定為歷史建築公告930319.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "此為舊式蒸汽火車用之水塔，具有其特殊之造型與時代意義，且與規劃中之鐵道博物館鐵路園區等連成一線，尤其是過去舊火車站與拆除原有的機關轉運等設備皆沒有保存下來的情況下，舊水塔成為唯一留存下來的元素，值得劃為歷史建物。",
+    "lawsReference": "文化資產保存法第二十七條之一暨歷史建築登錄及輔助辦法第七條及第八條；以及九十二年十二月十七日花蓮縣歷史建築登錄審查會議決議辦理。",
+    "govInstitutionCode": "970",
+    "govInstitutionName": "花蓮縣政府",
+    "belongCityId": 23,
+    "belongCityName": "花蓮縣",
+    "belongDistName": "花蓮市",
+    "govInstitution": "花蓮縣文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-8227121-316",
+    "govDeptAddress": "花蓮縣花蓮市文復路6號",
+    "cadasters": [
+        {
+            "fileid": 160507,
+            "name": "前花蓮火車站加水塔_花蓮市_民生段民生小段_3號地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-04-15/a172aa15-c41b-4baa-917b-1abfbaa4cf37/前花蓮火車站加水塔_花蓮市_民生段民生小段_3號地籍圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "花蓮市民生小段3號",
+    "buildingFeatures": "共2座加水塔，一座為圓柱形加水塔，另一座為由6隻方形混凝土柱架高至三層樓高之圓形加水塔。",
+    "inHouseFeatures": "無。",
+    "buildingUsage": "鐵路局交由承租商觀光商圈使用。",
+    "buildingActualState": "光復街與成功街口炒天下餐廳內，2座圓形加水塔，原有炒天下餐廳遷移，現況由圍籬包覆。",
+    "buildingKeyMaintainItem": "注意其維護原有風貌",
+    "bulkTransfer": 0,
+    "belongAddress": "六期重劃區內，光復街與成功街口",
+    "isOpenVisit": true,
+    "openUpTime": "戶外空間。",
+    "isCharge": false,
+    "isOpenDownload": true,
+    "longitude": 121.609099630201,
+    "latitude": 23.9753651498234,
+    "representImageSource": "花蓮縣文化局",
+    "landScope": "花蓮縣花蓮市民生小段3號，面積2799.21平方公尺。",
+    "selfCoverage": "圓塔及六角塔",
+    "addresses": [
+        {
+            "cityName": "花蓮縣",
+            "distName": "花蓮市",
+            "id": 107457,
+            "caseId": 1872,
+            "caseStatus": true,
+            "cityId": 23,
+            "distId": 2301,
+            "address": "六期重劃區內，光復街與成功街口"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "花蓮縣",
+            "distName": "花蓮市",
+            "landNoName": "民生段民生小段",
+            "id": 133941,
+            "caseId": 1872,
+            "caseStatus": true,
+            "cityId": 23,
+            "distId": 2301,
+            "landNoId": 14095,
+            "landSerialNo": "3",
+            "landownership": 1,
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 115436,
+            "caseId": 1872,
+            "caseStatus": true,
+            "registerDate": 1079678630000,
+            "officialDocNo": "府文藝字第09305800270號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.60971138636698,23.974914339924453],[121.6093541585298,23.97467686625411],[121.60930569259602,23.97468406631545],[121.60926156863005,23.974740085701043],[121.60925404460104,23.974955560123586],[121.60924951312008,23.97496340287486],[121.60903997566251,23.97532605802079],[121.60926350326172,23.975473073611614],[121.60971138636698,23.974914339924453],[121.60971138636698,23.974914339924453]]]]},\"properties\":{\"envelope\":{\"left\":\"121.60903997566251\",\"top\":\"23.974676866254111\",\"right\":\"121.60971138636698\",\"bottom\":\"23.975473073611614\"},\"landLot\":\"花蓮縣花蓮市民生段民生小段3\"}}],\"notfound\":[]}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": "交通部臺灣鐵路管理局"
+}

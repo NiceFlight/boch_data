@@ -1,0 +1,107 @@
+{
+    "id": 3949,
+    "caseId": "20120326000004",
+    "count": 210,
+    "shareCount": 0,
+    "representImage": 6760,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32935/photo/902dedbf-ac60-455b-acaa-ad5deafe4c93_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32935/photo/902dedbf-ac60-455b-acaa-ad5deafe4c93.JPG",
+        "name": "902dedbf-ac60-455b-acaa-ad5deafe4c93"
+    },
+    "caseName": "明宋克書公讌詩軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "品質精良且數量稀少"
+    ],
+    "registerReason": "此軸章草縱橫自如，隸書波磔用筆明顯，古雅雋秀，表現出宋克高超嫻熟的書寫技巧，後世謂其書體法一變，脫盡元人風氣。此作為其成熟期的代表作品。具重要藝術造詣品質精良且數量稀少。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第四、五款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故書000008",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descCreator": "宋克",
+    "descSize": "111.7 x 32.4（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "宋克（1327-1387），字仲溫，江蘇蘇州人。其書出魏晉，深得鍾繇、王羲之筆法，又精研皇象急就章，將章草之質樸凝重改為放逸古雅，後世謂其書體法一變，脫盡元人風氣。為雲間書派開山祖師。此幅書東漢建安七子之一的劉楨所做的公讌詩，為宋克的佳作之一。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。本幅：舊蟲蛀，傷補大片，包首：外部磨損傷補，本幅上方折痕，軸頭兩端補強，地綾：黃斑漬，右下角有墨點。",
+    "documents": [
+        {
+            "fileid": 151230,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-24/54aabe6c-720f-4320-a032-3138db82a1f0/公告.pdf"
+        },
+        {
+            "fileid": 151231,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-24/14713c17-7108-4bea-af4d-4bfe4ad421ca/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71360,
+            "caseId": 3949,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75775,
+            "caseId": 3949,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

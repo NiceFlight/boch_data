@@ -1,0 +1,104 @@
+{
+    "id": 16309,
+    "caseId": "20181031000002",
+    "count": 393,
+    "shareCount": 0,
+    "representImage": 51092,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-10-31/cae3b20e-369a-4704-b0e5-2e69fee8bf9f/08-017IMG_5599_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-10-31/cae3b20e-369a-4704-b0e5-2e69fee8bf9f/08-017IMG_5599.jpg",
+        "name": "08-017IMG_5599"
+    },
+    "caseName": "馬公東甲北極殿-藍木製銅鑄宣爐",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1535963023114,
+    "officialDocNo": "府授文博字第1073702689號",
+    "judgeCriteria": [
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就",
+        "數量稀少者",
+        "對地方或族群知識、技術或流派發展具影響或意義"
+    ],
+    "registerReason": "（1）具有地方重要人物或歷史事件之深厚淵源者：藍木家族有地方發展意義。\n（2）能反映政治、經濟、社會、人文、科學等歷史變遷或時代特色者：為本地過去鑄銅產業之見證。\n（3）具有藝術造詣或科學成就：具備。\n（4）數量稀少者：銅鑄技術屬澎湖少見。\n（5）對地方或族群知識、技術或流派發展具影響或意義：表現地方文化特色，具特定時代特色及技術。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第2、3、4、5、6款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00677-P-M013-017",
+    "amount": 2,
+    "descAge": "1922年",
+    "descSize": "宣爐：深16.5公分/ 寬21.5公分/高8公分 臺座：深15.5公分/ 寬16公分/ 高3.5公分",
+    "descMaterial": "銅",
+    "reserveStatusDesc": "（1）銅爐呈黃銅色，平口束頸圓肩腹，下三乳足，雙耳為壓經耳，口沿刻「北極殿」，耳正面落款，左耳刻「大正壬戌年孟秋鑄」，右耳刻「炉下弟子藍木敬献」。器表有因鑄造時銅液分布不均所造成之砂眼，且因長年使用而泛黑。器外底方印款「辛酉澎湖藍木工場製」。\n（2）爐座為銅質蓮瓣造形，三足為片狀。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "時間：1922年",
+    "saveEnvironment": 2,
+    "reserveStatus": "中央供案下桌",
+    "documents": [
+        {
+            "fileid": 51091,
+            "name": "馬公東甲北極殿-藍木製銅鑄宣爐.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-10-31/021dcb09-50c9-44db-b64c-2638abaef02e/馬公東甲北極殿-藍木製銅鑄宣爐.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.566883,
+    "latitude": 23.564947,
+    "representImageSource": "澎湖縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "東甲北極殿",
+            "keepName": "蘇崑雄",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "東甲北極殿",
+            "keepAddressNew": "澎湖縣馬公市啟明里啟明街2號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 2,
+            "keepNameCityName": "澎湖縣",
+            "keepNameDistName": "馬公市",
+            "keepNameAddress": "啟明里啟明街2號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 27018,
+            "caseId": 16309,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "啟明里啟明街2號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 27244,
+            "caseId": 16309,
+            "caseStatus": true,
+            "registerDate": 1535963023114,
+            "officialDocNo": "府授文博字第1073702689號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

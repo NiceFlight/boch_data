@@ -1,0 +1,102 @@
+{
+    "id": 3830,
+    "caseId": "20140421000044",
+    "count": 812,
+    "shareCount": 0,
+    "representImage": 6635,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7106/photo/清白玉錦荔枝_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7106/photo/清白玉錦荔枝.JPG",
+        "name": "清白玉錦荔枝"
+    },
+    "caseName": "清 白玉錦荔枝",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1398009600000,
+    "officialDocNo": "文資物字第10320043691號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就",
+        "品質精良且數量稀少"
+    ],
+    "registerReason": "苦瓜，又名錦荔枝。本件白玉錦荔枝為閃玉質，色白純淨、光澤溫潤。雕作葉、蒂相連的大小三顆苦瓜。果實表面連珠般的起伏，拋光完整，一絲不茍，將典型「羊脂」美玉的質感發揮至極。質美工精，是盛清玉器發展高峰的代表作品。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第3、4、5款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故玉003475",
+    "amount": 1,
+    "notes": "",
+    "descAge": "清",
+    "descSize": "高：5公分",
+    "descMaterial": "閃玉",
+    "reserveStatusDesc": "質材：閃玉質，色白純淨、光澤溫潤。\r\n形制：雕作葉、蒂相連的大小三顆苦瓜。\r\n特徵：果實表面連珠般的起伏，拋光完整，一絲不茍，將典型「羊脂」美玉的質感發揮至極。此器為「天」字號，表示原為乾清宮內之陳設。器配有一鏤雕苦瓜枝蔓、果實及螳螂，精緻可人的紫檀木座。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。小瓜及葉梗有多處長條裂璺。",
+    "documents": [
+        {
+            "fileid": 150298,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-13/c53905dd-e53d-40ee-8b0d-9c818ece2862/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": " 國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70901,
+            "caseId": 3830,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 75177,
+            "caseId": 3830,
+            "caseStatus": true,
+            "registerDate": 1398009600000,
+            "officialDocNo": "文資物字第10320043691號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

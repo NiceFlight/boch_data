@@ -1,0 +1,106 @@
+{
+    "id": 3318,
+    "caseId": "20161118000019",
+    "count": 735,
+    "shareCount": 0,
+    "representImage": 5788,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133482/photo/M025500 (2)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133482/photo/M025500 (2).jpg",
+        "name": "M025500 (2)"
+    },
+    "caseName": "雅美(達悟)族男子胸飾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1479398400000,
+    "officialDocNo": "北市獻編字第10530125000號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.\t雅美(達悟)男子胸飾代表，其半月形木片之造形飾物是南島民族特色，鹿野忠雄有特別記載，為蘭嶼人特別的文物，其他族群未見男性佩戴此類飾物。\r\n2.\t表達雅美族傳家寶飾之意義，媒材稀有，以當地材料，骨、貝為主作裝飾，猛禽腳骨獠牙均為權力之表徵，也是用來彰顯男性威望，木片銀片獠牙均呈半月形，形象特殊，充份展現族群文化之特色及藝術造詣。\r\n",
+    "lawsReference": "1.文化資產保存法第67條\r\n2.古物分級登錄指定及廢止審查辦法第2條第1項第1、2、3、4、5、6款\r\n",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "研究員",
+    "govDeptPhone": "02-23115355#20",
+    "govDeptAddress": "臺北市萬華區中華路1段174-1號",
+    "reservationCode": "M025500",
+    "amount": 1,
+    "descAge": "不明",
+    "descSize": "長10×寬26㎝；含裝飾物全長34㎝",
+    "descMaterial": "木、銀、獸牙、獸骨、麻繩",
+    "reserveStatusDesc": "本件為雅美(達悟)族半月形之「（未婚）男子胸飾」，稱為raka no mahakay，遇有大日子或重大祭典時才會穿戴，貴重如金銀飾物，也是家族內重要的傳承寶飾。\n本件係以一半月形木片為主體，木片正面上以鐵釘固定有三個彎形銀片，其下則綴有四件附屬飾物。四件附屬飾物分別象徵代表的文化意涵如下：左側「猛禽腳骨」代表胸飾主人曾經捕獲該獵物的象徵物，因為猛禽類在蘭嶼社會中是一種可遇不可求、難以捕獲的獵物，因此將它綴飾在胸飾上藉以誇耀自己的特殊能力。中間兩個「公豬獠牙」則是代表自己擁有豢養豬隻的財富能力與社會聲望，隱喻自己舉行過諸如房屋落成禮或船下水禮等重大祭典，曾經宰殺許多豬隻、分享族人的歷史紀錄。右側「金屬器物零件」雖無法判定為何種工具或器物之零件，但其現代器物的外觀與屬性，亦可以展示胸飾主人適應時代變遷、趕上潮流脈動的特殊意涵。\n",
+    "pastHistorySource": 2,
+    "saveEnvironment": 1,
+    "reserveStatus": "尚可",
+    "documents": [
+        {
+            "fileid": 47450,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-01-16/77ea3ef6-abce-439c-9ae5-6f56dee456e2/公告.pdf"
+        },
+        {
+            "fileid": 47451,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-01-16/d0b360b1-0876-4e67-b3fe-c7513ad7a17c/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.551944,
+    "latitude": 25.101026,
+    "representImageSource": "順益臺灣原住民博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "順益臺灣原住民博物館",
+            "keepName": "順益臺灣原住民博物館",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "順益臺灣原住民博物館",
+            "keepAddressNew": "臺北市士林區至善路二段282號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 81336,
+            "caseId": 3318,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段282號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 87427,
+            "caseId": 3318,
+            "caseStatus": true,
+            "registerDate": 1479398400000,
+            "officialDocNo": "北市獻編字第10530125000號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

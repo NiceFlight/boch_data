@@ -1,0 +1,107 @@
+{
+    "id": 3110,
+    "caseId": "20141105000014",
+    "count": 369,
+    "shareCount": 0,
+    "representImage": 5536,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4787/photo/重脩府學碑記暨捐資監督姓氏碑_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4787/photo/重脩府學碑記暨捐資監督姓氏碑.png",
+        "name": "重脩府學碑記暨捐資監督姓氏碑"
+    },
+    "caseName": "重脩府學碑記暨捐資監督姓氏碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-其他",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1415116800000,
+    "officialDocNo": "府文資處字第1031018187B號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源"
+    ],
+    "registerReason": "本組碑記為乾隆十四年(西元1751年)，巡臺御史楊開鼎奏請改建文廟一事之相關紀綠。「重脩府學碑記」此件碑記記錄此次孔廟改建之始末。「重脩府縣兩學捐資監督姓氏」則記錄此次修建捐款、實際主事監工的侯世輝、蔡壯器等民間士紳。本組碑記為乾隆十四年至十六年期間，臺南孔廟建築修建之珍貴歷史紀錄。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第2條第1項第1、2款。",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "中西區",
+    "govInstitution": "臺南市文化資產管理處",
+    "govDeptName": "-文化資產研究組",
+    "govDeptPhone": "06-2213597",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "reservationCode": "-",
+    "amount": 2,
+    "notes": "",
+    "descAge": "乾隆十六年(西元1751年)",
+    "descCreator": "楊開鼎",
+    "descSize": "(1)重脩府學碑記(高327公分，寬123公分)(2)重修府縣兩學捐資監督姓氏(高237公分寬68公分) ",
+    "descMaterial": "花岡石",
+    "reserveStatusDesc": "1.年代：乾隆十六年(西元1751年)\n2.作者：楊開鼎 撰文\n3.材質：花岡石\n4.尺寸：(1)重脩府學碑記(高327公分，寬123公分)\n       (2)重修府縣兩學捐資監督姓氏(高237公分寬68公分)    \n5.技法：石刻\n6.重量：固定地面，無法測量\n7.數量：1組1件\n8.其他特徵：\n(1)重脩府學碑記：碑頭有三龍搶珠浮雕，碑體外框並以六尾淺浮雕龍紋為飾。碑座飾以浮雕之麒麟紋一對。\n(2)重修府縣兩學捐資監督姓氏：碑頭無紋飾。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "乾隆十六年(西元1751年)巡臺御史楊開鼎所立",
+    "saveEnvironment": 2,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 109857,
+            "name": "一般古物登錄清冊103.11.6.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-12/87aee518-2cf0-4a3f-98bc-92acb90b0999/一般古物登錄清冊103.11.6.pdf"
+        },
+        {
+            "fileid": 142160,
+            "name": "孔廟古物公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-01/f5a08060-0f1d-47bc-874a-a77a1bebf84e/孔廟古物公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 22.990697864018713,
+    "latitude": 120.20424391283163,
+    "representImageSource": "臺南市政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "財團法人臺南市孔廟文化基金會",
+            "keepName": "財團法人臺南市孔廟文化基金會",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺南市中西區 南門路2號(臺南市孔廟)",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "id": 107118,
+            "caseId": 3110,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601
+        }
+    ],
+    "announces": [
+        {
+            "id": 114993,
+            "caseId": 3110,
+            "caseStatus": true,
+            "registerDate": 1415116800000,
+            "officialDocNo": "府文資處字第1031018187B號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

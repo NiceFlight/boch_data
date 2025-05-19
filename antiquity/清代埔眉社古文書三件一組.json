@@ -1,0 +1,117 @@
+{
+    "id": 3036,
+    "caseId": "20141017000002",
+    "count": 695,
+    "shareCount": 0,
+    "representImage": 278142,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-12-16/4f91b593-0a12-4085-a526-cc663ac7fc48/清代埔眉社古文書三件一組(咸豐元年「斗禮、歹麼加非招佃首潘永成開墾契」)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-12-16/4f91b593-0a12-4085-a526-cc663ac7fc48/清代埔眉社古文書三件一組(咸豐元年「斗禮、歹麼加非招佃首潘永成開墾契」).jpg",
+        "name": "清代埔眉社古文書三件一組(咸豐元年「斗禮、歹麼加非招佃首潘永成開墾契」)"
+    },
+    "caseName": "清代埔眉社古文書三件一組",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1413475200000,
+    "officialDocNo": "府授文資字第10301991181號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "南投縣開發於清代，由此三件古文書提供了當時埔里一帶拓墾情形，並且對於道光末年埔社、眉社歸化獻土的來龍去脈有詳細說明，為了解清代土地政策之重要文獻；且其上蓋有手模，極為珍稀少見。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第2條第1項第1、2、5、6款",
+    "govInstitutionCode": "540",
+    "govInstitutionName": "南投縣政府",
+    "belongCityId": 12,
+    "belongCityName": "南投縣",
+    "belongDistName": "南投市",
+    "govInstitution": "南投縣政府",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "049-2231191",
+    "govDeptAddress": "540南投市建國路135號",
+    "reservationCode": "20200013035; 20200013036; 20200013244",
+    "amount": 3,
+    "notes": "",
+    "descAge": "清道光30年(1850)、清咸豐元年(1851)",
+    "descSize": "長41公分、寬41公分；長47公分、寬48.5公分；長42.5公分、寬42公分",
+    "descMaterial": "紙質",
+    "reserveStatusDesc": "此三件古文書分別為道光三十年（西元1850年）「埔眉社通事巫春榮給潘永成招佃開墾契」、咸豐元年（西元1851年）「斗禮、歹麼加非招佃首潘永成開墾契」、「眉沙朗歹麼加非發給佃首潘永成之完租收據」。\n\n",
+    "pastHistorySource": 2,
+    "pastHistorySourceNotes": "梁志忠先生",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定 ",
+    "documents": [
+        {
+            "fileid": 177040,
+            "name": "清代埔眉社古文書三件一組 修正公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-29/77870b60-eeaa-48b7-89e7-221f88a0f102/清代埔眉社古文書三件一組 修正公告.pdf"
+        },
+        {
+            "fileid": 177041,
+            "name": "清代埔眉社古文書三件一組 原公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-29/93e15fe4-5771-49fc-96ad-5ac619703292/清代埔眉社古文書三件一組 原公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.681546,
+    "latitude": 23.90799,
+    "representImageSource": "南投縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "南投縣政府文化局",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "南投縣南投市建國路135號",
+            "saveSpaceIdStr": "公務設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "南投縣",
+            "distName": "南投市",
+            "id": 147360,
+            "caseId": 3036,
+            "caseStatus": true,
+            "cityId": 12,
+            "distId": 1201,
+            "address": "建國路135號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 160103,
+            "caseId": 3036,
+            "caseStatus": true,
+            "registerDate": 1405040959201,
+            "officialDocNo": "府授文資字第10301338201號",
+            "classificationId": 1
+        },
+        {
+            "id": 160104,
+            "caseId": 3036,
+            "caseStatus": true,
+            "registerDate": 1413475200000,
+            "officialDocNo": "府授文資字第10301991181號",
+            "classificationId": 2
+        }
+    ],
+    "isPublic": true
+}

@@ -1,0 +1,88 @@
+{
+    "id": 3707,
+    "caseId": "20130610000060",
+    "count": 163,
+    "shareCount": 0,
+    "representImage": 6454,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32651/photo/8bd4d691-2107-4dc9-850f-c60148a6faca_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32651/photo/8bd4d691-2107-4dc9-850f-c60148a6faca.jpg",
+        "name": "8bd4d691-2107-4dc9-850f-c60148a6faca"
+    },
+    "caseName": "權載之文集(宋刊本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1370793600000,
+    "officialDocNo": "文資局物字第10220062581號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "南宋蜀刊本。\r\n原書五十卷，此僅存卷四十三至卷五十，凡八卷。雖屬殘帙，但殊罕見。卷四十五鈐有元朝翰林國史院官印，字體古樸，撇捺遒長，橫不平竪不直，尤以橫畫多略有如波浪起伏之勢，其特具之風貌，與宋浙本之方整，建本之鋒稜峭厲，截然不同，當為南宋蜀刻本無疑。\r\n宋版古籍，罕見稀有且質精，具重要歷史、文化與學術研究價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "reservationCode": "書號09679",
+    "keepNameId": 2,
+    "keepNameNew": 17,
+    "keepAddressNew": "臺北市中正區中山南路20號",
+    "amount": 1,
+    "reserveStatusDesc": "唐權德輿撰\r\n存八卷1冊\r\n紙本\r\n半葉12行，版匡19.9公分x14.3公分",
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 6455,
+            "name": "ced8c8d8-9cd0-4ee9-8576-b78972bc5560.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44821/file/ced8c8d8-9cd0-4ee9-8576-b78972bc5560.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺北市中正區中山南路20號",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3849,
+            "caseId": 3707,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3849,
+            "caseId": 3707,
+            "caseStatus": true,
+            "registerDate": 1370793600000,
+            "officialDocNo": "文資局物字第10220062581號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

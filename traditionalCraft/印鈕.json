@@ -1,0 +1,77 @@
+{
+    "id": 2573,
+    "caseId": "20090821000003",
+    "count": 401,
+    "shareCount": 1,
+    "representImage": 4888,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/traditional_art/385/photo/37b6fcfe-711a-4dfd-a7ee-13ddabaf878e_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/traditional_art/385/photo/37b6fcfe-711a-4dfd-a7ee-13ddabaf878e.JPG",
+        "name": "37b6fcfe-711a-4dfd-a7ee-13ddabaf878e"
+    },
+    "caseName": "印鈕",
+    "classifyCode": "4.2",
+    "classifyName": "傳統工藝",
+    "assetsTypeNames": "琢玉",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "4.2.1",
+    "assetsClassifyName": "傳統工藝",
+    "registerDate": 1250846913000,
+    "officialDocNo": "府文化三字第09830402502號",
+    "documents": [],
+    "judgeCriteria": [
+        "藝術性:具有藝術價值者",
+        "特殊性:構成傳統藝術之特殊藝能表現,其技法優秀者",
+        "地方性:傳統藝術領域有價值與地位,並具有地方色彩或流派特色顯著者"
+    ],
+    "registerReason": "1.作品講究觸感、圓潤，具藝術性、特殊性，素有「廖一刀」之名。能把印鈕藝術表現俐落大方，渾然樸拙中呈現磅礡的氣勢。\r\n2.印鈕雕刻屬精緻雕刻一類，材料少雕刻者也少，全台僅剩餘一人從事，亟待保存。",
+    "lawsReference": "1.文化資產保存法第59條第1項。2.傳統藝術民俗及有關文物登錄指定及廢止審查辦法。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongAddress": "",
+    "historyDevelopment": "中國早在三千多年前的晚商周初之際，就有璽印的使用。漢代隸書在印面的表現上高度保留秦代小篆的文字之美，是中國篆刻史上的第一個黃金時代。歷經一千多年來到元末，有王冕以花乳石治印；兩百年後，明代蘇州人文彭文三橋又以處州（浙江境內）燈光凍治印，開啟了石印風氣之先，弟子何震發揚光大成為「徽派」之宗，此後便蔚為時尚，四百年間由「西冷八家」的浙派開創局面，隨後皖派繼起且後來居上，將篆刻藝術帶入空前的黃金時代。（參考來源：崔仁慧，《印海博藝：廖德良印鈕藝術與篆刻名家選粹》，P4。）",
+    "preservers": [
+        {
+            "id": 4591,
+            "type": "個人",
+            "caseName": "廖德良",
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "caseArtistEntities": [],
+            "judgeCriteria": [],
+            "school": "國小拜師學傳統木雕，擅長佛教人物。20歲時，經福州壽山石雕西門派傳人陳可駱指點，轉攻印鈕，與東門派大師林元珠之孫林天泉談時論藝。在融會貫通之下，雕刻出自己的印鈕藝術。",
+            "isOpenDownload": false,
+            "contactorIsOpen": false,
+            "caseAliasName": ""
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "臺北市政府文化局",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "id": 2699,
+            "caseId": 2573,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "address": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 2699,
+            "caseId": 2573,
+            "caseStatus": true,
+            "registerDate": 1250846913000,
+            "officialDocNo": "府文化三字第09830402502號",
+            "classificationId": 1
+        }
+    ]
+}

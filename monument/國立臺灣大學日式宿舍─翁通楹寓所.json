@@ -1,0 +1,110 @@
+{
+    "id": 123,
+    "caseId": "20061101000003",
+    "count": 2901,
+    "shareCount": 1,
+    "representImage": 186364,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/8ce244fd-5dde-46c7-920a-39ec7b3d4f94/代表圖像_國立臺灣大學日式宿舍─翁通楹寓所_20220713_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/8ce244fd-5dde-46c7-920a-39ec7b3d4f94/代表圖像_國立臺灣大學日式宿舍─翁通楹寓所_20220713.jpg",
+        "name": "代表圖像_國立臺灣大學日式宿舍─翁通楹寓所_20220713"
+    },
+    "caseName": "國立臺灣大學日式宿舍─翁通楹寓所",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "本區日式住宅約建於1930年代，由臺北帝國大學(臺灣大學前身)教授及臺北高商(臺灣大學法學院前身)佐藤佐教授等發起由學人教授自資興建供為住家使用之建築。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 143183,
+            "name": "3._951101指定市定古蹟公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/e48b4f24-cef5-4931-ad9c-63cdae8a42a4/3._951101指定市定古蹟公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "具其他古蹟價值者"
+    ],
+    "registerReason": "(1)為殖民時期昭和町舊址之高級文人住宅區，是臺北市城市歷史的重要組成部分，值得保存。\r\n(2)雖然格局較小，部分增建，然內部原物多，庭院寬闊，內外完整，大致保存完整。現住者翁通楹教授，曾任臺大工學院院長，具歷史人文資產。",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、6款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 143184,
+            "name": "18a9bb8a-7b2b-443e-b954-3f5d24f84078.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/8e0f0929-625e-4e2f-8744-bf04063c80fa/18a9bb8a-7b2b-443e-b954-3f5d24f84078.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "locationLandNo": "臺北市大安區金華段2小段225地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "建築物形式完整，屋瓦、壁體保存良好，現為臺大教職員宿舍。",
+    "buildingActualState": "建築物形式完整，屋瓦、壁體保存良好，現為臺大教職員宿舍。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.532748,
+    "latitude": 25.0276262,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市大安區金華段2小段225地號",
+    "selfCoverage": "大安區金華段2小段2建號",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 93190,
+            "caseId": 123,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "青田街9巷5號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "金華段二小段",
+            "cityLandUseTypeName": "保存區",
+            "id": 114565,
+            "caseId": 123,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 721,
+            "landSerialNo": "225",
+            "landownership": 1,
+            "cityLandUseTypeId": 7,
+            "coverageId": 2,
+            "area": "687",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 100586,
+            "caseId": 123,
+            "caseStatus": true,
+            "registerDate": 1162310400000,
+            "officialDocNo": "府文化二字第09530322200號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false,
+    "pastHistorySource": ""
+}

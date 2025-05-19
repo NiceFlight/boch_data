@@ -1,0 +1,101 @@
+{
+    "id": 4493,
+    "caseId": "20170203000010",
+    "count": 263,
+    "shareCount": 0,
+    "representImage": 7561,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133839/photo/10宋元集繪冊　宋牟仲甫松芝群鹿_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133839/photo/10宋元集繪冊　宋牟仲甫松芝群鹿.jpg",
+        "name": "10宋元集繪冊　宋牟仲甫松芝群鹿"
+    },
+    "caseName": "宋牟仲甫松芝群鹿（宋元集繪冊）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1486051200000,
+    "officialDocNo": "中華民國106年2月3日文授資局物字第10630011521號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "品質精良且數量稀少"
+    ],
+    "registerReason": "本作橢圓式幅面，畫茂密松葉延伸成蔭，其下二鹿形態變化生動寫實，毛色、斑點，皆以絲毛層層烘染交待。將松、竹、靈芝、鹿，結合為自然之景，畫意溫雅宜人，成為一幅帶有吉祥寓意的小景畫。作者將畫題重心安排在畫幅右半，透露出南宋「邊角」構圖的特色。裱紙上鈐有清初梁清標（1620-1691）收藏印。\n本幅用筆、賦色俱極精緻，即使並非如舊籤標所指是牟仲甫所畫，仍為品質精良的精緻南宋小品畫。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第3、5款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫001246-025",
+    "amount": 1,
+    "descAge": "宋",
+    "descCreator": "牟仲甫",
+    "descSize": "23公分x 24.3公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "牟仲甫，生卒年待考，隨州（今湖北省隨縣）人。\n茂密松葉延伸成蔭，旁有翠竹靈芝。畫家具體捕捉二鹿形態變化，對於毛色、斑點，皆以絲毛層層烘染交待。橢圓式幅面，作者將畫題重心安排在畫幅右半，透露出南宋「邊角」構圖的特色。將松、竹、靈芝、鹿，結合為自然之景，並經過刻意的安排和布局，成為一幅帶有吉祥寓意的小景畫。\n幅上並無作者名款，依舊籤訂名，院藏牟氏畫作僅有此幅。裱紙上鈐有梁清標（1620-1691）收藏印。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 148333,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-22/1a909a8d-30a6-48e4-9d50-8aed6d19cf1f/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69437,
+            "caseId": 4493,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73599,
+            "caseId": 4493,
+            "caseStatus": true,
+            "registerDate": 1486051200000,
+            "officialDocNo": "中華民國106年2月3日文授資局物字第10630011521號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

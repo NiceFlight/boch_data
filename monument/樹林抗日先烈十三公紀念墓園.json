@@ -1,0 +1,199 @@
+{
+    "id": 221,
+    "caseId": "20080916000003",
+    "count": 2966,
+    "shareCount": 2,
+    "representImage": 399,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/4847/photo/C063新北市樹林抗日先烈十三公紀念墓園(直轄市定)(1)_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/4847/photo/C063新北市樹林抗日先烈十三公紀念墓園(直轄市定)(1).JPG",
+        "name": "C063新北市樹林抗日先烈十三公紀念墓園(直轄市定)(1)"
+    },
+    "caseName": "樹林抗日先烈十三公紀念墓園",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "墓葬",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "registerDate": 1221561115000,
+    "officialDocNo": "北府文資字第0970008944號",
+    "documents": [
+        {
+            "fileid": 171818,
+            "name": "樹林抗日先烈十三公紀念墓園公告-97.9.16.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-05/8eb48b59-cafa-4ddc-bcde-21e36618c45e/樹林抗日先烈十三公紀念墓園公告-97.9.16.pdf"
+        },
+        {
+            "fileid": 171819,
+            "name": "樹林抗日先烈十三公紀念墓園變更公告-110.1.5.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-05/f1239277-4bac-4318-9e43-1d06535e6245/樹林抗日先烈十三公紀念墓園變更公告-110.1.5.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具高度歷史、藝術或科學價值者",
+        "具稀少性，不易再現者"
+    ],
+    "registerReason": "1.十三公為乙未抗日先烈，其墓園具墓制及民俗意義，有地方文化歷史價值。符合「古蹟指定及廢止審查辦法」第2條第1項第1款指定基準。\n2.民眾提報「民族英雄樹林十三公抗日成仁紀念碑」，為樹林名人黃純青於1955年題刻，敘述1895年當地抗日史事。碑體保存完整，位於市定古蹟「樹林抗日先烈十三公紀念墓園」內，共同見證乙未抗日重大歷史事件；故將此紀念碑納入古蹟範圍，構成古蹟風貌的完整性，符合「古蹟指定及廢止審查辦法」第2條第1項第3款指定基準。",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、3款",
+    "govInstitutionCode": "220",
+    "govInstitutionName": "新北市政府",
+    "belongCityId": 3,
+    "belongCityName": "新北市",
+    "belongDistName": "樹林區",
+    "govInstitution": "新北市政府",
+    "govDeptName": "文化局",
+    "govDeptPhone": "(02)29603456",
+    "govDeptAddress": "新北市板橋區中山路一段161號28樓",
+    "cadasters": [
+        {
+            "fileid": 91834,
+            "name": "公告附件-測量成果圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-01-07/0b1c3120-9e53-46b4-b9b3-9982a2f55580/公告附件-測量成果圖.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 11,
+    "nonCityLandUseTypeName": "其他使用區",
+    "nonCityLandUseSubTypeId": 18,
+    "nonCityLandUseSubTypeName": "特定目的事業",
+    "nonLandUseOtherType": "綠地",
+    "locationLandNo": "樹林區圳福段853地號（原樹林市圳岸腳段647-37號）",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "新北市樹林市區樹新路、俊英街交叉口",
+    "isOpenDownload": false,
+    "longitude": 121.430175539519,
+    "latitude": 24.9986635812416,
+    "representImageSource": "新北市政府文化局",
+    "landScope": "樹林區圳福段821、853、856、857地號（均為部分）",
+    "selfCoverage": "墓碑及碑座、墓塚、碑座前方兩側立燈柱、紀念碑",
+    "addresses": [
+        {
+            "cityName": "新北市",
+            "distName": "樹林區",
+            "id": 113612,
+            "caseId": 221,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 318,
+            "address": "樹新路、俊英街交叉口"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "新北市",
+            "distName": "樹林區",
+            "landNoName": "圳福段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 155595,
+            "caseId": 221,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 318,
+            "landNoId": 6692,
+            "landSerialNo": "821",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "6.74平方公尺",
+            "cityLandUseTypeOther": "道路用地",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "新北市",
+            "distName": "樹林區",
+            "landNoName": "圳福段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 155596,
+            "caseId": 221,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 318,
+            "landNoId": 6692,
+            "landSerialNo": "853",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "48.76平方公尺",
+            "cityLandUseTypeOther": "綠地",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "新北市",
+            "distName": "樹林區",
+            "landNoName": "圳福段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 155597,
+            "caseId": 221,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 318,
+            "landNoId": 6692,
+            "landSerialNo": "856",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "2.88平方公尺",
+            "cityLandUseTypeOther": "綠地",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "新北市",
+            "distName": "樹林區",
+            "landNoName": "圳福段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 155598,
+            "caseId": 221,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 318,
+            "landNoId": 6692,
+            "landSerialNo": "857",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "0.26平方公尺",
+            "cityLandUseTypeOther": "道路用地",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 123632,
+            "caseId": 221,
+            "caseStatus": true,
+            "registerDate": 1221561115000,
+            "officialDocNo": "北府文資字第0970008944號",
+            "classificationId": 1
+        },
+        {
+            "id": 123633,
+            "caseId": 221,
+            "caseStatus": true,
+            "registerDate": 1609776000000,
+            "officialDocNo": "新北府文資字第1092556026號",
+            "classificationId": 2
+        }
+    ],
+    "openVisitType": "完全開放參觀",
+    "openUpTime": "全年開放\n",
+    "isCharge": false,
+    "pastHistorySource": ""
+}

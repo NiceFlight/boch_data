@@ -1,0 +1,129 @@
+{
+    "id": 15314,
+    "caseId": "20171122000003",
+    "count": 3054,
+    "shareCount": 2,
+    "representImage": 226040,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-06-26/14f35673-7b5a-44b3-8518-d83698bd4492/IMG_9233-2_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-06-26/14f35673-7b5a-44b3-8518-d83698bd4492/IMG_9233-2.jpg",
+        "name": "IMG_9233-2"
+    },
+    "caseName": "原台灣省糧食局後龍1號糧倉",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫書完成後填列",
+    "assetsTypeNames": "產業",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1507219200000,
+    "officialDocNo": "府文資字1060010400C號",
+    "documents": [
+        {
+            "fileid": 138525,
+            "name": "歷42-原台灣省糧食局後龍1號糧倉-公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-09-15/0e9bb9ba-5016-474c-bd05-5d8e8edfe433/歷42-原台灣省糧食局後龍1號糧倉-公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "1.見證台灣糧食管理之歷史歷程。\n2.典型糧倉保存完整，其牆構造、上下窗均有目的功能，外廊雖已改造，但原木構樑支承牛腿保存良好，具保存價值，為光復初期糧倉政策重要建築。\n",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、3款",
+    "govInstitutionCode": "360",
+    "govInstitutionName": "苗栗縣政府",
+    "belongCityId": 8,
+    "belongCityName": "苗栗縣",
+    "belongDistName": "後龍鎮",
+    "govInstitution": "苗栗縣政府文化觀光局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "037-352961#712",
+    "govDeptAddress": "苗栗縣苗栗市自治路50號",
+    "cadasters": [
+        {
+            "fileid": 139891,
+            "name": "歷42-原台灣省糧食局後龍1號糧倉-地籍圖01.png",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-09-29/9bedc0ab-86c9-4f3e-b753-72dfe510b3dc/歷42-原台灣省糧食局後龍1號糧倉-地籍圖01.png"
+        },
+        {
+            "fileid": 139892,
+            "name": "歷42-原台灣省糧食局後龍1號糧倉-地籍圖03.png",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-09-29/c3c20d7e-7c77-4889-b799-40f513add7ee/歷42-原台灣省糧食局後龍1號糧倉-地籍圖03.png"
+        },
+        {
+            "fileid": 139893,
+            "name": "歷42-原台灣省糧食局後龍1號糧倉-地籍圖02.png",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-09-29/5dd391a6-c713-4346-8b78-6813fde9f6f0/歷42-原台灣省糧食局後龍1號糧倉-地籍圖02.png"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "所定著土地地號：\n後龍鎮龍北段0176-0000地號。\n",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "苗栗縣後龍鎮龍北段301建號(苗栗縣後龍鎮中山街88-4號旁)",
+    "isOpenVisit": true,
+    "isOpenDownload": false,
+    "longitude": 120.78837407553858,
+    "latitude": 24.616602585345262,
+    "representImageSource": "苗栗縣政府文化觀光局",
+    "landScope": "後龍鎮龍北段176地號（面積1,066平方公尺）。",
+    "selfCoverage": "原台灣省糧食局後龍1號糧倉本體建物面積為446.28平方公尺。",
+    "addresses": [
+        {
+            "cityName": "苗栗縣",
+            "distName": "後龍鎮",
+            "id": 113526,
+            "caseId": 15314,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 806,
+            "address": "中山街88-4號旁"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "苗栗縣",
+            "distName": "後龍鎮",
+            "landNoName": "龍北段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 155229,
+            "caseId": 15314,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 806,
+            "landNoId": 9376,
+            "landSerialNo": "0176-0000",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "area": "1066",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 123532,
+            "caseId": 15314,
+            "caseStatus": true,
+            "registerDate": 1507219200000,
+            "officialDocNo": "府文資字1060010400C號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.78848093997078,24.616786847871683],[120.78851552960772,24.616742124996573],[120.78854517274006,24.616704473162564],[120.7885712329503,24.61667137036757],[120.78859838011873,24.616636768519122],[120.78859955397685,24.616637730691295],[120.7886126267796,24.616621053153374],[120.78861449345943,24.616618671827528],[120.78855302430075,24.61657650595726],[120.7884667677803,24.61651890543818],[120.78836992583754,24.61645426433221],[120.7883700072916,24.616444549002868],[120.78836849758125,24.616453312270842],[120.78830133939726,24.616543924661862],[120.7882611794867,24.61659813852151],[120.78822187185206,24.61665059839714],[120.78822451712561,24.6167278203334],[120.78822982089198,24.616733752400354],[120.78824283425497,24.61674775257796],[120.7882424424132,24.61674812014425],[120.78838423693378,24.616909619693942],[120.78848093997078,24.616786847871683],[120.78848093997078,24.616786847871683]]]]},\"properties\":{\"envelope\":{\"left\":\"120.78822187185206\",\"top\":\"24.616444549002868\",\"right\":\"120.78861449345943\",\"bottom\":\"24.616909619693942\"},\"landLot\":\"苗栗縣後龍鎮龍北段0176-0000\"}}],\"notfound\":[]}]",
+    "selfCoverageJson": "{\"type\": \"FeatureCollection\",\"features\": [{\"type\": \"Feature\",\"properties\": \"{}\",\"geometry\": {\"type\": \"Polygon\",\"coordinates\": [[[120.788273323042,24.6167426346668],[120.78842882231599,24.616842566212537],[120.78860845078763,24.616608580028817],[120.7884502704917,24.616530584536946],[120.788273323042,24.6167426346668]]]}}]}",
+    "openVisitType": "預約開放參觀"
+}

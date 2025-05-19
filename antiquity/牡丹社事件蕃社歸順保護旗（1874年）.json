@@ -1,0 +1,101 @@
+{
+    "id": 3663,
+    "caseId": "20100830000007",
+    "count": 676,
+    "shareCount": 1,
+    "representImage": 6404,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32611/photo/7748f020-e77e-4be3-891b-63bc341babe9_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32611/photo/7748f020-e77e-4be3-891b-63bc341babe9.jpg",
+        "name": "7748f020-e77e-4be3-891b-63bc341babe9"
+    },
+    "caseName": "牡丹社事件蕃社歸順保護旗（1874年）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1283097600000,
+    "officialDocNo": "會授資籌二字第09920102142號",
+    "judgeCriteria": [
+        "具有史事重要淵源",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.與牡丹社事件直接相關之歷史文物，對臺灣近代政治發展、清末臺灣原住民對外關係意義重大。2.具有歷史及文化價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。2.符合「古物分級登錄指定及廢止審查辦法」第三條第一、二、六款、第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化資產局",
+    "govDeptName": "古物遺址組",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "AH1331",
+    "amount": 1,
+    "notes": "1.林修澈，2003，原住民重大歷史事件 : 牡丹社事件，行政院原住民族委員會委託國立政治大學民族人類學系研究計畫報告。2.王學新譯，2003，風港營所雜記，牡丹社事件專題翻譯第一輯，國史館臺灣文獻館，南投。",
+    "descAge": " 同治13年（1874）",
+    "descSize": "58X35公分",
+    "descMaterial": "布",
+    "reserveStatusDesc": "1874年西鄉從道進軍牡丹及高士佛社，途中對投誠各社皆發給一紙歸順票及一面保護旗，本件為牡丹社事件歸順保護旗。據記載，旗證編號共53號，本件為編號第53號。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "日治時期入藏臺灣總督府博物館，1945年由臺灣省立博物館接收，典藏至今",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定 （褪色、泛黃、略有破洞、污損。）",
+    "documents": [
+        {
+            "fileid": 47908,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-04-09/06a0e933-0c24-46c4-bb8a-02aa33a40eea/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.515035,
+    "latitude": 25.043285,
+    "representImageSource": "國立臺灣博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立臺灣博物館",
+            "keepName": "典藏管理組",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立臺灣博物館",
+            "keepAddressNew": "100台北市中正區襄陽路2號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "襄陽路2號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 149528,
+            "caseId": 3663,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 162685,
+            "caseId": 3663,
+            "caseStatus": true,
+            "registerDate": 1283097600000,
+            "officialDocNo": "會授資籌二字第09920102142號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

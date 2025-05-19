@@ -1,0 +1,115 @@
+{
+    "id": 20426,
+    "caseId": "20220121000002",
+    "count": 1405,
+    "shareCount": 1,
+    "representImage": 185387,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/cdf5982f-915b-47aa-a66b-e35a28301a81/代表圖像_原枋隙教會_20220728_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/cdf5982f-915b-47aa-a66b-e35a28301a81/代表圖像_原枋隙教會_20220728.jpg",
+        "name": "代表圖像_原枋隙教會_20220728"
+    },
+    "caseName": "原枋隙教會",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "無",
+    "assetsTypeNames": "教堂",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 150971,
+            "name": "公告掃描檔.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/a386f43b-c8d1-4b82-8c9d-ba7b14ba8d3f/公告掃描檔.pdf"
+        },
+        {
+            "fileid": 182012,
+            "name": "原枋隙教會範圍示意圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/94abc146-f637-4de9-968d-d9224d377388/原枋隙教會範圍示意圖.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1.教會創立於1875年，中法戰爭之後由劉銘傳撥款賠償重建為石造尖塔教堂，1886年落成，目前僅存北棟側翼建物「牧師辦公室」為馬偕時期興建的原建物，為本市唯一遺留馬偕傳教之實體見證。\n2.「牧師辦公室」仍保存清代時期達2尺之唭哩岸石砌牆與尖拱窗，呈現當時之建築工藝特色。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 150972,
+            "name": "範圍示意圖(發文).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/2aa39f8a-3781-4102-92d2-2de7886ba058/範圍示意圖(發文).pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.50945564476451,
+    "latitude": 25.064938507559184,
+    "representImageSource": "臺北市文化局",
+    "landScope": "建築物坐落土地為大同區橋北段三小段478（部分，該筆土地面積為1127.9平方公尺)、478-1（部分，該筆土地面積為235平方公尺）地號等2筆土地（實際保存面積須以保存範圍實測數據為準）",
+    "selfCoverage": "建築物坐落土地為大同區橋北段三小段478（部分，該筆土地面積為1127.9平方公尺)、478-1（部分，該筆土地面積為235平方公尺）地號等2筆土地（實際保存面積須以保存範圍實測數據為準）",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 92619,
+            "caseId": 20426,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "迪化街2段67號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "橋北段三小段",
+            "id": 113108,
+            "caseId": 20426,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 200,
+            "landSerialNo": "478",
+            "note": "無。",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "橋北段三小段",
+            "id": 113109,
+            "caseId": 20426,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 200,
+            "landSerialNo": "478-1",
+            "note": "無。",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 99914,
+            "caseId": 20426,
+            "caseStatus": true,
+            "registerDate": 1640188800000,
+            "officialDocNo": "北市文化文資字第1103046868號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": ""
+}

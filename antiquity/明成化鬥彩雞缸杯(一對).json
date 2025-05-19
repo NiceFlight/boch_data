@@ -1,0 +1,97 @@
+{
+    "id": 19611,
+    "caseId": "20210719000002",
+    "count": 781,
+    "shareCount": 6,
+    "representImage": 125130,
+    "representImageInfo": {
+        "ext": "bmp",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-19/1d4e1698-2ed0-4e03-acc5-ff3c447f86f8/圖片2_c.bmp"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-19/1d4e1698-2ed0-4e03-acc5-ff3c447f86f8/圖片2.bmp",
+        "name": "圖片2"
+    },
+    "caseName": "明成化鬥彩雞缸杯(一對)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "judgeCriteria": [
+        "歷代著名人物、國家重大事件之代表性",
+        "獨一無二或不可替代性",
+        "對知識、技術或流派發展具特殊影響或意義"
+    ],
+    "registerReason": "兩器皆呈侈口，淺弧形壁，淺圈足。器表彩繪兩組子母雞圖，圖中公雞、母雞率領小雞覓食於野地，母雞低頭欲啄蟲，小雞展翅雀躍，即使在細小如斯的畫面中，依然令人感受到溫馨可愛的情境。此外，畫中牡丹、蘭草與湖石恰如其分的隔開兩組圖案，杯內純白無紋飾。器底有「大明成化年製」青花雙方框楷書款。以公雞、母雞和雛雞共五隻組成出遊覓食、和樂融融景象的雞缸杯，晚明開始日漸受到重視，受到帝王及文人雅士的青睞。流傳有序的雞缸杯，傳世僅12件，悉數藏於本院。此對不僅成對收儲於鏤空木匣中，透過匣面刻題的御製詩，清楚地說明乾隆皇帝經手收藏的經過，益顯珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第4條第2、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "0422177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故瓷017835故瓷017836",
+    "amount": 2,
+    "descAge": " 明　成化",
+    "descSize": "(1)高4公分口徑8公分　(2) 高3.6公分口徑8.2公分",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "兩器皆呈侈口微敞，弧形斜壁，臥足。器表以一叢萱草湖石和一叢湖石牡丹將周面分成兩邊，其內再各畫一組子母雞圖。器底有「大明成化年製」青花雙方框楷書款。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "(1)器內及器腹釉表舊刮傷及磨擦痕、圈足有磨擦痕。\n(2)口沿舊傷缺、器內釉表舊刮痕及舊磨擦痕、圈足舊磨擦痕。\n\n",
+    "documents": [
+        {
+            "fileid": 142808,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-04/450dbce4-501d-4a2a-8273-a487aada7227/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.5484322510235,
+    "latitude": 121.5484322510235,
+    "representImageSource": " 國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": " ",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 66423,
+            "caseId": 19611,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 70612,
+            "caseId": 19611,
+            "caseStatus": true,
+            "registerDate": 1624429308704,
+            "officialDocNo": "文授資局物字第11030062561號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

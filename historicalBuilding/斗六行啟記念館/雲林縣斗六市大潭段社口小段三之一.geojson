@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "雲林縣斗六市大潭段社口小段三之一"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

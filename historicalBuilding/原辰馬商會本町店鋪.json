@@ -1,0 +1,144 @@
+{
+    "id": 903,
+    "caseId": "20121029000001",
+    "count": 3656,
+    "shareCount": 3,
+    "representImage": 169459,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/3b846efa-7863-4f6a-9401-b8dafeba3719/代表圖像_原辰馬商會本町店鋪_20220621_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/3b846efa-7863-4f6a-9401-b8dafeba3719/代表圖像_原辰馬商會本町店鋪_20220621.jpg",
+        "name": "代表圖像_原辰馬商會本町店鋪_20220621"
+    },
+    "caseName": "原辰馬商會本町店鋪",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "建物於民國18年（昭和4年）由日人河東富次興建並保存登記完成，後於民國24年移轉予株式會社辰馬商會，臺灣光復後，民國40年移轉為國有，管理機關為臺灣省公產管理處，民國57年3月1日移轉予第一產物保險股份有限公司，同年5月17日移轉為彰化銀行臺北分行使用。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 163654,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-12/2af68616-53a1-4693-84a0-88642ef91d22/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1.本建物為原辰馬商會本町店鋪，該建物曾被刊載於臺灣建築會誌，建物具有價值及特色，建物歷年雖經不同程度之整修，惟尚保存大致形式，可依設計圖面復舊。\r\n2.1947年228事件發生當時，本建築為專賣局管理，曾遭民眾包圍抗爭，是見證重大歷史事件之場所。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、3、4款評定基準",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 114479,
+            "name": "地形地籍圖與都市計畫圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/1092f445-eae3-4a17-8474-ae5ba0c3a3d4/地形地籍圖與都市計畫圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市中正區公園段二小段609、610地號",
+    "buildingFeatures": "建物現況外觀，騎樓內部空間多次改裝，但仍保留現代主義的建築風格、立面結構樣式",
+    "inHouseFeatures": "辦公及民眾洽公空間",
+    "buildingUsage": "彰化銀行臺北分行使用",
+    "buildingActualState": "外觀經過整建，內部改裝為辦公空間使用",
+    "buildingKeyMaintainItem": "本案建物未來改建時，低樓層立面應恢復日治時期原辰馬商會本町店舖之立面。",
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.513363,
+    "latitude": 25.045615,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市中正區公園段二小段609、610地號(765平方公尺)",
+    "selfCoverage": "臺北市中正區公園段二小段765建號(870.04平方公尺)",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 82992,
+            "caseId": 903,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "重慶南路1段25號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 82993,
+            "caseId": 903,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "重慶南路1段27號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "公園段二小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 92034,
+            "caseId": 903,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 144,
+            "landSerialNo": "609",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "coverageId": 2,
+            "area": "",
+            "note": "2筆地號面積為765平方公尺",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "公園段二小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 92035,
+            "caseId": 903,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 144,
+            "landSerialNo": "610",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "coverageId": 2,
+            "area": "765平方公尺",
+            "note": "2筆地號面積為765平方公尺",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 89145,
+            "caseId": 903,
+            "caseStatus": true,
+            "registerDate": 1351440000000,
+            "officialDocNo": "北市文化二字第10130396200號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "彰化銀行提供"
+}

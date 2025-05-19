@@ -1,0 +1,101 @@
+{
+    "id": 4343,
+    "caseId": "20140421000046",
+    "count": 470,
+    "shareCount": 0,
+    "representImage": 7281,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7104/photo/卑南文化方形玉玦(201216-00364)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7104/photo/卑南文化方形玉玦(201216-00364).jpg",
+        "name": "卑南文化方形玉玦(201216-00364)"
+    },
+    "caseName": "卑南文化方形玉玦(201216-00364)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "otherAssetsType": "其他",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1398009600000,
+    "officialDocNo": "文資局物字第10320043651號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要之時代特色、技術及流派",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本件方形玉玦，為長方形玉片修整而成，玦口高，兩側偏下方各帶一穿。\r\n為卑南文化方形玦耳飾少見形制，玉質通透、磨製精良、保存良好、量少質精，展現臺灣史前時代精湛的製玉工藝。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第1、3、5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 22,
+    "belongCityName": "臺東縣",
+    "belongDistName": "臺東市",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "201216-00364",
+    "amount": 1,
+    "notes": "",
+    "descAge": "卑南文化3500-2300BP",
+    "descSize": "長度：85(mm)；寬度：50(mm)；厚度：5(mm)",
+    "descMaterial": "閃玉（臺灣玉）",
+    "reserveStatusDesc": "玉色翠綠，玉質通透而潤澤。為長方形玉片修整而成，玦口高，兩側偏下方各帶一穿，為方形玦耳飾少見形制。\r\n年代：新石器時代(卑南文化3500-2300 BP)",
+    "pastHistorySource": 3,
+    "pastHistorySourceNotes": "臺東縣政府移轉",
+    "saveEnvironment": 1,
+    "reserveStatus": "保存完整，展示於史前館史前史展廳 ",
+    "documents": [
+        {
+            "fileid": 7282,
+            "name": "f65ca64d-2b37-4bac-961d-83755985176e.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44751/file/f65ca64d-2b37-4bac-961d-83755985176e.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立臺灣史前文化博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立臺灣史前文化博物館",
+            "keepName": "國立臺灣史前文化博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立臺灣史前文化博物館",
+            "keepAddressNew": "950台東縣台東市博物館路1號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺東縣",
+            "keepNameAddress": "豐田里博物館路1號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺東縣",
+            "distName": "臺東市",
+            "id": 148545,
+            "caseId": 4343,
+            "caseStatus": true,
+            "cityId": 22,
+            "distId": 2201
+        }
+    ],
+    "announces": [
+        {
+            "id": 161466,
+            "caseId": 4343,
+            "caseStatus": true,
+            "registerDate": 1398009600000,
+            "officialDocNo": "文資局物字第10320043651號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

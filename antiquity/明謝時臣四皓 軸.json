@@ -1,0 +1,105 @@
+{
+    "id": 16594,
+    "caseId": "20190219000001",
+    "count": 283,
+    "shareCount": 1,
+    "representImage": 55583,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-02-19/e62de590-12df-4048-91e1-3c5a35bbb187/1-故畫002985_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-02-19/e62de590-12df-4048-91e1-3c5a35bbb187/1-故畫002985.jpg",
+        "name": "1-故畫002985"
+    },
+    "caseName": "明謝時臣四皓 軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1550109540614,
+    "officialDocNo": "文授資局物字第10830016291號",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "謝時臣（1488-1567後）蘇州人，字思忠，號樗仙。為明代中葉蘇州地區的重要畫家，能詩善畫，尤喜作屏障巨軸，筆勢縱橫，兼有浙派雄健之風。\n本幅描繪秦、漢間隱居於雲霧蒸騰，溪泉潺潺，松樹盤踞，馴鹿嬉遊，山石險阻，與外隔絕商山的四位賢者（四皓）或下棋，或閒步的悠閒生活，呈現明人嚮往隱居，乃至具有聖賢指標的模範。明代中晚期，興起大幅掛軸，但存世不多，本幅為院藏之謝時臣巨幅佳作。畫風成熟，運筆蒼厚，墨韻幻化多端，為其山水畫的代表。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第4、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故畫002985",
+    "amount": 1,
+    "descAge": "明",
+    "descSize": "本幅150公分x80公分 全幅311公分x105.5公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "謝時臣（1488-1567後），字思忠，號樗仙，蘇州人。能詩善畫，山水學沈周（1427-1509），尤喜作屏障巨軸，筆勢縱橫，兼有浙派雄健之風。\n本幅描繪秦、漢間隱居於商山四位賢者的悠閒生活。他們或下棋，或閒步。四圍是。從漢至唐，「四皓」逐漸被塑造成仙壽形象，他們不因政治起伏，徜徉山水，成為世人崇尚長生的表徵。四皓弈棋的故事出自唐代《玄怪錄》，一巴邛人剖開兩顆大橘之後，發現各有兩位老人相對下棋，當中一人言：「橘中之樂，不減商山」，最後四人皆乘龍飛去。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "包首磨損，霉傷，本幅霉傷，傷補，絹裂。",
+    "documents": [
+        {
+            "fileid": 146922,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-03/91daef87-9d9a-4d73-a6a0-5ecb8271c4aa/公告表.pdf"
+        },
+        {
+            "fileid": 146923,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-03/0765bc68-3dfa-484b-bfcc-c30fec874c05/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 68747,
+            "caseId": 16594,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 72847,
+            "caseId": 16594,
+            "caseStatus": true,
+            "registerDate": 1550109540614,
+            "officialDocNo": "文授資局物字第10830016291號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

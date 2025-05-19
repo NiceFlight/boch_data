@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "南投縣草屯鎮新富功段469-1"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

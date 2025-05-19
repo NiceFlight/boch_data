@@ -1,0 +1,101 @@
+{
+    "id": 3721,
+    "caseId": "20140425000034",
+    "count": 353,
+    "shareCount": 0,
+    "representImage": 6471,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39129/photo/pic019_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39129/photo/pic019.jpg",
+        "name": "pic019"
+    },
+    "caseName": "明吳偉畫北海真人",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1398355200000,
+    "officialDocNo": "10320044791",
+    "judgeCriteria": [
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊藝術造詣或科學成就"
+    ],
+    "registerReason": "吳偉（1459－1508），字士英，別號小僊。明憲宗時為仁智殿待詔，孝宗時曾賜畫狀元印，為繼戴進之後，「浙派」最重要的代表畫家之一。\r\n此作描繪道教神祇北海真人跨坐於靈龜之上，遨遊水面。畫家以頓挫多變、轉折明顯的線條，描繪出充滿動感的衣帶，表現飄逸凌虛的神仙幻境，是吳偉的代表繪畫佳作。\r\n幅上題贊則為明四大家之首－沈周（1427－1509）之書蹟，筆法穩健，體勢挺拔，深得黃庭堅筆韻。此圖反映出浙吳兩地畫家密切的交遊網絡，吳偉與沈周各為浙、吳兩派大家，二者書畫合璧，相互輝映，殊屬難得。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第4條1項第3、4款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000434",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descSize": "158.4 x 93.2（公分）",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "吳偉（1459－1508），江夏（今湖北武昌）人，字士英，別號小僊。明憲宗時為仁智殿待詔，孝宗時曾賜畫狀元印，為繼戴進之後，「浙派」最重要的代表畫家之一。圖中描繪道教神祇北海真人跨坐於靈龜之上，遨遊水面。畫家以頓挫多變、轉折明顯的線條，描繪出充滿動感的衣帶，表現飄逸凌虛的神仙幻境。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。本幅：刮痕，摺痕，傷裂，磨損。",
+    "documents": [
+        {
+            "fileid": 150157,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-11/e3ced829-fccb-477e-b799-7102587ed09e/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70686,
+            "caseId": 3721,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 74945,
+            "caseId": 3721,
+            "caseStatus": true,
+            "registerDate": 1398355200000,
+            "officialDocNo": "10320044791",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,101 @@
+{
+    "id": 3924,
+    "caseId": "20130128000005",
+    "count": 216,
+    "shareCount": 0,
+    "representImage": 6732,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32910/photo/5dfc71f2-12b6-4010-aa05-700284824fa3_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32910/photo/5dfc71f2-12b6-4010-aa05-700284824fa3.JPG",
+        "name": "5dfc71f2-12b6-4010-aa05-700284824fa3"
+    },
+    "caseName": "明吳彬畫楞嚴廿五圓通佛像冊",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1359302400000,
+    "officialDocNo": "文授字第10230006433號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "此冊雖無作者款印，但畫中人物造型、山石畫風皆可見吳彬特色。共二十七開，描繪《楞嚴經》二十五位得道的佛教人物。畫面安排加入更多世間場景，也可見晚明之器用特色，顯示出晚明宗教與視覺文化的互動交融。晚明佛教活動盛行，此以楞嚴經的內容為表現重點，不僅可見吳彬特色，從吳彬個人宗教信仰而言，也是一重要成果。本冊兼具畫史、宗教文化史的意義。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第3、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": " 04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫003569",
+    "amount": 27,
+    "notes": "1冊27開",
+    "descAge": "明",
+    "descSize": "62.3 x 35.3（公分）",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "此冊雖無作者款印，但畫中人物造型、山石畫風皆可見吳彬特色。描繪《楞嚴經》二十五位得道的佛教人物。畫面安排加入更多世間場景，也可見晚明之器用特色，顯示出晚明宗教與視覺文化的互動交融。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 150680,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-19/0d20c498-a8e3-40dc-980d-e507a00bc77f/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院     ",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71077,
+            "caseId": 3924,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": " 至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75402,
+            "caseId": 3924,
+            "caseStatus": true,
+            "registerDate": 1359302400000,
+            "officialDocNo": "文授字第10230006433號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

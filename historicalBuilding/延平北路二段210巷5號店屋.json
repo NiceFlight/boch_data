@@ -1,0 +1,115 @@
+{
+    "id": 2082,
+    "caseId": "20151007000001",
+    "count": 2471,
+    "shareCount": 5,
+    "representImage": 189548,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/7a0ee44c-6be2-4e24-8475-10fa60b2c80d/代表圖像_延平北路二段210巷5號店屋_20220718 _c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/7a0ee44c-6be2-4e24-8475-10fa60b2c80d/代表圖像_延平北路二段210巷5號店屋_20220718 .jpeg",
+        "name": "代表圖像_延平北路二段210巷5號店屋_20220718 "
+    },
+    "caseName": "延平北路二段210巷5號店屋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "1.本建物創建於1952年，位於大稻埕歷史風貌特定區內，為四柱三窗、一坎一落一過水之典型大稻埕街屋型式。立面洗石子有預鑄浮雕裝飾，仿西式建築柱頭、柱身直線凹槽，具維護整體景觀與地區風貌之價值與特色。\r\n2.基地原址於日據時期為「太平町五丁目警察官吏派出所」，光復後則為「延平二派出所」，與第一劇場及國泰戲院有特殊的歷史淵源關係。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 162483,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/df3470a2-0820-487e-abd7-c7b45494b2fd/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1.本建物創建於1952年，位於大稻埕歷史風貌特定區內，為四柱三窗、一坎一落一過水之典型大稻埕街屋型式。立面洗石子有預鑄浮雕裝飾，仿西式建築柱頭、柱身直線凹槽，具維護整體景觀與地區風貌之價值與特色。\r\n2.基地原址於日據時期為「太平町五丁目警察官吏派出所」，光復後則為「延平二派出所」，與第一劇場及國泰戲院有特殊的歷史淵源關係。",
+    "lawsReference": "1. 依據文化資產保存法第15條、歷史建築登錄廢止審查及輔助辦法第4條、臺北市歷史建築登錄及廢止審查作業要點相關規定辦理。\r\n2. 符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、2、4款評定基準。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 162484,
+            "name": "c8f6d436-10bd-44cb-8bb2-72d81de5fc76.PNG",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/8bf3e5fa-2e28-424c-b9e4-eba6f92f019a/c8f6d436-10bd-44cb-8bb2-72d81de5fc76.PNG"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市大同區延平段二小段677地號",
+    "buildingFeatures": "仿巴洛克建築風格之原貌與特色",
+    "inHouseFeatures": "",
+    "buildingUsage": "一樓做店面使用；二樓出租住用；三樓為私人居住使用。",
+    "buildingActualState": "建物現況尚可",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isOpenDownload": false,
+    "longitude": 121.511083,
+    "latitude": 25.0592832,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市大同區延平段二小段677地號",
+    "selfCoverage": "臺北市大同區延平段二小段757建號，219.59平方公尺。",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 95054,
+            "caseId": 2082,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "延平北路2段210巷5號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 117452,
+            "caseId": 2082,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 188,
+            "landSerialNo": "677",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "103平方公尺",
+            "cityLandUseTypeOther": "大稻埕歷史風貌特定專用區",
+            "note": "其他登記事項:\t重測前：太平段５小段６５地號\n地價備註事項:\t(空白)\n土地參考資訊檔:\t土地使用分區;特定專用區(供一般商業使用) 但是否在道路用地(公共設施用地)(應依建築線或俟地籍測量分割後，再確定)。",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 102553,
+            "caseId": 2082,
+            "caseStatus": true,
+            "registerDate": 1444147200000,
+            "officialDocNo": "北市文化文資字第10430433900號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

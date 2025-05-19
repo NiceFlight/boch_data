@@ -1,0 +1,146 @@
+{
+    "id": 43,
+    "caseId": "19970805000001",
+    "count": 6190,
+    "shareCount": 20,
+    "representImage": 168410,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/e5fcdcae-b1d3-41b1-aa12-39e57dfcc7d7/代表圖像_寶藏巖_20220609_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/e5fcdcae-b1d3-41b1-aa12-39e57dfcc7d7/代表圖像_寶藏巖_20220609.jpeg",
+        "name": "代表圖像_寶藏巖_20220609"
+    },
+    "caseName": "寶藏巖",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "寶藏巖創建於清康熙年間，為臺北最古老的佛寺之一，當時漢人初入墾臺北盆地，有部分僧人隨之進入盆地建寺弘法，此為重要歷史見證。寶藏巖主祭觀音佛祖，因靠山崖而建，故稱為巖，又稱為石壁潭寺、觀音亭。寺前的新店溪古時可通舟楫。歷經多次修建，目前所見雖多為晚近時期改建之物，但仍有些石柱、石垛、石雕、木雕與石碑仍為清代原物。嘉慶三年（1798）所立之「觀音亭碑」詳述建寺始末。特別是楹聯多為泉州安溪移民信眾之落款，為安溪人開拓公館及景美一帶之見證。",
+    "assetsTypeNames": "寺廟",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 146925,
+            "name": "3._860814指定市定古蹟公告函.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/c5623f67-a96c-4e43-a429-082bebb05b6d/3._860814指定市定古蹟公告函.pdf"
+        },
+        {
+            "fileid": 146926,
+            "name": "指定市定古蹟公告.tif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/539e6399-1340-4a6b-931e-44c32246f9f8/指定市定古蹟公告.tif"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "具其他古蹟價值者"
+    ],
+    "registerReason": "具有保存價值",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 146927,
+            "name": "無資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/c993aaa8-088a-40dc-895b-c33da678dcd8/無資料.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "台北市福和段二小段685、688、689等地號",
+    "buildingFeatures": "嘉慶三年所立之「觀音亭碑」詳述寺由始末。特別是楹聯多為泉州安溪移民信眾之落款，為安溪人開拓公館及景美一帶之見證。",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "現況仍為寶藏巖寺廟使用",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenDownload": false,
+    "longitude": 121.5332267,
+    "latitude": 25.0105644,
+    "representImageSource": "臺北市文化局",
+    "landScope": "台北市福和段二小段685、688、689等地號",
+    "selfCoverage": "寶藏巖建築本體",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 82247,
+            "caseId": 43,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "汀州路3段230巷23號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "福和段二小段",
+            "id": 91236,
+            "caseId": 43,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 20,
+            "landSerialNo": "0689-0000",
+            "coverageId": 2,
+            "area": "179平方公尺",
+            "note": "重測前:水源段244-2地號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "福和段二小段",
+            "id": 91237,
+            "caseId": 43,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 20,
+            "landSerialNo": "0688-0000",
+            "coverageId": 2,
+            "area": "816平方公尺",
+            "note": "重測前:水源段247地號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "福和段二小段",
+            "id": 91238,
+            "caseId": 43,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 20,
+            "landSerialNo": "0685-0000",
+            "coverageId": 2,
+            "area": "113585平方公尺",
+            "note": "因分割增加地號:685-7、685-8、685-9、685-10、685-11、685-12、685-13、685-14、685-15\n重測前:水源段244\n因分割增加地號:685-22、685-23\n合併自:685-23\n因分割增加地號:685-24、685-25\n因分割增加地號:685-26、685-27\n因分割增加地號:685-41地號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 88386,
+            "caseId": 43,
+            "caseStatus": true,
+            "registerDate": 870710400000,
+            "officialDocNo": "府民三字第860610601號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "openVisitType": "",
+    "openUpTime": "自由參拜",
+    "isCharge": false,
+    "pastHistorySource": "摘錄自臺北市古蹟巡覽-下冊"
+}

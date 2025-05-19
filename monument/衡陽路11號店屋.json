@@ -1,0 +1,114 @@
+{
+    "id": 20480,
+    "caseId": "20220311000001",
+    "count": 2188,
+    "shareCount": 2,
+    "representImage": 169367,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/4f3c5164-35aa-48bf-a944-fe3fd2c3242e/代表圖像_衡陽路11號店屋_20220616_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/4f3c5164-35aa-48bf-a944-fe3fd2c3242e/代表圖像_衡陽路11號店屋_20220616.jpeg",
+        "name": "代表圖像_衡陽路11號店屋_20220616"
+    },
+    "caseName": "衡陽路11號店屋",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "在1945年6月航測影像本案並未經空襲 故推測本建物建於1912~1915年間。",
+    "assetsTypeNames": "其他設施",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 154673,
+            "name": "(公告)1110303衡陽路11號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/679bd671-bb65-495b-807f-16b58c1d0aae/(公告)1110303衡陽路11號公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具高度歷史、藝術或科學價值者",
+        "表現各時代營造技術流派特色者",
+        "具稀少性，不易再現者"
+    ],
+    "registerReason": "１、建物為日治時期興建，衡陽路為臺北城內主要視覺廊道，本建物位於衡陽路口，具重要城市景觀意義。\n２、建物立面為原貌，四柱三窗、弧形山頭、洗石子、泥塑裝飾及邊柱等皆保存良好，屋頂屋架的木桁仍\n保有完整的結構，具保存價值。\n３、符合古蹟指定及廢止審查辦法第 2 條第 1 項第 1 、2 、 3 款指定基準。",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 154674,
+            "name": "範圍示意圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/c77d149b-7b6a-4d00-9874-1fe2350c2822/範圍示意圖.pdf"
+        }
+    ],
+    "bulkTransfer": 1,
+    "longitude": 121.5136808,
+    "latitude": 25.042433,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市中正區中正區公園段三小段213(60 平方公尺 、 214 16 平方公尺）地號等 2 筆土地。",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 82928,
+            "caseId": 20480,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "衡陽路11號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "公園段三小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 91922,
+            "caseId": 20480,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 145,
+            "landSerialNo": "213",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "area": "60",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "公園段三小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 91923,
+            "caseId": 20480,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 145,
+            "landSerialNo": "214",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "area": "16",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 89058,
+            "caseId": 20480,
+            "caseStatus": true,
+            "registerDate": 1646236800000,
+            "officialDocNo": "北市文化文資字第11130096421號",
+            "classificationId": 1,
+            "note": "指定「衡陽路11號店屋」為本市直轄市定古蹟。"
+        }
+    ],
+    "openVisitType": ""
+}

@@ -1,0 +1,90 @@
+{
+    "id": 3259,
+    "caseId": "20160112000008",
+    "count": 360,
+    "shareCount": 0,
+    "representImage": 5712,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43367/photo/9a2841e4-c951-4d7a-b7c1-4b50ce89a2c3_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43367/photo/9a2841e4-c951-4d7a-b7c1-4b50ce89a2c3.jpg",
+        "name": "9a2841e4-c951-4d7a-b7c1-4b50ce89a2c3"
+    },
+    "caseName": "新興宮-昭和石香爐",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1452528000000,
+    "officialDocNo": "府授文資遺字第10500043923號",
+    "judgeCriteria": [
+        "具有一定之時代特色、技術及流派"
+    ],
+    "registerReason": "1.\t石製圓鼎式三足香爐，石頭為灰色，夾雜黑色小石粒；內有陽文「新興宮」，「興」字以古字書寫，上款「昭和十年三月廾三日」，下款「台中市老松町陳旺敬」，臺中市老松町為今日臺中市南區，具有在地文化及時代藝術價值。\r\n2.\t本案材質特殊，銘款記為昭和10年3月23日，似與媽祖祀典有關。",
+    "lawsReference": "符合「古物分級登錄指定及廢止審查辦法」第2條第1項第3款評定基準。",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "大里區",
+    "reservationCode": "",
+    "keepNameId": 17,
+    "keepName": "振坤宮",
+    "keepNameNew": 17,
+    "keepAddressNew": "臺中市大里區 新仁路二段162號",
+    "amount": 1,
+    "notes": "",
+    "reserveStatusDesc": "",
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 5713,
+            "name": "650c9981-d796-4c50-8029-7b477dfb94a7.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44692/file/650c9981-d796-4c50-8029-7b477dfb94a7.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "振坤宮",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺中市大里區 新仁路二段162號",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "大里區",
+            "id": 3400,
+            "caseId": 3259,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1010
+        }
+    ],
+    "announces": [
+        {
+            "id": 3400,
+            "caseId": 3259,
+            "caseStatus": true,
+            "registerDate": 1452528000000,
+            "officialDocNo": "府授文資遺字第10500043923號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,95 @@
+{
+    "id": 18206,
+    "caseId": "20201217000016",
+    "count": 167,
+    "shareCount": 0,
+    "representImage": 90062,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-12-17/51afe890-3e7d-4da9-b2db-db3f2a671ebd/06_1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-12-17/51afe890-3e7d-4da9-b2db-db3f2a671ebd/06_1.jpg",
+        "name": "06_1"
+    },
+    "caseName": "布袋與童子置物",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1606374437056,
+    "officialDocNo": "北市獻編字第1093004298號",
+    "judgeCriteria": [
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "作工精緻藝術性高，布袋和尚笑容滿面背負可愛童子，雕刻工藝極為寫實自然而活潑，圓潤生動具藝術造詣。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174-1號",
+    "reservationCode": "06",
+    "amount": 1,
+    "descAge": "日本明治時期",
+    "descSize": "高 11.4 公分",
+    "descMaterial": "象牙",
+    "reserveStatusDesc": "當大唐落下華麗的帷幕，五代十國開始聯袂上演紛爭大戲。在五代紛爭的背景下，一位從容灑脫，笑走塵寰的布袋和尚，以忍世間難忍之事的大度胸襟，成為當時袋最為傳奇的人物。《傳燈錄》載：布袋和尚「蹙額皤腹」，其解脫而無所拘禁之風格，大有「遊戲人間樂太平」之概念。迨布袋和尚像傳入日本，圖像歌贊甚多，因其「以一杖荷一布囊」，與大黑天像相類似，為日本人視作福德之神，亦被稱為笑佛。是日本的置物文化與傳統文化中不可或缺的一類題材。\n此件作品以大肚和尚表示「量大福大」，提醒世人學習有一顆包容他人之心。和尚大臉圓潤，滿面笑容，雙耳垂肩。身披袈裟，衣袍半露，袒胸露腹，大肚滾圓，足穿禪鞋，右手執杖，左手向後背住孩童，禪味十足。孩童笑容可掬，雙手扶住和尚肩膀，相親之情躍然而出，頓使畫面豐富多姿，生氣蓬勃。整器雕工純熟，人物比例準確，將布袋和尚樂天無憂之形象刻劃淋漓盡致，展現出「大肚能容，開口便笑」的快樂姿態。",
+    "pastHistorySource": 1,
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定。",
+    "documents": [
+        {
+            "fileid": 90061,
+            "name": "臺北市公告指定一般古物1091126.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-17/82f69da2-dc77-4ab4-a82c-3b8df66102af/臺北市公告指定一般古物1091126.pdf"
+        }
+    ],
+    "keepNames": [
+        {
+            "keepNameIdStr": "郭○穎",
+            "keepName": "郭○穎",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "郭○穎",
+            "keepAddressNew": "臺北市中正區重慶南路二段15號7樓",
+            "saveSpaceOther": "庫房",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "大安區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 7821,
+            "caseId": 18206,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 7821,
+            "caseId": 18206,
+            "caseStatus": true,
+            "registerDate": 1606374437056,
+            "officialDocNo": "北市獻編字第1093004298號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

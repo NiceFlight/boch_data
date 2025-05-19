@@ -1,0 +1,132 @@
+{
+    "id": 1799,
+    "caseId": "20031211000002",
+    "count": 1607,
+    "shareCount": 0,
+    "representImage": 73983,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-11-04/29b348d9-0d7a-449c-85d7-e6b58f8aec99/澎湖公賣局北側防空壕_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-11-04/29b348d9-0d7a-449c-85d7-e6b58f8aec99/澎湖公賣局北側防空壕.jpg",
+        "name": "澎湖公賣局北側防空壕"
+    },
+    "caseName": "澎湖公賣局北側防空壕",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "建於昭和16（1941）年，為第二次大戰末期，日軍大規模興建的防空避難所建築之一，地點位於台灣總督府專賣局澎湖出張所旁，提供出張所人員避難用，外貌樸實，以黑色的玄武岩疊砌而成，並於兩側出入口設置矮牆，功能為抵擋兩側的砲彈攻擊，內部空間規模約可容納15到20人。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "其他歷史遺蹟",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1071105244000,
+    "officialDocNo": "府授文視第09200726222 號",
+    "documents": [
+        {
+            "fileid": 76600,
+            "name": "公告公文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-11-26/46a5372e-79a4-4c4e-9066-c099e9c54b50/公告公文.pdf"
+        },
+        {
+            "fileid": 76601,
+            "name": "公告公文(歷次).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-11-26/bdbd8621-7e42-47cd-9ea9-d23aa752ae98/公告公文(歷次).pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "(一)創建年期久遠。\n(二)具有歷史文化意義，足以作為時代的代表。\n(三)具稀有性，不易再現的建築。\n(四)具有建築史上的意義，有再利用的價值及潛力。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "06-9261141#138",
+    "govDeptAddress": "澎湖縣馬公市中華路230號",
+    "cadasters": [
+        {
+            "fileid": 140930,
+            "name": "地籍資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-10-15/1174a5d2-94eb-4e4a-bd22-55245875b015/地籍資料.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "馬公市馬公段1949-0003地號",
+    "buildingFeatures": "主體結構為一長4.8公尺、直徑1.5公尺的圓型水泥涵管，於涵管上方及左右側各砌有約60公分厚的石塊護牆，主體上方再覆蓋土堆種植草木，出入口前後兩側各砌有石堆擋牆來阻擋砲碎片的傷害。",
+    "inHouseFeatures": "無",
+    "buildingUsage": "目前並無列管，為閒置空間。此地區目前已結合青青草原發展，為一處良好環境。",
+    "buildingActualState": "防空壕周遭植物茂密，環境髒亂有垃圾堆置。",
+    "buildingKeyMaintainItem": "定期派人員巡視清理。",
+    "bulkTransfer": 0,
+    "belongAddress": "民族路、介壽路和民生路交會三角地帶，介於菸酒公司與中正堂之間",
+    "isOpenVisit": true,
+    "openUpTime": "全天開放",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 119.564249,
+    "latitude": 23.568551,
+    "representImageSource": "澎湖縣政府文化局文化資產科",
+    "landScope": "澎湖縣馬公市馬公段1949-3地號",
+    "selfCoverage": "澎湖公賣局北側防空壕處馬公市中興里，對面為第一賓館。",
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 73476,
+            "caseId": 1799,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "民族路、介壽路和民生路交會三角地帶，介於菸酒公司與中正堂之間"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "landNoName": "馬公段",
+            "id": 71141,
+            "caseId": 1799,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "landNoId": 15467,
+            "landSerialNo": "1949-3",
+            "landownership": 1,
+            "area": "25平方公尺",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": "查無使用區分資料"
+        }
+    ],
+    "announces": [
+        {
+            "id": 78475,
+            "caseId": 1799,
+            "caseStatus": true,
+            "registerDate": 1071105244000,
+            "officialDocNo": "府授文視字第09200726222號",
+            "classificationId": 1
+        },
+        {
+            "id": 78476,
+            "caseId": 1799,
+            "caseStatus": true,
+            "registerDate": 1078208777085,
+            "officialDocNo": "府授文視字第09300135211號",
+            "classificationId": 2,
+            "note": "公告更正「澎湖公賣局北側防空壕」登錄為本縣歷史建築之地號"
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"澎湖縣馬公市馬公段1949-3\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "openVisitType": "",
+    "pastHistorySource": "文化局提供"
+}

@@ -1,0 +1,177 @@
+{
+    "id": 18919,
+    "caseId": "20210423000003",
+    "count": 2660,
+    "shareCount": 9,
+    "representImage": 170707,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/5b4c8071-8359-4468-8c18-5d701900fd24/代表圖像_新慶利碾米廠_20220623_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/5b4c8071-8359-4468-8c18-5d701900fd24/代表圖像_新慶利碾米廠_20220623.jpeg",
+        "name": "代表圖像_新慶利碾米廠_20220623"
+    },
+    "caseName": "新慶利碾米廠",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "1、\t碾米廠約於1930 年代開始經營，原位於迪化街1 段285 號，原名慶利，戰後搬至現址，改名為新慶利，為迪化街1 段現存碾米店鋪。",
+    "assetsTypeNames": "其他設施",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 107161,
+            "name": "公告及地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/3970a5d7-f603-4f4a-a84b-032603d83366/公告及地籍圖.pdf"
+        },
+        {
+            "fileid": 158184,
+            "name": "定著土地範圍公告及範圍示意圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/e28880de-a6a8-4a52-91d3-1239509b3fc5/定著土地範圍公告及範圍示意圖.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1、碾米廠約於1930 年代開始經營，原位於迪化街1 段285 號，原名慶利，戰後搬至現址，改名為新慶利，為迪化街1段現存碾米店鋪。\n2、本建築一、二進仍保存傳統閩南式店屋形式，一進內仍有碾米機具將稻米打至二樓，再由二樓處落下碾米，見證碾米廠歷史。\n",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第2、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 107162,
+            "name": "地籍圖(核准版).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/4f15885a-b718-414b-a9a7-cc34d7fcb4a3/地籍圖(核准版).pdf"
+        },
+        {
+            "fileid": 158185,
+            "name": "0322定著土地範圍示意圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/b33360af-2761-421c-b4dd-467ccb65f06f/0322定著土地範圍示意圖.pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isOpenDownload": false,
+    "longitude": 121.50936317738585,
+    "latitude": 25.06087764413759,
+    "representImageSource": "臺北市文化局",
+    "landScope": "建築物坐落土地為大同區延平段二小段496（20 平方公尺）、497-1(122平方公尺)、497-2(12 平方公尺)、497(127平方公尺)地號等4 筆土地。（實際保存面積須以保存範圍實測數據為準)",
+    "selfCoverage": "建物本體為迪化街1 段257 號第一進及第二進建築本體，建物為大同區延平段二小段52建號（建物總面積131.66 平方公尺）（實際保存面積須以保存範圍實測數據為準）",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 83646,
+            "caseId": 18919,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "迪化街1段257號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 94364,
+            "caseId": 18919,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 188,
+            "landSerialNo": "496",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "20",
+            "cityLandUseTypeOther": "特定專用區（一）(供特定商業使用)。",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 94365,
+            "caseId": 18919,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 188,
+            "landSerialNo": "497",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "127",
+            "cityLandUseTypeOther": "特定專用區（一）(供特定商業使用)。",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 94366,
+            "caseId": 18919,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 188,
+            "landSerialNo": "497-1",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "122",
+            "cityLandUseTypeOther": "特定專用區（一）(供特定商業使用)。",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 94367,
+            "caseId": 18919,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 188,
+            "landSerialNo": "497-2",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "12",
+            "cityLandUseTypeOther": "特定專用區（一）(供特定商業使用)。",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 89822,
+            "caseId": 18919,
+            "caseStatus": true,
+            "registerDate": 1617638400000,
+            "officialDocNo": "北市文化文資字第11030165651號",
+            "classificationId": 1,
+            "note": "歷史建築"
+        },
+        {
+            "id": 89823,
+            "caseId": 18919,
+            "caseStatus": true,
+            "registerDate": 1647878400000,
+            "officialDocNo": "北市文化文資字第11130112441號",
+            "classificationId": 2,
+            "note": "新增定著土地範圍"
+        }
+    ],
+    "openVisitType": ""
+}

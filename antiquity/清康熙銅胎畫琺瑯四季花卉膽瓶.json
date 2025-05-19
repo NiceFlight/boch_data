@@ -1,0 +1,107 @@
+{
+    "id": 17274,
+    "caseId": "20200108000003",
+    "count": 326,
+    "shareCount": 1,
+    "representImage": 64735,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-01-08/4af0981b-b3ef-40d8-8baf-90cb703ba7fb/2-故-琺-000677_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-01-08/4af0981b-b3ef-40d8-8baf-90cb703ba7fb/2-故-琺-000677.jpg",
+        "name": "2-故-琺-000677"
+    },
+    "caseName": "清康熙銅胎畫琺瑯四季花卉膽瓶",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1577153501191,
+    "officialDocNo": "中華民國108年12月24日文授資局物字第10830139531號",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "此器銅胎，侈口，削肩，梨腹瓶。器內施湖藍釉，外表黃地，口沿下垂葉片裝飾，頸腹部繪杏、荷、牡丹和梅花花株，腹下方飾兩層蓮瓣，圈足垂飾蓮瓣紋。底白地書藍色「康熙御製」雙方框雙行隸書款。\n康熙朝畫琺瑯奠定清宮畫琺瑯的典型風格樣貌。銅胎畫琺瑯在康熙朝，以色地彩繪，特別是黃色地為主流。黃色地在歐洲畫琺瑯作品中極為少見，是康熙時期開創的新裝飾風格。\n根據《奏銷檔》，這類作品除了御用與賞賜，一般人不可使用。在清宮，該器被收儲於端凝殿左右屋，也顯示其為清宮珍賞，足見其獨特及代表性。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第4、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故琺000677",
+    "amount": 1,
+    "descAge": "清　康熙",
+    "descSize": "高13.7、口徑4.1公分",
+    "descMaterial": "銅、琺瑯",
+    "reserveStatusDesc": "此件銅胎畫琺瑯小瓶，是康熙畫琺瑯的典型作品，以常見之明黃色為地，器內施湖藍釉，口緣飾淺藍色蕉葉紋，器腹底緣繪二重蓮瓣，足壁再有一重蓮瓣，以圈足為花芯，有若一朵盛開的蓮花。底有白地「康熙御製」雙方框雙行藍料款。瓶身彩繪海棠、荷、芙蓉、梅分別代表春、夏、秋、冬四季之花卉，花朵粉白相映，顧盼多姿，色彩暈染濃淡得宜，配色清麗脫俗，尺寸雖小，卻在空間分布巧妙的布局中看見四季的流轉。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "康熙年間",
+    "saveEnvironment": 1,
+    "reserveStatus": "口沿銅鍍金圈及白琺瑯間略有污漬，有多處舊傷裂及鏽蝕。",
+    "documents": [
+        {
+            "fileid": 144810,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-15/3093a0fe-5e6f-4ad8-a967-4e92dfc0214e/公告.pdf"
+        },
+        {
+            "fileid": 144811,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-15/b9524d87-97dd-4c43-b585-cf2f451d2c04/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "11143臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 67409,
+            "caseId": 17274,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 71611,
+            "caseId": 17274,
+            "caseStatus": true,
+            "registerDate": 1577153501191,
+            "officialDocNo": "中華民國108年12月24日文授資局物字第10830139531號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

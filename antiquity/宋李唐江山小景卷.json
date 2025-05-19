@@ -1,0 +1,111 @@
+{
+    "id": 4173,
+    "caseId": "20110422000084",
+    "count": 342,
+    "shareCount": 0,
+    "representImage": 165690,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-05-27/cced90e5-7e9a-4d03-81e4-3c416763375d/K2A000991N000000000PAO_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-05-27/cced90e5-7e9a-4d03-81e4-3c416763375d/K2A000991N000000000PAO.jpg",
+        "name": "K2A000991N000000000PAO"
+    },
+    "caseName": "宋李唐江山小景卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1303401600000,
+    "officialDocNo": "會授資籌二字10020040353號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "歷史流傳已久或史事具有深厚淵源",
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "李唐為北宋至南宋山水繪畫傳承發展關鍵畫家，此畫尤為北宋至南宋轉變之典型代表。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第四條第一項第一、二、三、四、五、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故畫000991",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descSize": "49.7 x 186.7 公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "此畫以細勁墨線描寫山石輪廓，再以墨染形塑體積；其間添有短線表現塊面質感，是南宋畫院風格成熟階段以前特色。舊傳作者為李唐，卷中兼採青綠、水墨技巧，延續北宋後設色手法，並保留對於豐富物象的掌握興趣，是一南宋馬夏風格出現以前作風。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "折痕、絹裂、傷補、霉傷。有損傷但狀況穩定。",
+    "documents": [
+        {
+            "fileid": 152187,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-28/01d8e3a8-4e27-4b8a-b332-7465b27c4ef2/公告表.pdf"
+        },
+        {
+            "fileid": 152188,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-28/53f0dab8-1f26-4873-80e7-19e723cee46c/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 80366,
+            "caseId": 4173,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 86334,
+            "caseId": 4173,
+            "caseStatus": true,
+            "registerDate": 1303401600000,
+            "officialDocNo": "會授資籌二字10020040353號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

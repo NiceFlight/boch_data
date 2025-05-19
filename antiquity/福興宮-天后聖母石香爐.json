@@ -1,0 +1,98 @@
+{
+    "id": 16136,
+    "caseId": "20180912000005",
+    "count": 440,
+    "shareCount": 0,
+    "representImage": 50007,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-09-12/9469a296-0911-44a7-8164-1031d9ffc097/9 福興宮-天后聖母石香爐_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-09-12/9469a296-0911-44a7-8164-1031d9ffc097/9 福興宮-天后聖母石香爐.jpg",
+        "name": "9 福興宮-天后聖母石香爐"
+    },
+    "caseName": "福興宮-天后聖母石香爐",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1473045641853,
+    "officialDocNo": "府授文資遺字第10501860575號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.銘文內容與林爽文事件的史實有關，反映出事件後福興宮受事件影響香火沒落，俟嘉慶以後才逐漸恢復。\n2.似為取材於本地砂岩打造之四方形連身展耳無足香爐，具鄉下小祠器物拙樸風格。\n",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第1、2、3、4、5、6款",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "大里區",
+    "govInstitution": "臺中市文化資產處",
+    "govDeptName": "遺址傳藝課",
+    "govDeptPhone": "04-22290280#501",
+    "govDeptAddress": "台中市南區復興路三段362號R10",
+    "reservationCode": "府授文資遺字第10501860575號",
+    "keepNameId": 68,
+    "keepName": "財團法人臺中市大里杙福興宮",
+    "saveSpaceId": 1,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "descAge": "清",
+    "descSize": "含耳高26公分，含耳寬39公分，深21公分",
+    "descMaterial": "石",
+    "reserveStatusDesc": "完整良好",
+    "pastHistorySource": 6,
+    "saveEnvironment": 2,
+    "reserveStatus": "完整良好",
+    "documents": [
+        {
+            "fileid": 50008,
+            "name": "9 福興宮-天后聖母石香爐(公告-掃描).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-09-12/a3298ec5-dc7f-4edb-b6fe-f6e85aa5e4d2/9 福興宮-天后聖母石香爐(公告-掃描).pdf"
+        }
+    ],
+    "keepNames": [
+        {
+            "keepNameIdStr": "財團法人臺中市大里杙福興宮",
+            "keepName": "財團法人臺中市大里杙福興宮",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "大里區",
+            "id": 5873,
+            "caseId": 16136,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1010
+        }
+    ],
+    "announces": [
+        {
+            "id": 5873,
+            "caseId": 16136,
+            "caseStatus": true,
+            "registerDate": 1473045641853,
+            "officialDocNo": "府授文資遺字第10501860575號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

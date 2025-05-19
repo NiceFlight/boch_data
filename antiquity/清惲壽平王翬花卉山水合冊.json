@@ -1,0 +1,104 @@
+{
+    "id": 4387,
+    "caseId": "20151019000014",
+    "count": 440,
+    "shareCount": 0,
+    "representImage": 7366,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4104/photo/清惲壽平王翬花卉山水合冊_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4104/photo/清惲壽平王翬花卉山水合冊.jpg",
+        "name": "清惲壽平王翬花卉山水合冊"
+    },
+    "caseName": "清惲壽平王翬花卉山水合冊",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1445184000000,
+    "officialDocNo": "文授資局物字10430092323",
+    "judgeCriteria": [
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "此冊為惲壽平（1633-1690）、王翬（1632-1717）兩人同遊江蘇宜興時之合作畫，王翬並題詩於畫冊上。\n王翬繪山水，摹宋元名家，水墨蒼勁，青綠工細，畫技精熟。惲壽平畫辛夷、牡丹、萱草、秋花、秋海棠、水仙，南田花卉用色變化細膩，流露出清新高雅的氣質。兩位畫家以擅長作品相互輝映，品質精良且意義非凡，確為二人生平之傑作。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第4條第1項第3、4、5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫00123100001",
+    "amount": 12,
+    "notes": "",
+    "descAge": "清",
+    "descCreator": "",
+    "descSize": "均 28.5公分 x 43公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "惲壽平（1633-1690），武進（今江蘇常州）人。初名格，字壽平，又字正叔，號南田。畫初學山水，後自覺無法與其好友王翬（1632-1717）爭勝，乃專心致力於花卉，以北宋徐崇嗣、明代沈周、陳淳諸名家為師法對象，其「沒骨花卉」不用筆墨，全以彩色染成，創出獨特風格，成為清代花卉畫宗師，有「常州派」之稱。\n本冊為惲壽平、王翬合作，繪於康熙十一年（1672），是年南田四十歲，屬其盛年之作。畫辛夷、牡丹、萱草、秋花、秋海棠、水仙，王翬作水墨及青綠山水各六開。\n全冊共12 開。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 148990,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-29/1934a3d3-a655-430b-a9cb-26e4cd40f5a5/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69768,
+            "caseId": 4387,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 73953,
+            "caseId": 4387,
+            "caseStatus": true,
+            "registerDate": 1445184000000,
+            "officialDocNo": "文授資局物字10430092323",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

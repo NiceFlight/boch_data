@@ -1,0 +1,106 @@
+{
+    "id": 16960,
+    "caseId": "20190730000026",
+    "count": 139,
+    "shareCount": 0,
+    "representImage": 60233,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-07-24/9537b0ac-43e4-4fb7-9cb9-ababdf84a720/官窯青瓷弦紋貫耳壺_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-07-24/9537b0ac-43e4-4fb7-9cb9-ababdf84a720/官窯青瓷弦紋貫耳壺.jpg",
+        "name": "官窯青瓷弦紋貫耳壺"
+    },
+    "caseName": "官窯青瓷弦紋貫耳壺",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1564133760393,
+    "officialDocNo": "文授資局物字第10830078621號",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "數量特別稀少或具完整性保存意義者",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此器形仿銅貫耳壺，侈口，短頸，碩腹，通體施青瓷釉，底面鐫刻乾隆皇帝〈詠官窯貫耳瓶〉詩，詩末署「乾隆癸巳季春御題」紀年銘（1773），並落「乾」、「隆」兩枚鈐印。\n從此器的御製詩得知乾隆皇帝上手把玩，目驗貫耳對應足壁穿孔設計，讓他聯想起唐朝著名鬼才詩人李賀。透過此器的詩文可推知乾隆皇帝對這件作品看法，益顯珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故瓷014022",
+    "amount": 1,
+    "descAge": "南宋",
+    "descSize": "高26.6公分、口徑9.3×11公分",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "形仿銅貫耳壺，侈口，短頸，碩腹，頸腹間間飾弦紋三道，兩側各飾一貫耳，底接高圈足，足壁兩側開二方孔。通體施青瓷釉，釉層濃厚，釉色勻潤。口沿釉薄處，現出灰色邊，足緣無釉，露出燒後胎色。底面鐫刻乾隆皇帝〈詠官窯貫耳瓶〉詩，詩末署「乾隆癸巳季春御題」紀年銘（乾隆三十八年：1773），並落「乾」、「隆」兩枚鈐印。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "釉面舊裂璺。",
+    "documents": [
+        {
+            "fileid": 145223,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-17/478a3bb6-ceea-41c1-8177-3143a30464e2/公告.pdf"
+        },
+        {
+            "fileid": 145224,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-17/9cc91dbc-c76c-462d-8b37-0486f585ee7b/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 67655,
+            "caseId": 16960,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 71906,
+            "caseId": 16960,
+            "caseStatus": true,
+            "registerDate": 1564133760393,
+            "officialDocNo": "文授資局物字第10830078621號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

@@ -1,0 +1,105 @@
+{
+    "id": 3632,
+    "caseId": "20130813000087",
+    "count": 56,
+    "shareCount": 0,
+    "representImage": 6364,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7349/photo/冥樞會要(宋刊本)_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7349/photo/冥樞會要(宋刊本).png",
+        "name": "冥樞會要(宋刊本)"
+    },
+    "caseName": "冥樞會要(宋刊本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1376323200000,
+    "officialDocNo": "文資局物字第 10220091271號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "宋紹興十五年(1145)湖州報恩光孝禪寺刊本。\r\n五代宋釋延壽編《宗鏡錄》百卷，浩若烟海，觀者一時遽難尋繹其旨，故北宋寶覺禪師(釋祖心)撮錄玄要，輯成《冥樞會要》三卷，刻板流通。此數卷摘其精華，真禪門之寶藏。清朱彝尊等各手書題跋。內文字樣端正，楷墨清雅，似屬早印。未聞他處藏有同版。\r\n\r\n宋版古籍，罕見稀有，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號08980",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 6,
+    "notes": "",
+    "descAge": "宋紹興十五年(1145)",
+    "descCreator": "宋釋祖心編",
+    "descSize": "半葉10行，版匡19.6x13.1公分",
+    "descMaterial": "紙質",
+    "reserveStatusDesc": "三卷；刊本。\n五代宋釋延壽編《宗鏡錄》百卷，浩若烟海，觀者一時遽難尋繹其旨，故北宋寶覺禪師(釋祖心)撮錄玄要，輯成《冥樞會要》三卷，刻板流通。此數卷摘其精華，真禪門之寶藏。清朱彝尊等各手書題跋。內文字樣端正，楷墨清雅，似屬早印。未聞他處藏有同版。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 6365,
+            "name": "b9b9d8c7-ee75-4d2f-ac4a-458505e784be.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44220/file/b9b9d8c7-ee75-4d2f-ac4a-458505e784be.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3774,
+            "caseId": 3632,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3774,
+            "caseId": 3632,
+            "caseStatus": true,
+            "registerDate": 1376323200000,
+            "officialDocNo": "文資局物字第 10220091271號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

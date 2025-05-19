@@ -1,0 +1,176 @@
+{
+    "id": 1005,
+    "caseId": "20070502000002",
+    "count": 2083,
+    "shareCount": 2,
+    "representImage": 170494,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/96c8f8e8-0855-4d19-a938-bd096c6d3edb/代表圖像_迪化街1段176號店屋_20220623_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/96c8f8e8-0855-4d19-a938-bd096c6d3edb/代表圖像_迪化街1段176號店屋_20220623.jpeg",
+        "name": "代表圖像_迪化街1段176號店屋_20220623"
+    },
+    "caseName": "迪化街1段176號店屋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本案初登記者日據時期之仕紳陳進卿、陳迪卿二人， 1927年經營南北貨，1935年後歷經合順號、新裕盛及發記材木商行經營棺木製造，1953年後由陳財開設源隆行經營香燭舖至今。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 167448,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/98308bff-1829-4790-a89c-ed8ed5e81c08/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "1.建物已有百年歷史，原所有者陳進卿光緒年間曾中秀才，並在此開班授課；現經營之源隆香燭行為六十年歷史老字號，為街區老字號之代表，具歷史、人文意義。\r\n2.建築物整體保存原來風貌，第一進外牆立面為簡潔洗石子\r\n飾面，圓拱騎樓、天井及窗台等內部構件仍在，且保存狀況良好。",
+    "lawsReference": "文化資產保存法第 15 條、歷史建築登錄廢止審查及輔助辦法。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 167449,
+            "name": "downloadfile.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/bb61184b-17bc-4808-9766-2792265f4a5b/downloadfile.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "大同區延平段三小段288（面積約223平方公尺）、288-1（面積約2平方公尺）、289（面積約19平方公尺）及309-3（面積約7平方公尺）等地號",
+    "buildingFeatures": "立面材料以洗石子為主，二樓窗台部分飾以馬賽克。騎樓柱為磚構造並飾以洗石子面材，騎樓延續本區街屋特有之圓拱形式。",
+    "inHouseFeatures": "內部空間隔局多已修改，店面入口上方招牌具歷史價值。",
+    "buildingUsage": "原貌修復完畢，使用中。",
+    "buildingActualState": "修復後續再利用",
+    "buildingKeyMaintainItem": "臨迪化街側之立面及騎樓圓拱採原貌修復方式，重現原有立面及騎樓空間特色，管線應整齊佈設，表面污損清潔，破損採原貌修復。加建部分拆除恢復原有空間構架及其他不適當加建物，以維護外觀及空間之完整性。",
+    "bulkTransfer": 2,
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.509555,
+    "latitude": 25.058354,
+    "representImageSource": "臺北市文化局",
+    "landScope": "延平段三小段288、288-1、289、309-3地號",
+    "selfCoverage": "實際保存面積需以保存範圍實測數據為準",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 83630,
+            "caseId": 1005,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "迪化街1段176號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 94295,
+            "caseId": 1005,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 189,
+            "landSerialNo": "288",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "223平方公尺",
+            "cityLandUseTypeOther": "特定專用區（三）（供特定住宅使用）",
+            "note": "重測前：永樂段五小段１５８地號\n因分割增加地號：２８８—１地號\n（權狀註記事項）建築基地地號：延平段三小段２８８、２８８－１、２８９、３０９－３地號\n地價備註事項:\t(空白)\n土地參考資訊檔:\t土地使用分區;特定專用區(供特定住宅使用)。",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 94296,
+            "caseId": 1005,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 189,
+            "landSerialNo": "288-1",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "2平方公尺",
+            "cityLandUseTypeOther": "特定專用區（三）（供特定住宅使用）",
+            "note": "分割自：２８８地號\n（權狀註記事項）建築基地地號：延平段三小段２８８、２８８－１、２８９、３０９－３地號\n地價備註事項:\t(空白)\n土地參考資訊檔:\t土地使用分區;特定專用區(供特定住宅使用)。",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 94297,
+            "caseId": 1005,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 189,
+            "landSerialNo": "289",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "19平方公尺",
+            "cityLandUseTypeOther": "特定專用區（三）（供特定住宅使用）",
+            "note": "重測前：永樂段五小段１５８—１地號\n（權狀註記事項）建築基地地號：延平段三小段２８８、２８８－１、２８９、３０９－３地號\n地價備註事項:\t(空白)\n土地參考資訊檔:\t土地使用分區;特定專用區(供特定住宅使用)。",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 94298,
+            "caseId": 1005,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 189,
+            "landSerialNo": "309-3",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "19平方公尺",
+            "cityLandUseTypeOther": "特定專用區（三）（供特定住宅使用）",
+            "note": "分割自：３０９—２地號\n（權狀註記事項）建築基地地號：延平段三小段２８８、２８８－１、２８９、３０９－３地號\n地價備註事項:\t(空白)\n土地參考資訊檔:\t土地使用分區;特定專用區(供特定住宅使用)。",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 89807,
+            "caseId": 1005,
+            "caseStatus": true,
+            "registerDate": 1178035200000,
+            "officialDocNo": "北市府文化二字09630250900號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "口述歷史及地籍登記簿相關資料"
+}

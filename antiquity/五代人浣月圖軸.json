@@ -1,0 +1,101 @@
+{
+    "id": 4412,
+    "caseId": "20151218000003",
+    "count": 245,
+    "shareCount": 0,
+    "representImage": 7409,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39088/photo/47bb4e69-7df2-4201-b738-ecdf6d8628a5_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39088/photo/47bb4e69-7df2-4201-b738-ecdf6d8628a5.jpg",
+        "name": "47bb4e69-7df2-4201-b738-ecdf6d8628a5"
+    },
+    "caseName": "五代人浣月圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1450368000000,
+    "officialDocNo": "\t文授資局物字第10430113271號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就",
+        "品質精良且數量稀少"
+    ],
+    "registerReason": "此幅之園林構圖佈局、仕女造型、設色方式等，皆近於故宮所藏宋人〈折檻圖〉。從樹石、人物用筆較為誇張之特點來看，成畫年代應接近宋末，推測為南宋宮廷畫師繪製的詩意仕女圖。\r\n本幅畫幅雖不大，然就傳世南宋仕女畫，立軸稀少，本幅繪製精謹細膩，對景物的描繪，可列為南宋詩意仕女圖的代表。精工之畫法外，亦記錄宋代仕女之浣月時景與風尚，畫中人物服飾、擺設、器物等，也都具有生活文化的研究價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第3、4、5款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局 ",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000030",
+    "amount": 1,
+    "descAge": "南宋",
+    "descSize": "77.2公分 x 50.4 公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "本幅繪唐代于良史「掬水月在手」詩意，畫中庭院深處松樹、梧桐、芭蕉等蒼鬱欣茂，芙蓉、蜀葵、雛菊盛開，呈現秋景。明月高掛，樹石旁一女子雙手捧水映月，侍女們或臨案焚香，或捧奩，或荷琴。畫無作者款印，舊籤題為〈五代人浣月圖〉。 ",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。畫心浮開材質劣化。",
+    "documents": [
+        {
+            "fileid": 148930,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-29/70e606aa-60a9-4990-9ac8-419aeafd6755/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69718,
+            "caseId": 4412,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 73897,
+            "caseId": 4412,
+            "caseStatus": true,
+            "registerDate": 1450368000000,
+            "officialDocNo": "\t文授資局物字第10430113271號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,112 @@
+{
+    "id": 589,
+    "caseId": "19851127000064",
+    "count": 3770,
+    "shareCount": 1,
+    "representImage": 281190,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2025-02-21/aacb8c78-875a-4337-a155-f44d78e852d6/曾振暘墓_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2025-02-21/aacb8c78-875a-4337-a155-f44d78e852d6/曾振暘墓.jpg",
+        "name": "曾振暘墓"
+    },
+    "caseName": "曾振暘墓",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "此墓於1952年（民國四十一年）底被臺南市文獻委員所發現，屬荷蘭時期流寓漢族留臺地之墓，墓主可能於荷治時期前就已經來臺開墾。\n此墓曾於1953年（民國四十二年）加以修葺，1975年（民國六十四年）重修。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "陵墓",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "registerDate": 501905760000,
+    "officialDocNo": "台內民字第357272號",
+    "documents": [
+        {
+            "fileid": 165604,
+            "name": "曾振暘墓公告74.12.07.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-26/510a114b-3fca-4b4e-b03b-30a58342c017/曾振暘墓公告74.12.07.pdf"
+        },
+        {
+            "fileid": 165605,
+            "name": "臺南縣市合併後縣定市定重新公告100.6.24.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-26/b1334082-8324-4a52-9c6a-4d4301bf8377/臺南縣市合併後縣定市定重新公告100.6.24.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具其他古蹟價值者"
+    ],
+    "registerReason": "公告無資料",
+    "lawsReference": "依據行政院文化建設委員會74年11月13日文建壹字第4499號函及文化資產保存法第27條11項暨同法施行細則第40條規定辦理。",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "南區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "(06)2213597",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 142225,
+            "name": "曾振暘墓地籍地圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-11-01/bec90ea7-2482-4497-ba73-77cee1f218ff/曾振暘墓地籍地圖.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "竹溪里桶盤淺段墓園內",
+    "buildingFeatures": "曾振暘墓座西向東，全長685公分，墓寬352公分，花崗石碑大小為寬53.5公分，高57.5公分，花崗石碑上刻有「皇明澄邑振暘曾公墓」上款「崇禎十五年」，下款「孝子若龍若鳳同立」。",
+    "inHouseFeatures": "",
+    "buildingUsage": "墓地、祭祀",
+    "buildingActualState": "「曾振暘墓」與前述二墓之座向完全相反，雖步行進入的路徑多為柏油路面，但於夏秋之季，荒湮漫草侵入路徑，覆蓋原有通道，以致無法通行，且先到墓之背側，周邊與他墓緊鄰，正面腹地狹小，對參觀路線之安排不盡理想，此點較為困難。後人已不可考，清明時節由文化局祭拜。",
+    "buildingKeyMaintainItem": "2001年（民國九十年）進行修護工程已針對古蹟完整修繕，但在日常生活中應隨時維護，本案位處偏僻即濫葬區，且基地位置為私人土地，維護更加不易。建議管理單位定期勘查維護，詳實填寫紀錄。",
+    "bulkTransfer": 0,
+    "belongAddress": "桶盤淺段墓園內",
+    "isOpenDownload": false,
+    "longitude": 120.198058575768,
+    "latitude": 22.965456313946,
+    "representImageSource": "臺南市政府",
+    "landScope": "公告無資料",
+    "selfCoverage": "公告無資料",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "南區",
+            "id": 147904,
+            "caseId": 589,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1603,
+            "address": "竹溪里桶盤淺段墓園內"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 160648,
+            "caseId": 589,
+            "caseStatus": true,
+            "registerDate": 501905760000,
+            "officialDocNo": "臺內民字第357272號",
+            "classificationId": 1
+        },
+        {
+            "id": 160649,
+            "caseId": 589,
+            "caseStatus": true,
+            "registerDate": 1308844800000,
+            "officialDocNo": "府文資處字第1000393784號",
+            "classificationId": 2,
+            "note": "直轄市升格"
+        }
+    ],
+    "openVisitType": "完全開放參觀",
+    "openUpTime": "完全開放參觀",
+    "isCharge": false,
+    "pastHistorySource": "臺南市第三級古蹟藩府二鄭公子墓、藩府曾蔡二姬墓、曾振暘墓調查研究與修護計劃報告"
+}

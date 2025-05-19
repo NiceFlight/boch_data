@@ -1,0 +1,136 @@
+{
+    "id": 988,
+    "caseId": "20071116000001",
+    "count": 2464,
+    "shareCount": 2,
+    "representImage": 170596,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/ffe16b3f-ec7e-4436-9786-cebc8e2845c2/代表圖像_涼州街108號店屋_20220623_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/ffe16b3f-ec7e-4436-9786-cebc8e2845c2/代表圖像_涼州街108號店屋_20220623.jpeg",
+        "name": "代表圖像_涼州街108號店屋_20220623"
+    },
+    "caseName": "涼州街108號店屋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "「鎮記」為所有人之祖父林鎮標先生於西元1925年興建，西元1927年竣工，建物落成即從事人蔘買賣，至西元1941年，二次世界大戰末期無法自韓國進口高麗蔘而停止營業，後陸續出租為洗衣店、電器行等營業，並於西元1976年出租給弘揚西裝社至今。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 166982,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/0b65914c-1a8d-4cc9-a0e9-c084c7593c97/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1.為1920年代大稻埕建築風格之一，仍保有大部分原貌。\r\n2.建築物施工嚴謹，立面精美，店屋縱深極淺，形式獨特。",
+    "lawsReference": "文化資產保存法、歷史建築登錄廢止審查及輔助辦法第2條第1項第2、第3及第4款登錄評定基準。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 166983,
+            "name": "downloadfile (5)-page-001.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/d055a7ba-8a4e-4486-9031-a4ea6691a281/downloadfile (5)-page-001.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "landUseOtherType": "",
+    "locationLandNo": "臺北市大同區延平段二小段872及876地號",
+    "buildingFeatures": "「鎮記」為三層樓仿歐式歷史主義建築樣式，二、三樓露台及立面山牆為此建物特色。",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "二樓與三樓的露台，十分有特色，建議整理電線，並將西裝社的招牌重新設計，與立面融合。",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.509756,
+    "latitude": 25.060504,
+    "representImageSource": "臺北市文化局",
+    "landScope": "大同區延平段二小段872、876地號。",
+    "selfCoverage": "113.39平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 83640,
+            "caseId": 988,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "涼州街108號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 94325,
+            "caseId": 988,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 188,
+            "landSerialNo": "872",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "21平方公尺",
+            "cityLandUseTypeOther": "大稻埕歷史風貌特定專用區",
+            "note": "其他登記事項:\t重測前：永樂段５小段２５５地號\n地價備註事項:\t(空白)\n土地參考資訊檔:\t土地使用分區;特定專用區(供特定商業使用)。",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 94326,
+            "caseId": 988,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 188,
+            "landSerialNo": "876",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "23平方公尺",
+            "cityLandUseTypeOther": "大稻埕歷史風貌特定專用區",
+            "note": "其他登記事項:\t重測前：永樂段５小段２２５—１地號\n地價備註事項:\t(空白)\n土地參考資訊檔:\t土地使用分區;特定專用區(供特定商業使用)。",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 89816,
+            "caseId": 988,
+            "caseStatus": true,
+            "registerDate": 1195142400000,
+            "officialDocNo": "北市文化二字第09630352300號",
+            "classificationId": 1,
+            "note": "歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

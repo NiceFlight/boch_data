@@ -1,0 +1,85 @@
+{
+    "id": 3887,
+    "caseId": "20120613000002",
+    "count": 275,
+    "shareCount": 0,
+    "representImage": 6695,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32873/photo/9d742cdc-2249-4f34-87e9-6bae28be7b6d_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32873/photo/9d742cdc-2249-4f34-87e9-6bae28be7b6d.JPG",
+        "name": "9d742cdc-2249-4f34-87e9-6bae28be7b6d"
+    },
+    "caseName": "寬兒鼎",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1339516800000,
+    "officialDocNo": "文授字第10120135331號",
+    "judgeCriteria": [
+        "具有史事重要淵源",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本器為春秋時期重要銅禮器，蓋器均飾蟠虺紋，足飾獸面紋。蓋內有銘文5行30字：「隹正八月，初吉壬申，蘇公之孫寬兒，擇其吉金，自作食繁眉壽無期，永保用之」。大意為在某年八月上旬吉日壬申這一天，蘇國蘇公的孫子寬兒，特地選擇吉金銅料，鑄作祭饗的禮器，祈自己能長壽無期，子子孫孫永遠保有用之。其銘文於研究諸侯爵稱及方國情形，具有重要研究價值。春秋時的鼎常加器蓋，口沿上的立耳移位到腹側。器身上用印模反覆鋪蓋鑄製的蟠虺紋、獸帶紋等紋飾，細密縟麗、成為此時的特色。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第2、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "reservationCode": "",
+    "keepNameId": 1,
+    "keepName": "",
+    "keepNameNew": 17,
+    "keepAddressNew": "臺北市士林區至善路二段221號",
+    "amount": 1,
+    "notes": "",
+    "reserveStatusDesc": "通高27.1cm、腹深16cm、口徑19.9cm、腹圍73.5cm。\r\n材質：銅。\r\n蓋器均飾蟠虺紋，足飾獸面紋。蓋內有銘文30字。",
+    "reserveStatus": "完整良好 ",
+    "documents": [],
+    "isOpenDownload": false,
+    "representImageSource": "",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 4029,
+            "caseId": 3887,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108
+        }
+    ],
+    "announces": [
+        {
+            "id": 4029,
+            "caseId": 3887,
+            "caseStatus": true,
+            "registerDate": 1339516800000,
+            "officialDocNo": "文授字第10120135331號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

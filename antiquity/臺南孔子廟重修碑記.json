@@ -1,0 +1,106 @@
+{
+    "id": 3097,
+    "caseId": "20141105000001",
+    "count": 716,
+    "shareCount": 0,
+    "representImage": 5512,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4782/photo/臺南孔子廟重修碑記_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4782/photo/臺南孔子廟重修碑記.png",
+        "name": "臺南孔子廟重修碑記"
+    },
+    "caseName": "臺南孔子廟重修碑記",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-其他",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1415116800000,
+    "officialDocNo": "府文資處字第1031018187B號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源"
+    ],
+    "registerReason": "本組紀念碑立於大正七年，係記載大正六年(西元1918年)，臺南孔廟傾頹，日人倡修，由士紳捐資修葺，於七月興工，翌年三月竣工，重置禮器及樂器之事蹟。見證孔廟於日治大正年間，建築體興修之沿革及釋奠禮禮樂器之補置，具深刻之歷史、文化意義。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第2條第1項第1、2款。",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "中西區",
+    "govInstitution": "臺南市文化資產管理處",
+    "govDeptName": "文化資產研究組",
+    "govDeptPhone": "06-2213597",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "reservationCode": "-",
+    "amount": 4,
+    "notes": "",
+    "descAge": "  大正7年(1918)",
+    "descSize": "(1)臺南孔子廟重修碑記(高113公分、寬65公分)(2)臺南孔子廟重修捐題碑記(高115公分、寬69公分)(3)臺南孔子廟重修捐題碑記(高117公分、寬67公分)  (4)修造捐置臺南聖廟禮器樂器記(高114公分、寬65公分)",
+    "descMaterial": "花崗石",
+    "reserveStatusDesc": "1.年代：大正七年(西元1918年)\r\n2.作者：不詳\r\n3.材質：花崗石(外框)、銅(碑面)\r\n4.尺寸：(1)臺南孔子廟重修碑記(高113公分、寬65公分)\r\n       (2)臺南孔子廟重修捐題碑記(高115公分、寬69公分)\r\n       (3)臺南孔子廟重修捐題碑記(高117公分、寬67公分) \r\n       (4)修造捐置臺南聖廟禮器樂器記(高114公分、寬65公分)\r\n5.技法：銅鑄\r\n6.重量：無法測量\r\n7.數量：1組4件",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "臺南廳長 枝德二等立",
+    "saveEnvironment": 3,
+    "reserveStatus": "有損傷但狀況穩定 ",
+    "documents": [
+        {
+            "fileid": 109828,
+            "name": "一般古物登錄清冊103.11.6.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-12/a4ba84f2-41ad-4f65-9755-f821e9a4218f/一般古物登錄清冊103.11.6.pdf"
+        },
+        {
+            "fileid": 141862,
+            "name": "臺南孔子廟重修碑記公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-10-27/b981fcc8-58ab-47c6-9669-32367c77c123/臺南孔子廟重修碑記公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 22.990712099550418,
+    "latitude": 120.20423744833322,
+    "representImageSource": "臺南市政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "財團法人臺南市孔廟文化基金會",
+            "keepName": "財團法人臺南市孔廟文化基金會",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺南市中西區 南門路2號(臺南市孔廟)",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "id": 107131,
+            "caseId": 3097,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601
+        }
+    ],
+    "announces": [
+        {
+            "id": 115006,
+            "caseId": 3097,
+            "caseStatus": true,
+            "registerDate": 1415116800000,
+            "officialDocNo": "府文資處字第1031018187B號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

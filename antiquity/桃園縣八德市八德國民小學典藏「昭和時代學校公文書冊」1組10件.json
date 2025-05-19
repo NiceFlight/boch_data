@@ -1,0 +1,103 @@
+{
+    "id": 2925,
+    "caseId": "20121207000002",
+    "count": 848,
+    "shareCount": 0,
+    "representImage": 213510,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-05-16/6c142e84-dc07-4632-8e6d-2eda7352ba18/01-昭和六年度八塊公學校學校經營要覽_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-05-16/6c142e84-dc07-4632-8e6d-2eda7352ba18/01-昭和六年度八塊公學校學校經營要覽.jpg",
+        "name": "01-昭和六年度八塊公學校學校經營要覽"
+    },
+    "caseName": "桃園縣八德市八德國民小學典藏「昭和時代學校公文書冊」1組10件",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1354809600000,
+    "officialDocNo": "府文視字第1011062633",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本案圖書文獻資料為日治時期八德公學校早期校史資料，可作為研究日治時期教育制度、人員敘薪、升遷等研究的參考，對研究日治時期台灣教育及文化制度深具價值，值得保存。",
+    "lawsReference": "符合「文化資產保存法」第65條及「古物分級登錄指定及廢止審查辦法」第7條",
+    "govInstitutionCode": "330",
+    "govInstitutionName": "桃園市政府",
+    "belongCityId": 5,
+    "belongCityName": "桃園市",
+    "belongDistName": "八德區",
+    "govInstitution": "桃園市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-3322592分機8626",
+    "govDeptAddress": "桃園市桃園區縣府路21號",
+    "reservationCode": "尚無",
+    "amount": 10,
+    "notes": "",
+    "descAge": "昭和10年(1935)",
+    "descSize": "最長20/最寬27.5/最高0.6",
+    "descMaterial": "紙質",
+    "reserveStatusDesc": "此案文物是八德公學校早期校史資料，包含《昭和六年學校經營要覽》、《昭和九年學校經營案》、《昭和十年學校經營案》、《昭和十一年學校經營案》、《昭和十四年公文書缀》、《公文書缀》、《報告例》、《預算書》、《各學級月中行事表》、《光復前教職員履歷表》等十件，可從文獻管窺日治時期教育方針、學校教職員任用之變化，為研究日治時期教育史重要參考史料。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況不良，有損傷，需維護",
+    "documents": [
+        {
+            "fileid": 213497,
+            "name": "八德國小「昭和時代學校公文書冊」一般古物指定公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-05-16/f12c8a07-c358-4df8-be97-0d5319929084/八德國小「昭和時代學校公文書冊」一般古物指定公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.283695,
+    "latitude": 24.928939,
+    "representImageSource": "桃園縣八德市八德國民小學",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "桃園縣八德市八德國民小學",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "桃園市八德區 八德國民小學",
+            "saveSpaceIdStr": "學校",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "桃園市",
+            "distName": "八德區",
+            "id": 110210,
+            "caseId": 2925,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 509,
+            "address": "興豐路222號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 119210,
+            "caseId": 2925,
+            "caseStatus": true,
+            "registerDate": 1354809600000,
+            "officialDocNo": "府文視字第1011062633號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

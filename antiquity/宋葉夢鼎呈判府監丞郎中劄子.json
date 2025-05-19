@@ -1,0 +1,100 @@
+{
+    "id": 18579,
+    "caseId": "20210304000004",
+    "count": 157,
+    "shareCount": 0,
+    "representImage": 99162,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-03-04/d5296d82-2c87-4a7c-8ca6-34c6e20b5f5a/PK2B000241N000000004PAA (2)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-03-04/d5296d82-2c87-4a7c-8ca6-34c6e20b5f5a/PK2B000241N000000004PAA (2).jpg",
+        "name": "PK2B000241N000000004PAA (2)"
+    },
+    "caseName": "宋葉夢鼎呈判府監丞郎中劄子",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "葉夢鼎（1200—1279）為南宋著名宰相，常為民請命，對抗權臣賈似道（1213-1275），最終以「廉恥事大，死生事小」為由辭官。\n宋亡後，其仍向降元後被封為瀛國公的宋恭帝（1271-1323）建議「敦教道，訓廉德，厲臣節，拯民瘼，重士選，勸吏廉，懲吏姦，補軍籍。」其忠于國事如此。\n本作通篇多以「顏體」楷書筆法作行書，獨具創意，並能反映宋代學習顏真卿（709-785）書法風潮，應是葉氏極罕見真蹟。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、3款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故書000241-4~7",
+    "amount": 4,
+    "descAge": " 宋",
+    "descCreator": "葉夢鼎",
+    "descSize": "本幅一34.3x27.9、本幅二34.5x31.7、本幅三36.3x33.7、本幅四36.6x34.5（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "葉夢鼎（1200—1279）為南宋著名宰相。此札為葉氏書，約作於1273年罷相隱居之後。信中答覆並勉勵收信人勤於報國，又提到書寫齋匾一事，皆反映士人生活之一端。\n通篇多以「顏體」楷書筆法寫行書，橫輕豎重，但筆多方折、出鋒，筆勢凌厲，線條長短、輕重、聚散的對比很強；字形忽長忽扁，變化很大，然而字形狹長內部沒有侷促感，寬扁亦不會顯得笨重，兼得雄厚與靈巧之趣。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "",
+    "saveEnvironment": 1,
+    "reserveStatus": "舊傷補。",
+    "documents": [
+        {
+            "fileid": 143640,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-08/abdf6992-0ff0-4ff6-baa3-b042cffccc94/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.549499,
+    "latitude": 25.10037,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": " ",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69977,
+            "caseId": 18579,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路2段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 74195,
+            "caseId": 18579,
+            "caseStatus": true,
+            "registerDate": 1614846135648,
+            "officialDocNo": "文授資局物字第11030020551號",
+            "classificationId": 1,
+            "note": ""
+        }
+    ],
+    "isPublic": false
+}

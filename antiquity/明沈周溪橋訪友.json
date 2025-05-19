@@ -1,0 +1,101 @@
+{
+    "id": 3732,
+    "caseId": "20140425000045",
+    "count": 214,
+    "shareCount": 0,
+    "representImage": 6493,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39138/photo/pic025_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39138/photo/pic025.jpg",
+        "name": "pic025"
+    },
+    "caseName": "明沈周溪橋訪友",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1398355200000,
+    "officialDocNo": "10320044791",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "沈周（1427-1509）字啟南，號石田、白石翁，是明代中期蘇州的重要畫家。\r\n此畫中山水構圖採用元代常見一河兩岸之作法，上方高聳的山體斜傾出奇，透過留白而構築出的山頂平台，讓人聯想到黃公望的山水樣式。不過沈周筆墨較為簡約，更接近吳鎮的用筆特色。山體的層疊與皴點之運用，都顯示出沈周對吳鎮畫風的熟稔，也是沈周個人特色逐漸成形的代表作。\r\n此畫參酌元代畫風，一方面可見沈周對黃公望畫風之掌握，另一方面吳鎮的影響又明顯可見，且流露了他個人的特色。此軸為其轉用吳鎮畫風的代表作。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條1項第5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫002146",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descSize": "130.6 x 47.5（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "沈周（1427-1509）字啟南，號石田，是明代中期蘇州的重要畫家。此軸並無紀年，學者曾據其書風推測是五十四歲（約1480）之作。此畫為貞父作，推測即是時任官南京的毛珵（貞甫）。畫中山水構圖採用元代常見一河兩岸之作法，上方高聳的山體斜傾出奇，透過留白而構築出的山頂平台，讓人聯想到黃公望的山水樣式。不過沈周筆墨較為簡約，更接近吳鎮的用筆特色。山體的層疊與皴點之運用，都顯示出沈周對吳鎮畫風的熟稔，也是沈周個人特色逐漸成形的代表作。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。重裱過。本幅：蟲蛀、傷補、霉傷。裱綾摺痕，地綾浮開。",
+    "documents": [
+        {
+            "fileid": 150199,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-12/73ad7d99-8555-41f3-9d08-e5143d39076c/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70740,
+            "caseId": 3732,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 74999,
+            "caseId": 3732,
+            "caseStatus": true,
+            "registerDate": 1398355200000,
+            "officialDocNo": "10320044791",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

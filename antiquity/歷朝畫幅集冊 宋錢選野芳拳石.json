@@ -1,0 +1,97 @@
+{
+    "id": 20279,
+    "caseId": "20211215000020",
+    "count": 78,
+    "shareCount": 0,
+    "representImage": 147640,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-15/28259d47-91f9-4680-80b0-e57c9d5153f2/029_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-15/28259d47-91f9-4680-80b0-e57c9d5153f2/029.jpg",
+        "name": "029"
+    },
+    "caseName": "歷朝畫幅集冊 宋錢選野芳拳石",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "本件為清宮舊藏，畫作顯示錢選脫胎自南宋院體花鳥畫的個人特色，左幅柯九思跋甚佳，右幅所謂錢選畫作有怡親王璽印。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第3、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174之1號",
+    "reservationCode": "故畫001237N000000006",
+    "amount": 1,
+    "descAge": "宋",
+    "descSize": "38x22.5公分，對幅30.8x17公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "錢選（約1235-1303尚在），浙江吳興人。字舜舉。\n本幅描繪生長於石頭側邊的玉簪竹，上有游蜂徘徊，下有小花雜草點綴。石頭外型如手握拳，使用墨色較深的乾筆皴擦，突顯石面崎嶇的質感。玉簪竹呈現葉子從新芽、盛開至葉尖略枯萎的不同形態。蜜蜂體型略大，造型較重複。落款為「大德七年（1303）三月。吳興錢選舜舉」，對幅有奎章閣鑒書博士柯九思（1290-1343）題字。\n",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "通幅褐斑。",
+    "documents": [
+        {
+            "fileid": 147639,
+            "name": "110年12月9日北市獻編字第1103004564號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-15/8823bde5-df28-4f95-8b94-f795df679c60/110年12月9日北市獻編字第1103004564號公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69171,
+            "caseId": 20279,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73286,
+            "caseId": 20279,
+            "caseStatus": true,
+            "registerDate": 1639023812992,
+            "officialDocNo": "北市獻編字第1103004564號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

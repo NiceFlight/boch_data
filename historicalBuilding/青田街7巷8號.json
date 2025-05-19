@@ -1,0 +1,111 @@
+{
+    "id": 1044,
+    "caseId": "20061101000005",
+    "count": 2944,
+    "shareCount": 2,
+    "representImage": 189545,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/272fe2b2-3411-463c-a97a-4b4b07edbc99/代表圖像_青田街7巷8號_20220713(IMG_0521)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/272fe2b2-3411-463c-a97a-4b4b07edbc99/代表圖像_青田街7巷8號_20220713(IMG_0521).jpg",
+        "name": "代表圖像_青田街7巷8號_20220713(IMG_0521)"
+    },
+    "caseName": "青田街7巷8號",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本區日式住宅約建於1930年代，由臺北帝國大學(臺灣大學前身)教授及臺北高商(臺灣大學法學院前身)佐藤佐教授等發起由學人教授自資興建供為住家使用之建築。建築形式完整，現為臺灣大學宿舍。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 167483,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/9f1c717d-33fb-4de8-b8ef-eb0de1053ea3/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1.具建築史上之意義，作為日據時期日式宿舍群規劃之表徵。\n2.具有再利用之價值及潛力。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 167484,
+            "name": "dbb43e70-78d8-40ed-99ac-55b24503b166.png",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/3c7c6bb3-55d4-4a78-8439-6812d492940e/dbb43e70-78d8-40ed-99ac-55b24503b166.png"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "第三種住宅區",
+    "locationLandNo": "大安區金華段2小段221地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "保存範圍：大安區金華段2小段221地號建物所在位置",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isOpenDownload": false,
+    "longitude": 121.532832,
+    "latitude": 25.0280189,
+    "representImageSource": "臺北市文化局",
+    "landScope": "台北市大安區金華段二小段221地號(689平方公尺)",
+    "selfCoverage": "台北市大安區金華段二小段8建號(120.48平方公尺)",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 95053,
+            "caseId": 1044,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "青田街7巷8號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "金華段二小段",
+            "cityLandUseTypeName": "保存區",
+            "id": 117451,
+            "caseId": 1044,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 721,
+            "landSerialNo": "221",
+            "landownership": 1,
+            "cityLandUseTypeId": 7,
+            "coverageId": 2,
+            "area": "689平方公尺",
+            "note": "聚落風貌保存專用區 ",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 102552,
+            "caseId": 1044,
+            "caseStatus": true,
+            "registerDate": 1162310400000,
+            "officialDocNo": "府文化二字第09530322200號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

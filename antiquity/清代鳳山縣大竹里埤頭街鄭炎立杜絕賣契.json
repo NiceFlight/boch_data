@@ -1,0 +1,106 @@
+{
+    "id": 3153,
+    "caseId": "20070929000008",
+    "count": 307,
+    "shareCount": 0,
+    "representImage": 5591,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/37982/photo/ad50b829-68a0-4c77-a5c9-3ebbe32892d1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/37982/photo/ad50b829-68a0-4c77-a5c9-3ebbe32892d1.jpg",
+        "name": "ad50b829-68a0-4c77-a5c9-3ebbe32892d1"
+    },
+    "caseName": "清代鳳山縣大竹里埤頭街鄭炎立杜絕賣契",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "出土(水)-出土、出水物品",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1190995200000,
+    "officialDocNo": "高市府史博字第0960050581號",
+    "judgeCriteria": [
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本件地契為台灣開發史重要史料，年代久遠清乾隆60年（1795），保存良好，字跡清楚可讀，整體觀之，採用漢字書法及木刻版印刷，富古樸之美，具歷史、文化、藝術價值。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "800",
+    "govInstitutionName": "高雄市政府",
+    "belongCityId": 18,
+    "belongCityName": "高雄市",
+    "belongDistName": "鹽埕區",
+    "govInstitution": "高雄市文化局",
+    "govDeptName": "文化資產中心",
+    "govDeptPhone": "07-2225136#8829",
+    "govDeptAddress": "高雄市苓雅區五福一路67號",
+    "reservationCode": "KH2003.010.009",
+    "amount": 1,
+    "notes": "",
+    "descAge": "1795",
+    "descSize": "長46.5公分、寬48公分",
+    "descMaterial": "紙",
+    "reserveStatusDesc": "大竹里埤頭街在今鳳山區境內，本件文物內有小破損，為重要史料。",
+    "pastHistorySource": 7,
+    "saveEnvironment": 4,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 77712,
+            "name": "本市古物公告96-99_page-0008.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-03/61add355-1507-4f50-a276-6e44f0752b41/本市古物公告96-99_page-0008.jpg"
+        },
+        {
+            "fileid": 77713,
+            "name": "961008-高市府史博字第0960050581號公告.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-03/06702c35-b29e-4306-aa1b-f3759569167c/961008-高市府史博字第0960050581號公告.jpg"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 120.286737,
+    "latitude": 22.626671,
+    "representImageSource": "高雄市立歷史博物館提供",
+    "keepNames": [
+        {
+            "keepNameIdStr": "高雄市立歷史博物館",
+            "keepName": "鍾子瑄",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "高雄市立歷史博物館",
+            "keepAddressNew": "高雄市鹽埕區河西路99號3樓",
+            "saveSpaceOther": "高雄市鹽埕區中正四路272號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "高雄市",
+            "keepNameDistName": "鹽埕區",
+            "keepNameAddress": "中正四路272號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "高雄市",
+            "distName": "鹽埕區",
+            "id": 148655,
+            "caseId": 3153,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1804,
+            "address": "河西路99號3樓"
+        }
+    ],
+    "announces": [
+        {
+            "id": 161610,
+            "caseId": 3153,
+            "caseStatus": true,
+            "registerDate": 1190995200000,
+            "officialDocNo": "高市府史博字第0960050581號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

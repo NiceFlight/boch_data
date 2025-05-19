@@ -1,0 +1,92 @@
+{
+    "id": 22667,
+    "caseId": "20240426000001",
+    "count": 297,
+    "shareCount": 0,
+    "representImage": 256051,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-04-26/01d72956-e546-4599-9a60-239ef7d18e30/圖片1_c.png"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-04-26/01d72956-e546-4599-9a60-239ef7d18e30/圖片1.png",
+        "name": "圖片1"
+    },
+    "caseName": "喜樹萬皇宮過化存神匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "數量稀少者"
+    ],
+    "registerReason": "1. 具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：匾詞「過化存神」表達對神明靈驗有加之稱譽，反映地方宗教信仰，具歷史文化價值，亦間接印證喜樹萬皇宮在地民間信仰習俗。\n\n2. 具有地方重要人物或歷史事件之深厚淵源者：過化存神匾上落款「甲子孟秋穀旦」、「信官王養敬立」，獻匾人王養歷史上確有其人，據《續修臺灣府志》與《乾隆帝起居注》可知，王養於乾隆6年~10年（1741~1745）任臺灣水師協鎮左營遊擊，是清初掌管臺灣海防的重要武官之一，其獻匾顯示與萬皇宮及地方之淵源關係。\n\n3. 數量稀少者：過化存神匾為具行草書法性強烈的清乾隆時期匾額，且獻匾者確有其人，符合史料記載且與地方民間信仰習俗相關之匾額，目前已知較為少見。\n",
+    "lawsReference": "符合《古物分級指定及廢止審查辦法》第2條第1項第1款、第2款、第5款之基準。",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "govInstitution": "臺南市文化局",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "台南市北區公園北路3號(許石音樂圖書館地下1樓)",
+    "reservationCode": "無",
+    "amount": 1,
+    "descAge": "1744",
+    "descSize": "長177cm、此匾高度不一致，上款處高66.5cm、中段高67cm、下款處66.8cm、平均高度66.8cm，厚4.2cm，板材不規整現象，顯示為手工切鋸製成。",
+    "descMaterial": "木質",
+    "reserveStatusDesc": "整片匾板以兩片木板拼接，匾面上可見接痕，背面可見兩條閂榫，呈現上寬下窄的樣式。匾板採用清代常見的闊葉木(樟科)，背後的木穿則是杉木(福州杉)。匾額整件上黑漆，中行字體採雙勾陰線刻，並貼金，行草「過化存神」四字，可見行氣與運筆留下的飛白。匾額上下款分別描金為「甲子孟秋穀旦」、「信官王養敬立」，王養曾任臺灣水師協鎮左營遊擊，歷史上確有其人，亦印證清代歷史中臺灣任官者與寺廟間經常往來並有贈匾之舉。",
+    "pastHistorySource": 7,
+    "saveEnvironment": 2,
+    "reserveStatus": "文物狀況大致良好",
+    "documents": [
+        {
+            "fileid": 256044,
+            "name": "01-喜樹萬皇宮過化存神匾公告new.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-04-26/17651e71-3ce4-4c65-a41b-498e44166b18/01-喜樹萬皇宮過化存神匾公告new.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "萬皇宮",
+    "keepNames": [
+        {
+            "keepNameIdStr": "喜樹萬皇宮",
+            "keepName": "蔡忠壽",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "喜樹萬皇宮",
+            "keepAddressNew": "702台南市南區喜樹路222巷52號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "南區",
+            "id": 134990,
+            "caseId": 22667,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1603,
+            "address": "喜樹路222巷52號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 147364,
+            "caseId": 22667,
+            "caseStatus": true,
+            "registerDate": 1712564716803,
+            "officialDocNo": "南市文資字1130403942A號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

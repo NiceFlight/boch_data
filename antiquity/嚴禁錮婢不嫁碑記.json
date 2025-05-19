@@ -1,0 +1,108 @@
+{
+    "id": 3250,
+    "caseId": "20150511000003",
+    "count": 961,
+    "shareCount": 0,
+    "representImage": 174648,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-07-21/40a6657a-6720-4750-babf-0bd0326f243c/古物023嚴禁錮碑不嫁碑記_P001_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-07-21/40a6657a-6720-4750-babf-0bd0326f243c/古物023嚴禁錮碑不嫁碑記_P001.jpg",
+        "name": "古物023嚴禁錮碑不嫁碑記_P001"
+    },
+    "caseName": "嚴禁錮婢不嫁碑記",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-其他",
+    "otherAssetsType": "圖書文獻",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1431273600000,
+    "officialDocNo": "府文資處字第1040415095B號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有珍貴及稀有性者"
+    ],
+    "registerReason": "清領時期臺灣社會錮婢風氣盛，主人讓她們終生服勞役或是將她們轉賣，換取金錢圖利。為遏止錮婢陋習，官方開始嚴禁終身禁錮婢女，而有「錮婢示禁碑」的產生。從示禁碑碑文可看出錮婢對社會產生的不良影響。\n此碑係清光緒十五年（西元 1889 年）臺灣府城芙蓉郊（即鴉片商）董事職員等鑑於奸徒販賣人口之風日熾，呈請縣府嚴禁富紳錮婢不嫁，以杜絕姦拐，整頓風化；而由安平縣知縣范克承給立告示，碑文中可看出臺灣民間販賣婦女、買賣人口狀況嚴重情況，認為錮婢不但敗壞社會風氣，而且嚴重擾亂地方治安，在封建父權時代下，流露人性的關懷。\n本碑為清領時期臺灣社會錮婢習俗及清光緒年間官府為矯此一惡習所作政令之歷史見證，亦為了解當時臺灣社會民情之珍貴歷史文獻。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第2條第1項第1、2、5款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "中西區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "reservationCode": "公告無資料",
+    "amount": 1,
+    "descAge": "1889（清光緒十五年）",
+    "descSize": "縱163公分*橫62公分*厚15公分",
+    "descMaterial": "花崗岩",
+    "reserveStatusDesc": "數量：1組1件。\n主要材質：花崗岩。\n尺寸：縱163公分*橫62公分*厚15公分。\n特徵：全碑無紋飾，額刻「告示」二字。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 2,
+    "reserveStatus": "公告無資料",
+    "documents": [
+        {
+            "fileid": 174644,
+            "name": "嚴禁錮碑不嫁碑記公告-104.05.11.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-21/e3cef4a8-845d-4740-bd3f-93e8f4c82393/嚴禁錮碑不嫁碑記公告-104.05.11.pdf"
+        },
+        {
+            "fileid": 174645,
+            "name": "嚴禁錮碑不嫁碑記公告表-104.05.11.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-21/6df865a2-eb8f-4735-9cef-8757062e8d4a/嚴禁錮碑不嫁碑記公告表-104.05.11.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.20295787302999,
+    "latitude": 22.986454185520678,
+    "representImageSource": " 臺南市政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "臺南市政府",
+            "keepName": "臺南市政府文化局",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "大南門碑林",
+            "keepAddressNew": "大南門碑林",
+            "saveSpaceOther": "大南門碑林",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺南市",
+            "keepNameDistName": "中西區",
+            "keepNameAddress": "南門路38號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "id": 92595,
+            "caseId": 3250,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601,
+            "address": "大南門碑林"
+        }
+    ],
+    "announces": [
+        {
+            "id": 99884,
+            "caseId": 3250,
+            "caseStatus": true,
+            "registerDate": 1431273600000,
+            "officialDocNo": "府文資處字第1040415095B號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

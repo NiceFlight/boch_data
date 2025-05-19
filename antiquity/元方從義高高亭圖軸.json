@@ -1,0 +1,107 @@
+{
+    "id": 4045,
+    "caseId": "20120326000100",
+    "count": 285,
+    "shareCount": 0,
+    "representImage": 6948,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/33031/photo/e14aa32b-5c74-4db9-a205-b570251bf49c_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/33031/photo/e14aa32b-5c74-4db9-a205-b570251bf49c.JPG",
+        "name": "e14aa32b-5c74-4db9-a205-b570251bf49c"
+    },
+    "caseName": "元方從義高高亭圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少"
+    ],
+    "registerReason": "方從義作品極少，畫風變化多端，本件墨韻奔放，自成一格，於古畫中為難得。其作品多為道友所作，本幅畫贈李子高，也是道教因緣。〈高高亭〉畫名可能來自子高字號，可謂開後世以別號作圖先河。方從義亦以隸書和草書聞名，本幅以隸書題「高高亭圖」四字，筆意縱逸高古，款識則以草書為之。具有特殊藝術造詣，品質精良且數量特別稀少。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第四條第一項第四、五款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000323",
+    "amount": 1,
+    "notes": "",
+    "descAge": "元",
+    "descCreator": "方從義",
+    "descSize": " 62.1 x 27.9（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "方從義（約1301－1378後），字無隅，號方壺，江西龍虎山上清宮道士。嘗藉遊歷名山大川，體認造化奧妙，故善畫山水。全幅以濕筆點刷山峰、樹木，全不見皴痕，白雲迴繞，更添山勢之高聳。以筆墨濃淡製造出山壁、高山的質感與量感，而濃淡的變化，更顯水墨淋漓，為醉後之筆而渾然天成。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 151950,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-27/41ca4812-16bf-4e7b-8b61-dfb6f4e289e1/公告.pdf"
+        },
+        {
+            "fileid": 151951,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-27/fa473eca-f116-40af-ac2d-a877834d72f5/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71552,
+            "caseId": 4045,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 76019,
+            "caseId": 4045,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

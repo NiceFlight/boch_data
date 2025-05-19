@@ -1,0 +1,106 @@
+{
+    "id": 3659,
+    "caseId": "20110211000004",
+    "count": 212,
+    "shareCount": 0,
+    "representImage": 6400,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32607/photo/09731d35-583d-4285-bfc9-6e465872b67c_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32607/photo/09731d35-583d-4285-bfc9-6e465872b67c.jpg",
+        "name": "09731d35-583d-4285-bfc9-6e465872b67c"
+    },
+    "caseName": "虎形尊",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1297353600000,
+    "officialDocNo": "會授資籌二字第10020006991號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要之時代特色、技術及流派",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "尊為商周青銅器中酒器之容酒器，形制象形如鳥形或獸形等，稱為鳥獸尊。\r\n此器為河南新鄭出土，屬春秋中期中原鄭公大墓遺物，為春秋時代出土青銅器中僅見之虎造型酒尊，十分罕見珍貴。本件通體作虎形，為青銅器中虎形之立體雕塑，故稱為虎形尊，具有高難度的造型藝術層次，屬青銅器中重要的盛酒器。虎頭張口為流口，背上圓蓋，有鏈相連接。頭頂有角，短頸肥身，尾上捲翹為把。具有重要歷史、文化價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第一、三、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "天字53號(h0000282)",
+    "keepNameId": 7,
+    "keepName": "國立歷史博物館",
+    "keepNameNew": 7,
+    "keepAddressNew": "100台北市中正區南海路49號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "春秋中期",
+    "descSize": "高22公分、長27公分",
+    "descMaterial": "青銅",
+    "reserveStatusDesc": "大致完整餘有老修補及修護",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "1923年河南新鄭鄭公大墓出土(代管文物)",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 53551,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-12-27/c6b473b8-ca00-466e-befc-50095057e5d9/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立歷史博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立歷史博物館",
+            "keepName": "國立歷史博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立歷史博物館",
+            "keepAddressNew": "100台北市中正區南海路49號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "徐州路21號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3801,
+            "caseId": 3659,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3801,
+            "caseId": 3659,
+            "caseStatus": true,
+            "registerDate": 1297353600000,
+            "officialDocNo": "會授資籌二字第10020006991號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

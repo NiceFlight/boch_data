@@ -1,0 +1,105 @@
+{
+    "id": 3644,
+    "caseId": "20100830000004",
+    "count": 334,
+    "shareCount": 1,
+    "representImage": 6385,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32592/photo/bb3529b5-9ccd-4832-be2b-e2304ad97d39_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32592/photo/bb3529b5-9ccd-4832-be2b-e2304ad97d39.jpg",
+        "name": "bb3529b5-9ccd-4832-be2b-e2304ad97d39"
+    },
+    "caseName": "康熙臺灣輿圖抄本",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖繪",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1283097600000,
+    "officialDocNo": "會授資籌二字第09920102141號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.康熙臺灣輿圖抄本，保存狀況佳，畫面黏貼現代地名對照，具有版本比較價值。2.反映17世紀末臺灣生活民情與山川形勢，具歷史及文化價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。2.符合「古物分級登錄指定及廢止審查辦法」第三條第一項第一、二、六款、第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "AH1624",
+    "keepNameId": 4,
+    "keepName": "國立臺灣博物館",
+    "keepNameNew": 4,
+    "keepAddressNew": "100台北市中正區襄陽路2號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 1,
+    "amount": 1,
+    "notes": "1.山中樵，1931，論黃叔璥之臺灣番社圖，南方土俗1(3)：29-35。2.\t方豪，1969，康熙五十三年測繪臺灣地圖考，方豪六十自定稿上冊。3.夏黎明，1996，清代地圖演變史，知書房，臺北。4.洪英聖，1999，畫說康熙臺灣輿圖，行政院文化建設委員會中部辦公室，南投。5.翁佳音，2004，康熙臺灣輿圖史料調查研究計畫期末報告，國立臺灣博物館委託財團法人自由思想學術基金會研究計畫。",
+    "descAge": "20世紀初",
+    "descSize": "565×69cm",
+    "descMaterial": "絹本設色",
+    "reserveStatusDesc": "1.略有蛀蝕2.畫面已黏貼現代地名對照",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "1945年由臺灣省立博物館接收，典藏至今",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 53297,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-12-25/f79aa7aa-142e-4623-a4ef-ddc1679baa69/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立臺灣博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立臺灣博物館",
+            "keepName": "國立臺灣博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立臺灣博物館",
+            "keepAddressNew": "100台北市中正區襄陽路2號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "襄陽路2號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3786,
+            "caseId": 3644,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3786,
+            "caseId": 3644,
+            "caseStatus": true,
+            "registerDate": 1283097600000,
+            "officialDocNo": "會授資籌二字第09920102141號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

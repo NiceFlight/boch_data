@@ -1,0 +1,105 @@
+{
+    "id": 3408,
+    "caseId": "20131219000032",
+    "count": 65,
+    "shareCount": 0,
+    "representImage": 5940,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7178/photo/闕里誌(明刊本)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7178/photo/闕里誌(明刊本).jpg",
+        "name": "闕里誌(明刊本)"
+    },
+    "caseName": "闕里誌(明刊本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1387382400000,
+    "officialDocNo": "文資局物字第 10220148851號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "明弘治乙丑(十八年，1505)刊本。\n撰者陳鎬（？-1511），字宗之，號矩庵，會稽人。成化二十三年（1487），登進士，授禮部主事，官至右副都御史。\n闕里者，孔子所居之地，道德政教之所從出，其誌之也固宜。宋元間，族人間有記述，久而不傳；明成化末，山東布政使張秦嘗輯孔、顏、孟三志，其傳未廣。及弘治間（1488-1505），曲阜新廟落成，李東陽承命致祭，時陳鎬為提學副史，乃參閱閣本數種及孔氏諸書、遺碑斷刻等，編次成書。\n明代罕見之版本，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號02437",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 8,
+    "notes": "",
+    "descAge": "明弘治乙丑（18年，1505）刊本",
+    "descCreator": "明陳鎬撰",
+    "descSize": "半葉10行，版匡22.2x13.4公分",
+    "descMaterial": "紙質刊本",
+    "reserveStatusDesc": "十三卷。闕里者，孔子所居之地，道德政教之所從出，其誌之也固宜。宋元間，族人間有記述，久而不傳；明成化末，山東布政使張秦嘗輯孔、顏、孟三志，其傳未廣。及弘治間（1488-1505），曲阜新廟落成，李東陽承命致祭，時陳鎬為提學副史，乃參閱閣本數種及孔氏諸書、遺碑斷刻等，編次成書。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "無虫蛀。（未經修裱。但全書天頭、地脚及近書口處有水漬痕跡）保狀存況良好。",
+    "documents": [
+        {
+            "fileid": 5941,
+            "name": "f1adfc0f-9893-4a23-832c-0a29a4f4a991.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44023/file/f1adfc0f-9893-4a23-832c-0a29a4f4a991.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3550,
+            "caseId": 3408,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3550,
+            "caseId": 3408,
+            "caseStatus": true,
+            "registerDate": 1387382400000,
+            "officialDocNo": "文資局物字第 10220148851號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

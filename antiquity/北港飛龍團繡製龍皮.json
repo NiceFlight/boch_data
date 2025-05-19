@@ -1,0 +1,105 @@
+{
+    "id": 3054,
+    "caseId": "20140205000005",
+    "count": 644,
+    "shareCount": 1,
+    "representImage": 150903,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-01-20/f20bf76c-2ab3-4c04-b554-245c44a8295c/IMG_0815_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-01-20/f20bf76c-2ab3-4c04-b554-245c44a8295c/IMG_0815.jpg",
+        "name": "IMG_0815"
+    },
+    "caseName": "北港飛龍團繡製龍皮",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1391529600000,
+    "officialDocNo": "府文資字第1037400921A號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "(一)本件器物乃大型繡製龍皮極為罕見，且保存狀況堪稱良好，足堪見證北港陣頭的歷史演變。\r\n(二)年代久遠，並具備北港地區之宗教文化特色。\r\n(三)雖為平繡，但工法細緻，可見證台灣繡工的特色。",
+    "lawsReference": "符合文化資產保存法第65條暨古物分級登錄指定及廢止審查辦法第2條第1項第1、2、3、4、5、6款之基準。",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "belongCityId": 13,
+    "belongCityName": "雲林縣",
+    "belongDistName": "北港鎮",
+    "govInstitution": "雲林縣政府",
+    "govDeptName": "文化觀光處",
+    "govDeptPhone": "(05)5523218",
+    "govDeptAddress": "雲林縣斗六市大學路三段310號",
+    "reservationCode": "暫無",
+    "amount": 1,
+    "notes": "",
+    "descAge": "昭和元年(1926年)",
+    "descSize": "全長2040公分、寬160公分、高2公分",
+    "descMaterial": "布、蔥線、小圓鏡等",
+    "reserveStatusDesc": "北港飛龍團繡製龍皮製作於昭和元年（1926年），主要材質為布、蔥線、小圓鏡等，為龍身外披（全長2040公分、寬160公分、高2公分），採手工平繡方式製作，並於青藍色龍鱗上縫製小圓鏡，舞動時耀眼發光，乃全台罕見。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定 ",
+    "documents": [
+        {
+            "fileid": 142102,
+            "name": "中華民國103年02月05日 府文資二字第1037400921號 北港飛龍團繡製龍皮.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-10-31/96e4efb6-122b-4bb1-907e-df315277c2dc/中華民國103年02月05日 府文資二字第1037400921號 北港飛龍團繡製龍皮.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 23.571303214786745,
+    "latitude": 120.30607819144952,
+    "representImageSource": "侯宗延先生",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "北港飛龍團",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "雲林縣北港鎮公館里 2鄰仁和路102號",
+            "saveSpaceIdStr": "民俗團體",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "北港鎮",
+            "id": 76847,
+            "caseId": 3054,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1316,
+            "address": "仁和路102號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 82541,
+            "caseId": 3054,
+            "caseStatus": true,
+            "registerDate": 1391529600000,
+            "officialDocNo": "府文資字第1037400921C號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

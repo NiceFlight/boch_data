@@ -1,0 +1,91 @@
+{
+    "id": 3178,
+    "caseId": "20061019000013",
+    "count": 281,
+    "shareCount": 0,
+    "caseName": "祈禱箱-5",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-其他",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1161187200000,
+    "officialDocNo": "屏府文博字第0950206631號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有一定之時代特色、技術及流派",
+        "具有珍貴及稀有性者"
+    ],
+    "registerReason": "排灣系的祈禱箱，具有地區性及時代性的表現特色（年代久遠、稀有性高）。",
+    "lawsReference": "文化資產保存法第65條暨古物分級登錄指定及廢止審查辦法第5條、第7條及第8辦理。",
+    "govInstitutionCode": "900",
+    "govInstitutionName": "屏東縣政府",
+    "belongCityId": 20,
+    "belongCityName": "屏東縣",
+    "belongDistName": "屏東市",
+    "govInstitution": " ",
+    "govDeptName": " ",
+    "govDeptPhone": " ",
+    "govDeptAddress": " ",
+    "reservationCode": " ",
+    "keepNameId": 17,
+    "keepName": "屏東縣政府文化處",
+    "keepNameNew": 17,
+    "keepAddressNew": "屏東縣屏東市大連路69號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": " ",
+    "descSize": " ",
+    "descMaterial": " ",
+    "reserveStatusDesc": "種類:宗教用具 \r\n數量:1\r\n年代:不詳 \r\n作者:不詳\r\n材質:木、麻 \r\n重量:270g\r\n形狀:長型 \r\n尺寸:13.5 × 10.5 × 4 ㎝",
+    "pastHistorySource": 2,
+    "pastHistorySourceNotes": " ",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [],
+    "isOpenDownload": false,
+    "representImageSource": "",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "屏東縣政府文化處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "屏東縣屏東市大連路69號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "屏東縣",
+            "distName": "屏東市",
+            "id": 3317,
+            "caseId": 3178,
+            "caseStatus": true,
+            "cityId": 20,
+            "distId": 2001
+        }
+    ],
+    "announces": [
+        {
+            "id": 3317,
+            "caseId": 3178,
+            "caseStatus": true,
+            "registerDate": 1161187200000,
+            "officialDocNo": "屏府文博字第0950206631號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

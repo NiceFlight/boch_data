@@ -1,0 +1,107 @@
+{
+    "id": 17283,
+    "caseId": "20200108000012",
+    "count": 229,
+    "shareCount": 0,
+    "representImage": 64776,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-01-08/cc69d8f9-6d6c-4dcf-9b0f-7302f26cebd3/11-1-中-瓷-002918_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-01-08/cc69d8f9-6d6c-4dcf-9b0f-7302f26cebd3/11-1-中-瓷-002918.jpg",
+        "name": "11-1-中-瓷-002918"
+    },
+    "caseName": "清乾隆洋彩冬景山水梅瓶（一對）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1577160315118,
+    "officialDocNo": "中華民國108年12月24日文授資局物字第10830139531號",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "數量特別稀少或具完整性保存意義者",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "兩器為梅瓶造形。器面以透明及半透明琺瑯白釉敷地，畫雪景山水。另面隸書題乾隆御製詩。硃紅描繪「樂善堂」、「保合太合」、「萬邦咸寧」三印。器底青花書「大清乾隆年製」三行六字篆款。\n此器為對瓶，對瓶構圖完全相同，款識亦為六字青花篆款，設色特別，技法亦屬罕見。以吹釉厚薄呈現灰濛冰寒的氣候，技法純熟，畫工精湛。另外，此器可對照乾隆七年《活計檔》的紀錄，益顯珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "中瓷002918、中瓷002919",
+    "amount": 2,
+    "descAge": "清　乾隆",
+    "descSize": "(1) 高 19.8、口徑 3.6、底徑 5 公分；(2) 高 19.9、口徑 3.6、底徑 5.3 公分",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "兩器侈口短頸，器腹上豐下斂，平底，為梅瓶器形。器表以透明及半透明琺瑯白料為背景地，上以淡赭、墨彩、玻璃白料畫冬季雪景山水，漁翁披簑衣獨坐舟上垂釣，灰濛冰寒的氣候以吹釉技法吹出厚薄不同的釉層來呈現，技法純熟精湛。\n另一面隸書乾隆御製詩文，引首硃紅描繪「樂善堂」，詩末「保合太和」、「萬邦咸寧」三印。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "皆良好。",
+    "documents": [
+        {
+            "fileid": 144789,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-15/f9fa443d-6440-4eb1-8846-d97b61cb9eac/公告.pdf"
+        },
+        {
+            "fileid": 144790,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-15/f0b3c62e-fdf4-4cb8-a283-a5ecfc565f09/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "11143臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71925,
+            "caseId": 17283,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 76443,
+            "caseId": 17283,
+            "caseStatus": true,
+            "registerDate": 1577160315118,
+            "officialDocNo": "中華民國108年12月24日文授資局物字第10830139531號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

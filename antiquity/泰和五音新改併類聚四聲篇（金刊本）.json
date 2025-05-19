@@ -1,0 +1,105 @@
+{
+    "id": 3566,
+    "caseId": "20130813000021",
+    "count": 224,
+    "shareCount": 0,
+    "representImage": 6235,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7275/photo/泰和五音新改併類聚四聲篇（金刊本）_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7275/photo/泰和五音新改併類聚四聲篇（金刊本）.png",
+        "name": "泰和五音新改併類聚四聲篇（金刊本）"
+    },
+    "caseName": "泰和五音新改併類聚四聲篇（金刊本）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1376323200000,
+    "officialDocNo": "文資局物字第 10220091271號",
+    "judgeCriteria": [
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "金崇慶間（1212）刊元代修補本。\r\n初韓孝彥編著《四聲篇海》，是古代字書史上收字最多的一部字書，後代的大型字書如《康熙字典》等求全求備，都從《四聲篇海》取字。後經其子韓道昭依聲母五音改併成此書。原十五卷，今存序目卷一、四聲卷二、四聲卷三。此書雖為殘卷，因流傳不多，金刊為現存最早刻本。可作為研究古代中國語言學史的重要參考資料。\r\n金版古籍，罕見稀有，具特殊歷史、文化與學術價值。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第4條第1項第5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化資產局",
+    "govDeptName": "古物科",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "書號01088",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "金崇慶間（1212）",
+    "descCreator": "金韓道昭撰",
+    "descSize": "半葉13行，版匡21x14.5公分",
+    "descMaterial": "紙",
+    "reserveStatusDesc": "存三卷(序目卷一、四聲卷二、四聲卷三)。\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 6236,
+            "name": "dbb55280-4330-4e03-bdd9-66d4aac37ef5.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44160/file/dbb55280-4330-4e03-bdd9-66d4aac37ef5.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3708,
+            "caseId": 3566,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3708,
+            "caseId": 3566,
+            "caseStatus": true,
+            "registerDate": 1376323200000,
+            "officialDocNo": "文資局物字第 10220091271號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

@@ -1,0 +1,100 @@
+{
+    "id": 17341,
+    "caseId": "20200207000002",
+    "count": 479,
+    "shareCount": 0,
+    "representImage": 65797,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-02-07/8daabfbd-c4a5-4501-a317-8880d46f324a/IMG_1500_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-02-07/8daabfbd-c4a5-4501-a317-8880d46f324a/IMG_1500.jpg",
+        "name": "IMG_1500"
+    },
+    "caseName": "澎湖天后宮「節孝雙高」匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1570604015068,
+    "officialDocNo": "中華民國108年10月7日府授文博字第1083703357號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色"
+    ],
+    "registerReason": "1、具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：本匾位於節孝祠空間位置，該祠原為獨立修建之祠，因清法戰爭而毀，後納入天后宮中。此匾突顯昔日對節孝高誼之肯定。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00646-P-106-0014",
+    "amount": 1,
+    "notes": "道光18年（1838）澎湖通判魏彥儀於天后宮之西偏捐建節孝祠，依照廳志所載，最後一次可考為1879年再由媽宮仕紳重修，不過隨後不久清法戰爭澎湖戰役爆發，加上今日天后宮為大正年間重建的基礎，今日於天后宮正殿右廂之節孝祠，據內所祀的貞節婦女牌位之落款為大正14年，外掛有「節孝祠」匾及「節孝雙高」匾雖然無款，但依其形制當屬同時期之文物。",
+    "descAge": "日治時期",
+    "descSize": "寬約120公分",
+    "descMaterial": "木",
+    "reserveStatusDesc": "橫長形木匾，匾面燻黑，原似為暗紅色漆，外框簡素飾弦紋。中行陰刻白描勾邊，題「節孝雙（隻隻）高」，前一圓印，後二方印「和氣」與「團圓」。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "時間：大正拾貳年季冬月　吉旦    捐贈者：臺厦郊眾舖戶仝敬獻",
+    "saveEnvironment": 2,
+    "reserveStatus": "澎湖天后宮節孝祠神龕上方",
+    "documents": [
+        {
+            "fileid": 119239,
+            "name": "澎湖天后宮節孝雙高匾公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-06-16/b0679f83-c7fd-4a9b-85fa-1b88da1b8aee/澎湖天后宮節孝雙高匾公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.564038,
+    "latitude": 23.564693,
+    "representImageSource": "澎湖縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "澎湖天后宮",
+            "keepName": "蔡光明",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "澎湖天后宮",
+            "keepAddressNew": "澎湖縣馬公市中央里正義街1號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 127642,
+            "caseId": 17341,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "中央里正義街1號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 138564,
+            "caseId": 17341,
+            "caseStatus": true,
+            "registerDate": 1570604015068,
+            "officialDocNo": "府授文博字第1083703357號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

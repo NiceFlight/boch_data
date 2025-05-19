@@ -1,0 +1,107 @@
+{
+    "id": 17584,
+    "caseId": "20200507000005",
+    "count": 164,
+    "shareCount": 0,
+    "representImage": 68868,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-05-07/cd2e0f86-7846-404b-9106-df576804298c/PK2B000197N000000000PAA_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-05-07/cd2e0f86-7846-404b-9106-df576804298c/PK2B000197N000000000PAA.jpg",
+        "name": "PK2B000197N000000000PAA"
+    },
+    "caseName": "明王問詩帖 冊",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1588754014812,
+    "officialDocNo": "中華民國109年5月6日文授資局物字第10930050881號",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就"
+    ],
+    "registerReason": "王問（1497-1576），字子裕，無錫人，嘉靖時期（1522-1566）為名望甚高隱儒，工詩文書畫，向其求書畫者眾。\n此作書於1557年，王問於題識中提及繪製一圖贈「石川翁」作為七十歲壽禮，並於其上另書此賦。其筆畫狂放中又見節制，可見豐厚書學根柢，書風摻入米芾、懷素、黃庭堅等大師特色，品質精良，洵為王問代表書蹟。其後另有文震亨（1576-1645）鑑賞跋。\n王世貞（1526-1590）對王問擘窠大字及飛白狂草讚賞有加，稱其「遒逸勁迅，神采飛動」，正可為此作註腳。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第4款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故書000197",
+    "amount": 1,
+    "descAge": "明",
+    "descCreator": "王問",
+    "descSize": "27.5x31.7公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "王問（1497-1576），字子裕，無錫人。嘉靖十七年（1538）進士，工詩文書畫。此作書於1557年。王問於題識中提到自己繪製一圖送給「石川翁」作為七十歲的生日禮物，並在其上另書此賦。其筆畫狂放中又見節制，並可見豐厚的書學根柢，摻入米芾、懷素、黃庭堅等大師書風。其後另有文震亨（1576-1645）的鑑賞跋。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "",
+    "saveEnvironment": 1,
+    "reserveStatus": "舊傷補 。",
+    "documents": [
+        {
+            "fileid": 68866,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-05-07/53d0c45a-32b1-4189-8a7c-c27f2f523fa2/公告.pdf"
+        },
+        {
+            "fileid": 68867,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-05-07/a8f949a8-e621-46fa-b82e-3f96e8816d58/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "台北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 67263,
+            "caseId": 17584,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 71460,
+            "caseId": 17584,
+            "caseStatus": true,
+            "registerDate": 1588754014812,
+            "officialDocNo": "中華民國109年5月6日文授資局物字第10930050881號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

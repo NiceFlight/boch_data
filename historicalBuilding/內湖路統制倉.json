@@ -1,0 +1,133 @@
+{
+    "id": 1090,
+    "caseId": "20051013000001",
+    "count": 5326,
+    "shareCount": 2,
+    "representImage": 200694,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/773af09d-ffdd-4531-8f29-5d066b5c662b/代表圖像_內湖路統制倉_20221114_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/773af09d-ffdd-4531-8f29-5d066b5c662b/代表圖像_內湖路統制倉_20221114.jpg",
+        "name": "代表圖像_內湖路統制倉_20221114"
+    },
+    "caseName": "內湖路統制倉",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本建築為日據時期制式之規格糧倉建築形式，當時日本在台灣各郡、街建立許多統一型制「統制倉」，其尺寸為25公尺×12公尺。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "建築物類",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 167997,
+            "name": "94年公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/a4cef4e3-7a74-4e6b-85cc-dbd7c2bca0e6/94年公告.pdf"
+        },
+        {
+            "fileid": 168000,
+            "name": "111年公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-06-15/b89848b6-84ee-4d84-a189-cc32d7939e84/111年公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "1.本建築約建於1939年，為日據時期制式之規格糧倉建築形式，大垮距木桁架仍為原始構件。\n2.本建築見證內湖地區發展歷史，反映日據時期歷史文化背景，位居內湖庄早期發展政治、經濟中心位置，具歷史記憶之價值，具歷史記憶之價值。",
+    "lawsReference": "符合歷史建築紀念建築登錄廢止審查及輔助辦法第2條第3款評定基準",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 167998,
+            "name": "c6057fe5-8731-4b69-a6fe-3d036236fd16.PNG",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/ccf2894b-9ba4-4f33-84cd-c943ec260317/c6057fe5-8731-4b69-a6fe-3d036236fd16.PNG"
+        },
+        {
+            "fileid": 167999,
+            "name": "歷史建築「內湖路統制倉」定著土地變更公告示意圖(奉核版).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/09288dda-4e04-47c6-8b46-2b394992fd13/歷史建築「內湖路統制倉」定著土地變更公告示意圖(奉核版).pdf"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市文德段一小段86地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "本歷史建物已於民國98至104年間辦理地區都市更新計畫，並於104年下半年完工，原建築物之木桁架經拆解留存並養護後，再行組裝於市定古蹟「內湖庄役場會議室」（今內湖公民會館）後方，可供民眾近距離欣賞大垮距木桁架之原始構件與形式，以及日據時期制式之規格糧倉建築形式，具歷史記憶之價值。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenVisit": false,
+    "isOpenDownload": false,
+    "longitude": 121.5898859,
+    "latitude": 25.0814075,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市文德段一小段319地號",
+    "selfCoverage": "本體為木造屋桁屋架，建造物無建號登記，坐落於內湖區文德段一小段319地號(保存面積212.53平方公尺)",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "內湖區",
+            "id": 105813,
+            "caseId": 1090,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 110,
+            "address": "文德段一小段319地號(現位於成功路三段174巷26弄周邊)"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "內湖區",
+            "landNoName": "文德段一小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 130017,
+            "caseId": 1090,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 110,
+            "landNoId": 272,
+            "landSerialNo": "319",
+            "landownership": 3,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "212.53平方公尺",
+            "note": "定著土地變更前:內湖區文德段一小段86地號，公有，959平方公尺",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 113416,
+            "caseId": 1090,
+            "caseStatus": true,
+            "registerDate": 1129132800000,
+            "officialDocNo": "府文化二字第09406172600號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        },
+        {
+            "id": 113417,
+            "caseId": 1090,
+            "caseStatus": true,
+            "registerDate": 1651161600000,
+            "officialDocNo": "北市文化文資字第11130145291號",
+            "classificationId": 2,
+            "note": "變更定著土地"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

@@ -1,0 +1,99 @@
+{
+    "id": 4234,
+    "caseId": "20090508000025",
+    "count": 207,
+    "shareCount": 0,
+    "representImage": 7154,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36651/photo/4e7a55da-dbb1-49d7-9e3a-8f3a59d3ea9d_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36651/photo/4e7a55da-dbb1-49d7-9e3a-8f3a59d3ea9d.jpg",
+        "name": "4e7a55da-dbb1-49d7-9e3a-8f3a59d3ea9d"
+    },
+    "caseName": "鑲嵌綠松石軛首飾組",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1241712000000,
+    "officialDocNo": "會授資籌二字第0982105246號",
+    "judgeCriteria": [
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "商代的馬車為二馬駕一車，軛整體呈人字形，以革帶固定在車衡上，左右各一，下端跨在馬肩上，再以革帶縛在馬胸前。商代的軛有的以青銅一體成形，內填木料；也有以木材為主，而在上下端套以青銅飾件，這組器物屬於後者，全器鑲嵌綠松石，極為講究，且製作精美，綠松石部份保存完整，具有重要歷史、文化、科學價值",
+    "lawsReference": "「文化資產保存法」第66條。「古物分級登錄指定及廢止審查辦法」第3條第1項第1、5、6款、第6、7條",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "南港區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "R015324_1、R015324_2",
+    "amount": 2,
+    "notes": "",
+    "descAge": "商（後期）",
+    "descCreator": "",
+    "descSize": "高6.13公分、徑4.1公分",
+    "descMaterial": "青銅、綠松石",
+    "reserveStatusDesc": "束腰圓筒形，中空，下端無底，兩端粗，中細似頸，兩旁各有一孔，可以對穿，頂端表面飾一六角星形紋，上端飾三角紋六個，下端飾獸面紋，紋飾間鑲嵌綠松石。",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": " 西北岡墓1136與1137合墓 ",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 53991,
+            "name": "20090508公告.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-01-09/a869736a-d6f5-4582-b776-f36e1c0b0f17/20090508公告.jpg"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "中央研究院歷史語言研究所",
+    "keepNames": [
+        {
+            "keepNameIdStr": "中央研究院歷史語言研究所",
+            "keepName": "中央研究院歷史語言研究所",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "中央研究院歷史語言研究所",
+            "keepAddressNew": "115台北市南港區研究院路二段130號",
+            "saveSpaceIdStr": "研究設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "南港區",
+            "keepNameAddress": "研究院路二段130號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "南港區",
+            "id": 116477,
+            "caseId": 4234,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 111
+        }
+    ],
+    "announces": [
+        {
+            "id": 127180,
+            "caseId": 4234,
+            "caseStatus": true,
+            "registerDate": 1241712000000,
+            "officialDocNo": "會授資籌二字第0982105246號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

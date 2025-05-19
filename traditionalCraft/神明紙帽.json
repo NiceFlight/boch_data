@@ -1,0 +1,101 @@
+{
+    "id": 2688,
+    "caseId": "20160722000002",
+    "count": 589,
+    "shareCount": 1,
+    "representImage": 15602,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/traditional_art/134960/photo/DSC08966_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/traditional_art/134960/photo/DSC08966.JPG",
+        "name": "DSC08966"
+    },
+    "caseName": "神明紙帽",
+    "classifyCode": "4.2",
+    "classifyName": "傳統工藝",
+    "assetsTypeNames": "其他",
+    "otherAssetsType": "紙屬工藝-神明紙帽",
+    "assetsClassifyCode": "4.2.1",
+    "assetsClassifyName": "傳統工藝",
+    "registerDate": 1469116800000,
+    "officialDocNo": "府文資處字第1050718743A號",
+    "documents": [
+        {
+            "fileid": 185654,
+            "name": "神明紙帽公告表(高啟舜)-105.07.22.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-09-28/f43498fd-40a4-44b0-8c26-f6a8f57015d8/神明紙帽公告表(高啟舜)-105.07.22.pdf"
+        },
+        {
+            "fileid": 185655,
+            "name": "神明紙帽公告(高啟舜)-105.07.22.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-09-28/2c424cf7-bf8f-41ed-8149-8b1d5fa7b72b/神明紙帽公告(高啟舜)-105.07.22.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "藝術性:具有藝術價值者",
+        "特殊性:構成傳統藝術之特殊藝能表現,其技法優秀者",
+        "地方性:傳統藝術領域有價值與地位,並具有地方色彩或流派特色顯著者"
+    ],
+    "registerReason": "1.\t作品樣式多元，在立體造型、多層次裝飾、粉線做工等細緻精巧、簡約貴氣，具有藝術價值。\r\n2.\t講究神明紙帽規制與禮制，有傳統表現、考證，也有創新改革，製作工法融入現代設計觀念，如紙帽內襯網紗、雙紙結合、以CAD繪圖、雷射切割等，具有特殊性。\r\n3.\t無師自通，自成一派，為府城紙帽製作之重要代表者。",
+    "lawsReference": "1.\t「文化資產保存法」第59條第1項規定。\r\n2.\t「傳統藝術民俗及有關文物登錄指定及廢止審查辦法」第2條第1項第1款第1、2、3目。\r\n",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569 ",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "belongAddress": "文賢路",
+    "historyDevelopment": "無",
+    "preservers": [
+        {
+            "id": 5008,
+            "type": "個人",
+            "caseName": "高啓舜 (歿)",
+            "cityName": "臺南市",
+            "distName": "北區",
+            "caseArtistEntities": [],
+            "representImage": 185656,
+            "registrationDate": 1469116800000,
+            "patentNo": "府文資處字第1050718743A號",
+            "judgeCriteria": [
+                "熟知並能正確體現該登錄項目之知識、技藝與文化表現形式",
+                "具該登錄項目之傳習能力與意願",
+                "在文化脈絡下為適當者"
+            ],
+            "registerReason": "依2016年公告無認定理由",
+            "lawsReference": "1. 「文化資產保存法」第59條第1項規定。\n2. 「傳統藝術民俗及有關文物登錄指定及廢止審查辦法」第2條第1項第1款第1、2、3目。",
+            "school": "1964年（民國五十三年）生，為府城頂大道人。原朝向傳統彩繪發展，但於2003年（民國一百零四年）投入傳統紙帽創作。參賽作品屢獲佳績。",
+            "isOpenDownload": false,
+            "representImageSource": " 臺南市文化資產管理處",
+            "contactorIsOpen": false
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "臺南市文化資產處",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "北區",
+            "id": 92762,
+            "caseId": 2688,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1605,
+            "address": "文賢路"
+        }
+    ],
+    "announces": [
+        {
+            "id": 100060,
+            "caseId": 2688,
+            "caseStatus": true,
+            "registerDate": 1469116800000,
+            "officialDocNo": "府文資處字第1050718743A號",
+            "classificationId": 1
+        }
+    ]
+}

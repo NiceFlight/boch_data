@@ -1,0 +1,106 @@
+{
+    "id": 16580,
+    "caseId": "20190215000019",
+    "count": 139,
+    "shareCount": 0,
+    "representImage": 55493,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-02-15/5182d42a-629b-4f35-bc9e-2e8983aa6ab9/20-中銅000437_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-02-15/5182d42a-629b-4f35-bc9e-2e8983aa6ab9/20-中銅000437.jpg",
+        "name": "20-中銅000437"
+    },
+    "caseName": "政和鼎",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1550131351246,
+    "officialDocNo": "文授資局物字第10830016641號",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此鼎為宋徽宗於政和六年（1116）所鑄，立耳，圓腹，三柱足，腹身以稜脊作間隔，飾三組獸面紋。全器仿造商末周初之銅鼎樣式，如國立故宮博物院藏〈商代晚期串父癸鼎〉（中銅449）即與此器形制及紋飾十分相近。器內銘文採西周字形、語彙撰述，記徽宗沿襲周代賞賜功臣銅器的作法，作器賜與重臣童貫，作為祭祀祖先的廟堂祭器。器形、銘文力追三代風貌，見證宋徽宗直追三代、復興古禮的意圖與實踐。\n北宋徽宗朝大規模重塑三代精神，頒布《政和五禮新儀》，設禮制局製造彝器，作為天子親祀和朝臣家廟祭器使用，君臣關係也循周天子賞賜有功臣士的模式展現。此器即為此歷史情境下鑄造多件〈政和鼎〉中之一件。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、3、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "中銅000437",
+    "amount": 1,
+    "descAge": "北宋政和六年（西元1116年）",
+    "descSize": "高23.0公分/口徑19.3公分/腹徑10.7公分/重2405公克",
+    "descMaterial": "銅/鑄造",
+    "reserveStatusDesc": "此鼎為政和六年（1116）所鑄，全器仿造商末周初之銅鼎樣式，立耳，圓腹，三柱足，腹身以稜脊作間隔，飾三組獸面紋。\n器內底鑄有銘文三十三字：\n唯政龢六年，十又一月甲午，帝命作鉶鼎，易（賜）領樞密院事貫，以祀其先，子孫其永保之。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "現況：\n1. 舊補銹色脫落\n2. 內壁近底舊補銹色脫落\n3. 口沿傷缺\n4. 器耳傷缺\n5. 搖動器物，足內會發出異物聲響",
+    "documents": [
+        {
+            "fileid": 146815,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-02/30cb2cd7-8a6e-41a2-8c66-212bb65c3740/公告.pdf"
+        },
+        {
+            "fileid": 146816,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-02/e5762484-dbc7-4d48-8cfc-c172dd2be0dc/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 79049,
+            "caseId": 16580,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 84839,
+            "caseId": 16580,
+            "caseStatus": true,
+            "registerDate": 1550131351246,
+            "officialDocNo": "文授資局物字第10830016641號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

@@ -1,0 +1,99 @@
+{
+    "id": 21516,
+    "caseId": "20230130000005",
+    "count": 320,
+    "shareCount": 0,
+    "representImage": 206207,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-01-30/a388c3ef-8d2b-4856-809d-390c4946d145/華視新聞與資料膠卷照片_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-01-30/a388c3ef-8d2b-4856-809d-390c4946d145/華視新聞與資料膠卷照片.jpg",
+        "name": "華視新聞與資料膠卷照片"
+    },
+    "caseName": "華視新聞與資料膠卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-影音資料",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "數量稀少者"
+    ],
+    "registerReason": "1.具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文\n化特色：影像內容收錄 1970-1985 年間北港朝天宮媽祖繞境、樂生療養院歷史影像、烏腳病調查、颱風災情等歷史畫面。\n2.具有地方重要人物或歷史事件之深厚淵源：收錄 1970-1985 年中華民國\n行政首長及國防將領專輯，紀錄蔣介石、蔣經國、嚴家淦、謝東閔、王昇、宋長志、孫運璿、蔣緯國等國家首長新聞彙集。\n3.能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者：影像內容收錄 1970 1985 年間新聞片段，反映該時代常民生活及社會樣貌。\n4.數量稀少者：屬現存唯一存在、已無複本的一批 16 mm 膠卷，未來透過數位轉檔，可能得以發揮其影音全幅素質。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2、3、5款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "萬華區中華路一段174-1號",
+    "reservationCode": "1-337",
+    "amount": 337,
+    "descAge": "1970-1985",
+    "descSize": "無法測量",
+    "descMaterial": "16mm膠卷，塑料、金屬、化學塗層",
+    "reserveStatusDesc": "本批337捲膠卷，規格為16mm，內容以新聞片為多數，大致上可分為：國家行政首長國防將領專輯、華視重要建設影片、國外採訪風光影片、體育比賽與足球示範、器物古物介紹、政績宣傳、新聞；第一部動畫片〈平平與安安〉；反共、軍政相關影片、其他專題報導如樂生療養院、烏腳病、媽祖繞境、颱風災情等。",
+    "pastHistorySource": 7,
+    "pastHistorySourceNotes": "華視製作",
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況不良，需維護",
+    "documents": [
+        {
+            "fileid": 206206,
+            "name": "111年12月8日北市獻編字第1113004261號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-01-30/5cbe1f57-9c8d-49fe-b78f-299c4b07967d/111年12月8日北市獻編字第1113004261號公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.37616,
+    "latitude": 23.18708,
+    "representImageSource": "中華電視股份有限公司",
+    "keepNames": [
+        {
+            "keepNameIdStr": "中華電視股份有限公司",
+            "keepName": "中華電視股份有限公司",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立臺南藝術大學",
+            "keepAddressNew": "臺南市官田區大崎66號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "學校",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺南市",
+            "keepNameDistName": "官田區",
+            "keepNameAddress": "大崎里大崎66號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "官田區",
+            "id": 107169,
+            "caseId": 21516,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1618,
+            "address": "大崎66號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 115038,
+            "caseId": 21516,
+            "caseStatus": true,
+            "registerDate": 1670428800000,
+            "officialDocNo": "北市獻編字第1113004261號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

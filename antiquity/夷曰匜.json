@@ -1,0 +1,107 @@
+{
+    "id": 16570,
+    "caseId": "20190215000009",
+    "count": 608,
+    "shareCount": 0,
+    "representImage": 55451,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-02-15/08d653ed-d1b0-45d9-8e66-8211ada6d4b3/11-購-銅-000169_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-02-15/08d653ed-d1b0-45d9-8e66-8211ada6d4b3/11-購-銅-000169.jpg",
+        "name": "11-購-銅-000169"
+    },
+    "caseName": "夷曰匜",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1550123752454,
+    "officialDocNo": "文授資局物字第10830016641號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "數量特別稀少或具完整性保存意義者",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此器為帶蓋四足獸形方形匜。器形介於觥和匜之間，表現了器形隨著禮儀及實用功能由酒器向水器轉化之關鍵變化，具有相當重要性。\n帶有「夷曰」銘文的銅器另有國立歷史博物館藏〈夷曰壺〉，以及北京保利博物館藏〈夷曰盤〉。三器銘文及紋飾可互為參照，年代、風格相仿，原應為同一組器物。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第3、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "購銅000169",
+    "amount": 1,
+    "descAge": "西周中期（西元前10世紀）",
+    "descSize": "通蓋高19.6公分/ 長27.2公分/ 口徑21.3×9.7公分",
+    "descMaterial": "銅/鑄造",
+    "reserveStatusDesc": "此器為帶蓋四足方形匜，作獸形。器、蓋為子母口。蓋前端為虎頭造型，頸部有麟紋，背部有一拱形鈕，鈕兩端飾以小虎面。器身帶有短流，口沿下飾一道蛇紋，以雲雷紋襯地。器後有虎頭鋬。\n器內底有銘文二行六字：尸（夷）曰作寶尊彝。",
+    "pastHistorySource": 2,
+    "saveEnvironment": 1,
+    "reserveStatus": "良好。",
+    "documents": [
+        {
+            "fileid": 152319,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-02-08/24227c81-261d-4267-8497-25958b1986fa/公告.pdf"
+        },
+        {
+            "fileid": 152320,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-02-08/68229b34-af75-4560-a70b-74ab3db033b5/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71776,
+            "caseId": 16570,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": " 至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 76258,
+            "caseId": 16570,
+            "caseStatus": true,
+            "registerDate": 1550123752454,
+            "officialDocNo": "文授資局物字第10830016641號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

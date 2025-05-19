@@ -1,0 +1,101 @@
+{
+    "id": 3235,
+    "caseId": "20151015000002",
+    "count": 386,
+    "shareCount": 0,
+    "representImage": 150116,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-01-11/bf721850-072e-4a47-9180-0e3cba9f4b20/芳寮石槽_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-01-11/bf721850-072e-4a47-9180-0e3cba9f4b20/芳寮石槽.jpg",
+        "name": "芳寮石槽"
+    },
+    "caseName": "芳寮石槽",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-其他",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1444838400000,
+    "officialDocNo": "府文資字第1040198194A號",
+    "judgeCriteria": [
+        "具有一定之時代特色、技術及流派",
+        "具有珍貴及稀有性者"
+    ],
+    "registerReason": "1.單槽石槽為花蓮縣新石器晚期海岸山脈北端特有的石質大型遺留，目前僅知月眉石槽與芳寮石槽。月眉遺址屬於花岡山文化遺址，而芳寮遺址則屬於麒麟文化。兩件石槽的史前文化雖然不同，兩者位置直線距離僅有15公里，可證明文化的互動與往來關係。\n2.芳寮石槽為唯一仍在遺址中的石槽，且型制完整保存狀況尚可，為不可多得的重要大型遺構。\n3.芳寮石槽的材質為片岩，由於片岩為片狀節理，如何有效依照理想的形狀片解所需要的形狀，在史前時代的工藝研究中尚未起始；對芳寮石槽進行研究，將可以提供該類型工藝技術的資訊。\n4.芳寮石槽為麒麟文化的重要遺存，見證新石器時代重要工藝，具有一定之時代特色、技術及流派。",
+    "lawsReference": "文化資產保存法第65條、古物分級登錄指定及廢止審查辦法第7條。",
+    "govInstitutionCode": "970",
+    "govInstitutionName": "花蓮縣政府",
+    "belongCityId": 23,
+    "belongCityName": "花蓮縣",
+    "belongDistName": "壽豐鄉",
+    "govInstitution": "花蓮縣文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-8227121-321",
+    "govDeptAddress": "花蓮縣花蓮市文復路6號",
+    "reservationCode": " ",
+    "amount": 1,
+    "notes": "",
+    "descAge": "花蓮縣新石器晚期海岸山脈北端特有的石質大型遺留",
+    "descSize": "長96cm，寬81cm，高16cm。",
+    "descMaterial": "片岩，以雕鑿方式將厚實的片岩雕鑿成方形，四邊留下約10cm厚的槽壁，向下鑿出長寬約為50cm × 60cm，深18cm的凹槽。",
+    "reserveStatusDesc": "芳寮石槽為麒麟文化的重要遺存，見證新石器時代重要工藝，具有一定之時代特色、技術及流派。",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "974 花蓮縣壽豐鄉水璉村，23.444800, 121.323000。",
+    "saveEnvironment": 3,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 163187,
+            "name": "芳寮石槽登錄為一般古物公告1041015.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-10/214c2d94-4f25-4469-b1ff-1d8112147afe/芳寮石槽登錄為一般古物公告1041015.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 121.323,
+    "latitude": 23.4448,
+    "representImageSource": "花蓮縣文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "芳寮遺址",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "974 花蓮縣壽豐鄉水璉村",
+            "saveSpaceIdStr": "遺址",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "花蓮縣",
+            "distName": "壽豐鄉",
+            "id": 79013,
+            "caseId": 3235,
+            "caseStatus": true,
+            "cityId": 23,
+            "distId": 2305
+        }
+    ],
+    "announces": [
+        {
+            "id": 84799,
+            "caseId": 3235,
+            "caseStatus": true,
+            "registerDate": 1444838400000,
+            "officialDocNo": "府文資字第1040198194A號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

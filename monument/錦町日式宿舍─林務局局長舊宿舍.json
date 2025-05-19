@@ -1,0 +1,111 @@
+{
+    "id": 121,
+    "caseId": "20070129000002",
+    "count": 3244,
+    "shareCount": 4,
+    "representImage": 168492,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/64a9cddc-6ec9-4202-9c1e-62b725c46a19/代表圖像_錦町日式宿舍─林務局局長舊宿舍_20220614_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/64a9cddc-6ec9-4202-9c1e-62b725c46a19/代表圖像_錦町日式宿舍─林務局局長舊宿舍_20220614.jpeg",
+        "name": "代表圖像_錦町日式宿舍─林務局局長舊宿舍_20220614"
+    },
+    "caseName": "錦町日式宿舍─林務局局長舊宿舍",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "原為日人所有，國民政府接收後由台灣省政府農林廳林務局接管，作為局長宿舍。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 142969,
+            "name": "3._960129市定古蹟公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/ca930d91-5e87-4170-8b82-ef547f0d17fc/3._960129市定古蹟公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "重要歷史事件或人物之關係",
+        "各時代表現地方營造技術流派特色者",
+        "具稀少性，不易再現者"
+    ],
+    "registerReason": "1.為格局完整且保存狀況甚佳之日式高級官員宿舍，戰後主要由林務局局長使用，而對林務局頗有建樹之徐學訓局長亦曾居住於此。\n2.室內保有精神柱，部分拉門仍為日治時期原物，入口Art Deco柱及凸窗處理均極為細緻，鬼瓦亦見特色，整體建築作工之細緻度，在台北市罕見。\n3.從建築特色及人文歷史背景而言，均具指定市定古蹟之條件。",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、2、3、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 142970,
+            "name": "b66ef9ec-f668-4ab3-aa97-db25fbd17a29.png",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/e5734d14-0355-4b03-919f-5d626f0a19a6/b66ef9ec-f668-4ab3-aa97-db25fbd17a29.png"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "locationLandNo": "臺北市大安區金華段二小段695地號",
+    "buildingFeatures": "入口Art Deco柱及凸窗處理均極為細緻，鬼瓦亦見特色。",
+    "inHouseFeatures": "室內保有精神柱，欄間作工均極為細緻。",
+    "buildingUsage": "宿舍使用。",
+    "buildingActualState": "保存狀況良好，室內保有精神柱，部分拉門仍為日治時期原物。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.527847,
+    "latitude": 25.0299279,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市大安區金華段二小段695地號",
+    "selfCoverage": "金華段二小段1379建號",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 82306,
+            "caseId": 121,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "金華街132號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "金華段二小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 91349,
+            "caseId": 121,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 721,
+            "landSerialNo": "695",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "516",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 88433,
+            "caseId": 121,
+            "caseStatus": true,
+            "registerDate": 1170000000000,
+            "officialDocNo": "府文化二字第09630203800號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

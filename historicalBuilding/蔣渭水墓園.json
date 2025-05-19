@@ -1,0 +1,112 @@
+{
+    "id": 1066,
+    "caseId": "20120601000001",
+    "count": 7084,
+    "shareCount": 13,
+    "representImage": 177883,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/7217f32a-803f-42fe-acd3-213cc9f22306/代表圖像_蔣渭水墓園_20220717_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/7217f32a-803f-42fe-acd3-213cc9f22306/代表圖像_蔣渭水墓園_20220717.jpg",
+        "name": "代表圖像_蔣渭水墓園_20220717"
+    },
+    "caseName": "蔣渭水墓園",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "蔣先生1931年逝世後原安葬於大直山公墓，1942年因設置要塞被迫遷移，1952年經友人募款遷葬現址，立碑紀念，碑上有前副總統兼行政院長陳誠提「革命先烈之墓」，下錄刻蔣氏遺囑。",
+    "assetsTypeNames": "墓葬",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 163668,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/c0dd985e-d7bc-4ddb-8594-dd151260a277/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "1.蔣渭水先生於日治時期為臺灣民主運動先驅，曾組織文化協會、臺灣民眾黨，喚起臺灣人民族及民權意識，對臺灣民主運動影響深遠，是臺灣重要歷史人物。\r\n2.蔣先生1931年逝世後原安葬於大直山公墓，1942年因設置要塞被迫遷移，1952年經友人募款遷葬現址，立碑紀念，碑上有前副總統兼行政院長陳誠提「革命先烈之墓」，下錄刻蔣氏遺囑。\r\n3.現址墓園雖非原葬地，惟歷史人物事件載體，意義不減；蔣先生學醫行醫，關懷人文社會，深具歷史人物文化資產價值。",
+    "lawsReference": "文化資產保存法第4條、歷史建築登錄廢止審查及輔助辦法第2條第1項第1款登錄評定基準。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 163669,
+            "name": "3d69d5e4-71d5-4984-8aa3-7fb33fd34ee8.gif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/2a7cc44f-497b-495e-8994-40127e2d55d1/3d69d5e4-71d5-4984-8aa3-7fb33fd34ee8.gif"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "公墓",
+    "locationLandNo": "臺北市信義區犁和段一小段24地號(部分)",
+    "buildingFeatures": "墳墓以凸字形，立墓碑方式，設置於小山頭上，並有陳誠題字，並刻有蔣先生之遺囑。",
+    "inHouseFeatures": "",
+    "buildingUsage": "墓葬",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 25.023563,
+    "latitude": 121.562011,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市信義區六張犁崇德街底大安第六公墓",
+    "selfCoverage": "以現況實測為準",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "信義區",
+            "id": 88123,
+            "caseId": 1066,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 107,
+            "address": "六張犁崇德街底大安第六公墓"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "信義區",
+            "landNoName": "?和段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 104320,
+            "caseId": 1066,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 107,
+            "landNoId": 492,
+            "landSerialNo": "24",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "15平方公尺",
+            "cityLandUseTypeOther": "公墓用地",
+            "note": "依現況實測為準",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 95002,
+            "caseId": 1066,
+            "caseStatus": true,
+            "registerDate": 1338480000000,
+            "officialDocNo": "北市文化二字第10130329600號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

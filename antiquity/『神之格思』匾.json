@@ -1,0 +1,100 @@
+{
+    "id": 18149,
+    "caseId": "20201209000018",
+    "count": 802,
+    "shareCount": 0,
+    "representImage": 78946,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-12-09/ef8982ed-fa02-481d-9ba9-6cd640c972c4/75.『神之格思』匾_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-12-09/ef8982ed-fa02-481d-9ba9-6cd640c972c4/75.『神之格思』匾.jpg",
+        "name": "75.『神之格思』匾"
+    },
+    "caseName": "『神之格思』匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1603352900012,
+    "officialDocNo": "府授文資遺字第1090244755B號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "對地方或族群知識、技術或流派發展具影響或意義"
+    ],
+    "registerReason": "1.\t本件由一整片木板製成，為長方形無邊框橫匾。匾面深紅褐色，中行為行書陽刻「神之格思」四字，以線條描邊，更形浮凸。上款「同治辛未季春吉旦」，下款「三山弟子黃維昭敬立」，文字皆為覆竹式楷書金字。\n2.\t「神之格思」用典深奧，源出《詩經．大雅．抑》有「神之格思，不可度思，矧可射思？」句，意謂神之降臨，難以揣測，豈可妄加猜測而不敬慎。可見立匾人非一般村夫，當有相當文采，此黃維昭自署「三山弟子」，此三山當指福州于山、烏山、屏山，亦即黃維昭來自省城福州，此匾可能出自唐山匠師。\n3.\t據日治時期《寺廟台帳》，大里七將廟始建於同治8年(1869)，此同治10年立匾年代，既呼應廟史、亦可助佐證以往土牛線上，原住民與漢移民間的緊張關係。\n",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、6款",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "大里區",
+    "govInstitution": "臺中市政府   ",
+    "govDeptName": "臺中市文化資產處",
+    "govDeptPhone": "04-22290280#501",
+    "govDeptAddress": "臺中市南區復興路三段362號R10",
+    "reservationCode": "府授文資遺字第1090244755B號",
+    "amount": 1,
+    "descAge": "1871",
+    "descSize": "高83.5/寬44.8/厚3.4",
+    "descMaterial": "樟木",
+    "reserveStatusDesc": "橫長方形無邊框匾額，紅褐色字，下有獅子座斗，匾額為以一整片木板製成。中行為行書陽刻「神之格思」，四字字體線條描邊。上款「同治辛未季春吉旦」，下款「三山弟子黃維昭敬立」，上下款文字皆為覆竹式楷書金字。匾額上緣有兩個半圓金屬環（右側較圓的釘為後來的）釘入木匾，環旁又各有二圖釘（固定紅布用）。雙側邊緣各有2枚突出舊的手打小釘，為懸吊與固定匾額用。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 2,
+    "reserveStatus": "狀況良好",
+    "documents": [
+        {
+            "fileid": 78945,
+            "name": "75.『神之格思』匾-公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-09/b32a3115-bd04-438a-ba2b-2d23bfdddd68/75.『神之格思』匾-公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 24.100070102218915,
+    "latitude": 120.6771137369687,
+    "representImageSource": "臺中市文化資產處",
+    "keepNames": [
+        {
+            "keepNameIdStr": "財團法人臺中市七將軍廟",
+            "keepName": "財團法人臺中市七將軍廟",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "財團法人臺中市七將軍廟",
+            "keepAddressNew": "臺中市大里區新興路26號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2,
+            "keepNameCityName": "臺中市",
+            "keepNameDistName": "大里區",
+            "keepNameAddress": "新興路26號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "大里區",
+            "id": 86758,
+            "caseId": 18149,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1010
+        }
+    ],
+    "announces": [
+        {
+            "id": 93392,
+            "caseId": 18149,
+            "caseStatus": true,
+            "registerDate": 1603352900012,
+            "officialDocNo": "府授文資遺字第1090244755B號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

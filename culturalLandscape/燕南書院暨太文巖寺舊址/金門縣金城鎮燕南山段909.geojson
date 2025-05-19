@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "金門縣金城鎮燕南山段909"
+            }
+        }
+    ],
+    "notfound": "地籍資料處理失敗"
+}

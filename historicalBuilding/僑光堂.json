@@ -1,0 +1,107 @@
+{
+    "id": 16518,
+    "caseId": "20190122000001",
+    "count": 3364,
+    "shareCount": 3,
+    "representImage": 186699,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/484c2f96-7b3f-4e84-aab5-11be10607914/代表圖像_僑光堂_20220614_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/484c2f96-7b3f-4e84-aab5-11be10607914/代表圖像_僑光堂_20220614.jpg",
+        "name": "代表圖像_僑光堂_20220614"
+    },
+    "caseName": "僑光堂",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "僑光堂於1967年建築完成，作為當年臺灣與海外華僑聯繫活動的重要集會中心，為早年推動僑務、僑教之重要場域。",
+    "assetsTypeNames": "集會堂",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 54584,
+            "name": "公告資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-01-22/22c93b79-b58b-478d-a205-bdff94c0dff7/公告資料.pdf"
+        },
+        {
+            "fileid": 133547,
+            "name": "範圍示意圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/3e752865-5f96-4970-acc4-54a98c42302a/範圍示意圖.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1.\t僑光堂於1967年建築完成，作為當年臺灣與海外華僑聯繫活動的重要集會中心，為早年推動僑務、僑教之重要場域，亦曾為重要文化、政治活動之集會場所，見證該建築與國家政治、經濟的關係。\n2.\t建築形式為大型集會堂構造，具大跨度及預鑄版建築特色，展現現代主義建築思維；建物外觀設計融合中式傳統建築語彙，反映1960年代中華文化復興政策下之設計特色，具保存價值。\n3.\t符合歷史建築紀念建築登錄廢止審查及輔助辦法第2條第1項第2、3款登錄基準。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第2、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 54586,
+            "name": "範圍示意圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2019-01-22/053f6b92-2de9-4649-ae9d-90e00ffeea27/範圍示意圖.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "大安區學府段四小段353地號1筆地號（部分）",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "longitude": 121.537556,
+    "latitude": 25.015242,
+    "representImageSource": "臺北市文化局",
+    "landScope": "大安區學府段四小段353地號1筆地號（部分），面積77,424平方公尺（部分）",
+    "selfCoverage": "歷史建築本體為僑光堂建築本體及附屬建物(包括陽台及平台)，建物面積3969.46平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 93489,
+            "caseId": 16518,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "羅斯福路四段1號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "學府段四小段",
+            "id": 115079,
+            "caseId": 16518,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 744,
+            "landSerialNo": "353",
+            "landownership": 1,
+            "coverageId": 1,
+            "area": "77,424平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 100907,
+            "caseId": 16518,
+            "caseStatus": true,
+            "registerDate": 1548000000000,
+            "officialDocNo": "北市文化文資字第10830064771號",
+            "classificationId": 1,
+            "note": "無"
+        }
+    ],
+    "openVisitType": ""
+}

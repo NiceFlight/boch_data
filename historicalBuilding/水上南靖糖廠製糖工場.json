@@ -1,0 +1,99 @@
+{
+    "id": 21156,
+    "caseId": "20221109000001",
+    "count": 1958,
+    "shareCount": 3,
+    "representImage": 189672,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-11-09/0eaf0a20-1d6f-48d4-be8b-d6e7d0e60289/IMG_7034_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-11-09/0eaf0a20-1d6f-48d4-be8b-d6e7d0e60289/IMG_7034.jpg",
+        "name": "IMG_7034"
+    },
+    "caseName": "水上南靖糖廠製糖工場",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "南靖製糖工廠，興建於明治42(1909)年，由日本東洋製糖株式會社所創舊稱「南靖製糖所」，設有製糖工場、副產工場(酒精工廠)、農場部門等三大部門。採英式機械設備製糖，糖廠最初以製造粗糖為主，每日約可壓榨1000T/D。明治43(1910)年，開始採用碳酸法生產耕地白糖。大正元年（1911），增設副產工場，定名為嘉義製酒株式會社南靖酒精工場，每日生產含水酒1,500 公升。昭和2（1927）年九月，酒精工場部分併入明治製糖株式會社之南靖製糖所，當時組織包括有庶務係、原料係、農場係、鐵道係、工務係、酒精係等。\n昭和20（1945）年，因廠內存有大量酒精等高級燃料，因而被列為美軍轟炸要點，採取激烈轟炸模式。在發生過數次大火後，酒精工廠槽塔，製糖工廠包裝室、工廠用水槽、壓榨室及鍋爐室等遭受嚴重破壞，其他各處機件廠房亦受炸彈破片機槍掃射等破壞，致使製糖、酒精工廠一片混亂，原有砂糖倉庫20 棟（約3000 坪），物料倉庫五棟（約750 公頃）。也因受轟炸燒毀，產品、物料損毀散亂，工廠也因此停止廠業。1945年開始進行糖廠重建計畫。\n",
+    "assetsTypeNames": "產業",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 189670,
+            "name": "南靖糖廠製糖工場 公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-11-09/c49886a4-7b3b-4c7a-a864-cc84bc197250/南靖糖廠製糖工場 公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1、 表現地域風貌或民間藝術特色者：具製糖工場歷史風貌之特色。\n2、具建築史或技術史之價值者：製糖工場生產設備體現時代性，具有技術史價值。\n3、具地區性建造物類型之特色者：具有地方製糖工場特色，並蘊含在地製糖文化價值。\n",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1、2、3項",
+    "govInstitutionCode": "612",
+    "govInstitutionName": "嘉義縣政府",
+    "govInstitution": "嘉義縣政府",
+    "govDeptName": "嘉義縣文化觀光局",
+    "govDeptPhone": "05-3628123*317",
+    "govDeptAddress": "嘉義縣太保市太子大道158號",
+    "cadasters": [
+        {
+            "fileid": 189671,
+            "name": "測繪圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-11-09/f1aebe7e-4807-4099-a931-eabf9b9f7727/測繪圖.pdf"
+        }
+    ],
+    "bulkTransfer": 1,
+    "isOpenVisit": false,
+    "isOpenDownload": true,
+    "longitude": 120.379171,
+    "latitude": 23.411,
+    "representImageSource": "自行拍攝",
+    "landScope": "嘉義縣水上鄉靖和段328-5號",
+    "selfCoverage": "定著於嘉義縣水上鄉靖和段328-5號之土地上",
+    "addresses": [
+        {
+            "cityName": "嘉義縣",
+            "distName": "水上鄉",
+            "id": 130005,
+            "caseId": 21156,
+            "caseStatus": true,
+            "cityId": 15,
+            "distId": 1507,
+            "address": "靖和村1號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "嘉義縣",
+            "distName": "水上鄉",
+            "landNoName": "靖和段",
+            "id": 182367,
+            "caseId": 21156,
+            "caseStatus": true,
+            "cityId": 15,
+            "distId": 1507,
+            "landNoId": 12935,
+            "landSerialNo": "328-5地號",
+            "area": "24151.3平方公尺",
+            "note": "",
+            "cityLandUseId": 2
+        }
+    ],
+    "announces": [
+        {
+            "id": 141578,
+            "caseId": 21156,
+            "caseStatus": true,
+            "registerDate": 1655913600000,
+            "officialDocNo": "府授文資字第1110148815號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"嘉義縣水上鄉靖和段328-5地號\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "selfCoverageJson": "{\"type\": \"FeatureCollection\",\"features\": [{\"type\": \"Feature\",\"properties\": \"{}\",\"geometry\": {\"type\": \"Polygon\",\"coordinates\": [[[120.37771048656624,23.41085750129988],[120.37747723765526,23.410530278535578],[120.37776142598356,23.410370357341392],[120.37800808000434,23.41089686638994],[120.37800003693845,23.410887025118523],[120.37771048656624,23.41085750129988]]]}}]}",
+    "openVisitType": ""
+}

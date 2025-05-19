@@ -1,0 +1,97 @@
+{
+    "id": 21297,
+    "caseId": "20221124000002",
+    "count": 2276,
+    "shareCount": 4,
+    "representImage": 200641,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-11-24/bb2a4921-7628-426f-9e9d-0cd792d8d68c/秀禮_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-11-24/bb2a4921-7628-426f-9e9d-0cd792d8d68c/秀禮.jpg",
+        "name": "秀禮"
+    },
+    "caseName": "通霄隴西堂秀禮公廳",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.1.3",
+    "assetsClassifyName": "縣(市)定古蹟",
+    "documents": [
+        {
+            "fileid": 200708,
+            "name": "1111025  公告指定「通霄隴西堂秀禮公廳」為本縣縣定古蹟.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-11-24/d4d18f66-9559-473b-9304-4220f85afd24/1111025  公告指定「通霄隴西堂秀禮公廳」為本縣縣定古蹟.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具高度歷史、藝術或科學價值者",
+        "表現各時代營造技術流派特色者"
+    ],
+    "registerReason": "一、通霄李家早年為當地拓墾大戶，拓地擴及通霄、銅鑼、三義。秀禮公廳為李家來台第三代建於1931（昭和6）年。秀禮公廳屬於典型客家傳統三合院，格局完整，神龕及檐廊木雕精緻典雅。整體環境反映客家傳統民居的風水觀。\n二、牆體用泥磚、斗砌及卵石牆基砌成，大量使用低海拔原生闊葉樹材，見證當時民居建築的建材與技術。\n三、符合「古蹟指定及廢止審查辦法」第2條第1項第1、2款。\n",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、2款",
+    "govInstitutionCode": "360",
+    "govInstitutionName": "苗栗縣政府",
+    "govInstitution": "苗栗縣政府文化觀光局",
+    "govDeptName": "文化觀光局",
+    "govDeptPhone": "037-352961#718",
+    "govDeptAddress": "苗栗市自治路50號",
+    "cadasters": [
+        {
+            "fileid": 200709,
+            "name": "縣17航照圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-11-24/754a9cf5-3b2f-4d11-b6fb-6a66c9ae6b4f/縣17航照圖.pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenDownload": false,
+    "longitude": 120.723741,
+    "latitude": 24.450303,
+    "representImageSource": "苗栗縣政府文化觀光局",
+    "landScope": "苗栗縣通霄鎮南和段64號",
+    "selfCoverage": "建物本體：一堂三橫屋，附屬設施：內埕及天井(面積：約855.2㎡)",
+    "addresses": [
+        {
+            "cityName": "苗栗縣",
+            "distName": "通霄鎮",
+            "id": 111979,
+            "caseId": 21297,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 807,
+            "address": "南和里南和126、127、128、128-1號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "苗栗縣",
+            "distName": "通霄鎮",
+            "landNoName": "南和段",
+            "id": 150651,
+            "caseId": 21297,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 807,
+            "landNoId": 9256,
+            "landSerialNo": "64",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 121386,
+            "caseId": 21297,
+            "caseStatus": true,
+            "registerDate": 1666662788734,
+            "officialDocNo": "府文資字第1110012903B號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.72406218997929,24.45044048567466],[120.72403424419043,24.450397401680235],[120.72401592916788,24.450307150736986],[120.72400063361057,24.450254364713704],[120.72398748888558,24.450208998111698],[120.72401581620689,24.45017062159197],[120.72402792724954,24.450116808429822],[120.72400156345515,24.450058405144034],[120.7239947874763,24.450043395648695],[120.72382773848611,24.45003812111291],[120.72380709098486,24.450037469432843],[120.72372675554152,24.450041289113496],[120.72368300869813,24.4500376382238],[120.72347619083504,24.450306211669023],[120.7233850512089,24.45041741648058],[120.7232243733637,24.450605928263883],[120.72321694704218,24.45061458700103],[120.72333850074138,24.450693104190083],[120.72345286960403,24.45060100838105],[120.72354402580991,24.45059480963311],[120.72372507398433,24.450681359097146],[120.72387497866832,24.45068690311192],[120.72410662374418,24.450506977568313],[120.72406218997929,24.45044048567466],[120.72406218997929,24.45044048567466]]]]},\"properties\":{\"envelope\":{\"left\":\"120.72321694704218\",\"top\":\"24.450037469432843\",\"right\":\"120.72410662374418\",\"bottom\":\"24.450693104190083\"},\"landLot\":\"苗栗縣通霄鎮南和段64\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀"
+}

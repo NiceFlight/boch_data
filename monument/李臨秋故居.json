@@ -1,0 +1,102 @@
+{
+    "id": 20474,
+    "caseId": "20220310000002",
+    "count": 4126,
+    "shareCount": 9,
+    "representImage": 173347,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/75931aaf-0a43-4137-809b-68d55b37bb20/代表圖像_李臨秋故居_20220707_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/75931aaf-0a43-4137-809b-68d55b37bb20/代表圖像_李臨秋故居_20220707.jpeg",
+        "name": "代表圖像_李臨秋故居_20220707"
+    },
+    "caseName": "李臨秋故居",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "本建物位於清末之建昌街，原為茶工廠及相關建築之所在地，後來分戶成為住商使用，見證臺北早期茶葉出口鼎盛時期與其後大稻埕南側之地區發展。建物木桁與內部空間保有原有生活空間脈絡，可真實反映當時的生活環境。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 170332,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-06-28/b0f15046-bc04-4c1f-95df-8b670e85406c/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具高度歷史、藝術或科學價值者",
+        "表現各時代營造技術流派特色者"
+    ],
+    "registerReason": "1.李臨秋為「望春風」、「四季紅」等多首臺灣歌謠的作詞者，臺灣流行歌謠史上重要代表人物，本建物具高度歷史價值。\n2.本建物位於清末之建昌街，原為茶工廠及相關建築之所在地，後來分戶成為住商使用，見證臺北早期茶葉出口鼎盛時期與其後大稻埕南側之地區發展。建物木桁與內部空間保有原有生活空間脈絡，可真實反映當時的生活環境。",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、2款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 170333,
+            "name": "範圍示意圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-06-28/dafd0b7e-715f-4150-817a-ceb2722c0b74/範圍示意圖.pdf"
+        }
+    ],
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.508714,
+    "latitude": 25.055176,
+    "representImageSource": "臺北市文化局",
+    "landScope": "大同區迪化段3小段702地號共計1筆土地，面積為84平方公尺",
+    "selfCoverage": "迪化段三小段1671建號",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 84860,
+            "caseId": 20474,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "西寧北路86巷4號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 97421,
+            "caseId": 20474,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 194,
+            "landSerialNo": "702",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "84",
+            "cityLandUseTypeOther": "大稻埕特定專用區",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 91143,
+            "caseId": 20474,
+            "caseStatus": true,
+            "registerDate": 1645372800000,
+            "officialDocNo": "北市文化文資字第11130087641號",
+            "classificationId": 1,
+            "note": "指定為直轄市定古蹟"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false,
+    "pastHistorySource": "建築師調查研究(修復及再利用計畫)"
+}

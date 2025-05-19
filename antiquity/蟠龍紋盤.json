@@ -1,0 +1,101 @@
+{
+    "id": 3876,
+    "caseId": "20121112000002",
+    "count": 624,
+    "shareCount": 1,
+    "representImage": 6684,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32862/photo/846f774b-3ecf-4527-93d0-92221be50efd_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32862/photo/846f774b-3ecf-4527-93d0-92221be50efd.JPG",
+        "name": "846f774b-3ecf-4527-93d0-92221be50efd"
+    },
+    "caseName": "蟠龍紋盤",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1352649600000,
+    "officialDocNo": "文授字第10120135331號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本器盤面蜷伏一龍，龍首正居盤心，突起於盤面，為晚商典型的獸面；盤面邊緣則環繞以夔紋、鳥紋、魚紋，整體風格莊重古雅。在鑄造痕跡的遺存方面，圈足內部與器底相接處有六條加強筋，以加固強圈足與器底的接合。圈足上有三個方孔，正與範線位置相應。考古資料顯示，商代墓葬中以盤、盂等大型水器陪葬並不普遍，尤其此器盤面又裝飾著莊嚴的龍紋，應該是等級較高的貴族才享有的陪葬品。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第4條第1項第1、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "中銅001513",
+    "amount": 1,
+    "notes": "",
+    "descAge": "商",
+    "descSize": "高16.3cm、口徑43cm、腹深7.5cm、足高8.2cm",
+    "descMaterial": "銅",
+    "reserveStatusDesc": "圓腹圈足，盤面飾龍紋蟠繞於中心，蟠龍週邊有魚紋、夔龍紋及鳥紋圍繞。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "正面口沿舊傷。背面口沿多處舊傷。圈足底緣多處舊傷。圈足外緣舊凹傷。圈足外緣舊傷。表面鏽塊部分脫落。背面多處銹蝕。",
+    "documents": [
+        {
+            "fileid": 150755,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-19/7e729fe5-bfa8-4687-958a-4bf3f674327e/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71145,
+            "caseId": 3876,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75491,
+            "caseId": 3876,
+            "caseStatus": true,
+            "registerDate": 1352649600000,
+            "officialDocNo": "文授字第10120135331號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

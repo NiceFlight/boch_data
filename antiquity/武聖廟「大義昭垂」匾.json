@@ -1,0 +1,102 @@
+{
+    "id": 17037,
+    "caseId": "20190826000006",
+    "count": 382,
+    "shareCount": 1,
+    "representImage": 61197,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-08-26/f2e31790-c00e-4bf4-a501-547023141081/16-004IMG_3436_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-08-26/f2e31790-c00e-4bf4-a501-547023141081/16-004IMG_3436.jpg",
+        "name": "16-004IMG_3436"
+    },
+    "caseName": "武聖廟「大義昭垂」匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1563785005588,
+    "officialDocNo": "中華民國108年7月22日府授文博字第1083702326號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者"
+    ],
+    "registerReason": "（1）具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：呈現清代武將與關聖信仰的關係，具澎湖軍區的文化特色。\n（2）具有地方重要人物或歷史事件之深厚淵源者：王得祿為臺灣嘉義（諸羅）人，在清代為主要的臺籍武將，協防澎湖，亦病逝澎湖，此匾雖是獻給關帝廟，其文亦足以彰顯王得祿公忠體國的精神。\n（3）能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者:其落款反映當時政治、軍事狀態。 ",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2、3款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00685-P-M022-004 ",
+    "amount": 1,
+    "descAge": "1841年",
+    "descSize": "長60 / 寬196 / 厚5 (公分)",
+    "descMaterial": "木",
+    "reserveStatusDesc": "橫長形木匾，匾面綠漆（多起甲剝落），匾背有縱走向榫接加固木條，外框黑，框內槽紅，匾面中間題字「大義昭垂」為陰刻勾邊楷書，上下款陰刻楷書，字皆填紅漆，原似有金。左「道光歲在辛丑季秋穀旦」，右「欽差駐札澎湖督辦海防軍務兼會辦全臺防堵事宜／太子太保前任浙江水陸提督門二等子爵世襲／王得祿　敬立」。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "時間： 1841年   捐贈者：王得祿",
+    "saveEnvironment": 2,
+    "reserveStatus": "武聖廟二樓文物典藏室，有溫溼度控制",
+    "documents": [
+        {
+            "fileid": 107104,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-04-23/8652acf1-0d9b-4d3e-9d6f-4953c6348041/公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.575211,
+    "latitude": 23.573159,
+    "representImageSource": "澎湖縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "武聖廟",
+            "keepName": "王照界",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "武聖廟",
+            "keepAddressNew": "澎湖縣馬公市朝陽里陽明路30號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2,
+            "keepNameCityName": "澎湖縣",
+            "keepNameDistName": "馬公市",
+            "keepNameAddress": "朝陽里陽明路30號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 127677,
+            "caseId": 17037,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "朝陽里陽明路30號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 138600,
+            "caseId": 17037,
+            "caseStatus": true,
+            "registerDate": 1563785005588,
+            "officialDocNo": "府授文博字第1083702326號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

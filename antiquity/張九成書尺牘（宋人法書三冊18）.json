@@ -1,0 +1,111 @@
+{
+    "id": 4174,
+    "caseId": "20110422000085",
+    "count": 242,
+    "shareCount": 0,
+    "representImage": 7094,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36440/photo/7821ae13-291f-40de-a3bd-40f1c4d1c9df_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36440/photo/7821ae13-291f-40de-a3bd-40f1c4d1c9df.jpg",
+        "name": "7821ae13-291f-40de-a3bd-40f1c4d1c9df"
+    },
+    "caseName": "張九成書尺牘（宋人法書三冊18）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1303401600000,
+    "officialDocNo": "會授資籌二字10020040353號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事重要淵源",
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "張九成為南宋初主戰派人物，與當時重要禪僧大慧宗杲友善。本件墨蹟是少數傳世之作。具有重要之時代特色，品質精良且數量稀少。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第一、二、三、四、五、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故書00024500018",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descSize": "30.8 x 48.5 公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "張九成（1092－1159），字子韶。紹興二年殿試狀元，累官至刑部侍郎。生平尊崇佛教，亦號無垢居士。向與僧大慧宗杲友善，為禪門護法居士。南宋初，與金對峙，因挺身支持主戰派，觸怒了當權之秦檜，遂以「與宗杲謗訕朝政」罪名，謫居流放達十四載。此札又名〈宮祠帖〉，或是寫予方滋（1102-1172），則成書於紹興十一、二年間。字形結體雖有蘇、黃兩家遺韻，但見驅筆流暢，縱橫使轉之勢亦見米芾流風，頗富個性。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "傷補、汚漬、霉傷。有損傷但狀況穩定。",
+    "documents": [
+        {
+            "fileid": 16438,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2017-11-06/c1ff87aa-c222-4d06-a6f6-1a995198343d/公告.pdf"
+        },
+        {
+            "fileid": 152189,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-28/4e79115b-663d-4857-ad57-5252c228ffbf/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71707,
+            "caseId": 4174,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 76183,
+            "caseId": 4174,
+            "caseStatus": true,
+            "registerDate": 1303401600000,
+            "officialDocNo": "會授資籌二字10020040353號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

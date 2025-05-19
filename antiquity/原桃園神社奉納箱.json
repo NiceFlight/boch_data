@@ -1,0 +1,94 @@
+{
+    "id": 22872,
+    "caseId": "20240626000002",
+    "count": 178,
+    "shareCount": 0,
+    "representImage": 259994,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-07-11/e9a487bd-33e4-4e9d-a9bb-2a466c104a95/原桃園神社奉納箱00_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-07-11/e9a487bd-33e4-4e9d-a9bb-2a466c104a95/原桃園神社奉納箱00.jpg",
+        "name": "原桃園神社奉納箱00"
+    },
+    "caseName": "原桃園神社奉納箱",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有珍貴及稀有性者"
+    ],
+    "registerReason": "1. 具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：桃園神社鎮座祭(1936)時製作設置之儀禮器物，具日本神道信仰之特色。\n2. 數量稀少者：包角銅片造形典雅、箱體採日式榫接，為日治時期桃園神社遺留原件，歷經戰後「去日本化」政策，迄今仍保存完好，殊為難得。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第1、5款",
+    "govInstitutionCode": "330",
+    "govInstitutionName": "桃園市政府",
+    "govInstitution": "桃園市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-3322592分機8603",
+    "govDeptAddress": "桃園市桃園區縣府路21號",
+    "reservationCode": "尚無",
+    "amount": 1,
+    "descAge": "昭和13年（1938）",
+    "descSize": "面寬115 cm / 側寬64 cm /高71.5 cm",
+    "descMaterial": "木質（臺灣櫸）",
+    "reserveStatusDesc": "此奉納箱為昭和13年（1938）9月23日桃園神社落成舉行「鎮座祭」時設置，樣式為典型的日式風格，奉納箱又稱賽錢箱，普遍見於日本神社、寺院。在戰後的「去日本化」行動下，桃園神社於民國35年（1946）改建為忠烈祠，又歷經民國63年（1974）頒布的《清除臺灣日據時代表現日本帝國主義優越感之殖民統治紀念遺跡要點》，其他桃園神社時期的器物多已佚失，此奉納箱是現存唯一完整保留，見證桃園神社創立的文物。此奉納箱為一長方體木箱，箱體就地取材，以耐磨、耐朽且堅韌的臺灣櫸製成，投入口上部以一根根木條排列成柵，錢幣易進難取，可以防治宵小；木柵底下是由兩塊木板對著箱中位置斜貼，利於錢幣落下，亦不易看清箱內錢幣數量。箱子的四角有以銅片製作的護角，避免磕碰，下方有帶鑰匙孔的抽屜，箱角以銅合金金屬板包覆作為裝飾處，經X-Ray檢測可見金屬板與箱體以現代金屬釘固定。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 2,
+    "reserveStatus": "狀況穩定",
+    "documents": [
+        {
+            "fileid": 259008,
+            "name": "府文資字第1130129237號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-06-25/269493b2-0d4f-47c9-a9b0-164bb5fe881e/府文資字第1130129237號公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "莊○傑、劉○甫",
+    "keepNames": [
+        {
+            "keepNameIdStr": "桃園市政府孔廟忠烈祠聯合管理所",
+            "keepName": "桃園市政府孔廟忠烈祠聯合管理所",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "桃園市政府孔廟忠烈祠聯合管理所",
+            "keepAddressNew": "桃園市桃園區公園路42號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "桃園市",
+            "keepNameDistName": "桃園區",
+            "keepNameAddress": "公園路42號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "桃園市",
+            "distName": "桃園區",
+            "id": 132007,
+            "caseId": 22872,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 507,
+            "address": "成功路三段200號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 143800,
+            "caseId": 22872,
+            "caseStatus": true,
+            "registerDate": 1716342767164,
+            "officialDocNo": "府文資字第11301292371號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

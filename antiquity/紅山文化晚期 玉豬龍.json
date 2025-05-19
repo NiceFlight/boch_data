@@ -1,0 +1,96 @@
+{
+    "id": 23269,
+    "caseId": "20250306000024",
+    "count": 100,
+    "shareCount": 0,
+    "representImage": 281623,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2025-03-06/e6d7b59a-e262-48b7-ab54-865fdb7ccec0/B1C000316N000000000PAB_c.png"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2025-03-06/e6d7b59a-e262-48b7-ab54-865fdb7ccec0/B1C000316N000000000PAB.png",
+        "name": "B1C000316N000000000PAB"
+    },
+    "caseName": "紅山文化晚期 玉豬龍",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就",
+        "數量稀少者"
+    ],
+    "registerReason": "1.符合一般古物指定基準第 3 款「能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者。」：造形及材質為紅山文化時期之時代特色，且質屬精美，呈現新石器時代晚期東北紅山文化之宗教信仰與經濟實力。\n2.符合一般古物指定基準第 4 款「具有藝術造詣或科學成就。」：紅山文化考古玉器代表之一，玉豬龍造型特殊，玉質瑩潤，器身有一穿孔，為繫帶之用，局部受沁呈褐色，整體自然頗富藝術風格。器形厚重，琢玉工藝嫻熟，造形於該時期屬精美傳神之作。\n3.符合一般古物指定基準第 5 款「數量稀少者」：為反映紅山文化特色的作品，造形精美傳神，雕工精緻，材質精美，出土數量有限難得。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第3、4、5款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174之1號",
+    "reservationCode": "購玉000316",
+    "amount": 1,
+    "descAge": "紅山文化晚期（約西元前3500至前3000年）",
+    "descSize": "高7.8公分/寬5.65公分/厚2.1-2.6公分",
+    "descMaterial": "玉",
+    "reserveStatusDesc": "青綠色玉質，器表略白化，局部受沁呈褐色，微殘，有一繫帶穿孔。本器是典型紅山文化玉器，一般稱之為豬龍，以其頭部和豬首相似、身軀蜷縮之故；也有學者認為身軀形似胎盤，應是某種信仰下的宗教用器。\n頭首以較簡約的技巧琢磨紋飾，由此創造出拙樸的視覺效果，和其他紅山文化出土玉器的風格相同，應是當時特定的藝術取向，以符合使用場合氛圍。",
+    "pastHistorySource": 2,
+    "pastHistorySourceNotes": "時間：1993/09/17，購藏(徵集)對象：雲中居",
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定。",
+    "documents": [
+        {
+            "fileid": 281622,
+            "name": "114年2月12日北市文獻編字第11430008081號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2025-03-06/2abde545-582e-4393-a85c-2947fd9c95c0/114年2月12日北市文獻編字第11430008081號公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 148036,
+            "caseId": 23269,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 160816,
+            "caseId": 23269,
+            "caseStatus": true,
+            "registerDate": 1739356310871,
+            "officialDocNo": "北市獻編字第11430008081號公告",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

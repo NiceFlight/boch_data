@@ -1,0 +1,114 @@
+{
+    "id": 2194,
+    "caseId": "20161101000001",
+    "count": 2722,
+    "shareCount": 2,
+    "representImage": 179552,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-08-11/1d9e7df2-a73f-41dc-9619-d4c62b233ded/1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-08-11/1d9e7df2-a73f-41dc-9619-d4c62b233ded/1.jpg",
+        "name": "1"
+    },
+    "caseName": "西區四維街日式招待所",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本建築為日治時期臺中州土地整理組合之職員單身宿舍，落成於昭和13年（1938），戰後（1945～）曾由臺中縣稅捐稽徵處接收，仍作為職員單身宿舍，後再發展為眷屬宿舍。\n\n民國105年（2016）臺中市政府以其材質、形制保存完整，且為市內極少數尚存之兩層樓木造雨淋板建築，具稀少性與再利用潛力，公告登錄為歷史建築。\n",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1477929600000,
+    "officialDocNo": "府授文資古字第10502293501號",
+    "documents": [
+        {
+            "fileid": 180575,
+            "name": "1051101_西區四維街日式招待所_登錄公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-08-18/de3da488-98ef-4c5b-bba9-b4df2684e144/1051101_西區四維街日式招待所_登錄公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "「西區四維街日式招待所」建築格局為ㄇ字型，一樓入口有外玄關，以中庭入口為中心分左右兩側對稱，內部左右空間亦對稱配置，由ㄇ形迴廊串聯內部房間，形制保存完整，材質、形式大抵為日治時期興建之 原貌，同時為本市極少數尚存之兩層木造雨淋板建築，具稀少性及再利用潛力。",
+    "lawsReference": "文化資產保存法第18條及歷史建築登錄廢止審查及輔助辦法第2條、第4條",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "西區",
+    "govInstitution": "臺中市政府文化局",
+    "govDeptName": "臺中市文化資產處",
+    "govDeptPhone": "04-22290280",
+    "govDeptAddress": "403420 臺中市西區市府路41巷19號",
+    "cadasters": [
+        {
+            "fileid": 180576,
+            "name": "1051101_西區四維街日式招待所_保存範圍.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-08-18/8cdd09f4-705b-4ee8-afaf-c436e72fecf4/1051101_西區四維街日式招待所_保存範圍.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺中市西區利民段四小段1-23地號",
+    "buildingFeatures": "建築形式屬於和洋折衷式，格局為ㄇ字型二層樓寄棟式屋根木造雨淋板建築，中央為庭院與公用場域，與一般制式職等官舍不同。",
+    "inHouseFeatures": "入口分洋式主入口與和式次入口，整體空間主要以居住性空間為主，共用廁所則設置在ㄇ字型端口，內部設置樓梯一座，一樓以迴廊串聯各處房間，二樓則可通過木地板緣側連通。",
+    "buildingActualState": "民國109(2020)年完成修復及再利用計畫。",
+    "bulkTransfer": 0,
+    "belongAddress": "臺中市西區四維街1號",
+    "isOpenVisit": false,
+    "openUpTime": "暫不開放",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.676046,
+    "latitude": 24.137244,
+    "representImageSource": "臺中市文化資產處",
+    "landScope": "臺中市西區利民段四小段1-23地號",
+    "selfCoverage": "臺中市西區四維街1號",
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "西區",
+            "id": 112662,
+            "caseId": 2194,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1004,
+            "address": "四維街1號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺中市",
+            "distName": "西區",
+            "landNoName": "利民段四小段",
+            "id": 152590,
+            "caseId": 2194,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1004,
+            "landNoId": 951,
+            "landSerialNo": "1-23",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 122264,
+            "caseId": 2194,
+            "caseStatus": true,
+            "registerDate": 1477929600000,
+            "officialDocNo": "府授文資古字第10502293501號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.67675618116559,24.136444498823415],[120.6767330758629,24.13642223145542],[120.67660501105829,24.13629581071079],[120.67656470860356,24.136329645792213],[120.6764447743909,24.136430293441567],[120.67659954622629,24.136579510330787],[120.67675618116559,24.136444498823415],[120.67675618116559,24.136444498823415]]]]},\"properties\":{\"envelope\":{\"left\":\"120.6764447743909\",\"top\":\"24.136295810710791\",\"right\":\"120.67675618116559\",\"bottom\":\"24.136579510330787\"},\"landLot\":\"臺中市西區利民段四小段1-23\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀"
+}

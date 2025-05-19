@@ -1,0 +1,167 @@
+{
+    "id": 632,
+    "caseId": "20101210000001",
+    "count": 2930,
+    "shareCount": 1,
+    "representImage": 285764,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2025-05-09/6ada7684-a46a-4eb1-b171-98b194caa367/古117官田原三筊埤古水道遺構_P004_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2025-05-09/6ada7684-a46a-4eb1-b171-98b194caa367/古117官田原三筊埤古水道遺構_P004.jpg",
+        "name": "古117官田原三筊埤古水道遺構_P004"
+    },
+    "caseName": "官田原三筊埤古水道遺構",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "堤閘",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "registerDate": 1291947346000,
+    "officialDocNo": "府文資字第0990317266A號",
+    "documents": [
+        {
+            "fileid": 158219,
+            "name": "官田原三筊埤古水道遺構公告99.12.10.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-07/61e16508-e0ca-412c-aa96-99a7514325aa/官田原三筊埤古水道遺構公告99.12.10.pdf"
+        },
+        {
+            "fileid": 158639,
+            "name": "臺南縣市合併後縣定市定重新公告100.6.24.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-08/9cb06e5d-e40f-4722-9c78-e243c40cb0fe/臺南縣市合併後縣定市定重新公告100.6.24.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "各時代表現地方營造技術流派特色者",
+        "具稀少性，不易再現者"
+    ],
+    "registerReason": "1、依其現存構造體之工法與材料顯示其屬於清代水道設施，可呈現日治之前清代水道設施之營建工法與材料，具有稀少性實值得保存，作為歷史證物。\n2、本水道約有100年以上的建築遺構，其材質、構造具歷史年代及地方聚落、水利發展史之價值，有深入研究潛力。\n3、官田原三筊埤古水道遺構是目前臺南縣唯一保存的水道遺構，有別於臺南水道之古蹟。\n4、本水道依結構、工法及磚塊研判，時間應早於烏山頭水庫，可做為探討日治以前本地開發歷史之重要證物。\n",
+    "lawsReference": "文化資產保存法第15條、歷史建築登錄廢止審查及補助辦法第4條",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "官田區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 158221,
+            "name": "官田原三筊埤古水道遺構地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-04-07/c52389c2-f8dd-4f11-be47-623fdd1f566c/官田原三筊埤古水道遺構地籍圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 6,
+    "cityLandUseTypeName": "風景區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "官田區烏山頭段7-12.7-14.86-12地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "烏山頭水庫內",
+    "isOpenDownload": false,
+    "longitude": 120.36593986727628,
+    "latitude": 23.20824335068299,
+    "representImageSource": "臺南市政府",
+    "landScope": "",
+    "selfCoverage": "古水道遺構",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "官田區",
+            "id": 149377,
+            "caseId": 632,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1618,
+            "address": "烏山頭水庫內"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺南市",
+            "distName": "官田區",
+            "landNoName": "烏山頭段",
+            "id": 206896,
+            "caseId": 632,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1618,
+            "landNoId": 2988,
+            "landSerialNo": "7-12地號",
+            "landownership": 2,
+            "area": "130平方公尺",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "臺南市",
+            "distName": "官田區",
+            "landNoName": "烏山頭段",
+            "id": 206897,
+            "caseId": 632,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1618,
+            "landNoId": 2988,
+            "landSerialNo": "7-14地號",
+            "landownership": 2,
+            "area": "88平方公尺",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "臺南市",
+            "distName": "官田區",
+            "landNoName": "烏山頭段",
+            "id": 206898,
+            "caseId": 632,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1618,
+            "landNoId": 2988,
+            "landSerialNo": "86-12地號",
+            "landownership": 2,
+            "area": "115平方公尺",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 162498,
+            "caseId": 632,
+            "caseStatus": true,
+            "registerDate": 1291947346000,
+            "officialDocNo": "府文資字第0990317266A號",
+            "classificationId": 1
+        },
+        {
+            "id": 162499,
+            "caseId": 632,
+            "caseStatus": true,
+            "registerDate": 1308844800000,
+            "officialDocNo": "府文資處字第1000393784號",
+            "classificationId": 2,
+            "note": "直轄市升格"
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"臺南市官田區烏山頭段7-12地號\"}}],\"notfound\":\"沒有地號資料\"},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"臺南市官田區烏山頭段7-14地號\"}}],\"notfound\":\"沒有地號資料\"},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"臺南市官田區烏山頭段86-12地號\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "openVisitType": "不開放參觀",
+    "openUpTime": "\n\n",
+    "isCharge": true,
+    "pastHistorySource": "待修復或再利用計畫完成後填列"
+}

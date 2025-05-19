@@ -1,0 +1,121 @@
+{
+    "id": 3081,
+    "caseId": "20070305000002",
+    "count": 865,
+    "shareCount": 1,
+    "representImage": 5496,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/37823/photo/6233845e-3d0d-446c-9d7f-966caa4e03b7_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/37823/photo/6233845e-3d0d-446c-9d7f-966caa4e03b7.JPG",
+        "name": "6233845e-3d0d-446c-9d7f-966caa4e03b7"
+    },
+    "caseName": "鄭成功草書",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1173024000000,
+    "officialDocNo": "南市文資字第09618503390",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有珍貴及稀有性者"
+    ],
+    "registerReason": "1.具有歷史意義或能表現傳統、族群或地方文化特色\n2.具有史事淵源\n3.具有珍貴及稀有性者",
+    "lawsReference": "依據文化資產保存法第三、三十六條",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "中西區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213597",
+    "govDeptAddress": "臺南市中西區中正路5巷1號",
+    "reservationCode": "館藏序號 2149，  財產編號 5040103 ",
+    "amount": 1,
+    "descAge": "十七世紀後半 ",
+    "descCreator": "(傳)明鄭成功 ",
+    "descSize": "長 196 公分，寬 78 公分 ",
+    "descMaterial": "紙質 ",
+    "reserveStatusDesc": "書體為行書接近草體或草書，全幅由右至左，三行豎寫，所書內容為五言絕句：「禮樂衣冠第，文章孔孟家，南山開壽域，東海釀流霞。」共二十字，字幅中行「開」字的長筆拉下處，鈐印二方，上為方框白文豎寫二行「鄭森私印」、下為方框朱文橫寫「成功」。木質外框，透明壓克力外罩，一色裱條裝裱。\n目前可以較為確定的鄭成功書法風格特徵，是以行草或接近草書為代表，筆意自由，多帶有晚明個性化書風的特質。\n日本江戶時代在水戶藩擔任彰考館總裁的川口長孺，在其1822年（清道光二年）所撰之《臺灣割據志》，記錄明末清初臺灣史事的專書中提及，位於日本水戶藩（今日本北關東的茨城縣），曾經藏有與本件文物內容相同之鄭成功書法作品。\n而透過此紀錄也可以得知，具有日本血統的鄭成功撰寫此詩的目的，是做為祝賀酬贈日本友人之用。\n\n參考資料：臺南市古物文化資產內涵調查研究計畫報告書（2015）",
+    "pastHistorySource": 7,
+    "pastHistorySourceNotes": "自置",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 120036,
+            "name": "鄭成功文物館公告.2.jpeg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-06-22/b30b3d24-055a-4d3b-8686-2487373f25f4/鄭成功文物館公告.2.jpeg"
+        },
+        {
+            "fileid": 120037,
+            "name": "鄭成功文物館公告1.jpeg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-06-22/ec205537-812d-448a-9959-39682e7db5ee/鄭成功文物館公告1.jpeg"
+        },
+        {
+            "fileid": 139223,
+            "name": "（鄭）府文資處字第1060755940號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-09-22/6002cb7d-d30c-4fa6-8e33-48c06fac91a9/（鄭）府文資處字第1060755940號.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.20817,
+    "latitude": 22.98732,
+    "representImageSource": "臺南市政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "臺南市政府",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺南市中西區 開山路152號（鄭成功文物館）",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "id": 136462,
+            "caseId": 3081,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601,
+            "address": "鄭成功文物館"
+        }
+    ],
+    "announces": [
+        {
+            "id": 149025,
+            "caseId": 3081,
+            "caseStatus": true,
+            "registerDate": 1173024000000,
+            "officialDocNo": "南市文資字第09618503390",
+            "classificationId": 1
+        },
+        {
+            "id": 149026,
+            "caseId": 3081,
+            "caseStatus": true,
+            "registerDate": 1500861510581,
+            "officialDocNo": "府文資處字第1060755940號",
+            "classificationId": 2
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,107 @@
+{
+    "id": 4202,
+    "caseId": "20090508000012",
+    "count": 221,
+    "shareCount": 0,
+    "representImage": 7122,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36619/photo/169c98bc-3ead-4bb3-9dc6-46c64e5690e8_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36619/photo/169c98bc-3ead-4bb3-9dc6-46c64e5690e8.jpg",
+        "name": "169c98bc-3ead-4bb3-9dc6-46c64e5690e8"
+    },
+    "caseName": "衡端飾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-交通工具",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1241712000000,
+    "officialDocNo": "會授資籌二字第0982105246號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "商代馬車前端的橫槓稱為「衡」。衡常彎曲為弓形，兩端以雞心形的青銅片裝飾。此件衡端飾表面紋飾以綠松石裝飾成獸面紋，是少見的衡端飾的工藝表現方法。綠松石保存完整，是極為難得的一件精品。具有重要歷史、文化、科學、藝術價值。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第3條第1項第1、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "南港區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "R015343 ",
+    "keepNameId": 5,
+    "keepName": "中央研究院歷史語言研究所",
+    "keepNameNew": 5,
+    "keepAddressNew": "115台北市南港區研究院路二段130號",
+    "saveSpaceId": 11,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "商(後期)",
+    "descCreator": "",
+    "descSize": "長10.95公分、寬6.3公分",
+    "descMaterial": "青銅、綠松石",
+    "reserveStatusDesc": "杏葉形薄片，似小盾，上端弧形，下垂至末端 聚成一尖。背面凹入，有一扣環，正面周邊鑲綠松石一圈，上段飾星獸面紋，下段為三角獸面紋。",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": " 1930年代；西北岡墓1136與1137合墓 ",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 53975,
+            "name": "20090508公告.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-01-09/abd22ff6-8aeb-44ac-b19a-896f036f52e2/20090508公告.jpg"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "中央研究院歷史語言研究所",
+    "keepNames": [
+        {
+            "keepNameIdStr": "中央研究院歷史語言研究所",
+            "keepName": "中央研究院歷史語言研究所",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "中央研究院歷史語言研究所",
+            "keepAddressNew": "115台北市南港區研究院路二段130號",
+            "saveSpaceIdStr": "研究設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "南港區",
+            "keepNameAddress": "研究院路二段130號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "南港區",
+            "id": 4344,
+            "caseId": 4202,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 111
+        }
+    ],
+    "announces": [
+        {
+            "id": 4344,
+            "caseId": 4202,
+            "caseStatus": true,
+            "registerDate": 1241712000000,
+            "officialDocNo": "會授資籌二字第0982105246號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

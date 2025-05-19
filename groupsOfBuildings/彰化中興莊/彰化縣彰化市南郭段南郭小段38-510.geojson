@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "彰化縣彰化市南郭段南郭小段38-510"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

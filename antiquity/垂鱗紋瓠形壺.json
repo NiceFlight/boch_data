@@ -1,0 +1,106 @@
+{
+    "id": 16577,
+    "caseId": "20190215000016",
+    "count": 119,
+    "shareCount": 0,
+    "representImage": 55479,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-02-15/db57095d-7056-4616-b1e1-2be5a7735e98/18-故銅002209_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-02-15/db57095d-7056-4616-b1e1-2be5a7735e98/18-故銅002209.jpg",
+        "name": "18-故銅002209"
+    },
+    "caseName": "垂鱗紋瓠形壺",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1550126060690,
+    "officialDocNo": "文授資局物字第10830016641號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此器器身圓弧，細頸側偏，帶圓蓋，呈瓠瓜形。同類器物在山西、河北、山東、湖北等地均有出土。目前所知瓠壺壺口一般為平口，此器口部呈凹弧狀，十分特殊。\n瓠壺主要流行於春秋中晚期到戰國早期。此器器表之竊曲紋及垂麟紋，出現於西周中期，流行於西周晚期至春秋早期，偶見於春秋中期的器物。因此，此器年代應為春秋早期，是目前所知瓠壺中較早的一件，對認識此類器物的發展具有特殊意義。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第3、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777　",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故銅002209",
+    "amount": 1,
+    "descAge": "春秋(西元前8-7世紀) ",
+    "descSize": "高28.1公分",
+    "descMaterial": "銅/鑄造",
+    "reserveStatusDesc": "此器長側頸，下腹鼓，圈足微外撇，通體似瓠。口部加蓋，蓋以環鍊與器身相連。下腹有一突出方環。\n頸部光素無紋。器蓋飾蟠龍紋。器腹飾一周竊曲紋，下為四層垂麟紋。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏。",
+    "saveEnvironment": 1,
+    "reserveStatus": "良好。",
+    "documents": [
+        {
+            "fileid": 146819,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-02/ebd6dc2e-f323-404f-9044-2de07b161ef4/公告.pdf"
+        },
+        {
+            "fileid": 146820,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-02/17f807b9-297a-4533-a86c-691f11a0d5f7/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 68706,
+            "caseId": 16577,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 72808,
+            "caseId": 16577,
+            "caseStatus": true,
+            "registerDate": 1550126060690,
+            "officialDocNo": "文授資局物字第10830016641號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

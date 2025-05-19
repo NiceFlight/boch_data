@@ -1,0 +1,98 @@
+{
+    "id": 19230,
+    "caseId": "20210531000005",
+    "count": 301,
+    "shareCount": 0,
+    "representImage": 116671,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-05-31/61f3c064-14f0-48ea-90e3-892381f64363/PK2A000277N000000000PAA (2)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-05-31/61f3c064-14f0-48ea-90e3-892381f64363/PK2A000277N000000000PAA (2).jpg",
+        "name": "PK2A000277N000000000PAA (2)"
+    },
+    "caseName": "元吳鎮篔簹清影圖　軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色"
+    ],
+    "registerReason": "本幅為吳鎮有明確紀年之自題詩句與圖繪的合璧之作。以簡潔構圖表現晚風吹拂下竹子，墨色飽滿，用筆勁挺有力，與同年為其子佛奴所繪製〈墨竹譜冊〉（國立故宮博物院藏，已指定公告為國寶）取向不同，更趨向展現墨竹畫的文人性格，是吳氏立軸墨竹圖中清雅之作。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第3款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺北市士林區至善路二段221號",
+    "reservationCode": "故畫000277",
+    "amount": 1,
+    "descAge": "元",
+    "descCreator": "吳鎮",
+    "descSize": "106.2x32.7公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "吳鎮（1280-1354），浙江嘉興人，字仲圭，號梅花道人。擅長詩文書畫，山水畫學巨然（活動於十世紀後），墨竹取法文同（1018-1079）。\n本幅繪於1350年，上方書有畫家自作詩。畫晚風吹拂下的竹子，構圖簡潔，畫家透過竹竿末端交錯而成的兩道弧線，表現風竹搖曳之姿。墨色飽滿，竹葉以濃墨為主，竹枝用墨較淡，屢現飛白，整體用筆勁挺有力，為吳鎮立軸墨竹圖中的清雅之作。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "",
+    "saveEnvironment": 1,
+    "reserveStatus": "舊傷補。",
+    "documents": [
+        {
+            "fileid": 142909,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-05/78b90ff8-dc11-4d1f-9ed1-910a1182c43c/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.549499,
+    "latitude": 25.10037,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 66438,
+            "caseId": 19230,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 70627,
+            "caseId": 19230,
+            "caseStatus": true,
+            "registerDate": 1622448535153,
+            "officialDocNo": "文授資局物字第11030057001號",
+            "classificationId": 1,
+            "note": ""
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,100 @@
+{
+    "id": 16872,
+    "caseId": "20190628000006",
+    "count": 130,
+    "shareCount": 0,
+    "representImage": 59612,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-06-28/c2f83251-6f58-49d0-8e21-39139a984f4a/c15.明陳洪綬玩菊圖_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-06-28/c2f83251-6f58-49d0-8e21-39139a984f4a/c15.明陳洪綬玩菊圖.jpg",
+        "name": "c15.明陳洪綬玩菊圖"
+    },
+    "caseName": "明陳洪綬玩菊圖　軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1561518764532,
+    "officialDocNo": "文授資局物字第10830067501號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "具有重要藝術造詣或科學成就"
+    ],
+    "registerReason": "瓶花作爲庭園書齋中擺設賞玩之物，是陳洪綬（1599－1652）喜愛表現題材。\n本圖繪高士拄杖踞木瘤矮凳而坐，旁置瓶供菊花。文士凝神觀賞瓶花，畫家以特殊姿勢表現人與物的關係。人物頭大身短，軀幹偉壯，運用誇張手法，營造變形趣味。此畫中背景留白，改以瓶花代替樹木配景，豐富了傳統高士圖表現形式。\n畫中器物代表晚明文士對器物喜好，並非僅為裝飾，而是人物形象隱喻，甚至是本人內心世界寫照。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第3、4款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000649",
+    "amount": 1,
+    "descAge": "明",
+    "descSize": "本幅 118.6x55.1 公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "晉代陶淵明(365－427)採菊東籬下，菊成為為高雅隱逸的象徵。本圖繪高士拄杖踞木瘤矮凳而坐，旁置瓶供菊花。文士凝神觀賞瓶花，畫家以特殊姿勢表現人與物的關係。人物頭大身短，軀幹偉壯，運用誇張手法，營造變形的趣味。畫中器物代表晚明文士對器物的喜好，並非僅為裝飾，而是人物形象的隱喻，甚至是本人內心世界的寫照。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "包首：傷損、傷補、磨傷、折裂。本幅：霉傷、折裂、污漬、傷補。",
+    "documents": [
+        {
+            "fileid": 146058,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-24/b72cf26c-7c48-4bfe-a8d7-386b1489df4b/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 68014,
+            "caseId": 16872,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 72227,
+            "caseId": 16872,
+            "caseStatus": true,
+            "registerDate": 1561518764532,
+            "officialDocNo": "文授資局物字第10830067501號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

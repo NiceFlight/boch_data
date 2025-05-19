@@ -1,0 +1,107 @@
+{
+    "id": 3951,
+    "caseId": "20120326000006",
+    "count": 236,
+    "shareCount": 0,
+    "representImage": 6764,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32937/photo/82ef5447-694a-474b-987e-5b4bc081a9e1_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32937/photo/82ef5447-694a-474b-987e-5b4bc081a9e1.JPG",
+        "name": "82ef5447-694a-474b-987e-5b4bc081a9e1"
+    },
+    "caseName": "明文徵明自書七言律詩卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本卷屬文徵明大字行書。應屬於其晚年出仕後所作，不僅書風充分表現黃庭堅特色，其內容也見於文集所錄。\r\n具有重要之時代與流派特色、藝術價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第三、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故書000111",
+    "amount": 1,
+    "notes": "",
+    "descAge": " 明",
+    "descCreator": "文徵明",
+    "descSize": "43.9 x 317.4（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "文徵明（1470－1559），江蘇長洲人，字徵仲，號衡山居士。五十歲以歲貢到北京，任翰林院待詔，三年後辭歸。詩文書畫俱有很高造詣，為明代中葉蘇州書畫界的領袖。本幅文氏自書所作〈恭候大駕還自南郊〉七言律詩一首，原詩收錄於《甫田集》卷十，字大徑四寸，用筆勁健豪放，氣勢通貫全幅，結字筆法頗得黃山谷縱逸之氣。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。傷損，傷補，蟲蛀，霉傷。",
+    "documents": [
+        {
+            "fileid": 151234,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-24/554737b9-eca5-4eb3-ae55-33113f61a3c1/公告.pdf"
+        },
+        {
+            "fileid": 151235,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-24/e4603a59-1781-4e0e-a9e3-51b757a08bbb/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71363,
+            "caseId": 3951,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75778,
+            "caseId": 3951,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

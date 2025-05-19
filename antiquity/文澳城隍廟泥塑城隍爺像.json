@@ -1,0 +1,111 @@
+{
+    "id": 17484,
+    "caseId": "20210518000006",
+    "count": 387,
+    "shareCount": 0,
+    "representImage": 67257,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-03-10/066bf4f0-0693-4c0c-ad78-f16dd117b94f/2017文澳城隍廟_170413_0044_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-03-10/066bf4f0-0693-4c0c-ad78-f16dd117b94f/2017文澳城隍廟_170413_0044.jpg",
+        "name": "2017文澳城隍廟_170413_0044"
+    },
+    "caseName": "文澳城隍廟泥塑城隍爺像",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "數量稀少者"
+    ],
+    "registerReason": "1、具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：乾隆年間，澎湖通判謝維祺另建馬公城隍廟，使得文澳城隍廟的官祀地位不如以往，但民間信仰地位仍不墜。文澳城隍爺的造型有別於馬公城隍爺，而有文城隍之稱。 \n2、數量稀少者：城隍爺像與七爺、八爺像至少於民國39年文澳城隍廟重修之前便存在，為澎湖少數泥塑神像。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、5款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00651-P-106-0009",
+    "amount": 1,
+    "descAge": "1950年以前",
+    "descSize": "高170公分/寬107公分/深83公分",
+    "descMaterial": "泥",
+    "reserveStatusDesc": "紅面五絡綹長鬚，長及胸，為動物毛髮，頭戴展腳幞頭，深著金色寬袖蟒袍，袍上漆線金色龍紋凸出，漆線工藝粗糙，腰繫華帶，袍長至腳，腳著綠色靴，腳踩虎。整體神像坐於圈椅上，手舉至胸持鐵製笏。圈椅座兩側有「綁腿皮帶」「墨水瓶」等墨書。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "無",
+    "saveEnvironment": 2,
+    "reserveStatus": "正殿神龕內",
+    "documents": [
+        {
+            "fileid": 110961,
+            "name": "文澳城隍廟泥塑城隍爺像.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-18/4e1c1197-7e92-49f7-818c-d31084a8f4ab/文澳城隍廟泥塑城隍爺像.pdf"
+        },
+        {
+            "fileid": 110962,
+            "name": "文澳城隍廟6件公告修正(1090513).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-18/7c238ae7-de71-4d10-91bb-b54c13ad7a2b/文澳城隍廟6件公告修正(1090513).pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.581087,
+    "latitude": 23.563866,
+    "representImageSource": "澎湖縣政府文化局/逢甲大學  陳英豪研究助理拍攝",
+    "keepNames": [
+        {
+            "keepNameIdStr": "文澳城隍廟",
+            "keepName": "莊耀玠",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "文澳城隍廟",
+            "keepAddressNew": "澎湖縣馬公市西文里25號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "澎湖縣",
+            "keepNameDistName": "馬公市",
+            "keepNameAddress": "西文里25號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 127637,
+            "caseId": 17484,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "西文里25號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 138558,
+            "caseId": 17484,
+            "caseStatus": true,
+            "registerDate": 1585238400000,
+            "officialDocNo": "府授文博字第1093700996號",
+            "classificationId": 1
+        },
+        {
+            "id": 138559,
+            "caseId": 17484,
+            "caseStatus": true,
+            "registerDate": 1589352277055,
+            "officialDocNo": "府授文博字第10937015412號",
+            "classificationId": 2,
+            "note": "修正引用依據"
+        }
+    ],
+    "isPublic": false
+}

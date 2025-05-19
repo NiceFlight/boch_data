@@ -1,0 +1,105 @@
+{
+    "id": 15721,
+    "caseId": "20180601000008",
+    "count": 365,
+    "shareCount": 0,
+    "representImage": 147334,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-13/abe9c4cc-edfd-4254-a522-9baee2a76369/DSC09886-hhy_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-13/abe9c4cc-edfd-4254-a522-9baee2a76369/DSC09886-hhy.jpg",
+        "name": "DSC09886-hhy"
+    },
+    "caseName": "重修順天宮碑記序",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1507219200000,
+    "officialDocNo": "府文資二字第1063809916H號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就",
+        "數量稀少者",
+        "對地方或族群知識、技術或流派發展具影響或意義"
+    ],
+    "registerReason": "1.本件石碑記載順天宮重修之原委（清道光14年至咸豐2年），對地方記憶保存深具意義；撰書人清大坵田堡馬龍瑞，是研究地方史的資料。\n2.標準清代石碑材料（花崗岩）、刻法、字體清晰，可作為研究清代石碑工藝的材料。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2、3、4、5、6款",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "belongCityId": 13,
+    "belongCityName": "雲林縣",
+    "belongDistName": "土庫鎮",
+    "govInstitution": "雲林縣政府",
+    "govDeptName": "文化處",
+    "govDeptPhone": "05-5523157",
+    "govDeptAddress": "雲林縣斗六市大學路三段310號",
+    "reservationCode": "暫無",
+    "amount": 1,
+    "descAge": "西元1852年（清咸豐2年）",
+    "descSize": "寬54公分，高106公分",
+    "descMaterial": "石質",
+    "reserveStatusDesc": "由清大坵田堡書爺馬龍瑞於咸豐二年所撰書，主要闡述順天宮自清道光十四年至咸豐二年，共修築十八年，後期也興建禪室與與敬聖亭等。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "西元1852年（清咸豐2年〉，地點：土庫順天宮",
+    "saveEnvironment": 2,
+    "reserveStatus": "現況良好。\n",
+    "documents": [
+        {
+            "fileid": 142076,
+            "name": "中華民國106年10月06日 府文資二字第1063809916號 重修順天宮碑記序.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-10-31/dd75a677-1662-40b8-8ab4-e14c73817f30/中華民國106年10月06日 府文資二字第1063809916號 重修順天宮碑記序.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 120.390553,
+    "latitude": 23.676565,
+    "representImageSource": "雲林縣政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "土庫順天宮管理委員會",
+            "keepName": "土庫順天宮管理委員會",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "土庫順天宮管理委員會",
+            "keepAddressNew": "雲林縣土庫鎮順天里中正路109號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "雲林縣",
+            "keepNameDistName": "土庫鎮",
+            "keepNameAddress": "順天里中正路109號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "土庫鎮",
+            "id": 68967,
+            "caseId": 15721,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1304,
+            "address": "中正路109號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73096,
+            "caseId": 15721,
+            "caseStatus": true,
+            "registerDate": 1507219200000,
+            "officialDocNo": "府文資二字第1063809916H號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

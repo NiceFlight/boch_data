@@ -1,0 +1,106 @@
+{
+    "id": 16567,
+    "caseId": "20190215000006",
+    "count": 302,
+    "shareCount": 0,
+    "representImage": 55440,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-02-15/10589430-33ab-4259-a336-3bd5508e5b6f/8-故銅002385_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-02-15/10589430-33ab-4259-a336-3bd5508e5b6f/8-故銅002385.jpg",
+        "name": "8-故銅002385"
+    },
+    "caseName": "頌鼎",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1550122367137,
+    "officialDocNo": "文授資局物字第10830016641號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此器器身為半球形，兩立耳，三蹄足。口沿下飾弦紋二道。儉樸隆重。器內壁有長篇銘文，記述西周晚期要臣頌接受周王冊命的典禮經過及豐富賞賜。\n〈頌鼎〉為西周晚期重要器群。現已知同款同銘者有三件，除本件外，另藏於上海博物館及北京故宮博物院。作器者頌與已指定之〈西周晚期頌壺〉之作器者為同一人，合觀兩器上之冊命銘文，見證西周晚期冊命儀式及禮制發展。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第3、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故銅002385",
+    "amount": 1,
+    "descAge": "西周晚期(西元前9-8世紀) ",
+    "descSize": "通高25公分/腹深13公分/口徑25.7公分/腹圍75.8公分",
+    "descMaterial": "銅/鑄造",
+    "reserveStatusDesc": "器身為半球形，兩立耳，三蹄足。 口沿下飾弦紋二道。儉樸隆重，為西周晚期典型樣式。\n器內壁有銘文十六行一百四十九字，重文二：\n唯三年五月既死霸甲戌，王在周康卲宮。旦，王各大室，即位。宰引右頌，入門，立中廷，尹氏受王命書，王呼史虢生冊命頌。王曰：「頌，令女官司成周賈廿家，監 新造，賈用宮御，賜汝玄衣黹純、赤巿、朱衡、鑾旂、 勒，用事。」頌拜 首，受令，冊佩以出，返納瑾璋。頌敢對揚天子丕顯魯休，用朕皇考恭叔、皇母恭姒寶尊鼎，用追孝祈 康 純祐通祿永命。頌其萬年眉壽，畯臣天子霝終，子子孫孫寶用。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏。",
+    "saveEnvironment": 1,
+    "reserveStatus": "良好。",
+    "documents": [
+        {
+            "fileid": 146897,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-03/8e30974e-0ec9-41ef-8efc-d34c1a57465f/公告.pdf"
+        },
+        {
+            "fileid": 146898,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-03/865ad380-9831-496a-be12-d207f4dcefca/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 68730,
+            "caseId": 16567,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 72830,
+            "caseId": 16567,
+            "caseStatus": true,
+            "registerDate": 1550122367137,
+            "officialDocNo": "文授資局物字第10830016641號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

@@ -1,0 +1,105 @@
+{
+    "id": 3370,
+    "caseId": "20140425000026",
+    "count": 26,
+    "shareCount": 0,
+    "representImage": 5864,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7012/photo/春秋師說(元刊本)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7012/photo/春秋師說(元刊本).jpg",
+        "name": "春秋師說(元刊本)"
+    },
+    "caseName": "春秋師說 (元刊本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1398355200000,
+    "officialDocNo": "10320044271",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "元末商山義塾刊本。\r\n編者趙汸（1319-1369），字子常，休寧人。師事黃澤，受易象春秋之學。隱居著述，作東山精舍以奉母，學者稱東山先生。\r\n趙汸嘗師九江黃澤，與學春秋之要，因此而成此編，故題曰師說，明不忘所自。\r\n元版古籍，罕見稀有，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第1項第5、6款指定基準。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號00538",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "元代",
+    "descCreator": "趙汸",
+    "descSize": "半葉13行，版匡16.5x13.6公分。",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "三卷，附錄二卷。\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "無蟲蛀，未經修裱，書況良好，但部分書口處裂開需修補。",
+    "documents": [
+        {
+            "fileid": 5865,
+            "name": "d78d4fda-c345-4290-886b-96021e1b0d6f.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43985/file/d78d4fda-c345-4290-886b-96021e1b0d6f.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3512,
+            "caseId": 3370,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3512,
+            "caseId": 3370,
+            "caseStatus": true,
+            "registerDate": 1398355200000,
+            "officialDocNo": "10320044271",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

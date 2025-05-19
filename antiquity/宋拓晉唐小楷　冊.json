@@ -1,0 +1,99 @@
+{
+    "id": 19234,
+    "caseId": "20210531000008",
+    "count": 238,
+    "shareCount": 0,
+    "representImage": 116713,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-05-31/fd3b8ba5-9082-484e-a8b9-c344174e6009/PK2D000007N000000000PAA (2)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-05-31/fd3b8ba5-9082-484e-a8b9-c344174e6009/PK2D000007N000000000PAA (2).jpg",
+        "name": "PK2D000007N000000000PAA (2)"
+    },
+    "caseName": "宋拓晉唐小楷　冊",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "由宋代對羅紋箋使用，可據以斷定出拓製時間，故全冊至少有六件為傳世稀少宋拓。雖然冊中書法不一定出自這些晉唐名家之手，但反映宋以來對晉唐小楷想像，成為書法史上晉唐小楷書法典範。\n",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第3、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故帖000007 N000000000-08",
+    "amount": 9,
+    "descAge": "宋",
+    "descCreator": "",
+    "descSize": "各幅均21.9x13.5公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "此拓本晉唐小楷九種，內容有王羲之〈樂毅論〉、〈黃庭經〉、〈曹娥碑〉、 〈東方朔畫贊〉、王獻之〈洛神賦〉、歐陽詢〈般若波羅蜜多心經〉、柳公權〈太上洞玄消災護命經〉、褚遂良〈陰符經〉、顏真卿〈麻姑山仙壇記〉。\n晉唐小楷摹刻與流行應從宋代開始，其中又以南宋紹熙間越州石熙明石氏刻帖最為人所知。明清收藏家經常將來源不同小楷合併為晉唐小楷冊，有取自單刻本，或從各種叢帖中拆出裝為一集。\n從使用紙張與摹拓技法判斷，此帖來源各異，也是出於後人拼裝，除〈樂毅論〉、〈太上洞玄消災護命經〉、〈麻姑山仙壇記〉不是使用羅紋箋外，其餘皆是拓於羅紋箋（多見於宋代）上，俗稱「隔麻拓」，因此可以推斷為宋拓本。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "",
+    "saveEnvironment": 1,
+    "reserveStatus": "舊傷補、舊折痕、污漬。",
+    "documents": [
+        {
+            "fileid": 142916,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-05/3ea7f9ee-69f4-462d-92b2-852125379162/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.549499,
+    "latitude": 25.10037,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 66451,
+            "caseId": 19234,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 70640,
+            "caseId": 19234,
+            "caseStatus": true,
+            "registerDate": 1622390400000,
+            "officialDocNo": "文授資局物字第11030057001號",
+            "classificationId": 1,
+            "note": ""
+        }
+    ],
+    "isPublic": false
+}

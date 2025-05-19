@@ -1,0 +1,105 @@
+{
+    "id": 3595,
+    "caseId": "20130813000050",
+    "count": 56,
+    "shareCount": 0,
+    "representImage": 6292,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7306/photo/山堂先生群書考索（元刊本）_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7306/photo/山堂先生群書考索（元刊本）.png",
+        "name": "山堂先生群書考索（元刊本）"
+    },
+    "caseName": "山堂先生群書考索（元刊本）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1376323200000,
+    "officialDocNo": "文資局物字第 10220091271號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "元延祐庚申七年(1320)圓沙書院刊本。\r\n宋自南渡以後，通儒尊性命而薄事功，文士尚議論而少考證，故作者撰此書，以考索為名，言必有徵、事必有據、博采諸家而折衷以己意，不但淹通掌故亦頗以經世為心。此本紙墨清潔，字畫明晰，元建體字型，為圓沙書院原版早印本。\r\n元版古籍，罕見稀有，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號07890",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 56,
+    "notes": "",
+    "descAge": "元延祐庚申七年(1320)",
+    "descCreator": "宋章如愚撰",
+    "descSize": "半葉15行，版匡16.1x10.5公分",
+    "descMaterial": "紙質刊本",
+    "reserveStatusDesc": "前集六十六卷，後集六十五卷，續集五十六卷。卷五十一有部分為補鈔。\n宋自南渡以後，通儒尊性命而薄事功，文士尚議論而少考證，故作者撰此書，以考索為名，言必有徵、事必有據、博采諸家而折衷以己意，不但淹通掌故亦頗以經世為心。此本紙墨清潔，字畫明晰，元建體字型，為圓沙書院原版早印本。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有虫蛀，經修裱；部份書口處裂開，保存情況良好。\n",
+    "documents": [
+        {
+            "fileid": 6293,
+            "name": "4efc506c-501d-490c-9dce-faca1a6e6654.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44188/file/4efc506c-501d-490c-9dce-faca1a6e6654.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3737,
+            "caseId": 3595,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3737,
+            "caseId": 3595,
+            "caseStatus": true,
+            "registerDate": 1376323200000,
+            "officialDocNo": "文資局物字第 10220091271號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

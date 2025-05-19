@@ -1,0 +1,103 @@
+{
+    "id": 16321,
+    "caseId": "20181105000003",
+    "count": 1057,
+    "shareCount": 3,
+    "representImage": 51162,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-11-05/9c5bbecc-37fe-4cad-a649-6ccd7341f14e/正面_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-11-05/9c5bbecc-37fe-4cad-a649-6ccd7341f14e/正面.jpg",
+        "name": "正面"
+    },
+    "caseName": "頭城忠魂碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1488952444148,
+    "officialDocNo": "府文資字第1060001547E號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "數量稀少者"
+    ],
+    "registerReason": "1.頭城忠魂碑見證了台日交接時期頭城地區抗日的歷史事蹟，也反映了日本、中國與臺灣的文化內容與族群關係，具有歷史意義。\n2.留存有「忠魂碑建設紀錄」等史料作為說明與佐證，豐富的史事紀實，可供研究之用。\n3.此碑之文字清晰且精美，為宜蘭縣目前保存較為完整之忠魂碑體，具有珍貴性及稀有性。\n",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2、5款",
+    "govInstitutionCode": "260",
+    "govInstitutionName": "宜蘭縣政府",
+    "belongCityId": 4,
+    "belongCityName": "宜蘭縣",
+    "belongDistName": "頭城鎮",
+    "govInstitution": "宜蘭縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-9322440#609",
+    "govDeptAddress": "宜蘭縣宜蘭市復興路101號",
+    "reservationCode": "保管單位使用之編號",
+    "amount": 1,
+    "descAge": "1936年",
+    "descSize": "高約121.2公分，寬約48.48公分",
+    "descMaterial": "溪石",
+    "reserveStatusDesc": "碑石高4尺、寬1尺6寸，碑才為大里簡溪所採之溪石，正面題字忠魂碑。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "已之最早既存時間:西元1936年。地點:日治時期駐軍營地。",
+    "saveEnvironment": 3,
+    "reserveStatus": "今僅存石碑而不見碑體基座原貌。",
+    "documents": [
+        {
+            "fileid": 51161,
+            "name": "頭城忠魂碑.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-11-05/b1b091d8-5419-49ff-8357-acff58cbb4ca/頭城忠魂碑.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.82593242553072,
+    "latitude": 24.86301709861228,
+    "representImageSource": "簡聰祥",
+    "keepNames": [
+        {
+            "keepNameIdStr": "宜蘭頭城鎮武營社區發展協會",
+            "keepName": "宜蘭頭城鎮武營里武營路19號",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "宜蘭縣頭城鎮武營里武營路東側和開蘭路279巷的交叉處",
+            "saveSpaceOther": "公園",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "宜蘭縣",
+            "distName": "頭城鎮",
+            "id": 149060,
+            "caseId": 16321,
+            "caseStatus": true,
+            "cityId": 4,
+            "distId": 402,
+            "address": "武營路東側和開蘭路279巷"
+        }
+    ],
+    "announces": [
+        {
+            "id": 162074,
+            "caseId": 16321,
+            "caseStatus": true,
+            "registerDate": 1488952444148,
+            "officialDocNo": "府文資字第1060001547E號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

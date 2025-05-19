@@ -1,0 +1,105 @@
+{
+    "id": 3553,
+    "caseId": "20130813000008",
+    "count": 849,
+    "shareCount": 3,
+    "representImage": 6209,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7268/photo/四庫全書總目（清寫本）_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7268/photo/四庫全書總目（清寫本）.png",
+        "name": "四庫全書總目（清寫本）"
+    },
+    "caseName": "四庫全書總目（清寫本）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1376323200000,
+    "officialDocNo": "文資局物字第 10220091271號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "清乾隆間(1736-1795)四庫館批改底稿本。\r\n《四庫全書總目》共二百卷，是清代紀昀等編纂的一部大型解題書目。本書存卷四十五至卷四十九，即正史、編年、別史類殘篇成一冊，文中朱墨筆改削是總纂官紀昀手跡，可與通行之「總目」相比勘，尤為珍貴。\r\n\r\n清四庫館底稿本，罕見稀有，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號05001",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "清乾隆間(1736-1795)",
+    "descCreator": "清紀昀等撰",
+    "descSize": "半葉9行，版匡21.4x15.3公分",
+    "descMaterial": "紙質寫本",
+    "reserveStatusDesc": "不分卷。《四庫全書總目》共二百卷，是清代紀昀等編纂的一部大型解題書目。本書存卷四十五至卷四十九，即正史、編年、別史類殘篇成一冊，文中朱墨筆改削是總纂官紀昀手跡，可與通行之「總目」相比勘，尤為珍貴。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "無蟲蛀。經修裱，書口處部分裂開，書況良好。\n",
+    "documents": [
+        {
+            "fileid": 6210,
+            "name": "3cf43bb5-eea0-442b-bbf6-986abebfa9db.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44147/file/3cf43bb5-eea0-442b-bbf6-986abebfa9db.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3695,
+            "caseId": 3553,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3695,
+            "caseId": 3553,
+            "caseStatus": true,
+            "registerDate": 1376323200000,
+            "officialDocNo": "文資局物字第 10220091271號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

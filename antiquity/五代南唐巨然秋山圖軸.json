@@ -1,0 +1,102 @@
+{
+    "id": 4465,
+    "caseId": "20160803000003",
+    "count": 332,
+    "shareCount": 0,
+    "representImage": 7505,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133366/photo/五代南唐巨然秋山圖軸_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133366/photo/五代南唐巨然秋山圖軸.jpg",
+        "name": "五代南唐巨然秋山圖軸"
+    },
+    "caseName": "五代南唐巨然秋山圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1470153600000,
+    "officialDocNo": "文授資局物字第10530074283號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "畫幅無名款，董其昌鑑識為巨然（十世紀）之作。然與故宮院藏之吳鎮（1280-1354）〈清江春曉〉比對，發現兩幅之筆墨、構圖、山石、林木均極為近似，且本幅上尚有吳鎮「梅花盦」印記，可見是應出自吳鎮之手。\n吳鎮（1280－1354），工詩文，善草書，擅畫水墨山水花卉，善用濕墨表現山川林木鬱茂景色。與黃公望、王蒙、倪瓚並稱「元四大家」。\n此件雙拼大軸畫溪橋洲渚，遙峰遠水，扁舟橫渡，佈景開濶曠遠。山石全用披麻皴層層皴染，墨色淋漓，具酣暢之勢。本幅皴染深厚，氣勢豪邁，是吳鎮壯年著力之作，乃吳氏傳世山水畫的精品。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第3、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000821",
+    "amount": 1,
+    "descAge": "元",
+    "descCreator": "吳鎮",
+    "descSize": "150.9公分 x 103.8公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "此件雙拼大軸畫溪橋洲渚，遙峰遠水，扁舟橫渡，佈景開濶曠遠。山石全用披麻皴層層皴染，墨色淋漓，具酣暢之勢。畫幅無名款，董其昌鑑識為巨然（十世紀）之作。然與本院之吳鎮（1280-1354）〈清江春曉〉比對，發現兩幅之筆墨、構圖、山石、林木均極為近似，且本幅上尚有吳鎮「梅花盦」印記，可見是應出自吳鎮之手。惟董氏誤認作者鈐印為收傳印記，故云：「僧巨然畫，元時吳仲圭所藏。」",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷需處理。本幅霉傷，絹裂，剝落，傷損傷補。",
+    "documents": [
+        {
+            "fileid": 7507,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133365/file/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69581,
+            "caseId": 4465,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73748,
+            "caseId": 4465,
+            "caseStatus": true,
+            "registerDate": 1470153600000,
+            "officialDocNo": "文授資局物字第10530074283號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

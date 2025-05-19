@@ -1,0 +1,101 @@
+{
+    "id": 4366,
+    "caseId": "20150505000013",
+    "count": 327,
+    "shareCount": 2,
+    "representImage": 7327,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4523/photo/明仇英水仙蠟梅軸_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4523/photo/明仇英水仙蠟梅軸.jpg",
+        "name": "明仇英水仙蠟梅軸"
+    },
+    "caseName": "明仇英水仙蠟梅軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1430755200000,
+    "officialDocNo": "文授資局物第 10420054041號",
+    "judgeCriteria": [
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "仇英（約1494－1552），字實父，號十洲，居蘇州。從周臣學畫，擅長山水、仕女、人物。與沈周、文徵明、唐寅，並稱明四家。\n此幅絹本設色，蠟梅枝幹轉折、花朵向背皆處理細膩。水仙二株，一為單瓣，一為重瓣，姿態優雅。畫法源自宋代院畫勾勒填彩技法，繪製精謹，但又別具清雅之風，具個人特色。仇英以花卉為主題的傳世作品相當稀少，此件又是其中的極精之作。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第4條1項第4、5款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局 ",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫002191",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descSize": "47.5 x 25（公分）",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "仇英，字實父，號十洲，與沈周、文徵明、唐寅，並稱明四家。此幅絹本設色，蠟梅枝幹轉折、花朵向背皆處理細膩。水仙二株，一為單瓣，一為重瓣，姿態優雅。水仙與蠟梅同為正月花卉，構思佳妙，兼具歲朝意涵。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "天杆、天綾：折裂、水漬、霉傷、磨損。本幅：霉傷、傷補、絹裂。",
+    "documents": [
+        {
+            "fileid": 150018,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-10/d37d805e-ec3e-4014-8f1c-a12a1e135399/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 94368,
+            "caseId": 4366,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": " 至善路二段221號  "
+        }
+    ],
+    "announces": [
+        {
+            "id": 101769,
+            "caseId": 4366,
+            "caseStatus": true,
+            "registerDate": 1430755200000,
+            "officialDocNo": "文授資局物第 10420054041號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

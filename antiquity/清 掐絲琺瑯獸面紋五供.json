@@ -1,0 +1,94 @@
+{
+    "id": 23265,
+    "caseId": "20250306000020",
+    "count": 28,
+    "shareCount": 0,
+    "representImage": 281615,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2025-03-06/eaab9268-b4a6-456b-9a48-5a57728d2040/163-167_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2025-03-06/eaab9268-b4a6-456b-9a48-5a57728d2040/163-167.jpg",
+        "name": "163-167"
+    },
+    "caseName": "清 掐絲琺瑯獸面紋五供",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者"
+    ],
+    "registerReason": "符合一般古物指定基準第 3 款「能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者。」：明顯清代宮廷琺瑯器作風，材質、色彩、造型均為刻意製作的復古禮器，技術與裝飾風格均具清宮特殊成就。一套五件，保持完整具展示之價值。可放入清代宗教、宮廷歷史脈絡，具研究價值。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174之1號",
+    "reservationCode": "中琺001063-中琺001067",
+    "amount": 5,
+    "descAge": "清",
+    "descSize": "清掐絲琺瑯獸面紋鼎式爐（中琺 001063）／長 27.0／寬 21.8／通高約 45.5 清掐絲琺瑯獸面紋觚形瓶（中琺 001064）／高 40.8 清掐絲琺瑯獸面紋觚形瓶（中琺 001065）／高 41.1 清掐絲琺瑯獸面紋燭台（中琺 001066）／高 37.5 清掐絲琺瑯獸面紋燭台（中琺 001067）／高 39.2",
+    "descMaterial": "銅",
+    "reserveStatusDesc": "「五供」是指由香爐與一對燭台、一對花瓶或花觚組成的祭器，此組合於蒙元時期的道教墓葬形成，並在明代的佛、道寺廟或陵寢中大量出現。清代宮廷使用各類媒材製作五供。國立故宮博物院藏掐絲琺瑯五供約五十組件，大部分為乾隆時期製作；此套五供無款，紋樣風格受乾隆時期掐絲琺瑯製器影響，為樣式化的獸面紋及回紋。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏。",
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定。",
+    "documents": [
+        {
+            "fileid": 281614,
+            "name": "114年2月12日北市文獻編字第11430008081號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2025-03-06/c09508ee-47bb-444a-b1b5-d74d2a2bcca1/114年2月12日北市文獻編字第11430008081號公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 148032,
+            "caseId": 23265,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 160812,
+            "caseId": 23265,
+            "caseStatus": true,
+            "registerDate": 1739354901086,
+            "officialDocNo": "北市獻編字第11430008081號公告",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,97 @@
+{
+    "id": 21074,
+    "caseId": "20221107000001",
+    "count": 312,
+    "shareCount": 0,
+    "representImage": 186374,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-10-05/94344d99-4082-4386-8cda-8dd0e6f1cae1/島尾遺址_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-10-05/94344d99-4082-4386-8cda-8dd0e6f1cae1/島尾遺址.jpg",
+        "name": "島尾遺址"
+    },
+    "caseName": "亮島島尾遺址-骨角倒鉤式魚叉",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-其他",
+    "otherAssetsType": "生活及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "數量稀少者"
+    ],
+    "registerReason": "1.亮島島尾I遺址出土的骨角器以「倒鉤式魚叉」最具特色，特別是只有單側的倒鉤有別於一般的魚叉。\n2.整件器物幾乎無破損，刃部仍十分銳利，為亮島島尾遺址群中唯一一件保存狀況如此完整的器物。\n3.此件器物亦為我國領土中，出土年代最早的倒鉤式魚叉，因此不論就其年代、完整度、稀有性、學術研究價值以及歷史事件或地方重要人物相關性，都有著高度的價值。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、5款",
+    "govInstitutionCode": "210",
+    "govInstitutionName": "連江縣政府",
+    "govInstitution": "連江縣政府",
+    "govDeptName": "連江縣政府文化處",
+    "govDeptPhone": "0836-22393",
+    "govDeptAddress": "連江縣南竿鄉清水村136-1號",
+    "reservationCode": "-",
+    "amount": 1,
+    "descAge": "-",
+    "descSize": "長85.4mm，寬15.7mm，厚9.2mm，重10.8g",
+    "descMaterial": "人工遺留ˍ骨(貝)質",
+    "reserveStatusDesc": "整器，尖端有兩個倒刺；首部有清晰刻槽",
+    "pastHistorySource": 4,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整",
+    "documents": [
+        {
+            "fileid": 186373,
+            "name": "亮島島尾遺址-骨角倒鉤式魚叉.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-10-05/24f31bbf-8144-437c-aec5-19a645430e3d/亮島島尾遺址-骨角倒鉤式魚叉.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.22364163008979,
+    "latitude": 26.34130080387389,
+    "representImageSource": "連江縣政府文化處",
+    "keepNames": [
+        {
+            "keepNameIdStr": "連江縣政府",
+            "keepName": "-",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "連江縣政府",
+            "keepAddressNew": "-",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "連江縣",
+            "keepNameDistName": "南竿鄉",
+            "keepNameAddress": "介壽村76號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "連江縣",
+            "distName": "北竿鄉",
+            "id": 94995,
+            "caseId": 21074,
+            "caseStatus": true,
+            "cityId": 25,
+            "distId": 2502,
+            "address": "亮島"
+        }
+    ],
+    "announces": [
+        {
+            "id": 102485,
+            "caseId": 21074,
+            "caseStatus": true,
+            "registerDate": 1635834975005,
+            "officialDocNo": "府文博字第1100045868號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

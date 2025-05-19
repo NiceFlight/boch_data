@@ -1,0 +1,105 @@
+{
+    "id": 3055,
+    "caseId": "20140205000006",
+    "count": 786,
+    "shareCount": 2,
+    "representImage": 150905,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-01-20/e97b96c8-c6e4-4d6e-b933-b55cf81729f5/北港集雅軒繡製綵旗（圖像面）修復後_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-01-20/e97b96c8-c6e4-4d6e-b933-b55cf81729f5/北港集雅軒繡製綵旗（圖像面）修復後.jpg",
+        "name": "北港集雅軒繡製綵旗（圖像面）修復後"
+    },
+    "caseName": "北港集雅軒繡製綵旗",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1391529600000,
+    "officialDocNo": "府文資字第1037400922A號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "該件器物雖僅為一般繡布製旗幟，但為北港集雅軒之團旗，且為雙面繡製，其見證集雅軒社團歷史，深具文化意義。",
+    "lawsReference": "符合文化資產保存法第65條暨古物分級登錄指定及廢止審查辦法第2條第1項第1、2、3、4、5、6款之基準。",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "belongCityId": 13,
+    "belongCityName": "雲林縣",
+    "belongDistName": "北港鎮",
+    "govInstitution": "雲林縣政府",
+    "govDeptName": "文化觀光處",
+    "govDeptPhone": "(05)5523218",
+    "govDeptAddress": "雲林縣斗六市大學路三段310號",
+    "reservationCode": "暫無",
+    "amount": 1,
+    "notes": "",
+    "descAge": "推測為咸豐年間創館至日治初期這段期間所繡製",
+    "descSize": "待測量",
+    "descMaterial": "布、棉花、蔥線",
+    "reserveStatusDesc": "北港集雅軒繡製綵旗為雙面繡製，主要材質為布、棉花、蔥線，正面繡有「蝙蝠圖、蓮花圖迴龍紋框」，框內繡有凸字「笨北港集雅軒」；背面繡有「暗八仙草花框」，框內繡有「雙龍拜塔」、「牡丹花」、「蝙蝠」等圖樣。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定 ",
+    "documents": [
+        {
+            "fileid": 142095,
+            "name": "中華民國103年02月05日 府文資二字第1037400922號 北港集雅軒繡製綵旗.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-10-31/ade9862f-b361-47c5-897e-233961688be5/中華民國103年02月05日 府文資二字第1037400922號 北港集雅軒繡製綵旗.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 23.568576251765002,
+    "latitude": 120.30337559938279,
+    "representImageSource": "侯宗延先生",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "北港集雅軒協會",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "雲林縣北港鎮北港鎮博愛路62號",
+            "saveSpaceIdStr": "民俗團體",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "北港鎮",
+            "id": 76849,
+            "caseId": 3055,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1316,
+            "address": "博愛路62號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 82544,
+            "caseId": 3055,
+            "caseStatus": true,
+            "registerDate": 1391529600000,
+            "officialDocNo": "府文資字第1037400922B號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

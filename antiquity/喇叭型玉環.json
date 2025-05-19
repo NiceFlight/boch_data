@@ -1,0 +1,106 @@
+{
+    "id": 4340,
+    "caseId": "20121107000004",
+    "count": 671,
+    "shareCount": 0,
+    "representImage": 7277,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/38139/photo/17f2a6cc-2919-441a-ba0a-8d2516d3f90e_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/38139/photo/17f2a6cc-2919-441a-ba0a-8d2516d3f90e.jpg",
+        "name": "17f2a6cc-2919-441a-ba0a-8d2516d3f90e"
+    },
+    "caseName": "喇叭型玉環",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1352217600000,
+    "officialDocNo": "文資局物字第10120133973號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "具有特殊之時代特色、技術及流派",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "喇叭形玉環，出自卑南遺址石板棺，為塊狀玉材琢磨而成之玉飾，一體成形，斷面略呈「L」形，一面擴張如喇叭口部，擴張處弧度圓轉，修磨光滑圓潤，為臺灣史前玉器工藝中極為少見的立體玉器。總體而言，此件標本，玉質通透、作工精緻、品質精良、罕見於臺灣史前遺址、展現台灣史前製玉工藝的高超及風格的特殊。",
+    "lawsReference": "「古物分級登錄指定及廢止審查辦法」第4條第1項第1、3、5、6款；第6條及第7條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 22,
+    "belongCityName": "臺東縣",
+    "belongDistName": "臺東市",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "201216-00007-PN",
+    "keepNameId": 10,
+    "keepName": "國立臺灣史前文化博物館",
+    "keepNameNew": 10,
+    "keepAddressNew": "950台東縣台東市博物館路1號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "距今3500-4000年",
+    "descSize": "長：28.45 公分，寬：1.05公分，厚：1公分",
+    "descMaterial": "臺灣玉",
+    "reserveStatusDesc": "為塊狀玉材所鑽鑿而成之玉飾，環肉斷面略呈「L」形，環身一面擴張如喇叭口部，擴張處弧度圓轉，器身修飾程度高。",
+    "pastHistorySource": 3,
+    "pastHistorySourceNotes": "卑卑南遺址 臺東縣政府採集發掘移轉標本",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 52744,
+            "name": "用印公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-12-19/a6c01d76-69fa-4cfd-abb7-20afcd74433b/用印公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立臺灣史前文化博物館",
+            "keepName": "國立臺灣史前文化博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立臺灣史前文化博物館",
+            "keepAddressNew": "950台東縣台東市博物館路1號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺東縣",
+            "keepNameAddress": "豐田里博物館路1號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺東縣",
+            "distName": "臺東市",
+            "id": 4483,
+            "caseId": 4340,
+            "caseStatus": true,
+            "cityId": 22,
+            "distId": 2201
+        }
+    ],
+    "announces": [
+        {
+            "id": 4483,
+            "caseId": 4340,
+            "caseStatus": true,
+            "registerDate": 1352217600000,
+            "officialDocNo": "文資局物字第10120133973號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

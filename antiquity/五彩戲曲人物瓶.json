@@ -1,0 +1,106 @@
+{
+    "id": 3141,
+    "caseId": "20111220000005",
+    "count": 363,
+    "shareCount": 0,
+    "representImage": 5579,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/37970/photo/e13de65a-5d5d-4159-a7e3-367ea530a99c_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/37970/photo/e13de65a-5d5d-4159-a7e3-367ea530a99c.jpg",
+        "name": "e13de65a-5d5d-4159-a7e3-367ea530a99c"
+    },
+    "caseName": "五彩戲曲人物瓶",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-工藝美術",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1324310400000,
+    "officialDocNo": "高市府四維史博字第1000140520號",
+    "judgeCriteria": [
+        "具有一定之時代特色、技術及流派",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本古物係民間窯作品，清末民初時仿製，頸部藍地冰紋，彩繪五鶴祥雲。\r\n肩部黑釉刻葡萄紋，頸肩交接處貼蟠螭紋；胸部白地冰紋，彩繪作戰場景，騎馬將軍四人，兵卒六人(係取材自三國演義張飛戰馬超場景)。\r\n腰部帶狀黑釉刻花；足部淺綠釉冰紋，彩繪吉祥花卉。平底；底部留有「成化年製」款。\r\n本古物1組2件一對，相同之紋飾主題，作左右相反之佈局。此作品流行及銷售區域廣，常見國外博物館蒐藏。\r\n具有一定之時代特色、技術及藝術、文化價值。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第3、6款",
+    "govInstitutionCode": "800",
+    "govInstitutionName": "高雄市政府",
+    "belongCityId": 18,
+    "belongCityName": "高雄市",
+    "belongDistName": "鹽埕區",
+    "govInstitution": "高雄市政府文化局",
+    "govDeptName": "文化資產中心",
+    "govDeptPhone": "07-2225136#8829",
+    "govDeptAddress": "高雄市苓雅區五福一路67號",
+    "reservationCode": "KH1997.006.003",
+    "amount": 2,
+    "notes": "",
+    "descAge": "清末民初",
+    "descSize": "22x14x11公分",
+    "descMaterial": "陶瓷",
+    "reserveStatusDesc": "本古物係民間窯作品，清末民初時仿製，頸部藍地冰紋，彩繪五鶴祥雲。\n肩部黑釉刻葡萄紋，頸肩交接處貼蟠螭紋；胸部白地冰紋，彩繪作戰場景，騎馬將軍四人，兵卒六人(係取材自三國演義張飛戰馬超場景)。\n部帶狀黑釉刻花；足部淺綠釉冰紋，彩繪吉祥花卉；平底。底部留有「成化年製」款。\n本古物1組2件一對，相同之紋飾主題，作左右相反之佈局；此作品流行及銷售區域廣，常見國外博物館蒐藏。",
+    "pastHistorySource": 7,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 77994,
+            "name": "本市古物公告96-99_page-0065.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-07/a4944658-9c21-4385-870b-4d1ea503fb50/本市古物公告96-99_page-0065.jpg"
+        },
+        {
+            "fileid": 77995,
+            "name": "100年高雄市古物登錄公告表_page-0009.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-07/e04146c6-91fe-405e-860a-2407eff6d5e0/100年高雄市古物登錄公告表_page-0009.jpg"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 120.286737,
+    "latitude": 22.626671,
+    "representImageSource": "高雄市立歷史博物館提供",
+    "keepNames": [
+        {
+            "keepNameIdStr": "高雄市立歷史博物館",
+            "keepName": "鍾子瑄",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "高雄市立歷史博物館",
+            "keepAddressNew": "高雄市鹽埕區中正四路272號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "高雄市",
+            "keepNameDistName": "鹽埕區",
+            "keepNameAddress": "中正四路272號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "高雄市",
+            "distName": "鹽埕區",
+            "id": 82442,
+            "caseId": 3141,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1804,
+            "address": "中正四路272號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 88551,
+            "caseId": 3141,
+            "caseStatus": true,
+            "registerDate": 1324310400000,
+            "officialDocNo": "高市府四維史博字第1000140520號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

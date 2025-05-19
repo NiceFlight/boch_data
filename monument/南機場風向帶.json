@@ -1,0 +1,139 @@
+{
+    "id": 271,
+    "caseId": "20051028000001",
+    "count": 2776,
+    "shareCount": 2,
+    "representImage": 137759,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-09-10/4746825b-3e54-44f9-b69e-3ff150d70613/風向帶_A999643（道綺全球傳播 拍攝提供）_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-09-10/4746825b-3e54-44f9-b69e-3ff150d70613/風向帶_A999643（道綺全球傳播 拍攝提供）.jpg",
+        "name": "風向帶_A999643（道綺全球傳播 拍攝提供）"
+    },
+    "caseName": "南機場風向帶",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "機場風向帶建築於日治時期，作為量測飛機起降所須之氣候資料之用。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "南機場風向帶",
+    "assetsClassifyCode": "1.1.3",
+    "assetsClassifyName": "縣(市)定古蹟",
+    "registerDate": 1130428800000,
+    "officialDocNo": "府文資字第0940005589號",
+    "documents": [
+        {
+            "fileid": 73357,
+            "name": "風向帶公告公文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-10-20/4af3973b-94cd-4fbb-82c3-783e299ea5bc/風向帶公告公文.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "具稀少性，不易再現者"
+    ],
+    "registerReason": "南機場風向帶為防爆、防轟炸、秘匿、偽裝等目的，以磚疊出厚6B之磚牆，屋頂為RC構造並覆土，在磚造建築中十分特別，充分反映出軍事設施的特色；同時見證日治時期留下之南機場歷史遺跡，就歷史文化意義、建築特色，稀少不易再現，實有保存意義。",
+    "lawsReference": "文化資產保存法第二十七條暨古蹟指定審查處理要點第八點",
+    "govInstitutionCode": "260",
+    "govInstitutionName": "宜蘭縣政府",
+    "belongCityId": 4,
+    "belongCityName": "宜蘭縣",
+    "belongDistName": "宜蘭市",
+    "govInstitution": "宜蘭縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-9322440*652",
+    "govDeptAddress": "宜蘭縣五結鄉中正路二段6之8號",
+    "cadasters": [
+        {
+            "fileid": 163626,
+            "name": "M21南機場風向帶地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-05-12/284c45d7-eac4-4cd6-9e29-3b6413aa7985/M21南機場風向帶地籍圖.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 9,
+    "cityLandUseTypeName": "農業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "宜蘭市建蘭段1282及1282-1號",
+    "buildingFeatures": "南機場風向帶為磚砌方形建築，磚牆厚6B（約144公分），牆上開設兼具通風與防禦之效的長形窗。屋頂以混凝土築成，其上覆土成倒梯形以達欺敵掩飾之效。混凝土屋頂上架設木桿，以懸掛探測風向之旗子。",
+    "inHouseFeatures": "建築本體高約5.5公尺，若含木桿則高約12公尺。入口位於東側，入口前方並設立一道磚牆及混凝土牆，作為阻擋彈殼砲屑之用。",
+    "buildingUsage": "周圍均為稻田及少數之農舍別墅，田園景觀佳。因目前均己廢棄不用，故周圍土地已被附近農民開闢為菜圃。",
+    "buildingActualState": "建築結構體保存尚佳。",
+    "buildingKeyMaintainItem": "定期管理維護。",
+    "bulkTransfer": 0,
+    "belongAddress": "建業路22-29號東北側",
+    "isOpenDownload": true,
+    "longitude": 121.752434002627,
+    "latitude": 24.7290216800217,
+    "representImageSource": "宜蘭縣政府文化局（道綺全球傳播拍攝提供）",
+    "landScope": "",
+    "selfCoverage": "建築本體",
+    "addresses": [
+        {
+            "cityName": "宜蘭縣",
+            "distName": "宜蘭市",
+            "id": 134330,
+            "caseId": 271,
+            "caseStatus": true,
+            "cityId": 4,
+            "distId": 401,
+            "address": "建業路22-29號東北側"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "宜蘭縣",
+            "distName": "宜蘭市",
+            "landNoName": "建蘭新段",
+            "noncityLandUseTypeName": "特定農業區",
+            "id": 195183,
+            "caseId": 271,
+            "caseStatus": true,
+            "cityId": 4,
+            "distId": 401,
+            "landNoId": 15987,
+            "landSerialNo": "394",
+            "landownership": 2,
+            "noncityLandUseTypeId": 1,
+            "area": "1260.89平方公尺",
+            "noncityLandUseTypeOther": "特定目的事業用地",
+            "note": "重測前:宜蘭市建蘭段1282地號",
+            "cityLandUseId": 2
+        },
+        {
+            "cityName": "宜蘭縣",
+            "distName": "宜蘭市",
+            "landNoName": "建蘭新段",
+            "noncityLandUseTypeName": "特定農業區",
+            "id": 195184,
+            "caseId": 271,
+            "caseStatus": true,
+            "cityId": 4,
+            "distId": 401,
+            "landNoId": 15987,
+            "landSerialNo": "395",
+            "landownership": 1,
+            "noncityLandUseTypeId": 1,
+            "area": "110.67平方公尺",
+            "noncityLandUseTypeOther": "特定目的事業用地",
+            "note": "重測後:宜蘭市建蘭新段1282-1地號",
+            "cityLandUseId": 2
+        }
+    ],
+    "announces": [
+        {
+            "id": 146631,
+            "caseId": 271,
+            "caseStatus": true,
+            "registerDate": 1130428800000,
+            "officialDocNo": "府文資字第0940005589號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.75252050985569,24.72930335166322],[121.75255055034239,24.72918023681415],[121.75273436373715,24.729209206565564],[121.75279513354825,24.729218778343114],[121.75283791929486,24.72898630406455],[121.75264001477738,24.72894160581065],[121.75238444319857,24.728916688537243],[121.75237023115031,24.729130701118983],[121.7525020136723,24.729171605676825],[121.75247449112874,24.7292844247615],[121.75252050985569,24.72930335166322],[121.75252050985569,24.72930335166322]]]]},\"properties\":{\"envelope\":{\"left\":\"121.75237023115031\",\"top\":\"24.728916688537243\",\"right\":\"121.75283791929486\",\"bottom\":\"24.729303351663219\"},\"landLot\":\"宜蘭縣宜蘭市建蘭新段394\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.75237023115031,24.729130701118983],[121.75238444319857,24.728916688537243],[121.75232529929905,24.72896869881848],[121.75231002398226,24.72906839262442],[121.75233136843015,24.729105093510157],[121.75237023115031,24.729130701118983],[121.75237023115031,24.729130701118983]]]]},\"properties\":{\"envelope\":{\"left\":\"121.75231002398226\",\"top\":\"24.728916688537243\",\"right\":\"121.75238444319857\",\"bottom\":\"24.729130701118983\"},\"landLot\":\"宜蘭縣宜蘭市建蘭新段395\"}}],\"notfound\":[]}]",
+    "openVisitType": "部分開放參觀",
+    "openUpTime": "全天開放",
+    "isCharge": false,
+    "pastHistorySource": "宜蘭縣古蹟歷史調查表"
+}

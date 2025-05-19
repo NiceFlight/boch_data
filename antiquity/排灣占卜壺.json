@@ -1,0 +1,106 @@
+{
+    "id": 3313,
+    "caseId": "20161118000014",
+    "count": 338,
+    "shareCount": 0,
+    "representImage": 5783,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133472/photo/M015200_1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133472/photo/M015200_1.jpg",
+        "name": "M015200_1"
+    },
+    "caseName": "排灣占卜壺",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1479398400000,
+    "officialDocNo": "北市獻編字第10530125000號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.\t排灣陶壺重要類型，年代久遠為日據以前深具族群文化特色古老文物，已不多見。\r\n2.\t占卜壺具有宗教性，底紋清晰可見；扁壺造型圓潤，百步蛇圖騰清晰，製作用擬人造型優美具藝術性，目前少見和傳統宗教沒落有關，深具歷史、文化、藝術和科學價值。\r\n",
+    "lawsReference": "1.文化資產保存法第67條\r\n2.古物分級登錄指定及廢止審查辦法第2條第1項第1、2、3、4、5、6款\r\n",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "研究員",
+    "govDeptPhone": "02-23115355#20",
+    "govDeptAddress": "臺北市萬華區中華路1段174-1號",
+    "reservationCode": "M015200",
+    "amount": 1,
+    "descAge": "不明",
+    "descSize": "長30cmx寬8.4cmx 高12.5cm",
+    "descMaterial": "陶塑、燒製",
+    "reserveStatusDesc": "撒古流將陶壺象徵為「人」，壺為人頭，然後有頸部其下則為身體，如同人的形制般的鮮活。在每一個陶壺都有不同的紋樣，其所代表的意義也有所不同。本作品排灣族語為「tavatavangen」，其形制為短頸、扁身，橫面有18.5公分，縱身則有15.5公分，口徑5公分，呈現出扁圓形。在近肩部處佈滿連杯狀及山形紋樣，扁面正身則各綴一對百步紋樣，周圍則佈山形紋及圈足紋，本件作品口徑部份則已有些許殘狀，其餘保持尚佳。排灣族人撒古流認為這只古陶壺應為排灣族巫師占卜時用，排灣族語tavatavangen意為抱在懷中之意，是祭祀時所用的物品，此類型陶壺的底部成圓錐狀，故無法站立，由部落的巫師珍藏，是占卜祈福時必備的重要器具，凡間神明寄住的地方，唯有在占卜時陶壺可自行立起不倒，不同於其他的古陶壺。（撒古流口述，1992.1.2）。",
+    "pastHistorySource": 2,
+    "saveEnvironment": 1,
+    "reserveStatus": "尚可",
+    "documents": [
+        {
+            "fileid": 47442,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-01-16/c8330b9a-3cb9-4fdc-9b1c-b7d7546d4fd0/公告.pdf"
+        },
+        {
+            "fileid": 47443,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-01-16/46df1789-243c-4ccc-81d9-02829a7dfaee/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.551944,
+    "latitude": 25.101026,
+    "representImageSource": "順益台灣原住民博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "順益臺灣原住民博物館",
+            "keepName": "順益臺灣原住民博物館",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "順益臺灣原住民博物館",
+            "keepAddressNew": "臺北市士林區至善路二段282號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 113930,
+            "caseId": 3313,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段282號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 123989,
+            "caseId": 3313,
+            "caseStatus": true,
+            "registerDate": 1479398400000,
+            "officialDocNo": "北市獻編字第10530125000號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

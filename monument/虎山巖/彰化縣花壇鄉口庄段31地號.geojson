@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "彰化縣花壇鄉口庄段31地號"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

@@ -1,0 +1,101 @@
+{
+    "id": 4538,
+    "caseId": "20170523000017",
+    "count": 457,
+    "shareCount": 0,
+    "representImage": 165803,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-05-27/89668b01-2a8e-4c20-8684-9e8cb5e008e1/K2B000242N000000001PAA_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-05-27/89668b01-2a8e-4c20-8684-9e8cb5e008e1/K2B000242N000000001PAA.jpg",
+        "name": "K2B000242N000000001PAA"
+    },
+    "caseName": "宋代墨寶冊",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1495468800000,
+    "officialDocNo": "中華民國106年5月23日文授資局物字第1063005353號",
+    "judgeCriteria": [
+        "具有特殊之時代特色、技術及流派",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "《宋代墨寶》冊收錄宋徽宗趙佶（1082～1135）、蘇轍（1039～1112）、宋庠（996～1066）等七件宋人法書。內容或是君王自製詩翰，體物緣情，或是名臣的尺牘書信，問候述事，具體而微地呈現出宋朝帝王、士大夫的文學修養與才情風雅。\n書藝表現上有徽宗自創瘦金體的典型，也有如宋庠、謝克家等承襲晉唐古法者，可從中窺探貴族階層之書學淵源與個人風格特色。\n宋代法書稀少珍貴，此冊包括舉世公認的徽宗翰宸書法兩件，重要性自不待言。藝術價值之外，書寫內容和筆、墨、紙張的選用，也提供了後人賞鑑和考究上難得的第一手資料，兼具文化和史料價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第4條第1項第3、5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局 ",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故書000242",
+    "amount": 7,
+    "descAge": "宋",
+    "descSize": "一、34.8x53.3公分；二、34.4x42.2公分；三、25.7x31.8公分；四、31.8x17公分；五、35.7x45.1公分；六、34.4x34公分；七、26.5x36.7公分",
+    "descMaterial": "紙",
+    "reserveStatusDesc": "《宋代墨寶》冊收錄宋徽宗趙佶（1082～1135）、蘇轍（1039～1112）、宋庠（996～1066）等七件宋人法書，包括：1. 宋徽宗書牡丹詩、2. 宋徽宗書怪石詩、3. 宋蘇轍致子璋祕丞尺牘、4. 宋宋庠致宮使少卿尺牘、5. 宋謝克家致泰發知府待制尺牘、6. 無款行書詩、7. 宋范百祿致完夫吏部侍郎尺牘。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "本幅有部分蟲蛀、磨損、傷補、霉傷。",
+    "documents": [
+        {
+            "fileid": 148312,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-21/1cfa4164-b3a2-44d2-a5f1-2a91acc64ba7/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 80419,
+            "caseId": 4538,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 86402,
+            "caseId": 4538,
+            "caseStatus": true,
+            "registerDate": 1495468800000,
+            "officialDocNo": "中華民國106年5月23日文授資局物字第1063005353號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

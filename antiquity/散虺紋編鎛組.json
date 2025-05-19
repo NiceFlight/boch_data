@@ -1,0 +1,99 @@
+{
+    "id": 4201,
+    "caseId": "20090508000011",
+    "count": 220,
+    "shareCount": 0,
+    "representImage": 53977,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-01-09/79663b18-943d-43ad-baf5-29edf5910375/R020028-R020036_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-01-09/79663b18-943d-43ad-baf5-29edf5910375/R020028-R020036.jpg",
+        "name": "R020028-R020036"
+    },
+    "caseName": "散虺紋編鎛組",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1241712000000,
+    "officialDocNo": "會授資籌二字第0982105246號",
+    "judgeCriteria": [
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1935年出土於河南汲縣山彪鎮一號墓。本組「散虺紋編鎛」計9件，保存良好，是研究東周時期墓葬禮樂制度及古代音樂的重要器物，具有重要歷史、文化價值",
+    "lawsReference": "「文化資產保存法」第66條。「古物分級登錄指定及廢止審查辦法」第3條第1項第1、5、6款、第6、7條",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "南港區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "R020028-R020036",
+    "amount": 9,
+    "notes": "",
+    "descAge": "東周-戰國",
+    "descCreator": "",
+    "descSize": "通高30.35公分、鈕高8.3公分",
+    "descMaterial": "青銅",
+    "reserveStatusDesc": "舞頂散虺紋，有四個小長方孔，其中三個不透空。篆間亦用散虺紋，無長方孔。鐘乳只飾螭首環身而無前足。\n鐘唇不特厚，四拱門形處亦較薄。腔內發棕紅色斑銹。原音保全。",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "1935年出土於河南汲縣山彪鎮一號墓",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 53976,
+            "name": "20090508公告.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-01-09/ea71f177-6988-47af-bcb4-64ea641385c4/20090508公告.jpg"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "中央研究院歷史語言研究所",
+    "keepNames": [
+        {
+            "keepNameIdStr": "中央研究院歷史語言研究所",
+            "keepName": "中央研究院歷史語言研究所",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "中央研究院歷史語言研究所",
+            "keepAddressNew": "115台北市南港區研究院路二段130號",
+            "saveSpaceIdStr": "研究設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "南港區",
+            "keepNameAddress": "研究院路二段130號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "南港區",
+            "id": 116466,
+            "caseId": 4201,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 111
+        }
+    ],
+    "announces": [
+        {
+            "id": 127169,
+            "caseId": 4201,
+            "caseStatus": true,
+            "registerDate": 1241712000000,
+            "officialDocNo": "會授資籌二字第0982105246號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

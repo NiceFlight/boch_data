@@ -1,0 +1,101 @@
+{
+    "id": 4541,
+    "caseId": "20170523000020",
+    "count": 523,
+    "shareCount": 1,
+    "representImage": 165861,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-05-27/abc470d7-194f-449c-9f30-b94b480c4353/K2B000075N000000000PAF_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-05-27/abc470d7-194f-449c-9f30-b94b480c4353/K2B000075N000000000PAF.jpg",
+        "name": "K2B000075N000000000PAF"
+    },
+    "caseName": "宋薛紹彭雜書卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1495468800000,
+    "officialDocNo": "中華民國106年5月23日文授資局物字第1063005353號",
+    "judgeCriteria": [
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少"
+    ],
+    "registerReason": "薛紹彭（活動於十一世紀後半），長安人。字道祖，號翠微居士。精於鑑賞，又長書法。書學二王，書史謂其書如王謝家子弟，有風流之習。南宋高宗對其推崇有加，間接影響到元代書法的復古風氣。\n薛紹彭書法與北宋四家米芾（1052-1107）齊名，此長卷為存世少數可靠參考品。本卷合〈雲頂山詩帖〉、〈上清連年帖〉、〈左綿帖〉及〈通泉帖〉等四帖，書風各具特色，行筆以拙藏巧，平直蒼勁。筆多內擫，鋒藏不露，古意時溢毫素間。\n薛氏書法早在宋高宗時即為皇室所珍貴，其中〈雲頂山詩帖〉為建中靖國元年（1101）紀年之作，且鈐有南宋高宗「紹興」連璽，曾為南宋內府收藏。通卷集薛氏作品一體，且前有李東陽（1447-1516）題，後有文嘉（1501-1583）、周天球（1514-1595）、王世貞（1526-1590）等人跋。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第4條第1項第3、4、5款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故書000075",
+    "amount": 1,
+    "descAge": "宋",
+    "descSize": "26.1公分 x 303.5公分",
+    "descMaterial": "紙",
+    "reserveStatusDesc": "薛紹彭（活動於西元十一世紀後半），長安人。字道祖，號翠微居士，系出河東（山西）薛氏。精於鑑賞，又長書法。書學二王，深得晉人遺規，書史謂其書如王謝家子弟，有風流之習。南宋高宗對其推崇有加，間接影響到元代書法的復古風氣。本幅書詩文尺牘四段，行筆以拙藏巧，平直蒼勁。筆多內擫，鋒藏不露，古意時溢毫素間。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "引首：磨傷損、墨漬。本幅：霉傷、磨傷損、裂痕、蟲蛀、傷補。後段：折痕、傷補。",
+    "documents": [
+        {
+            "fileid": 148316,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-21/46d8e513-ded3-4c1d-8db3-e4f279caa226/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 80438,
+            "caseId": 4541,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 86424,
+            "caseId": 4541,
+            "caseStatus": true,
+            "registerDate": 1495468800000,
+            "officialDocNo": "中華民國106年5月23日文授資局物字第1063005353號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,102 @@
+{
+    "id": 21552,
+    "caseId": "20230215000002",
+    "count": 198,
+    "shareCount": 0,
+    "representImage": 207334,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-02-15/5009b339-1b64-4f70-851f-c8fed9282008/PK2B000241N000000002PAD (2)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-02-15/5009b339-1b64-4f70-851f-c8fed9282008/PK2B000241N000000002PAD (2).jpg",
+        "name": "PK2B000241N000000002PAD (2)"
+    },
+    "caseName": "宋賢牋牘 冊 宋薛紹彭書尺牘",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "具有重要藝術造詣或科學成就"
+    ],
+    "registerReason": "薛紹彭於北宋尚意書風盛行之時，能謹守晉唐書風，宋高宗對他推崇有加，間接影響元代書法復古風氣。\n本幅尺牘行筆秀勁流暢，用筆使轉頓挫得宜，呈現古意盎然典雅書風。\n裝飾於書寫箋紙上宋代瓶花樣貌，為研究當時器物與插花珍貴材料，與書法可謂相得益彰，為相當珍稀作品。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第3、4款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路3段362號",
+    "reservationCode": "故書000241N000000002",
+    "amount": 1,
+    "descAge": "宋",
+    "descCreator": "薛紹彭",
+    "descSize": "28.1x38.4（cm）",
+    "descMaterial": "紙質",
+    "reserveStatusDesc": "薛紹彭，宋神宗時（1048-1085）人，字道祖，號翠微居士。時以翰墨名世，善品評鑑賞，工楷、行、草書，筆致清潤遒麗，具晉、唐人法度，齊名米芾，人稱「米薛」。鑑賞上與米芾、劉涇為友，朝夕議論晉唐名蹟。\n本幅書寫紙張為砑花粉箋，許多部分已剝落，圖案可清楚看出為青銅紋飾瓶子上插有數枝梅花，顯得高古幽雅，與信中所提小龍團茶餅、書畫等雅事相呼應，從書法到紙張都可感受到賞鑑家閒情雅致與幽古情懷。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "舊傷。",
+    "documents": [
+        {
+            "fileid": 207332,
+            "name": "公告(彩色) (2).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-02-15/4bb5b4f6-2b16-4e13-a6f0-8c4a4b8d5caf/公告(彩色) (2).pdf"
+        },
+        {
+            "fileid": 207333,
+            "name": "重要古物公告表(宋賢牋牘 冊 宋薛紹彭書尺牘).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-02-15/ad0fddec-b10a-4cb3-90a6-820df2460faa/重要古物公告表(宋賢牋牘 冊 宋薛紹彭書尺牘).pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.549499,
+    "latitude": 25.10037,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": " 臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 107031,
+            "caseId": 21552,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 114884,
+            "caseId": 21552,
+            "caseStatus": true,
+            "registerDate": 1676455734182,
+            "officialDocNo": "文授資局物字第 11230013491 號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,97 @@
+{
+    "id": 20273,
+    "caseId": "20211215000014",
+    "count": 161,
+    "shareCount": 0,
+    "representImage": 147612,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-15/e88bd0dc-b731-43f3-8f76-3c979b55c4d9/023_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-15/e88bd0dc-b731-43f3-8f76-3c979b55c4d9/023.jpg",
+        "name": "023"
+    },
+    "caseName": "陶瓷譜　冊",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "清人內廷之目錄，畫譜形式精巧，描繪器物形狀，色彩高雅別緻，有助於瞭解乾隆鑑賞品味。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174之1號",
+    "reservationCode": "故畫003651N0000000001-10",
+    "amount": 10,
+    "descAge": "清",
+    "descSize": "均縱38.6公分，橫35.1公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "院藏陶瓷圖冊計四本，此為其一。《陶瓷譜　冊》收錄〈宋汝窯蟠龍洗〉、〈宋鈞窯花式盤〉、〈宋哥窯葵花碟〉、〈宋定窯蓮花碟〉、〈宋定窯舞鳳盤〉、〈宋定窯蟠龍洗〉、〈宋定窯葵花洗〉、〈宋定窯雙鴛碟〉、〈宋定窯蟠龍碟〉、〈宋定窯瑞獸洗〉等10件宋代瓷器繪畫，每頁皆作推篷裝對開裝裱，上頁為作品的品名與圖畫，下頁紀錄尺寸、釉色、形制、款識與品評。研究者指出，現在稱為《清陶瓷譜》圖冊，參照《閱是樓庫存陳設檔》（清道光年鈔本）的紀錄，可追溯出圖冊原本的題名應是《珍陶萃美》。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況良好。",
+    "documents": [
+        {
+            "fileid": 147611,
+            "name": "110年12月9日北市獻編字第1103004564號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-15/3fbb2147-f24e-4a95-9162-819998ffa139/110年12月9日北市獻編字第1103004564號公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.549499,
+    "latitude": 25.10037,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69154,
+            "caseId": 20273,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73278,
+            "caseId": 20273,
+            "caseStatus": true,
+            "registerDate": 1639022478556,
+            "officialDocNo": "北市獻編字第1103004564號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

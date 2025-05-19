@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "桃園市中壢區興南段中壢老小段186-17"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

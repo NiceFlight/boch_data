@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "桃園市桃園區桃園段武陵小段72-14"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

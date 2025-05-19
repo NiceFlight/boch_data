@@ -1,0 +1,99 @@
+{
+    "id": 3025,
+    "caseId": "20140828000001",
+    "count": 581,
+    "shareCount": 0,
+    "representImage": 5431,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/5924/photo/岸裡社與感恩社界址碑_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/5924/photo/岸裡社與感恩社界址碑.jpg",
+        "name": "岸裡社與感恩社界址碑"
+    },
+    "caseName": "岸裡社與感恩社界址碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1409155200000,
+    "officialDocNo": "府授文資遺字第1030168666號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有珍貴及稀有性者"
+    ],
+    "registerReason": "1.\t「岸裡社與感恩社界址碑」為民國99年清水區海風里大突寮陳姓居民拾獲，後捐贈臺中市政府(縣市合併前之臺中縣政府)之文物。\r\n2.\t該界址碑是岸裡社南遷大甲溪後，部落間領域糾紛，經官方立牌劃定雙方的界址，屬拍瀑拉族感恩社與拍宰海族岸裡社間之界碑，不同於一般漢番分界之石碑，因此極具族群、地方歷史特色。\r\n3.\t此碑攸關中部平埔族岸裡社群與牛罵社勢力消長的見證，亦為國內少見的原住民不同族群確切的社域界線之歷史證物，深具史事價值和文化資產保存意義。",
+    "lawsReference": "符合「古物分級登錄指定及廢止審查辦法」第2條第1項第1、2、5款評定基準，爰依據「古物分級登錄指定及廢止審查辦法」第5、7條登錄。",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "清水區",
+    "govInstitution": "台中市文化資產處",
+    "govDeptName": "遺址傳藝課",
+    "govDeptPhone": "04-22290280#501",
+    "govDeptAddress": "台中市南區復興路三段362號R10",
+    "reservationCode": "府授文資遺字第1030168666號",
+    "amount": 1,
+    "notes": "",
+    "descAge": "乾隆",
+    "descSize": "約62cm×42cm",
+    "descMaterial": "石",
+    "reserveStatusDesc": "1.\t年代：清乾隆年間\r\n2.\t尺寸：約62cm×42cm\r\n3.\t材質：花崗岩\r\n4.\t形制：陰刻碑碣",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 5432,
+            "name": "e7628e43-3ced-4cea-9540-9822f739a65f.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44700/file/e7628e43-3ced-4cea-9540-9822f739a65f.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "臺中市文化資產處",
+    "keepNames": [
+        {
+            "keepNameIdStr": "臺中市文化資產處",
+            "keepName": "臺中市文化資產處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺中市清水區 鰲峰里鰲海路59號",
+            "saveSpaceIdStr": "遺址",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "清水區",
+            "id": 114905,
+            "caseId": 3025,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1026
+        }
+    ],
+    "announces": [
+        {
+            "id": 125152,
+            "caseId": 3025,
+            "caseStatus": true,
+            "registerDate": 1409155200000,
+            "officialDocNo": "府授文資遺字第1030168666號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

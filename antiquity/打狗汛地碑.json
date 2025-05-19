@@ -1,0 +1,91 @@
+{
+    "id": 4335,
+    "caseId": "20081224000020",
+    "count": 508,
+    "shareCount": 0,
+    "representImage": 7272,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/37986/photo/34780c66-2b45-4ab6-ad70-73d8a79103cf_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/37986/photo/34780c66-2b45-4ab6-ad70-73d8a79103cf.jpg",
+        "name": "34780c66-2b45-4ab6-ad70-73d8a79103cf"
+    },
+    "caseName": "打狗汛地碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-其他",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1230048000000,
+    "officialDocNo": "會授資籌二字第0972115965號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "「打狗汛地碑」立於清乾隆39年12月（1775年1月）。碑記內容係「示諭」之用。康熙23年（1684年）清廷在臺灣置兵十營，分為鎮標三營、臺灣（安平）水師協三營、澎湖水師協二營、臺灣南北路各一營。營的任務是分守本鎮各地扼要的城邑、關隘等，營之下再分成汛、塘和堆。汛的組織大半由協營分散出來，通常是幾十個或幾百個士兵，由千總、把總帶領駐防汛地。為防止人民偷渡走私，商漁船隻出入臺灣須至汛防掛驗，但因綠營汛兵管理不善、紀律不佳，常藉故刁難勒索，致船戶不堪其擾，乾隆39年12月（1775年1月）福建臺灣水師為杜絕此惡劣風氣，遂立石碑為戒。本碑碑記內容與打狗（高雄）歷史有關，再與地方志等文獻記載相互佐證，呈現清代設打狗汛防之史實，具有重要歷史意義及地方文化特色。臺灣現存示禁碑中，立於城門旁或陸汛者較多，而此碑立於水汛，有其獨特性。本件「打狗汛地碑」符合「古物分級登錄指定及廢止審查辦法」第三條第一項第一、六款指定基準，指定為重要古物。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。2.「古物分級登錄指定及廢止審查辦法」第三條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 18,
+    "belongCityName": "高雄市",
+    "belongDistName": "鹽埕區",
+    "reservationCode": "KH2003.006.001",
+    "keepNameId": 17,
+    "keepName": "高雄市立歷史博物館",
+    "keepNameNew": 17,
+    "keepAddressNew": "高雄市鹽埕區中正四路272號",
+    "amount": 1,
+    "notes": "",
+    "descAge": "清(1775)",
+    "descCreator": "不詳",
+    "descSize": "長101公分、寬65公分、厚11公分",
+    "descMaterial": "花崗岩",
+    "reserveStatusDesc": "碑記字跡較模糊、底部有缺角，但碑體保存狀況良好。",
+    "reserveStatus": "有損傷但狀況穩定 ",
+    "documents": [],
+    "isOpenDownload": true,
+    "belongAddress": "中正四路272號",
+    "representImageSource": "高雄市立歷史博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "高雄市立歷史博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "高雄市鹽埕區中正四路272號",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "高雄市",
+            "distName": "鹽埕區",
+            "id": 4478,
+            "caseId": 4335,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1804,
+            "address": "中正四路272號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 4478,
+            "caseId": 4335,
+            "caseStatus": true,
+            "registerDate": 1230048000000,
+            "officialDocNo": "會授資籌二字第0972115965號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

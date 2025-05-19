@@ -1,0 +1,110 @@
+{
+    "id": 110,
+    "caseId": "19990629000002",
+    "count": 5542,
+    "shareCount": 10,
+    "representImage": 185537,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/47e6f2e2-0daa-46d8-ac33-bc0ea4d3ac72/代表圖像_芳蘭大厝_20220729_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/47e6f2e2-0daa-46d8-ac33-bc0ea4d3ac72/代表圖像_芳蘭大厝_20220729.jpeg",
+        "name": "代表圖像_芳蘭大厝_20220729"
+    },
+    "caseName": "芳蘭大厝",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "市定古蹟「芳蘭大厝」位於大安區基隆路三段一五五巷一七四號，是台北盆地四周近山地區僅存少數清代古宅之一，屋主陳家為福建泉州安溪移民，在清嘉慶十一年（西元一八０六年）建造芳蘭大厝，其後代又陸續建造另兩座大宅，分別稱為玉芳居與義芳居。\r\n芳蘭大厝的原始平面格局屬於三合院，俗稱正身帶雙護龍。它的建材採用台灣本地的石材與大陸運來的杉木與磚頭。外牆水車垛以泥塑裝飾，門額及窗上亦有泥塑字樣，雖經歲月腐蝕，仍可見其精緻之手工藝術。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 133525,
+            "name": "4._880629檢送六處市定古蹟公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/40d16fef-8f0c-49c2-8b36-62ef66c96124/4._880629檢送六處市定古蹟公告.pdf"
+        },
+        {
+            "fileid": 133526,
+            "name": "3._880629指定古蹟公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/8ebb3472-1359-4b0f-9194-7e3ef8431595/3._880629指定古蹟公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "具其他古蹟價值者"
+    ],
+    "registerReason": "1.為陳家開台祖陳振師創建於嘉慶十一年(西元1806年)，為近兩百年之古厝，乃台北盆地拓墾史之見證。\r\n2.建物採三合院配置，具清代原貌，其外並有防禦性石牆，反應當時移民建築之特色。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 133527,
+            "name": "downloadfile (1).png",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/21bfa55d-c68e-480c-96bc-5ffc8197b305/downloadfile (1).png"
+        }
+    ],
+    "cityLandUseTypeId": 5,
+    "cityLandUseTypeName": "文教區",
+    "locationLandNo": "台北市辛亥段五小段159地號",
+    "buildingFeatures": "外牆水車垛以泥塑裝飾，門額及窗上亦有泥塑字樣，雖經歲月腐蝕，仍可見其精緻之手工藝術。",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "臺灣大學辦理修復中。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.547946,
+    "latitude": 25.013467,
+    "representImageSource": "臺北市文化局",
+    "landScope": "台北市辛亥段五小段159地號",
+    "selfCoverage": "建築物正身及其四周",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 92710,
+            "caseId": 110,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "基隆路三段155巷174號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "辛亥段五小段",
+            "id": 113379,
+            "caseId": 110,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 763,
+            "landSerialNo": "159",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 100013,
+            "caseId": 110,
+            "caseStatus": true,
+            "registerDate": 930585600000,
+            "officialDocNo": "府民三字第8801816501號",
+            "classificationId": 1,
+            "note": "無"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false,
+    "pastHistorySource": "（略）"
+}

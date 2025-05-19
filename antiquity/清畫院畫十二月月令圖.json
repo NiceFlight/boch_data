@@ -1,0 +1,102 @@
+{
+    "id": 4053,
+    "caseId": "20131219000090",
+    "count": 599,
+    "shareCount": 1,
+    "representImage": 6963,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39176/photo/pic060_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39176/photo/pic060.jpg",
+        "name": "pic060"
+    },
+    "caseName": "清畫院畫十二月月令圖",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1387382400000,
+    "officialDocNo": "文資局物字第10220145081號",
+    "judgeCriteria": [
+        "具有特殊之時代特色、技術及流派",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "十二月月令圖共十二軸，原無年款，學者據活計檔，考知四月景由陳枚繪於乾隆元年（1736），推測此圖組應是乾隆初年清宮畫院之作。然其構圖多參考一組現藏北京故宮的雍正十二月行樂圖軸，再添新意而成。農曆一月描寫上元，張燈燃炮；二月花朝，文酒之會；三月春臨，曲水流觴；四月賞花，細雨濛濛；五月端午，龍舟競渡；六月清暑，採荷曝書；七月七夕，月臺乞巧；八月中秋，賞月歡宴；九月重陽，賞菊登高；十月清閒，寫生鑒古；十一月冬至，拜賀遊戲；十二月寒冬，玩雪圍爐。\r\n本組畫作十二軸，分別描繪農曆各月份歲時特徵與節令習俗，各軸的尺寸一致，裝裱方式亦同，為一套完整的十二月令畫作，至為難得。同時，每軸的筆墨設色精麗華美，建築物象安排講究，繪製精謹細膩，是考察乾隆初期畫院風格的關鍵作品，為清代宮廷繪畫之鉅作。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第4條第1項第3、5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫003106-故畫003117",
+    "amount": 12,
+    "notes": "",
+    "descAge": "清",
+    "descSize": "175 x 97（公分）",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "十二月月令圖共十二軸，原無年款，學者據活計檔，考知四月景由陳枚繪於乾隆元年（1736年），推測此圖組應是乾隆初年清宮畫院之作。然其構圖多參考一組現藏北京故宮的雍正十二月行樂圖軸，再添新意而成。農曆一月描寫上元，張燈燃炮；二月花朝，文酒之會；三月春臨，曲水流觴；四月賞花，細雨濛濛；五月端午，龍舟競渡；六月清暑，採荷曝書；七月七夕，月臺乞巧；八月中秋，賞月歡宴；九月重陽，賞菊登高；十月清閒，寫生鑒古；十一月冬至，拜賀遊戲；十二月寒冬，玩雪圍爐。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 150408,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-17/7cbd3a42-266e-41d0-9566-289ae893544b/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70926,
+            "caseId": 4053,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75204,
+            "caseId": 4053,
+            "caseStatus": true,
+            "registerDate": 1387382400000,
+            "officialDocNo": "文資局物字第10220145081號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

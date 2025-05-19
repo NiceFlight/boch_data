@@ -1,0 +1,101 @@
+{
+    "id": 3747,
+    "caseId": "20140421000008",
+    "count": 864,
+    "shareCount": 1,
+    "representImage": 6523,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7062/photo/新石器時代紅山文化晚期玉鳥_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7062/photo/新石器時代紅山文化晚期玉鳥.JPG",
+        "name": "新石器時代紅山文化晚期玉鳥"
+    },
+    "caseName": "新石器時代紅山文化晚期 玉鳥",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1398009600000,
+    "officialDocNo": "10320043691",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要之時代特色、技術及流派"
+    ],
+    "registerReason": "此件紅山文化玉鳥為青綠色閃玉質。全器琢成一平展雙翼的鳥；頭端較厚，尾端較薄，翼尾微向上翹，弧線優美。鳥頭圓厚，以兩道淺陰線刻的同心圓營造出圓凸的大眼。背面光素，僅於頸部鑽有隧孔，孔內留有螺旋形鑽痕，呈現紅山文化晚期之玉器工藝技術。\r\n此件玉鳥尺寸雖小、造形亦簡約，但紋樣線條隨光線角度呈現層次、立體與神秘感，充分傳達紅山文化玉器的美學特色，且為清宮中極少有之紅山玉器舊藏，殊屬珍貴。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第1、3款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故玉000019",
+    "amount": 1,
+    "notes": "",
+    "descAge": "新石器時代",
+    "descSize": "長：4.7；寬：4.7；厚：1.5（公分）",
+    "descMaterial": "閃玉",
+    "reserveStatusDesc": "質材：青綠色閃玉質，表面有深淺不一的褐紅色沁斑。\r\n形制：全器琢成一平展雙翼的鳥；頭端較厚，尾端較薄，翼尾微向上翹，弧線優美。鳥頭圓厚，以兩道淺陰線刻的同心圓營造出圓凸的大眼。背面光素，僅於頸部鑽有隧孔，孔內留有螺旋形鑽痕。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。多處輕傷、數道舊玉璺。",
+    "documents": [
+        {
+            "fileid": 150241,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-12/4f08d2af-24c8-499e-a44a-562c1ec15e70/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " 器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70831,
+            "caseId": 3747,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75100,
+            "caseId": 3747,
+            "caseStatus": true,
+            "registerDate": 1398009600000,
+            "officialDocNo": "10320043691",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

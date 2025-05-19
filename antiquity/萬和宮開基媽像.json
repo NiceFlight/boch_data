@@ -1,0 +1,100 @@
+{
+    "id": 18136,
+    "caseId": "20201209000006",
+    "count": 759,
+    "shareCount": 2,
+    "representImage": 78790,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-12-09/b86ad3c9-ac89-40e3-bc79-1ed3b784414c/65.萬和宮開基媽像_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-12-09/b86ad3c9-ac89-40e3-bc79-1ed3b784414c/65.萬和宮開基媽像.jpg",
+        "name": "65.萬和宮開基媽像"
+    },
+    "caseName": "萬和宮開基媽像",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1603336226536,
+    "officialDocNo": "日府授文資遺字第10902447551號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者"
+    ],
+    "registerReason": "1.\t開基媽為一體成形木雕像，黑面歛目垂耳，著金色蟒袍，下見裙裝，其間有劍帶出露。右掌懸握胸前，左掌覆按膝上，身坐圈椅。椅下包有錫製底座，前鐫刻有「萬和宮」三字，後方貼有「老大媽大魚池」紙標籤。此神像之裝鑾技法、尺寸大小，頗為符合當時移民攜來臺灣的「船頭媽」形象。\n2.\t本神像來源與臺中地區漢人開發始祖張國總兵史事相關：相傳係張國於清康熙23年（1684），由聖地湄洲，恭請護船來臺，安置犁頭店。拓墾初期開基媽可能奉于無名之小祠。據廟史「萬和宮」始建年代為雍正4年(1726)，當時民間以「犁頭店媽祖宮」稱呼。日治《寺廟臺帳》記載道光元年（1821）萬和宮因地震遭受損毀，眾人集資將宮廟修復，始出現「萬和宮」正式廟名。\n3.\t「萬和宮開基媽神像」之座椅，上有款「萬和宮」，何以開基神像上竟有後起之廟名？按此鐫「萬和宮」字樣的錫製底座，應是後世維修時加護神像所為，並標誌廟名，應無損於此開基媽祖像的真實性。\n",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2款",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "南屯區",
+    "govInstitution": "臺中市政府",
+    "govDeptName": "臺中市文化資產處",
+    "govDeptPhone": "04-22290280#501",
+    "govDeptAddress": "臺中市南區復興路三段362號R10",
+    "reservationCode": "府授文資遺字第10902447551號",
+    "amount": 1,
+    "descAge": "雍正4年",
+    "descSize": "高30/寬16.6/深15.3",
+    "descMaterial": "木",
+    "reserveStatusDesc": "硬身木質。頭戴冠帽，黑面，閉目，大耳。身穿金色蟒袍，蟒袍下見有裙裝，在蟒袍和衣裙間有劍帶露出。右手呈握姿，左手放於腿上，身坐圈椅。座正面有款「萬和宮」；椅背貼條「老大媽　大魚池」，底以錫包裹。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 2,
+    "reserveStatus": "狀況穩定",
+    "documents": [
+        {
+            "fileid": 78789,
+            "name": "65.萬和宮開基媽像-公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-09/e0036758-36cb-447e-84ec-766e5fa59ed7/65.萬和宮開基媽像-公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 120.63925,
+    "latitude": 24.13804,
+    "representImageSource": "臺中市文化資產處",
+    "keepNames": [
+        {
+            "keepNameIdStr": "財團法人臺中市萬和宮",
+            "keepName": "財團法人臺中市萬和宮",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "財團法人臺中市萬和宮",
+            "keepAddressNew": "臺中市南屯區萬和路一段51號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "臺中市",
+            "keepNameDistName": "南屯區",
+            "keepNameAddress": "萬和路一段51號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "南屯區",
+            "id": 86772,
+            "caseId": 18136,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1008
+        }
+    ],
+    "announces": [
+        {
+            "id": 93406,
+            "caseId": 18136,
+            "caseStatus": true,
+            "registerDate": 1603336226536,
+            "officialDocNo": "日府授文資遺字第10902447551號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,127 @@
+{
+    "id": 2195,
+    "caseId": "20161104000001",
+    "count": 2287,
+    "shareCount": 0,
+    "representImage": 4448,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/133453/photo/西區民生路56巷日式宿舍1_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/133453/photo/西區民生路56巷日式宿舍1.JPG",
+        "name": "西區民生路56巷日式宿舍1"
+    },
+    "caseName": "西區民生路56巷日式宿舍",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "歷史建築「西區民生路56巷日式宿舍」，為日治時期由私人向臺中州廳承租土地所興建，戰後（1945～）民國50年（1961）曾有霧峰林家後代入籍於此，後再輾轉易手，民國101年（2012）才依法收歸市府所有。\n\n民國105年（2016）臺中市政府以民生路56巷1號，其格局保存完整，為臺中州廳範圍內僅存保存狀況良好之日式木造宿舍，建築形式表現地域風貌及建築特色，具建築史及技術史價值；且位居臺中州廳及大屯郡役所及州廳附屬建築群等文化資產周邊，深具再利用潛力價值，公告登錄為歷史建築。\n",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1478188800000,
+    "officialDocNo": "府授文資古字第10502293511號",
+    "documents": [
+        {
+            "fileid": 180577,
+            "name": "1051104_西區民生路56巷日式宿舍_登錄公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-08-18/e1829040-c24b-4c44-8afd-80df72e72738/1051104_西區民生路56巷日式宿舍_登錄公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "「西區民生路56巷日式宿舍」格局保存完整，為臺中州廳範圍內僅存保存狀況良好之日式木造宿舍，建築形式表現地域風貌及建築特色，入口側邊八角窗尤具特色，具建築史及技術史價值，且位居市定古蹟臺中州廳及歷史建築大屯郡役所及州廳附屬建築群周邊，深具再利用潛力價值。",
+    "lawsReference": "文化資產保存法第18條、歷史建築登錄廢止審查及輔助辦法第3條、第4條",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "西區",
+    "govInstitution": "臺中市政府文化局",
+    "govDeptName": "臺中市文化資產處",
+    "govDeptPhone": "04-22290280",
+    "govDeptAddress": "403420 臺中市西區市府路41巷19號",
+    "cadasters": [
+        {
+            "fileid": 180578,
+            "name": "1051104_西區民生路56巷日式宿舍_保存範圍地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-08-18/c8894bde-5e71-4f80-bad4-237ffa321869/1051104_西區民生路56巷日式宿舍_保存範圍地籍圖.pdf"
+        }
+    ],
+    "locationLandNo": "臺中市西區東昇段二小段6-16地號及7-5地號",
+    "buildingFeatures": "本建築整體原為獨棟之二戶建建物，今僅其中一戶（1號）列為歷史建築。外觀屋頂形式為日式住宅切妻造型，外牆鋪雨淋板，入口側邊八角旋轉窗及採光天井尤具特色，具建築史及技術史價值。",
+    "inHouseFeatures": "室內隔間與一般日式官舍不同，且經後期居住使用有所更動。但從其屋架採用和小屋京呂組，且留有當時匠師營建座標系統之「伊呂波歌」墨書等，仍可作為當時匠藝之見證。",
+    "buildingActualState": "民國109(2020)年完成修復及再利用計畫。",
+    "bulkTransfer": 0,
+    "belongAddress": "臺中市西區民生路56巷1號",
+    "isOpenVisit": false,
+    "openUpTime": "暫不開放",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.676281,
+    "latitude": 24.138782,
+    "representImageSource": "臺中市文化資產處",
+    "landScope": "臺中市西區東昇段二小段6-16、7-5地號",
+    "selfCoverage": "臺中市西區民生路56巷1號",
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "西區",
+            "id": 111228,
+            "caseId": 2195,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1004,
+            "address": "民生路56巷1號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺中市",
+            "distName": "西區",
+            "landNoName": "東昇段二小段",
+            "id": 146259,
+            "caseId": 2195,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1004,
+            "landNoId": 918,
+            "landSerialNo": "6-16",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "臺中市",
+            "distName": "西區",
+            "landNoName": "東昇段二小段",
+            "id": 146260,
+            "caseId": 2195,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1004,
+            "landNoId": 918,
+            "landSerialNo": "7-5",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 120449,
+            "caseId": 2195,
+            "caseStatus": true,
+            "registerDate": 1478188800000,
+            "officialDocNo": "府授文資古字第10502293511號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.67646788507753,24.13868395311388],[120.67643318859989,24.138650797064766],[120.67629064165926,24.138679434758217],[120.67620546319388,24.138750829535116],[120.67621290182512,24.13875820330236],[120.67628816821448,24.138830610996543],[120.67629293753139,24.138835217934673],[120.67646788507753,24.13868395311388],[120.67646788507753,24.13868395311388]]]]},\"properties\":{\"envelope\":{\"left\":\"120.67620546319388\",\"top\":\"24.138650797064766\",\"right\":\"120.67646788507753\",\"bottom\":\"24.138835217934673\"},\"landLot\":\"臺中市西區東昇段二小段6-16\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.67643318859989,24.138650797064766],[120.67638257431459,24.138601937789065],[120.67629064165926,24.138679434758217],[120.67643318859989,24.138650797064766],[120.67643318859989,24.138650797064766]]]]},\"properties\":{\"envelope\":{\"left\":\"120.67629064165926\",\"top\":\"24.138601937789065\",\"right\":\"120.67643318859989\",\"bottom\":\"24.138679434758217\"},\"landLot\":\"臺中市西區東昇段二小段7-5\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀"
+}

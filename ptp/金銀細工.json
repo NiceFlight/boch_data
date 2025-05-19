@@ -1,0 +1,98 @@
+{
+    "id": 21237,
+    "caseId": "20221116000001",
+    "count": 0,
+    "shareCount": 0,
+    "representImage": 200267,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-11-16/2eda256f-7108-4385-b889-0b6fdd12b4be/DSC05748_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-11-16/2eda256f-7108-4385-b889-0b6fdd12b4be/DSC05748.jpg",
+        "name": "DSC05748"
+    },
+    "caseName": "金銀細工",
+    "classifyCode": "7.1",
+    "classifyName": "保存技術及保存者",
+    "assetsClassifyCode": "7.1.1",
+    "assetsClassifyName": "保存技術及保存者",
+    "documents": [
+        {
+            "fileid": 200234,
+            "name": "公告+函.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-11-16/c129fe15-a3ee-4fad-b66f-438911aebc23/公告+函.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "有形文化資產之保存、修復、維護等工作不可或缺之傳統技術"
+    ],
+    "registerReason": "「金銀細工」為古物修復不可或缺的技術，亦是宗教及生活用品之保存與修復的重要技術。\n藝師充分掌握金銀細工相關之知識、材料、工具、技術及工序，表現精準、細膩熟練，作品風格獨具，技術性與藝術性兼備。",
+    "lawsReference": "1.\t「文化資產保存法」第96條第1、3項\n2.\t「文化資產保存技術及保存者登錄認定廢止審查辦法」第2條及第4條\n",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "govInstitution": "臺南市文化資產管理處",
+    "govDeptName": "無形文化資產組",
+    "govDeptPhone": "06-2210750分機307",
+    "govDeptAddress": "700005臺南市中西區中正路5巷1號3樓",
+    "preservers": [
+        {
+            "id": 21239,
+            "type": "個人",
+            "caseName": "蘇啟松",
+            "cityName": "臺南市",
+            "distName": "北區",
+            "caseArtistEntities": [],
+            "representImage": 200319,
+            "registrationDate": 1667404800000,
+            "judgeCriteria": [
+                "充分掌握該項保存技術所需相關知識與執行程序",
+                "正確體現、執行該項保存技術之能力",
+                "傳習該項保存技術之溝通及輔導能力"
+            ],
+            "registerReason": "藝師充分掌握金銀細工相關之知識、材料、工具、技術及工序，表現精準、細膩熟練，作品風格獨具，技術性與藝術性兼備。",
+            "lawsReference": "1.\t「文化資產保存法」第96條第1、3項\n2.\t「文化資產保存技術及保存者登錄認定廢止審查辦法」第2條及第4條\n",
+            "isOpenDownload": false,
+            "representImageSource": "蘇啟松藝師提供",
+            "contactorIsOpen": false
+        }
+    ],
+    "skillNote": "金銀細工為以貴重金屬製作精細裝飾工藝之技藝，如傳統首飾、佩飾、神冠佛帽等。廟宇裝飾及神明衣冠日久會有劣損，因此，金銀細工專業技術為古物修復不可或缺之技藝；同時亦富當代工藝的創意性。",
+    "visitsDate": 1649227505459,
+    "classify": [
+        "4.2"
+    ],
+    "skillType": [
+        {
+            "id": 0,
+            "other": ""
+        },
+        {
+            "id": 2,
+            "other": ""
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "蘇啟松藝師提供",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "北區",
+            "id": 105341,
+            "caseId": 21237,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1605
+        }
+    ],
+    "announces": [
+        {
+            "id": 112889,
+            "caseId": 21237,
+            "caseStatus": true,
+            "registerDate": 1667458401665,
+            "officialDocNo": "南市文資字第1111415043A號",
+            "classificationId": 1
+        }
+    ]
+}

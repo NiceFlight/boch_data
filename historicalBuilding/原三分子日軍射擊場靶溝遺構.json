@@ -1,0 +1,177 @@
+{
+    "id": 16483,
+    "caseId": "20190108000004",
+    "count": 3021,
+    "shareCount": 2,
+    "representImage": 164754,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-05-23/a248a289-4665-4beb-8a91-d3c8e2e752a4/歷061原三分子日軍射擊場靶溝遺構_P002_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-05-23/a248a289-4665-4beb-8a91-d3c8e2e752a4/歷061原三分子日軍射擊場靶溝遺構_P002.jpg",
+        "name": "歷061原三分子日軍射擊場靶溝遺構_P002"
+    },
+    "caseName": "原三分子日軍射擊場靶溝遺構",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "軍事設施",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1543976857604,
+    "officialDocNo": "府文資處字第1071342650A號",
+    "documents": [
+        {
+            "fileid": 164707,
+            "name": "原三分子日軍射擊場靶溝遺構公告-107.12.05.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-23/d4c524b4-208b-4cc3-8b2f-d6aeb27643fa/原三分子日軍射擊場靶溝遺構公告-107.12.05.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1.具建築史或技術史之價值者：保存了日治時期興建原貌及戰後國民政府接收後再整修與增建的靶溝遺構，表現了不同時代的構造與工法（如日治初期磚構造及混凝土構造）。\n2.具地區性建造物類型之特色者：為日治時期至國民政府期間作為陸軍射擊場及眷村歷史演變之見證，並呈現該區域之歷史紋理。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第2、3款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "北區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 53866,
+            "name": "仁愛段2、2-3地號地籍圖（已無2-2）.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2019-01-08/10be3ae3-b538-49fc-8674-c2090cf829f7/仁愛段2、2-3地號地籍圖（已無2-2）.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺南市北區仁愛段76-18、76-15、76-6、2及2-3地號",
+    "buildingFeatures": "",
+    "buildingActualState": "",
+    "bulkTransfer": 0,
+    "belongAddress": "臺南市北區林森路三段140巷67號東側",
+    "isOpenVisit": false,
+    "openUpTime": "",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.22603619999995,
+    "latitude": 23.0037938,
+    "representImageSource": "臺南市政府",
+    "landScope": "臺南市北區仁愛段76-18、76-15、76-6、2（部份）及2-3（部份）地號，2及2-3地號之部份範圍以靶溝構造物本體向四周延伸120公分為界",
+    "selfCoverage": "自開南街往西南延伸約117公尺之靶溝構造物（包含磚牆、水泥掩體、靶座等構件），即原直轄市定考古遺址『三分子日軍射擊場遺址』靶溝範圍再向西南延伸19公尺",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "北區",
+            "id": 82710,
+            "caseId": 16483,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1605,
+            "address": "林森路三段140巷67號東側"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺南市",
+            "distName": "北區",
+            "landNoName": "仁愛段",
+            "id": 91679,
+            "caseId": 16483,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1605,
+            "landNoId": 2326,
+            "landSerialNo": "76-6地號",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "臺南市",
+            "distName": "北區",
+            "landNoName": "仁愛段",
+            "id": 91680,
+            "caseId": 16483,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1605,
+            "landNoId": 2326,
+            "landSerialNo": "76-15地號",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "臺南市",
+            "distName": "北區",
+            "landNoName": "仁愛段",
+            "id": 91681,
+            "caseId": 16483,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1605,
+            "landNoId": 2326,
+            "landSerialNo": "76-18地號",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "臺南市",
+            "distName": "北區",
+            "landNoName": "仁愛段",
+            "id": 91682,
+            "caseId": 16483,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1605,
+            "landNoId": 2326,
+            "landSerialNo": "2（部分）地號",
+            "coverageId": 1,
+            "area": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "臺南市",
+            "distName": "北區",
+            "landNoName": "仁愛段",
+            "id": 91683,
+            "caseId": 16483,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1605,
+            "landNoId": 2326,
+            "landSerialNo": "2-3（部分）地號",
+            "coverageId": 1,
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 88844,
+            "caseId": 16483,
+            "caseStatus": true,
+            "registerDate": 1543976857604,
+            "officialDocNo": "府文資處字第1071342650A號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"臺南市北區仁愛段76-6地號\"}}],\"notfound\":\"沒有地號資料\"},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"臺南市北區仁愛段76-15地號\"}}],\"notfound\":\"沒有地號資料\"},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"臺南市北區仁愛段76-18地號\"}}],\"notfound\":\"沒有地號資料\"},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"臺南市北區仁愛段2（部分）地號\"}}],\"notfound\":\"沒有地號資料\"},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"臺南市北區仁愛段2-3（部分）地號\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "openVisitType": "不開放參觀"
+}

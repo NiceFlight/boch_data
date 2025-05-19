@@ -1,0 +1,118 @@
+{
+    "id": 2164,
+    "caseId": "20160628000001",
+    "count": 1871,
+    "shareCount": 0,
+    "representImage": 4399,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/132524/photo/風櫃962地號古宅代表圖像_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/132524/photo/風櫃962地號古宅代表圖像.jpg",
+        "name": "風櫃962地號古宅代表圖像"
+    },
+    "caseName": "風櫃962地號古宅",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "清領時期建築，基地格局完整。前棟歷史建築其安地契年代為1840年借地建造，本建築於大廳亦有安地契，待修復後取安地契後方知年代。 ",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1467043200000,
+    "officialDocNo": "府授文資字第10537019662號 ",
+    "documents": [
+        {
+            "fileid": 4400,
+            "name": "風櫃962地號古宅公文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/132526/file/風櫃962地號古宅公文.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "(一)具歷史文化價值者：年代久遠，形制完整，門樓比例優美，門口埕腹地完整，為澎湖早期四櫸頭民宅之典型作法。 \n(二)其他具歷史價值者：本古宅與前方已修好的古宅，原為兄弟親屬所建，同一族群建築成長的典型，有親族共同生活之紋理。 ",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、4款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "06-9261141#138",
+    "govDeptAddress": "澎湖縣馬公市中華路230號",
+    "cadasters": [
+        {
+            "fileid": 100083,
+            "name": "110XA001764PIC1.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-03-12/687e78f4-14f3-48f8-8706-7cf2956e3e4c/110XA001764PIC1.pdf"
+        }
+    ],
+    "nonCityLandUseTypeId": 4,
+    "nonCityLandUseTypeName": "鄉村區",
+    "nonCityLandUseSubTypeId": 2,
+    "nonCityLandUseSubTypeName": "乙種建築",
+    "buildingFeatures": "1.為澎湖早期四櫸頭民宅之典型作法，屬傳統合院建築形制，其牆體及秀面保存完整。 \r\n2.門樓比例優美。 ",
+    "inHouseFeatures": "包含大廳、左右房、中亭、深井及左右間仔。",
+    "buildingUsage": "閒置 ",
+    "buildingActualState": "閒置",
+    "buildingKeyMaintainItem": "定期派人員巡邏，以利掌握建物損壞狀況，並定期除草。",
+    "bulkTransfer": 0,
+    "belongAddress": "澎湖縣馬公市風櫃里74號（歷史建築風櫃尾74號古宅）後方之傳統建築。",
+    "isOpenVisit": false,
+    "openUpTime": "不開放",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 119.546727,
+    "latitude": 23.540005,
+    "representImageSource": "澎湖縣政府文化局文化資產科",
+    "landScope": " 澎湖縣馬公市風櫃西段962地號",
+    "selfCoverage": "坐落馬公市風櫃西段962地號內之建築本體，屬一落四櫸頭傳統建築格局，其包含大廳、左右房、中亭、深井及左右間仔等，建築面積約為160平方公尺。",
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 106257,
+            "caseId": 2164,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "風櫃里74號（歷史建築風櫃尾74號古宅）後方之傳統建築。"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "landNoName": "風櫃西段",
+            "noncityLandUseTypeName": "鄉村區",
+            "id": 130892,
+            "caseId": 2164,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "landNoId": 15613,
+            "landSerialNo": "962",
+            "landownership": 2,
+            "noncityLandUseTypeId": 4,
+            "area": "410.28平方公尺",
+            "noncityLandUseTypeOther": "乙種建築用地",
+            "note": "",
+            "cityLandUseId": 2
+        }
+    ],
+    "announces": [
+        {
+            "id": 113928,
+            "caseId": 2164,
+            "caseStatus": true,
+            "registerDate": 1467043200000,
+            "officialDocNo": "府授文資字第10537019662號 ",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[119.54684144764391,23.5400711592597],[119.54683589521805,23.540054717189996],[119.54671404091239,23.540094513316618],[119.54674288337459,23.54018457590762],[119.54680672222368,23.54035604699412],[119.54692198873322,23.54034778811019],[119.5469006501851,23.540255875290843],[119.54684144764391,23.5400711592597],[119.54684144764391,23.5400711592597]]]]},\"properties\":{\"envelope\":{\"left\":\"119.54671404091239\",\"top\":\"23.540054717189996\",\"right\":\"119.54692198873322\",\"bottom\":\"23.54035604699412\"},\"landLot\":\"澎湖縣馬公市風櫃西段962\"}}],\"notfound\":[]}]",
+    "openVisitType": ""
+}

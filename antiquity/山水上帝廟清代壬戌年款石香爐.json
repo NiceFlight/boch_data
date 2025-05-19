@@ -1,0 +1,96 @@
+{
+    "id": 22587,
+    "caseId": "20240319000007",
+    "count": 93,
+    "shareCount": 0,
+    "representImage": 254182,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-03-19/f5e06588-2263-4b0e-8819-953a57e91ad7/山水上帝廟清代壬戌年款石香爐_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-03-19/f5e06588-2263-4b0e-8819-953a57e91ad7/山水上帝廟清代壬戌年款石香爐.jpg",
+        "name": "山水上帝廟清代壬戌年款石香爐"
+    },
+    "caseName": "山水上帝廟清代壬戌年款石香爐",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "具有藝術造詣或科學成就",
+        "數量稀少者"
+    ],
+    "registerReason": "1、具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：本爐展耳為連體，為清代中晚期之風格，具地方宗教信仰史事之見證。\n2、具有藝術造詣或科學成就：本香爐為石雕，造形厚實似拙趣，但雕飾略似薄意而兼顧周到，款題完整。\n3、數量稀少者：時間上推至清同治元年（1862），且器形佳和款題皆具，雕飾厚實趣味。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、4、5款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "govInstitution": "澎湖縣政府",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405#6408",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00661-P-106-0001",
+    "amount": 1,
+    "descAge": "1862年",
+    "descSize": "含耳寬42.5公分、口寬23.2公分、含耳高29公分、口高20.3公分、深20.5公分",
+    "descMaterial": "石",
+    "reserveStatusDesc": "1、石爐四角斜切為八角形，平直口內束，足上鼓下束，口沿正面陰刻題「聖德英靈」，身中央浮雕麒麟紋，左右柱有款，上款「壬戌年季春月吉旦」，下款「本社弟子陳鏡喜助」，身背面浮雕一如意開光紋，展耳陰刻為捲草，中有鏤空，耳背面無紋；身接鼓足處環飾如意雲紋，四足間飾牙子，正反面中央牙子做柿楴紋，四足無飾。\n2、本爐展耳為連體，具清代中、晚期常見石香爐之風格。山水以陳姓為最大宗，約在明萬曆年間至南明永曆年間從金門前水頭移入開墾，可透過陳氏族譜之研究，進一步確認本香爐之相關歷史脈絡。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "1862年陳鏡",
+    "saveEnvironment": 2,
+    "reserveStatus": "狀況穩定",
+    "documents": [
+        {
+            "fileid": 254165,
+            "name": "1120706_清風閣等12案指定一般古物-公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-03-19/8250d453-f186-4388-8b07-f7cefaa8b0c6/1120706_清風閣等12案指定一般古物-公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "〈澎湖縣百年歷史廟宇及教堂文物普查計畫（二）‧成果報告〉",
+    "keepNames": [
+        {
+            "keepNameIdStr": "山水上帝廟",
+            "keepName": "陳火旺",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "山水上帝廟",
+            "keepAddressNew": "澎湖縣馬公市山水里20鄰8號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2,
+            "keepNameCityName": "澎湖縣",
+            "keepNameDistName": "馬公市",
+            "keepNameAddress": "山水里20鄰8號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 128238,
+            "caseId": 22587,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "山水里20鄰8號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 139312,
+            "caseId": 22587,
+            "caseStatus": true,
+            "registerDate": 1688572800000,
+            "officialDocNo": "府授文博字第1123702174號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

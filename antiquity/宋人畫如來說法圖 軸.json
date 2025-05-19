@@ -1,0 +1,106 @@
+{
+    "id": 16620,
+    "caseId": "20190220000005",
+    "count": 421,
+    "shareCount": 2,
+    "representImage": 55669,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-02-20/0e9917d9-6894-431d-a2e9-a425299ed0be/9-故畫000854_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-02-20/0e9917d9-6894-431d-a2e9-a425299ed0be/9-故畫000854.jpg",
+        "name": "9-故畫000854"
+    },
+    "caseName": "宋人畫如來說法圖 軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1550484631633,
+    "officialDocNo": "文授資局物字第10830017351號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色之代表性",
+        "具有獨特藝術造詣或科學成就",
+        "獨一無二或不可替代性"
+    ],
+    "registerReason": "〈如來說法圖〉畫佛陀半跏趺坐於蓮座，座側有二天王、阿難、大迦葉和二供養菩薩圍繞。畫中人物神情各異，栩栩如生，供養菩薩體態豐腴，衣紋沿線以墨暈染，仍見晚唐餘風；而坐佛肉髻低平，髻底有一隆起物，具宋代佛像的特色。北宋佛教繪畫傳世本稀少，本作能表現傳統信仰文化特色之典型，亦具藝術歷史特色之代表性。\n此幅繪於絹本裱成掛軸，畫幅四角分鈐「雙龍」、「政龢」、「政和」、「宣龢」四個半印，符合「宣和裝」鈐印形式，或曾為北宋徽宗內府舊藏，尤是獨特珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第4條第3、4、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故畫000854",
+    "amount": 1,
+    "descAge": "宋",
+    "descSize": "188.1×111.3公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "此幅畫佛陀半跏趺坐於蓮座，座側有二天王、阿難、大迦葉和二供養菩薩圍繞。坐佛長眉細目，法相莊嚴；二天王身穿盔甲，手持劍槊，神情威武。全作人物神情各異，栩栩如生。畫中供養菩薩體態豐腴，衣紋沿線以墨暈染，仍見晚唐餘風；而坐佛肉髻低平，髻底有一隆起物，具宋代佛像的特色，推測畫成時代或在北宋早期。畫幅四角分鈐「雙龍」、「政龢」、「政和」、「宣龢」四個半印，符合「宣和裝」鈐印形式，或曾為徽宗內府所收。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "天綾黃化、摺痕嚴重、舊傷損、傷補。",
+    "documents": [
+        {
+            "fileid": 146744,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-01/8382c6a1-876e-4ad9-b735-993a4e320836/公告.pdf"
+        },
+        {
+            "fileid": 146745,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-01/81c606f4-b46b-4ad8-b335-52cb769994db/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 68635,
+            "caseId": 16620,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 72735,
+            "caseId": 16620,
+            "caseStatus": true,
+            "registerDate": 1550484631633,
+            "officialDocNo": "文授資局物字第10830017351號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

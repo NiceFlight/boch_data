@@ -1,0 +1,102 @@
+{
+    "id": 4421,
+    "caseId": "20160104000002",
+    "count": 242,
+    "shareCount": 0,
+    "representImage": 7426,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43290/photo/76bd6e8b-667e-4515-8dc8-658a2a2f2b5e_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43290/photo/76bd6e8b-667e-4515-8dc8-658a2a2f2b5e.jpg",
+        "name": "76bd6e8b-667e-4515-8dc8-658a2a2f2b5e"
+    },
+    "caseName": "清康熙 銅胎畫琺瑯雙蝶鼻煙壺",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1451836800000,
+    "officialDocNo": "文授資局物字第10430118711號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "鼻煙壺至遲在康熙時已進入中國，但存世鼻煙壺中卻罕見有康熙時期的作品。此器器形精巧，設色鮮明，極具時代風格，顯示康熙時期宮廷畫琺瑯工藝的成熟，且反應清初鼻煙壺文化的盛行。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條1項第3、5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故琺000795",
+    "amount": 1,
+    "notes": "",
+    "descAge": "清　康熙",
+    "descSize": "3.6公分x2.5公分",
+    "descMaterial": "銅胎畫琺瑯",
+    "reserveStatusDesc": "口緣繪牡丹，兩面開光各繪雙彩蝶，側面繪黃地六瓣團花錦，底部四瓣花開光內有「康熙御製」楷書紅款。帶寶藍玻璃描金寶頂蓋與牙匙。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 148845,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-28/8e0989fc-8400-400e-8e94-6f4214cb9688/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69626,
+            "caseId": 4421,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73799,
+            "caseId": 4421,
+            "caseStatus": true,
+            "registerDate": 1451836800000,
+            "officialDocNo": "文授資局物字第10430118711號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

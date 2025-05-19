@@ -1,0 +1,108 @@
+{
+    "id": 4336,
+    "caseId": "20090302000007",
+    "count": 651,
+    "shareCount": 0,
+    "representImage": 7273,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/38019/photo/e30e2605-9b2a-4377-951f-f2da6131ebce_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/38019/photo/e30e2605-9b2a-4377-951f-f2da6131ebce.jpg",
+        "name": "e30e2605-9b2a-4377-951f-f2da6131ebce"
+    },
+    "caseName": "黃清埕／頭像",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1235923200000,
+    "officialDocNo": "會授資籌二字第0982101925號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.\t繼臺灣雕塑先驅黃土水之後，黃清埕以更前衛的快速刀法呈現臺灣現代雕塑風格之發端。\n2.\t印象派雕刻風格為最早期的臺灣雕塑形式，黃清埕作品為最重要傳承。本件作品風格在臺灣現代雕塑史上具有典範性作用，藝術價值甚高。\n3.\t本件雕塑為石膏模作品，屬臺灣雕塑史里程碑之作，在臺灣美術史上具重要意義，且質精、量少。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。2.「古物分級登錄指定及廢止審查辦法」第三、六、七條",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 18,
+    "belongCityName": "高雄市",
+    "belongDistName": "鼓山區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "1110830009",
+    "keepNameId": 17,
+    "keepName": "高雄市立美術館",
+    "keepNameNew": 17,
+    "keepAddressNew": "高雄市鼓山區美術館路80號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "約1940年",
+    "descCreator": "黃清埕",
+    "descSize": "長23公分、寬20公分、高26.5公分",
+    "descMaterial": "石膏",
+    "reserveStatusDesc": "    ",
+    "pastHistorySource": 2,
+    "pastHistorySourceNotes": "1994年",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 57510,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-04-17/dc2411a5-6247-471e-b983-d72c35374668/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "高雄市立美術館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "高雄市立美術館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "高雄市鼓山區美術館路80號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "高雄市",
+            "distName": "鼓山區",
+            "id": 4479,
+            "caseId": 4336,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1805
+        }
+    ],
+    "announces": [
+        {
+            "id": 4479,
+            "caseId": 4336,
+            "caseStatus": true,
+            "registerDate": 1235923200000,
+            "officialDocNo": "會授資籌二字第0982101925號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

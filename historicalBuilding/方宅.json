@@ -1,0 +1,120 @@
+{
+    "id": 2063,
+    "caseId": "20031201000028",
+    "count": 1405,
+    "shareCount": 0,
+    "representImage": 258749,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-06-18/dd417bf1-6d34-4759-b494-bac7da15c0e7/方宅_封面_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-06-18/dd417bf1-6d34-4759-b494-bac7da15c0e7/方宅_封面.jpg",
+        "name": "方宅_封面"
+    },
+    "caseName": "方宅",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "建築為方氏族人赴新加坡發展後於1900年代僑匯返鄉興建。起建之始建築格局為一落二攑頭加右突歸，後增建突歸疊樓。戰地政務時期，屋內挖有防空洞設施，頗富地方特色。\n（詳細歷史沿革待未來修復及再利用計畫深入調查）",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1070239658000,
+    "officialDocNo": "府教社字第0920057150 號",
+    "documents": [
+        {
+            "fileid": 257496,
+            "name": "2003-2007歷史建築登錄公告一覽表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-05-23/2381c8aa-6f91-417d-b928-3ce7a7682ea3/2003-2007歷史建築登錄公告一覽表.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者"
+    ],
+    "registerReason": "表現地域風貌或民間藝術特色者",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "890",
+    "govInstitutionName": "金門縣政府",
+    "belongCityId": 24,
+    "belongCityName": "金門縣",
+    "belongDistName": "烈嶼鄉",
+    "govInstitution": "金門縣文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "082-325643#812",
+    "govDeptAddress": "金門縣金城鎮環島北路一段66號",
+    "cadasters": [
+        {
+            "fileid": 168888,
+            "name": "方宅－地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-06-22/ab087572-3168-414b-9fc4-b9dc2438059a/方宅－地籍圖.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "烈嶼鄉西方段0361-0000地號",
+    "buildingFeatures": "1.建築為一落二攑頭加右突歸、突歸增建疊樓。一落二攑頭正立面下緣右側為不同材質之石塊亂石砌，左側下緣為花崗石平砌，上緣為紅磚斗砌；左側立面之攑頭牆下緣為亂石砌，上緣抹灰，正身牆下緣為花崗石平砌，上緣紅磚斗砌；背立面下緣左右段為花崗石平砌、中央亂石砌，上緣為斗砌磚牆。突歸正立面下緣為花崗石平砌，右側立面下緣亂石砌，上緣皆紅磚斗砌；背立面中段為花崗石平砌，上、下緣為亂石砌。\n2.屋脊形式皆為圓脊，突歸右側脊墜以泥塑裝飾。\n3.突歸疊樓女兒牆使用煙炙磚疊砌。",
+    "inHouseFeatures": "1.建築空間上以一落二攑頭之中軸由外至內分別為牆規樓（牆門）、深井、正廳，深井兩側為攑頭，正廳兩側為房，並加右突歸。\n2.正身鏡面下緣為玄武岩石砌，中為紅磚斗砌，上緣抹灰。整體較為樸實無華。\n3.突歸疊樓鏡面以綠釉花磚砌成窗，兩口窗戶皆置有書法聯對，橫批字跡仍清楚可見，其餘字跡因風化嚴重難以辨識或已消失。",
+    "buildingUsage": "閒置",
+    "buildingActualState": "1.建築整體受損嚴重，屋頂局部塌落。\n2.木構造長期受潮以致部分腐朽、塌落。\n3.植生茂盛難以入內。",
+    "buildingKeyMaintainItem": "建築受損嚴重，植株生長，建議進行緊急加固保護或先行清除內部植生，避免造成建築結構損壞加劇。",
+    "bulkTransfer": 0,
+    "belongAddress": "西口村西方51 號旁",
+    "isOpenVisit": false,
+    "openUpTime": "",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 118.23808,
+    "latitude": 24.43578,
+    "representImageSource": "曾逸仁",
+    "landScope": "金門縣烈嶼鄉西方段361地號",
+    "selfCoverage": "公告未指明歷史建築本體",
+    "addresses": [
+        {
+            "cityName": "金門縣",
+            "distName": "烈嶼鄉",
+            "id": 131355,
+            "caseId": 2063,
+            "caseStatus": true,
+            "cityId": 24,
+            "distId": 2405,
+            "address": "西口村西方51號旁"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "金門縣",
+            "distName": "烈嶼鄉",
+            "landNoName": "西方段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 186047,
+            "caseId": 2063,
+            "caseStatus": true,
+            "cityId": 24,
+            "distId": 2405,
+            "landNoId": 15227,
+            "landSerialNo": "361",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "area": "",
+            "cityLandUseTypeOther": "自然村專用區",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 143177,
+            "caseId": 2063,
+            "caseStatus": true,
+            "registerDate": 1070239658000,
+            "officialDocNo": "府教社字第0920057150號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[118.23803546974659,24.43584624269808],[118.23806514204816,24.43582477196027],[118.23813942002997,24.43577141139402],[118.23807829685761,24.435698343658025],[118.23797138580693,24.435773796374644],[118.23803546974659,24.43584624269808],[118.23803546974659,24.43584624269808]]]]},\"properties\":{\"envelope\":{\"left\":\"118.23797138580693\",\"top\":\"24.435698343658025\",\"right\":\"118.23813942002997\",\"bottom\":\"24.43584624269808\"},\"landLot\":\"金門縣烈嶼鄉西方段361\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": "歷史建築登錄清冊"
+}

@@ -1,0 +1,102 @@
+{
+    "id": 4474,
+    "caseId": "20160803000012",
+    "count": 228,
+    "shareCount": 0,
+    "representImage": 7523,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/132914/photo/明董其昌奇峰白雲圖軸_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/132914/photo/明董其昌奇峰白雲圖軸.jpg",
+        "name": "明董其昌奇峰白雲圖軸"
+    },
+    "caseName": "明董其昌奇峰白雲圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1470153600000,
+    "officialDocNo": "文授資局物字第10530074283號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就"
+    ],
+    "registerReason": "董其昌（1555-1636），晚明書壇領袖，是影響明清兩代的重要書畫家，其提出的許多書論與畫論，至今仍是書畫史研究的重要課題。\n董其昌米氏雲山風格之作不少，此作為其中佼佼者。層疊佈施的米點，仍維持瑩潤墨色與清晰筆蹤。透過米點與直皴的安排，及墨色的變化，讓山體維持平面感的同時又有豐富細膩的變化，寓巧於拙，為其所創發的米家風格新詮釋。是董其昌為同年知交吳正志（1562-1617）所作的精品。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第3、4款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000620",
+    "amount": 1,
+    "descAge": "明",
+    "descCreator": "董其昌",
+    "descSize": "65.5 x 30.4公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "本幅是為吳正志而作，他與董其昌有同年之誼，亦為書畫收藏的同好，董氏為其所作書畫多屬精心之作。畫幅祖述米氏雲山風格，然主山自山頂瀟灑落下的長皴，與山體右側以濃淡橫向米點交錯，展演出多種色調與質感，讓山體成為視覺逡巡的焦點，為其所創發的米家風格新詮釋。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。包首：傷補，霉傷。本幅：霉傷，傷補。",
+    "documents": [
+        {
+            "fileid": 7524,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/132915/file/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69593,
+            "caseId": 4474,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73760,
+            "caseId": 4474,
+            "caseStatus": true,
+            "registerDate": 1470153600000,
+            "officialDocNo": "文授資局物字第10530074283號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

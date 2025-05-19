@@ -1,0 +1,105 @@
+{
+    "id": 15719,
+    "caseId": "20180601000006",
+    "count": 449,
+    "shareCount": 0,
+    "representImage": 147329,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-13/3e3c2975-3923-4a56-bfba-58ffb8594754/DSC09858-hhy_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-13/3e3c2975-3923-4a56-bfba-58ffb8594754/DSC09858-hhy.jpg",
+        "name": "DSC09858-hhy"
+    },
+    "caseName": "土庫順天宮觀音殿頂桌",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1507219200000,
+    "officialDocNo": "府文資二字第1063809916F號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就",
+        "數量稀少者",
+        "對地方或族群知識、技術或流派發展具影響或意義"
+    ],
+    "registerReason": "１、台灣寺廟經常有神桌，以放置神像，五賽或供品，順天宮道光十四年款（1834）其建廟年代，也可作為雲林供桌研究的物證。\n２、贊助人「二林弟子洪郁文」，反映當地洪姓與土庫順天宮之間的交流。\n３、本件神案造形優美，保存基本完整。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2、3、4、5、6款",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "belongCityId": 13,
+    "belongCityName": "雲林縣",
+    "belongDistName": "土庫鎮",
+    "govInstitution": "雲林縣政府",
+    "govDeptName": "文化處",
+    "govDeptPhone": "05-5523157",
+    "govDeptAddress": "雲林縣斗六市大學路三段310號",
+    "reservationCode": "暫無",
+    "amount": 1,
+    "descAge": "西元1834年(清道光十四年) ",
+    "descSize": "長265公分、寬104公分、高149公分",
+    "descMaterial": "木質",
+    "reserveStatusDesc": "清道光十四年(西元1834年)之長條型「頂桌」，或稱「案桌」，桌面兩端上翹，正面有13幅紅底貼金的吉祥雕刻圖案，桌腳為獅吞繳的造型，神桌整體樣式細緻典雅，除表面部分有些許裂痕，落款「道光拾肆年臘月吉置  彰邑二林弟子洪郁文 叩」。\n神桌是祠廟中擺放祭品、神像、花瓶等的桌子，可以分為頂桌與下桌，頂桌又稱「案桌」，順天宮的神桌從清代到日治時期共有九件木製神桌，桌面均有大理石面，保存狀況大致良好。\n   以目前還在觀音殿使用的「清道光十四年神桌」為最悠久，該神桌為「彰邑二林弟子洪郁文叩謝」，據前副主委石耀祺先生口述表示，洪郁文是一位買賣番仔豆的商人，可見當時土庫地區是一個南來北往的地方，商人聚集之地，商人為感謝聖母庇護，致贈神桌叩謝神恩，答謝神祇。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "西元1834年(清道光十四年) ，捐贈者：彰邑二林洪郁文",
+    "saveEnvironment": 2,
+    "reserveStatus": "良好",
+    "documents": [
+        {
+            "fileid": 48292,
+            "name": "「土庫順天宮觀音殿頂桌」公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-06-01/844f16c8-661b-4e6c-8e20-9ffe4b211422/「土庫順天宮觀音殿頂桌」公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 23.6767819253369,
+    "latitude": 120.39066367048768,
+    "representImageSource": "雲林縣政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "土庫順天宮管理委員會",
+            "keepName": "土庫順天宮管理委員會",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "土庫順天宮管理委員會",
+            "keepAddressNew": "雲林縣土庫鎮順天里中正路109號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "雲林縣",
+            "keepNameDistName": "土庫鎮",
+            "keepNameAddress": "順天里中正路109號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "土庫鎮",
+            "id": 68963,
+            "caseId": 15719,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1304,
+            "address": "中正路109號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73092,
+            "caseId": 15719,
+            "caseStatus": true,
+            "registerDate": 1507219200000,
+            "officialDocNo": "府文資二字第1063809916F號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

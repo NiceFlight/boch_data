@@ -1,0 +1,102 @@
+{
+    "id": 17682,
+    "caseId": "20200720000004",
+    "count": 1920,
+    "shareCount": 1,
+    "representImage": 205450,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/6dddaf2e-e032-44c3-a25f-1c3dad4ceee9/代表圖像_鄭州路26巷7號_20221205_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/6dddaf2e-e032-44c3-a25f-1c3dad4ceee9/代表圖像_鄭州路26巷7號_20221205.jpeg",
+        "name": "代表圖像_鄭州路26巷7號_20221205"
+    },
+    "caseName": "鄭州路26巷7號",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "1.\t422建號日治時期為訓練所，戰後為黨部辦公室。\n2.\t421建號戰後曾為鐵路黨部禮堂。\n",
+    "assetsTypeNames": "機關,集會堂",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 70217,
+            "name": "1090601北市文化文資字第10930212081號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/18e7bf38-7180-4f00-abf8-7e27a1aa8184/1090601北市文化文資字第10930212081號公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1.\t422建號日治時期為訓練所，戰後為黨部辦公室，建築型式原為木造建物，曾歷經改建，屋頂及牆身現為鐵皮構造。\n2.\t421建號戰後曾為鐵路黨部禮堂，見證黨國時代的政治氣氛，建築形式為日式1樓獨棟建物，曾歷經改建，屋身為加強磚造建物，屋頂為鐵皮浪板，現況完整。\n3.\t臺北北門外鄭州路、延平北路、忠孝西路、西寧北路所圍合之區域，歷經清朝機器局，及日治時期砲兵工廠、鐵道部等時期，見證臺北城現代化之歷程。\n",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 70218,
+            "name": "1090601公告_地形地籍示意圖（奉核）.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/6f54f1e9-803d-483e-b5ef-a1b0d8a6a28e/1090601公告_地形地籍示意圖（奉核）.pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "longitude": 121.50958167072714,
+    "latitude": 25.049379036993734,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市大同區玉泉段二小段371-4地號等1筆土地。",
+    "selfCoverage": "臺北市大同區玉泉段二小段371-4地號（部分，該筆土地面積為9,850平方公尺）地號等1筆土地。（實際保存面積須以保存範圍實測數據為準）",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 106665,
+            "caseId": 17682,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "鄭州路26巷7號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "玉泉段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 132280,
+            "caseId": 17682,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 191,
+            "landSerialNo": "371-4",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "9850",
+            "cityLandUseTypeOther": "特定專用區",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 114433,
+            "caseId": 17682,
+            "caseStatus": true,
+            "registerDate": 1590940800000,
+            "officialDocNo": "北市文化文資字第10930212081號",
+            "classificationId": 1,
+            "note": " "
+        }
+    ],
+    "geojson": "[{\"address\":[{\"address\":\"1. 個案名稱: 鄭州路26巷7號 <br />\\n      2. 地址: 鄭州路26巷7號 <br />\\n      3. 種類: 機關,集會堂 <br />\\n      4. 指定登錄理由: 1.\\t422建號日治時期為訓練所，戰後為黨部辦公室，建築型式原為木造建物，曾歷經改建，屋頂及牆身現為鐵皮構造。\\n2.\\t421建號戰後曾為鐵路黨部禮堂，見證黨國時代的政治氣氛，建築形式為日式1樓獨棟建物，曾歷經改建，屋身為加強磚造建物，屋頂為鐵皮浪板，現況完整。\\n3.\\t臺北北門外鄭州路、延平北路、忠孝西路、西寧北路所圍合之區域，歷經清朝機器局，及日治時期砲兵工廠、鐵道部等時期，見證臺北城現代化之歷程。\\n <br />\\n      5. 最後一筆公告日期: 2020-06-01 <br />\\n      6. 最後一筆公告文號: 北市文化文資字第10930212081號 <br />\\n      7. 管理單位: 交通部臺灣鐵路管理局 <br />\\n      8. 使用單位: 交通部臺灣鐵路管理局 <br />\\n      9. 建物狀態: 現況良好 <br />\",\"lat\":25.049379036993734,\"lng\":121.50958167072714}]}]",
+    "openVisitType": ""
+}

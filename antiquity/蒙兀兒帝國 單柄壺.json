@@ -1,0 +1,98 @@
+{
+    "id": 20250,
+    "caseId": "20211214000001",
+    "count": 166,
+    "shareCount": 0,
+    "representImage": 147513,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-14/811d4971-7164-4978-86eb-0397810509da/001_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-14/811d4971-7164-4978-86eb-0397810509da/001.jpg",
+        "name": "001"
+    },
+    "caseName": "蒙兀兒帝國 單柄壺",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "痕都斯坦玉器之一，造型優美 ，用料、做工細緻，具古代玉器製作工法及地方文化代表性，且為清宮舊藏列字號文物，原貯乾清宮文物庫房端凝殿。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、3、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174之1號",
+    "reservationCode": "故玉001062",
+    "amount": 1,
+    "descAge": "十八世紀",
+    "descSize": "高10.7公分，寬19.5公分",
+    "descMaterial": "玉",
+    "reserveStatusDesc": "閃玉質，甚為光潤。斂口，碩腹，管狀流，圈足、足徑略小於口徑，有把，有蓋，桃形蓋鈕，腹部前後均有環。器身與器蓋均以低垂的花朵為造形：中心似火燄狀的紋樣是花托，周緣排列整齊、略帶彎弧的線條則是表現欲開未開的花瓣。器把則琢為花莖，把內鏤雕葉片。\n清宮舊藏。\n",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "良好。",
+    "documents": [
+        {
+            "fileid": 147512,
+            "name": "110年12月9日北市獻編字第1103004564號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-14/7172e29f-f996-48a1-bb95-bdfd9f17b23f/110年12月9日北市獻編字第1103004564號公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.549499,
+    "latitude": 25.10037,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69124,
+            "caseId": 20250,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路2段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73248,
+            "caseId": 20250,
+            "caseStatus": true,
+            "registerDate": 1639040884721,
+            "officialDocNo": "北市獻編字第1103004564號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

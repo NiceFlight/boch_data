@@ -1,0 +1,104 @@
+{
+    "id": 16599,
+    "caseId": "20190219000005",
+    "count": 200,
+    "shareCount": 0,
+    "representImage": 55595,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-02-19/fb5555c2-24ac-4108-97ea-db0f9b678fa0/5-故畫000376_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-02-19/fb5555c2-24ac-4108-97ea-db0f9b678fa0/5-故畫000376.jpg",
+        "name": "5-故畫000376"
+    },
+    "caseName": "明冷謙白岳圖 軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1550111204898,
+    "officialDocNo": "文授資局物字第10830016291號",
+    "judgeCriteria": [
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "冷謙（14世紀）浙江人，字啟敬（起敬），為元代道士畫家，存世畫蹟罕見。\n本幅冷謙款署「黃冠道人」，並自述至正三年（1343）秋和劉基（1311-1375）到白岳山（安徽）朝聖，乘興續遊黃山，歸後作圖紀遊。畫中山石以乾筆皴擦，稜脊留白，墨色對比強烈，突顯山形的奇特與峭峻。\n此作不僅具有元代道教山水畫的時代風格，並能呈現畫家個人畫風與藝術造詣，幅上冷謙題識及劉基題詩亦為彌足珍貴的書法資料。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故畫000376",
+    "amount": 1,
+    "descAge": "明",
+    "descSize": "本幅84.4x41.4公分，全幅250x64.3公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "冷謙（14世紀），字啟敬（起敬），浙江人。元末隱居杭州近郊的吳山，明初曾任協律郎。 \n本幅冷謙款署「黃冠道人」，並自述至正三年（1343）秋和劉基（1311-1375）到白岳山朝聖，乘興續遊黃山，歸後作圖紀遊。從畫上二人的題跋唱和可知，這趟旅遊被視為仙山遊歷。白岳山位於安徽，地貌多奇峰、怪巖與飛澗，且高峰入雲。畫中山石以乾筆皴擦，稜脊留白，墨色對比強烈，突顯山形的奇特與峭峻。聖山的不凡與獨特，在率性的用筆下，益顯直接而震撼。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "良。",
+    "documents": [
+        {
+            "fileid": 146914,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-03/3aeec66d-faa8-492b-8556-fafeb6706950/公告.pdf"
+        },
+        {
+            "fileid": 146915,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-03/5b862a17-cbf5-4a94-963b-34177e2c0666/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 68743,
+            "caseId": 16599,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 72843,
+            "caseId": 16599,
+            "caseStatus": true,
+            "registerDate": 1550111204898,
+            "officialDocNo": "文授資局物字第10830016291號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

@@ -1,0 +1,111 @@
+{
+    "id": 22468,
+    "caseId": "20240115000002",
+    "count": 531,
+    "shareCount": 0,
+    "representImage": 252652,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-02-27/b79ab5c9-671a-4950-91f4-f8d96d3786a9/S__28000487_0_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-02-27/b79ab5c9-671a-4950-91f4-f8d96d3786a9/S__28000487_0.jpg",
+        "name": "S__28000487_0"
+    },
+    "caseName": "舊重興派出所辦公廳舍",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "尚未辦修復及再利用計畫，待辦理後更正。",
+    "assetsTypeNames": "衙署",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 240814,
+            "name": "1130112公告登錄「舊重興派出所辦公廳舍」為本縣歷史建築.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-01-15/9a3632a9-c245-4c42-a061-d148f59177f0/1130112公告登錄「舊重興派出所辦公廳舍」為本縣歷史建築.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "(一)表現地域風貌或民間藝術特色者：立面泥作裝飾及洗石子技術具工藝價值。\n(二)具地區性建造物類型之特色者：地方派出所廳舍的典型。",
+    "lawsReference": "符合文化資產保存法第18條暨歷史建築紀念建築登錄廢止審查及輔助辦法第2條第1項第1、3款登錄評定基準。",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "govInstitution": "文化觀光處",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "05-5523152",
+    "govDeptAddress": "雲林縣斗六市大學路3段310號",
+    "cadasters": [
+        {
+            "fileid": 240815,
+            "name": "88.舊重興派出所辦公廳舍地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2024-01-15/28964fc6-6f8c-43a5-b002-efc22d6057ee/88.舊重興派出所辦公廳舍地籍圖.pdf"
+        },
+        {
+            "fileid": 240816,
+            "name": "88.舊重興派出所辦公廳舍地籍資料及建物資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2024-01-15/3476f709-fb01-4b8f-9311-ed86cb3b85a0/88.舊重興派出所辦公廳舍地籍資料及建物資料.pdf"
+        },
+        {
+            "fileid": 240817,
+            "name": "88.舊重興派出所辦公廳舍建物測量成果圖資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2024-01-15/4cbb76e5-cdba-4504-b155-6307f505eaaa/88.舊重興派出所辦公廳舍建物測量成果圖資料.pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isOpenDownload": false,
+    "longitude": 23.76825449600159,
+    "latitude": 120.5773807355822,
+    "representImageSource": "雲林縣政府文化觀光處",
+    "landScope": "建物定著土地為雲林縣林內鄉芎蕉段649地號(2,461.66平方公尺)之部分土地。",
+    "selfCoverage": "建物總面積約為64.8平方公尺",
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "林內鄉",
+            "id": 127295,
+            "caseId": 22468,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1311,
+            "address": "重興村重興70號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "雲林縣",
+            "distName": "林內鄉",
+            "landNoName": "芎蕉段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 174596,
+            "caseId": 22468,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1311,
+            "landNoId": 11452,
+            "landSerialNo": "649",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "area": "2,461.66",
+            "cityLandUseTypeOther": "鄉村區",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 138125,
+            "caseId": 22468,
+            "caseStatus": true,
+            "registerDate": 1705056329060,
+            "officialDocNo": "府文資二字第1133805124B",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.57731800501766,23.767814320698935],[120.57719575185874,23.768007645727145],[120.57720214239876,23.768146223708445],[120.57741484128383,23.768221192304022],[120.57739674596942,23.768273930323975],[120.57781800414872,23.768393515642554],[120.57783837625405,23.768218919187074],[120.5777405637741,23.768007718412015],[120.57766527646334,23.767976296959894],[120.57764757334327,23.767971408643792],[120.57731800501766,23.767814320698935],[120.57731800501766,23.767814320698935]]]]},\"properties\":{\"envelope\":{\"left\":\"120.57719575185874\",\"top\":\"23.767814320698935\",\"right\":\"120.57783837625405\",\"bottom\":\"23.768393515642554\"},\"landLot\":\"雲林縣林內鄉芎蕉段649\"}}],\"notfound\":[]}]",
+    "openVisitType": ""
+}

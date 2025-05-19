@@ -1,0 +1,100 @@
+{
+    "id": 17778,
+    "caseId": "20200821000001",
+    "count": 2320,
+    "shareCount": 3,
+    "representImage": 71295,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/cb04176e-8d91-49bb-9968-549ce8312a37/IMG_6039_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/cb04176e-8d91-49bb-9968-549ce8312a37/IMG_6039.jpg",
+        "name": "IMG_6039"
+    },
+    "caseName": "永樂國小（原永樂公學校）校舍",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "永樂公學校創校歷史悠久，為大稻埕地區重要之新式教育小學，感恩樓、合作樓、創新樓皆建於1936年，具當時「折衷主義」設計風格，走廊有連續之拱形廊。",
+    "assetsTypeNames": "學校",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 71296,
+            "name": "永樂國小公告+地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/6325e428-b132-484d-8aa6-c4bb179d7b2c/永樂國小公告+地籍圖.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "永樂公學校創校歷史悠久，為大稻埕地區重要之新式教育小學，感恩樓、合作樓、創新樓皆建於1936年，具當時「折衷主義」設計風格，走廊有連續之拱形廊。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 71297,
+            "name": "歷建-永樂國小（原永樂公學校）校舍_地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/0c67fee8-d95d-4bf8-89a8-713d640edad8/歷建-永樂國小（原永樂公學校）校舍_地籍圖.pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isCharge": false,
+    "longitude": 121.51113383486312,
+    "latitude": 25.06169366568404,
+    "landScope": "大同區延平段二小段599地號（18,321平方公尺）1筆土地。（實際保存面積須以保存範圍實測數據為準）",
+    "selfCoverage": "大同區延平段二小段1381-2建號（建物總面積10,622.25平方公尺）",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 61042,
+            "caseId": 17778,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "延平北路2段266號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段二小段",
+            "cityLandUseTypeName": "文教區",
+            "id": 47892,
+            "caseId": 17778,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 188,
+            "landSerialNo": "599",
+            "landownership": 1,
+            "cityLandUseTypeId": 5,
+            "coverageId": 1,
+            "area": "18,321",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 63913,
+            "caseId": 17778,
+            "caseStatus": true,
+            "registerDate": 1596988800000,
+            "officialDocNo": "北市文化文資字第10930266191號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": ""
+}

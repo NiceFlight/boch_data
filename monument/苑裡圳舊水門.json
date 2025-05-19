@@ -1,0 +1,112 @@
+{
+    "id": 18927,
+    "caseId": "20210426000001",
+    "count": 3680,
+    "shareCount": 3,
+    "representImage": 212458,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-04-28/9f9347bc-560c-4974-a80e-aaf3926dd688/苑裡圳舊水門_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-04-28/9f9347bc-560c-4974-a80e-aaf3926dd688/苑裡圳舊水門.jpg",
+        "name": "苑裡圳舊水門"
+    },
+    "caseName": "苑裡圳舊水門",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "堤閘",
+    "assetsClassifyCode": "1.1.3",
+    "assetsClassifyName": "縣(市)定古蹟",
+    "documents": [
+        {
+            "fileid": 107255,
+            "name": "縣定15-苑裡圳舊水門-公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-04-26/7d56e337-c72e-45e5-ad97-64f5fc60a738/縣定15-苑裡圳舊水門-公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具高度歷史、藝術或科學價值者",
+        "表現各時代營造技術流派特色者",
+        "具稀少性，不易再現者"
+    ],
+    "registerReason": "苑裡圳舊水門建於日治大正年間，與大安溪堤防共構，以石塊砌成，厚實堅固，造型優美，迄今依舊保存完整。見證苑裡地區水田文化發展以及保存日治時期水利工程工法，深具文化資產價值。",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "360",
+    "govInstitutionName": "苗栗縣政府",
+    "govInstitution": "苗栗縣政府文化觀光局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "037-352961#712",
+    "govDeptAddress": "苗栗市自治路50號",
+    "cadasters": [
+        {
+            "fileid": 139817,
+            "name": "縣15-苑裡舊水門-地籍航照圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-09-29/ca1cd340-9cea-4550-b68d-70907e4e0479/縣15-苑裡舊水門-地籍航照圖.jpg"
+        },
+        {
+            "fileid": 139818,
+            "name": "縣15-苑裡舊水門-地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-09-29/41c5c069-e84c-419f-bd0c-42f7f24334b8/縣15-苑裡舊水門-地籍圖.jpg"
+        }
+    ],
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "isOpenDownload": false,
+    "longitude": 120.715075,
+    "latitude": 24.361143,
+    "representImageSource": "苗栗縣政府文化觀光局",
+    "landScope": "苗栗縣苑裡鎮上館段744地號，總面積：3091.28平方公尺。",
+    "selfCoverage": "苑裡圳舊水門(面積為寬9.75x長19.75x高9.75公尺)",
+    "addresses": [
+        {
+            "cityName": "苗栗縣",
+            "distName": "苑裡鎮",
+            "id": 111971,
+            "caseId": 18927,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 808,
+            "address": "上館里一鄰上館3之1號旁"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "苗栗縣",
+            "distName": "苑裡鎮",
+            "landNoName": "上館段",
+            "noncityLandUseTypeName": "特定農業區",
+            "id": 150635,
+            "caseId": 18927,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 808,
+            "landNoId": 9307,
+            "landSerialNo": "744地號",
+            "landownership": 1,
+            "noncityLandUseTypeId": 1,
+            "area": "3091.28",
+            "noncityLandUseTypeOther": "水利用地",
+            "note": "",
+            "cityLandUseId": 2
+        }
+    ],
+    "announces": [
+        {
+            "id": 121374,
+            "caseId": 18927,
+            "caseStatus": true,
+            "registerDate": 1589526228193,
+            "officialDocNo": "府文資字第1090006392B號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"苗栗縣苑裡鎮上館段744地號\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": "苑裡圳舊水門-清冊"
+}

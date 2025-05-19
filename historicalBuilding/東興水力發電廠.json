@@ -1,0 +1,95 @@
+{
+    "id": 1847,
+    "caseId": "20050929000004",
+    "count": 2101,
+    "shareCount": 0,
+    "representImage": 125303,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-20/e2e8444b-ec28-4940-9ecd-a1720b591cb5/歷建17-東興水力發電廠-永保_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-20/e2e8444b-ec28-4940-9ecd-a1720b591cb5/歷建17-東興水力發電廠-永保.jpg",
+        "name": "歷建17-東興水力發電廠-永保"
+    },
+    "caseName": "東興水力發電廠",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "東興水力發電廠位於臺東縣內利嘉溪支流大南溪下游，興建於日治時期昭和16年（1941年）。廠房及宿舍為木結構，另有水路設施及對外聯繫的吊橋。由於是利用大南溪水進行水力發電，名為大南水力發電廠。是東部地區最早興建，也是規模最小的水力發電廠。 \n臺灣光復後，大南水力發電廠由臺灣電力公司接管，先將二戰時損壞部分修復。再於民國39年（1950）擴建，民國47年增建一組發電機組，成為兩部400仟瓦發電機組；水量充沛和正常運轉下，每小時發電量可達800仟瓦（度）。其中主要設備的兩部水輪機（豎軸單輪單流渦卷型水車），是昭和16年（1941年），日本東京電業社原動機製造所製造。\n大南水力發電廠於民國58年大南村改名為東興村後，隨之改稱為東興水力發電廠。東興水力發電廠除為產業設施外，也是無汙染發電的代表性設施。\n",
+    "assetsTypeNames": "其他設施,產業",
+    "otherAssetsType": "水力發電廠",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1127923200000,
+    "officialDocNo": "府文資字第 0943032223 號",
+    "documents": [
+        {
+            "fileid": 114888,
+            "name": "17臺東縣歷史建築公告文-東興水力發電廠.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-28/ce805be7-2602-4e8f-8bec-404f5bb746ec/17臺東縣歷史建築公告文-東興水力發電廠.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "1.建於日治時代唯一尚存的水力發電廠。\n2.臺灣少數仍再使用堅軸單輪單流渦流型水車之發電廠。",
+    "lawsReference": "1.文化資產保存法第15條之一規定\n2.歷史建築登錄及輔助辦法\n3.臺東縣94年6月6日歷史建築登錄審查會議決議辦理\n",
+    "govInstitutionCode": "950",
+    "govInstitutionName": "臺東縣政府",
+    "belongCityId": 22,
+    "belongCityName": "臺東縣",
+    "belongDistName": "卑南鄉",
+    "govInstitution": "臺東縣政府",
+    "govDeptName": "文化處文化資產科",
+    "govDeptPhone": "089-350129",
+    "govDeptAddress": "臺東市南京路25號",
+    "cadasters": [],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 6,
+    "nonCityLandUseTypeName": "山坡地保育區",
+    "nonCityLandUseSubTypeId": 18,
+    "nonCityLandUseSubTypeName": "特定目的事業",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺東縣大南段0561-0000、0562-0000",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "東興村發電廠路17號",
+    "isOpenVisit": true,
+    "openUpTime": "",
+    "isCharge": false,
+    "isOpenDownload": true,
+    "longitude": 121.028094,
+    "latitude": 22.765583,
+    "representImageSource": "109-110年度臺東縣文化資產個案資料同步更新維護計畫-徐明正提供",
+    "landScope": "卑南鄉大南段562地號",
+    "selfCoverage": "卑南鄉大南段562地號",
+    "addresses": [
+        {
+            "cityName": "臺東縣",
+            "distName": "卑南鄉",
+            "id": 136971,
+            "caseId": 1847,
+            "caseStatus": true,
+            "cityId": 22,
+            "distId": 2205,
+            "address": "臺東縣卑南鄉東興村發電廠路17號"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 149656,
+            "caseId": 1847,
+            "caseStatus": true,
+            "registerDate": 1127923200000,
+            "officialDocNo": "府文資字第 0943032223 號",
+            "classificationId": 1
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "109至110年文化資產資料數位整合計畫"
+}

@@ -1,0 +1,132 @@
+{
+    "id": 18953,
+    "caseId": "20210428000003",
+    "count": 2151,
+    "shareCount": 1,
+    "representImage": 138634,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-09-15/8d27c14f-f7b0-4d56-8872-c077b9d9609a/2021829_210829_101_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-09-15/8d27c14f-f7b0-4d56-8872-c077b9d9609a/2021829_210829_101.jpg",
+        "name": "2021829_210829_101"
+    },
+    "caseName": "臺鐵苗栗站5號倉庫",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "產業",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 107740,
+            "name": "歷53-苗栗臺鐵站5號倉庫-公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-04-28/d9787568-a88f-432f-abaa-c96c130b0138/歷53-苗栗臺鐵站5號倉庫-公告.pdf"
+        },
+        {
+            "fileid": 201087,
+            "name": "本縣歷史建築「臺鐵苗栗站5號倉庫」公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-11-29/3ad5c367-7380-45dd-a2b3-9288bb703783/本縣歷史建築「臺鐵苗栗站5號倉庫」公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "一、建物興建（重建）於民國49年，現況保存良好。\n二、屋架為大跨距副同柱式，相較其他鐵路倉庫跨距為大，陸樑共四段由金物栓接，屋架筋違為連續狀，火打樑斜撐跨距大。倉庫天花板高度相較其他類似倉庫為高，高度亦同。皆具一定特色。\n三、牆面奠基石板可見「中華民國四十九年二月 日重建」字樣，見證苗栗站鐵路倉庫之歷史。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第2、3款",
+    "govInstitutionCode": "360",
+    "govInstitutionName": "苗栗縣政府",
+    "govInstitution": "苗栗縣政府文化觀光局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "037-352961#712",
+    "govDeptAddress": "苗栗縣苗栗市自治路50號",
+    "cadasters": [
+        {
+            "fileid": 139910,
+            "name": "歷53-苗栗臺鐵站5號倉庫-航照.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-09-29/e4e0a42e-d92f-476b-8315-5d7b76668694/歷53-苗栗臺鐵站5號倉庫-航照.jpg"
+        },
+        {
+            "fileid": 139911,
+            "name": "歷53-苗栗臺鐵站5號倉庫-地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-09-29/7bb1923a-1414-4116-8d47-2a1e3fe7101c/歷53-苗栗臺鐵站5號倉庫-地籍圖.jpg"
+        },
+        {
+            "fileid": 139912,
+            "name": "歷53-苗栗臺鐵站5號倉庫-地籍資料.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-09-29/6e9d9b9b-5535-4610-a243-7f33d5297ca3/歷53-苗栗臺鐵站5號倉庫-地籍資料.jpg"
+        }
+    ],
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isOpenDownload": false,
+    "longitude": 120.82287,
+    "latitude": 24.56894,
+    "representImageSource": "苗栗縣政府文化觀光局",
+    "landScope": "苗栗縣苗栗市北苗段441地號本體。定著土地總面積：2204.33平方公尺",
+    "selfCoverage": "苗栗臺鐵站5號倉庫",
+    "addresses": [
+        {
+            "cityName": "苗栗縣",
+            "distName": "苗栗市",
+            "id": 113530,
+            "caseId": 18953,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 809,
+            "address": "北苗段441地號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "苗栗縣",
+            "distName": "苗栗市",
+            "landNoName": "北苗段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 155235,
+            "caseId": 18953,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 809,
+            "landNoId": 9207,
+            "landSerialNo": "441",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "area": "2204.33",
+            "cityLandUseTypeOther": "鐵路用地",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 123536,
+            "caseId": 18953,
+            "caseStatus": true,
+            "registerDate": 1588920337844,
+            "officialDocNo": "府文資字第1090006054B號",
+            "classificationId": 1
+        },
+        {
+            "id": 123537,
+            "caseId": 18953,
+            "caseStatus": true,
+            "registerDate": 1664872041841,
+            "officialDocNo": "府文資字第1110011984B",
+            "classificationId": 2,
+            "note": "更正名稱"
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.8227483838518,24.569393309671014],[120.8228007581149,24.569069272628457],[120.82309522857139,24.56911165978815],[120.82307704446114,24.568789293184754],[120.82298426551526,24.568732054015467],[120.82281682718877,24.56875307958749],[120.82271302978336,24.568774950931502],[120.82271261519176,24.568774908008],[120.8227112050488,24.568786368504668],[120.8227098578298,24.568797312623726],[120.82270851258006,24.568808260356626],[120.82270177844599,24.5688629872739],[120.82270043220622,24.568873935908364],[120.82269369905221,24.568928662825915],[120.82268157994281,24.569027177957725],[120.82268023271979,24.569038121173275],[120.82267378466096,24.5690929955948],[120.82267249465615,24.569103968672803],[120.82265830752421,24.569224690589987],[120.8226570165306,24.5692356627636],[120.82265572849224,24.56924663945508],[120.82265443749817,24.56925761162862],[120.8226402513179,24.569378333542634],[120.82263896031982,24.56938930661871],[120.82262221045784,24.569525249997227],[120.82262247210731,24.569525935596722],[120.82261355346819,24.569603518331206],[120.822780774296,24.56959546722773],[120.82278779447144,24.5695626997715],[120.8227483838518,24.569393309671014],[120.8227483838518,24.569393309671014]]]]},\"properties\":{\"envelope\":{\"left\":\"120.82261355346819\",\"top\":\"24.568732054015467\",\"right\":\"120.82309522857139\",\"bottom\":\"24.569603518331206\"},\"landLot\":\"苗栗縣苗栗市北苗段441\"}}],\"notfound\":[]}]",
+    "openVisitType": "預約開放參觀",
+    "pastHistorySource": "臺鐵苗栗站5號倉庫-清冊"
+}

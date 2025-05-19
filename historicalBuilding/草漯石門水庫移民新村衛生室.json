@@ -1,0 +1,119 @@
+{
+    "id": 2225,
+    "caseId": "20170406000001",
+    "count": 4408,
+    "shareCount": 8,
+    "representImage": 186911,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-10-14/8d18921b-97c3-44f6-84ea-358ce5bc1adc/DSC_0035_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-10-14/8d18921b-97c3-44f6-84ea-358ce5bc1adc/DSC_0035.jpg",
+        "name": "DSC_0035"
+    },
+    "caseName": "草漯石門水庫移民新村衛生室",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "民國45年因興建石門水庫，強制遷徙原世居大漢溪河岸的居民，石門水庫建設委員會將第一批移民29戶安置於草漯。政府有感於先民移民犧牲奉獻的精神，民國49年陳前副總統誠特別設立石門水庫移民新村牌樓，51年由吳前桃園縣長鴻麟設立紀念碑，牌樓暨紀念碑經移殖居民努力下於100年復舊完成，並於隔年辦理落成典禮。\n\n為妥善照顧移殖居民們的健康，特於草漯移民新村設置警察所、村辦公室及衛生室各一棟，然警察所及村辦公室因三度失火而燒毀殆盡，具歷史性意義的建物僅存衛生室一棟。\n",
+    "assetsTypeNames": "衙署",
+    "otherAssetsType": "衛生室",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1491408000000,
+    "officialDocNo": "府文資字第10600710111號",
+    "documents": [
+        {
+            "fileid": 186912,
+            "name": "府文資字第10600710111號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-10-14/897fe9fe-8ef6-463b-b6cb-6785d35bdf40/府文資字第10600710111號.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1.具歷史文化價值者：本案衛生室為當時從大漢溪遷村後因考量村民的健康需求而興建，見證石門水庫建設時期移民史及衛生醫療史。\n2.具建築史或技術史之價值者：建物內部格局尚存，外觀呈現現代主義建築特色，具建築史保存價值。\n3.其他具歷史建築價值者：值得保存作為戰後美國經援臺灣及石門水庫建設在地歷史發展過程之見證場域。\n",
+    "lawsReference": "「歷史建築登錄廢止審查及輔助辦法」第2條第1項第1、3、4款規定",
+    "govInstitutionCode": "330",
+    "govInstitutionName": "桃園市政府",
+    "belongCityId": 5,
+    "belongCityName": "桃園市",
+    "belongDistName": "觀音區",
+    "govInstitution": "桃園市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-3322592分機8616",
+    "govDeptAddress": "桃園市桃園區縣府路21號",
+    "cadasters": [
+        {
+            "fileid": 186910,
+            "name": "地籍資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-10-14/42548ce5-345b-467f-be06-6d1bab47fd59/地籍資料.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 11,
+    "nonCityLandUseTypeName": "其他使用區",
+    "nonLandUseOtherType": "非都市土地",
+    "locationLandNo": "桃園市觀音區草漯里忠孝段375地號",
+    "buildingFeatures": "外觀呈現現代主義建築特色，灰白色抿石子牆面及早期淺綠色玻璃門窗。",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "建築本體保存狀況尚可，目前閒置。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "桃園市觀音區草漯里15鄰草漯280號",
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.13202,
+    "latitude": 25.066719,
+    "representImageSource": "桃園市政府文化局",
+    "landScope": "桃園市觀音區忠孝段375地號，定著土地之範圍：855.64平方公尺。",
+    "selfCoverage": "歷史建築本體及面積：133.6平方公尺",
+    "addresses": [
+        {
+            "cityName": "桃園市",
+            "distName": "觀音區",
+            "id": 108136,
+            "caseId": 2225,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 506,
+            "address": "草漯里15鄰草漯280號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "桃園市",
+            "distName": "觀音區",
+            "landNoName": "忠孝段",
+            "noncityLandUseTypeName": "一般農業區",
+            "id": 135408,
+            "caseId": 2225,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 506,
+            "landNoId": 7558,
+            "landSerialNo": "375",
+            "landownership": 1,
+            "noncityLandUseTypeId": 2,
+            "area": "",
+            "note": "",
+            "cityLandUseId": 2
+        }
+    ],
+    "announces": [
+        {
+            "id": 116454,
+            "caseId": 2225,
+            "caseStatus": true,
+            "registerDate": 1491408000000,
+            "officialDocNo": "府文資字第10600710111號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.13190888433395,25.066983446688116],[121.13223742048922,25.066674080101393],[121.13206428881543,25.066521556846634],[121.13190750701422,25.066669191329517],[121.13190888433395,25.066983446688116],[121.13190888433395,25.066983446688116]]]]},\"properties\":{\"envelope\":{\"left\":\"121.13190750701422\",\"top\":\"25.066521556846634\",\"right\":\"121.13223742048922\",\"bottom\":\"25.066983446688116\"},\"landLot\":\"桃園市觀音區忠孝段375\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀"
+}

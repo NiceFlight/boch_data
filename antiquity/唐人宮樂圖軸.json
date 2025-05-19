@@ -1,0 +1,106 @@
+{
+    "id": 4048,
+    "caseId": "20120326000103",
+    "count": 618,
+    "shareCount": 1,
+    "representImage": 6954,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/33034/photo/f971123e-44aa-459e-bd21-2f0151b73faa_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/33034/photo/f971123e-44aa-459e-bd21-2f0151b73faa.JPG",
+        "name": "f971123e-44aa-459e-bd21-2f0151b73faa"
+    },
+    "caseName": "唐人宮樂圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有特殊之時代特色、技術及流派",
+        "品質精良且數量特別稀少"
+    ],
+    "registerReason": "〈宮樂圖〉是院藏早期作品中，年代超過千載，也最能呈現晚唐宮廷女性形象的優秀名蹟。推測應出自受張萱（八世紀前半）、周昉（約730－800頃）風格影響的畫家之手。儘管時序已相隔一千餘年，絹底也呈現了多處破損，然而畫面的色澤卻依舊十分亮麗，就連衣裳上花紋的細膩變化，猶能清晰辨認，充分印證了唐代工筆重彩一格的高超成就。具特殊的時代特色，品質精良且數量特別稀少。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第四條第一項第三、五款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000357",
+    "amount": 1,
+    "notes": "",
+    "descAge": "唐",
+    "descSize": "48.7 x 69.5（公分）",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "本幅描繪後宮女眷十人，圍坐於長方大桌的四周，有的飲茶，也有人正在行酒令；上方的四人，分別吹彈胡笳（篳篥）、琵琶、古箏與笙，替這一場宴飲的人助興。左方另有一站立的侍女，手握拍板，敲打著節奏。\n畫上雖無作者名款，但人物各箇體態豐腴，髮髻衣飾的畫法，亦皆符合唐代女性的審美風尚。由於幅面的格局短窄，推測原本可能是中晚唐時期宮中使用的裝飾屏風，後來才被改裝成掛軸形式。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 151956,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-27/4f7f678c-6317-4832-9710-64f8da4fb890/公告.pdf"
+        },
+        {
+            "fileid": 151957,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-27/9232083c-2c72-4f62-8bc5-865ba7c7adb9/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71555,
+            "caseId": 4048,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 76022,
+            "caseId": 4048,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

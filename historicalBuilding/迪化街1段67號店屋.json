@@ -1,0 +1,155 @@
+{
+    "id": 976,
+    "caseId": "20060517000002",
+    "count": 2734,
+    "shareCount": 1,
+    "representImage": 173357,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/0e9d277f-69fb-4c83-a59d-7a7f6225d49f/代表圖像_迪化街1段67號店屋_20220707_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/0e9d277f-69fb-4c83-a59d-7a7f6225d49f/代表圖像_迪化街1段67號店屋_20220707.jpeg",
+        "name": "代表圖像_迪化街1段67號店屋_20220707"
+    },
+    "caseName": "迪化街1段67號店屋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本屋曾為大稻埕名醫郭火炎及台南幫候家所有，前為茂元中藥鋪，在迪化街頗有名氣，郭雪湖的畫作『南街殷賑』的街景描繪，亦可見其留存在畫中，見證此街商業發展榮景。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 167515,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/e325012a-3c94-4ca6-8f79-6c12dcd9eb1e/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "1. 建築物始建於1923年，立面雖已重修，但仍存原格局，且屋主強烈表達保存意願，所提供之歷史資料文獻亦清楚呈現說明本建築生命史。\r\n2. 本屋曾為大稻埕名醫郭火炎及臺南幫侯家所有，前為茂元中藥鋪，在迪化街頗有名氣，郭雪湖的畫作『南街殷賑』的街景描繪，亦可見其留存在畫中，見證此街商業發展榮景。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 118558,
+            "name": "downloadfile (2).JPG",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/d01edde1-67a6-4565-bdc2-0b77925d05b4/downloadfile (2).JPG"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "特定專用區",
+    "locationLandNo": "大同區延平段三小段209、210、210-1地號",
+    "buildingFeatures": "建築風格為近代建築樣式，構造以RC為主，立面採四柱三間式，以簡單幾何圖形與線腳作裝飾，立面因日據時期火災整修為二丁掛面磚。",
+    "inHouseFeatures": "室內仍保留完整格局、精緻門窗與五金構件。",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "保存重點著重木造及磚造體的維護。主要構造承重柱、牆，屋頂及屋簷下木構造支撐結構、屋頂修復等。由於建築體狹長，部分目前較少使用或隱匿處，需注意防潮及蟲蟻蛀蝕問題，然維護過程若發生與舊建築體之扞挌，則應慎重處理。",
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.5100371,
+    "latitude": 25.0559319,
+    "representImageSource": "臺北市文化局",
+    "landScope": "大同區延平段三小段209、210、210-1地號",
+    "selfCoverage": "以實際測量面積為準",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 84873,
+            "caseId": 976,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "迪化街1段67號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 97465,
+            "caseId": 976,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 189,
+            "landSerialNo": "209",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "19平方公尺",
+            "cityLandUseTypeOther": "特定專用區（一）（供特定住宅使用）",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 97466,
+            "caseId": 976,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 189,
+            "landSerialNo": "210",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "170",
+            "cityLandUseTypeOther": "特定專用區（一）（供特定住宅使用）",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 97467,
+            "caseId": 976,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 189,
+            "landSerialNo": "210-1",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "25",
+            "cityLandUseTypeOther": "特定專用區（一）（供特定住宅使用）",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 91159,
+            "caseId": 976,
+            "caseStatus": true,
+            "registerDate": 1147795200000,
+            "officialDocNo": "府文化二字第09530253600",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

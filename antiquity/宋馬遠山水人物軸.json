@@ -1,0 +1,101 @@
+{
+    "id": 3933,
+    "caseId": "20130128000014",
+    "count": 512,
+    "shareCount": 0,
+    "representImage": 6741,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32919/photo/f7dd0518-f68f-4369-bb58-cc08314bb532_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32919/photo/f7dd0518-f68f-4369-bb58-cc08314bb532.JPG",
+        "name": "f7dd0518-f68f-4369-bb58-cc08314bb532"
+    },
+    "caseName": "宋馬遠山水人物軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1359302400000,
+    "officialDocNo": "文授字第10230006433號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本幅畫松蔭下，二人朝向懸崖對岸，分別做仰、俯動作，彷彿正練著吐納之術。山石用側筆橫刷的斧劈皴，松枝曲折挺勁，薄霧掩映，筆墨畫意甚具有南宋院體風貌。本幅雖非馬遠親筆，但承襲南宋院體畫的特色，在探索馬遠風格對後代影響上，具有重要的研究價值。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第3、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000846",
+    "amount": 1,
+    "notes": "",
+    "descAge": "元至明",
+    "descSize": "77.1 x 126.4（公分）",
+    "descMaterial": "故畫000846",
+    "reserveStatusDesc": "本幅畫松蔭下，二人朝向懸崖對岸，分別做仰、俯動作，彷彿正練著吐納之術。山石用側筆橫刷的斧劈皴，松枝曲折挺勁，薄霧掩映，筆墨畫意甚具有南宋院體風貌。畫成時代約在元、早明之際。原先可能是屏風，後來才改裝成立軸型式。 \n馬遠（約活躍於一一八九～一二二五年），生長在職業畫師家庭，曾任南宋宮廷畫院的待詔。其山水畫，取景重心常偏於畫面上的一角，因此被稱為「馬一角」。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。本幅：舊剝落，舊傷補。包首：外部邊磨損，內部折裂，舊水漬變黃，綾不平，兩端修補，外部加襯補強。地綾：變黃斑漬。",
+    "documents": [
+        {
+            "fileid": 150728,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-19/d82e3aaf-f11c-4f8b-b041-219e80a9c6b9/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71112,
+            "caseId": 3933,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75455,
+            "caseId": 3933,
+            "caseStatus": true,
+            "registerDate": 1359302400000,
+            "officialDocNo": "文授字第10230006433號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

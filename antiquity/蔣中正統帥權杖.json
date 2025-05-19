@@ -1,0 +1,106 @@
+{
+    "id": 3643,
+    "caseId": "20100119000001",
+    "count": 747,
+    "shareCount": 6,
+    "representImage": 6384,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32591/photo/5d974f96-3cad-4cba-9204-1482804bae8b_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32591/photo/5d974f96-3cad-4cba-9204-1482804bae8b.jpg",
+        "name": "5d974f96-3cad-4cba-9204-1482804bae8b"
+    },
+    "caseName": "蔣中正統帥權杖",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1263830400000,
+    "officialDocNo": "會授資籌二字第09920003041號函",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事重要淵源",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.統帥權杖，又稱統帥禮杖，為蔣中正於節慶或閱兵時所使用，象徵三軍統帥之身分與地位，後來者亦無再使用情形，具獨特性。2.重要軍事文物，具唯一性，品質精良。3.具有重要歷史意義及重要歷史文化價值。",
+    "lawsReference": "1.\t「文化資產保存法」第六十六條。2.\t符合「古物分級登錄指定及廢止審查辦法」第三條第一項第一、六款、第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": ".",
+    "keepNameId": 3,
+    "keepName": "國防部國軍歷史文物館",
+    "keepNameNew": 3,
+    "keepAddressNew": "100台北市中正區貴陽街一段243號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "民國54年（1965年）",
+    "descSize": "4×4×40公分",
+    "descMaterial": "銅質鍍銀",
+    "reserveStatusDesc": "銅質鍍銀圓柱體，重390克",
+    "pastHistorySource": 3,
+    "pastHistorySourceNotes": "總統府侍衛室",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整。\n保存良好，典藏於國軍歷史文物館第三陳展室。",
+    "documents": [
+        {
+            "fileid": 53249,
+            "name": "99.1.19公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-12-24/2ab950cb-8234-43d3-af8d-c68255c28320/99.1.19公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國防部史政編譯室",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國防部國軍歷史文物館",
+            "keepName": "國防部國軍歷史文物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國防部國軍歷史文物館",
+            "keepAddressNew": "100台北市中正區貴陽街一段243號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "貴陽街一段243號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3785,
+            "caseId": 3643,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3785,
+            "caseId": 3643,
+            "caseStatus": true,
+            "registerDate": 1263830400000,
+            "officialDocNo": "會授資籌二字第09920003041號函",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

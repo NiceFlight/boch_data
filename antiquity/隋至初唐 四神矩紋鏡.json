@@ -1,0 +1,96 @@
+{
+    "id": 23268,
+    "caseId": "20250306000023",
+    "count": 37,
+    "shareCount": 0,
+    "representImage": 281621,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2025-03-06/c469baef-ad0e-4a22-83b9-0cf14be8ea89/C1A000185N000000000PAB_c.png"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2025-03-06/c469baef-ad0e-4a22-83b9-0cf14be8ea89/C1A000185N000000000PAB.png",
+        "name": "C1A000185N000000000PAB"
+    },
+    "caseName": "隋至初唐 四神矩紋鏡",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就",
+        "數量稀少者"
+    ],
+    "registerReason": "1.符合一般古物指定基準第 3 款「能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者。」：銅鏡製作精良，鏡背分格區劃，幾何紋飾與四神圖像均具時代特色，紋樣線條流暢，外圈楷書銘文極具意義，書風端正大方，具藝術造詣。雖為七世紀銅鏡，但紋飾（四神紋與矩紋）和鏡銘遠承三、四百年前的漢鏡風格，顯示當時復古氣息及追摹之心。\n2.符合一般古物指定基準第 4 款「具有藝術造詣或科學成就。」：造形具時代性，四神的樣式姿態優雅，環鏡銘文亦工整造工精良。紋飾淺浮雕而線條流暢，鏡銘書風精緻大方，具藝術造詣。\n3.符合一般古物指定基準第 5 款「數量稀少者」：四神與規矩紋樣是隋唐代典型的代表，四神造形優雅具代表性，隋唐四神題矩紋鏡相對少見。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第3、4、5款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174之1號",
+    "reservationCode": "中銅000185",
+    "amount": 1,
+    "descAge": "隋至初唐",
+    "descSize": "徑19.6公分",
+    "descMaterial": "銅",
+    "reserveStatusDesc": "圓鏡，半球鈕，蟾蜍形鈕座。鏡背紋樣以環狀凸稜分作內外區，內區飾青龍、白虎、朱雀、玄武四神與規矩紋，四邊角內各有一獸面紋。外區楷書銘文以順時鐘排列，總計有32字，內容為：「仙山竝照。智水齊名。花朝艷采。月夜流明。龍盤五瑞。鸞舞雙情。傳聞仁壽。始驗銷兵。」",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏。",
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定。",
+    "documents": [
+        {
+            "fileid": 281620,
+            "name": "114年2月12日北市文獻編字第11430008081號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2025-03-06/ebfb8072-203b-49a6-8ed1-bdfb6dd17bf2/114年2月12日北市文獻編字第11430008081號公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 148035,
+            "caseId": 23268,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 160815,
+            "caseId": 23268,
+            "caseStatus": true,
+            "registerDate": 1739356004656,
+            "officialDocNo": "北市獻編字第11430008081號公告",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

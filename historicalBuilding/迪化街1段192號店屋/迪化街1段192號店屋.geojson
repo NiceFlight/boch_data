@@ -1,0 +1,64 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            [
+                                121.5090686333,
+                                25.058697904525
+                            ],
+                            [
+                                121.50948499008,
+                                25.05873645995
+                            ],
+                            [
+                                121.50947826511,
+                                25.058784189189
+                            ],
+                            [
+                                121.50906389018,
+                                25.058744796007
+                            ],
+                            [
+                                121.5090686333,
+                                25.058697904525
+                            ]
+                        ]
+                    ]
+                ],
+                "type": "MultiPolygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "ymin": 25.058697904525,
+                "xmin": 121.50906389018,
+                "\u6bb5\u865f": 2720000,
+                "query": "\u81fa\u5317\u5e02,\u5ef6\u5e73\u6bb5\u4e09\u5c0f\u6bb5,272",
+                "ycenter": 25.058741046857,
+                "land_id": 2720000,
+                "area_id": "AB",
+                "content": "1. \u500b\u6848\u540d\u7a31: \u8fea\u5316\u88571\u6bb5192\u865f\u5e97\u5c4b <br />n      2. \u5730\u865f: \u81fa\u5317\u5e02,\u5ef6\u5e73\u6bb5\u4e09\u5c0f\u6bb5,272 <br />n      3. \u7a2e\u985e: \u5b85\u7b2c <br />n      4. \u6307\u5b9a\u767b\u9304\u7406\u7531: 1.\u672c\u5efa\u7269\u7b2c\u4e8c\u9032\u4fdd\u7559\u6e05\u4ee3\u9762\u8c8c\uff0c\u7246\u9ad4\u70ba\u571f\u57c6\u7246\uff0c\u5167\u67f1\u70ba\u65e9\u671f\u7684\u300c\u984f\u53ea\u78da\u300d\uff0c\u5167\u6963\u5247\u70ba\u89c0\u97f3\u5c71\u77f3\uff0c\u5165\u53e3\u4e26\u6709\u300c\u6625\u98a8\u53ca\u7b2c\u300d\u9580\u984d\uff0c\u53ef\u898b\u53e4\u610f\u3002 2.\u672c\u5efa\u7269\u539f\u70ba\u8f9c\u5bb6\u6240\u6709\uff0c\u4e14\u70ba\u8fea\u5316\u8857\u91cd\u8981\u5546\u865f\uff0c\u53ef\u4f5c\u70ba\u8f9c\u5bb6\u5728\u81fa\u5317\u7522\u696d\u4e4b\u898b\u8b49\u3002 <br />n      5. \u6700\u5f8c\u4e00\u7b46\u516c\u544a\u65e5\u671f: 2010-06-25 <br />n      6. \u6700\u5f8c\u4e00\u7b46\u516c\u544a\u6587\u865f: \u5317\u5e02\u6587\u5316\u4e8c\u5b57\u7b2c09931796200\u865f <br />n      7. \u7ba1\u7406\u55ae\u4f4d: \u79c1\u6709 <br />n      8. \u4f7f\u7528\u55ae\u4f4d: \u79c1\u6709 <br />n      9. \u5efa\u7269\u72c0\u614b: \u5f85\u4fee\u5fa9 <br />",
+                "\u5730\u6bb5": "\u5ef6\u5e73\u6bb5\u4e09\u5c0f\u6bb5",
+                "\u7e23\u5e02": "\u81fa\u5317\u5e02",
+                "ymax": 25.058784189189,
+                "xcenter": 121.50927444013,
+                "xmax": 121.50948499008,
+                "section_id": "0265",
+                "\u9109\u93ae": "\u5927\u540c\u5340",
+                "id": "AB0265",
+                "query_log": []
+            }
+        }
+    ],
+    "address": [
+        {
+            "address": "1. \u500b\u6848\u540d\u7a31: \u8fea\u5316\u88571\u6bb5192\u865f\u5e97\u5c4b <br />n      2. \u5730\u5740: \u53f0\u5317\u5e02\u5927\u540c\u5340\u8fea\u5316\u88571\u6bb5192\u865f <br />n      3. \u7a2e\u985e: \u5b85\u7b2c <br />n      4. \u6307\u5b9a\u767b\u9304\u7406\u7531: 1.\u672c\u5efa\u7269\u7b2c\u4e8c\u9032\u4fdd\u7559\u6e05\u4ee3\u9762\u8c8c\uff0c\u7246\u9ad4\u70ba\u571f\u57c6\u7246\uff0c\u5167\u67f1\u70ba\u65e9\u671f\u7684\u300c\u984f\u53ea\u78da\u300d\uff0c\u5167\u6963\u5247\u70ba\u89c0\u97f3\u5c71\u77f3\uff0c\u5165\u53e3\u4e26\u6709\u300c\u6625\u98a8\u53ca\u7b2c\u300d\u9580\u984d\uff0c\u53ef\u898b\u53e4\u610f\u3002 2.\u672c\u5efa\u7269\u539f\u70ba\u8f9c\u5bb6\u6240\u6709\uff0c\u4e14\u70ba\u8fea\u5316\u8857\u91cd\u8981\u5546\u865f\uff0c\u53ef\u4f5c\u70ba\u8f9c\u5bb6\u5728\u81fa\u5317\u7522\u696d\u4e4b\u898b\u8b49\u3002 <br />n      5. \u6700\u5f8c\u4e00\u7b46\u516c\u544a\u65e5\u671f: 2010-06-25 <br />n      6. \u6700\u5f8c\u4e00\u7b46\u516c\u544a\u6587\u865f: \u5317\u5e02\u6587\u5316\u4e8c\u5b57\u7b2c09931796200\u865f <br />n      7. \u7ba1\u7406\u55ae\u4f4d: \u79c1\u6709 <br />n      8. \u4f7f\u7528\u55ae\u4f4d: \u79c1\u6709 <br />n      9. \u5efa\u7269\u72c0\u614b: \u5f85\u4fee\u5fa9 <br />",
+            "lat": 25.058713,
+            "lng": 121.509504
+        }
+    ],
+    "notFound": [],
+    "type": "FeatureCollection"
+}

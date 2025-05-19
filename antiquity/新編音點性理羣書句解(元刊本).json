@@ -1,0 +1,105 @@
+{
+    "id": 3567,
+    "caseId": "20130813000022",
+    "count": 37,
+    "shareCount": 0,
+    "representImage": 6237,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39103/photo/pic001_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39103/photo/pic001.png",
+        "name": "pic001"
+    },
+    "caseName": "新編音點性理羣書句解(元刊本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1376323200000,
+    "officialDocNo": "文資局物字第 10220091271號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "元建安刊本。\r\n此書分前後兩集，各二十三卷，採輯宋儒諸文，分類編次，於類目、音注之字，所引先儒姓名等加白文墨蓋子以別之，尤便檢讀。為研究程朱理學提供了豐富的原始材料。內文版面清晰，刻印甚精，當屬早印。\r\n元版古籍，罕見稀有，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號05267",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 16,
+    "notes": "",
+    "descAge": "元代",
+    "descCreator": "宋熊節編、熊剛大注",
+    "descSize": "半葉13行，版匡18.6x12公分。",
+    "descMaterial": "紙質刊本",
+    "reserveStatusDesc": "前集二十三卷，後集二十三卷。\n此書分前後兩集，各二十三卷，採輯宋儒諸文，分類編次，於類目、音注之字，所引先儒姓名等加白文墨蓋子以別之，尤便檢讀。為研究程朱理學提供了豐富的原始材料。內文版面清晰，刻印甚精，當屬早印。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "第9冊有虫蛀，經修裱；第1、2、6冊有斷版情形，另有部分冊次書口處裂開。保存情況良好。\n",
+    "documents": [
+        {
+            "fileid": 6238,
+            "name": "5d4df4da-91b5-4edd-856c-e3cf7ea1cb35.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44161/file/5d4df4da-91b5-4edd-856c-e3cf7ea1cb35.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3709,
+            "caseId": 3567,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3709,
+            "caseId": 3567,
+            "caseStatus": true,
+            "registerDate": 1376323200000,
+            "officialDocNo": "文資局物字第 10220091271號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

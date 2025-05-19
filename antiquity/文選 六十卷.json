@@ -1,0 +1,100 @@
+{
+    "id": 22742,
+    "caseId": "20240529000010",
+    "count": 42,
+    "shareCount": 0,
+    "representImage": 257929,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-05-29/1c1353b6-1b89-49c6-abb3-f7afe41a8074/15-16_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-05-29/1c1353b6-1b89-49c6-abb3-f7afe41a8074/15-16.jpg",
+        "name": "15-16"
+    },
+    "caseName": "文選 六十卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "能表現傳統、族群或地方之風俗、記憶及傳說、信仰、技藝或生活文化之重要特色",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "《文選》屢經雕印，約可分為李善注、五臣注、六家（臣）注系統。南宋尤袤（1124-1193）所刻《文選》，是存世最完整的宋版李善單注本，也是版刻印次最複雜的一種。\n尤刻《文選》出版後，歷經多次修版或補刊。國立故宮博物院典藏此帙，淳熙八年（1181）原刻書葉殘賸無幾，其餘則遞經開禧至咸淳年間（1205-1274）十餘次補版，另有若干不記補刊年份但文字線條更加清晰銳利的補刊葉面，據以推測此本全部修補完成暨刷印時間，或應下移到元世祖至元年間（1264-1294）。這些多時段的修補痕跡與補刻書葉，適足提供研究尤刻《文選》刻印歷程、版本關係以及考校文本內容的實證材料。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第1、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "贈善003378-003409",
+    "amount": 32,
+    "descAge": "南宋",
+    "descCreator": "蕭統",
+    "descSize": "版框：21×13.5；書冊：27×17.7 公分",
+    "descMaterial": "紙、墨、綾",
+    "reserveStatusDesc": " ",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "一、 全書卷冊完整，保存狀況良好，舊時已經修補並加襯紙。部分書葉微有蟲蛀、水漬，湖綠色灑金箋書衣略有污漬、磨傷，少數清代裝訂珠線斷裂。\n二、 部分卷、葉鈔補：序、目錄、卷5至9、卷24、後附〈李善與五臣同異〉全鈔配，卷3葉35，卷15葉18，卷20葉14，卷22葉6，卷23葉6至卷末，卷34葉19，卷45葉21，卷46葉31，卷47葉2、4、6、7、16，卷52葉1、2，卷53葉30、31，卷55葉2、3，皆依宋本影鈔配補，影寫極精。惟影寫補刊書葉時，均略去刻工上方之重刊紀年。\n三、 書中鈐有「幼文」朱方、「安樂堂藏書記」朱長、「伯寅藏書」朱方、「潘祖蔭藏書記」朱長、「吳縣潘伯寅平生真賞」朱方、「山陰沈仲濤珍藏祕籍」朱方等藏印多方，可知此帙遞經明人祁彪佳、清宗室怡府、潘祖蔭、沈仲濤等人收藏。\n",
+    "documents": [
+        {
+            "fileid": 257927,
+            "name": "公告(彩色) (1).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-05-29/1ae91d4f-7a81-4b05-a7db-f56c166a6256/公告(彩色) (1).pdf"
+        },
+        {
+            "fileid": 257928,
+            "name": "重要古物公告表15-16.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-05-29/26bddf4b-cad8-4635-b919-7317491dd343/重要古物公告表15-16.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 130441,
+            "caseId": 22742,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 142059,
+            "caseId": 22742,
+            "caseStatus": true,
+            "registerDate": 1716969051321,
+            "officialDocNo": "文授資局物字第11330056141號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

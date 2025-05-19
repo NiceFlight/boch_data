@@ -1,0 +1,134 @@
+{
+    "id": 904,
+    "caseId": "20121029000002",
+    "count": 3413,
+    "shareCount": 2,
+    "representImage": 169453,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/33693e72-0913-4286-b925-8145eab93480/代表圖像_峰圃茶莊_20220621_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/33693e72-0913-4286-b925-8145eab93480/代表圖像_峰圃茶莊_20220621.jpg",
+        "name": "代表圖像_峰圃茶莊_20220621"
+    },
+    "caseName": "峰圃茶莊",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "峰圃茶莊於光復後（民國34年後）從太平町（大稻埕）江山樓食堂（今歸綏街）搬來重慶南路一段35號，本建築歷經一次增建，主要為後半段增加四樓做為臥室使用。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 163655,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-12/3fe9ab7a-179e-4f5e-98d6-c751d11298de/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1.建物位於臺北舊城區本町（今重慶南路）範圍，建物立面於日治時期因市區改正計畫而成為目前樣式，形緻精美，具有保存價值。 2.峰圃茶莊為臺北市著名之茶行，具有重要歷史意義。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、3、4款評定基準。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 116766,
+            "name": "地形地籍圖與都市計畫圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/115946b5-0bbe-4e4c-8579-94dbbcc0a18f/地形地籍圖與都市計畫圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市中正區公園段二小段632、633地號土地",
+    "buildingFeatures": "立面裝飾材料以磚及水泥為主，柱子尚有精美的石雕紋路，窗楣線與窗台線中間有以洗石子為主要材料的橫帶型水泥裝飾為特色，設計為一樓店鋪裝置招牌使用，另一特色為開口成長條形窗，刻有精美線腳，木製窗框。",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "本案建物與緊鄰之雲五大樓（為重慶南路書街上年代最悠久的台灣商務印書館所在)，未來合併改建時，低樓層之立面設計建議恢復原有建物立面特色。",
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.51336,
+    "latitude": 25.045339,
+    "representImageSource": "臺北市文化局",
+    "landScope": "面積約為96平方公尺(實際保存面積須以保存範圍實測數據為準）",
+    "selfCoverage": "中正區公園段二小段785建號(樓地板總面積為227.73平方公尺)",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 82987,
+            "caseId": 904,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "重慶南路1段35號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "公園段二小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 92028,
+            "caseId": 904,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 144,
+            "landSerialNo": "632",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "coverageId": 2,
+            "area": "",
+            "note": "2筆地號共96平方公尺",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "公園段二小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 92029,
+            "caseId": 904,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 144,
+            "landSerialNo": "633",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "coverageId": 2,
+            "area": "",
+            "note": "2筆地號共96平方公尺",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 89140,
+            "caseId": 904,
+            "caseStatus": true,
+            "registerDate": 1351440000000,
+            "officialDocNo": "北市文化二字第10130396100號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

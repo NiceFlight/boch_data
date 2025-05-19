@@ -1,0 +1,106 @@
+{
+    "id": 4324,
+    "caseId": "20130618000006",
+    "count": 430,
+    "shareCount": 0,
+    "representImage": 7254,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7409/photo/張深切徒步旅行之名人題字錄_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7409/photo/張深切徒步旅行之名人題字錄.jpg",
+        "name": "張深切徒步旅行之名人題字錄"
+    },
+    "caseName": "張深切徒步旅行之名人題字錄",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-名人或名家手稿、手迹、信函、日誌等",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1371484800000,
+    "officialDocNo": "文資局物字第10220067541號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "張深切（1904－1965）為日治時期重要作家之一，於日治時期曾積極參與臺灣文學、文化與社會運動，並倡議組織「臺灣文藝聯盟」。\r\n本文物為張深切於大正13年（1924）從臺中出發徒步旅行，請各地受訪者題字以為勉勵之用。其徒步旅行以「探民隱、研究風土民情」為目的，題字者，除霧社公學校賽德克族女童外，有林獻堂、莊嵩、蘇逢時、吳宗敬、莊潤新、杜香國、李茂炎、賴雨若、周圭元、劉明哲、林茂生、石煥長共12位文人士紳。對日治時期臺灣文化與社會運動研究具重要文獻價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第一、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "中西區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "NMTL20060320009",
+    "keepNameId": 11,
+    "keepName": "國立臺灣文學館",
+    "keepNameNew": 11,
+    "keepAddressNew": "700台南市中西區中正路1號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 1,
+    "amount": 1,
+    "notes": "",
+    "descAge": "1924年",
+    "descCreator": "林獻堂等",
+    "descSize": "長91公分、寬70公分(畫心部份)",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "原形式不明，僅剩裁切過後的裱料留存，僅可判斷為中式裝裱。裱料有大量褐斑、皺摺痕與漬痕。畫心有明顯皺摺痕，據明顯格狀折線，推測此件文物曾做收折收藏，全面變色泛黃、髒污且有大量褐斑、缺失、斷裂、水漬等情形。畫心媒材處有暈染、皺摺痕、水漬等劣化情形。\r\n入藏後於2012年12月進行修護處理，包含媒材加固、攤摺痕、漬痕減緩、褐斑移除、隱補破洞、嵌折，並維持原鏡片形式重新裝裱，修護後狀況穩定。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "2006；張孫煜",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定 ",
+    "documents": [
+        {
+            "fileid": 7255,
+            "name": "b788fefd-f8cc-4f53-b915-6b27ae008960.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44485/file/b788fefd-f8cc-4f53-b915-6b27ae008960.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立臺灣文學館",
+            "keepName": "國立臺灣文學館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立臺灣文學館",
+            "keepAddressNew": "700台南市中西區中正路1號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺南市",
+            "keepNameDistName": "中西區",
+            "keepNameAddress": "中正路1號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "id": 4467,
+            "caseId": 4324,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601
+        }
+    ],
+    "announces": [
+        {
+            "id": 4467,
+            "caseId": 4324,
+            "caseStatus": true,
+            "registerDate": 1371484800000,
+            "officialDocNo": "文資局物字第10220067541號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

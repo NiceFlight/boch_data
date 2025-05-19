@@ -1,0 +1,106 @@
+{
+    "id": 3624,
+    "caseId": "20130813000079",
+    "count": 83,
+    "shareCount": 0,
+    "representImage": 6348,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7337/photo/惟教三昧(六朝寫卷子本)_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7337/photo/惟教三昧(六朝寫卷子本).png",
+        "name": "惟教三昧(六朝寫卷子本)"
+    },
+    "caseName": "惟教三昧(六朝寫卷子本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1376323200000,
+    "officialDocNo": "文資局物字第 10220091271號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "六朝釋僧成寫卷子本。\r\n書名依據尾題，此卷首缺尾完，各藏未見收錄。卷末題「惟教三昩下卷」，知原應有上、下或上、中、下分卷。此卷字體古樸，異體俗體字多，且卷末有「一校」字樣，似為六朝人寫本。\r\n敦煌遺書寫卷，為研究當時文化歷史不可缺少之代表性證物，罕見稀有，具特殊歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第4條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號08869",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "六朝",
+    "descCreator": "不著撰人",
+    "descSize": "捲軸裝；存11紙，每紙約36行，全幅27x58.7公分",
+    "descMaterial": "紙質",
+    "reserveStatusDesc": "存一卷(下卷)；寫本。\n書名依據尾題，此卷首缺尾完，各藏未見收錄。卷末題「惟教三昩下卷」，知原應有上、下或上、中、下分卷。此卷字體古樸，異體俗體字多，且卷末有「一校」字樣，似為六朝人寫本。\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "前端輕微破損，無虫蛀。經修裱，書況尚稱良好。\n",
+    "documents": [
+        {
+            "fileid": 6349,
+            "name": "fab1288f-9301-4a2d-a3c7-881bf0a71313.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44215/file/fab1288f-9301-4a2d-a3c7-881bf0a71313.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3766,
+            "caseId": 3624,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3766,
+            "caseId": 3624,
+            "caseStatus": true,
+            "registerDate": 1376323200000,
+            "officialDocNo": "文資局物字第 10220091271號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

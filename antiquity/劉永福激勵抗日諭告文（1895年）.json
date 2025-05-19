@@ -1,0 +1,106 @@
+{
+    "id": 3665,
+    "caseId": "20100830000008",
+    "count": 295,
+    "shareCount": 2,
+    "representImage": 6406,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32613/photo/478ac827-f2e4-43f2-8aae-64d7671b21b7_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32613/photo/478ac827-f2e4-43f2-8aae-64d7671b21b7.jpg",
+        "name": "478ac827-f2e4-43f2-8aae-64d7671b21b7"
+    },
+    "caseName": "劉永福激勵抗日諭告文（1895年）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-公文書",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1283097600000,
+    "officialDocNo": "會授資籌二字第09920102142號",
+    "judgeCriteria": [
+        "具有史事重要淵源",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.為1895年「臺灣民主國」、「乙未之役」戰事發展之珍貴史料。2.與臺灣主體性歷史發展關係密切。具有歷史及文化價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。2.符合「古物分級登錄指定及廢止審查辦法」第三條第一、二、六款、第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "AH1648",
+    "keepNameId": 4,
+    "keepName": "國立臺灣博物館",
+    "keepNameNew": 4,
+    "keepAddressNew": "100台北市中正區襄陽路2號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 1,
+    "amount": 1,
+    "notes": "1.James Davidson，蔡啟恆譯，1972，臺灣之過去與現在，頁199-200，臺灣銀行，台北。2.吳密察，1981，1895年「台灣民主國」的成立經過，國立台灣大學歷史系學報第八期。3.李健兒，1966，劉永福傳，臺灣商務印書館，台北。4.李淑惠、李子寧、吳佰祿編，2002，黃虎旗的故事—台灣民主國文物圖錄，國立臺灣歷史博物館籌備處，台南。",
+    "descAge": "光緒21年（1895）",
+    "descCreator": "",
+    "descSize": "58×58公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "民國89年經重新裱背2.略有蛀蝕、破洞，部份字跡毀損，但並不影響解讀",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "日治時期入藏臺灣總督府博物館，1945年由臺灣省立博物館接收，典藏至今",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定 ",
+    "documents": [
+        {
+            "fileid": 53296,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-12-25/9a412d65-b587-4954-8f9d-061e695daa78/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立臺灣博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立臺灣博物館",
+            "keepName": "國立臺灣博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立臺灣博物館",
+            "keepAddressNew": "100台北市中正區襄陽路2號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "襄陽路2號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3807,
+            "caseId": 3665,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3807,
+            "caseId": 3665,
+            "caseStatus": true,
+            "registerDate": 1283097600000,
+            "officialDocNo": "會授資籌二字第09920102142號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

@@ -1,0 +1,95 @@
+{
+    "id": 18209,
+    "caseId": "20201217000019",
+    "count": 135,
+    "shareCount": 0,
+    "representImage": 90069,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-12-17/3ecf0163-f017-459b-9e97-de7d5cd6cb39/09_1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-12-17/3ecf0163-f017-459b-9e97-de7d5cd6cb39/09_1.jpg",
+        "name": "09_1"
+    },
+    "caseName": "樵夫置物",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1606374938619,
+    "officialDocNo": "北市獻編字第1093004298號",
+    "judgeCriteria": [
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "作工精緻藝術性高，人物雕刻自然生動，樵材成束，及有生活寫實姿態，技藝精巧具藝術造詣。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174-1號",
+    "reservationCode": "09",
+    "amount": 1,
+    "descAge": "日本大正時期",
+    "descSize": "高 10.5 公分",
+    "descMaterial": "象牙",
+    "reserveStatusDesc": "本件作品不惜用料，並以高難度的鏤雕、圓雕等等複合技法，描繪一樵夫與擔杖、簍筐的畫面。樵夫頭略向上，笑意滿盈，一手持工具，另一手高舉煙管置於嘴邊，似是在工作中稍作休息、忙裡偷閒，輕啜一口清煙。地上放了兩個籮筐，一正一倒，直立的籮筐內放滿樵夫剛剛砍下的樹枝，倒置的籮筐內有各種或盛開，或含苞待放的花朵，無論籮筐、樹枝或是花朵都雕琢精細，層次豐富，極為活潑。\n整體內容豐富，樵夫臉部表情逼真，琢工細膩，其服裝層次繁複，布料紋理、花紋與皺褶皆以不同技法雕琢，甚為生動。各個物件、細節皆細膩表現，層層疊疊，需要耗費極大心思仔細雕琢的竹籃、木材、枝幹及花朵，不僅能看出藝術家的耐心與毅力，更是藝術家深厚技巧的表現，極為精湛。本件作品不僅具有藝術性，還可以看出日本當時的社會日常生活，兼具歷史、文化與藝術價值。作者生平不詳。",
+    "pastHistorySource": 1,
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定。",
+    "documents": [
+        {
+            "fileid": 90068,
+            "name": "臺北市公告指定一般古物1091126.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-17/f474b4fd-ea9f-4b13-84b6-e40c7027203a/臺北市公告指定一般古物1091126.pdf"
+        }
+    ],
+    "keepNames": [
+        {
+            "keepNameIdStr": "郭○穎",
+            "keepName": "郭○穎",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "郭○穎",
+            "keepAddressNew": "臺北市中正區重慶南路二段15號7樓",
+            "saveSpaceOther": "庫房",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "大安區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 7824,
+            "caseId": 18209,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 7824,
+            "caseId": 18209,
+            "caseStatus": true,
+            "registerDate": 1606374938619,
+            "officialDocNo": "北市獻編字第1093004298號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,100 @@
+{
+    "id": 20314,
+    "caseId": "20211221000001",
+    "count": 215,
+    "shareCount": 0,
+    "representImage": 148188,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-21/8c165c41-22db-42a0-a18a-e0a08aa2f6a9/PC2A000295N000000000PAA (1)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-21/8c165c41-22db-42a0-a18a-e0a08aa2f6a9/PC2A000295N000000000PAA (1).jpg",
+        "name": "PC2A000295N000000000PAA (1)"
+    },
+    "caseName": "明宣宗馬上像　軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色之代表性"
+    ],
+    "registerReason": "此作為難得一見的明代帝王行樂圖小軸。由此作籤題標注「乾隆戊辰年重裝」及《南薰殿圖像考》等文獻資料可知，此像承自明代宮廷，並於乾隆十三年（1748）修復重裝後，貯存於南薰殿。畫作流傳有緒，深具歷史意義與研究價值。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第4條第3款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "中畫000295",
+    "amount": 1,
+    "descAge": "明",
+    "descSize": "本幅 84.1 x 68.1 公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "畫中皇帝架鷹騎馬出獵。人物雖小，仍細膩描繪出袍上龍紋。描金箭筒口沿圈以貂鼠，並點綴繽紛的綠色馬具，顯示御用物品之奢華講究。\n此軸題籤標為「明宣宗像」，且畫上浮籤書「宣德皇帝」，然比對臉型及繪製「行樂圖」習慣，推測此畫像主應為明憲宗朱見深（1447-1487）。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "舊傷補。",
+    "documents": [
+        {
+            "fileid": 152312,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-02-08/a1171503-1b56-4560-ae2f-5502027762a3/公告.pdf"
+        },
+        {
+            "fileid": 152313,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-02-08/ac222b74-9d28-4ac1-b720-e59b91397975/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.549499,
+    "latitude": 25.10037,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路2段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71770,
+            "caseId": 20314,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 76252,
+            "caseId": 20314,
+            "caseStatus": true,
+            "registerDate": 1639966467636,
+            "officialDocNo": "文授資局物字第11030139521號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

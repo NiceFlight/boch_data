@@ -1,0 +1,128 @@
+{
+    "id": 20473,
+    "caseId": "20220310000001",
+    "count": 2282,
+    "shareCount": 2,
+    "representImage": 169378,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/26b48fdb-9563-46ed-82ff-e5013e6c18ea/代表圖像_衡陽路2號店屋_20220616 (1)_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/26b48fdb-9563-46ed-82ff-e5013e6c18ea/代表圖像_衡陽路2號店屋_20220616 (1).jpeg",
+        "name": "代表圖像_衡陽路2號店屋_20220616 (1)"
+    },
+    "caseName": "衡陽路2號店屋",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "1935 年始政四十周年 記 念台灣博覽會第二會場重要的結點。日治時期為辰野風格升川洋服店，1960 年代經營公園號酸梅湯，現在 228 公園衡陽路出口轉角位置，具地點重要性，具市民歷史記憶。\n",
+    "assetsTypeNames": "其他設施",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 154586,
+            "name": "(公告)1110303衡陽路2號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/bdda11b0-9803-449d-952c-0b770c073dc6/(公告)1110303衡陽路2號公告.pdf"
+        },
+        {
+            "fileid": 175855,
+            "name": "勘誤表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/eed5c3a0-372e-4a60-9fa8-5ddc2392c68d/勘誤表.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具高度歷史、藝術或科學價值者",
+        "表現各時代營造技術流派特色者",
+        "具稀少性，不易再現者"
+    ],
+    "registerReason": "１、本建物興建於日治時期，坐落於台北新公園出口衡陽路轉角位置，維繫台北新公園與衡陽路店屋之重\n要景觀，具都市景觀意義。\n２、建物為四柱三窗，店面為轉角三坎、一落店屋，保有山頭、飾帶、泥塑裝飾等立面元素，立面曾修復\n，惟不減損其價值。公園號酸梅湯為臺北知名老字號，承載市民城市歷史記憶，見證臺北城發展之生活樣貌。\n３、符合古蹟指定及廢止審查辦法第 2 條第 1 項第 1 、2 、 3 款指定基準。",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 154587,
+            "name": "範圍示意圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/285aca71-4791-4d8f-8a1a-d7271b9a04b5/範圍示意圖.pdf"
+        }
+    ],
+    "bulkTransfer": 1,
+    "longitude": 121.513941,
+    "latitude": 25.04224,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市中正區公園段三小段222(48平方公尺)、223（41平方公尺）地號等 2 筆土地。\n",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 86913,
+            "caseId": 20473,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "衡陽路2號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "公園段三小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 102155,
+            "caseId": 20473,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 145,
+            "landSerialNo": "222",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "area": "48",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "公園段三小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 102156,
+            "caseId": 20473,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 145,
+            "landSerialNo": "223",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "area": "41",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 93588,
+            "caseId": 20473,
+            "caseStatus": true,
+            "registerDate": 1646236800000,
+            "officialDocNo": "北市文化文資字第11130096411號",
+            "classificationId": 1,
+            "note": "指定衡陽路2號店屋為直轄市定古蹟"
+        },
+        {
+            "id": 93589,
+            "caseId": 20473,
+            "caseStatus": true,
+            "registerDate": 1658332800000,
+            "officialDocNo": "北市文化文資字第11130096411號",
+            "classificationId": 2,
+            "note": "建築物面積勘誤"
+        }
+    ],
+    "openVisitType": ""
+}

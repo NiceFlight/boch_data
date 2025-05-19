@@ -1,0 +1,97 @@
+{
+    "id": 19623,
+    "caseId": "20210719000012",
+    "count": 180,
+    "shareCount": 0,
+    "representImage": 125196,
+    "representImageInfo": {
+        "ext": "bmp",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-19/32977f25-33c0-489d-b9b1-997d676980fd/圖片12_c.bmp"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-19/32977f25-33c0-489d-b9b1-997d676980fd/圖片12.bmp",
+        "name": "圖片12"
+    },
+    "caseName": "元霽青釉盤",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "數量特別稀少或具完整性保存意義者",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此盤呈敞口，窄沿，淺壁，平底，底部無釉，滿塗黃褐色護胎汁，口沿鑲銀釦，盤面飾雙龍戲珠紋。霽青釉是富含氧化鈷的藍色釉料，直接塗施胎面高溫燒成，色澤靛青如藍寶石，是元代新興的釉料，作品傳世者並不多見。霽青盤細長如蛇的龍紋特徵，相似於其它元代作品，唯雙龍同一器面者較為罕見。其霽青釉彩、金銀花貼飾，反映出元代之裝飾趣味。現今所知清宮傳世的元代霽青瓷器，數量稀少，本院收藏僅有此作與故瓷17371，益顯珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第3、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "0422177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故瓷017370",
+    "amount": 1,
+    "descAge": " 元",
+    "descSize": "高1.2公分 口徑15.5公分",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "此盤呈敞口折沿，口沿鑲金屬釦。淺壁，底部平坦無釉，滿塗黃褐色護胎汁。除器底外通體施鈷藍釉，釉面隱約可見已脫落的金彩或銀箔裝飾紋樣。盤面飾雙龍戲珠紋，分據盤面的上下方。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "盤底有舊裂傷，金彩已脫落。",
+    "documents": [
+        {
+            "fileid": 142640,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-04/d0b124e6-d6ae-41bb-8e95-c170c6103ce4/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.5484322510235,
+    "latitude": 121.5484322510235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": " ",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 66412,
+            "caseId": 19623,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 70601,
+            "caseId": 19623,
+            "caseStatus": true,
+            "registerDate": 1624434019721,
+            "officialDocNo": "文授資局物字第11030062561號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

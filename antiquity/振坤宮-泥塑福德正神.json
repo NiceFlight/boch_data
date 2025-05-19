@@ -1,0 +1,92 @@
+{
+    "id": 3255,
+    "caseId": "20160112000004",
+    "count": 400,
+    "shareCount": 0,
+    "representImage": 5704,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43363/photo/1a84dc74-f4f1-4dc3-9d8c-16f73ea8d0fa_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43363/photo/1a84dc74-f4f1-4dc3-9d8c-16f73ea8d0fa.jpg",
+        "name": "1a84dc74-f4f1-4dc3-9d8c-16f73ea8d0fa"
+    },
+    "caseName": "振坤宮-泥塑福德正神",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1452528000000,
+    "officialDocNo": "府授文資遺字第10500042673號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有一定之時代特色、技術及流派",
+        "具有珍貴及稀有性者"
+    ],
+    "registerReason": "1.\t神像泥質呈淺灰色，內含蚵殼細粒與麻絲纖維，為古法膠泥塑土摻用之物，與近代材料不同；具有歷史意義並能表現傳統、族群或地方文化特色。\r\n2.\t造型古樸，線條簡單俐落，風格較似清末的作品。",
+    "lawsReference": "符合「古物分級登錄指定及廢止審查辦法」第2條第1項第1、3、5款評定基準。",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "大里區",
+    "reservationCode": "",
+    "keepNameId": 17,
+    "keepName": "振坤宮",
+    "keepNameNew": 17,
+    "keepAddressNew": "臺中市大里區 臺中市大里區仁化里仁化路518號",
+    "amount": 1,
+    "notes": "",
+    "reserveStatusDesc": "",
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 5705,
+            "name": "8ad87dcf-0946-43b4-a557-024bfc53e58b.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44250/file/8ad87dcf-0946-43b4-a557-024bfc53e58b.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "振坤宮",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺中市大里區 臺中市大里區仁化里仁化路518號",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "大里區",
+            "id": 3396,
+            "caseId": 3255,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1010
+        }
+    ],
+    "announces": [
+        {
+            "id": 3396,
+            "caseId": 3255,
+            "caseStatus": true,
+            "registerDate": 1452528000000,
+            "officialDocNo": "府授文資遺字第10500042673號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

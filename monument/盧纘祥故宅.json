@@ -1,0 +1,117 @@
+{
+    "id": 280,
+    "caseId": "20011218000001",
+    "count": 3006,
+    "shareCount": 2,
+    "representImage": 144380,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-11-10/ae207655-efa6-4ead-adec-4cad5f73c276/盧纘祥故宅_A990854_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-11-10/ae207655-efa6-4ead-adec-4cad5f73c276/盧纘祥故宅_A990854.jpg",
+        "name": "盧纘祥故宅_A990854"
+    },
+    "caseName": "盧纘祥故宅",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "一、盧宅於一九二八年興建完成，由當時任職於總督府營繕科—宋祖平先生設計及監造，為宜蘭縣當時最為華麗的宅第；且是宜蘭縣第一任民選縣長盧纘祥故宅。\n二、清領時期的宜蘭，地方產物輸出及生活用品輸入，全賴船隻運送；由於水路可直通和平街盧宅及慶元宮前，烏石港淤塞後，頭圍港便興起而代之為內路最繁盛的河運及貿易中心，興盛期長達三十年，對頭圍街的發展及歷史意義顯的極為重要，自鐵、公路興起後方始沒落。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.3",
+    "assetsClassifyName": "縣(市)定古蹟",
+    "registerDate": 1008644002000,
+    "officialDocNo": "九十府文資產字第五九○八號",
+    "documents": [
+        {
+            "fileid": 73345,
+            "name": "盧纘祥故宅公文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-10-20/a8d3e12d-7264-4b30-9586-7f9fb4636196/盧纘祥故宅公文.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "具稀少性，不易再現者"
+    ],
+    "registerReason": "鑒於盧宅之歷史價值以及建築物之特有及稀少性，且帶有台灣合院之特性，且內外觀保存良好，以台灣而言，已屬一見的華宅，建築本體為磚木混合構造。",
+    "lawsReference": "文化資產保存法第二十七條暨古蹟審查處理要點第八點",
+    "govInstitutionCode": "260",
+    "govInstitutionName": "宜蘭縣政府",
+    "belongCityId": 4,
+    "belongCityName": "宜蘭縣",
+    "belongDistName": "頭城鎮",
+    "govInstitution": "宜蘭縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-9322440*652",
+    "govDeptAddress": "宜蘭縣五結鄉中正路二段6之8號",
+    "cadasters": [
+        {
+            "fileid": 163366,
+            "name": "M06盧纘祥故宅地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-05-11/b8e573d0-4c54-402e-a705-d42a8aa2ca56/M06盧纘祥故宅地籍圖.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "頭城鎮頭圍一段259地號",
+    "buildingFeatures": "和南、北門福德祠等舊屬商業地段，連成一歷史街區，然歷年來之修建，傳統的街屋已逐漸為鋼筋水泥取代，尚保有傳統風格有「十三行」、「源合成」、「陳春記」、和平街一二九號的「吳宅」。",
+    "inHouseFeatures": "一、日式宅第。\n二、磚、木混合構造。",
+    "buildingUsage": "",
+    "buildingActualState": "因屬私有產權，勘查不易，外觀及內部保存良好。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "和平街139號",
+    "isOpenDownload": true,
+    "longitude": 121.824738186889,
+    "latitude": 24.8586332950316,
+    "representImageSource": "宜蘭縣政府文化局",
+    "landScope": "",
+    "selfCoverage": "主體建築及庭園",
+    "addresses": [
+        {
+            "cityName": "宜蘭縣",
+            "distName": "頭城鎮",
+            "id": 134347,
+            "caseId": 280,
+            "caseStatus": true,
+            "cityId": 4,
+            "distId": 402,
+            "address": "城東里3鄰和平街139號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "宜蘭縣",
+            "distName": "頭城鎮",
+            "landNoName": "頭圍一段",
+            "id": 195212,
+            "caseId": 280,
+            "caseStatus": true,
+            "cityId": 4,
+            "distId": 402,
+            "landNoId": 7347,
+            "landSerialNo": "259",
+            "landownership": 2,
+            "area": "1654.49平方公尺",
+            "note": "重測前:頭城鎮頭圍段28地號",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 146654,
+            "caseId": 280,
+            "caseStatus": true,
+            "registerDate": 1008644002000,
+            "officialDocNo": "九十府文資產字第五九○八號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.82484161258729,24.85878500528313],[121.8246503918873,24.858493434696676],[121.82450472542791,24.858581985924047],[121.8245018175007,24.858577686617213],[121.8244644399113,24.858611330631007],[121.8244050861331,24.858647578611098],[121.82445304542038,24.85868079946317],[121.82448216837538,24.85870097958167],[121.8244563565189,24.858733368968764],[121.82434786295157,24.858869536798196],[121.82440398501706,24.858916245504666],[121.82444053770394,24.858946658425204],[121.82447709046853,24.858977080363804],[121.82451390188697,24.859007708507978],[121.82454992734093,24.859037690969195],[121.82457453538261,24.859019083952667],[121.82483436632943,24.85882256453194],[121.82484161258729,24.85878500528313],[121.82484161258729,24.85878500528313]]]]},\"properties\":{\"envelope\":{\"left\":\"121.82434786295157\",\"top\":\"24.858493434696676\",\"right\":\"121.82484161258729\",\"bottom\":\"24.859037690969195\"},\"landLot\":\"宜蘭縣頭城鎮頭圍一段259\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀",
+    "openUpTime": "不開放",
+    "isCharge": false,
+    "pastHistorySource": "宜蘭縣古蹟調查研究計畫調查表"
+}

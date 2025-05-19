@@ -1,0 +1,105 @@
+{
+    "id": 3422,
+    "caseId": "20131219000046",
+    "count": 48,
+    "shareCount": 0,
+    "representImage": 5967,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7185/photo/通鑑地理通釋(元刊本)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7185/photo/通鑑地理通釋(元刊本).jpg",
+        "name": "通鑑地理通釋(元刊本)"
+    },
+    "caseName": "通鑑地理通釋(元刊本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1387382400000,
+    "officialDocNo": "文資局物字第 10220148851號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "元後至元七年(1341)慶元路儒學刊玉海附刻本。\r\n撰者王應麟(1223-1296)，字伯厚，號厚齋，浙江鄞縣人。淳祐元年(1241)進士，度宗即位，累遷禮部尚書。\r\n撰者於卷首云：「言地理者，難於言天，何為其難也？日月星辰之度，終古而不易；郡國山川之名，屢變而無窮」。故觀《資治通鑑》，箋釋其地名，且舉綱提要，又參其所敘歷代形勢，以為興替成敗之鑑，而作此書。\r\n元版古籍，罕見稀有，具重要歷史、文化與學術價值",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號01747",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 7,
+    "amount": 7,
+    "notes": "",
+    "descAge": "元後至元七年(1341)",
+    "descCreator": "宋王應麟撰",
+    "descSize": "半葉10行，版匡22x13.6公分",
+    "descMaterial": "紙質刊本",
+    "reserveStatusDesc": "十四卷。撰者於卷首云：「言地理者，難於言天，何為其難也？日月星辰之度，終古而不易；郡國山川之名，屢變而無窮」。故觀《資治通鑑》，箋釋其地名，且舉綱提要，又參其所敘歷代形勢，以為興替成敗之鑑，而作此書。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有虫蛀。經修裱，書況尚稱良好。\n",
+    "documents": [
+        {
+            "fileid": 5968,
+            "name": "9a7f4cf6-bc02-47ef-8d27-ec882472108d.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44036/file/9a7f4cf6-bc02-47ef-8d27-ec882472108d.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "文化景觀",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3564,
+            "caseId": 3422,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3564,
+            "caseId": 3422,
+            "caseStatus": true,
+            "registerDate": 1387382400000,
+            "officialDocNo": "文資局物字第 10220148851號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

@@ -1,0 +1,101 @@
+{
+    "id": 18057,
+    "caseId": "20201125000004",
+    "count": 3142,
+    "shareCount": 6,
+    "representImage": 186702,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/023d0579-3375-46d8-821c-4f270262f610/代表圖像_國立臺灣師範大學附屬高級中學「舊北樓」_20220617_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/023d0579-3375-46d8-821c-4f270262f610/代表圖像_國立臺灣師範大學附屬高級中學「舊北樓」_20220617.jpeg",
+        "name": "代表圖像_國立臺灣師範大學附屬高級中學「舊北樓」_20220617"
+    },
+    "caseName": "國立臺灣師範大學附屬高級中學「舊北樓」",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本建物於1950年興建完成，設計者為王玉堂建築師，建物為一字型格局，二層樓加強磚造、木桁架屋頂、洗石子外牆，中央樓梯間外側立面局部有線腳裝飾，建物比例良好。為師大附中於二戰後落成之第一棟建築，為重要的校園意象，見證校史發展歷程，具保存價值。\n",
+    "assetsTypeNames": "學校",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 225700,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-06-16/9d86b1ad-d410-4f5a-a533-530400474d5d/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1.本建物於1950年興建完成，設計者為王玉堂建築師，建物為一字型格局，二層樓加強磚造、木桁架屋頂、洗石子外牆，中央樓梯間外側立面局部有線腳裝飾，建物比例良好。\n2.為師大附中於二戰後落成之第一棟建築，為重要的校園意象，見證校史發展歷程，具保存價值。\n\n",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 76512,
+            "name": "範圍示意圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/83df207f-28c6-450b-a848-980ff603d9d1/範圍示意圖.pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "longitude": 121.54079684585867,
+    "latitude": 25.035297794657865,
+    "representImageSource": "臺北市文化局",
+    "landScope": "地號：懷生段二小段534號\t面積：75,444平方公尺（部分）",
+    "selfCoverage": "建物總面積為1968.77平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 111446,
+            "caseId": 18057,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "信義路3段143號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "懷生段二小段",
+            "cityLandUseTypeName": "文教區",
+            "id": 148576,
+            "caseId": 18057,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 756,
+            "landSerialNo": "534",
+            "landownership": 1,
+            "cityLandUseTypeId": 5,
+            "area": "75,444",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 120668,
+            "caseId": 18057,
+            "caseStatus": true,
+            "registerDate": 1605542400000,
+            "officialDocNo": "北市文化文資字第10930393131號",
+            "classificationId": 1,
+            "note": "登錄"
+        }
+    ],
+    "geojson": "[{\"address\":[{\"address\":\"1. 個案名稱: 國立臺灣師範大學附屬高級中學「舊北樓」 <br />\\n      2. 地址: 信義路3段143號 <br />\\n      3. 種類: 學校 <br />\\n      4. 指定登錄理由: 1.本建物於1950年興建完成，設計者為王玉堂建築師，建物為一字型格局，二層樓加強磚造、木桁架屋頂、洗石子外牆，中央樓梯間外側立面局部有線腳裝飾，建物比例良好。\\n2.為師大附中於二戰後落成之第一棟建築，為重要的校園意象，見證校史發展歷程，具保存價值。\\n\\n <br />\\n      5. 最後一筆公告日期: 2020-11-17 <br />\\n      6. 最後一筆公告文號: 北市文化文資字第10930393131號 <br />\\n      7. 管理單位: 國立臺灣師範大學附屬高級中學 <br />\\n      8. 使用單位: 國立臺灣師範大學附屬高級中學 <br />\\n      9. 建物狀態: 現況良好 <br />\",\"lat\":\"25.035297794657865\",\"lng\":\"121.54079684585867\"}]}]",
+    "openVisitType": ""
+}

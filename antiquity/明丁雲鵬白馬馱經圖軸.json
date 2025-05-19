@@ -1,0 +1,101 @@
+{
+    "id": 3870,
+    "caseId": "20121029000021",
+    "count": 215,
+    "shareCount": 0,
+    "representImage": 188578,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-10-31/bdc94c2f-16b4-4d0a-9cb6-2164a00a37f5/K2A000614N000000000PAA_c.png"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-10-31/bdc94c2f-16b4-4d0a-9cb6-2164a00a37f5/K2A000614N000000000PAA.png",
+        "name": "K2A000614N000000000PAA"
+    },
+    "caseName": "明丁雲鵬白馬馱經圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1351440000000,
+    "officialDocNo": "文資局物字第10120134511號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就"
+    ],
+    "registerReason": "丁雲鵬（1547-1628尚存）晚年的佛釋人物畫多以水墨為之，本幅則回歸其早年設色的傳統。全作敷色明麗，衣紋線條依然高古遒勁，可是樹木的畫法已趨疏放。本幅作於天啟乙丑年（1625），是丁雲鵬七十九歲之精心傑作。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第3、4款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000614",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descSize": "130.9 x 54.5（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "漢明帝曾派遣蔡愔前往天竺求取佛經，兩年後，天竺僧竺法蘭與迦葉摩騰自西域以白馬馱經來至中國。此圖即繪白馬馱經的故事。大體而言，丁氏晚年的道釋畫多以水墨為之，用筆粗放，而此圖則用設色細筆作畫，又回歸至其早年的繪畫風格。然細審此作，發現樹幹平直少彎曲，畫葉寫意，僅用淡墨、汁綠層層點染，衣紋線條遒勁簡古。全作變早期精工為疏簡，極具逸趣。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 151201,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-24/0a965245-b791-41e4-a5cb-8d5d53d297b4/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 94727,
+            "caseId": 3870,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 102146,
+            "caseId": 3870,
+            "caseStatus": true,
+            "registerDate": 1351440000000,
+            "officialDocNo": "文資局物字第10120134511號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

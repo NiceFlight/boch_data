@@ -1,0 +1,105 @@
+{
+    "id": 3215,
+    "caseId": "20150730000001",
+    "count": 749,
+    "shareCount": 1,
+    "representImage": 278140,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-12-16/3ad71e02-ecee-4eff-8fb0-efce37f2587b/毛格后蚋潘永成潘有明同立開墾合約字(正面)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-12-16/3ad71e02-ecee-4eff-8fb0-efce37f2587b/毛格后蚋潘永成潘有明同立開墾合約字(正面).jpg",
+        "name": "毛格后蚋潘永成潘有明同立開墾合約字(正面)"
+    },
+    "caseName": "毛格后蚋潘永成潘有明同立開墾合約字",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1438185600000,
+    "officialDocNo": "府授文資字第10401505601 號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "南投縣開發於清代，本件古文書為平埔族入墾埔里盆地後重要的內部協議，由內容可得知其時埔里盆地北半部的開發過程、清代番地政策的轉折以及平埔族拓墾埔里的組織模式。與南投縣已登錄為一般古物的另三件同為埔眉社招平埔族入墾手模契約相互參照，對於道光年間平埔族遷徙、清代番地政策、埔里拓墾史能有更全面完整的了解。",
+    "lawsReference": "1.文化資產保存法第65條\r\n2.古物分級登錄指定及廢止審查辦法第2條",
+    "govInstitutionCode": "540",
+    "govInstitutionName": "南投縣政府",
+    "belongCityId": 12,
+    "belongCityName": "南投縣",
+    "belongDistName": "南投市",
+    "govInstitution": "南投縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "049-2231191",
+    "govDeptAddress": "540南投市建國路135號",
+    "reservationCode": "20200013243",
+    "amount": 1,
+    "notes": "",
+    "descAge": "同治4年(1865年)",
+    "descCreator": "清代文物",
+    "descSize": "41cmX58cm",
+    "descMaterial": "紙質",
+    "reserveStatusDesc": "南投縣開發於清代，本件古文書為平埔族入墾埔里盆地 後重要的內部協議，由內容可得知其時埔里盆地北半部 的開發過程、清代番地政策的轉折以及平埔族拓墾埔里 的組織模式。與南投縣已登錄為一般古物的另三件同為 埔眉社招平埔族入墾手模契約相互參照，對於道光到同治年間平埔族遷徙、清代番地政策、埔里拓墾史能有更全面完 整的了解。",
+    "pastHistorySource": 2,
+    "pastHistorySourceNotes": "梁志忠先生",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 174352,
+            "name": "毛格后蚋潘永成潘有明同立開墾合約字 公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-20/8b5f3f60-4e65-4dea-bf18-1c8ca17a9439/毛格后蚋潘永成潘有明同立開墾合約字 公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.681546,
+    "latitude": 23.90799,
+    "representImageSource": "南投縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "南投縣政府文化局",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "南投縣南投市建國路135號",
+            "saveSpaceIdStr": "公務設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "南投縣",
+            "distName": "南投市",
+            "id": 147357,
+            "caseId": 3215,
+            "caseStatus": true,
+            "cityId": 12,
+            "distId": 1201,
+            "address": "建國路135號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 160098,
+            "caseId": 3215,
+            "caseStatus": true,
+            "registerDate": 1438185600000,
+            "officialDocNo": "府授文資字第10401505601 號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

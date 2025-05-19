@@ -1,0 +1,99 @@
+{
+    "id": 3172,
+    "caseId": "20061019000007",
+    "count": 323,
+    "shareCount": 0,
+    "representImage": 267907,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-12-12/7b082b9c-2ee3-449d-983c-28ec8c61351b/番刀_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-12-12/7b082b9c-2ee3-449d-983c-28ec8c61351b/番刀.jpg",
+        "name": "番刀"
+    },
+    "caseName": "番刀",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-軍事設備",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1161187200000,
+    "officialDocNo": "屏府文博字第0950206704號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "番刀（排灣、來義及山地門），具藝術造詣及族裔色彩。排灣族男人而言，不僅是外出防敵禦獸的武器，居家可屠宰牲畜、雕刻製作工具，所用片刃細長，刀背後彎。",
+    "lawsReference": "文化資產保存法第65條暨古物分級登錄指定及廢止審查辦法第5條、第7條及第8辦理。",
+    "govInstitutionCode": "900",
+    "govInstitutionName": "屏東縣政府",
+    "belongCityId": 20,
+    "belongCityName": "屏東縣",
+    "belongDistName": "屏東市",
+    "govInstitution": " ",
+    "govDeptName": " ",
+    "govDeptPhone": " ",
+    "govDeptAddress": " ",
+    "reservationCode": " ",
+    "amount": 1,
+    "notes": "",
+    "descAge": " ",
+    "descSize": " ",
+    "descMaterial": " ",
+    "reserveStatusDesc": "種類:武器 \r\n數量:1\r\n年代:不詳 \r\n作者:不詳\r\n材質:木、鐵 \r\n重量:720 g\r\n形狀:長型 \r\n尺寸:63 × 6 ㎝\r\n技法:刀炳上施以雕刻，原意在執用時防止脫手，之後演變如其他器物所飾刻的人像或蛇紋，此所作人像形，為常見的排灣族刀。",
+    "pastHistorySource": 2,
+    "pastHistorySourceNotes": " ",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 231377,
+            "name": "32件一般古物(951027)_部分26.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-09-19/7cb4ab7d-76b0-4f92-8f1f-5e7b9be3f4a7/32件一般古物(951027)_部分26.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "0",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "屏東縣政府文化處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "屏東縣屏東市大連路69號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "屏東縣",
+            "distName": "屏東市",
+            "id": 137345,
+            "caseId": 3172,
+            "caseStatus": true,
+            "cityId": 20,
+            "distId": 2001
+        }
+    ],
+    "announces": [
+        {
+            "id": 150085,
+            "caseId": 3172,
+            "caseStatus": true,
+            "registerDate": 1161187200000,
+            "officialDocNo": "屏府文博字第0950206704號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

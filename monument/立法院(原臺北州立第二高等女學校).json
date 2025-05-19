@@ -1,0 +1,114 @@
+{
+    "id": 891,
+    "caseId": "20170612000001",
+    "count": 7338,
+    "shareCount": 6,
+    "representImage": 184409,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/b82a0718-08b1-41ae-b24e-97fbeafec594/代表圖像_立法院(原臺北州立第二高等女學校)_20220712_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/b82a0718-08b1-41ae-b24e-97fbeafec594/代表圖像_立法院(原臺北州立第二高等女學校)_20220712.jpeg",
+        "name": "代表圖像_立法院(原臺北州立第二高等女學校)_20220712"
+    },
+    "caseName": "立法院(原臺北州立第二高等女學校)",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "臨中山南路之現有建築原為日治時代臺北州立臺北第二高等女校校舍。在1919年及1935年兩次興建，形成三合院。二戰後為中央政府立法院所在， 目前保留及維護狀況良好。",
+    "assetsTypeNames": "衙署",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 145081,
+            "name": "古蹟公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/bb09ffb0-7f6c-47b7-a453-9dcd3c2bdd60/古蹟公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具高度歷史、藝術或科學價值者"
+    ],
+    "registerReason": "1.原為日治時期臺北州立第二高等女學校校舍，目前留存之西、南側L型磚構造建築係興建於1919年，牆身仍保留原有材料與構造；1935年增建北側鋼筋混凝土造之現代主義風格建築，整體建築仍呈現原女學校之建築特色且保存狀況良好。\n2.本建物二戰後成為立法院所在，見證日治中、後期女子中學教育及政府遷臺後臺灣民主法治史，在教育、政治、歷史及文化上具有重要意義。",
+    "lawsReference": "符合古蹟指定及廢止審查辦法第2條第1項第1、2、5、6款評定基準。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 15805,
+            "name": "地籍圖.gif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2017-09-12/b874ee3e-8786-4555-9953-5f86bad0bf0f/地籍圖.gif"
+        },
+        {
+            "fileid": 15806,
+            "name": "都市計畫圖.gif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2017-09-12/771cefdd-6972-490b-a9f4-248d59b4c20d/都市計畫圖.gif"
+        },
+        {
+            "fileid": 15807,
+            "name": "套繪圖.png",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2017-09-12/b6cb7fb2-1936-4295-88ee-bb7a569f2da5/套繪圖.png"
+        }
+    ],
+    "locationLandNo": "臺北市中正區成功段三小段98地號（部分）",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.5195803,
+    "latitude": 25.0439998,
+    "representImageSource": "臺北市文化局",
+    "landScope": "座落於臺北市中正區成功段三小段98地號（部分）。該地號土地面積為：19,454㎡",
+    "selfCoverage": "座落於臺北市中正區成功段三小段98地號（部分）",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 148285,
+            "caseId": 891,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "臺北市中正區中山南路1號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "成功段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 204959,
+            "caseId": 891,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 142,
+            "landSerialNo": "98",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "19454平方公尺",
+            "cityLandUseTypeOther": "國中用地",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 161158,
+            "caseId": 891,
+            "caseStatus": true,
+            "registerDate": 1497196800000,
+            "officialDocNo": "北市府文化文資字第10630459200號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false,
+    "pastHistorySource": "公告"
+}

@@ -1,0 +1,102 @@
+{
+    "id": 20776,
+    "caseId": "20220607000001",
+    "count": 1164,
+    "shareCount": 1,
+    "representImage": 166986,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-06-06/7b5eb680-0a52-4413-bcc2-a8be55776896/IMG_1780_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-06-06/7b5eb680-0a52-4413-bcc2-a8be55776896/IMG_1780.jpg",
+        "name": "IMG_1780"
+    },
+    "caseName": "講美吳玉樹古宅",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待後續調查研究",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 166985,
+            "name": "講美吳玉樹古宅公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-06-06/54a08422-54c6-4555-8ab4-af719bb6fc03/講美吳玉樹古宅公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "(1) 表現地域風貌或民間藝術特色者：牆砌硓𥑮石細緻，收頭完整花台、水缸造型具有特色，大門兩側柱頭柱腳收邊工法，及石刻門聯，為講美地區早期打石業興盛之呈現。 \n(2) 具建築史或技術史之價值者：大厝身與亭之間的水槽樑直接架在大廳之正面壁 上，取消了「簾前」，直接以亭與大厝身接續，係日治時期的改良式作法。亭的深度較 一般四櫸民宅大，玄武岩通樑之跨距長，且一體成型，保存完整。\n (3) 具地區性建造物類型之特色者：水缸造型具特色，大門兩側柱頭、柱座收邊工法特 \n       別，捲簾棚較一般傳統建築寬，工法及裝飾有特色。\n\n\n\n",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "06-9261141#138",
+    "govDeptAddress": "澎湖縣馬公市中華路230號",
+    "cadasters": [
+        {
+            "fileid": 167020,
+            "name": "講美吳玉樹古宅 講美段433地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-06-07/ef4a3a6a-6be3-496a-a4e5-c1137fec3200/講美吳玉樹古宅 講美段433地籍圖.pdf"
+        }
+    ],
+    "buildingFeatures": "牆砌硓𥑮石細緻，收頭完整花台、水缸造型具有特色，大門兩側柱頭柱腳收邊工法，及石刻門聯。 ",
+    "inHouseFeatures": "大厝身與亭之間的水槽樑直接架在大廳之正面壁上，取消了「簾前」，直接以庭與大厝身接續，係日治時期的改良式作法。亭的深度較一般四櫸民宅大，玄武岩通樑之跨距長，且一體成型，保存完整。",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isOpenDownload": false,
+    "longitude": 119.600071,
+    "latitude": 23.632756,
+    "representImageSource": "為承辦人或權責單位自行拍攝或取得授權之圖片",
+    "landScope": "澎湖縣白沙鄉講美段433地號。",
+    "selfCoverage": "澎湖縣白沙鄉講美段433地號，澎湖縣白沙鄉講美段42建號；定著土地面積為189.07平方公尺，建物面積131.48 平方公尺。",
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "白沙鄉",
+            "id": 107523,
+            "caseId": 20776,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2105,
+            "address": "講美村35號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "白沙鄉",
+            "landNoName": "講美段",
+            "id": 134116,
+            "caseId": 20776,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2105,
+            "landNoId": 15672,
+            "landSerialNo": "433",
+            "landownership": 2,
+            "area": "",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 2
+        }
+    ],
+    "announces": [
+        {
+            "id": 115517,
+            "caseId": 20776,
+            "caseStatus": true,
+            "registerDate": 1645632000000,
+            "officialDocNo": "府授文資字第11137005451號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[119.60008401582014,23.632876301830954],[119.60017467461022,23.632822748294508],[119.60008524076457,23.632691315279253],[119.59999429422723,23.632744084295084],[119.60008401582014,23.632876301830954],[119.60008401582014,23.632876301830954]]]]},\"properties\":{\"envelope\":{\"left\":\"119.59999429422723\",\"top\":\"23.632691315279253\",\"right\":\"119.60017467461022\",\"bottom\":\"23.632876301830954\"},\"landLot\":\"澎湖縣白沙鄉講美段433\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀"
+}

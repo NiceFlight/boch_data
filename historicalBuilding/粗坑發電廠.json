@@ -1,0 +1,151 @@
+{
+    "id": 1142,
+    "caseId": "20111206000001",
+    "count": 3089,
+    "shareCount": 4,
+    "representImage": 2293,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/5041/photo/C102新北市粗坑發電廠(歷建)(1)_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/5041/photo/C102新北市粗坑發電廠(歷建)(1).JPG",
+        "name": "C102新北市粗坑發電廠(歷建)(1)"
+    },
+    "caseName": "粗坑發電廠",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用報告完成後填列",
+    "assetsTypeNames": "產業",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1323165265000,
+    "officialDocNo": "北府文資字第1001721589號",
+    "documents": [
+        {
+            "fileid": 161546,
+            "name": "粗坑發電廠變更公告-107.05.23.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-27/1e6af71e-b627-477c-8440-09242ae99c42/粗坑發電廠變更公告-107.05.23.pdf"
+        },
+        {
+            "fileid": 161547,
+            "name": "粗坑發電廠公告-100.12.06.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-27/9eb4ae3b-8c9d-4426-a011-29e9ecc66ac6/粗坑發電廠公告-100.12.06.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "一、粗坑發電廠、桂山發電廠、烏來發電廠是繼龜山發電廠之後，殖民地政府利用新店溪上游發展水力發電的一連串重要的現代化基礎工程，具臺灣開發史之意義。\n二、粗坑發電廠為臺灣現役最老的水力發電廠，建於1907年，建築構造及內部機具仍保存非常完整的日治時期初建風貌：建築為紅磚造，大跨距的鋼骨桁架，屋頂設有具散熱功能之高凸式氣窗，建築立面以圓拱圈作成裝飾。入口山牆上有牌樓面的山形牆，留有當年的標誌，後方還有建於1911年之攔水堰堤。早期三部發電機組，其中德國AEG渦輪馬達機組仍在現場。\n三、粗坑發電廠具有古蹟之保存價值，惟為因應電力設備緊急應變之機動性及維修之特殊性、安全性，故先予登錄為歷史建築，以符合電廠營運需求，俟其除役後再重新審議。",
+    "lawsReference": "符合<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、3款評定基準。",
+    "govInstitutionCode": "220",
+    "govInstitutionName": "新北市政府",
+    "belongCityId": 3,
+    "belongCityName": "新北市",
+    "belongDistName": "新店區",
+    "govInstitution": "新北市政府",
+    "govDeptName": "文化局",
+    "govDeptPhone": "(02)29603456",
+    "govDeptAddress": "新北市板橋區中山路一段161號28樓",
+    "cadasters": [
+        {
+            "fileid": 133179,
+            "name": "粗坑發電廠.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-08-19/ca9127e8-d1fa-4ef1-8d6c-3ffa799f8443/粗坑發電廠.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "發電廠用地",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "新店區直潭段小粗坑小段67、67-6地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "belongAddress": "永興路45號",
+    "isOpenVisit": false,
+    "openUpTime": "",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.542806177734,
+    "latitude": 24.9378305628827,
+    "representImageSource": "新北市政府文化局",
+    "landScope": "新店區直潭段小粗坑小段67、67-6地號",
+    "selfCoverage": "發電廠本體、故副工程師王聯治殉職紀念碑\n",
+    "addresses": [
+        {
+            "cityName": "新北市",
+            "distName": "新店區",
+            "id": 108504,
+            "caseId": 1142,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 311,
+            "address": "永興路45號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "新北市",
+            "distName": "新店區",
+            "landNoName": "直潭段小粗坑小段",
+            "id": 136582,
+            "caseId": 1142,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 311,
+            "landNoId": 5526,
+            "landSerialNo": "67",
+            "landownership": 1,
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "新北市",
+            "distName": "新店區",
+            "landNoName": "直潭段小粗坑小段",
+            "id": 136583,
+            "caseId": 1142,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 311,
+            "landNoId": 5526,
+            "landSerialNo": "67-6",
+            "landownership": 1,
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 116903,
+            "caseId": 1142,
+            "caseStatus": true,
+            "registerDate": 1323165265000,
+            "officialDocNo": "北府文資字第1001721589號",
+            "classificationId": 1
+        },
+        {
+            "id": 116904,
+            "caseId": 1142,
+            "caseStatus": true,
+            "registerDate": 1527004800000,
+            "officialDocNo": "新北府文資字第1070917359號",
+            "classificationId": 2
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"properties\":{\"envelope\":{\"left\":121.54236570138687,\"right\":121.54289897185508,\"top\":24.937921334743255,\"bottom\":24.9376507666149,\"renderer\":null},\"landLot\":\"新北市新店區直潭段小粗坑小段67\"},\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[121.54277577428446,24.937848634629333],[121.54278670717,24.937847170161927],[121.54289897185508,24.937819422963525],[121.5428678834409,24.937677654511997],[121.54287696295438,24.937676241027432],[121.54287039648581,24.9376507666149],[121.54247073673157,24.937739501975223],[121.54246038844931,24.937673437902315],[121.5423910327355,24.937691766586614],[121.5423824876352,24.937694024038674],[121.5423708980818,24.937842015772908],[121.54237157875816,24.937850936764193],[121.54236570138687,24.937921334743255],[121.54245289969177,24.93789186623876],[121.54277577428446,24.937848634629333],[121.54277577428446,24.937848634629333]]]}}]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"properties\":{\"envelope\":{\"left\":121.54230990558757,\"right\":121.54290460027227,\"top\":24.937739501975223,\"bottom\":24.937033300180786,\"renderer\":null},\"landLot\":\"新北市新店區直潭段小粗坑小段67-6\"},\"geometry\":{\"type\":\"Polygon\",\"coordinates\":[[[121.54262256651494,24.937110873911326],[121.5426286417478,24.937094739170057],[121.54261828872589,24.937100174823104],[121.54261809100643,24.93703965232102],[121.54260120184334,24.937033300180786],[121.5425395162588,24.937071530748756],[121.54248646300566,24.937066158891678],[121.54241833744396,24.93705418809189],[121.54241781863028,24.937059848853657],[121.54242371220421,24.937108289859193],[121.54242330056508,24.9371284802101],[121.54230990558757,24.93712771289176],[121.54231397344147,24.937141579844393],[121.54233483132747,24.937212669605092],[121.54235470246195,24.937258970623084],[121.54231200768244,24.937320000407976],[121.542310741258,24.937434917702763],[121.54238865521843,24.937615282947974],[121.5423824876352,24.937694024038674],[121.5423910327355,24.937691766586614],[121.54246038844931,24.937673437902315],[121.54247073673157,24.937739501975223],[121.54287039648581,24.9376507666149],[121.54287696295438,24.937676241027432],[121.54290460027227,24.937671942240097],[121.54288031636216,24.937630532601553],[121.54282912721307,24.93760208252656],[121.54277330205421,24.93754264198042],[121.54265562306793,24.937311681471208],[121.54262110387926,24.937287638676466],[121.54258501921224,24.937206378157704],[121.54262256651494,24.937110873911326],[121.54262256651494,24.937110873911326]]]}}]}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": ""
+}

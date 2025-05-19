@@ -1,0 +1,105 @@
+{
+    "id": 3579,
+    "caseId": "20130813000034",
+    "count": 60,
+    "shareCount": 0,
+    "representImage": 6260,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7282/photo/大德重校聖濟總錄(元刊本)_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7282/photo/大德重校聖濟總錄(元刊本).png",
+        "name": "大德重校聖濟總錄(元刊本)"
+    },
+    "caseName": "大德重校聖濟總錄(元刊本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1376323200000,
+    "officialDocNo": "文資局物字第 10220091271號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "元大德四年(1300)太醫院刊本。\r\n此書原二百卷，乃北宋政和年間由徽宗昭示天下廣進醫方，並同御府所藏，纂輯成編，集宋以前醫方之大成，謂宋代的醫學全書。\r\n因此書篇幅浩大，刊刻不易，所以傳本較少。今完本已不傳，本館所藏六卷雖為殘卷，亦屬罕見。\r\n\r\n元代太醫院刊本，此書流傳少，罕見稀有，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號05926",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 8,
+    "notes": "",
+    "descAge": "元大德四年(1300)",
+    "descCreator": "宋徽宗勅編",
+    "descSize": "半葉8行，版匡22.3x18.6公分",
+    "descMaterial": "紙質刊本",
+    "reserveStatusDesc": "存六卷（存卷五十、卷五十二、卷五十三、卷一百三十一、卷一百九十一、此書原二百卷，乃北宋政和年間由徽宗昭示天下廣進醫方，並同御府所藏，纂輯成編，集宋以前醫方之大成，謂宋代的醫學全書。卷一百九十四）。\n\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "無虫蛀。經修裱，書況良好。\n",
+    "documents": [
+        {
+            "fileid": 6261,
+            "name": "bd62166f-af43-422a-97b3-d685f416e821.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44172/file/bd62166f-af43-422a-97b3-d685f416e821.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3721,
+            "caseId": 3579,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3721,
+            "caseId": 3579,
+            "caseStatus": true,
+            "registerDate": 1376323200000,
+            "officialDocNo": "文資局物字第 10220091271號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

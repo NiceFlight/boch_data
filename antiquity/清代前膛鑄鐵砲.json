@@ -1,0 +1,99 @@
+{
+    "id": 15446,
+    "caseId": "20180104000005",
+    "count": 1378,
+    "shareCount": 0,
+    "representImage": 98723,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-03-01/60c1930d-6d10-4d81-a2cd-16249521c342/00清代前膛鑄鐵砲-黃偉倫20201223_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-03-01/60c1930d-6d10-4d81-a2cd-16249521c342/00清代前膛鑄鐵砲-黃偉倫20201223.jpg",
+        "name": "00清代前膛鑄鐵砲-黃偉倫20201223"
+    },
+    "caseName": "清代前膛鑄鐵砲",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物,生活及儀禮器物-軍事設備",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1514526091242,
+    "officialDocNo": "府授文資第1060185113號函",
+    "judgeCriteria": [
+        "具有史事淵源",
+        "具有珍貴及稀有性者"
+    ],
+    "registerReason": "1.\t具有地方重要人物或歷史事件之深厚淵源者：為清代海防的重要軍事物證，呈現清代火砲發展不同面貌。\n2.\t數量稀少者：新竹市古砲留存數量不多。\n",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第2、5款",
+    "govInstitutionCode": "300",
+    "govInstitutionName": "新竹市政府",
+    "belongCityId": 6,
+    "belongCityName": "新竹市",
+    "belongDistName": "北區",
+    "govInstitution": "新竹市文化局",
+    "govDeptName": "新竹市文化局文化資產科",
+    "govDeptPhone": "03-5425079",
+    "govDeptAddress": "300新竹市北區中央路109號",
+    "reservationCode": "C1061226005",
+    "amount": 1,
+    "descAge": "西元1662-1910年",
+    "descSize": "砲身總長166公分、外徑18公分",
+    "descMaterial": "金屬(鑄鐵)",
+    "reserveStatusDesc": "1.\t砲口形式：壺口。\n2.\t裝砲方式：前膛；砲膛形式：滑膛。\n3.\t砲耳為錐式、無砲耳座子。\n4.\t砲尾形式：穹圓形、無砲架。\n5.\t現有支撐：磚墩。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 3,
+    "reserveStatus": "砲身蝕銹嚴重。",
+    "documents": [
+        {
+            "fileid": 47379,
+            "name": "府授文資第1060185113號函.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-01-04/edeb84f2-5221-4e58-a64e-84a3b5b31e1e/府授文資第1060185113號函.jpg"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 120.97727132411939,
+    "latitude": 24.800307519684115,
+    "representImageSource": "新竹市文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "新竹市政府城市行銷處",
+            "keepName": "萬怡君",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "新竹市新竹公園",
+            "keepAddressNew": "新竹市東區",
+            "saveSpaceIdStr": "公務設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "新竹市",
+            "keepNameDistName": "北區",
+            "keepNameAddress": "中正路120號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "新竹市",
+            "distName": "北區",
+            "id": 66727,
+            "caseId": 15446,
+            "caseStatus": true,
+            "cityId": 6,
+            "distId": 602
+        }
+    ],
+    "announces": [
+        {
+            "id": 70904,
+            "caseId": 15446,
+            "caseStatus": true,
+            "registerDate": 1514526091242,
+            "officialDocNo": "府授文資第1060185113號函",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

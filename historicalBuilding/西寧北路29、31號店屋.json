@@ -1,0 +1,137 @@
+{
+    "id": 2168,
+    "caseId": "20160831000001",
+    "count": 2736,
+    "shareCount": 6,
+    "representImage": 177873,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/4c61bfe7-8979-4bd0-a575-1232a00d0b4a/代表圖像_西寧北路29、31號店屋_20220726_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/4c61bfe7-8979-4bd0-a575-1232a00d0b4a/代表圖像_西寧北路29、31號店屋_20220726.jpeg",
+        "name": "代表圖像_西寧北路29、31號店屋_20220726"
+    },
+    "caseName": "西寧北路29、31號店屋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "建物興建於1936年，為創建人陳金勝事業巔峰時期之作，建築落成後成為「嘉南商行」所在，為日據時期臺人經商致富之代表案例，且家族成員皆為當時重要人士。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 146225,
+            "name": "3.4.5.20170811150942.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/0a4ef774-eeee-4be0-8fb4-982644a034e7/3.4.5.20170811150942.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "１、建物興建於1936年，為創建人陳金勝事業巔峰時期之作，建築落成後成為「嘉南商行」所在，為日據時期臺人經商致富之代表案例，且家族成員皆為當時重要人士。\r\n２、本建物為一進兩開間具左右過水街屋格局，整體建築大致維持原貌，且原始設計圖仍存，改建部分可恢復原始牆面、天花及門窗，具保存價值。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、4款評定基準。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 146226,
+            "name": "地形地籍圖西寧29.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/64eb4494-4f11-4885-b0c2-e49f69f44dfc/地形地籍圖西寧29.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "特定專用區(供特定住宅使用)",
+    "locationLandNo": "臺北市大同區玉泉段二小段537、537-1地號等2筆土地",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.50876239820721,
+    "latitude": 25.05307985467888,
+    "representImageSource": "臺北市文化局",
+    "landScope": "距離市定古蹟台北霞海城隍廟約400公尺處，臺北市大同區玉泉段二小段537（土地面積188平方公尺）、537-1地號(土地面積7平方公尺)",
+    "selfCoverage": "建物登記大同區玉泉段二小段983建號(建物總面積357.65平方公尺)。（實際保存面積須以實際保存範圍實測數據為準）",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 88113,
+            "caseId": 2168,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "西寧北路29號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 88114,
+            "caseId": 2168,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "西寧北路31號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "玉泉段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 104310,
+            "caseId": 2168,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 191,
+            "landSerialNo": "537",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "188平方公尺",
+            "cityLandUseTypeOther": "特定專用區（供特定住宅使用）",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "玉泉段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 104311,
+            "caseId": 2168,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 191,
+            "landSerialNo": "537-1",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "7平方公尺",
+            "cityLandUseTypeOther": "特定專用區（供特定住宅使用）",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 94984,
+            "caseId": 2168,
+            "caseStatus": true,
+            "registerDate": 1472572800000,
+            "officialDocNo": "北市文化文資字第10530435200號",
+            "classificationId": 1,
+            "note": "登錄"
+        }
+    ],
+    "openVisitType": ""
+}

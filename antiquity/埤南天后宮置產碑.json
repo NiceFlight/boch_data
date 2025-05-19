@@ -1,0 +1,101 @@
+{
+    "id": 21146,
+    "caseId": "20221102000002",
+    "count": 316,
+    "shareCount": 1,
+    "representImage": 189255,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-11-02/ff2450f5-48c9-4d15-b063-202291e9e9ea/303269_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-11-02/ff2450f5-48c9-4d15-b063-202291e9e9ea/303269.jpg",
+        "name": "303269"
+    },
+    "caseName": "埤南天后宮置產碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者"
+    ],
+    "registerReason": "據逢甲大學李建緯教授研究團隊參閱孟祥瀚(1997)的研究，「埤南天后宮置產」碑反應之社會、經濟變遷與時代特色有以下5點： 1.碑文出現的「六八洋銀」為清代台灣用來發放軍餉的自鑄銀幣，原流行於台南及其周邊區域。台東地區見「六八洋銀」說明台東早期移民多來自台灣南部。 2.台東地區田賦比照恆春下則田例徵收，非胡傳所記之按埔里廳則例。 3.田租的計價以土地價格而非收成，實為特殊。 4.從墾戶繳交的費用屬於定額租的情況來看，碑上所錄之天后宮土地應為墾熟之地 5.台東的開發是西部開墾經驗的延續與轉移。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第3款",
+    "govInstitutionCode": "950",
+    "govInstitutionName": "臺東縣政府",
+    "govInstitution": "臺東縣政府",
+    "govDeptName": "文化處文化資產科",
+    "govDeptPhone": "089-350129",
+    "govDeptAddress": "臺東市南京路25號",
+    "reservationCode": "STG02541-P-109-st02",
+    "amount": 3,
+    "descAge": "1892",
+    "descSize": "長：134公分；高：136公分",
+    "descMaterial": "石",
+    "reserveStatusDesc": "碑呈長方形，陰刻字，內填紅漆。碑原分為2塊，但右側第一塊斷裂成2塊，致使碑文缺損，今存為3塊。碑面有若干油漆污漬。今將之鑲嵌於牆上。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "西元1892年",
+    "saveEnvironment": 2,
+    "reserveStatus": "狀況穩定",
+    "documents": [
+        {
+            "fileid": 189254,
+            "name": "埤南天后宮置產碑公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-11-02/2959934f-018e-4636-8c77-32e67854e20d/埤南天后宮置產碑公告表.pdf"
+        },
+        {
+            "fileid": 205949,
+            "name": "埤南天后宮置產碑更正公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-01-16/12f1377c-bc8a-4283-886b-ad966e4162f0/埤南天后宮置產碑更正公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.154985,
+    "latitude": 22.757237,
+    "representImageSource": "臺東縣政府文化處",
+    "keepNames": [
+        {
+            "keepNameIdStr": "臺東天后宮",
+            "keepName": "臺東天后宮",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "臺東天后宮",
+            "keepAddressNew": "臺東市中華路一段222號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 2,
+            "keepNameCityName": "臺東縣",
+            "keepNameDistName": "臺東市",
+            "keepNameAddress": "中華路一段222號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺東縣",
+            "distName": "臺東市",
+            "id": 106910,
+            "caseId": 21146,
+            "caseStatus": true,
+            "cityId": 22,
+            "distId": 2201,
+            "address": "中華路一段222號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 114746,
+            "caseId": 21146,
+            "caseStatus": true,
+            "registerDate": 1667290842572,
+            "officialDocNo": "府文資字第1110237340號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

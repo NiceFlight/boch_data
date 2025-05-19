@@ -1,0 +1,105 @@
+{
+    "id": 15713,
+    "caseId": "20180601000002",
+    "count": 2275,
+    "shareCount": 12,
+    "representImage": 48283,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-06-01/42233579-673a-4b1a-b480-44270b48ba2f/DSC_5956_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-06-01/42233579-673a-4b1a-b480-44270b48ba2f/DSC_5956.jpg",
+        "name": "DSC_5956"
+    },
+    "caseName": "土庫順天宮日本觀音",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1507278117406,
+    "officialDocNo": "府文資二字第1063809916B號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就",
+        "數量稀少者",
+        "對地方或族群知識、技術或流派發展具影響或意義"
+    ],
+    "registerReason": "1、見證日治時代因皇民化運動，順天宮所在土庫街街長篠崎庄長等人，自日本迎回觀音聖像，同時也保存順天宮免於拆廟毀神，也見證民間信仰交流。\n2、本件「卅三」番觀音是雲林境內唯二傳世觀音聖像，反映真言宗在皇民化前後在台開啟的改宗信仰，也記錄了戰前民間信仰記憶與文化。\n3、背光插屏式蓮瓣，正面具有濃厚的日式觀音樣式。\n4、雲林縣境內罕見的日式觀音。\n",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2、3、4、5、6款",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "belongCityId": 13,
+    "belongCityName": "雲林縣",
+    "belongDistName": "土庫鎮",
+    "govInstitution": "雲林縣政府",
+    "govDeptName": "文化處",
+    "govDeptPhone": "05-5523157",
+    "govDeptAddress": "雲林縣斗六市大學路三段310號",
+    "reservationCode": "暫無",
+    "amount": 1,
+    "descAge": "約西元1940年前",
+    "descSize": "高54公分、長22公分、寬16公分",
+    "descMaterial": "木質",
+    "reserveStatusDesc": "1.「土庫順天宮日本觀音」佛像現供奉於土庫順天宮觀音殿神龕內。\n2. 土庫順天宮日本觀音聖像，底座刻有於「卅三番」，聖像背後寫有「為植村民先祖代之菩提  願主東京市  植村小兵衛」，「卅三番」應與觀世音菩薩33靈場信仰有關，源自法華經觀世音菩薩普門品之三十三化身有關。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "西元1940年，捐贈者：日本群馬縣新田郡吉祥寺",
+    "saveEnvironment": 2,
+    "reserveStatus": "文物現況良好",
+    "documents": [
+        {
+            "fileid": 48284,
+            "name": "「土庫順天宮日本觀音」公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-06-01/86ea9081-bd99-4337-9f3f-ee6c50047eff/「土庫順天宮日本觀音」公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 23.6767819253369,
+    "latitude": 120.39066367048768,
+    "representImageSource": "雲林縣政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "土庫順天宮管理委員會",
+            "keepName": "土庫順天宮管理委員會",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "土庫順天宮管理委員會",
+            "keepAddressNew": "雲林縣土庫鎮順天里中正路109號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "雲林縣",
+            "keepNameDistName": "土庫鎮",
+            "keepNameAddress": "順天里中正路109號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "土庫鎮",
+            "id": 65884,
+            "caseId": 15713,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1304,
+            "address": "中正路109號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 69962,
+            "caseId": 15713,
+            "caseStatus": true,
+            "registerDate": 1507278117406,
+            "officialDocNo": "府文資二字第1063809916B號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

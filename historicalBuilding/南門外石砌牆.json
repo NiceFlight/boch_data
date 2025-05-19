@@ -1,0 +1,117 @@
+{
+    "id": 1184,
+    "caseId": "20010629000004",
+    "count": 1955,
+    "shareCount": 0,
+    "representImage": 145981,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-11-24/3ad4bb1b-2dd8-4b8a-8285-0bba11961cef/南門外石砌牆_A999162_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-11-24/3ad4bb1b-2dd8-4b8a-8285-0bba11961cef/南門外石砌牆_A999162.jpg",
+        "name": "南門外石砌牆_A999162"
+    },
+    "caseName": "南門外石砌牆",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "1.本區舊地名為「石頭城」，即清代練兵場舊址。\r\n2.依據1910（明治43）年日治時期舊照片，可清楚看出石頭牆遺跡，本遺跡可能是清代練兵場留下之城牆。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "其他歷史遺蹟",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 993809619000,
+    "officialDocNo": "九十府宜文資產字第2990 號",
+    "documents": [
+        {
+            "fileid": 73722,
+            "name": "南門外石砌牆公告公文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-10-27/9a9c4f61-8233-4e55-8e9d-d5be7e0d49ff/南門外石砌牆公告公文.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "本遺跡推測為清代練兵場下之城牆，其牆身以人字工法堆砌而成，具稀少性，就其歷史意義，實有保存價值。",
+    "lawsReference": "文化資產保存法27條之1暨歷史建築登錄及輔助辦法第7條",
+    "govInstitutionCode": "260",
+    "govInstitutionName": "宜蘭縣政府",
+    "belongCityId": 4,
+    "belongCityName": "宜蘭縣",
+    "belongDistName": "宜蘭市",
+    "govInstitution": "宜蘭縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-9322440*652",
+    "govDeptAddress": "宜蘭縣五結鄉中正路二段6之8號",
+    "cadasters": [
+        {
+            "fileid": 125639,
+            "name": "南門外石砌牆地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-07-21/3ddde2c7-15c2-46fb-a100-9aeac5a0d2da/南門外石砌牆地籍圖.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "公園用地",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "蘭市南門段4號",
+    "buildingFeatures": "1.以2層黑色頁岩人字砌方式組砌而成，上層則以平舖作為收頭。\r\n2.牆寬約60公分，高約140-160公分不等。",
+    "inHouseFeatures": "",
+    "buildingUsage": "都市計畫區公園用地。",
+    "buildingActualState": "位於宜蘭市南門地區公園用地內舊城南路旁，周邊保留三棟日式歷史建築，園區有良好的林相、文化資源以及鄰近舊監獄門廳、宜蘭酒廠、宜蘭演藝廳等文化設施，周邊為都市計畫商業區及住宅區、宜蘭設治紀念林園。",
+    "buildingKeyMaintainItem": "保留原貌，作為歷史遺跡之景觀。",
+    "bulkTransfer": 0,
+    "belongAddress": "舊城南路南側",
+    "isOpenVisit": true,
+    "openUpTime": "全天。",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.750159032824,
+    "latitude": 24.755274495158,
+    "representImageSource": "宜蘭縣政府文化局",
+    "landScope": "",
+    "selfCoverage": "早期公告無此資料",
+    "addresses": [
+        {
+            "cityName": "宜蘭縣",
+            "distName": "宜蘭市",
+            "id": 147497,
+            "caseId": 1184,
+            "caseStatus": true,
+            "cityId": 4,
+            "distId": 401,
+            "address": "舊城南路南側"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "宜蘭縣",
+            "distName": "宜蘭市",
+            "landNoName": "南門段",
+            "id": 203505,
+            "caseId": 1184,
+            "caseStatus": true,
+            "cityId": 4,
+            "distId": 401,
+            "landNoId": 7171,
+            "landSerialNo": "4",
+            "landownership": 1,
+            "area": "3194.43平方公尺",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 160278,
+            "caseId": 1184,
+            "caseStatus": true,
+            "registerDate": 993809619000,
+            "officialDocNo": "九十府宜文資產字第2990號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.75018237099053,24.755261139884787],[121.75024373812973,24.75522287727909],[121.7504202136247,24.755112863687078],[121.75043164218441,24.75506881487216],[121.75028078315233,24.754818211585736],[121.74968399969676,24.754980193891377],[121.74968386705237,24.75498000225495],[121.74967506925428,24.754982387279277],[121.74966587606497,24.754987751773015],[121.74959927896327,24.75502687631812],[121.7498985305042,24.7554331760622],[121.74993681069095,24.75540967553127],[121.74997795862548,24.755384789256937],[121.75018237099053,24.755261139884787],[121.75018237099053,24.755261139884787]]]]},\"properties\":{\"envelope\":{\"left\":\"121.74959927896327\",\"top\":\"24.754818211585736\",\"right\":\"121.75043164218441\",\"bottom\":\"24.7554331760622\"},\"landLot\":\"宜蘭縣宜蘭市南門段4\"}}],\"notfound\":[]}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": "宜蘭縣歷史建築登錄南門外石砌牆表"
+}

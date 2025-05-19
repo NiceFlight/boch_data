@@ -1,0 +1,102 @@
+{
+    "id": 16198,
+    "caseId": "20181002000003",
+    "count": 173,
+    "shareCount": 0,
+    "representImage": 50389,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-10-02/bfded585-4480-48fb-8247-c0c4455c69fe/3-故書000101_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-10-02/bfded585-4480-48fb-8247-c0c4455c69fe/3-故書000101.jpg",
+        "name": "3-故書000101"
+    },
+    "caseName": "明文徵明書蘭亭敘卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1521561600000,
+    "officialDocNo": "文授資局物字第10730030851號",
+    "judgeCriteria": [
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "文徵明（西元1470-1559），詩文書畫俱工，與沈周（西元1427-1509）、唐寅（西元1470-1524）、仇英（約西元1494-1552）共稱為明四大家。書法上又與祝允明（西元1461-1527）、王寵（西元1494-1533）並稱「吳中三子」。\n文氏一生廣臨書聖王羲之法書名帖，尤其好寫〈蘭亭敘〉，傳世臨本至少五件。此件據卷末自題知書於八十九歲，用筆、結字和章法與傳世王羲之書〈蘭亭敘〉多有不同，應屬意臨之作，且是從「領字從山本」而來。\n本作是文徵明晚年臨終前一年所書，書風尤其老練精到，結字縝密，筆法內斂含蓄，而精神外露，風彩煥發，筆意蒼勁有力，亦所謂「通會之際，人書俱老」，為其傳世臨書之代表。",
+    "lawsReference": "符合《古物分級指定及廢止審查辦法》第3條第3、4、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故書000101",
+    "amount": 1,
+    "descAge": "1558",
+    "descCreator": "文徵明",
+    "descSize": "29.2公分x120.4公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "文徵明（西元1470-1559），江蘇長州人。本名壁，字徵明，別號停雲生、衡山居士。詩文書畫俱工，與沈周（1427-1509）、唐寅（西元1470-1524）、仇英（約西元1494-1552）共稱為明四大家。書法上又與祝允明（西元1461-1527）、王寵（西元1494-1533）並稱「吳中三子」。文氏好寫〈蘭亭敘〉，傳世臨本至少有五件，據卷末自提之書於八十九歲。用筆、結字和章法與傳王羲之書〈蘭亭敘〉多有不同，應屬意臨之作，且是從「領字從山本」而來。筆法內斂含蓄，間架縝密，筆意連綿貫串處，予人生動自然之感。\n文氏一生廣臨書聖法書名帖，或臨摹忠實，摻和己意。此作為晚年臨終前一年所書，隨處可見其遵循古法與力求突破之意識，書風老練精到，亦〈書譜〉所謂「通會之際，人書俱老」是也。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "包首：磨損，蟲蛀，霉傷。本幅：霉傷，水漬，蟲蛀，傷補，折痕。",
+    "documents": [
+        {
+            "fileid": 147492,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-14/6498add8-55e8-4b53-b059-ba15f95345ad/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69100,
+            "caseId": 16198,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73224,
+            "caseId": 16198,
+            "caseStatus": true,
+            "registerDate": 1521561600000,
+            "officialDocNo": "文授資局物字第10730030851號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

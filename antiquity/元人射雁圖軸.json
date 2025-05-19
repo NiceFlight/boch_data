@@ -1,0 +1,101 @@
+{
+    "id": 4487,
+    "caseId": "20170203000004",
+    "count": 265,
+    "shareCount": 0,
+    "representImage": 7549,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133827/photo/4元人射雁圖軸_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133827/photo/4元人射雁圖軸.jpg",
+        "name": "4元人射雁圖軸"
+    },
+    "caseName": "元人射雁圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1486051200000,
+    "officialDocNo": "中華民國106年2月3日文授資局物字第10630011521號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "此作畫群山環抱中，人物、馬匹、駱駝，獵隊合圍。中景人物搭弓上弦，蓄勢待發。其餘眾人佇足仰望，預備隨時接應。人馬造形精簡，卻細膩寫實，營造出北方天寒地凍的地形特徵，為此類出獵題材的佳作。\n元代帝王喜好狩獵，曾屢次傳召畫家繪圖，以記錄當時的盛況，本幅中帝王的容貌，即與成宗鐵穆耳相仿。畫上並無作者款印，由於畫中出獵的陣勢，與故宮藏劉貫道（13 世紀後半）之〈元世祖出獵圖〉相似。畫中雖無作者款印，應是宮廷藝匠所繪，成作年代約在十四世紀初期。畫中主角的容貌以及服飾特色，皆可提供元代皇室歷史和服飾史的重要資料。本幅為以畫證史的名作。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第3、5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局 ",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000872",
+    "amount": 1,
+    "descAge": "元",
+    "descSize": "131.8公分 x 93.9公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "群山環抱中，人物、馬匹、駱駝，獵隊合圍。中景人物搭弓上弦，蓄勢待發。其餘眾人佇足仰望，預備隨時接應。無論皴山或畫人物、鷹馬，用筆均極精簡，營造出北方天寒地凍的地形特徵，為此類出獵題材的佳作。\n元代帝王喜好狩獵，曾屢次傳召畫家繪圖，以記錄當時的盛況，本幅中帝王的容貌，即與成宗鐵穆耳相仿。畫上並無作者款印，由於畫中出獵的陣勢，與故宮劉貫道（13 世紀後半）〈元世祖出獵圖〉相似，雖無作者款印，應是宮廷藝匠所繪，成作年代約在十四世紀初期。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。本幅有部分霉傷，絹裂，摺痕，剝落，刮痕。",
+    "documents": [
+        {
+            "fileid": 148326,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-22/38708bf4-0203-4547-aaab-f42394cd5d99/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69429,
+            "caseId": 4487,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73591,
+            "caseId": 4487,
+            "caseStatus": true,
+            "registerDate": 1486051200000,
+            "officialDocNo": "中華民國106年2月3日文授資局物字第10630011521號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,105 @@
+{
+    "id": 3573,
+    "caseId": "20130813000028",
+    "count": 76,
+    "shareCount": 0,
+    "representImage": 6248,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7288/photo/魏武帝註孫子(清刊本)_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7288/photo/魏武帝註孫子(清刊本).png",
+        "name": "魏武帝註孫子(清刊本)"
+    },
+    "caseName": "魏武帝註孫子(清刊本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1376323200000,
+    "officialDocNo": "文資局物字第 10220091271號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "清嘉慶庚申(五年,1800)蘭陵孫氏平津館覆宋刊本。\r\n此書為魏武帝曹操所註，後人或稱《孫子略解》、《孫子注》。曹操是最早對《孫子》一書作註者，他在此書末「魏武帝註孫子序」中云：「吾觀兵書戰策多矣，孫武所著深矣」，故對《孫子》一書註解闡釋，對孫子軍事思想的傳播具有重要意義。全書仿宋刊覆刻，書眉上註文以朱、墨、綠三色印製，未聞他處藏有同版。清黃丕烈手跋又韓應陛手校並題記。 \r\n清刊覆宋刊本古籍，罕見稀有，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號05699",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 2,
+    "notes": "",
+    "descAge": "清嘉慶庚申(五年，1800)",
+    "descCreator": "周孫武撰，三國曹操註",
+    "descSize": "半葉11行，版匡17.1x11公分",
+    "descMaterial": "紙質刊本",
+    "reserveStatusDesc": "三卷(上、中、下)\n\n\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "無虫蛀，未經修裱。書況良好。\n",
+    "documents": [
+        {
+            "fileid": 6249,
+            "name": "030f134f-a883-435e-ba00-dceb82252be6.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44166/file/030f134f-a883-435e-ba00-dceb82252be6.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3715,
+            "caseId": 3573,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3715,
+            "caseId": 3573,
+            "caseStatus": true,
+            "registerDate": 1376323200000,
+            "officialDocNo": "文資局物字第 10220091271號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

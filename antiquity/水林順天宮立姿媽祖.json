@@ -1,0 +1,102 @@
+{
+    "id": 16527,
+    "caseId": "20190124000002",
+    "count": 918,
+    "shareCount": 1,
+    "representImage": 54878,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-01-24/d63d9dbe-1226-43e4-9c7c-9218b69c784e/IMG_9931_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-01-24/d63d9dbe-1226-43e4-9c7c-9218b69c784e/IMG_9931.jpg",
+        "name": "IMG_9931"
+    },
+    "caseName": "水林順天宮立姿媽祖",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1541433600000,
+    "officialDocNo": "府文資二字第1073812273B號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "數量稀少者"
+    ],
+    "registerReason": "1.此媽祖像在地方上衍生許多相關神蹟，也是水林現存年代最早的媽祖神像。\n2.傳說地方開發史中最重要人物洪月自湄州迎奉來台。湄州之說雖無法確認，唯洪月牌位生卒年似可反映此地於清領初期開發的歷程。\n3.此立姿媽祖神像為台灣傳世稀有之姿勢，且雙手作朝天式，也多屬早期媽祖神像作法。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2、5款",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "belongCityId": 13,
+    "belongCityName": "雲林縣",
+    "belongDistName": "水林鄉",
+    "govInstitution": "雲林縣政府",
+    "govDeptName": "文化處文化資產科",
+    "govDeptPhone": "05-5523156",
+    "govDeptAddress": "640雲林縣斗六市大學路三段310號",
+    "reservationCode": "01",
+    "amount": 1,
+    "descAge": "不詳",
+    "descSize": "高約18公分",
+    "descMaterial": "木質",
+    "reserveStatusDesc": "此媽祖像在地方上衍生許多相關神蹟，也是水林現存年代最早的媽祖神像。神像為傳說地方開發史中最重要人物洪月自湄州迎奉來台。湄州之說雖無法確認，唯洪月牌位生卒年似可反映此地於清領初期開發的歷程。此立姿媽祖神像屬於早期攜臺的小型神像，為台灣傳世稀有之站立姿勢，且雙手作朝天式，也多屬早期媽祖神像作法。 妝佛為泉州體（黃土地、裱雞毛紙），材質為樟木，未有明顯蟲蛀現象。外層繡線經過整理，屬於粉線樣式。     ",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "傳為洪月自湄洲迎奉來台",
+    "saveEnvironment": 2,
+    "reserveStatus": "此神像目前放置地點為水林鄉蕃薯村順天宮正殿神龕受信徒參拜，並有監視系統維護。神像身上粧佛經過整修，本體保存狀況基本良好，需注意後續保存環境，保持通風與防蟲。",
+    "documents": [
+        {
+            "fileid": 54872,
+            "name": "立姿媽祖-公告含照片.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-01-24/8ab9fbb3-fe31-4797-b02b-4d94f9d0cabd/立姿媽祖-公告含照片.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 23.541512688435716,
+    "latitude": 120.22373048208922,
+    "representImageSource": "雲林縣政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "雲林縣水林鄉順天宮管理委員會",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "水林鄉順天宮管理委員會",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "水林鄉",
+            "id": 65965,
+            "caseId": 16527,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1317,
+            "address": "蕃薯村蕃薯102號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 70075,
+            "caseId": 16527,
+            "caseStatus": true,
+            "registerDate": 1541433600000,
+            "officialDocNo": "府文資二字第1073812273B號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

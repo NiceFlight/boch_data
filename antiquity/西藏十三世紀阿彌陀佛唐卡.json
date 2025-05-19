@@ -1,0 +1,102 @@
+{
+    "id": 4450,
+    "caseId": "20160427000009",
+    "count": 369,
+    "shareCount": 0,
+    "representImage": 7477,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/132350/photo/1375f11d-f277-4ec7-b670-420ae4d25103_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/132350/photo/1375f11d-f277-4ec7-b670-420ae4d25103.jpg",
+        "name": "1375f11d-f277-4ec7-b670-420ae4d25103"
+    },
+    "caseName": "西藏十三世紀阿彌陀佛唐卡",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1461686400000,
+    "officialDocNo": "文授資局物字第10530037421號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要之時代特色、技術及流派",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "傳世唐卡以明、清兩代居多，此幅繪成於西元十三世紀左右，且為傳世甚稀之西藏噶當教派的唐卡。\r\n此幅中央巨像之主尊為法相莊嚴的阿彌陀佛，與其兩旁的脇侍、聽法菩薩、護法佛母等組合成對稱式的構圖，蓮華台座旁亦見孔雀回眸相對。群像之間，敷染豐富而多彩，諸多顏色交錯之下，凸顯出空間結構的精妙。全幅人物優雅，色調分明，氣氛肅穆恬靜，為精湛難得的藏傳佛教文物，甚具重要的歷史文化與藝術價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條1項第1、3、5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "購畫000129",
+    "amount": 1,
+    "descAge": "十三世紀",
+    "descSize": "80公分×54公分",
+    "descMaterial": "棉布",
+    "reserveStatusDesc": "唐卡是藏族文化中的一種藝術表現形式。此幅中央巨像之主尊為法相莊嚴的阿彌陀佛，與其兩旁的脇侍、聽法菩薩、護法佛母等組合成對稱式的構圖，蓮華台座旁亦見孔雀回眸相對。群像之間，敷染豐富而多彩，諸多顏色交錯之下，凸顯出空間結構的精妙。線條的描繪細緻且流暢，不但賦予形體流動的節奏感，更加增添了空間的層次變化。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 。",
+    "documents": [
+        {
+            "fileid": 148840,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-28/1497780f-8e12-4445-b242-f9ca68b67cab/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69616,
+            "caseId": 4450,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73789,
+            "caseId": 4450,
+            "caseStatus": true,
+            "registerDate": 1461686400000,
+            "officialDocNo": "文授資局物字第10530037421號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

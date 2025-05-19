@@ -1,0 +1,117 @@
+{
+    "id": 3200,
+    "caseId": "20080903000004",
+    "count": 385,
+    "shareCount": 2,
+    "representImage": 5638,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/38129/photo/6f85b57c-6024-46c1-9a6e-fe0cc4bb670a_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/38129/photo/6f85b57c-6024-46c1-9a6e-fe0cc4bb670a.jpg",
+        "name": "6f85b57c-6024-46c1-9a6e-fe0cc4bb670a"
+    },
+    "caseName": "銅條（MGG-M-10）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "出土(水)-出土、出水物品",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1220371200000,
+    "officialDocNo": "府授文博字第0973700108號",
+    "judgeCriteria": [
+        "具有史事淵源",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本件古物其中一端呈楔形，器表起伏不甚規則，週身佈滿斑塊狀銅綠，表面銅綠稍微刮除後，即可見橙黃色閃亮金屬光澤。銅條，英語作Copper Bar、日人稱「棹銅」，乃日本特產，十七世紀日本重要外銷產物。本古物為馬公港對外交通的重要證據。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第2、6款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "MGG-M-10",
+    "amount": 1,
+    "descAge": "明清",
+    "descCreator": "",
+    "descSize": "長20.6公分，寬最大處2.2公分、最小處1.7公分，高1.8公分",
+    "descMaterial": "銅",
+    "reserveStatusDesc": "長20.6公分，寬最大處2.2公分、最小處1.7公分，高1.8公分，重量396公克，年代：明清。\n出水地區：馬公港。\n特色：本件古物其中一端呈楔形，器表起伏不甚規則，週身佈滿斑塊狀銅綠，表面銅綠稍微刮除後，即可見橙黃色閃亮金屬光澤。銅條，英語作Copper Bar、日人稱「棹銅」，乃日本特產，十七世紀日本重要外銷產物。本古物為馬公港對外交通的重要證據。",
+    "pastHistorySource": 7,
+    "pastHistorySourceNotes": "出水地區：馬公港。",
+    "saveEnvironment": 4,
+    "saveEnvironmentNotes": "室內空間",
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 110621,
+            "name": "銅條MGG-M-10公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-14/5d7c8cbc-f319-4bff-a65d-c17b8924a784/銅條MGG-M-10公告.pdf"
+        },
+        {
+            "fileid": 110622,
+            "name": "修正公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-14/c639136b-3fc9-4c82-a321-59a5004acfa2/修正公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.577409,
+    "latitude": 23.571286,
+    "representImageSource": "澎湖縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "澎湖縣政府文化局",
+            "keepName": "澎湖縣政府文化局",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "澎湖縣政府文化局",
+            "keepAddressNew": "澎湖縣馬公市中華路230號",
+            "saveSpaceIdStr": "公務設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "澎湖縣",
+            "keepNameDistName": "馬公市",
+            "keepNameAddress": "中華路230號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 28367,
+            "caseId": 3200,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "中華路230號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 28721,
+            "caseId": 3200,
+            "caseStatus": true,
+            "registerDate": 1207843200000,
+            "officialDocNo": "府授文博字第09737000364號",
+            "classificationId": 1
+        },
+        {
+            "id": 28722,
+            "caseId": 3200,
+            "caseStatus": true,
+            "registerDate": 1220428274957,
+            "officialDocNo": "府授文博字第0973700108號",
+            "classificationId": 2,
+            "note": "公告修正一般古物銅條(MGG-M-10)之公告函、表"
+        }
+    ],
+    "isPublic": false
+}

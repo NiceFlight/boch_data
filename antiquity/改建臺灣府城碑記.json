@@ -1,0 +1,110 @@
+{
+    "id": 3277,
+    "caseId": "20150511000006",
+    "count": 359,
+    "shareCount": 0,
+    "representImage": 168971,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-06-22/dc94aef2-ace1-4def-96eb-dfe4b48e0dc4/古物017改建臺灣府城碑記_P001_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-06-22/dc94aef2-ace1-4def-96eb-dfe4b48e0dc4/古物017改建臺灣府城碑記_P001.jpg",
+        "name": "古物017改建臺灣府城碑記_P001"
+    },
+    "caseName": "改建臺灣府城碑記",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-其他",
+    "otherAssetsType": "圖書文獻",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1431273600000,
+    "officialDocNo": "府文資處字第1040415095B號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "清乾隆五十三年（西元1788年），林爽文事件平定後，清廷治臺態度轉趨積極，為強化城牆防禦功能，分別於臺灣府城、嘉義、鳳山三地修建城垣，以資捍衛；臺灣府城始由竹木為垣而改築土城，總理其事者為時任臺灣府知府楊廷理。本件碑記即此次改建臺灣府城的紀錄，詳述改建原由、工程內容、金額與工期，文末錄始終是役而不辭勞瘁者姓名。本碑為清領後期，清廷治臺作為轉趨積極之歷史見證。\n    本碑於清乾隆五十五年八月（西元1790年）設立，記錄府城城垣的材料由竹、木而改為磚、土、石的始末，為臺灣府城城垣改建之珍貴歷史紀錄，並見立碑者臺灣知府楊廷理治事恢宏的風範。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第2條第1項第1、2、5、6款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "安平區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "reservationCode": "公告無資料",
+    "amount": 1,
+    "notes": "",
+    "descAge": "1790（清乾隆五十五年）",
+    "descSize": "縱262公分*橫148公分*厚16公分",
+    "descMaterial": "花崗岩",
+    "reserveStatusDesc": "數量：1組1件。\n主要材質：花崗岩。\n尺寸：縱262公分*橫148公分*厚16公分。\n特徵：邊框刻有花飾，額刻皇清、雙龍及太陽圖騰。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 2,
+    "reserveStatus": "公告無資料",
+    "documents": [
+        {
+            "fileid": 168932,
+            "name": "改建臺灣府城碑記公告-104.05.11.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-06-22/2927a8ce-737a-4f13-951d-30ef637ecfb4/改建臺灣府城碑記公告-104.05.11.pdf"
+        },
+        {
+            "fileid": 168933,
+            "name": "改建臺灣府城碑記公告表-104.05.11.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-06-22/d529ef2c-5415-4829-a222-2f4bcb43f66a/改建臺灣府城碑記公告表-104.05.11.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 120.20295787302999,
+    "latitude": 22.986454185520678,
+    "representImageSource": " 臺南市政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "大南門碑林",
+            "keepName": "大南門碑林",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "大南門碑林",
+            "keepAddressNew": "臺南市中西區樹林街二段",
+            "saveSpaceOther": "公告無資料",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺南市",
+            "keepNameDistName": "中西區",
+            "keepNameAddress": "南門路38號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "id": 127872,
+            "caseId": 3277,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601,
+            "address": "樹林街二段"
+        }
+    ],
+    "announces": [
+        {
+            "id": 138883,
+            "caseId": 3277,
+            "caseStatus": true,
+            "registerDate": 1431273600000,
+            "officialDocNo": "府文資處字第1040415095B號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

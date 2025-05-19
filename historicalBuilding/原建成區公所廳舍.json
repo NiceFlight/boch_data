@@ -1,0 +1,113 @@
+{
+    "id": 1004,
+    "caseId": "20141112000001",
+    "count": 2388,
+    "shareCount": 0,
+    "representImage": 189541,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/97b5fa24-6e00-4585-bcd1-3a24f64fab3e/代表圖像_原建成區公所廳舍_20220725(IMG_E0618)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/97b5fa24-6e00-4585-bcd1-3a24f64fab3e/代表圖像_原建成區公所廳舍_20220725(IMG_E0618).jpg",
+        "name": "代表圖像_原建成區公所廳舍_20220725(IMG_E0618)"
+    },
+    "caseName": "原建成區公所廳舍",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "原為建成區公所辦公廳舍，後與大同區合併之後做為建成派出所使用。",
+    "assetsTypeNames": "衙署",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 162542,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/99c147d5-7c48-425d-a900-c257f78585e2/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1、本建物始建於民國39年（1950），原為臺北市建成區公所辦公廳舍，後期因行政區重劃，建成、延平、大同三區合併，改為建成派出所使用迄今，與地方社區關係密切。\r\n2、建物立面以洗石子及瓷磚貼覆，為3層樓之平頂建築，具有戰後初期公家機關之形式典範，並位居街廓角地，具都市景觀價值。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、4款評定基準。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 162543,
+            "name": "downloadfile.gif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/0be089ee-709d-45bc-b41d-8732b20f9f04/downloadfile.gif"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市大同區市府段2小段62地號",
+    "buildingFeatures": "位居街廓角地，為三樓RC、平頂建築，表面貼瓷磚，洗石子，四柱三窗，前有山牆之古典式樣，呈現光復初期地方建築特色。",
+    "inHouseFeatures": "樓梯仍為1950年代原物，室內為警察局辦公格局。",
+    "buildingUsage": "建成派出所",
+    "buildingActualState": "臺北市政府警察局建成派出所",
+    "buildingKeyMaintainItem": "保存範圍：全棟保存",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isOpenDownload": false,
+    "longitude": 121.5172947,
+    "latitude": 25.0527926,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市大同區市府段2小段62地號，265平方公尺",
+    "selfCoverage": "655.92",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 95051,
+            "caseId": 1004,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "承德路1段80號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "市府段二小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 117449,
+            "caseId": 1004,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 185,
+            "landSerialNo": "62",
+            "landownership": 1,
+            "cityLandUseTypeId": 2,
+            "coverageId": 2,
+            "area": "265平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 102550,
+            "caseId": 1004,
+            "caseStatus": true,
+            "registerDate": 1415721600000,
+            "officialDocNo": "北市文化文資字第10330478500號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

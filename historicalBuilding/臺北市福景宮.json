@@ -1,0 +1,113 @@
+{
+    "id": 1039,
+    "caseId": "20100202000001",
+    "count": 2596,
+    "shareCount": 2,
+    "representImage": 169374,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/b834616b-b054-404d-91a2-c306e9bcd2c0/代表圖像_臺北市福景宮_20220613_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/b834616b-b054-404d-91a2-c306e9bcd2c0/代表圖像_臺北市福景宮_20220613.jpeg",
+        "name": "代表圖像_臺北市福景宮_20220613"
+    },
+    "caseName": "臺北市福景宮",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "福景宮創建於日治末期，乃此地先民劉良同先生發起鄉里所築，主祀福德正神，其後曾於民國41年拆除重建。現今的廟址所在地，係經眾善信徒於民國68年向水利會高價買下後，整理宮貌並增建兩間辦公室之現貌。",
+    "assetsTypeNames": "寺廟",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 164652,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/8b418f72-f71c-40d4-a68f-16d2a248b202/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1.日治初期在原瑠公圳灌溉範圍旁所建的土地公廟。信仰為農業之神，隨著社會發展為財神信仰，具有本地區開拓歷史與民俗信仰變遷之見證價值。\n \r\n2.建築物有水泥塑成之龍柱，以及北部交阯陶匠師陳天乞的作品，建物本身具相當藝術價值。",
+    "lawsReference": "文化資產保存法第15條、歷史建築登錄廢止審查及輔助辦法暨臺北市歷史建築登錄及廢止審查作業要點等相關規定。\n",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 164653,
+            "name": "3c49a9bb-e2e2-42ff-ac94-90e0b0d5b5a1.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/fcbdf726-ad5c-4b8e-b68e-0a4e3ec1fa52/3c49a9bb-e2e2-42ff-ac94-90e0b0d5b5a1.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": " ",
+    "buildingFeatures": "三開間建築，為磚砌承重牆，正身入口有水泥塑成之龍柱、民國41年重建時遺留下來的洗石子裝飾，屋頂有北部交趾陶大師陳天乞及其傳人陳世仁的作品。",
+    "inHouseFeatures": "做為廟宇使用，內部供奉多尊民間崇信之福德正神（土地公）、觀音佛祖、關聖帝君、天上聖母等。",
+    "buildingUsage": "",
+    "buildingActualState": "現況為宮廟使用",
+    "buildingKeyMaintainItem": "正廳、龍柱及寺廟內交阯陶作品。",
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.5571721,
+    "latitude": 25.0297093,
+    "representImageSource": "臺北市文化局",
+    "landScope": "建物座落土地為臺北市大安區通化段二小段26地號（面積為72平方公尺）；建築物為臺北市大安區通化段二小段1293建號（面積為38.1平方公尺）。",
+    "selfCoverage": " 38.1平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 82941,
+            "caseId": 1039,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "光復南路698號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "通化段二小段",
+            "id": 91957,
+            "caseId": 1039,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 732,
+            "landSerialNo": "26",
+            "landownership": 2,
+            "coverageId": 2,
+            "area": "72平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 89071,
+            "caseId": 1039,
+            "caseStatus": true,
+            "registerDate": 1265040000000,
+            "officialDocNo": "北市文化二字第09931711900號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "http://librarywork.taiwanschoolnet.org/cyberfair20"
+}

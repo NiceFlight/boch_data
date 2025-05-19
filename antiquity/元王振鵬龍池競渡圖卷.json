@@ -1,0 +1,101 @@
+{
+    "id": 3806,
+    "caseId": "20130809000008",
+    "count": 274,
+    "shareCount": 0,
+    "representImage": 188468,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-10-31/3e637666-fd24-46ac-aa65-26321252b4b4/K2A001013N000000000PAF_c.png"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-10-31/3e637666-fd24-46ac-aa65-26321252b4b4/K2A001013N000000000PAF.png",
+        "name": "K2A001013N000000000PAF"
+    },
+    "caseName": "元王振鵬龍池競渡圖卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1375977600000,
+    "officialDocNo": "文資局物字第10220090431號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "王振鵬（約活動於1280—1329），為元代最重要的界畫家。依卷尾所題，本卷乃描繪北宋崇寧間三月三日，在金明池龍舟競渡爭標，萬民同樂之景。\n由於學者對畫中若干跋印存疑，本卷或為元以後的臨仿本，但此卷線描穩定，細節交待清晰，圖中所畫的競渡、水戲等場景皆能和《東京夢華錄》的記載相互參照。在原本恐未保存的情況下，此卷不失為了解北宋中期皇室三月競渡習俗的重要歷史材料。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第3、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫001013",
+    "amount": 1,
+    "notes": "",
+    "descAge": "元",
+    "descSize": "30.2 x 243.8（公分）",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "王振鵬（約活動於1280—1329），嘉定（今浙江溫州）人。字朋梅，為元代最重要的界畫家。 依卷尾所題，本卷乃描繪北宋崇寧間三月三日，在金明池龍舟競渡爭標，萬民同樂之景。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 150425,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-17/f1054a1e-2d21-407e-a18a-232068994ae8/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路2段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 94710,
+            "caseId": 3806,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": " 至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 102128,
+            "caseId": 3806,
+            "caseStatus": true,
+            "registerDate": 1375977600000,
+            "officialDocNo": "文資局物字第10220090431號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

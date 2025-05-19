@@ -1,0 +1,174 @@
+{
+    "id": 1143,
+    "caseId": "20111206000002",
+    "count": 2848,
+    "shareCount": 0,
+    "representImage": 123624,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-12/e0bebc90-e876-4482-adcf-e872a558f463/桂山發電廠外觀_c.png"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-12/e0bebc90-e876-4482-adcf-e872a558f463/桂山發電廠外觀.png",
+        "name": "桂山發電廠外觀"
+    },
+    "caseName": "桂山發電廠",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "產業",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1323156953000,
+    "officialDocNo": "北府文資字第1001721589號",
+    "documents": [
+        {
+            "fileid": 161544,
+            "name": "桂山發電廠公告100.12.06.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-27/f2926bed-0854-44c9-91f6-ecf3fcb2f906/桂山發電廠公告100.12.06.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "一、粗坑發電廠、桂山發電廠、烏來發電廠是繼龜山發電廠之後，殖民地政府利用新店溪上游發展水力發電的一連串重要的現代化基礎工程，具臺灣開發史之意義。\n二、桂山發電廠建於1939年，建築外表壁飾近年有更換，然室內構造及門窗仍保留完整日治時期風貌，包括日式磨石子扶手、木製窗臺與鐵製金屬扣件。發電機亦為日治昭和年代機器，現行運作完善。\n三、桂山發電廠利用南勢溪的水流發電，桂山壩相當高大，堪稱人類工程的偉大作品。",
+    "lawsReference": "符合<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1～3款評定基準。",
+    "govInstitutionCode": "220",
+    "govInstitutionName": "新北市政府",
+    "belongCityId": 3,
+    "belongCityName": "新北市",
+    "belongDistName": "新店區",
+    "govInstitution": "新北市政府",
+    "govDeptName": "文化局",
+    "govDeptPhone": "(02)29603456",
+    "govDeptAddress": "新北市板橋區中山路一段161號28樓",
+    "cadasters": [
+        {
+            "fileid": 114763,
+            "name": "桂山發電廠地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-05-28/7bb1da32-25b3-4ecd-a806-5179bfe18f6b/桂山發電廠地籍圖.pdf"
+        },
+        {
+            "fileid": 133176,
+            "name": "桂山發電廠.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-08-19/fb5fc756-13c0-43bc-93b6-9a93ee54532b/桂山發電廠.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "發電廠用地",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "新店區龜山段大粗坑小段 15-4 、 15-5 、 17 、17-1 地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "belongAddress": "桂山路37號",
+    "isOpenVisit": false,
+    "openUpTime": "",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.561451357404,
+    "latitude": 24.9028372602247,
+    "representImageSource": "新北市政府文化局",
+    "landScope": "新店區龜山段大粗坑小段 15-4 、 15-5 、 17 、17-1 地號",
+    "selfCoverage": "發電廠建築物本體\n",
+    "addresses": [
+        {
+            "cityName": "新北市",
+            "distName": "新店區",
+            "id": 108340,
+            "caseId": 1143,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 311,
+            "address": "桂山路37號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "新北市",
+            "distName": "新店區",
+            "landNoName": "龜山段大粗坑小段",
+            "id": 136175,
+            "caseId": 1143,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 311,
+            "landNoId": 5562,
+            "landSerialNo": "15-4",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "新北市",
+            "distName": "新店區",
+            "landNoName": "龜山段大粗坑小段",
+            "id": 136176,
+            "caseId": 1143,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 311,
+            "landNoId": 5562,
+            "landSerialNo": "15-5",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "新北市",
+            "distName": "新店區",
+            "landNoName": "龜山段大粗坑小段",
+            "id": 136177,
+            "caseId": 1143,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 311,
+            "landNoId": 5562,
+            "landSerialNo": "17",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "新北市",
+            "distName": "新店區",
+            "landNoName": "龜山段大粗坑小段",
+            "id": 136178,
+            "caseId": 1143,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 311,
+            "landNoId": 5562,
+            "landSerialNo": "17-1",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 116742,
+            "caseId": 1143,
+            "caseStatus": true,
+            "registerDate": 1323156953000,
+            "officialDocNo": "北府文資字第10017215891號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.56241114967824,24.902597504303817],[121.56218382912905,24.90259595237298],[121.56211578302822,24.902616509631088],[121.56197382325483,24.902560023128682],[121.56193216065387,24.90253299248605],[121.5618893186498,24.9025305609468],[121.56183248131285,24.902570009839398],[121.56165774489617,24.90256513710702],[121.56158616794956,24.902768589337054],[121.56174967573733,24.902802825375847],[121.56171382799123,24.902943824035837],[121.56194457016318,24.90296919286448],[121.56196239458666,24.902865282254865],[121.56207443562839,24.902887249243307],[121.56228832055875,24.90287929379987],[121.56229482352963,24.902943621523065],[121.56231231530803,24.902994434114007],[121.56242957199431,24.90298359249311],[121.56241980835152,24.90288542486479],[121.56241114967824,24.902597504303817],[121.56241114967824,24.902597504303817]]]]},\"properties\":{\"envelope\":{\"left\":\"121.56158616794956\",\"top\":\"24.9025305609468\",\"right\":\"121.56242957199431\",\"bottom\":\"24.902994434114007\"},\"landLot\":\"新北市新店區龜山段大粗坑小段15-4\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.56153156763801,24.902923785903358],[121.56171382799123,24.902943824035837],[121.56174967573733,24.902802825375847],[121.56158616794956,24.902768589337054],[121.56153156763801,24.902923785903358],[121.56153156763801,24.902923785903358]]]]},\"properties\":{\"envelope\":{\"left\":\"121.56153156763801\",\"top\":\"24.902768589337054\",\"right\":\"121.56174967573733\",\"bottom\":\"24.902943824035837\"},\"landLot\":\"新北市新店區龜山段大粗坑小段15-5\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.56165774489617,24.90256513710702],[121.56143178725826,24.902622836516514],[121.56130917271865,24.902625606419118],[121.56123607357374,24.902667275821287],[121.56121143419192,24.90269566024321],[121.56116645240101,24.902723082936276],[121.56115021409546,24.902739427312657],[121.5612040582961,24.90306398154164],[121.56194457016318,24.90296919286448],[121.56171382799123,24.902943824035837],[121.56171376381262,24.90294407887325],[121.56170297805335,24.90298650064913],[121.56143265565431,24.902926592184887],[121.56148083114387,24.90274653354902],[121.56158568244724,24.902768487340143],[121.56158616794956,24.902768589337054],[121.56165774489617,24.90256513710702],[121.56165774489617,24.90256513710702]]]]},\"properties\":{\"envelope\":{\"left\":\"121.56115021409546\",\"top\":\"24.902565137107018\",\"right\":\"121.56194457016318\",\"bottom\":\"24.903063981541639\"},\"landLot\":\"新北市新店區龜山段大粗坑小段17\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.56153156763801,24.902923785903358],[121.56158616794956,24.902768589337054],[121.56158568244724,24.902768487340143],[121.56148083114387,24.90274653354902],[121.56143265565431,24.902926592184887],[121.56170297805335,24.90298650064913],[121.56171376381262,24.90294407887325],[121.56171382799123,24.902943824035837],[121.56153156763801,24.902923785903358],[121.56153156763801,24.902923785903358]]]]},\"properties\":{\"envelope\":{\"left\":\"121.56143265565431\",\"top\":\"24.902746533549021\",\"right\":\"121.56171382799123\",\"bottom\":\"24.902986500649131\"},\"landLot\":\"新北市新店區龜山段大粗坑小段17-1\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": ""
+}

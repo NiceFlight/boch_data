@@ -1,0 +1,115 @@
+{
+    "id": 54,
+    "caseId": "19980504000007",
+    "count": 3212,
+    "shareCount": 2,
+    "representImage": 204511,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/5a23c65c-5535-418a-b8ef-d5445189ab05/代表圖像_臺灣總督府電話交換局_20221024_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/5a23c65c-5535-418a-b8ef-d5445189ab05/代表圖像_臺灣總督府電話交換局_20221024.jpeg",
+        "name": "代表圖像_臺灣總督府電話交換局_20221024"
+    },
+    "caseName": "臺灣總督府電話交換局",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "具歷史、文化、藝術價值",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "其他",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 109386,
+            "name": "_870504市定古蹟公告(2).tif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/6aee69d4-6638-49ff-b8dc-e775bbf5eb1c/_870504市定古蹟公告(2).tif"
+        },
+        {
+            "fileid": 109387,
+            "name": "3._870504市定古蹟公告(1).tif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/fe69fedf-ea18-43ed-b28f-0bc99c1129ea/3._870504市定古蹟公告(1).tif"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值"
+    ],
+    "registerReason": "具歷史、文化、藝術價值",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 109388,
+            "name": "無.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/c09b6505-feca-4d8e-97cf-cbd7882d1ff2/無.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "電信用地",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市城中段三小段15地號",
+    "buildingFeatures": "這座在一九三０年代屬於設備新穎，構造堅固的現代建築卻由臺籍人士林灶的協志營造廠承包，並且成功地完成全部工程，獲得各界人士之好評，為臺灣的建築工程立下一個受人尊敬的典範。",
+    "inHouseFeatures": "",
+    "buildingUsage": "原臺灣總督府電話交換局建造於一九三七年，與基隆港務局為同一批由日治時期總督府交通局遞信部臨時建築系所設計的近代建築。日據時期臺灣的重大公共建築多由日本營造廠承包工程，臺灣民間無法與其抗衡。\r\n原先有弧形陽臺，近來被拆除，並在頂樓添建一層。",
+    "buildingActualState": "辦公空間使用。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenDownload": false,
+    "longitude": 121.511122,
+    "latitude": 25.039598,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市城中段三小段15地號",
+    "selfCoverage": "168號建築本體",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 106446,
+            "caseId": 54,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "博愛路168號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "城中段三小段",
+            "id": 131401,
+            "caseId": 54,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 148,
+            "landSerialNo": "15",
+            "note": "無"
+        }
+    ],
+    "announces": [
+        {
+            "id": 114205,
+            "caseId": 54,
+            "caseStatus": true,
+            "registerDate": 894211200000,
+            "officialDocNo": "府民三字第8702427101",
+            "classificationId": 1,
+            "note": "無"
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.51028577002654,25.039570620963033],[121.51114703435036,25.03949263718445],[121.51109691298876,25.039038876579237],[121.51109385110033,25.03903653980405],[121.51023819896056,25.03911215666183],[121.51028577002654,25.039570620963033],[121.51028577002654,25.039570620963033]]]]},\"properties\":{\"xcenter\":121.51069162866423,\"ycenter\":25.039303090142212,\"query\":\"台北市中正區-地號15號\",\"content\":\"1. 個案名稱: 臺灣總督府電話交換局 <br />\\n      2. 地號: 台北市中正區-地號15號 <br />\\n      3. 級別: 直轄市定古蹟 <br />\\n      4. 種類: 其他設施 <br />\\n      5. 指定登錄理由: 具歷史、文化、藝術價值 <br />\\n      6. 最後一筆公告日期: 1998-05-04 <br />\\n      7. 最後一筆公告文號: 府民三字第8702427101 <br />\\n      8. 管理單位: 中華電信股份有限公司北區分公司 <br />\\n      9. 使用單位: 中華電信股份有限公司北區分公司 <br />\\n      10. 建物狀態: 現況良好 <br />\"}}],\"address\":[{\"address\":\"1. 個案名稱: 臺灣總督府電話交換局 <br />\\n      2. 地址: 博愛路168號 <br />\\n      3. 級別: 直轄市定古蹟 <br />\\n      4. 種類: 其他設施 <br />\\n      5. 指定登錄理由: 具歷史、文化、藝術價值 <br />\\n      6. 最後一筆公告日期: 1998-05-04 <br />\\n      7. 最後一筆公告文號: 府民三字第8702427101 <br />\\n      8. 管理單位: 中華電信股份有限公司北區分公司 <br />\\n      9. 使用單位: 中華電信股份有限公司北區分公司 <br />\\n      10. 建物狀態: 現況良好 <br />\",\"lat\":25.039598,\"lng\":121.511122}]}]",
+    "openVisitType": "",
+    "openUpTime": "電信總局使用",
+    "isCharge": false,
+    "pastHistorySource": ""
+}

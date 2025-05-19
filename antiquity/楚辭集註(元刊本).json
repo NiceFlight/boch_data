@@ -1,0 +1,85 @@
+{
+    "id": 3715,
+    "caseId": "20130610000062",
+    "count": 155,
+    "shareCount": 0,
+    "representImage": 6464,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32659/photo/c5a1970a-5fdd-42a8-a948-48df624928d8_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32659/photo/c5a1970a-5fdd-42a8-a948-48df624928d8.jpg",
+        "name": "c5a1970a-5fdd-42a8-a948-48df624928d8"
+    },
+    "caseName": "楚辭集註(元刊本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1370793600000,
+    "officialDocNo": "文資局物字第10220062581號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "元天曆庚午(三年即至順元年，1330) 陳忠甫宅刊本。\r\n朱子以後漢王逸《楚辭章句》及宋洪興祖《楚辭補注》二書，俱詳於訓詁而未得旨意，乃隱括舊篇，重為釐定而成此書，所撰跋中即云「每有味於其言，而不敢直以詞人之賦視之」。\r\n元版古籍，數量稀少，具重要歷史、文化與學術研究價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "reservationCode": "09308",
+    "keepNameId": 2,
+    "keepName": "",
+    "keepNameNew": 17,
+    "keepAddressNew": "臺北市中正區和平東路30-1號",
+    "amount": 8,
+    "notes": "",
+    "reserveStatusDesc": "宋朱熹撰\r\n八卷， 辯證二卷， 後語六卷。\r\n半葉11行，版匡20.2公分x12.4公分",
+    "reserveStatus": "完整良好 ",
+    "documents": [],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺北市中正區和平東路30-1號",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3857,
+            "caseId": 3715,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3857,
+            "caseId": 3715,
+            "caseStatus": true,
+            "registerDate": 1370793600000,
+            "officialDocNo": "文資局物字第10220062581號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

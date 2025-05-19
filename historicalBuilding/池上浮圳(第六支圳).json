@@ -1,0 +1,93 @@
+{
+    "id": 1858,
+    "caseId": "20041216000006",
+    "count": 2083,
+    "shareCount": 0,
+    "representImage": 125304,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-20/e5dd0b84-63d4-471c-a6cc-f4f3f7b1accd/歷建18-池上浮圳（池上圳第六支圳、盛土圳）-永保_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-20/e5dd0b84-63d4-471c-a6cc-f4f3f7b1accd/歷建18-池上浮圳（池上圳第六支圳、盛土圳）-永保.jpg",
+        "name": "歷建18-池上浮圳（池上圳第六支圳、盛土圳）-永保"
+    },
+    "caseName": "池上浮圳(第六支圳)",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "池上浮圳位於池上鄉錦園村錦新二號道路旁，興建於日治時期大正年間。池上平原農業墾民於大正10年（1921），以原有新開園圳為主，向臺灣總督府申請成立「新開園圳公共埤圳組合」。地方人士林福、王明經等人加入，向勸業銀行貨款進行舊圳補強、新設圳道等工程。其中新設「盛土圳」，俗稱浮圳。\n浮圳起點為今新興村，終點靠近錦園村，與池上大圳相連。由於圳道位於土提上，高過農田，是被稱浮圳的由來。浮圳原為土溝，日治末期改成砌石混凝土圳溝。民國52年（1963），臺東農田水利會改建圳道為RC造。浮圳全長1,195.5公尺，最寬處約10公尺，最高處近6公尺，目前浮圳中段建有木造休憩涼亭，配以兩邊池上平原廣闊稻田，已成觀光景點。\n",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "浮圳",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1103187573000,
+    "officialDocNo": "府文資字第 0933040021  號",
+    "documents": [
+        {
+            "fileid": 114903,
+            "name": "18臺東縣歷史建築公告文-池上浮圳（池上圳第六支圳、盛土圳）.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-28/d1158d0d-e0a4-4d9d-bf02-73766f62626e/18臺東縣歷史建築公告文-池上浮圳（池上圳第六支圳、盛土圳）.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "自日據時期以來，浮圳為溝通現今市區附近農田與新開園之間的主要圳道之一，導入新武呂溪的溪水灌溉新開園地區，故存在著一定的歷史價值與實用功能。",
+    "lawsReference": "1.文化資產保存法第27條之一規定\n2.歷史建築登錄及輔助辦法\n3.臺東縣93年12月13日歷史建築登錄審查會議決議辦理\n",
+    "govInstitutionCode": "950",
+    "govInstitutionName": "臺東縣政府",
+    "belongCityId": 22,
+    "belongCityName": "臺東縣",
+    "belongDistName": "池上鄉",
+    "govInstitution": "臺東縣政府",
+    "govDeptName": "文化處文化資產科",
+    "govDeptPhone": "089-350129",
+    "govDeptAddress": "臺東市南京路25號",
+    "cadasters": [],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "資料尚未填寫",
+    "buildingFeatures": "圳道位於土提上，高過農田，最高處近6公尺。",
+    "inHouseFeatures": "無",
+    "buildingUsage": "",
+    "buildingActualState": "保存良好",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "錦新二號道路旁",
+    "isOpenVisit": true,
+    "openUpTime": "全年",
+    "isCharge": false,
+    "isOpenDownload": true,
+    "longitude": 121.21176842708807,
+    "latitude": 23.10325398400419,
+    "representImageSource": "109-110年度臺東縣文化資產個案資料同步更新維護計畫",
+    "landScope": "池上鄉大池段1108地號",
+    "selfCoverage": "池上鄉大池段1108地號",
+    "addresses": [
+        {
+            "cityName": "臺東縣",
+            "distName": "池上鄉",
+            "id": 136972,
+            "caseId": 1858,
+            "caseStatus": true,
+            "cityId": 22,
+            "distId": 2209,
+            "address": "臺東縣池上鄉錦新二號道路旁"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 149657,
+            "caseId": 1858,
+            "caseStatus": true,
+            "registerDate": 1103187573000,
+            "officialDocNo": "府文資字第 0933040021  號",
+            "classificationId": 1
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "109至110年文化資產資料數位整合計畫"
+}

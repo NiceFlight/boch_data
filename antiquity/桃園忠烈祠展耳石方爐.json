@@ -1,0 +1,94 @@
+{
+    "id": 22873,
+    "caseId": "20240626000003",
+    "count": 140,
+    "shareCount": 0,
+    "representImage": 259011,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-06-25/212c68b9-c16f-44e2-96de-41912815e099/展耳石方爐07_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-06-25/212c68b9-c16f-44e2-96de-41912815e099/展耳石方爐07.jpg",
+        "name": "展耳石方爐07"
+    },
+    "caseName": "桃園忠烈祠展耳石方爐",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派"
+    ],
+    "registerReason": "1. 具有地方重要人物或歷史事件之深厚淵源者：本香爐為民國35年（1946）6月17日新竹縣忠烈祠奉安典禮時安置，為桃園神社改制忠烈祠之具體物證。\n2. 能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色：見證臺灣脫離日本統治之歷史朝代更迭，反應改為忠烈祠之政治社會變遷意義。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第2、3款",
+    "govInstitutionCode": "330",
+    "govInstitutionName": "桃園市政府",
+    "govInstitution": "桃園市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-3322592分機8603",
+    "govDeptAddress": "桃園市桃園區縣府路21號",
+    "reservationCode": "尚無",
+    "amount": 1,
+    "descAge": "民國35年（1946）",
+    "descSize": "面寬92 cm / 側寬22 cm /高46 cm",
+    "descMaterial": "石質（青斗石）",
+    "reserveStatusDesc": "本方爐並無人名落款，正面篆體銘文「浩氣長存」據悉為時任新竹縣長劉啟光所題書，緬懷祠內供奉的抗日烈士。方爐背面陰刻之民國35年（1946）6月17日為忠烈祠落成奉安典禮舉行之日，此日為日本總督樺山資紀1895年宣布在臺始政之「始政紀念日」，當時主導桃園神社改建忠烈祠的新竹縣政府與臺灣革命先烈遺族救援委員會，特別選定6月17日奉安，藉此彰顯臺灣脫離日本殖民統治的時代背景，因此，本香爐足以反映政權及建築場域功能之轉換歷史。兩側爐耳朝上外撇，方爐表面大抵平整無飾，爐內側可見雕鑿加工痕跡，下方四根方形爐足有簡約紋飾，爐足雕刻為清末時期（約為1890年代）形制，爐體磨損風化程度較銘文嚴重。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 2,
+    "reserveStatus": "狀況穩定",
+    "documents": [
+        {
+            "fileid": 259010,
+            "name": "府文資字第1130129237號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-06-25/0184154c-ba28-4f8c-a74e-69b46d057a39/府文資字第1130129237號公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "莊○傑、劉○甫",
+    "keepNames": [
+        {
+            "keepNameIdStr": "桃園市政府孔廟忠烈祠聯合管理所",
+            "keepName": "桃園市政府孔廟忠烈祠聯合管理所",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "桃園市政府孔廟忠烈祠聯合管理所",
+            "keepAddressNew": "桃園市桃園區公園路42號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "桃園市",
+            "keepNameDistName": "桃園區",
+            "keepNameAddress": "公園路42號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "桃園市",
+            "distName": "桃園區",
+            "id": 131329,
+            "caseId": 22873,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 507,
+            "address": "成功路三段200號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 143149,
+            "caseId": 22873,
+            "caseStatus": true,
+            "registerDate": 1716343370903,
+            "officialDocNo": "府文資字第11301292371號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

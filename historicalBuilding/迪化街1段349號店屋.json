@@ -1,0 +1,136 @@
+{
+    "id": 20233,
+    "caseId": "20211125000001",
+    "count": 1946,
+    "shareCount": 0,
+    "representImage": 170784,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/b3a8cbd1-aced-4f6f-8107-25c2c34dc7dd/代表圖像_迪化街一段349號店屋_20220623_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/b3a8cbd1-aced-4f6f-8107-25c2c34dc7dd/代表圖像_迪化街一段349號店屋_20220623.jpeg",
+        "name": "代表圖像_迪化街一段349號店屋_20220623"
+    },
+    "caseName": "迪化街1段349號店屋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本案基地位置及建物本身位於大稻埕北街 臨大橋頭捷運站步行入迪化街之重要節點，都市景觀之營造極為重要。 而本案希望透過歷史建築的修繕與保存，加強迪化街北側入口的歷史街區意象與視覺連續性，以及增設公共設備及街道設施減少街區治安死角，並整併北側 畸零地 拆除現有地上物依歷史 街區之傳統建築語彙及老照片考證重新規劃營造北街入口意象，為都市景觀及社區鄰里安全提供公益性價值 。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 146150,
+            "name": "110.10.28_公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/ae09c5ae-5787-4bf1-9630-76d780649365/110.10.28_公告.pdf"
+        },
+        {
+            "fileid": 152603,
+            "name": "110.11.18_公告勘誤表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-02-16/d03ec6ca-e5d0-4330-83f1-2dfd44681433/110.11.18_公告勘誤表.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1、\t建物位於大稻埕北街，為迪化街北街之重要節點，具都市景觀風貌保存之意義。\n2、\t本建物約於1906年市區改正後改建完成，為一坎一落一過水，正立面為四柱三窗型式。\n3、\t建物立面已改建，內部多保有原貌，包括唭哩岸共同壁、樓板、門窗及木作隔間，具保存價值。\n4、\t符合歷史建築紀念建築登錄廢止審查及輔助辦法第2條第1項第3款登錄基準。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 146152,
+            "name": "地籍地形圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/a6f2899c-8d93-4df6-a39f-e2d64f71b9b2/地籍地形圖.pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "longitude": 121.50933592321827,
+    "latitude": 25.062983202579368,
+    "representImageSource": "臺北市文化局",
+    "landScope": "大同區延平段二小段127(19平方公尺)、128(134平方公尺)、128-1(13平方公尺)地號等3筆土地。(實際保存面積須以保存範圍實測數據為準)",
+    "selfCoverage": "大同區延平段二小段365建號(建物總面積143.78平方公尺)（實際保存面積須以保存範圍實測數據為準）",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 83652,
+            "caseId": 20233,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "迪化街1段349號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段二小段",
+            "id": 94387,
+            "caseId": 20233,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 188,
+            "landSerialNo": "127",
+            "landownership": 2,
+            "area": "19平方公尺"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段二小段",
+            "id": 94388,
+            "caseId": 20233,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 188,
+            "landSerialNo": "128",
+            "landownership": 2,
+            "area": "134平方公尺"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段二小段",
+            "id": 94389,
+            "caseId": 20233,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 188,
+            "landSerialNo": "128-1",
+            "landownership": 2,
+            "area": "13平方公尺"
+        }
+    ],
+    "announces": [
+        {
+            "id": 89831,
+            "caseId": 20233,
+            "caseStatus": true,
+            "registerDate": 1635350400000,
+            "officialDocNo": "北市文化文資字第1103043201號",
+            "classificationId": 1,
+            "note": "公告"
+        },
+        {
+            "id": 89832,
+            "caseId": 20233,
+            "caseStatus": true,
+            "registerDate": 1637164800000,
+            "officialDocNo": "北市文化文資字第1103042103號",
+            "classificationId": 2,
+            "note": "公告勘誤"
+        }
+    ],
+    "openVisitType": ""
+}

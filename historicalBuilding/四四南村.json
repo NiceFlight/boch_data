@@ -1,0 +1,130 @@
+{
+    "id": 1071,
+    "caseId": "20031223000001",
+    "count": 7998,
+    "shareCount": 13,
+    "representImage": 200725,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/464706b7-4437-4d7f-9f71-68fe1b1fe794/代表圖像_四四南村_20220613_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/464706b7-4437-4d7f-9f71-68fe1b1fe794/代表圖像_四四南村_20220613.jpeg",
+        "name": "代表圖像_四四南村_20220613"
+    },
+    "caseName": "四四南村",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "建於1948年，由當時後勤部隊自行建造供員工眷屬居住。四四南村配置為規律整齊的空間形式，採用列狀魚骨的配置架構，早期共分為3大建築群，分別為甲、乙、丙字號，且均為1層樓斜屋頂的連棟式住宅建築型態，每戶約3坪。四四南村保留眷村文化的歷史特質，見證臺灣戰後的社會發展。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 139584,
+            "name": "3._921223登錄歷史建築公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/d0745db3-4518-477a-b321-eb0aed64479b/3._921223登錄歷史建築公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "具有保存價值",
+    "lawsReference": "文化資產保存法第27條之1及臺北市古蹟指定暨歷史建築登錄作業要點規定辦理。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 140170,
+            "name": "位置圖與地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/b5b73f30-1ba5-4ad2-86dc-2313c6d806d6/位置圖與地籍圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "公園用地",
+    "locationLandNo": "信義區信義段5 小段40 之1 及40 地號部分",
+    "buildingFeatures": "「四四南村」為規律整齊空間形式，採用列狀「魚骨」的配置架構，便於集體生活與管理。村內狹小巷道、洗衣溝渠、公共廁所等空間，塑造出緊密的鄰里關係；另有反映反共抗俄時期防禦所需的碉堡及防空洞。早期的「四四南村」共分成三大建築群，分別是甲、乙、丙字號且全部為一層樓斜屋頂的連棟式住宅之建築型態，每戶約三坪大，目前保留之四連棟屬乙字號建築群。",
+    "inHouseFeatures": "",
+    "buildingUsage": "目前為信義區公民會館及文化公園。",
+    "buildingActualState": "四四南村保留眷村文化的歷史特質，見證臺'灣戰後的社會發展；目前為信義區公民會館及文化公園。",
+    "buildingKeyMaintainItem": "保持建物四周環境清潔、良好通風與排水，以防蟲害及潮氣侵蝕。",
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.5618718,
+    "latitude": 25.0319706,
+    "representImageSource": "臺北市文化局",
+    "landScope": "信義區信義段5小段40之1及40地號部分",
+    "selfCoverage": "2250平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "信義區",
+            "id": 105832,
+            "caseId": 1071,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 107,
+            "address": "松勤街50號(松勤街與莊敬路交會區域內)"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "信義區",
+            "landNoName": "信義段五小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 130087,
+            "caseId": 1071,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 107,
+            "landNoId": 490,
+            "landSerialNo": "40-1",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "cityLandUseTypeOther": "公園用地",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "信義區",
+            "landNoName": "信義段五小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 130088,
+            "caseId": 1071,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 107,
+            "landNoId": 490,
+            "landSerialNo": "40",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "cityLandUseTypeOther": "學校用地",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 113439,
+            "caseId": 1071,
+            "caseStatus": true,
+            "registerDate": 1072108800000,
+            "officialDocNo": "府文化二字第09200525400號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "口述歷史"
+}

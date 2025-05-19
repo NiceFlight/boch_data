@@ -1,0 +1,100 @@
+{
+    "id": 4534,
+    "caseId": "20170523000013",
+    "count": 340,
+    "shareCount": 1,
+    "representImage": 172183,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-07-06/46bf0215-e396-45d5-8df1-c5392c2c2d06/B2A000142N000000000PAA_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-07-06/46bf0215-e396-45d5-8df1-c5392c2c2d06/B2A000142N000000000PAA.jpg",
+        "name": "B2A000142N000000000PAA"
+    },
+    "caseName": "西藏十三世紀達壟寺堪布札希貝唐卡",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1495468800000,
+    "officialDocNo": "中華民國106年5月23日文授資局物字第1063005353號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就"
+    ],
+    "registerReason": "達壟寺（或稱達隆寺）位於拉薩北方六十五公里處，由達隆塘巴．扎西華（Taklung Thangpa Tashi Pal, 1142-1210）創於1180年，弘傳噶舉派教法。本幅為首任堪布（住持）扎西華（或譯稱扎希貝）之畫像。\r\n畫中高僧身著西藏僧服正面向前，如同說法，金剛寶座有豐富細節。畫面舊損傷頗多，曾經多次修復，畫幅背面有藏文題識，推測成畫年代約在十三世紀後期。畫面構圖是以歷代上師高坐頂欄、菩薩護法居下，反映藏傳佛教對寺譜傳承與上師的重視。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條1項第3、4款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "購畫000142",
+    "amount": 1,
+    "descAge": "十三世紀",
+    "descSize": "58公分×45公分",
+    "descMaterial": "布",
+    "reserveStatusDesc": "達壟寺（或稱達隆寺）位於拉薩北方六十五公里處，由達隆塘巴．扎西華（Taklung Thangpa Tashi Pal, 1142-1210）創於1180年，弘傳噶舉派教法。本幅為首任堪布（住持）扎西華（或譯稱扎希貝）之畫像。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "良好。",
+    "documents": [
+        {
+            "fileid": 148293,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-21/d991590d-7921-4b3a-a24f-49d30340c437/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 84134,
+            "caseId": 4534,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 90376,
+            "caseId": 4534,
+            "caseStatus": true,
+            "registerDate": 1495468800000,
+            "officialDocNo": "中華民國106年5月23日文授資局物字第1063005353號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,109 @@
+{
+    "id": 621,
+    "caseId": "20030513000021",
+    "count": 2736,
+    "shareCount": 1,
+    "representImage": 1221,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/37872/photo/cf3a5002-7f09-4a5b-a078-124e4539826f_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/37872/photo/cf3a5002-7f09-4a5b-a078-124e4539826f.jpg",
+        "name": "cf3a5002-7f09-4a5b-a078-124e4539826f"
+    },
+    "caseName": "原安平港導流堤南堤",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "堤閘",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "registerDate": 1052789573000,
+    "officialDocNo": "南市文維第09218505290號",
+    "documents": [
+        {
+            "fileid": 158638,
+            "name": "原安平港導流堤南堤公告92.5.13.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-08/f02bcabb-a610-4290-b882-efa6a9346036/原安平港導流堤南堤公告92.5.13.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值"
+    ],
+    "registerReason": "待修復或再利用計畫完成後填列",
+    "lawsReference": "依據文化資產保存法第27條暨本府91年度第5次「臺南市古蹟暨歷史建築審查委員會」審查會議決議",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "安平區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569 ",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 158182,
+            "name": "原安平港導流堤南堤地籍圖92.05.13.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-04-07/0c704c4b-d192-46c0-ac5b-3003ab5acd2b/原安平港導流堤南堤地籍圖92.05.13.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "無地號(臺南市漁光里海濱)",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "wenSitename": "臺南旅遊網",
+    "wenSiteaddress": "https://www.twtainan.net/zh-tw/attractions/detail/731",
+    "belongAddress": "舊安平港海邊",
+    "isOpenDownload": false,
+    "longitude": 120.149380144184,
+    "latitude": 22.986471988886,
+    "representImageSource": "臺南市政府",
+    "landScope": "因位於海面上，無地號",
+    "selfCoverage": "原結構體乙處",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "安平區",
+            "id": 81546,
+            "caseId": 621,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1606,
+            "address": "漁光里海濱"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 87595,
+            "caseId": 621,
+            "caseStatus": true,
+            "registerDate": 1052789573000,
+            "officialDocNo": "南市文維第09218505290號",
+            "classificationId": 1
+        },
+        {
+            "id": 87596,
+            "caseId": 621,
+            "caseStatus": true,
+            "registerDate": 1308844800000,
+            "officialDocNo": "府文資處字第1000393784號",
+            "classificationId": 2,
+            "note": "直轄市升格"
+        }
+    ],
+    "openVisitType": "完全開放參觀",
+    "openUpTime": "全日開放",
+    "isCharge": false,
+    "pastHistorySource": ""
+}

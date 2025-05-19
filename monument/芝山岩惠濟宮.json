@@ -1,0 +1,131 @@
+{
+    "id": 153,
+    "caseId": "19850819000021",
+    "count": 4045,
+    "shareCount": 6,
+    "representImage": 185414,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/e059a2af-1917-4e2b-90e9-713570a719a6/代表圖像_芝山岩惠濟宮_20220804_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/e059a2af-1917-4e2b-90e9-713570a719a6/代表圖像_芝山岩惠濟宮_20220804.jpg",
+        "name": "代表圖像_芝山岩惠濟宮_20220804"
+    },
+    "caseName": "芝山岩惠濟宮",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "芝山岩惠濟宮，位於士林區至誠路一段326巷26號，奉祀開漳聖王陳元光。廟始建於清乾隆十七年〈西元一七五二年〉，於二十九年〈一七六四年〉竣工。其後經歷嘉慶十六年〈西元一八一一年〉、道光五年〈一八二五年〉、同治十年〈西元一八七一年〉、光緒十六年〈西元一八九０年〉、民國六年等前後五次重建。今廟為民國五十七年重建，多為水泥構造，只嵌入局部舊有石雕。\r\n前殿主祀開漳聖王，後殿樓下配祀觀音菩隆，樓下祀文昌帝君。道光年間鄉紳潘定民所設「文昌祠義學」即淵源於此。日據之初，設日語學校於此，鄉人仇之。光緒二十一年〈西元一八九五年〉十一月十日臺北城之役，抗日義軍直搗芝山，盡殲其宮旁之芝山懷古亭，立有「惠濟宮碑誌」，另有「芝山合約碑」。附近尚有芝山岩隘門、同歸所等，留有淡北開闢初期遺蹟。",
+    "assetsTypeNames": "寺廟",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 137249,
+            "name": "_740829台閩地區古蹟指定函(2).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/8c6ab515-43e3-4e83-a8b1-cbced1cc61e8/_740829台閩地區古蹟指定函(2).pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "具其他古蹟價值者"
+    ],
+    "registerReason": "具有保存價值",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 137250,
+            "name": "B029 台北市 芝山岩惠濟宮57.JPG",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/e142f68c-703b-40c8-9679-e41befd63709/B029 台北市 芝山岩惠濟宮57.JPG"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "士林區芝山段三小段200、201地號共計二筆",
+    "buildingFeatures": "惠濟宮經多次改建後，除正殿尚保持傳統之木架構外，餘所展現之形制及營建方式，充分表現出當時社會之現代化心態及審美觀，迥異於傳統營建規制與程序，見證了當時的潮流及趨勢。\r\n三開間的前殿用硬山燕尾屋頂，中門立蟠龍柱一對，兩側有新建兩層的鐘、鼓樓各一座。而正殿係為抬樑式架構，其屋頂亦為硬山屋頂，但造型多已現代化。",
+    "inHouseFeatures": "",
+    "buildingUsage": "前殿主祀開漳聖王，後殿樓下配祀觀音菩隆，樓下祀文昌帝君。",
+    "buildingActualState": "今廟為民國五十七年重建為鋼筋混凝土構造，只嵌入局部舊有石雕。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenDownload": false,
+    "longitude": 121.5307227,
+    "latitude": 25.1029989,
+    "representImageSource": "臺北市文化局",
+    "landScope": "士林區芝山段三小段200、201地號共計二筆",
+    "selfCoverage": "本體",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 92641,
+            "caseId": 153,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至誠路1段326巷26號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "芝山段三小段",
+            "cityLandUseTypeName": "保存區",
+            "id": 113184,
+            "caseId": 153,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 526,
+            "landSerialNo": "200",
+            "landownership": 2,
+            "cityLandUseTypeId": 7,
+            "coverageId": 2,
+            "area": "1979",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "芝山段三小段",
+            "id": 113185,
+            "caseId": 153,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 526,
+            "landSerialNo": "201",
+            "landownership": 2,
+            "coverageId": 2,
+            "area": "2522",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 99935,
+            "caseId": 153,
+            "caseStatus": true,
+            "registerDate": 493228800000,
+            "officialDocNo": "七四台內民字第三三八0九五號",
+            "classificationId": 1,
+            "note": "無"
+        }
+    ],
+    "openVisitType": "",
+    "openUpTime": "",
+    "isCharge": false,
+    "pastHistorySource": ""
+}

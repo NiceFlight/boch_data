@@ -1,0 +1,101 @@
+{
+    "id": 17393,
+    "caseId": "20200424000002",
+    "count": 396,
+    "shareCount": 0,
+    "representImage": 68431,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-04-24/252d86f6-0d6a-47f2-b303-d8497722df0e/27-IMG_0740_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-04-24/252d86f6-0d6a-47f2-b303-d8497722df0e/27-IMG_0740.jpg",
+        "name": "27-IMG_0740"
+    },
+    "caseName": "澎湖天后宮－磨石子玻璃彩繪薦臺",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1583197862419,
+    "officialDocNo": "中華民國109年3月3日府授文博字第1093700626號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就",
+        "數量稀少者"
+    ],
+    "registerReason": "1、能反映政治、經濟、社會、人文、科學等歷史變遷或時代特色者：磨石子工藝的起源地為義大利，日本明治維新時，將此技術帶回日本。甲午戰爭後，日本又將此項技術再傳至臺灣。磨石子做為儀禮器物的材質並不多見。\n2、具有藝術造詣或科學成就：本作製作精細、工法嚴謹。薦盒為祭祀時，敬奉茶水、酒等的儀禮器物，本作為傳統形制-翹頭案式，而正面開光嵌玻璃、繪有花鳥，將傳統合於現代，具有設計的巧思。\n3、數量稀少者：為目前臺灣極少見有落款的磨石子薦盒，其墨書題款「庚午年冬月旦」，亦使得本作為磨石子供器的工藝史提供依據。\n",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第3、4、5款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00646-P-106-0027",
+    "amount": 1,
+    "descAge": "庚午年冬月旦(1930)",
+    "descSize": "寬37/高22/深18(公分)",
+    "descMaterial": "磨石子",
+    "reserveStatusDesc": "翹頭造型之磨石子薦臺，平頂分三格，二端書卷形翹頭，臺身正反二面有長方形開光，正面開光嵌玻璃，繪有花鳥圖，墨書題款上款「庚午年冬月旦」，下款「馬公弟子許群叩」，背無紋；身左右側有捲草紋飾板，座頂有簷，下四足，足間飾牙子。 ",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "時間:庚午年冬月旦；捐贈者:馬公弟子許群。",
+    "saveEnvironment": 2,
+    "reserveStatus": "清風閣一樓供桌上",
+    "documents": [
+        {
+            "fileid": 68430,
+            "name": "澎湖天后宮－磨石子玻璃彩繪薦臺公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-04-24/ca38526e-e480-426e-9e12-865473e8040c/澎湖天后宮－磨石子玻璃彩繪薦臺公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.564038,
+    "latitude": 23.564693,
+    "representImageSource": "澎湖縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "澎湖天后宮",
+            "keepName": "蔡光明",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "澎湖天后宮",
+            "keepAddressNew": "澎湖縣馬公市中央里正義街1號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 127614,
+            "caseId": 17393,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "中央里正義街1號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 138527,
+            "caseId": 17393,
+            "caseStatus": true,
+            "registerDate": 1583197862419,
+            "officialDocNo": "府授文博字第1093700626號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

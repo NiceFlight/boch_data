@@ -1,0 +1,128 @@
+{
+    "id": 2594,
+    "caseId": "20120130000001",
+    "count": 693,
+    "shareCount": 1,
+    "representImage": 169091,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-06-23/4d9846c6-b06c-494b-9ee3-f33f2d53909d/大溪傳統木工藝_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-06-23/4d9846c6-b06c-494b-9ee3-f33f2d53909d/大溪傳統木工藝.jpg",
+        "name": "大溪傳統木工藝"
+    },
+    "caseName": "大溪傳統木工藝",
+    "classifyCode": "4.2",
+    "classifyName": "傳統工藝",
+    "assetsTypeNames": "木作",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "4.2.1",
+    "assetsClassifyName": "傳統工藝",
+    "registerDate": 1327916471000,
+    "officialDocNo": "府文視字第1011060070號",
+    "documents": [
+        {
+            "fileid": 157468,
+            "name": "府文視字第1011060070號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-03-31/43306fce-f9b4-425e-b711-cc9158125aa0/府文視字第1011060070號.pdf"
+        },
+        {
+            "fileid": 157469,
+            "name": "府文資字第10800604911號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-03-31/c77ffcbf-b7a0-47c6-9d02-af94fd432bdf/府文資字第10800604911號.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "藝術性:具有藝術價值者",
+        "特殊性:構成傳統藝術之特殊藝能表現,其技法優秀者",
+        "地方性:傳統藝術領域有價值與地位,並具有地方色彩或流派特色顯著者"
+    ],
+    "registerReason": "一、游禮海先生為大溪區木雕工藝指標性人物，其作品具備極高層次的傳統藝術價值，造型優雅、比例完美、雕刻細緻，與大溪地區傳統家具密切連結，值得登錄為桃園縣大溪傳統木工藝之保存摺，鼓勵並輔導其致力於傳承及保存工作。\r\n二、陳力維先生在傳統木雕工藝的技藝精湛，且活用於日常生活用品設計之中，具有新意，很難得的年輕一代傳人，值得登錄為桃園縣大溪傳統木工藝保存者，鼓勵並輔導其致力於傳承及保存工作。",
+    "lawsReference": "符合傳統藝術民俗及有關文物登錄指定及廢止審查辦法第二條登錄基準。",
+    "govInstitutionCode": "330",
+    "govInstitutionName": "桃園市政府",
+    "belongCityId": 5,
+    "belongCityName": "桃園市",
+    "govInstitution": "桃園市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-3322592分機8618",
+    "govDeptAddress": "桃園市桃園區縣府路21號",
+    "belongAddress": "",
+    "historyDevelopment": "無",
+    "preservers": [
+        {
+            "id": 20536,
+            "type": "個人",
+            "caseName": "陳力維",
+            "cityName": "桃園市",
+            "distName": "大溪區",
+            "caseArtistEntities": [],
+            "representImage": 157472,
+            "registrationDate": 1281456000000,
+            "judgeCriteria": [
+                "熟知並能正確體現該登錄項目之知識、技藝與文化表現形式",
+                "具該登錄項目之傳習能力與意願",
+                "在文化脈絡下為適當者"
+            ],
+            "registerReason": "陳力維先生在傳統木雕工藝的技藝精湛，且活用於日常生活用品設計之中，具有新意，很難得的年輕一代傳人，值得登錄為桃園縣大溪傳統木工藝保存者，鼓勵並輔導其致力於傳承及保存工作。",
+            "lawsReference": "<<傳統工藝登錄認定及廢止審查辦法>>第4條第1、2、3款",
+            "isOpenDownload": false,
+            "representImageSource": "桃園市政府文化局",
+            "contactorIsOpen": false
+        },
+        {
+            "id": 20535,
+            "type": "個人",
+            "caseName": "游禮海",
+            "cityName": "桃園市",
+            "distName": "大溪區",
+            "caseArtistEntities": [],
+            "representImage": 157470,
+            "registrationDate": 1281456000000,
+            "judgeCriteria": [
+                "熟知並能正確體現該登錄項目之知識、技藝與文化表現形式",
+                "具該登錄項目之傳習能力與意願",
+                "在文化脈絡下為適當者"
+            ],
+            "registerReason": "游禮海先生為大溪區木雕工藝指標性人物，其作品具備極高層次的傳統藝術價值，造型優雅、比例完美、雕刻細緻，與大溪地區傳統家具密切連結，值得登錄為桃園縣大溪傳統木工藝之保存摺，鼓勵並輔導其致力於傳承及保存工作。",
+            "lawsReference": "<<傳統工藝登錄認定及廢止審查辦法>>第4條第1、2、3款",
+            "isOpenDownload": false,
+            "representImageSource": "桃園市政府文化局",
+            "contactorIsOpen": false
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "桃園市政府文化局",
+    "addresses": [
+        {
+            "cityName": "桃園市",
+            "distName": "大溪區",
+            "id": 82731,
+            "caseId": 2594,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 510,
+            "address": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 88869,
+            "caseId": 2594,
+            "caseStatus": true,
+            "registerDate": 1327916471000,
+            "officialDocNo": "府文視字第1011060070號",
+            "classificationId": 1
+        },
+        {
+            "id": 88870,
+            "caseId": 2594,
+            "caseStatus": true,
+            "registerDate": 1553443200000,
+            "officialDocNo": "府文資字第10800604911號",
+            "classificationId": 1,
+            "note": "轉換類別重新登錄"
+        }
+    ]
+}

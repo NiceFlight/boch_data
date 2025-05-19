@@ -1,0 +1,106 @@
+{
+    "id": 3634,
+    "caseId": "20130813000089",
+    "count": 55,
+    "shareCount": 0,
+    "representImage": 6368,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7347/photo/集沙門不應拜俗等事(金刊本)_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7347/photo/集沙門不應拜俗等事(金刊本).png",
+        "name": "集沙門不應拜俗等事(金刊本)"
+    },
+    "caseName": "集沙門不應拜俗等事(金刊本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1376323200000,
+    "officialDocNo": "文資局物字第 10220091271號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "金皇統至大定間(1141-1189)解州天寧寺刊大藏經卷子本。\n凡六卷，又稱《沙門不敬俗錄》、《集沙門不拜俗議》、《沙門不應拜俗事》、《不拜俗儀等事》。為有關僧尼是否禮拜君親之討論集，集錄關於沙門應否拜俗之奏、詔、敕、啟等，總分作三篇：故事篇、聖朝議不拜篇、聖朝議拜篇。此本僅存卷三、卷六兩卷，卷首各有一弘法圖，題字「趙城縣廣勝寺」。金代解州天寧寺私刻大藏經，稱為《金藏》又稱《趙城金藏》，開雕於金熙宗皇統九年(1149)，完成於金世宗大定十三年(1173)。\n金版佛經，存世極為稀少，此本頁面完整，珍貴稀有，具特殊歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第4條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號09019",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 2,
+    "notes": "",
+    "descAge": "金皇統至大定間(1141-1189)",
+    "descCreator": "唐釋彥悰編",
+    "descSize": "每紙23行，全幅22.2x48公分",
+    "descMaterial": "紙質；捲軸裝",
+    "reserveStatusDesc": "存二卷(卷三、卷六)；刊本。\n凡六卷，又稱《沙門不敬俗錄》、《集沙門不拜俗議》、《沙門不應拜俗事》、《不拜俗儀等事》。為有關僧尼是否禮拜君親之討論集，集錄關於沙門應否拜俗之奏、詔、敕、啟等，總分作三篇：故事篇、聖朝議不拜篇、聖朝議拜篇。此本僅存卷三、卷六兩卷，卷首各有一弘法圖，題字「趙城縣廣勝寺」。金代解州天寧寺私刻大藏經，稱為《金藏》又稱《趙城金藏》，開雕於金熙宗皇統九年(1149)，完成於金世宗大定十三年(1173)。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "所存卷三卷端有輕微漫漶斷版情形，全捲無虫蛀。未經修裱，書況尚稱良好。\n",
+    "documents": [
+        {
+            "fileid": 6369,
+            "name": "127a0376-71f1-4efc-8a90-1b31ce0feb48.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44222/file/127a0376-71f1-4efc-8a90-1b31ce0feb48.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3776,
+            "caseId": 3634,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3776,
+            "caseId": 3634,
+            "caseStatus": true,
+            "registerDate": 1376323200000,
+            "officialDocNo": "文資局物字第 10220091271號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

@@ -1,0 +1,106 @@
+{
+    "id": 16940,
+    "caseId": "20190730000006",
+    "count": 117,
+    "shareCount": 0,
+    "representImage": 153819,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-03-03/0712f465-0c00-4e9b-9758-62f6aa8d8a1f/K1B009826N000000000PAE_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-03-03/0712f465-0c00-4e9b-9758-62f6aa8d8a1f/K1B009826N000000000PAE.jpg",
+        "name": "K1B009826N000000000PAE"
+    },
+    "caseName": "定窯白瓷劃花牡丹紋碟（故瓷009826）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1564131156725,
+    "officialDocNo": "文授資局物字第10830078621號",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "數量特別稀少或具完整性保存意義者",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此器侈口，淺壁，平底，淺圈足。內底心劃牡丹花一株，通體施牙白色釉，局部泛黃。口沿加鈐銅釦。外底鐫刻〈詠定窯盤子〉御製詩，詩末署「乾隆癸巳孟春御題」（1773），並落「會心不遠」、「德充符」兩枚鈐印。\n「德充符」一詞出自《莊子》，象徵充實內在道德並且將之表現於外，使裏外一致能相互驗證。從器的鈐印可推想乾隆皇帝陶瓷鑑賞觀，益顯珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故瓷009826",
+    "amount": 1,
+    "descAge": "北宋",
+    "descSize": "高2.4公分、口徑13.3公分、底徑9.6公分 ",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "侈口，淺壁，平底，淺圈足。內底心劃牡丹花一株，通體施牙白色釉，局部泛黃。口沿加鈐銅釦。外底鐫刻〈詠定窯盤子〉詩，詩末署「乾隆癸巳孟春御題」（乾隆三十八年：1773），並落「會心不遠」、「德充符」兩枚鈐印。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "口緣原傷缺。",
+    "documents": [
+        {
+            "fileid": 145787,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-22/e0f93072-9ea5-4eb1-838d-2563172b189c/公告.pdf"
+        },
+        {
+            "fileid": 145788,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-22/f09948f7-385e-4649-bbb3-a87d850374dc/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 72925,
+            "caseId": 16940,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 77804,
+            "caseId": 16940,
+            "caseStatus": true,
+            "registerDate": 1564131156725,
+            "officialDocNo": "文授資局物字第10830078621號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

@@ -1,0 +1,119 @@
+{
+    "id": 16473,
+    "caseId": "20190107000006",
+    "count": 3460,
+    "shareCount": 3,
+    "representImage": 164822,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-05-23/ac7aa99a-7b21-441e-891b-bc98438b982b/歷064原新營糖廠員工餐廳_P001_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-05-23/ac7aa99a-7b21-441e-891b-bc98438b982b/歷064原新營糖廠員工餐廳_P001.jpg",
+        "name": "歷064原新營糖廠員工餐廳_P001"
+    },
+    "caseName": "原新營糖廠員工餐廳",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "產業",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1545983058013,
+    "officialDocNo": "府文資處字第1071388380A號",
+    "documents": [
+        {
+            "fileid": 164813,
+            "name": "原新營糖廠員工餐廳公告-107.12.28.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-23/33043799-2380-4f18-8720-3a81a41d0006/原新營糖廠員工餐廳公告-107.12.28.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "具地區性建造物類型之特色者：該建物雖歷經多次整修，仍保有其部份原貌，如灰泥壁、木製天花板、重槌式窗戶等，外觀雖無明顯裝飾，但其柱子運用簡單的收分線角，巧妙將西式廊柱語彙融合其中，頗具特色，在一定程度上也反映戰後初期的建築風格。過去曾作為新營廠區之員工福利餐廳使用，與歷史建築「台糖新營糖廠宿舍群」同為糖廠員工生活之重要空間，承載廠區員工的生活記憶。\n",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第3款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "新營區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 165411,
+            "name": "原新營糖廠員工餐廳地籍(1).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-05-25/38f073d8-d8bb-4c5c-b5b2-e31a585be102/原新營糖廠員工餐廳地籍(1).pdf"
+        },
+        {
+            "fileid": 165412,
+            "name": "原新營糖廠員工餐廳地籍(2).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-05-25/9dbced17-6062-4deb-88fb-cb3146edbded/原新營糖廠員工餐廳地籍(2).pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺南市新營區興安段111地號（部份）",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "bulkTransfer": 0,
+    "belongAddress": "120.316757,23.298187",
+    "isOpenVisit": true,
+    "openUpTime": "1. 開放範圍：新營廠區範圍內開放供遊客參觀。\n2. 開放時間：採預約方式，開放時間09：00~16：00。\n3. 解說導覽：採預約方式，解說導覽服務免費。\n",
+    "isOpenDownload": false,
+    "longitude": 120.31606,
+    "latitude": 23.2985,
+    "representImageSource": "臺南市政府",
+    "landScope": "臺南市新營區興安段111地號（部份），東、南、北側以地籍線為界，西側以現有圍牆為界。",
+    "selfCoverage": "原建物結構體",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "新營區",
+            "id": 148473,
+            "caseId": 16473,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1626,
+            "address": "中興路與中興路66巷交會處"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺南市",
+            "distName": "新營區",
+            "landNoName": "興安段",
+            "id": 205283,
+            "caseId": 16473,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1626,
+            "landNoId": 2751,
+            "landSerialNo": "111",
+            "coverageId": 1,
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 161382,
+            "caseId": 16473,
+            "caseStatus": true,
+            "registerDate": 1545983058013,
+            "officialDocNo": "府文資處字第1071388380A號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.31683821620537,23.298369671082526],[120.3168383178707,23.298363899940494],[120.31684188042634,23.298159435897716],[120.3168136446888,23.298132695923588],[120.31680777249454,23.29812713354463],[120.31617594221797,23.29812222314528],[120.31526746643856,23.298115154584092],[120.31525927987083,23.29818897493969],[120.31525864825976,23.298194634087896],[120.31525842130907,23.29819665745019],[120.31529457882354,23.298239037386903],[120.31576595656765,23.298791539162178],[120.31577534842114,23.298802502718637],[120.31577521546198,23.298818584530835],[120.31577516290255,23.298821161452523],[120.31639267670344,23.298830599400173],[120.31639266485448,23.298828363906818],[120.31639609412892,23.29864276829877],[120.31639639962094,23.298626186797197],[120.31640128219539,23.298364368732415],[120.31683821620537,23.298369671082526],[120.31683821620537,23.298369671082526]]]]},\"properties\":{\"envelope\":{\"left\":\"120.31525842130907\",\"top\":\"23.298115154584092\",\"right\":\"120.31684188042634\",\"bottom\":\"23.298830599400173\"},\"landLot\":\"臺南市新營區興安段111\"}}],\"notfound\":[]}]",
+    "openVisitType": "預約開放參觀",
+    "pastHistorySource": "待修復或再利用計畫完成後填列"
+}

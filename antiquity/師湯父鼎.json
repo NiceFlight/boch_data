@@ -1,0 +1,106 @@
+{
+    "id": 16571,
+    "caseId": "20190215000010",
+    "count": 159,
+    "shareCount": 0,
+    "representImage": 55454,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-02-15/ca596022-98fb-409c-9ee3-e42ad48030e8/12-中銅-000073_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-02-15/ca596022-98fb-409c-9ee3-e42ad48030e8/12-中銅-000073.jpg",
+        "name": "12-中銅-000073"
+    },
+    "caseName": "師湯父鼎",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1550123938186,
+    "officialDocNo": "文授資局物字第10830016641號",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此器器腹下垂，腹上飾大垂冠鳳鳥紋，為西周恭王時期的器物，具體表現了西周中期的時代氣象，典雅華美。器內銘文記述恭王在王都宗周新建宮殿中的射箭之所，賞賜師湯父精美的弓、矢等。表示師湯父在周朝擔任武職相關之工作。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、3、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "中銅000073",
+    "amount": 1,
+    "descAge": "西周中期(西元前10世紀) ",
+    "descSize": "通高28.1公分 /腹深13.5公分 /口徑26公分/重5.9公斤",
+    "descMaterial": "銅/鑄造",
+    "reserveStatusDesc": "此器侈口，平折沿，立耳，圜底，垂腹，三蹄足。器耳飾兩道弦紋，器身紋飾分為兩段，口沿下為回首垂冠長尾小鳳鳥，腹飾回首垂冠捲羽大鳳鳥，左右兩兩相對，具平衡穩重之美感。足上飾獸面紋。\n器內壁銘文八行五十二字，重文二：\n唯十又二月初吉丙午，王在周新宮，在射廬。王呼宰應錫盛弓、象弭、矢、彤欮，師湯父拜 首，作朕文考毛叔 彝，其萬年孫孫子子永寶用。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "良好。",
+    "documents": [
+        {
+            "fileid": 146866,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-02/cf303a0d-0306-4b2c-9c14-70ed7d23673f/公告.pdf"
+        },
+        {
+            "fileid": 146867,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-02/23c13a53-aa93-48dd-8385-81079850a439/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 68721,
+            "caseId": 16571,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 72821,
+            "caseId": 16571,
+            "caseStatus": true,
+            "registerDate": 1550123938186,
+            "officialDocNo": "文授資局物字第10830016641號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

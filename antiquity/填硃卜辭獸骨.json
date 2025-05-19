@@ -1,0 +1,107 @@
+{
+    "id": 4285,
+    "caseId": "20080402000026",
+    "count": 224,
+    "shareCount": 0,
+    "representImage": 7211,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36699/photo/16a9ed64-e1e6-45f9-bfa5-976c1bd50a2e_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36699/photo/16a9ed64-e1e6-45f9-bfa5-976c1bd50a2e.jpg",
+        "name": "16a9ed64-e1e6-45f9-bfa5-976c1bd50a2e"
+    },
+    "caseName": "填硃卜辭獸骨",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-古代文字、各族群語言紀錄",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1207065600000,
+    "officialDocNo": "文資籌二字第0972102147號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要之時代特色、技術及流派",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "「填硃卜辭獸骨」為1929年殷墟第2次發掘所得。內容為新米入倉廩，商王祭祀「且（祖）乙」等相關占卜記錄。本件「填硃卜辭獸骨」字畫皆平底，似經鏟削，字中塗墨，是極為特殊的刀法所製，具有重要歷史、文化、藝術、科學價值，符合「古物分級登錄指定及廢止審查辦法」第三條第一、三、六款，指定為重要古物。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第3條第1項第1、3、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "南港區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市復興路三段362號",
+    "reservationCode": "R030332",
+    "keepNameId": 5,
+    "keepName": "中央研究院歷史語言研究所",
+    "keepNameNew": 5,
+    "keepAddressNew": "115台北市南港區研究院路二段130號",
+    "saveSpaceId": 11,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "相關研究資料：\r\n1.董作賓，《中國考古報告集2‧小屯‧第二本‧殷虛文字甲編(圖版)》，1948。\r\n2.張秉權，《中國考古報告集2‧小屯‧第二本‧殷虛文字甲編考釋》，1992年3月。",
+    "descAge": "商",
+    "descCreator": "不詳",
+    "descSize": "長21公分，寬7公分",
+    "descMaterial": "獸骨",
+    "reserveStatusDesc": "所得，屬四期卜辭。本件字畫皆平底，似經鏟削，字中塗墨，是極為特硃的刀法所製。內容為殷王占卜新米入倉廩，推薦新的「且（祖）乙」祭6段卜辭等。\n",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "1929年殷墟第2次發掘；小屯斜一支坑  ",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 （存骨臼及左側一段。骨質佳，保存狀況良好。）",
+    "documents": [
+        {
+            "fileid": 53833,
+            "name": "20080402公告函.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-01-07/70a98d88-7b6e-4bfe-87fd-72fff350606e/20080402公告函.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "中央研究院歷史語言研究所",
+    "keepNames": [
+        {
+            "keepNameIdStr": "中央研究院歷史語言研究所",
+            "keepName": "中央研究院歷史語言研究所",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "中央研究院歷史語言研究所",
+            "keepAddressNew": "115台北市南港區研究院路二段130號",
+            "saveSpaceIdStr": "研究設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "南港區",
+            "keepNameAddress": "研究院路二段130號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "南港區",
+            "id": 4427,
+            "caseId": 4285,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 111
+        }
+    ],
+    "announces": [
+        {
+            "id": 4427,
+            "caseId": 4285,
+            "caseStatus": true,
+            "registerDate": 1207065600000,
+            "officialDocNo": "文資籌二字第0972102147號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

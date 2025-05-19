@@ -1,0 +1,108 @@
+{
+    "id": 4239,
+    "caseId": "20090630000011",
+    "count": 252,
+    "shareCount": 0,
+    "representImage": 7159,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36656/photo/c00dc9d1-ed9f-4cee-820a-da34f34cfe82_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36656/photo/c00dc9d1-ed9f-4cee-820a-da34f34cfe82.jpg",
+        "name": "c00dc9d1-ed9f-4cee-820a-da34f34cfe82"
+    },
+    "caseName": "大理石對尾雙伏獸立雕",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1246291200000,
+    "officialDocNo": "會授資籌二字第0982108065號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "出土於西北岡1001號大墓，是殷墟考古出土的大理石石雕中最大的一件，重達近100公斤。象徵著1001號大墓的物質文化，製作精良，具有重要歷史、文化價值。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第4條第1項第1、4、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "南港區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "R001755",
+    "keepNameId": 5,
+    "keepName": "中央研究院歷史語言研究所",
+    "keepNameNew": 5,
+    "keepAddressNew": "115台北市南港區研究院路二段130號",
+    "saveSpaceId": 11,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "商（後期）",
+    "descCreator": "",
+    "descSize": "高12.7、長84.7、寬41.2公分",
+    "descMaterial": "大理岩",
+    "reserveStatusDesc": "立體雕刻，如兩伏獸對尾形，正面側面之中央以一尖底溝為兩獸之分界。\n頭作弧狀突出，刻成圓形；下為大口，齒牙如鋸。獸背平，兩邊圓轉斜下成器側面。\n器兩長側面浮雕四足，一爪雕於頂面上，餘三爪在前側面，一爪在旁側面；後足三爪在下，一爪在上。\n器兩長側面各有二穿，穿口由獸之前後足之間向內斜下，穿出邊處之底面，上之口又有一直槽相通。\n兩獸背上各飾獸紋相背並列，底部無紋飾。\n",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "1935年；河南安陽西北崗墓1001出土",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 54011,
+            "name": "20090630公告.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-01-10/72cd76ce-5cb2-41f9-b1d4-cd43dc9afc63/20090630公告.jpg"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "中央研究院歷史語言研究所",
+    "keepNames": [
+        {
+            "keepNameIdStr": "中央研究院歷史語言研究所",
+            "keepName": "中央研究院歷史語言研究所",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "中央研究院歷史語言研究所",
+            "keepAddressNew": "115台北市南港區研究院路二段130號",
+            "saveSpaceIdStr": "研究設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "南港區",
+            "keepNameAddress": "研究院路二段130號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "南港區",
+            "id": 4381,
+            "caseId": 4239,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 111
+        }
+    ],
+    "announces": [
+        {
+            "id": 4381,
+            "caseId": 4239,
+            "caseStatus": true,
+            "registerDate": 1246291200000,
+            "officialDocNo": "會授資籌二字第0982108065號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

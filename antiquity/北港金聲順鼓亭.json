@@ -1,0 +1,106 @@
+{
+    "id": 3050,
+    "caseId": "20140205000001",
+    "count": 829,
+    "shareCount": 0,
+    "representImage": 147320,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-13/4f19f556-623f-4e3e-9bca-f37c19cf3d57/DSC04115-hhy-鼓亭1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-13/4f19f556-623f-4e3e-9bca-f37c19cf3d57/DSC04115-hhy-鼓亭1.jpg",
+        "name": "DSC04115-hhy-鼓亭1"
+    },
+    "caseName": "北港金聲順鼓亭",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1391529600000,
+    "officialDocNo": "府文資字第1037400920A號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "(一)本件器物係日治初期台灣宗教儀禮用具，見證時代文物價值。\r\n(二)為清末、日治名家陳應彬之作品，具高度之藝術性。\r\n(三)器物工藝表現技法成熟精緻，顯現工匠技藝成就，亦見證當代台灣工藝發展。",
+    "lawsReference": "符合文化資產保存法第65條暨古物分級登錄指定及廢止審查辦法第2條第1項第1、2、3、4、5、6款之基準。",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "belongCityId": 13,
+    "belongCityName": "雲林縣",
+    "belongDistName": "北港鎮",
+    "govInstitution": "雲林縣政府",
+    "govDeptName": "文化觀光處",
+    "govDeptPhone": "(05)5523218",
+    "govDeptAddress": "雲林縣斗六市大學路三段310號",
+    "reservationCode": "暫無",
+    "amount": 1,
+    "notes": "",
+    "descAge": "大正2年(1913年)",
+    "descSize": "長104.7公分、寬104.7公分、高202.8公分",
+    "descMaterial": "樟木、狗骨木、檜木、烏心石等",
+    "reserveStatusDesc": "北港金聲順鼓亭製作於大正二年（1913年），主要材質為樟木、狗骨木、檜木、烏心石等，其型如四方轎，底部四支神獸腳頂起四方鼓桶，鼓桶雕刻「花草圖樣」，鼓桶上緣為內外雙層欄杆圍堵，內為「龍柱花窗」，圍堵雕刻「魚蝦水族」，其上方雕有「封神榜十二門人、祥獅、長年菜」。鼓亭上方為螭虎多變的網目斗拱，屋頂覆以白布，如小型天棚，正面聖旨牌陽刻金聲順，鼓桶上陰刻朝天宮金聲順開路鼓、歲次癸丑年桐月吉旦字樣。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "陳應彬設計承製",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 142111,
+            "name": "中華民國103年02月05日 府文資二字第1037400920號 北港金聲順鼓亭.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-10-31/0cd1d2d9-07d1-4909-8f7e-a0256def9b0e/中華民國103年02月05日 府文資二字第1037400920號 北港金聲順鼓亭.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 23.5789379086257,
+    "latitude": 120.30149474541899,
+    "representImageSource": "雲林縣政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "社團法人雲林縣金聲順古樂協會",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "雲林縣北港文化中心",
+            "keepAddressNew": "雲林縣北港鎮公園路66號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "雲林縣",
+            "keepNameDistName": "北港鎮",
+            "keepNameAddress": "公園路66號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "北港鎮",
+            "id": 76767,
+            "caseId": 3050,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1316,
+            "address": "公園路66號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 82449,
+            "caseId": 3050,
+            "caseStatus": true,
+            "registerDate": 1391529600000,
+            "officialDocNo": "府文資字第1037400920B號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

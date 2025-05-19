@@ -1,0 +1,103 @@
+{
+    "id": 15332,
+    "caseId": "20171122000007",
+    "count": 432,
+    "shareCount": 0,
+    "representImage": 46892,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2017-11-22/87834daa-c0df-4f28-b32a-9e36e4f1cbb9/明王寵書雜詩卷_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2017-11-22/87834daa-c0df-4f28-b32a-9e36e4f1cbb9/明王寵書雜詩卷.jpg",
+        "name": "明王寵書雜詩卷"
+    },
+    "caseName": "明王寵書雜詩卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1509603615387,
+    "officialDocNo": "文授資局物字第10630122631號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "具有重要藝術造詣或科學成就",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "王寵（1494-1533），長洲（今江蘇蘇州）人。明代著名書家，書法初學蔡羽，楷書後師虞世南、智永；行書學王獻之。與祝允明、文徵明被譽為「吳中三家」。\n此卷草書書所居之石湖及包山等地秀麗景致，並抒懷遣興。雖為草書，甚少連筆牽絲，乾淨俐落，顯露硬拙峻拔的筆調。充分表現其起伏頓按、急遽有力的筆法特色。款書丁亥（1527）春二月之吉。文徵明之師友弟子，王寵之書體獨樹一格，此件為王寵盛年所作，也為研究書法者視為王寵最重要代表作。後人論王寵對八大山人之影響，亦可於此件書字之結體見出端倪。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第1項第3、4、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故書000117",
+    "amount": 1,
+    "descAge": "明",
+    "descCreator": "王寵",
+    "descSize": "28.5公分x288.6公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "王寵（1494-1533），長洲（今江蘇蘇州）人。書法初學蔡羽，楷書後師虞世南、智永；行書學王獻之。與祝允明、文徵明被譽為「吳中三家」。\n結字內歛少舒展，轉筆處帶圓潤，左撇和右捺之收尾急促有力，筆勢凝重洗練。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "包首：傷損。本幅：霉傷。",
+    "documents": [
+        {
+            "fileid": 147514,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-14/0665ab43-a92a-489b-8a00-524355522848/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69123,
+            "caseId": 15332,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73247,
+            "caseId": 15332,
+            "caseStatus": true,
+            "registerDate": 1509603615387,
+            "officialDocNo": "文授資局物字第10630122631號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

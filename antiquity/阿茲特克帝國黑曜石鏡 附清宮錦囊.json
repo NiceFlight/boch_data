@@ -1,0 +1,97 @@
+{
+    "id": 18983,
+    "caseId": "20210429000011",
+    "count": 1153,
+    "shareCount": 1,
+    "representImage": 108071,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-04-29/5074b144-0183-4dbc-ac7c-b8f38a3108e5/13阿茲特克帝國黑曜石鏡 附清宮錦囊_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-04-29/5074b144-0183-4dbc-ac7c-b8f38a3108e5/13阿茲特克帝國黑曜石鏡 附清宮錦囊.jpg",
+        "name": "13阿茲特克帝國黑曜石鏡 附清宮錦囊"
+    },
+    "caseName": "阿茲特克帝國黑曜石鏡 附清宮錦囊",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "能表現傳統、族群或地方之風俗、記憶及傳說、信仰、技藝或生活文化之重要特色",
+        "重要人物或重大歷史事件",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色"
+    ],
+    "registerReason": "此黑曜石質圓鏡製作於十五世紀中美洲的阿茲特克帝國。黑曜石鏡被認為是代表了戰爭、巫術與黑夜的神祇特斯卡特利波卡（Tezcatlipoca）的代表物，同時也是國王通神的媒介。\n目前所知相同的黑曜石鏡收藏於墨西哥國家博物館、英國大英博物館藏及西班牙普拉多美術館藏。\n此鏡是目前所知清宮典藏中唯一件阿茲特克帝國物品。清代乾隆皇帝為之作〈詠黑玉鏡〉詩，道光皇帝為之作〈詠烏玉鏡〉可見受到許多皇帝的重視。據道光皇帝御製詩註可知，此鏡至少在順治皇帝（1638-1661）時已在清宮，並曾經過湯若望鑑定。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第1、2、3款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "0422177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故玉000306",
+    "amount": 1,
+    "descAge": "十四至十五世紀",
+    "descSize": "徑26.1、厚1.1公分",
+    "descMaterial": "玉石",
+    "reserveStatusDesc": "黑曜石質圓鏡，一突柄，中有一穿孔。黑曜石盛產於中美洲，此鏡為十四至十五世紀中美洲阿茲特克帝國工匠以當地盛產的黑曜石製成。以雙面打磨，產生高反射及高穿透的玻璃效果，清亮澄澈，可見到黑曜石內部的紋理。清宮舊藏，原儲於紫禁城內務府。附清宮配做錦囊。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "1. 邊有傷。\n2. 鏡面有多處刮痕。",
+    "documents": [
+        {
+            "fileid": 143146,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-05/fa655902-8667-432b-9363-3d48a1397dcc/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 121.548432,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "  ",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 66514,
+            "caseId": 18983,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 70697,
+            "caseId": 18983,
+            "caseStatus": true,
+            "registerDate": 1617793089652,
+            "officialDocNo": "文授資局物字第11030033241號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

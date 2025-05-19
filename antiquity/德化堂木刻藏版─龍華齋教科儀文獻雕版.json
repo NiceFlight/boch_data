@@ -1,0 +1,98 @@
+{
+    "id": 19926,
+    "caseId": "20210827000001",
+    "count": 117,
+    "shareCount": 0,
+    "representImage": 136179,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-08-31/347d0493-e4b7-423a-8328-1a416f1ddf13/皈依科儀_11頁_P004_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-08-31/347d0493-e4b7-423a-8328-1a416f1ddf13/皈依科儀_11頁_P004.jpg",
+        "name": "皈依科儀_11頁_P004"
+    },
+    "caseName": "德化堂木刻藏版─龍華齋教科儀文獻雕版",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-宗教經典",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有一定之時代特色、技術及流派",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "齋教於清領時期陸續傳入臺灣各地，在臺灣主要有龍華派、先天派、金幢派三個教派，德化堂係屬龍華派齋教廟堂。本組木刻雕版包含皈依科儀、龍華科儀2部書版，及皈依文單、宣誓文、碟文、上表文等4件單版，內容記錄德化堂早期信仰之科儀、疏文，對比現行科儀，可為德化堂宗教科儀演變之見證；並呈現龍華教派之信仰內涵。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第1、3、5、6款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "govInstitution": "臺南市文化資產管理處",
+    "govDeptName": "文化資產研究組",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區 中正路5巷1號3樓",
+    "reservationCode": "尚未編列",
+    "amount": 44,
+    "descAge": "清領時期 ",
+    "descSize": "一案多件，詳見相關古物清單。",
+    "descMaterial": "木質",
+    "reserveStatusDesc": "包含「皈依科儀」6 塊、「龍華科儀」34 塊、「皈依文單」1 塊、「宣誓文」1 塊、「碟文」1 塊、「上表文」1 塊，共有 44 塊版。 \n  有雙面版，部分單面版。部分版因蟲蛀造成文字缺損。 ",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "保存狀況良好。",
+    "documents": [
+        {
+            "fileid": 135370,
+            "name": "德化堂木刻藏版公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-08-27/0275ba00-54aa-4af3-a13f-ef735f0ed970/德化堂木刻藏版公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 22.97477,
+    "latitude": 120.22155,
+    "representImageSource": "臺南市政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "臺南德化堂",
+            "keepName": "臺南德化堂",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺南市文化中心",
+            "saveSpaceOther": "臺南市東區中華東路三段332號",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "澎湖縣",
+            "keepNameDistName": "馬公市",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "東區",
+            "id": 60997,
+            "caseId": 19926,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1602,
+            "address": "中華東路三段332號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 63864,
+            "caseId": 19926,
+            "caseStatus": true,
+            "registerDate": 1473147043604,
+            "officialDocNo": "府文資處字第1050863322B號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

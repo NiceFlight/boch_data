@@ -1,0 +1,87 @@
+{
+    "id": 20006,
+    "caseId": "20210907000002",
+    "count": 61,
+    "shareCount": 1,
+    "representImage": 137376,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-09-07/499be2c9-f953-4af8-9604-cbd1927533cc/IMG_7184_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-09-07/499be2c9-f953-4af8-9604-cbd1927533cc/IMG_7184.jpg",
+        "name": "IMG_7184"
+    },
+    "caseName": "苗栗縣泰雅族北勢群Pinwagi舞曲",
+    "classifyCode": "4.1",
+    "classifyName": "傳統表演藝術",
+    "assetsTypeNames": "歌謠",
+    "assetsClassifyCode": "4.1.1",
+    "assetsClassifyName": "傳統表演藝術",
+    "documents": [
+        {
+            "fileid": 224376,
+            "name": "苗栗縣泰雅族北勢群Pinwagi舞曲-保存團體苗栗縣泰雅北勢群文化協進會-公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-05-26/318aaf55-063e-4b0f-ab5a-6bf1ef77deb5/苗栗縣泰雅族北勢群Pinwagi舞曲-保存團體苗栗縣泰雅北勢群文化協進會-公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具有藝術價值",
+        "具時代或流派特色",
+        "顯著反映族群或地方之審美觀"
+    ],
+    "registerReason": "1.Pinwagi是泰雅族北勢群Mpaynux的傳統古調，屬應答式唱法的舞曲，由一人領唱，眾人回應，用於婚禮喜慶或祭典的場合， 吟唱之外搭配舞蹈，Pinwagi舞曲為北勢群 Mpaynux 講澤敖利語的泰雅族所獨有，而 Pinwagi 應答的曲調旋律會視吟唱的場合與時機而不同。 \n2.世代相傳的苗栗縣泰雅族北勢群Pinwagi 舞曲的詞句不是一般日常的生活詞彙，有深度的隱喻，吟唱旋律多元且內容豐富，具有地方特色，形成文化的獨特性，能反映該族群的審美意境。\n3.但因老人逐漸凋零，耆老們傳承的目的性很強烈，中生代也願意傳承下去，透過保存維護計畫，完整記錄Pinwagi的語言與旋律，達到傳承的目的。\n",
+    "lawsReference": "1.《文化資產保存法》第91條第1項。\n2.《傳統表演藝術登錄認定及廢止審查辦法》第2、4條",
+    "govInstitutionCode": "360",
+    "govInstitutionName": "苗栗縣政府",
+    "govInstitution": "苗栗縣政府文化觀光局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "037-352961#713",
+    "govDeptAddress": "苗栗市自治路50號",
+    "historyDevelopment": "暫無",
+    "preservers": [
+        {
+            "id": 20007,
+            "type": "團體",
+            "caseName": "苗栗縣泰雅北勢群文化協進會",
+            "cityName": "苗栗縣",
+            "distName": "泰安鄉",
+            "caseArtistEntities": [],
+            "representImage": 137385,
+            "registrationDate": 1574611200000,
+            "judgeCriteria": [
+                "熟知並能正確體現該登錄項目之知識、技藝與文化表現形式，並具代表性",
+                "具該登錄項目之傳習能力與意願",
+                "在文化脈絡下為適當者"
+            ],
+            "registerReason": "1.Pinwagi舞曲為北勢群Mpaynux講澤敖利語的泰雅族所獨有，其樂舞豐富，旋律多元，世代相傳地呈現自己獨特的文化，能反映該族群的審美觀，已達到傳統表演藝術登錄基準。\n2.保存團體「苗栗縣北勢群文化協進會」，該團均為泰雅族本族人，且多為耆老，受族人信任，是適當者。目前該團體以傳承為目標，中生代也努力復振。提報人楊中義具備相關知識，可以完成保存維護計畫的執行。",
+            "lawsReference": "1.《文化資產保存法》第91條第1項。\n2.《傳統表演藝術登錄認定及廢止審查辦法》第4條",
+            "isOpenDownload": false,
+            "representImageSource": "苗栗縣政府文化觀光局",
+            "contactorIsOpen": false
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "苗栗縣政府文化觀光局",
+    "addresses": [
+        {
+            "cityName": "苗栗縣",
+            "distName": "泰安鄉",
+            "id": 110599,
+            "caseId": 20006,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 814
+        }
+    ],
+    "announces": [
+        {
+            "id": 119611,
+            "caseId": 20006,
+            "caseStatus": true,
+            "registerDate": 1574611200000,
+            "officialDocNo": "府文資字第1080014595B號",
+            "classificationId": 1
+        }
+    ]
+}

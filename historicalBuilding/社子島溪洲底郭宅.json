@@ -1,0 +1,132 @@
+{
+    "id": 17790,
+    "caseId": "20200902000007",
+    "count": 2039,
+    "shareCount": 3,
+    "representImage": 71758,
+    "representImageInfo": {
+        "ext": "gif",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/e8248fcf-02d2-47d1-a3b2-ef7f92226e3d/郭宅_c.gif"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/e8248fcf-02d2-47d1-a3b2-ef7f92226e3d/郭宅.gif",
+        "name": "郭宅"
+    },
+    "caseName": "社子島溪洲底郭宅",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "興建背景:\n溪洲底郭宅之家族屬汾陽郭家，在以汾陽忠武王為祖佛之郭子儀會中，屬於葫蘆堵角，下葫蘆堵中角，溪洲底小角下之頂厝分角。所在之土地共有兩筆，一筆為溪洲底685番地與682番地。\n建築特色:\n溪洲底郭宅為閩南建築一條龍形式。基礎為石砌並設有踏階。外牆在正身下部為石砌，上部採用斗子砌。正面採用凹壽形式，正門設有門額，為單弧形山牆，屋簷下以牙子砌裝飾。屋頂為金形馬背屋頂，脊肚設有花朵剪粘與鏤空裝飾，正身正面以及背面窗戶為磚砌直櫺窗，背面直櫺窗上有突出的磚砌線腳裝飾。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 71759,
+            "name": "01 公告-社子島溪洲底郭宅 歷史建築.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/1427bf4c-23f1-449f-afc0-533ebc65eb31/01 公告-社子島溪洲底郭宅 歷史建築.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者"
+    ],
+    "registerReason": "1.\t建物為閩南建築一條龍形式，座向為坐東朝西，外牆下段為石砌，上為斗子砌，石砌及紅磚砌形成優美之外觀，建物主體保留完整，呈現初建時之面貌。\n2.\t建物正身為磚造「凹壽」形式，正門兩側為磚砌直櫺窗，屋脊有剪黏與鏤空裝飾，屋頂葺閩南瓦，山牆為單弧型馬背 ；建築物保有社子早期家屋樣貌，具地域特色。\n3.\t符合歷史建築紀念建築登錄廢止審查及輔助辦法第2條第1項第1、3款登錄基準。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 71760,
+            "name": "公告附件-地籍地形圖-郭.docx",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/a7b55d44-91f0-42ee-978d-b4c398ed8093/公告附件-地籍地形圖-郭.docx"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.4954862507509,
+    "latitude": 25.0977720057046,
+    "representImageSource": "文化局",
+    "landScope": "臺北市士林區溪洲段一小段185(部分，該筆土地面積為686平方公尺)、186 (部分，該筆土地面積為653平方公尺) 地號等2筆土地。（實際保存面積須以保存範圍實測數據為準）",
+    "selfCoverage": "歷史建築本體為社子島溪洲底郭宅建築本體(建物面積為115.88平方公尺)。（實際保存面積須以實際保存範圍實測數據為準）",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 60740,
+            "caseId": 17790,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "延平北路7段106巷34號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 60741,
+            "caseId": 17790,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "延平北路7段106巷36號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "溪洲段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 47482,
+            "caseId": 17790,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 538,
+            "landSerialNo": "186",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "653",
+            "cityLandUseTypeOther": "變更中",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "溪洲段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 47483,
+            "caseId": 17790,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 538,
+            "landSerialNo": "185",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "686",
+            "cityLandUseTypeOther": "變更中",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 63541,
+            "caseId": 17790,
+            "caseStatus": true,
+            "registerDate": 1586275200000,
+            "officialDocNo": "北市文化文資字第10930170781號",
+            "classificationId": 1,
+            "note": "本建物位於士林社子島地區細部計畫(草案)公園用地(公十一)範圍內，得配合社子島地區開發計畫提高本建物高程。"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "臺北市社子島地區文化資產普查計畫"
+}

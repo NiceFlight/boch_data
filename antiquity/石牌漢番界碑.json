@@ -1,0 +1,89 @@
+{
+    "id": 2903,
+    "caseId": "20080303000006",
+    "count": 1198,
+    "shareCount": 1,
+    "representImage": 5274,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36578/photo/f500a01b-8ce4-42c2-afb1-8f9162dd3cf3_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36578/photo/f500a01b-8ce4-42c2-afb1-8f9162dd3cf3.jpg",
+        "name": "f500a01b-8ce4-42c2-afb1-8f9162dd3cf3"
+    },
+    "caseName": "石牌漢番界碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1204473600000,
+    "officialDocNo": "府文化四字第09730534700號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1、該石碑立於乾隆10-13（1745〜1748）年，距今已二百餘年。\r\n2、該石碑為淡水同知曾日瑛為確定漢人與原住民墾耕界限，立石於二者交界處，以絕爭地，見證了臺北盆地之開發史。\r\n3、依「臺北廳誌」記載，漢番界碑目前僅存二塊，一在磺溪莊，另一在石牌莊，前者即位於今捷運石牌站前之石碑。\r\n4、北投「石牌」地名，亦因此石碑而得名。",
+    "lawsReference": "文化資產保存法第65條、古物分級登錄指定及廢止審查辦法第2條及第5條",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "北投區",
+    "reservationCode": "",
+    "keepNameId": 17,
+    "keepName": "台北捷運石牌站",
+    "keepNameNew": 17,
+    "keepAddressNew": "臺北市北投區捷運石牌站前",
+    "amount": 1,
+    "notes": "",
+    "reserveStatusDesc": "",
+    "reserveStatus": "完整良好 ",
+    "documents": [],
+    "isOpenDownload": true,
+    "belongAddress": "捷運石牌站前",
+    "representImageSource": "",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "台北捷運石牌站",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺北市北投區捷運石牌站前",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "id": 3039,
+            "caseId": 2903,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "address": "捷運石牌站前"
+        }
+    ],
+    "announces": [
+        {
+            "id": 3039,
+            "caseId": 2903,
+            "caseStatus": true,
+            "registerDate": 1204473600000,
+            "officialDocNo": "府文化四字第09730534700號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

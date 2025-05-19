@@ -1,0 +1,103 @@
+{
+    "id": 3670,
+    "caseId": "20111206000004",
+    "count": 488,
+    "shareCount": 0,
+    "representImage": 6411,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32618/photo/2d8b7693-3ffa-43af-8ba0-2dbe461f7483_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32618/photo/2d8b7693-3ffa-43af-8ba0-2dbe461f7483.jpg",
+        "name": "2d8b7693-3ffa-43af-8ba0-2dbe461f7483"
+    },
+    "caseName": "皇明監國魯王壙誌",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1323100800000,
+    "officialDocNo": "會授資籌二字第10020132541號函",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "歷史流傳已久或史事具有深厚淵源",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.本件「皇明監國魯王壙誌」除右上角有闕外，保留完整，字跡仍可辨識，為現存鄭氏時期臺灣史研究之稀有重要史料，具特殊歷史意義與史事淵源。\n2.壙誌內容可提供魯王史事文獻、修正史事之誤差，具有特殊歷史、文化及學術價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」\r\n   第四條第一項第一、二、五、六款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "7792",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明代",
+    "descSize": "長63.5公分，寬47公分，厚5公分",
+    "descMaterial": "玄武岩",
+    "reserveStatusDesc": "壙誌碑石屬玄武岩，刻「皇明監國魯王壙誌」八字及魯王畢生事蹟全文，出土時右額已破損，惟碑身完整。該篇壙誌，可考證許多舊史的錯誤。根據明史記載監國魯王的末路是「魯王於明末以海遁入海，久之，居金門，鄭成功禮待頗恭，既而懈。以海不能平，將往南澳，成功使人沈之海中。」該壙誌記載：「……魯王素有哮疾，壬寅十一月十二日中痰而薨。」鄭成功死於壬寅五月初八，應在魯王之前。緣鄭成功提兵反清復明之際，明宗室多徙居台、廈，監國魯王亦在其中。鄭氏皆以禮待。惟明宗室紛紛立國以圖匡復者頗布人在，其所部諸臣，雖亦同仇敵愾，不免各為其主。",
+    "pastHistorySource": 3,
+    "pastHistorySourceNotes": "1959年12月29撥交自金門戰地政務委員會",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定 ",
+    "documents": [
+        {
+            "fileid": 53578,
+            "name": "用印公告文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-12-28/5c52c964-be7d-4d23-ba50-16e987c07193/用印公告文.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.51984879730222,
+    "latitude": 25.032456306173696,
+    "representImageSource": "國立歷史博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立歷史博物館",
+            "keepName": "國立歷史博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立歷史博物館",
+            "keepAddressNew": "100台北市中正區南海路49號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "徐州路21號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 89876,
+            "caseId": 3670,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 97103,
+            "caseId": 3670,
+            "caseStatus": true,
+            "registerDate": 1323100800000,
+            "officialDocNo": "會授資籌二字第10020132541號函",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

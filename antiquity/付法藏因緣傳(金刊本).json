@@ -1,0 +1,105 @@
+{
+    "id": 3620,
+    "caseId": "20130813000075",
+    "count": 52,
+    "shareCount": 0,
+    "representImage": 6341,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7321/photo/付法藏因緣傳(金刊本)_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7321/photo/付法藏因緣傳(金刊本).png",
+        "name": "付法藏因緣傳(金刊本)"
+    },
+    "caseName": "付法藏因緣傳(金刊本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1376323200000,
+    "officialDocNo": "文資局物字第 10220091271號",
+    "judgeCriteria": [
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "金皇統至大定間(1141-1189)解州天寧寺刊大藏經卷子本。\r\n凡六卷，又稱《付法藏因緣經》、《付法藏傳》、《付法藏經》、《付法傳》。列舉印度傳法世系24人，從世尊入滅後，迦葉、阿難等付法相傳之事蹟與傳法世系。此本僅存卷二，缺第一紙，故不見卷端。審此卷版式及每版前以小字刻經論名、卷次、紙張次及千字文字號，與館藏號08712《大般若波羅蜜多經》相同，其卷首有「興國院大藏經」朱文印。可知此本即民國二十三年(1934)在山西省趙城縣所發現之金刻藏經之一(約自金熙宗皇統九年(1149)在山西解州天寧寺內，成立開雕大藏經版會主持募刻，迄金世宗大定十三年(1173)雕成)。\r\n金版佛經，存世極為稀少，版式精美，珍貴稀有，具特殊歷史、文化、與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第4條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號08802",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "金皇統至大定間(1141-1189)",
+    "descCreator": "南北朝釋吉迦夜譯",
+    "descSize": "每版23行，版匡22.1x47公分",
+    "descMaterial": "捲軸裝；紙質",
+    "reserveStatusDesc": "存一卷(卷二)；寫本。\n凡六卷，又稱《付法藏因緣經》、《付法藏傳》、《付法藏經》、《付法傳》。列舉印度傳法世系24人，從世尊入滅後，迦葉、阿難等付法相傳之事蹟與傳法世系。此本僅存卷二，缺第一紙，故不見卷端。審此卷版式及每版前以小字刻經論名、卷次、紙張次及千字文字號，與館藏號08712《大般若波羅蜜多經》相同，其卷首有「興國院大藏經」朱文印。可知此本即民國二十三年(1934)在山西省趙城縣所發現之金刻藏經之一(約自金熙宗皇統九年(1149)在山西解州天寧寺內，成立開雕大藏經版會主持募刻，迄金世宗大定十三年(1173)雕成)。\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "前端部分有污漬，輕微破損，無虫蛀。未修裱，書況尚稱良好。\n",
+    "documents": [
+        {
+            "fileid": 56438,
+            "name": "02-1020813公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-04-01/26de910e-cd18-4f84-99ab-f42fa76eca2d/02-1020813公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3762,
+            "caseId": 3620,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3762,
+            "caseId": 3620,
+            "caseStatus": true,
+            "registerDate": 1376323200000,
+            "officialDocNo": "文資局物字第 10220091271號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

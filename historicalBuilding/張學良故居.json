@@ -1,0 +1,142 @@
+{
+    "id": 2169,
+    "caseId": "20160808000001",
+    "count": 6774,
+    "shareCount": 4,
+    "representImage": 161940,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/842dc36f-e89d-4bee-9e31-5065d6af4f2f/02_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/842dc36f-e89d-4bee-9e31-5065d6af4f2f/02.jpg",
+        "name": "02"
+    },
+    "caseName": "張學良故居",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "一、本棟建築始建於民國49年，為張學良於民國50年至83年軟禁期間之住所，張學良為發動「西安事變」重要人物，影響中國近代史至深且遠，具見證歷史人物及事件之意義及價值。\r\n二、本基地內建物包括主房、車房、門房、地下禮拜堂（具防空洞功能）、崗哨等，建築雖經改建且內部道路有所調整，惟仍保留張學良當年居住期間之建築配置，可提供研究張學良在臺生活的資訊，具保存價值。\r\n",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 161941,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/35a593df-84fb-4017-969a-6b796e3937b4/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "一、本棟建築始建於民國49年，為張學良於民國50年至83年軟禁期間之住所，張學良為發動「西安事變」重要人物，影響中國近代史至深且遠，具見證歷史人物及事件之意義及價值。\r\n二、本基地內建物包括主房、車房、門房、地下禮拜堂（具防空洞功能）、崗哨等，建築雖經改建且內部道路有所調整，惟仍保留張學良當年居住期間之建築配置，可提供研究張學良在臺生活的資訊，具保存價值。\r\n",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、4款評定基準。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 161942,
+            "name": "張學良_地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/de9b588d-1652-436e-aa31-8f1ec5faade3/張學良_地籍圖.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 8,
+    "cityLandUseTypeName": "保護區",
+    "locationLandNo": "歷史建築範圍以主房（北投區大屯段3小段30056建號）及附屬設施（門房、車房、地下禮拜堂、崗哨）為保存主體。坐落土地為北投區大屯段3小段334地號（部分）（該地號土地面積1,498.94平方公尺）、335地號（部分）（該地號土地面積2,258.24平方公尺）、337地號（部分）（該地號土地面積807.51平方公尺）。（實際保存面積須以實際保存範圍實測數據為準）",
+    "bulkTransfer": 1,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.50442096577851,
+    "latitude": 25.145706082428838,
+    "representImageSource": "所有權人提供",
+    "landScope": "實際保存面積須以實際保存範圍實測數據為準",
+    "selfCoverage": "373.86平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "id": 77634,
+            "caseId": 2169,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "address": "復興三路70號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "landNoName": "大屯段三小段",
+            "cityLandUseTypeName": "保護區",
+            "id": 81425,
+            "caseId": 2169,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "landNoId": 704,
+            "landSerialNo": "334",
+            "landownership": 2,
+            "cityLandUseTypeId": 8,
+            "coverageId": 1,
+            "area": "1,498.94平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "landNoName": "大屯段三小段",
+            "cityLandUseTypeName": "保護區",
+            "id": 81426,
+            "caseId": 2169,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "landNoId": 704,
+            "landSerialNo": "335",
+            "landownership": 2,
+            "cityLandUseTypeId": 8,
+            "coverageId": 1,
+            "area": "2,258.24平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "landNoName": "大屯段三小段",
+            "cityLandUseTypeName": "保護區",
+            "id": 81427,
+            "caseId": 2169,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "landNoId": 704,
+            "landSerialNo": "337",
+            "landownership": 2,
+            "cityLandUseTypeId": 8,
+            "coverageId": 1,
+            "area": "807.51平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 83314,
+            "caseId": 2169,
+            "caseStatus": true,
+            "registerDate": 1470585600000,
+            "officialDocNo": "北市文化文資字第10530423200",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": ""
+}

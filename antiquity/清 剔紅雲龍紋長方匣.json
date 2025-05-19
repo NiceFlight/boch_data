@@ -1,0 +1,95 @@
+{
+    "id": 23260,
+    "caseId": "20250306000015",
+    "count": 24,
+    "shareCount": 0,
+    "representImage": 281605,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2025-03-06/9df6e190-8d67-4105-8c4b-7bafe6fe7cf5/C1H000068N000000000PAB_c.png"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2025-03-06/9df6e190-8d67-4105-8c4b-7bafe6fe7cf5/C1H000068N000000000PAB.png",
+        "name": "C1H000068N000000000PAB"
+    },
+    "caseName": "清 剔紅雲龍紋長方匣",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "1.符合一般古物指定基準第 3 款「能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者。」： 清宮雕漆工藝，紋飾樣式均經宮廷降樣製作。此器頂部浮雕宏偉，細工精美，甚難得。呈現宮廷工藝特色，具時代特色、藝術造詣且數量不多，能顯示清代乾隆朝江南雕漆之盛況。\n2.符合一般古物指定基準第 4 款「具有藝術造詣或科學成就。」：漆層堆積厚而雕技細膩難得，質精工美。滿身深雕雲龍紋靈動有緻，器頂之二伏龍，神態雄壯，造型搭配獨具匠心，對開門呈現當時鍍金門扣的巧思。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第3、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174之1號",
+    "reservationCode": "中漆000068",
+    "amount": 1,
+    "descAge": "清",
+    "descSize": "長38.8公分，寬19.9公分，通高31.6公分，深20.9公分",
+    "descMaterial": "漆、木",
+    "reserveStatusDesc": "剔紅長方匣，色朱紅有光澤。匣作對開式門，嵌金屬小扣鎖。每面皆以波濤紋為地，上雕戲珠龍紋，周身有火焰，長面雙龍並列，相視對稱。頂面立雕二龍，凸睛雙角，鬚髮飛揚，盤身四足著地，五爪沒入波濤中，鱗片銳利細膩，造型雄健，是清代風格漆器。器身多處舊傷缺及舊補。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏。",
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定。",
+    "documents": [
+        {
+            "fileid": 281604,
+            "name": "114年2月12日北市文獻編字第11430008081號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2025-03-06/f0ce16e6-fdd0-406b-87c4-283a01835fa1/114年2月12日北市文獻編字第11430008081號公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 148027,
+            "caseId": 23260,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 160807,
+            "caseId": 23260,
+            "caseStatus": true,
+            "registerDate": 1739353747317,
+            "officialDocNo": "北市獻編字第11430008081號公告",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

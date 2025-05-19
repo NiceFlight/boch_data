@@ -1,0 +1,106 @@
+{
+    "id": 3216,
+    "caseId": "20150730000002",
+    "count": 867,
+    "shareCount": 0,
+    "representImage": 208155,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-03-07/15f1c148-970e-403d-9c18-43ea9d57b8a9/泰雅貝珠衣_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-03-07/15f1c148-970e-403d-9c18-43ea9d57b8a9/泰雅貝珠衣.jpg",
+        "name": "泰雅貝珠衣"
+    },
+    "caseName": "泰雅貝珠衣",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1438185600000,
+    "officialDocNo": "府授文資字10401505602 號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "貝珠衣為泛泰雅族群特有服飾，特殊處在於運用硨磲貝所磨製而成的圓柱形貝珠，橫向或縱向的綴織在服飾上，並排對齊，每件大約需用數萬粒的貝珠，屬於十分貴重的禮服，展現了泰雅族高超的織造工藝技法，深具藝術、文化之研究價值。",
+    "lawsReference": "1.文化資產保存法第65條\r\n2.古物分級登錄指定及廢止審查辦法第2條",
+    "govInstitutionCode": "540",
+    "govInstitutionName": "南投縣政府",
+    "belongCityId": 12,
+    "belongCityName": "南投縣",
+    "belongDistName": "南投市",
+    "govInstitution": "南投縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "049-2231191",
+    "govDeptAddress": "540南投市建國路135號",
+    "reservationCode": "20200013730",
+    "amount": 1,
+    "notes": "此件貝珠衣據文化局原始資料原為日本人田口教授重金收購之收藏，田口教授逝世後，其弟田口修三依其兄遺願將其贈給南投市碧山巖寺，因田口修三為碧山巖寺住持禪海法師之信眾。然碧山巖寺住持禪海法師後來又將此貝珠衣轉贈給南投縣政府文化局典藏。",
+    "descAge": "清末日治",
+    "descCreator": "泰雅族",
+    "descSize": "寬46高98（公分）",
+    "descMaterial": "植物纖維（麻、棉）、貝珠",
+    "reserveStatusDesc": "貝珠衣為泛泰雅族群特有服飾，特殊處在於運用硨磲貝所磨製而成的圓柱形貝珠，橫向或縱向的綴織在服飾上，並排對齊，每件大約需用數萬粒的貝珠，屬於十分貴重的禮服，展現了泰雅族高超的織造工藝技法，深具藝術、文化之研究價值。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "99年1月 碧山巖寺捐贈",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定 ",
+    "documents": [
+        {
+            "fileid": 174356,
+            "name": "泰雅貝珠衣 公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-20/e2c3eab9-5183-4860-8572-3c036e7b5996/泰雅貝珠衣 公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.681546,
+    "latitude": 23.90799,
+    "representImageSource": "本局委託巷弄文旅有限公司執行(攝影者：謝顯林)",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "南投縣政府文化局",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "南投縣南投市建國路135號",
+            "saveSpaceIdStr": "公務設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "南投縣",
+            "distName": "南投市",
+            "id": 113452,
+            "caseId": 3216,
+            "caseStatus": true,
+            "cityId": 12,
+            "distId": 1201,
+            "address": "建國路135號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 123432,
+            "caseId": 3216,
+            "caseStatus": true,
+            "registerDate": 1438185600000,
+            "officialDocNo": "府授文資字10401505602 號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

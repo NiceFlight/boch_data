@@ -1,0 +1,154 @@
+{
+    "id": 984,
+    "caseId": "20060217000005",
+    "count": 2009,
+    "shareCount": 0,
+    "representImage": 170934,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/bc05a766-2c7c-4d31-9a6b-ab5091dc95be/代表圖像_迪化街1段181號店屋_20220623_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/bc05a766-2c7c-4d31-9a6b-ab5091dc95be/代表圖像_迪化街1段181號店屋_20220623.jpg",
+        "name": "代表圖像_迪化街1段181號店屋_20220623"
+    },
+    "caseName": "迪化街1段181號店屋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "為典型店屋二進一過水形式，立面為四柱三窗形式，面磚及洗石子尚保持基本樣貌，第一進仍有木桁架，為原始構造。樓梯、天花板及線腳具有特色。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 167928,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/ec91b267-0fcc-4e63-a291-2c2c83a30f49/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "為典型店屋二進一過水形式，立面為四柱三窗形式，面磚及洗石子尚保持基本樣貌，第一進仍有木桁架，為原始構造。樓梯、天花板及線腳具有特色。",
+    "lawsReference": "文化資產保存法第15條與歷史建築登錄及廢止審查辦法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 167929,
+            "name": "downloadfile (5).JPG",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/d0659fe9-9182-40f1-ae7b-d46eb2c98772/downloadfile (5).JPG"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "特定專用區",
+    "locationLandNo": "大同區延平段三小段200、199-2、199-1地號",
+    "buildingFeatures": "為近代建築樣式，其構造特徵以RC為主，立面形式採四柱三間式，以簡單樸素的幾何圖形與線腳作裝飾，立面材料為日據末期特有的北投窯廠生產之國防面磚貼覆，現況室內還保留舊有精緻的門窗及五金構件。",
+    "inHouseFeatures": "室內還保留舊有精緻的門窗及五金構件。",
+    "buildingUsage": "原貌修復完成。",
+    "buildingActualState": "原貌修復完成。",
+    "buildingKeyMaintainItem": "應保存傳統街屋建築形式，復原街屋進落及天井，屋面及立面整修。",
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.5096122,
+    "latitude": 25.0589893,
+    "representImageSource": "臺北市文化局",
+    "landScope": "大同區延平段三小段200、199-2、199-1地號",
+    "selfCoverage": "302.10平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 83731,
+            "caseId": 984,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "迪化街1段181號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 94556,
+            "caseId": 984,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 189,
+            "landSerialNo": "200",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "19",
+            "cityLandUseTypeOther": "特定專用區（一）（供特定商業使用）",
+            "note": "重測前：永樂段五小段１１４—１地號\n（權狀註記事項）建築基地地號：延平段三小段１９９－１、１９９－２、２００、２０１、２０２、２０２－１、２０２－２、２０２－３地號\n（權狀註記事項）延平段三小段１３７５建號等之建築基地地號",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 94557,
+            "caseId": 984,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 189,
+            "landSerialNo": "199-2",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "27",
+            "cityLandUseTypeOther": "特定專用區（一）（供特定商業使用）",
+            "note": "分割自：１９９—１地號\n（權狀註記事項）建築基地地號：延平段三小段１９９－１、１９９－２、２００、２０１、２０２、２０２－１、２０２－２、２０２－３地號\n（權狀註記事項）延平段三小段１３７５建號等之建築基地地號",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 94558,
+            "caseId": 984,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 189,
+            "landSerialNo": "199-1",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "144",
+            "cityLandUseTypeOther": "特定專用區（一）（供特定商業使用）",
+            "note": "分割自：１９９號\n因分割增加地號：１９９—２地號\n（權狀註記事項）建築基地地號：延平段三小段１９９－１、１９９－２、２００、２０１、２０２、２０２－１、２０２－２、２０２－３地號\n（權狀註記事項）延平段三小段１３７５建號等之建築基地地號",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 89910,
+            "caseId": 984,
+            "caseStatus": true,
+            "registerDate": 1140105600000,
+            "officialDocNo": "府文化二字第09530213700號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

@@ -1,0 +1,119 @@
+{
+    "id": 15522,
+    "caseId": "20180305000003",
+    "count": 5935,
+    "shareCount": 9,
+    "representImage": 168077,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/6bc84377-04dc-40fc-bbca-5feb6e2803fc/代表圖像_萬華林宅_20220531_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/6bc84377-04dc-40fc-bbca-5feb6e2803fc/代表圖像_萬華林宅_20220531.jpeg",
+        "name": "代表圖像_萬華林宅_20220531"
+    },
+    "caseName": "萬華林宅",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "「萬華林宅」為日治時期當地望族富戶林氏之宅第。這座華宅的平面呈不規則形狀，三邊臨馬路，因此外觀甚為突出。它採用鋼筋混凝土構造，共有三層樓，屋頂上設平台可供遠眺，是一座結合中西特色的建築。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 226645,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-07-05/aecba1a0-1692-40cd-850b-78e446924165/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值"
+    ],
+    "registerReason": "具有保存價值",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 226646,
+            "name": "地籍圖.png",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2023-07-05/4350f632-ecd2-44e9-8d00-b4eecabcc5e9/地籍圖.png"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市萬華區萬華段二小段1035地號",
+    "buildingFeatures": "為日治昭和年間以混凝土搭配紅磚興建之三層樓加強磚造建物，外觀採用洗石子欄杆、磁磚搭配勳章裝飾、紅磚牆搭配圓拱形及方形窗簷",
+    "buildingUsage": "古蹟一、二樓出租作為咖啡廳，三、四樓作為家族史料展示空間",
+    "buildingActualState": "古蹟一、二樓出租作為咖啡廳，三、四樓作為家族史料展示空間",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.498397,
+    "latitude": 25.033532,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市萬華區萬華段二小段1035地號",
+    "selfCoverage": "163建號",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "id": 112291,
+            "caseId": 15522,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "address": "西園路一段306巷24號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "id": 112292,
+            "caseId": 15522,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "address": "西園路一段306巷26號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "landNoName": "萬華段二小段",
+            "id": 151644,
+            "caseId": 15522,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "landNoId": 171,
+            "landSerialNo": "1035-0000",
+            "landownership": 2,
+            "coverageId": 2,
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 121787,
+            "caseId": 15522,
+            "caseStatus": true,
+            "registerDate": 963244800000,
+            "officialDocNo": "府文化二字第8905034801公告",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.49840018108,25.033562563105],[121.49833822923,25.0334648363],[121.49859603097,25.033480637346],[121.49859860508,25.033608992258],[121.49857525434,25.033603359309],[121.4985308171,25.033592928453],[121.49848668891,25.033582683801],[121.4984413249,25.033571787887],[121.49840018108,25.033562563105]]]]},\"properties\":{\"縣市\":\"臺北市\",\"鄉鎮\":\"萬華區\",\"地段\":\"萬華段二小段\",\"段號\":10350000,\"id\":\"AB0044\",\"ymax\":25.033608992258,\"ymin\":25.0334648363,\"xmax\":121.49859860508,\"xmin\":121.49833822923,\"xcenter\":121.49846841715501,\"ycenter\":25.033536914278997,\"area_id\":\"AB\",\"section_id\":\"0044\",\"land_id\":10350000,\"query_log\":[],\"query\":\"臺北市,萬華段二小段,1035-0000\",\"content\":\"1. 個案名稱: 萬華林宅 <br />\\n      2. 地號: 臺北市,萬華段二小段,1035-0000 <br />\\n      3. 級別: 直轄市定古蹟 <br />\\n      4. 種類: 宅第 <br />\\n      5. 指定登錄理由: 具有保存價值 <br />\\n      6. 最後一筆公告日期: 2000-07-11 <br />\\n      7. 最後一筆公告文號: 府文化二字第8905034801公告 <br />\\n      8. 管理單位: 私人 <br />\\n      9. 使用單位: 私人 <br />\\n      10. 建物狀態: 現況良好 <br />\"}}],\"notfound\":[],\"address\":[{\"address\":\"1. 個案名稱: 萬華林宅 <br />\\n      2. 地址: 西園路一段306巷24號 <br />\\n      3. 級別: 直轄市定古蹟 <br />\\n      4. 種類: 宅第 <br />\\n      5. 指定登錄理由: 具有保存價值 <br />\\n      6. 最後一筆公告日期: 2000-07-11 <br />\\n      7. 最後一筆公告文號: 府文化二字第8905034801公告 <br />\\n      8. 管理單位: 私人 <br />\\n      9. 使用單位: 私人 <br />\\n      10. 建物狀態: 現況良好 <br />\",\"lat\":25.033532,\"lng\":121.498397},{\"address\":\"1. 個案名稱: 萬華林宅 <br />\\n      2. 地址: 西園路一段306巷26號 <br />\\n      3. 級別: 直轄市定古蹟 <br />\\n      4. 種類: 宅第 <br />\\n      5. 指定登錄理由: 具有保存價值 <br />\\n      6. 最後一筆公告日期: 2000-07-11 <br />\\n      7. 最後一筆公告文號: 府文化二字第8905034801公告 <br />\\n      8. 管理單位: 私人 <br />\\n      9. 使用單位: 私人 <br />\\n      10. 建物狀態: 現況良好 <br />\",\"lat\":25.033494,\"lng\":121.498375}]}]",
+    "openVisitType": "",
+    "openUpTime": "古蹟一、二樓出租作為咖啡廳，三、四樓作為家族史料展示空間",
+    "isCharge": false,
+    "pastHistorySource": "文化局"
+}

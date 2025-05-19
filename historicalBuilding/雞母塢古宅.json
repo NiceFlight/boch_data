@@ -1,0 +1,141 @@
+{
+    "id": 1784,
+    "caseId": "20080704000001",
+    "count": 1855,
+    "shareCount": 1,
+    "representImage": 3580,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/38591/photo/T035澎湖縣雞母塢古宅(歷建)(2)_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/38591/photo/T035澎湖縣雞母塢古宅(歷建)(2).JPG",
+        "name": "T035澎湖縣雞母塢古宅(歷建)(2)"
+    },
+    "caseName": "雞母塢古宅",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "此建築建於昭和13(1938)年為一傳統形式融合近代構造材料之民宅，為歐陽家族所有，民國96(2007)年12月經法院拍賣，由陳永興先生購得。\n陳永興先生有感老屋因長年閒置損壞嚴重，為使文化資產得以風化再現，向文化局提報登錄歷史建築。\n",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1215154766000,
+    "officialDocNo": "府授文資字第0973700073號",
+    "documents": [
+        {
+            "fileid": 76323,
+            "name": "公告公文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-11-24/c6d6ec0b-bc0f-494f-9b62-d7078dbade98/公告公文.pdf"
+        },
+        {
+            "fileid": 76324,
+            "name": "公告公文(歷次).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-11-24/21d11078-ae44-4589-94cf-e007ee02c3ba/公告公文(歷次).pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "呈現日本昭和年間，各種新式工法及裝飾媒材融入傳統建築，具歷史文化期程的價值。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、2、3、4款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "06-9261141#138",
+    "govDeptAddress": "澎湖縣馬公市中華路230號",
+    "cadasters": [
+        {
+            "fileid": 75296,
+            "name": "109XA010931PIC1.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2020-11-23/08cb0820-b366-4afb-9cc8-9c918a8c97b2/109XA010931PIC1.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 4,
+    "nonCityLandUseTypeName": "鄉村區",
+    "nonCityLandUseSubTypeId": 2,
+    "nonCityLandUseSubTypeName": "乙種建築",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "重測前：馬公市雞母塢段1018-0000地號\n重測後：馬公市五德西段0183-0000地號\n",
+    "buildingFeatures": "保有澎湖傳統民宅特色並融入西式建築技術，可見混凝土灌漿屋頂及水泥屋瓦，水泥塑模窗，建築形式為前磚坪。",
+    "inHouseFeatures": "半截堵砌石、傳統彩繪為洪華作品。",
+    "buildingUsage": "開放",
+    "buildingActualState": "民國97(2008)年12月15日府授文資字第0973700171號函同意核予補助證明-澎湖縣歷史建築(傳統古厝)維護及再利用獎助計畫。\n規劃設計：張玉璜建築師事務所\n施工廠商：霖元土木包工業\n",
+    "buildingKeyMaintainItem": "由專家評估現況是否進行修繕補修。",
+    "bulkTransfer": 0,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "belongAddress": "五德里雞母塢77之8號",
+    "isOpenVisit": true,
+    "openUpTime": "每週六及週日 下午2時至6時",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 119.586073,
+    "latitude": 23.528872,
+    "representImageSource": "澎湖縣政府文化局文化資產科",
+    "landScope": "澎湖縣馬公市五德西段183地號",
+    "selfCoverage": "雞母塢古宅主體建築配置方整，屬一落四櫸頭規制，座西北面東南，大廳兩側房間設有樓半以供儲物，左、右前間仔則為廚房和浴室；附屬建物位於其左前方，為一條龍縱列。",
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 89000,
+            "caseId": 1784,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "五德里雞母塢77之8號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "landNoName": "五德西段",
+            "noncityLandUseTypeName": "鄉村區",
+            "id": 106544,
+            "caseId": 1784,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "landNoId": 15608,
+            "landSerialNo": "183",
+            "landownership": 2,
+            "noncityLandUseTypeId": 4,
+            "area": "441.52平方公尺",
+            "noncityLandUseTypeOther": "乙種建築用地",
+            "note": "重測前：澎湖縣馬公市雞母塢段1018地號",
+            "cityLandUseId": 2
+        }
+    ],
+    "announces": [
+        {
+            "id": 95991,
+            "caseId": 1784,
+            "caseStatus": true,
+            "registerDate": 1215154766000,
+            "officialDocNo": "府授文資字第0973700073號",
+            "classificationId": 1
+        },
+        {
+            "id": 95992,
+            "caseId": 1784,
+            "caseStatus": true,
+            "registerDate": 1220411178785,
+            "officialDocNo": "府授文資字第0973700109號",
+            "classificationId": 2,
+            "note": "公告更正「雞母塢古宅」登錄為本縣歷史建築之增加土地地號及面積"
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[119.58608356293276,23.52895944785871],[119.58615519398056,23.528956329646796],[119.58636755997475,23.528874508287046],[119.58633501457506,23.528822616118727],[119.58620974830806,23.52882972098284],[119.5861800776016,23.52877443972607],[119.58599617164491,23.52886034823831],[119.58602048520902,23.528917971699215],[119.58604384305171,23.528947105048186],[119.58608356293276,23.52895944785871],[119.58608356293276,23.52895944785871]]]]},\"properties\":{\"envelope\":{\"left\":\"119.58599617164491\",\"top\":\"23.528774439726071\",\"right\":\"119.58636755997475\",\"bottom\":\"23.528959447858711\"},\"landLot\":\"澎湖縣馬公市五德西段183\"}}],\"notfound\":[]}]",
+    "openVisitType": "",
+    "pastHistorySource": "陳永興先生"
+}

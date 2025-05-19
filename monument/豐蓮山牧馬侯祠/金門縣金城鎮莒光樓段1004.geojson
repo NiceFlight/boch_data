@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "金門縣金城鎮莒光樓段1004"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

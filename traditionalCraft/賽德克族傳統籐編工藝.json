@@ -1,0 +1,94 @@
+{
+    "id": 2681,
+    "caseId": "20160303000001",
+    "count": 510,
+    "shareCount": 1,
+    "representImage": 5037,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/traditional_art/114844/photo/1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/traditional_art/114844/photo/1.jpg",
+        "name": "1"
+    },
+    "caseName": "賽德克族傳統籐編工藝",
+    "classifyCode": "4.2",
+    "classifyName": "傳統工藝",
+    "assetsTypeNames": "編織",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "4.2.1",
+    "assetsClassifyName": "傳統工藝",
+    "registerDate": 1456934400000,
+    "officialDocNo": "府文資字第1050040307A號 ",
+    "documents": [
+        {
+            "fileid": 163196,
+            "name": "賽德克族傳統籐編工藝登錄為傳統工藝公告1050303.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-10/dbcf22cb-4f14-4fb8-b155-57d260420e1d/賽德克族傳統籐編工藝登錄為傳統工藝公告1050303.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "藝術性:具有藝術價值者",
+        "特殊性:構成傳統藝術之特殊藝能表現,其技法優秀者",
+        "地方性:傳統藝術領域有價值與地位,並具有地方色彩或流派特色顯著者"
+    ],
+    "registerReason": "1.藝術性：作品之造形與工法雖然樸拙，但傳承自部落耆老，故仍保有傳統工法。\n2.特殊性：胡正昌工藝師製作的成品，包括有一般裝東西的Beluwui，及裝獵物的Lawa。Beluwui的上方有反摺的編法，以加強其強度，且在連接背帶或頭帶的部分，其扣環收編得非常漂亮。\n3.地方性：工藝師因少與外界互動，仍保有陶賽的傳統技法與樣式，與太魯閣族的技法與樣式有區別。此外，藤編亦反映賽德克族男性工藝實踐之文化。\n4.保存團體：花蓮縣卓溪鄉山里社區發展協會與工藝師互動關係良好，能做為工藝師向外界展現其技藝之橋樑。",
+    "lawsReference": "文化資產保存法第59條、傳統藝術民俗及有關文物登錄指定及廢止審查辦法第6條暨104年12月18日召開之「花蓮縣文化資產審議委員會第二類組(傳統藝術、民俗及有關文物、古物組)委員會104年度第2次會議」決議。",
+    "govInstitutionCode": "970",
+    "govInstitutionName": "花蓮縣政府",
+    "belongCityId": 23,
+    "belongCityName": "花蓮縣",
+    "govInstitution": "花蓮縣文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "038227121#325",
+    "govDeptAddress": "花蓮縣花蓮市文復路6號2樓",
+    "belongAddress": "982 花蓮縣卓溪鄉立山村12鄰山里9之1號/花蓮縣卓溪鄉山里社區發展協會(工藝師胡正昌)",
+    "historyDevelopment": "胡正昌工藝師製作的成品，包括有一般裝東西的Beluwui，及裝獵物的Lawa。Beluwui的上方有反摺的編法，以加強其強度，且在連接背帶或頭帶的部分，其扣環收編得非常漂亮。",
+    "preservers": [
+        {
+            "id": 20446,
+            "type": "團體",
+            "caseName": "花蓮縣卓溪鄉山里社區發展協會",
+            "cityName": "花蓮縣",
+            "distName": "卓溪鄉",
+            "caseArtistEntities": [],
+            "representImage": 153004,
+            "registrationDate": 1456934400000,
+            "judgeCriteria": [
+                "熟知並能正確體現該登錄項目之知識、技藝與文化表現形式",
+                "具該登錄項目之傳習能力與意願",
+                "在文化脈絡下為適當者"
+            ],
+            "registerReason": "花蓮縣卓溪鄉山里社區發展協會與工藝師互動關係良好，能做為工藝師向外界展現其技藝之橋梁。",
+            "lawsReference": "<<傳統工藝登錄認定及廢止審查辦法>>第4條第1、2、3款",
+            "isOpenDownload": true,
+            "representImageSource": "花蓮縣文化局",
+            "contactorIsOpen": false
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "花蓮縣文化局",
+    "addresses": [
+        {
+            "cityName": "花蓮縣",
+            "distName": "卓溪鄉",
+            "id": 79026,
+            "caseId": 2681,
+            "caseStatus": true,
+            "cityId": 23,
+            "distId": 2312,
+            "address": "982 花蓮縣卓溪鄉立山村12鄰山里9之1號/花蓮縣卓溪鄉山里社區發展協會(工藝師胡正昌)"
+        }
+    ],
+    "announces": [
+        {
+            "id": 84814,
+            "caseId": 2681,
+            "caseStatus": true,
+            "registerDate": 1456934400000,
+            "officialDocNo": "府文資字第1050040307A號 ",
+            "classificationId": 1
+        }
+    ]
+}

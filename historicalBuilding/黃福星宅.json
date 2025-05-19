@@ -1,0 +1,120 @@
+{
+    "id": 2020,
+    "caseId": "20030331000042",
+    "count": 1340,
+    "shareCount": 0,
+    "representImage": 176644,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-07-27/5627ed3a-df75-4283-9bb4-6b34f96894c4/01封面_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-07-27/5627ed3a-df75-4283-9bb4-6b34f96894c4/01封面.jpg",
+        "name": "01封面"
+    },
+    "caseName": "黃福星宅",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "建於民國20年（1931）左右，為黃福星至菲律賓發跡後，寄回資金興建。正面壁堵飾以彩繪瓷磚，鋪陳吉祥圖案主題，內部裝飾精美，木作格扇雕刻富特色。\n（詳細歷史沿革待未來修復及再利用計畫深入調查）",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1049083105000,
+    "officialDocNo": "府教社字第092001570 號",
+    "documents": [
+        {
+            "fileid": 176643,
+            "name": "92年黃福星宅歷史建築登錄公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-27/4c5e79a1-e625-4b15-b98e-4e086f72dbe0/92年黃福星宅歷史建築登錄公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者"
+    ],
+    "registerReason": "表現地域風貌或民間藝術特色者",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "890",
+    "govInstitutionName": "金門縣政府",
+    "belongCityId": 24,
+    "belongCityName": "金門縣",
+    "belongDistName": "金城鎮",
+    "govInstitution": "金門縣文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "082-325643#812",
+    "govDeptAddress": "金門縣金城鎮環島北路一段66號",
+    "cadasters": [
+        {
+            "fileid": 176642,
+            "name": "黃福星宅-地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-07-27/211bdb1c-868e-4c72-b920-705929244f15/黃福星宅-地籍圖.jpg"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 11,
+    "nonCityLandUseTypeName": "其他使用區",
+    "nonLandUseOtherType": "宅第",
+    "locationLandNo": "前水頭段0592-0000地號",
+    "buildingFeatures": "1.\t黃福星宅格局為二落大厝，建築材料下堵為石板條平砌、中上堵斗仔砌、屋身構造為硬山擱檁，雙落屋脊為翹脊。\n2.\t正面採榻受之形式，身堵嵌入手繪彩磁「五福臨門」、「六合同春」以及象徵「花開富貴」的博古花卉圖，有祈望為家族帶來趨吉納福的祝福之意。",
+    "inHouseFeatures": "1.\t建築保留傳統的空間格局，建築外至內中軸線為前程、榻受、前廳、深井、巷頭、正廳，廳兩側為房，深井兩側為攑頭。\n2.\t前落設有雕刻精緻的木作格扇門，以萬字紋與花鳥圖案飾之，格扇門兩側牆面腰堵以花卉圖案泥塑裝飾。",
+    "buildingUsage": "管理人平時進行簡易清掃，內部狀況尚可。",
+    "buildingActualState": "建築本體構造現況大致良好，因曾遭白蟻蛀蝕嚴重，左大房狀況不佳，恐有結構安全之虞。",
+    "buildingKeyMaintainItem": "曾做過白蟻防治工程，目前暫無發現新蟻道。左大房木構件蛀蝕情形較嚴重，恐有結構安全之虞，應多加留意建築狀況，如有異常應立即通報文化主管單位商討後續處理方式。",
+    "bulkTransfer": 0,
+    "belongAddress": "前水頭111-1號",
+    "isOpenVisit": false,
+    "openUpTime": "",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 118.29598,
+    "latitude": 24.41046,
+    "representImageSource": "曾逸仁",
+    "landScope": "金城鎮前水頭段592地號（523.08㎡）\n\n民國105年（2016）進行地籍重測，更改為金城鎮前水頭測段592地號（523.08㎡）。",
+    "selfCoverage": "公告未指明歷史建築本體",
+    "addresses": [
+        {
+            "cityName": "金門縣",
+            "distName": "金城鎮",
+            "id": 131419,
+            "caseId": 2020,
+            "caseStatus": true,
+            "cityId": 24,
+            "distId": 2404,
+            "address": "前水頭111-1號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "金門縣",
+            "distName": "金城鎮",
+            "landNoName": "前水頭測段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 186364,
+            "caseId": 2020,
+            "caseStatus": true,
+            "cityId": 24,
+            "distId": 2404,
+            "landNoId": 15348,
+            "landSerialNo": "592",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "area": "",
+            "cityLandUseTypeOther": "國家公園區",
+            "note": "此為重測後定著土地範圍。\n\n民國92年（2003）登錄歷建公告之地號為為金城鎮前水頭段592地號（523.08㎡）。",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 143248,
+            "caseId": 2020,
+            "caseStatus": true,
+            "registerDate": 1049083105000,
+            "officialDocNo": "府教社字第092001570號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[118.29589949888653,24.41059940514024],[118.29593875103622,24.41060138495738],[118.29601218328888,24.41061630059943],[118.2960237930708,24.410624128974966],[118.29606553011595,24.4106329465233],[118.2960745354861,24.410575877910006],[118.29605163732045,24.41049065158831],[118.29611396840106,24.41022250878475],[118.29596926016407,24.41031324739029],[118.29596793723081,24.41031867688738],[118.29589949888653,24.41059940514024],[118.29589949888653,24.41059940514024]]]]},\"properties\":{\"envelope\":{\"left\":\"118.29589949888653\",\"top\":\"24.410222508784749\",\"right\":\"118.29611396840106\",\"bottom\":\"24.4106329465233\"},\"landLot\":\"金門縣金城鎮前水頭測段592\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": "歷史建築清冊"
+}

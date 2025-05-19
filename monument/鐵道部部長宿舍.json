@@ -1,0 +1,126 @@
+{
+    "id": 81,
+    "caseId": "20070122000002",
+    "count": 4890,
+    "shareCount": 2,
+    "representImage": 205227,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/f331e41d-9121-4f0d-8bac-9f543b93ad12/代表圖像_鐵道部部長宿舍_20221205_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/f331e41d-9121-4f0d-8bac-9f543b93ad12/代表圖像_鐵道部部長宿舍_20221205.jpeg",
+        "name": "代表圖像_鐵道部部長宿舍_20221205"
+    },
+    "caseName": "鐵道部部長宿舍",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "塔城街、忠孝西路、西寧北路、鄭州路圍合區域，在清末以前原為私有耕田及民宅，至1885（光緒11）年台灣首任巡撫劉銘傳擇此建造臺北機器局。日人治臺初延續原有軍事用途，成為砲兵修理工廠，之後轉為鐵道部及鐵道工場，工場遷出後有改為鐵道部宿舍區，逐漸演變成今日樣貌。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 137077,
+            "name": "3._1000815文化局公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/708f23bc-ab0b-4827-a92e-9c3062e28194/3._1000815文化局公告.pdf"
+        },
+        {
+            "fileid": 137078,
+            "name": "3.公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/37da87da-2f3a-4152-98c2-27c4f04254e7/3.公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值"
+    ],
+    "registerReason": "1.臺北北門外鄭州路、延平北路、忠孝西路、西寧北路所圍合之區域，於清末是接官亭及台灣巡撫劉銘傳設立機器局所在地，是清末重要建設所在地，深具歷史意義。\r\n2.本建築約建於1932年，其址原為劉銘傳所聘外籍顧問宿舍，於日治時期於原址重建作為鐵道部部長宿舍，深具歷史與人文意義。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 137079,
+            "name": "相關地圖（位置圖、地籍圖、地及地形套繪圖）.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/107d32a3-54d7-4fc3-af4e-22478334c100/相關地圖（位置圖、地籍圖、地及地形套繪圖）.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "交通廣場用地",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市大同區玉泉段二小段371-19地號（部分）",
+    "buildingFeatures": "為單棟獨戶之高等官舍，屋頂為歇山頂、兩坡水，屋架為和式屋架，牆體為編竹泥牆外貼雨淋板，開口仍維持原有日式拉門窗",
+    "inHouseFeatures": "室內空間有踏入、玄關、外廊、椽側、應接室、座敷、居間、茶之間、台所、炊事場、便所及浴室。地板為木地板。仍有保有細緻之欄間。",
+    "buildingUsage": "",
+    "buildingActualState": "待修復。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.5083606,
+    "latitude": 25.049057,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市大同區玉泉段二小段371-19地號（部分）",
+    "selfCoverage": "大同區玉泉段二小段455建號",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 106543,
+            "caseId": 81,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "西寧北路1巷6號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "玉泉段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 131968,
+            "caseId": 81,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 191,
+            "landSerialNo": "371-19",
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "",
+            "cityLandUseTypeOther": "交通廣場用地(公共設施用地)",
+            "note": "分割自：３７１—３地號\n（一般註記事項）古蹟（部分）\n因分割增加地號：０３７１－００５４地號",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 114315,
+            "caseId": 81,
+            "caseStatus": true,
+            "registerDate": 1169395200000,
+            "officialDocNo": "北市府文化二字第09630203700號",
+            "classificationId": 1,
+            "note": "指定"
+        },
+        {
+            "id": 114316,
+            "caseId": 81,
+            "caseStatus": true,
+            "registerDate": 1313337600000,
+            "officialDocNo": "北市文化二字第10030371900號",
+            "classificationId": 2,
+            "note": "修正地址"
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.5078216018,25.048861758664],[121.50786133066,25.048799229792],[121.50859232345,25.04862000868],[121.50869501529,25.048968769603],[121.50790785876,25.049161797946],[121.5078216018,25.048861758664]]]]},\"properties\":{\"縣市\":\"臺北市\",\"鄉鎮\":\"大同區\",\"地段\":\"玉泉段二小段\",\"段號\":3710019,\"id\":\"AB0267\",\"ymax\":25.049161797946,\"ymin\":25.04862000868,\"xmax\":121.50869501529,\"xmin\":121.5078216018,\"xcenter\":121.50825830854501,\"ycenter\":25.048890903313,\"area_id\":\"AB\",\"section_id\":\"0267\",\"land_id\":3710019,\"query_log\":[],\"query\":\"臺北市,玉泉段二小段,371-19\",\"content\":\"1. 個案名稱: 鐵道部部長宿舍 <br />\\n      2. 地號: 臺北市,玉泉段二小段,371-19 <br />\\n      3. 級別: 直轄市定古蹟 <br />\\n      4. 種類: 宅第 <br />\\n      5. 指定登錄理由: 1.臺北北門外鄭州路、延平北路、忠孝西路、西寧北路所圍合之區域，於清末是接官亭及台灣巡撫劉銘傳設立機器局所在地，是清末重要建設所在地，深具歷史意義。\\r\\n2.本建築約建於1932年，其址原為劉銘傳所聘外籍顧問宿舍，於日治時期於原址重建作為鐵道部部長宿舍，深具歷史與人文意義。 <br />\\n      6. 最後一筆公告日期: 2011-08-15 <br />\\n      7. 最後一筆公告文號: 北市文化二字第10030371900號 <br />\\n      8. 管理單位: 交通部臺灣鐵路管理局、財團法人台北市都市更新推動中心 <br />\\n      9. 使用單位: 交通部臺灣鐵路管理局、財團法人台北市都市更新推動中心 <br />\\n      10. 建物狀態: 待修復 <br />\"}}],\"notfound\":[],\"address\":[{\"address\":\"1. 個案名稱: 鐵道部部長宿舍 <br />\\n      2. 地址: 西寧北路1巷6號 <br />\\n      3. 級別: 直轄市定古蹟 <br />\\n      4. 種類: 宅第 <br />\\n      5. 指定登錄理由: 1.臺北北門外鄭州路、延平北路、忠孝西路、西寧北路所圍合之區域，於清末是接官亭及台灣巡撫劉銘傳設立機器局所在地，是清末重要建設所在地，深具歷史意義。\\r\\n2.本建築約建於1932年，其址原為劉銘傳所聘外籍顧問宿舍，於日治時期於原址重建作為鐵道部部長宿舍，深具歷史與人文意義。 <br />\\n      6. 最後一筆公告日期: 2011-08-15 <br />\\n      7. 最後一筆公告文號: 北市文化二字第10030371900號 <br />\\n      8. 管理單位: 交通部臺灣鐵路管理局、財團法人台北市都市更新推動中心 <br />\\n      9. 使用單位: 交通部臺灣鐵路管理局、財團法人台北市都市更新推動中心 <br />\\n      10. 建物狀態: 待修復 <br />\",\"lat\":25.049057,\"lng\":121.5083606}]}]",
+    "openVisitType": "",
+    "pastHistorySource": "臺北北門外鐵道部官舍區文化資產清查計畫"
+}

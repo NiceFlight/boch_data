@@ -1,0 +1,124 @@
+{
+    "id": 17385,
+    "caseId": "20200218000001",
+    "count": 3387,
+    "shareCount": 4,
+    "representImage": 164940,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-05-23/ed8ec011-7804-4ed2-916d-d7b1ee7f22e7/歷068原臺南庶民信用組合日式建物_P002_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-05-23/ed8ec011-7804-4ed2-916d-d7b1ee7f22e7/歷068原臺南庶民信用組合日式建物_P002.jpg",
+        "name": "歷068原臺南庶民信用組合日式建物_P002"
+    },
+    "caseName": "原臺南庶民信用組合日式建物",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1580438422789,
+    "officialDocNo": "南市文資字第1090137076A號",
+    "documents": [
+        {
+            "fileid": 164934,
+            "name": "原臺南庶民信用組合日式建物公告-109.01.31.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-23/365b7efc-64a0-4987-85d2-ac4e9f077e01/原臺南庶民信用組合日式建物公告-109.01.31.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "具地區性建造物類型之特色者：建物式樣為和洋混合，其形制與工法（竿緣天井、格天井、寄棟式屋頂等）均具體呈現並見證日治時期之建築式樣、材料與技術之演進，具建築史或技術史之價值；此外，日治時期臺南市曾有8間信合社同業，迄今僅存臺南市第三信用合作社，其他7間皆改制或併入商業銀行股份有限公司，該建物空間配置兼具住宿及招待所複合機能，見證其於本市之發展與使用歷程，亦為臺南地區信用組合建物代表，具稀少性及地區性建造物類型之特色。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第3款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "中西區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 66252,
+            "name": "土地登記資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2020-02-18/d452fffa-2f26-44d8-af9d-aa9278162082/土地登記資料.pdf"
+        },
+        {
+            "fileid": 165421,
+            "name": "原臺南庶民信用組合日式建物地籍.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-05-25/f42d995a-098e-4631-a299-7aaec46f82bb/原臺南庶民信用組合日式建物地籍.pdf"
+        },
+        {
+            "fileid": 165422,
+            "name": "原臺南庶民信用組合日式建物定著土地範圍示意圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-05-25/7d762331-8c3e-461c-aa0c-e097e9ec756b/原臺南庶民信用組合日式建物定著土地範圍示意圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺南市中西區孔廟段262地號",
+    "buildingFeatures": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "\n\n",
+    "bulkTransfer": 0,
+    "belongAddress": "中正路7號",
+    "isOpenVisit": false,
+    "openUpTime": "",
+    "isOpenDownload": false,
+    "longitude": 120.203545,
+    "latitude": 22.9919376,
+    "representImageSource": "臺南市政府",
+    "landScope": "臺南市中西區孔廟段262地號（部分），北側以建築物結構體延伸3公尺為界，東、西及南側以地籍線為界，包含建物前方作為停車使用之空間 ",
+    "selfCoverage": "木造建築結構體，含東西兩側木造結構及中間相連之廊道",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "id": 80242,
+            "caseId": 17385,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601,
+            "address": "中正路7號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "landNoName": "孔廟段",
+            "id": 86570,
+            "caseId": 17385,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601,
+            "landNoId": 2394,
+            "landSerialNo": "262",
+            "coverageId": 1,
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": "北側以建築物結構體延伸3公尺為界，東、西及南側以地籍線為界，包含建物前方作為停車使用之空間 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 86161,
+            "caseId": 17385,
+            "caseStatus": true,
+            "registerDate": 1580438422789,
+            "officialDocNo": "南市文資字第1090137076A號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.20372922802729,22.991715864542012],[120.20373431171926,22.991700587803717],[120.20372131399506,22.991696251019825],[120.2037149995986,22.991680594017115],[120.20370879900847,22.99167842271444],[120.2036689013863,22.991607779511156],[120.2036629593416,22.991610451409766],[120.20365316447358,22.99161483787816],[120.20359436886216,22.991641190163246],[120.20359837973236,22.991648156541288],[120.20352974642167,22.99167989925635],[120.2035030407059,22.99169224812429],[120.20353251339796,22.991753192630867],[120.20356881217282,22.991756659997996],[120.20348181433937,22.992016579785496],[120.20361644447705,22.99205483439495],[120.20372922802729,22.991715864542012],[120.20372922802729,22.991715864542012]]]]},\"properties\":{\"envelope\":{\"left\":\"120.20348181433937\",\"top\":\"22.991607779511156\",\"right\":\"120.20373431171926\",\"bottom\":\"22.992054834394949\"},\"landLot\":\"臺南市中西區孔廟段262\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀"
+}

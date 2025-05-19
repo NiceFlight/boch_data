@@ -1,0 +1,101 @@
+{
+    "id": 4400,
+    "caseId": "20151019000027",
+    "count": 198,
+    "shareCount": 0,
+    "representImage": 7391,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4140/photo/明織花鳥寫生冊_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4140/photo/明織花鳥寫生冊.jpg",
+        "name": "明織花鳥寫生冊"
+    },
+    "caseName": "明織花鳥寫生冊",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-織繡",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1445184000000,
+    "officialDocNo": "文授資局物字10430092323",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就"
+    ],
+    "registerReason": "全冊十二開，織各式花鳥、草蟲。設色明麗，刻織技巧穩健傳神。此冊構圖與繪畫相近，織法巧妙搭配鮮亮絲色的運用，花鳥逼真生動的形象與織法的獨特紋路完美融合，反映出明代緙絲的傑出工藝成就。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第3、4款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故絲000052",
+    "amount": 12,
+    "notes": "",
+    "descAge": "明",
+    "descSize": "約 26.6公分 x 23.6公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "全冊十二開，織各式花鳥、草蟲。設色明麗，刻織技巧穩健傳神。此冊構圖與繪畫相近，但織法和色彩的搭配別出新意，織的紋路適切地表現花鳥逼真的形象。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。封面封底磨損蟲蛀，霉傷，水漬嚴重。",
+    "documents": [
+        {
+            "fileid": 149047,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-29/49d241bf-c997-4b48-a4cb-aec1be83d893/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69800,
+            "caseId": 4400,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73988,
+            "caseId": 4400,
+            "caseStatus": true,
+            "registerDate": 1445184000000,
+            "officialDocNo": "文授資局物字10430092323",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

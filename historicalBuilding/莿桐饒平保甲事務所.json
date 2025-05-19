@@ -1,0 +1,126 @@
+{
+    "id": 17983,
+    "caseId": "20201116000002",
+    "count": 1821,
+    "shareCount": 4,
+    "representImage": 74508,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-11-16/1717eb20-6ee8-464f-84b9-72d9944dbcfb/S__262791173_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-11-16/1717eb20-6ee8-464f-84b9-72d9944dbcfb/S__262791173.jpg",
+        "name": "S__262791173"
+    },
+    "caseName": "莿桐饒平保甲事務所",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "日本領台初期，為了有效控制地方社會，參考了清代的保甲制度，於明治31年起施行的「保甲條例」，規定10戶為1甲，10甲為1保，甲設有「甲長」，保設有「保正」，做為警察的輔助機關，協助警察進行調查戶口、搜查土匪、戒除鴉片、預防傳染病、修橋鋪路等工作。",
+    "assetsTypeNames": "衙署",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1561951526590,
+    "officialDocNo": "府文資二字第1083806892B號",
+    "documents": [
+        {
+            "fileid": 134620,
+            "name": "中華民國108年07月01日 府文資二字第1083806892B號 雲林縣歷史建築莿桐饒平保甲事務所.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-08-25/2a0d029f-2713-45bb-8fa3-dd718737efb1/中華民國108年07月01日 府文資二字第1083806892B號 雲林縣歷史建築莿桐饒平保甲事務所.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "(一)表現地域風貌或民間藝術特色者：為四坡水建築，建築本體現況尚保存原有形貌。\n(二)具建築史或技術史之價值者：反映日治時期警政系統之辦公廳舍建築特色。\n(三)具地區性建造物類型之特色者：莿桐地區現存少有見證日治時期保甲制度的建築。\n",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第2、3、4款",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "belongCityId": 13,
+    "belongCityName": "雲林縣",
+    "belongDistName": "莿桐鄉",
+    "govInstitution": "雲林縣政府",
+    "govDeptName": "文化觀光處",
+    "govDeptPhone": " 05-5523218",
+    "govDeptAddress": "雲林縣斗六市大學路三段310號",
+    "cadasters": [
+        {
+            "fileid": 74509,
+            "name": "1605497519183.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2020-11-16/01c155f1-0d43-4da2-b6d5-28c0a6e2d2f8/1605497519183.pdf"
+        },
+        {
+            "fileid": 134618,
+            "name": "74.莿桐饒平保甲事務所地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-08-25/1488f572-fa1d-4d48-ae80-1aacb22c2ebb/74.莿桐饒平保甲事務所地籍圖.pdf"
+        },
+        {
+            "fileid": 134619,
+            "name": "74.莿桐饒平保甲事務所地籍資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-08-25/efc2abe3-8364-4e46-88e9-dc46c32eb6fb/74.莿桐饒平保甲事務所地籍資料.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 4,
+    "cityLandUseTypeName": "行政區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "雲林縣莿桐鄉饒平段421地號",
+    "bulkTransfer": 0,
+    "belongAddress": "雲林縣莿桐鄉饒平村饒平路179號",
+    "isOpenVisit": false,
+    "openUpTime": "閒置中",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.5189354,
+    "latitude": 23.7798208,
+    "representImageSource": "雲林縣政府",
+    "landScope": "雲林縣莿桐鄉饒平段421地號",
+    "selfCoverage": "建物本體及定著土地面積為39.66平方公尺",
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "莿桐鄉",
+            "id": 86449,
+            "caseId": 17983,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1313,
+            "address": "饒平村饒平路179號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "雲林縣",
+            "distName": "莿桐鄉",
+            "landNoName": "饒平段",
+            "id": 101020,
+            "caseId": 17983,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1313,
+            "landNoId": 11446,
+            "landSerialNo": "421",
+            "landownership": 1,
+            "coverageId": 2,
+            "area": "836.27平方公尺",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 93012,
+            "caseId": 17983,
+            "caseStatus": true,
+            "registerDate": 1561951526590,
+            "officialDocNo": "府文資二字第1083806892B號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.51887551133487,23.779570280315184],[120.51911330945883,23.7796954845052],[120.51929007115618,23.779788550615546],[120.51937426002043,23.779832525096726],[120.51943890766306,23.779736801045715],[120.51891364460361,23.77943103055126],[120.51887551133487,23.779570280315184],[120.51887551133487,23.779570280315184]]]]},\"properties\":{\"envelope\":{\"left\":\"120.51887551133487\",\"top\":\"23.779431030551262\",\"right\":\"120.51943890766306\",\"bottom\":\"23.779832525096726\"},\"landLot\":\"雲林縣莿桐鄉饒平段421\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": ""
+}

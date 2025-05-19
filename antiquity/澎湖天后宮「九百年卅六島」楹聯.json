@@ -1,0 +1,100 @@
+{
+    "id": 17110,
+    "caseId": "20191004000006",
+    "count": 458,
+    "shareCount": 0,
+    "representImage": 61736,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-10-04/18768186-9e87-4c03-af71-dfb053ab0fb1/IMG_0678_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-10-04/18768186-9e87-4c03-af71-dfb053ab0fb1/IMG_0678.jpg",
+        "name": "IMG_0678"
+    },
+    "caseName": "澎湖天后宮「九百年卅六島」楹聯",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1565884800000,
+    "officialDocNo": "中華民國108年8月16日府授文博字第1083702653號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者"
+    ],
+    "registerReason": "1、具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能生活文化特色：上聯中「九百年寰海昭靈溯湄嶼」指媽祖在宋太宗雍熙4年(987)時得道升天，至大正14年(1925)歷九百三十餘年，並說明澎湖媽祖信仰源自於湄洲。\n2、具有地方重要人物或歷史事件之深厚淵源者：敬獻者之一郭鶚騰曾在望安將軍、西嶼內垵、馬公等地設帳教書，日治時期任保正，曾為文石書院、東甲北極殿管理人。另一敬獻者藍永茂即為藍木，擔任天后宮大正年間改築的大木作匠師。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00646-P-16-0016",
+    "amount": 2,
+    "notes": "郭鶚騰及藍永茂資料詳如公告表之其他相關事項。",
+    "descAge": "1925年",
+    "descSize": "高260/寬27/厚4.5(公分)",
+    "descMaterial": "木",
+    "reserveStatusDesc": "直長形弧面木質楹聯，施黑漆，頂有如意形金屬掛環，字皆陰刻貼金。上聯「九百年寰海昭靈溯湄嶼飛昇遠迩宗風崇廟祀」，下聯「卅六島萬民敬仰喜澎疆坐鎮帆檣阭渡沐神庥」；上聯年款「大正十四年嵗次乙丑季春月　謹撰」，下聯落款「董事　郭鶚騰　郭廷光　蕭杰　陳翀漢　徐聯輝　藍永茂　仝敬獻」，後有方印「吉祥」與「如意」。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "時間：大正十四年嵗次乙丑季春月　謹撰 ；捐贈者：董事　郭鶚騰　郭廷光　蕭杰　陳翀漢　徐聯輝　藍永茂　仝敬獻",
+    "saveEnvironment": 2,
+    "reserveStatus": "第二進前落次間前柱",
+    "documents": [
+        {
+            "fileid": 61757,
+            "name": "澎湖天后宮-九百年卅六島楹聯.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-10-04/b5ce08dc-93f3-4209-a786-9e30a1b462fd/澎湖天后宮-九百年卅六島楹聯.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.564038,
+    "latitude": 23.564693,
+    "representImageSource": "澎湖縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "澎湖天后宮",
+            "keepName": "蔡光明",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "澎湖天后宮",
+            "keepAddressNew": "澎湖縣馬公市中央里正義街1號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 127669,
+            "caseId": 17110,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "中央里正義街1號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 138591,
+            "caseId": 17110,
+            "caseStatus": true,
+            "registerDate": 1565884800000,
+            "officialDocNo": "府授文博字第1083702653號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

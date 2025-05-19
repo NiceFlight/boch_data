@@ -1,0 +1,133 @@
+{
+    "id": 1130,
+    "caseId": "20110218000002",
+    "count": 2047,
+    "shareCount": 0,
+    "representImage": 2269,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/4811/photo/C052新北市猴硐介壽橋紀念(歷建)(1)_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/4811/photo/C052新北市猴硐介壽橋紀念(歷建)(1).JPG",
+        "name": "C052新北市猴硐介壽橋紀念(歷建)(1)"
+    },
+    "caseName": "猴硐介壽橋紀念碑",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "碑碣",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1297997182000,
+    "officialDocNo": "北府文資字第1000002618號",
+    "documents": [
+        {
+            "fileid": 161418,
+            "name": "猴硐介壽橋紀念碑公告-100.2.18.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-26/4a49e5c7-3a15-4169-b8f0-1760089418ec/猴硐介壽橋紀念碑公告-100.2.18.pdf"
+        },
+        {
+            "fileid": 161419,
+            "name": "猴硐介壽橋紀念碑修正公告-109.10.29.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-26/98beada1-f91f-4ce3-8e73-0c31f27d8254/猴硐介壽橋紀念碑修正公告-109.10.29.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "1.碑文清楚記載猴硐地區交通發展歷史，也見證礦業興盛時期，地方仕紳及礦業公司熱心捐資造橋之事宜。\r\n2.碑體石質優良，為當時臺灣省主席周至柔先生所撰碑文，碑文字體清晰可辨，其碑身及碑座外觀完整。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1款",
+    "govInstitutionCode": "220",
+    "govInstitutionName": "新北市政府",
+    "belongCityId": 3,
+    "belongCityName": "新北市",
+    "belongDistName": "瑞芳區",
+    "govInstitution": "新北市政府",
+    "govDeptName": "文化局",
+    "govDeptPhone": "02-29603456",
+    "govDeptAddress": "新北市板橋區中山路一段161號28樓",
+    "cadasters": [
+        {
+            "fileid": 161420,
+            "name": "猴硐介壽橋紀念碑(地).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-04-26/58db17fb-ef30-42d0-8e06-e5d39effd234/猴硐介壽橋紀念碑(地).pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 6,
+    "nonCityLandUseTypeName": "山坡地保育區",
+    "nonCityLandUseSubTypeId": 12,
+    "nonCityLandUseSubTypeName": "水利",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "新北市瑞芳區新猴硐段613(部分)地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "新北市瑞芳區新猴硐段613(部分)地號",
+    "isOpenVisit": true,
+    "openUpTime": "",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.82937421280212,
+    "latitude": 25.088553324705874,
+    "representImageSource": "新北市政府文化局",
+    "landScope": "新北市瑞芳區新猴硐段613（部分）地號",
+    "selfCoverage": "猴硐介壽橋紀念碑\n",
+    "addresses": [
+        {
+            "cityName": "新北市",
+            "distName": "瑞芳區",
+            "id": 107604,
+            "caseId": 1130,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 307,
+            "address": "新猴硐段613（部分）地號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "新北市",
+            "distName": "瑞芳區",
+            "landNoName": "猴硐段",
+            "id": 134682,
+            "caseId": 1130,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 307,
+            "landNoId": 6238,
+            "landSerialNo": "613地號",
+            "coverageId": 1,
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": "部分"
+        }
+    ],
+    "announces": [
+        {
+            "id": 115644,
+            "caseId": 1130,
+            "caseStatus": true,
+            "registerDate": 1297997182000,
+            "officialDocNo": "北府文資字第1000002618號",
+            "classificationId": 1
+        },
+        {
+            "id": 115645,
+            "caseId": 1130,
+            "caseStatus": true,
+            "registerDate": 1603949768032,
+            "officialDocNo": "新北府文資字第 1092057558 號",
+            "classificationId": 2
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"新北市瑞芳區猴硐段613地號\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": ""
+}

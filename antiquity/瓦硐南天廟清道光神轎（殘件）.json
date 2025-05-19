@@ -1,0 +1,102 @@
+{
+    "id": 17582,
+    "caseId": "20210518000003",
+    "count": 457,
+    "shareCount": 0,
+    "representImage": 68878,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-05-07/0b8a04f6-c639-445c-96dc-4f8a80cf716b/DSCF4703 - 複製拷貝_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-05-07/0b8a04f6-c639-445c-96dc-4f8a80cf716b/DSCF4703 - 複製拷貝.jpg",
+        "name": "DSCF4703 - 複製拷貝"
+    },
+    "caseName": "瓦硐南天廟清道光神轎（殘件）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "數量稀少者"
+    ],
+    "registerReason": "1、具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：澎湖宮廟信仰興盛，大小活動活絡，此神轎年代久遠，為瓦峒宗教信仰史實之見證。\n2、具有地方重要人物或歷史事件之深厚淵源者：瓦硐張姓家族，自古至今皆為顯族，本神轎寄附張騰賚，為監生，清代知名仕紳，熱心參與地方公益。\n3、能反映政治、經濟、社會、人文、科學等歷史變遷或時代特色者：本組神轎雖是殘件，仍可組成，窺見清代信仰儀禮器物之風貌。雖非本地手藝，卻具備工藝水準與提供澎湖購選能力的佐證。\n 4、數量稀少者：清代末期神轎尚稱精美，傳世不多，左右框陰刻「道光拾玖年桂月置」及「本鄉弟子張騰賚酬」，人、時俱確，尤為可貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2、3、5款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "白沙鄉",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG02135-P-107-0008",
+    "amount": 13,
+    "descAge": "道光拾玖年(1839)",
+    "descSize": "正面寬80公分高130.6公分厚2公分；背面寬80.4公分高129.8公分厚2公分；虎邊面寬97.2公分高126.6公分厚3公分；龍邊面寬96.7公分高130.6公分厚3公分；轎底寬91.5公分長102.2公分厚7.5公分；尚有轎棍8件",
+    "descMaterial": "木",
+    "reserveStatusDesc": "木雕神轎，已拆解，正面轎匾墨書「山西夫子」，左右框陰刻「道光拾玖年桂月置」、「本鄉弟子張騰賚酬」，多處雕花脫落佚失；兩側面上半有窗框，框兩側透雕博古圖，下半部浮雕板為螭虎戲球；背面同樣有窗框，兩側為螭虎團爐，下半部為鳳凰。 ",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "時間： 1839年    捐贈者：張騰賚道光拾玖年桂月置",
+    "saveEnvironment": 1,
+    "reserveStatus": "虎邊廂房",
+    "documents": [
+        {
+            "fileid": 110911,
+            "name": "清道光神轎.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-18/5bd73232-764b-4eed-b0d0-dece4a5c6cb0/清道光神轎.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.587895,
+    "latitude": 23.65641,
+    "representImageSource": "澎湖縣政府文化局/逢甲大學  陳英豪研究助理",
+    "keepNames": [
+        {
+            "keepNameIdStr": "南天廟",
+            "keepName": "吳清在",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "南天廟",
+            "keepAddressNew": "澎湖縣白沙鄉瓦硐村1鄰40-1號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2,
+            "keepNameCityName": "澎湖縣",
+            "keepNameDistName": "白沙鄉",
+            "keepNameAddress": "瓦硐村1鄰40-1號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "白沙鄉",
+            "id": 127631,
+            "caseId": 17582,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2105,
+            "address": "瓦硐村1鄰40-1號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 138547,
+            "caseId": 17582,
+            "caseStatus": true,
+            "registerDate": 1589817600000,
+            "officialDocNo": "府授文博字第1093701639號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

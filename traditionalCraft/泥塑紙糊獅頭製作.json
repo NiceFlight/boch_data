@@ -1,0 +1,100 @@
+{
+    "id": 17475,
+    "caseId": "20200310000001",
+    "count": 705,
+    "shareCount": 5,
+    "representImage": 67238,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-03-10/23157324-c456-4dcf-ab75-08549ce9d8d8/許建福-泥塑紙糊獅頭製作2_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-03-10/23157324-c456-4dcf-ab75-08549ce9d8d8/許建福-泥塑紙糊獅頭製作2.jpg",
+        "name": "許建福-泥塑紙糊獅頭製作2"
+    },
+    "caseName": "泥塑紙糊獅頭製作",
+    "classifyCode": "4.2",
+    "classifyName": "傳統工藝",
+    "assetsTypeNames": "其他",
+    "otherAssetsType": "泥塑紙糊獅頭製作",
+    "assetsClassifyCode": "4.2.1",
+    "assetsClassifyName": "傳統工藝",
+    "registerDate": 1569375662718,
+    "officialDocNo": "新北府文資字第10817548411號",
+    "documents": [
+        {
+            "fileid": 184394,
+            "name": "許建福-108.09.25.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-09-15/c31f42b0-d8db-4ce0-9394-d47641caaac6/許建福-108.09.25.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具有藝術價值",
+        "具時代或流派特色",
+        "顯著反映族群或地方之審美觀",
+        "顯著反映族群或地方之生活特色並具代表性"
+    ],
+    "registerReason": "一、許建福先生泥塑紙糊獅頭製作能保存傳統泥塑、裱紙、裝飾等技法，並隨時代變遷有所創新，同時彰顯傳統工藝之古典與現代美感，具有藝術價值。\n二、泥塑紙糊獅頭嘴巴部分可開闔活動，具有臺灣北部開口獅之典型特色，能反映臺灣北部舞獅技藝之地域性文化及流派特色。\n三、泥塑紙糊獅頭以傳統獅頭造型為基礎，再加以局部改良，既保有傳統藝術的特質，又反映當代性的地方審美觀。\n四、舞獅是臺灣廟會陣頭不可或缺的藝陣表演，獅頭是展現獅子型態與神韻的最重要部分，越豪華霸氣越能展現獅團的氣勢，因此獅頭製作在這項表演藝術中有著關鍵的重要性；許先生作品又能融合陰陽三昧、四方五行、六合七星、八卦九宮之傳統概念，具生活特色與代表性。",
+    "lawsReference": "<<傳統工藝登錄認定及廢止審查辦法>>第2條第1、2、3、4款",
+    "govInstitutionCode": "220",
+    "govInstitutionName": "新北市政府",
+    "belongCityId": 3,
+    "belongCityName": "新北市",
+    "govInstitution": "新北市政府",
+    "govDeptName": "文化局",
+    "govDeptPhone": "(02)29603456",
+    "govDeptAddress": "新北市板橋區中山路一段161號28樓",
+    "belongAddress": "新北市三重區三民街300巷2號1樓",
+    "longitude": 121.4778473,
+    "latitude": 25.0688843,
+    "historyDevelopment": "  ",
+    "preservers": [
+        {
+            "id": 17476,
+            "type": "個人",
+            "caseName": "許建福",
+            "cityName": "新北市",
+            "distName": "三重區",
+            "caseArtistEntities": [],
+            "representImage": 107167,
+            "registrationDate": 1569340800000,
+            "patentNo": "10817548411",
+            "judgeCriteria": [
+                "熟知並能正確體現該登錄項目之知識、技藝與文化表現形式",
+                "具該登錄項目之傳習能力與意願",
+                "在文化脈絡下為適當者"
+            ],
+            "registerReason": "一、許建福先生從事獅頭製作已40年，泥塑紙糊獅頭製作能力精湛，具製作大、小型獅頭之技術能力，熟捻傳統手工製作之功序，保存傳統古法泥塑、裱紙、裝飾技法，且仍遵守傳統規範及相關民俗禮儀，足見熟諳獅頭製作工藝之工序、工法與工料。\n二、許建福先生表達能力佳，能清晰說明獅頭製作工序之訣竅；除積極培養後代繼承外，亦接受年輕後進的拜師學藝，傳習意願高。\n三、許建福先生師承三重埔地區五大角頭獅團之一「自強金獅團」之北部獅頭製作古法工藝，為目前大臺北地區少數能親力製作者之一，在文化脈絡下為適當保存者。",
+            "lawsReference": "<<傳統工藝登錄認定及廢止審查辦法>>第4條第1、2、3款",
+            "school": "",
+            "isOpenDownload": true,
+            "representImageSource": "新北市政府文化局",
+            "contactorIsOpen": false
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "新北市政府文化局",
+    "addresses": [
+        {
+            "cityName": "新北市",
+            "distName": "三重區",
+            "id": 114024,
+            "caseId": 17475,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 320,
+            "address": "新北市三重區三民街300巷2號1樓"
+        }
+    ],
+    "announces": [
+        {
+            "id": 124118,
+            "caseId": 17475,
+            "caseStatus": true,
+            "registerDate": 1569375662718,
+            "officialDocNo": "新北府文資字第10817548411號",
+            "classificationId": 1,
+            "note": "許建福"
+        }
+    ]
+}

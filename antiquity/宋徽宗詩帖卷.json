@@ -1,0 +1,108 @@
+{
+    "id": 4003,
+    "caseId": "20120326000058",
+    "count": 444,
+    "shareCount": 0,
+    "representImage": 6866,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32989/photo/3631fd2b-1665-4e94-a390-3fa75d164e66_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32989/photo/3631fd2b-1665-4e94-a390-3fa75d164e66.JPG",
+        "name": "3631fd2b-1665-4e94-a390-3fa75d164e66"
+    },
+    "caseName": "宋徽宗詩帖卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有特殊之時代特色、技術及流派",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "宋徽宗以「瘦金體」著稱，傳世多為中楷或小楷題簽，此作為僅見大字楷書，筆力勁健。托尾陳邦彥（1678-1752）跋：「以畫法作書，脫去筆墨畦逕」，甚具獨特性。\r\n具有特殊時代特色、品質精良且數量稀少，是「瘦金體」的代表，具有特殊藝術價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第四條第一項第三、五、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "中書000001",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descCreator": "宋徽宗",
+    "descSize": "27 × 265.9 公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "宋徽宗（1082－1135），神宗第十一子，姓趙名佶。好書畫，山水、人物、花鳥、墨竹無不精工極妍，刻劃入微。行草正書筆勢勁逸，近法黃庭堅，遠宗薛稷，峻挺瘦勁，號為「瘦金體」。本幅大字五言詩，絹本朱絲界行，末題宣和殿製，鈐御書葫蘆印。健拔有神，以畫法作書，行間如幽蘭叢竹，泠泠作風聲。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 151722,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-26/22d8157b-2017-426c-8cb4-b771975b6b7d/公告.pdf"
+        },
+        {
+            "fileid": 151723,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-26/2b7296a9-5784-4706-93ab-9e5a4be15f07/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71469,
+            "caseId": 4003,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": " 至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 75917,
+            "caseId": 4003,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

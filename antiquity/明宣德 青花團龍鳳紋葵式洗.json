@@ -1,0 +1,95 @@
+{
+    "id": 23248,
+    "caseId": "20250306000003",
+    "count": 7,
+    "shareCount": 0,
+    "representImage": 281560,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2025-03-06/f6a874b0-a464-47de-ae39-cc3acd8b3693/K1B006083N000000000AA_c.png"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2025-03-06/f6a874b0-a464-47de-ae39-cc3acd8b3693/K1B006083N000000000AA.png",
+        "name": "K1B006083N000000000AA"
+    },
+    "caseName": "明宣德 青花團龍鳳紋葵式洗",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "1.符合一般古物指定基準第 3 款「能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者。」：全器胎色瑩白，青料滲鐵斑而湛藍，繪筆流暢，紋線細膩，青白輝映，而葵花造形不易，具時代特色之作品。器型特殊，龍鳳紋紋飾筆力細緻，器底有「大明宣德年製」二行六字款，反映明初永宣青花運用進口青料之成就。又有清宮舊藏脈絡，承繼晚明以來對明代永樂、宣德青花的鑑賞。\n2.符合一般古物指定基準第 4 款「具有藝術造詣或科學成就。」：葵花式造形精緻，龍鳳紋樣細膩，青料湛明，甚精美之作品。宣德時代特有器型，無論釉色、紋飾均富藝術氛圍。永宣運用進口青料燒製的青花器\n甚受後人推崇，本件器胎細薄，足見當時景德鎮官窯瓷器的成就。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第3、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174之1號",
+    "reservationCode": "故瓷6083",
+    "amount": 1,
+    "descAge": "明 宣德",
+    "descSize": "高4.8公分，深3.5公分，口徑20.6公分，足徑16.0公分",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "侈口，淺壁，內底心略拱，淺圈足，外底略凹。器心雙圈內畫龍鳳一對，內壁白釉無紋，外壁亦飾十團龍鳳雲紋，口沿內外及底邊均飾雙青線。器底雙青圈內青花書「大明宣德年製」二行六字楷款。\n\n清宮舊藏。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏。",
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定。",
+    "documents": [
+        {
+            "fileid": 281559,
+            "name": "114年2月12日北市文獻編字第11430008081號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2025-03-06/6efbc9cd-b874-4de2-9b7c-8c55fc05e902/114年2月12日北市文獻編字第11430008081號公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 148010,
+            "caseId": 23248,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 160785,
+            "caseId": 23248,
+            "caseStatus": true,
+            "registerDate": 1739342991368,
+            "officialDocNo": "北市獻編字第11430008081號公告",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

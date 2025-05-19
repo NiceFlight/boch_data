@@ -1,0 +1,104 @@
+{
+    "id": 3733,
+    "caseId": "20140421000002",
+    "count": 691,
+    "shareCount": 2,
+    "representImage": 6495,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7068/photo/新石器時代良渚文化晚期玉琮_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7068/photo/新石器時代良渚文化晚期玉琮.JPG",
+        "name": "新石器時代良渚文化晚期玉琮"
+    },
+    "caseName": "新石器時代良渚文化晚期 玉琮",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1398009600000,
+    "officialDocNo": "文資物字第10320043691號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本件良渚文化晚期玉琮，為深碧綠色有深淺不一赭斑的閃玉。造形為上大下小、十七節之高方柱體，內有由兩端對鑽而成、貫穿之中孔。每節飾四個小眼面紋，全器共六十八面紋。玉琮上端四面在第一、二節之間的直槽上，均刻有輕淺的符號。\r\n本器與近年考古出土的良渚文化晚期多節玉琮相類，方正中顯優美，其47.2cm的碩長高度，則十分稀有。層疊的小眼面紋與神秘且罕見的符號，結合中國傳統以璧、琮禮敬天地的觀念，足以引領人們探索新石器時代玉器宗教、禮制的角色與內涵，具特殊歷史、文化、藝術與科技價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第4條第1項第1、3、4、5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故玉002037",
+    "amount": 1,
+    "notes": "",
+    "descAge": "新石器時代",
+    "descSize": "高：47.2；上端寬：7.7×7.8；下端寬：6.6×6.8；孔徑：4.2-4.3（公分）",
+    "descMaterial": "閃玉",
+    "reserveStatusDesc": "質材：閃玉質，深碧綠色有深淺不一的赭斑。\r\n形制：高方柱體，上大下小。中孔由兩端對鑽而成，交接處略有錯位而有不平整的台階面。上射口略外撇，下射口較直。 \r\n紋飾：以四個方轉角為面紋的中心，自上而下，雕琢十七節小眼面紋，全器共有68個小眼面紋。\r\n特徵：玉琮上端四面在第一、二節之間的直槽上，都刻有輕淺的符號，已漫漶不清。\r\n參考考古資料可知，此玉琮為約西元前2500~2200年良渚文化晚期遺物。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。射口、底緣、各節尖角等，多處有傷損、傷缺。",
+    "documents": [
+        {
+            "fileid": 150246,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-13/57572f10-b1c0-4df0-b3d1-4f0056e822da/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70851,
+            "caseId": 3733,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75120,
+            "caseId": 3733,
+            "caseStatus": true,
+            "registerDate": 1398009600000,
+            "officialDocNo": "文資物字第10320043691號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

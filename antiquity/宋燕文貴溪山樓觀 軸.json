@@ -1,0 +1,101 @@
+{
+    "id": 20495,
+    "caseId": "20220315000011",
+    "count": 219,
+    "shareCount": 1,
+    "representImage": 155103,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-03-15/3f9bb416-236b-419b-a59a-0d0cb7d0e002/PK2A000043N000000000PAA (3)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-03-15/3f9bb416-236b-419b-a59a-0d0cb7d0e002/PK2A000043N000000000PAA (3).jpg",
+        "name": "PK2A000043N000000000PAA (3)"
+    },
+    "caseName": "宋燕文貴溪山樓觀 軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "本幅立軸山水亦作巨嶂高壁，層巒重疊。山徑、行旅、樓觀、巨木穿插其間，刻畫入微，布置精巧，筆法細密，皆體現史料所載燕文貴畫風特色，然用筆較為圓潤，當為12-13世紀左右，燕文貴一系風格之衍流，也可佐證此類風格在宋元間的流變。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第4、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故畫000043",
+    "amount": 1,
+    "descAge": "宋",
+    "descSize": "103.9x47.4公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "本幅畫溪山飛瀑，層巖樓觀。以粗重抖動線條畫出山形輪廓，再用近似雨點皴法，層層描寫山石質感與量感，山谷以淡墨擦染出空氣明晦效果，筆法細密，溪流之畔，崇山峻嶺由近而遠層層堆高，山體輪廓線濃重，以細小皴點填布石面，山巒錯落相疊，其間以飛瀑與蜿蜒山徑前後連結，營造畫面空間深度。山頂灌木叢生，山谷中則有重樓、院落與行旅散列其間。屋宇和人物比例雖小，描繪卻精細工整，一絲不苟，左方石壁上有小字款署「翰林待詔燕文貴筆」。\n燕文貴（活動於10-11世紀），浙江吳興人，善畫山水、人物、舟車，北宋仁宗（1011-1063）朝畫院待詔。畫山水上承范寬（960-1279）風格，但融入更多溪水、曲徑、坡岸、樓閣等景物，畫面細密清潤，精巧入微，人稱「燕家景致」。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "舊傷補。",
+    "documents": [
+        {
+            "fileid": 155101,
+            "name": "公告用印後PDF(彩色).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-03-15/11694a1c-c9f3-45cf-a580-decb97668cda/公告用印後PDF(彩色).pdf"
+        },
+        {
+            "fileid": 155102,
+            "name": "公告表10.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-03-15/a7e3feef-e76c-482f-9c33-bba4a1672687/公告表10.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.549499,
+    "latitude": 25.10037,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 73615,
+            "caseId": 20495,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 78629,
+            "caseId": 20495,
+            "caseStatus": true,
+            "registerDate": 1647342510436,
+            "officialDocNo": "文授資局物字第11130027241號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

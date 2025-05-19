@@ -1,0 +1,82 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            [
+                                121.5263016452,
+                                25.0655888705
+                            ],
+                            [
+                                121.52632873893,
+                                25.065588269063
+                            ],
+                            [
+                                121.52654382742,
+                                25.065584221373
+                            ],
+                            [
+                                121.52655094541,
+                                25.065756620539
+                            ],
+                            [
+                                121.52649188429,
+                                25.065764326693
+                            ],
+                            [
+                                121.52648883644,
+                                25.065743616248
+                            ],
+                            [
+                                121.52642200684,
+                                25.065751265688
+                            ],
+                            [
+                                121.52630603961,
+                                25.065751592571
+                            ],
+                            [
+                                121.5263016452,
+                                25.0655888705
+                            ]
+                        ]
+                    ]
+                ],
+                "type": "MultiPolygon"
+            },
+            "type": "Feature",
+            "properties": {
+                "ymin": 25.065584221373,
+                "xmin": 121.5263016452,
+                "\u6bb5\u865f": 4020000,
+                "query": "\u81fa\u5317\u5e02,\u5fb7\u60e0\u6bb5\u56db\u5c0f\u6bb5,402",
+                "ycenter": 25.065674274033,
+                "land_id": 4020000,
+                "area_id": "AC",
+                "content": "1. \u500b\u6848\u540d\u7a31: \u65b0\u751f\u5317\u8def3\u6bb562\u5df724\u865f <br />n      2. \u5730\u865f: \u81fa\u5317\u5e02,\u5fb7\u60e0\u6bb5\u56db\u5c0f\u6bb5,402 <br />n      3. \u7a2e\u985e: \u5b85\u7b2c <br />n      4. \u6307\u5b9a\u767b\u9304\u7406\u7531: 1.\u5c6c\u65bc\u5927\u683c\u5c40\u4e14\u70ba\u4e8c\u5c64\u6a13\u69cb\u9020\u5f62\u5f0f\u4e4b\u65e5\u5f0f\u5efa\u7bc9\u7269\uff0c\u65bc\u672c\u5e02\u5c6c\u5c11\u898b\uff0c\u5177\u7a00\u5c11\u6027\u3002rn2.\u672c\u68df\u5efa\u7269\u7a97\u6236\u5f62\u5f0f\u3001\u6a13\u68af\u7d30\u90e8\u8655\u7406\u5747\u5145\u5206\u8868\u73fe\u5efa\u7bc9\u8a2d\u8a08\u4e4b\u5de7\u601d\u3002 <br />n      5. \u6700\u5f8c\u4e00\u7b46\u516c\u544a\u65e5\u671f: 2014-01-20 <br />n      6. \u6700\u5f8c\u4e00\u7b46\u516c\u544a\u6587\u865f: \u5317\u5e02\u5e9c\u6587\u5316\u4e8c\u5b5710330335700\u865f <br />n      7. \u7ba1\u7406\u55ae\u4f4d: \u81fa\u5317\u5e02\u653f\u5e9c\u6587\u5316\u5c40 <br />n      8. \u4f7f\u7528\u55ae\u4f4d: \u81fa\u5317\u5e02\u653f\u5e9c\u6587\u5316\u5c40 <br />n      9. \u5efa\u7269\u72c0\u614b: \u73fe\u6cc1\u826f\u597d <br />",
+                "\u5730\u6bb5": "\u5fb7\u60e0\u6bb5\u56db\u5c0f\u6bb5",
+                "\u7e23\u5e02": "\u81fa\u5317\u5e02",
+                "ymax": 25.065764326693,
+                "xcenter": 121.52642629530499,
+                "xmax": 121.52655094541,
+                "section_id": "0437",
+                "\u9109\u93ae": "\u4e2d\u5c71\u5340",
+                "id": "AC0437",
+                "query_log": []
+            }
+        }
+    ],
+    "address": [
+        {
+            "address": "1. \u500b\u6848\u540d\u7a31: \u65b0\u751f\u5317\u8def3\u6bb562\u5df724\u865f <br />n      2. \u5730\u5740: \u65b0\u751f\u5317\u8def3\u6bb562\u5df724\u865f <br />n      3. \u7a2e\u985e: \u5b85\u7b2c <br />n      4. \u6307\u5b9a\u767b\u9304\u7406\u7531: 1.\u5c6c\u65bc\u5927\u683c\u5c40\u4e14\u70ba\u4e8c\u5c64\u6a13\u69cb\u9020\u5f62\u5f0f\u4e4b\u65e5\u5f0f\u5efa\u7bc9\u7269\uff0c\u65bc\u672c\u5e02\u5c6c\u5c11\u898b\uff0c\u5177\u7a00\u5c11\u6027\u3002rn2.\u672c\u68df\u5efa\u7269\u7a97\u6236\u5f62\u5f0f\u3001\u6a13\u68af\u7d30\u90e8\u8655\u7406\u5747\u5145\u5206\u8868\u73fe\u5efa\u7bc9\u8a2d\u8a08\u4e4b\u5de7\u601d\u3002 <br />n      5. \u6700\u5f8c\u4e00\u7b46\u516c\u544a\u65e5\u671f: 2014-01-20 <br />n      6. \u6700\u5f8c\u4e00\u7b46\u516c\u544a\u6587\u865f: \u5317\u5e02\u5e9c\u6587\u5316\u4e8c\u5b5710330335700\u865f <br />n      7. \u7ba1\u7406\u55ae\u4f4d: \u81fa\u5317\u5e02\u653f\u5e9c\u6587\u5316\u5c40 <br />n      8. \u4f7f\u7528\u55ae\u4f4d: \u81fa\u5317\u5e02\u653f\u5e9c\u6587\u5316\u5c40 <br />n      9. \u5efa\u7269\u72c0\u614b: \u73fe\u6cc1\u826f\u597d <br />",
+            "lat": 25.0657371,
+            "lng": 121.5265121
+        }
+    ],
+    "notFound": [
+        "\u81fa\u5317\u5e02,\u5fb7\u60e0\u6bb5\u56db\u5c0f\u6bb5,385-2"
+    ],
+    "type": "FeatureCollection"
+}

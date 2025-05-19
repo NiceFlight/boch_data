@@ -1,0 +1,98 @@
+{
+    "id": 20269,
+    "caseId": "20211215000010",
+    "count": 58,
+    "shareCount": 0,
+    "representImage": 147589,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-15/7588005b-55bc-47cc-b2d7-985af325c7f0/019_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-15/7588005b-55bc-47cc-b2d7-985af325c7f0/019.jpg",
+        "name": "019"
+    },
+    "caseName": "清鄒一桂杏花清高宗御題",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "鄒一桂為清著名宮廷畫家，善繪花卉，本件題跋滿滿，顯示清內廷文化藝術風氣興盛，亦反映乾隆皇帝屢屢在所愛的作品題記，每每欣賞把玩之習慣。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、3、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174之1號",
+    "reservationCode": "故畫002572",
+    "amount": 1,
+    "descAge": "清",
+    "descSize": "122.2x51.1公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "鄒一桂（1686-1772），號小山，江蘇無錫人。清世宗雍正五年（1727）進士，官至禮部侍郎。善工筆花卉，設色明淨，為清初宮廷著名的詞臣畫家。著有《小山畫譜》、《小山詩集》。\n此幅設色畫杏花一株。老幹盤曲，纖枝上則開滿新蕊。通幅滿佈十四首行書詩文，這是乾隆皇帝（1711－1799）在乾隆二十年（1755）命鄒一桂畫東竺庵杏花後，於三十七年之間（1755－1791）陸續賞畫有感所題。詩文中有對畫家寫生精神的讚賞，也有對畫家辭世後的追念。\n",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況良好。",
+    "documents": [
+        {
+            "fileid": 147588,
+            "name": "110年12月9日北市獻編字第1103004564號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-15/4d1fd93a-b54c-4374-9f0d-12aa265e14a8/110年12月9日北市獻編字第1103004564號公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69150,
+            "caseId": 20269,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73274,
+            "caseId": 20269,
+            "caseStatus": true,
+            "registerDate": 1639021514301,
+            "officialDocNo": "北市獻編字第1103004564號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

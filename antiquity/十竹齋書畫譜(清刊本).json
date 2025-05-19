@@ -1,0 +1,105 @@
+{
+    "id": 3585,
+    "caseId": "20130813000040",
+    "count": 34,
+    "shareCount": 0,
+    "representImage": 6272,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7296/photo/十竹齋書畫譜(清刊本)_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7296/photo/十竹齋書畫譜(清刊本).png",
+        "name": "十竹齋書畫譜(清刊本)"
+    },
+    "caseName": "十竹齋書畫譜(清刊本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1376323200000,
+    "officialDocNo": "文資局物字第 10220091271號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "清康熙間(1662-1722)芥子園覆明天啟至崇禎間刊彩色印本。\r\n原書為晚明金陵地區最具代表性的彩色套印版畫圖譜，本館所藏是清李漁芥子園覆刊梓行之彩色印本。書之刊印乃利用多色套印覆於一紙，依次版印以呈現繪畫的彩筆及暈染效果，由於套版技法仿若餖飣，故稱之為「餖版」。全書不分卷次，按類分成書畫、竹、墨華、石、翎毛、梅、蘭、果八種畫譜，全譜共185幅圖，一圖一文，其中彩色套印者110幅，圖之色彩淡雅，仿若手繪，濃淡錯落有致，其結合繪、刻、印三絶，成為在印刷、藝術及文化史上的精彩成就。\r\n本書刻工極精，設色極雅，為彩色印刷珍貴版本，罕見稀有，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號06719",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 8,
+    "notes": "",
+    "descAge": "清康熙間(1662-1722)",
+    "descCreator": "明胡正言撰",
+    "descSize": "半葉原為散頁行，版匡26.1x29.1公分",
+    "descMaterial": "紙質彩色刊本",
+    "reserveStatusDesc": "不分卷。\n原書為晚明金陵地區最具代表性的彩色套印版畫圖譜，本館所藏是清李漁芥子園覆刊梓行之彩色印本。書之刊印乃利用多色套印覆於一紙，依次版印以呈現繪畫的彩筆及暈染效果，由於套版技法仿若餖飣，故稱之為「餖版」。全書不分卷次，按類分成書畫、竹、墨華、石、翎毛、梅、蘭、果八種畫譜，全譜共185幅圖，一圖一文，其中彩色套印者110幅，圖之色彩淡雅，仿若手繪，濃淡錯落有致，其結合繪、刻、印三絶，成為在印刷、藝術及文化史上的精彩成就。\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "無虫蛀。經修裱，書況良好。\n",
+    "documents": [
+        {
+            "fileid": 6273,
+            "name": "cdcbd1c1-3248-452e-a753-c26119e7e223.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44178/file/cdcbd1c1-3248-452e-a753-c26119e7e223.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3727,
+            "caseId": 3585,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3727,
+            "caseId": 3585,
+            "caseStatus": true,
+            "registerDate": 1376323200000,
+            "officialDocNo": "文資局物字第 10220091271號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

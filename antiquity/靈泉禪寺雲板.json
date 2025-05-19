@@ -1,0 +1,105 @@
+{
+    "id": 2908,
+    "caseId": "20120405000001",
+    "count": 1151,
+    "shareCount": 2,
+    "representImage": 5280,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36719/photo/aaeee69a-2d1b-4cb6-adb5-8225685febea_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36719/photo/aaeee69a-2d1b-4cb6-adb5-8225685febea.JPG",
+        "name": "aaeee69a-2d1b-4cb6-adb5-8225685febea"
+    },
+    "caseName": "靈泉禪寺雲板",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1333555200000,
+    "officialDocNo": "府授文資貳字第1010033761號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "「具有歷史意義或能表現傳統、族群或地方文化特色」、「具有一定之時代特色、技術及流派」、「具有歷史、文化、藝術或科學價值」",
+    "lawsReference": "1.《文化資產保存法》第65條\n2.《古物分級登錄指定及廢止審查辦法》第2條1、2、3、5、6款。",
+    "govInstitutionCode": "200",
+    "govInstitutionName": "基隆市政府",
+    "belongCityId": 2,
+    "belongCityName": "基隆市",
+    "belongDistName": "信義區",
+    "govInstitution": "基隆市文化觀光局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2422-4170",
+    "govDeptAddress": "基隆市中正區信一路181號",
+    "reservationCode": "其他",
+    "amount": 1,
+    "notes": "",
+    "descAge": "1900",
+    "descSize": "其他",
+    "descMaterial": "生鐵",
+    "reserveStatusDesc": "靈泉禪寺創建於1914年(大正三年)，屬四合院式建築，前殿奉祀彌勒菩薩，兩側配祀四大天王，後殿正殿供奉釋迦牟尼佛。百年來，靈泉禪寺著重佛教文化事業，1917年，開山祖師善慧法師主導創辦台灣佛教中學林 （今泰北高中前身），並將此辦學經驗轉換至佛教學院的教育工作；1924年，正式創辦靈泉寺佛學院，培植僧眾人才。1910年以來，也歷次開壇傳授四眾戒法或二眾戒會。由於善慧法師著重弘法傳戒與教育工作，首開台籍僧人辦學、傳戒之風，直到捨報圓寂，其派下分別院共有近七十座，月眉山靈泉寺派於焉形成，成為台灣最具影響力的法脈之一。\n大正三年孟夏之雲板，生鐵鑄造，左右各刻日月二字，中間刻寫月眉山靈泉禪寺。",
+    "pastHistorySource": 7,
+    "saveEnvironment": 2,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 175166,
+            "name": "1010405-登錄公告-靈泉禪寺雲板.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-22/14fbda6f-85c7-409b-a9e6-fca2c6ac4826/1010405-登錄公告-靈泉禪寺雲板.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 25.11611,
+    "latitude": 121.76397,
+    "representImageSource": "基隆市文化觀光局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "基隆市財團法人靈泉禪寺",
+            "keepName": "基隆市財團法人靈泉禪寺",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "基隆市財團法人靈泉禪寺",
+            "keepAddressNew": "基隆市信義區六和街1號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 2,
+            "keepNameCityName": "基隆市",
+            "keepNameDistName": "信義區",
+            "keepNameAddress": "六和街1號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "基隆市",
+            "distName": "信義區",
+            "id": 148875,
+            "caseId": 2908,
+            "caseStatus": true,
+            "cityId": 2,
+            "distId": 202,
+            "address": "六和街1號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 161887,
+            "caseId": 2908,
+            "caseStatus": true,
+            "registerDate": 1333555200000,
+            "officialDocNo": "府授文資貳字第1010033761B號",
+            "classificationId": 1,
+            "note": "公告登錄「靈泉禪寺雲板」為本市古物"
+        }
+    ],
+    "isPublic": false
+}

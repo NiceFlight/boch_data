@@ -1,0 +1,94 @@
+{
+    "id": 22991,
+    "caseId": "20240918000002",
+    "count": 29,
+    "shareCount": 0,
+    "representImage": 262272,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-09-18/d9a933bd-b348-40e5-b4cd-c86c62a3028c/PK1C003358N000000000PAE (1)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-09-18/d9a933bd-b348-40e5-b4cd-c86c62a3028c/PK1C003358N000000000PAE (1).jpg",
+        "name": "PK1C003358N000000000PAE (1)"
+    },
+    "caseName": "遼金元 龍形玉佩",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "此玉龍造形罕見，龍首和頸部呈倒三角形，可能是受限於原始玉料形制、創作者調整設計所致。龍鼻尖端和鬣鬃末梢各在三角形的兩角上，由於視覺張力會朝向左右兩角延伸聚集，從而形成御風疾行、鬣鬃飛揚、龍口怒張的陽剛美感，乃繼承唐代以來龍母題的藝術傳統而另闢蹊徑，於遼宋金元(916-1368)的玉龍藝術中具有承先創新的意義。 ",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第4、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故玉003358",
+    "amount": 1,
+    "descAge": "遼金元",
+    "descSize": "連座高7.5玉高6.7、最長8.6、寬2.0重69公克",
+    "descMaterial": "玉/雕刻",
+    "reserveStatusDesc": "此件白玉龍形玉佩，質地溫潤。自龍首至身軀呈「之」字造形，龍首比例較大，龍身較小，未雕足爪。雙眼炯炯有神，鼻翹鬣揚，張口吐舌，造形生動有力；紋飾手法精細中略帶粗獷，鬣鬃細密延長，龍鱗則以簡約菱格紋重覆表現；龍尾收束成小盤結，手法頗少見。清宮配做精緻的波濤紋木座。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": " ",
+    "documents": [
+        {
+            "fileid": 262271,
+            "name": "11330087931號公告用印後PDF.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-09-18/d990a7fe-baaf-4158-8308-c9dba763f51c/11330087931號公告用印後PDF.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 136025,
+            "caseId": 22991,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 148530,
+            "caseId": 22991,
+            "caseStatus": true,
+            "registerDate": 1725346253793,
+            "officialDocNo": "文授資局物字第11330087931號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

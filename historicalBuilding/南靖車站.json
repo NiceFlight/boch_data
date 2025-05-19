@@ -1,0 +1,98 @@
+{
+    "id": 21157,
+    "caseId": "20221109000002",
+    "count": 1367,
+    "shareCount": 0,
+    "representImage": 189675,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-11-09/977268ea-50cc-4fe8-9a51-82a7e9b3d13f/S__23805965_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-11-09/977268ea-50cc-4fe8-9a51-82a7e9b3d13f/S__23805965.jpg",
+        "name": "S__23805965"
+    },
+    "caseName": "南靖車站",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "南靖因糖廠的興建而繁榮興盛，帶動生活上的需求，需較方便的對外聯絡幹線，以輸送人及貨(糖)，因而有車站的建立，並且有鐵軌通往南靖車站，顯示車站和糖廠的關係密不可分。",
+    "assetsTypeNames": "車站",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 189673,
+            "name": "南靖車站 公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-11-09/85dd8e20-e595-44d3-8b60-ada46f6c861e/南靖車站 公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "1.表現地域風貌或民間藝術特色者：車站為日治時期末期之建築及構造，並見證在地產業物流客運歷史。\n2.具建築史或技術史之價值者：車站牆體為編竹夾泥牆，其形制、構造、空間及傢俱大致仍保留，附屬建築之建築風格與車站本體相仿，具技術及工藝價值。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條",
+    "govInstitutionCode": "612",
+    "govInstitutionName": "嘉義縣政府",
+    "govInstitution": "嘉義縣政府",
+    "govDeptName": "嘉義縣文化觀光局",
+    "govDeptPhone": "05-3628123*317",
+    "govDeptAddress": "嘉義縣太保市太子大道158號",
+    "cadasters": [
+        {
+            "fileid": 189674,
+            "name": "測繪圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-11-09/af58bf06-2e53-4de2-9c8a-d812e13ee5ea/測繪圖.pdf"
+        }
+    ],
+    "bulkTransfer": 1,
+    "isOpenVisit": true,
+    "isOpenDownload": true,
+    "longitude": 120.386944,
+    "latitude": 23.412694,
+    "representImageSource": "自行拍攝",
+    "landScope": "嘉義縣水上鄉溪安段729地號",
+    "selfCoverage": "定著於嘉義縣水上鄉溪安段729地號之土地上",
+    "addresses": [
+        {
+            "cityName": "嘉義縣",
+            "distName": "水上鄉",
+            "id": 130003,
+            "caseId": 21157,
+            "caseStatus": true,
+            "cityId": 15,
+            "distId": 1507,
+            "address": "三鎮路26號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "嘉義縣",
+            "distName": "水上鄉",
+            "landNoName": "溪安段",
+            "id": 182365,
+            "caseId": 21157,
+            "caseStatus": true,
+            "cityId": 15,
+            "distId": 1507,
+            "landNoId": 12937,
+            "landSerialNo": "729地號",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 141576,
+            "caseId": 21157,
+            "caseStatus": true,
+            "registerDate": 1661396139278,
+            "officialDocNo": "府授文資字第11102051612號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"嘉義縣水上鄉溪安段729地號\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "openVisitType": ""
+}

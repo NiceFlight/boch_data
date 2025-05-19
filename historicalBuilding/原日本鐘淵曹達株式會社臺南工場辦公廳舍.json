@@ -1,0 +1,116 @@
+{
+    "id": 1658,
+    "caseId": "20051006000002",
+    "count": 2516,
+    "shareCount": 0,
+    "representImage": 159149,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-04-11/a55366f4-f68f-4708-b760-ec8f644bffe7/歷003原日本鐘淵曹達株式會社臺南工場辦公廳舍_P001_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-04-11/a55366f4-f68f-4708-b760-ec8f644bffe7/歷003原日本鐘淵曹達株式會社臺南工場辦公廳舍_P001.jpg",
+        "name": "歷003原日本鐘淵曹達株式會社臺南工場辦公廳舍_P001"
+    },
+    "caseName": "原日本鐘淵曹達株式會社臺南工場辦公廳舍",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "建築物類",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1128569771000,
+    "officialDocNo": "南市文維字第09418518380號",
+    "documents": [
+        {
+            "fileid": 159143,
+            "name": "原日本鐘淵曹達株式會社臺南工場辦公廳舍公告94.10.06.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-11/ba06a099-e3e0-4bbb-97f8-691824e69d05/原日本鐘淵曹達株式會社臺南工場辦公廳舍公告94.10.06.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "1、台鹼產業發展與伴隨而生之區域開發的歷史見證。\n2、T字形平面，一層樓高，斜屋頂建築，保存尚佳。",
+    "lawsReference": "文化資產保存法（71年5月26日總統令公布）第二十七條之一、「歷史建築登錄及輔助辦法」暨本市第三屆古蹟暨歷史建築審查委員會第四次及定期會會議決議。",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "安南區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569 ",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 142269,
+            "name": "原日本鐘淵曹達株式會社臺南工場辦公廳舍地圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-11-02/61b8f897-141f-4953-afed-c798ae2a88ed/原日本鐘淵曹達株式會社臺南工場辦公廳舍地圖.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "建築用地",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "安南區鹽田段668地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "北汕尾2路421號",
+    "isOpenVisit": false,
+    "openUpTime": "請洽中國石油化學工業開發股份有限公司",
+    "isOpenDownload": false,
+    "longitude": 120.123381334568,
+    "latitude": 23.0302490062045,
+    "representImageSource": "臺南市政府",
+    "landScope": "鹽田段668地號",
+    "selfCoverage": "公告無資料",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "安南區",
+            "id": 116941,
+            "caseId": 1658,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1607,
+            "address": "北汕尾2路421號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺南市",
+            "distName": "安南區",
+            "landNoName": "鹽田段",
+            "id": 163684,
+            "caseId": 1658,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1607,
+            "landNoId": 2450,
+            "landSerialNo": "668號",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 127726,
+            "caseId": 1658,
+            "caseStatus": true,
+            "registerDate": 1128569771000,
+            "officialDocNo": "南市文維字第09418518380號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"臺南市安南區鹽田段668號\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": ""
+}

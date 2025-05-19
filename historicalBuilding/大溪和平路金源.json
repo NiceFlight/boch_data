@@ -1,0 +1,133 @@
+{
+    "id": 1285,
+    "caseId": "20040113000014",
+    "count": 1782,
+    "shareCount": 0,
+    "representImage": 185016,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-09-22/8c702ede-90d8-4508-9406-4eb9511d7f85/大溪_201202_259_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-09-22/8c702ede-90d8-4508-9406-4eb9511d7f85/大溪_201202_259.jpg",
+        "name": "大溪_201202_259"
+    },
+    "caseName": "大溪和平路金源",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "金源為三落二過水格局，第二落大廳祭拜神明，頭落後方的空間與之對望，不適合做為房間，只能設「廳」，因朝向與大廳相反，所以稱為「倒向廳」，為金源建築的一大特色。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "古市街類",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1073962956000,
+    "officialDocNo": "府文資字第0930534224號",
+    "documents": [
+        {
+            "fileid": 185013,
+            "name": "府文資字第0930534224號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-09-22/9003e6ef-5b0c-40e2-b464-969d3388174c/府文資字第0930534224號.pdf"
+        },
+        {
+            "fileid": 185014,
+            "name": "府文資字第10303236382號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-09-22/92fc0bb8-3875-424d-affa-f487b5a6068d/府文資字第10303236382號.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "具有保存價值",
+    "lawsReference": "文化資產保存法第二十七條之一、歷史建築登錄輔助辦法第七條\n桃園縣九十二年九月十五日召開之歷史建築登錄審查會議決議",
+    "govInstitutionCode": "330",
+    "govInstitutionName": "桃園市政府",
+    "belongCityId": 5,
+    "belongCityName": "桃園市",
+    "belongDistName": "大溪區",
+    "govInstitution": "桃園市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-3322592分機8612",
+    "govDeptAddress": "桃園市桃園區縣府路21號",
+    "cadasters": [
+        {
+            "fileid": 185015,
+            "name": "地籍資料.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-09-22/1cab5cdc-181a-48af-b2ed-30c3fe3059cf/地籍資料.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "桃園市大溪區和平段467地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "頭落第一進為店鋪使用，主要經營碗粿生意。後面則為居住空間，為街坊人稱「里長嬤」一家人的住所。",
+    "buildingActualState": "整體牌樓與騎樓空間保存維護現況尚且良好。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "和平路79號",
+    "isOpenVisit": true,
+    "openUpTime": "",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.286956852285,
+    "latitude": 24.8853950700302,
+    "representImageSource": "桃園市政府文化局",
+    "landScope": "桃園市大溪區和平段467地號，面積14平方公尺。",
+    "selfCoverage": "桃園市大溪區和平路77號騎樓。",
+    "addresses": [
+        {
+            "cityName": "桃園市",
+            "distName": "大溪區",
+            "id": 149697,
+            "caseId": 1285,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 510,
+            "address": "和平路79號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "桃園市",
+            "distName": "大溪區",
+            "landNoName": "和平段",
+            "cityLandUseTypeName": "商業區",
+            "id": 207545,
+            "caseId": 1285,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 510,
+            "landNoId": 7662,
+            "landSerialNo": "467",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "area": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 162937,
+            "caseId": 1285,
+            "caseStatus": true,
+            "registerDate": 1073962956000,
+            "officialDocNo": "府文資字第0930534224號",
+            "classificationId": 1
+        },
+        {
+            "id": 162938,
+            "caseId": 1285,
+            "caseStatus": true,
+            "registerDate": 1421078400000,
+            "officialDocNo": "府文資字第10303236382號",
+            "classificationId": 2,
+            "note": "行政改制"
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.28699085944406,24.885420765809506],[121.2870249805298,24.885401054298434],[121.28676930798345,24.885029474339564],[121.28672839485127,24.885043881083725],[121.28699085944406,24.885420765809506],[121.28699085944406,24.885420765809506]]]]},\"properties\":{\"envelope\":{\"left\":\"121.28672839485127\",\"top\":\"24.885029474339564\",\"right\":\"121.28702498052979\",\"bottom\":\"24.885420765809506\"},\"landLot\":\"桃園市大溪區和平段467\"}}],\"notfound\":[]}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": "桃園市文化資產導覽手冊"
+}

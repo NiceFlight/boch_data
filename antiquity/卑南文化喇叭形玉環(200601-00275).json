@@ -1,0 +1,87 @@
+{
+    "id": 4353,
+    "caseId": "20140421000056",
+    "count": 331,
+    "shareCount": 0,
+    "representImage": 7301,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7114/photo/卑南文化喇叭形玉環(200601-00275)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7114/photo/卑南文化喇叭形玉環(200601-00275).jpg",
+        "name": "卑南文化喇叭形玉環(200601-00275)"
+    },
+    "caseName": "卑南文化喇叭形玉環(200601-00275)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-其他",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1398009600000,
+    "officialDocNo": "文資局物字第10320043651號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要之時代特色、技術及流派",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本件喇叭形玉環，黃綠色，呈喇叭口形，器身帶斷裂修復痕及小穿孔，出土於墓葬人骨之左手臂，喇叭口朝上。\r\n為卑南文化早期玉飾代表類型之一，玉質佳、磨製精良、保存良好、出土數量稀少，具特殊文化意涵，展現臺灣史前時代精湛製玉工藝。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第1、3、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 22,
+    "belongCityName": "臺東縣",
+    "belongDistName": "臺東市",
+    "reservationCode": "200601-00275",
+    "keepNameId": 10,
+    "keepNameNew": 17,
+    "keepAddressNew": "臺東縣台東市博物館路1號",
+    "amount": 1,
+    "reserveStatusDesc": "玉質潤澤，黃綠色，呈喇叭口形，器身帶斷裂修復痕及小穿孔，出土於墓葬人骨之左手臂，喇叭口朝上。",
+    "documents": [
+        {
+            "fileid": 7302,
+            "name": "79d81b27-d0bd-4d68-81e5-682f6be48d4b.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44263/file/79d81b27-d0bd-4d68-81e5-682f6be48d4b.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立臺灣史前文化博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺東縣台東市博物館路1號",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺東縣",
+            "distName": "臺東市",
+            "id": 4496,
+            "caseId": 4353,
+            "caseStatus": true,
+            "cityId": 22,
+            "distId": 2201
+        }
+    ],
+    "announces": [
+        {
+            "id": 4496,
+            "caseId": 4353,
+            "caseStatus": true,
+            "registerDate": 1398009600000,
+            "officialDocNo": "文資局物字第10320043651號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

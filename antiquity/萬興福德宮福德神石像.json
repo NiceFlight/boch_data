@@ -1,0 +1,92 @@
+{
+    "id": 23023,
+    "caseId": "20240910000001",
+    "count": 149,
+    "shareCount": 0,
+    "representImage": 262011,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-09-10/eb029071-c88f-4af7-85f7-d1423ba5e52a/萬興福德宮福德神石像_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-09-10/eb029071-c88f-4af7-85f7-d1423ba5e52a/萬興福德宮福德神石像.jpg",
+        "name": "萬興福德宮福德神石像"
+    },
+    "caseName": "萬興福德宮福德神石像",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者"
+    ],
+    "registerReason": "1.符合一般古物指定基準第1款「具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色。」：本案福德神石像最晚於日治大正三年（1914）已存在，反映當地開發史、家族史、族群記憶及地方信仰。\n2.符合一般古物指定基準第2款「具有地方重要人物或歷史事件之深厚淵源者。」：本案福德神設祀之源起，與乾隆十年（1745）「十一命」事件有關，具地方開發歷史事件之淵源。\n",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-23115355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174之1號",
+    "reservationCode": "01",
+    "amount": 1,
+    "descAge": "日治時期",
+    "descSize": "正面寬18公分、側面寬長15公分、高32公分",
+    "descMaterial": "觀音山石",
+    "reserveStatusDesc": "據地方耆老傳述，清領時期木柵地區當地望族鄭培公，因地方發生「十一命案」，為安撫民心，萬興福德宮的福德正神神像最初由此設立，以安撫居民們在「十一命案」後的恐慌。昔日的福德神石像呈灰褐色，重約14.8公斤，不易搬動。由於長期受到香火熏染，現已變為黑色。至於福德神石像確切奉祀於廟內的日期已無可考，僅能推斷應是在日治時期明治末年至大正初年間。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "日治大正三年，臺北市文山區指南路二段43號",
+    "saveEnvironment": 2,
+    "reserveStatus": "狀況穩定",
+    "documents": [
+        {
+            "fileid": 262010,
+            "name": "113年9月9日北市獻編字第1133003374號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-09-10/3c3080d3-d701-45ee-952e-e0f0724d82d7/113年9月9日北市獻編字第1133003374號公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "臺北市立文獻館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "社團法人台北市政大福德神協會",
+            "keepName": "社團法人台北市政大福德神協會",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "社團法人台北市政大福德神協會",
+            "keepAddressNew": "臺北市文山區指南路二段43號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "文山區",
+            "id": 135712,
+            "caseId": 23023,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 112,
+            "address": "指南路二段43號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 148187,
+            "caseId": 23023,
+            "caseStatus": true,
+            "registerDate": 1725849260065,
+            "officialDocNo": "北市獻編字第1133003374號公告",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,107 @@
+{
+    "id": 3645,
+    "caseId": "20110211000001",
+    "count": 223,
+    "shareCount": 0,
+    "representImage": 6386,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32593/photo/6b895778-88ca-4d73-95ed-a0af8229e02a_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32593/photo/6b895778-88ca-4d73-95ed-a0af8229e02a.jpg",
+        "name": "6b895778-88ca-4d73-95ed-a0af8229e02a"
+    },
+    "caseName": "雲龍罍",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1297353600000,
+    "officialDocNo": "會授資籌二字第10020006991號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "此器為河南新鄭出土，屬春秋中期中原鄭公大墓遺物。本件雲龍罍為酒器，亦為盛水器。雲龍罍形制為斂口、短頸、寬肩、淺腹、圈足。四耳間隙處，留存四個圓形殘痕，對照早期圖集中原存完整拓片之紋飾拓片顯示，原有貼金箔片龍紋裝飾物，但已脫落不存。此器以表現春秋時代重要紋飾著名，肩部有四龍耳立體鑄件，雙龍交尾銜環。腹部為帶狀雙鉤交錯的蟠蛇紋飾，被學者稱為「新鄭式花紋」。具有重要歷史、文化價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第一、三、四、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "天字62號(h0000285)",
+    "keepNameId": 7,
+    "keepName": "國立歷史博物館",
+    "keepNameNew": 7,
+    "keepAddressNew": "100台北市中正區南海路49號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "春秋中期",
+    "descSize": "高59.2公分、口徑31.4公分、腹圍157.5公分、重17.5公斤",
+    "descMaterial": "青銅",
+    "reserveStatusDesc": "大致完整餘有老修補及修護",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "1923年河南新鄭鄭公大墓出土",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定 ",
+    "documents": [
+        {
+            "fileid": 53554,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-12-27/2bf8034e-a457-42a3-8c51-2d6b90f9183e/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立歷史博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立歷史博物館",
+            "keepName": "國立歷史博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立歷史博物館",
+            "keepAddressNew": "100台北市中正區南海路49號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "徐州路21號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3787,
+            "caseId": 3645,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3787,
+            "caseId": 3645,
+            "caseStatus": true,
+            "registerDate": 1297353600000,
+            "officialDocNo": "會授資籌二字第10020006991號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

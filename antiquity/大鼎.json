@@ -1,0 +1,106 @@
+{
+    "id": 16575,
+    "caseId": "20190215000014",
+    "count": 168,
+    "shareCount": 0,
+    "representImage": 55469,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-02-15/0a9ef297-297c-4f57-827c-00365f0bec3d/16-故銅002370_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-02-15/0a9ef297-297c-4f57-827c-00365f0bec3d/16-故銅002370.jpg",
+        "name": "16-故銅002370"
+    },
+    "caseName": "大鼎",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1550125104896,
+    "officialDocNo": "文授資局物字第10830016641號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此器深腹，圜底，蹄足。口沿下飾兩道弦紋，簡約樸實。器內壁鑄有長篇銘文，述及儀式進行時擔任周王身邊的傳喚官膳夫，輔助周王進行對作器者大的賞賜儀式。此一職位在西周早期為食官，至西周晚期時於政治上取得了重要地位，為周王的左右。此器銘文展現了膳夫在儀式進行中的職能，可見證膳夫職能的轉換和發展。\n《殷周金文集成》所錄〈大鼎〉計有三件，除本件外，一件藏於北京故宮博物院，一件已佚。傳世另有〈大簋〉及〈大簋蓋〉，記述周王賞賜牡牛及田地等，可見器主的顯赫與尊榮。\n此器為清宮舊藏，著錄於《西清古鑑》卷2頁17。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第3、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777　",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故銅002370",
+    "amount": 1,
+    "descAge": "西周晚期(西元前9-8世紀) ",
+    "descSize": "通高31.6公分/口徑38公分/重9.94公斤",
+    "descMaterial": "銅/鑄造",
+    "reserveStatusDesc": "侈口，附耳，圜底，蹄足。口沿下飾兩道弦紋。全器簡約樸實，為西周晚期典型樣式。\n器內壁鑄有長篇銘文，共七十八字，又重文三字：\n唯十又五年三月既霸丁亥，王在 侲宮，大以厥友守。王饗醴，王呼膳夫 召大以厥友入扞。王召走馬應令取騅 卅二匹賜大，大拜 首，對揚天子丕顯休，用作朕烈考己伯盂鼎，大其子子孫孫萬年永寶用。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏，著錄於《西清古鑑》卷2頁17。",
+    "saveEnvironment": 1,
+    "reserveStatus": "良好。",
+    "documents": [
+        {
+            "fileid": 146825,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-02/2d1ca0bc-384f-4ee5-80cd-585147924a5c/公告.pdf"
+        },
+        {
+            "fileid": 146826,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-02/6d1ee294-e1f4-45a0-aeb3-85a12b4ea31e/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 68713,
+            "caseId": 16575,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 72813,
+            "caseId": 16575,
+            "caseStatus": true,
+            "registerDate": 1550125104896,
+            "officialDocNo": "文授資局物字第10830016641號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

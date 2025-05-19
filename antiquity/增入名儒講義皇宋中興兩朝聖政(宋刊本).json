@@ -1,0 +1,105 @@
+{
+    "id": 3426,
+    "caseId": "20131219000050",
+    "count": 26,
+    "shareCount": 0,
+    "representImage": 5975,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7181/photo/增入名儒講義皇宋中興兩朝聖政(宋刊本)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7181/photo/增入名儒講義皇宋中興兩朝聖政(宋刊本).jpg",
+        "name": "增入名儒講義皇宋中興兩朝聖政(宋刊本)"
+    },
+    "caseName": "增入名儒講義皇宋中興兩朝聖政(宋刊本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1387382400000,
+    "officialDocNo": "文資局物字第 10220148851號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "南宋建刊巾箱本。\r\n本書編年紀事，分類記載了南宋高宗、孝宗兩朝的君臣言行，可作為研究南宋政治史之參考。書上各頁左上欄外記帝名年號，書中附刻圈點，卷首有中興兩朝聖政分類事目，書眉處附刻簡明分類事目，便利讀者檢閱，此為建坊刻書常用形式。此書後僅抄本流傳，未聞他處藏有同版。\r\n宋版古籍，此本為科舉制度下特有之工具書形式，罕見稀有，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號01871",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 42,
+    "notes": "",
+    "descAge": "南宋",
+    "descCreator": "宋不著撰人",
+    "descSize": "半葉11行，版匡10.6x6.7公分",
+    "descMaterial": "紙質刊本",
+    "reserveStatusDesc": "存四十卷。本書編年紀事，分類記載了南宋高宗、孝宗兩朝的君臣言行，可作為研究南宋政治史之參考。書上各頁左上欄外記帝名年號，書中附刻圈點，卷首有中興兩朝聖政分類事目，書眉處附刻簡明分類事目，便利讀者檢閱，此為建坊刻書常用形式。此書後僅抄本流傳，未聞他處藏有同版。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "無虫蛀。經修裱，書況良好。\n",
+    "documents": [
+        {
+            "fileid": 5976,
+            "name": "1df103cb-8fa2-4487-8f5d-8d84dff581d2.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44040/file/1df103cb-8fa2-4487-8f5d-8d84dff581d2.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3568,
+            "caseId": 3426,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3568,
+            "caseId": 3426,
+            "caseStatus": true,
+            "registerDate": 1387382400000,
+            "officialDocNo": "文資局物字第 10220148851號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

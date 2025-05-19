@@ -1,0 +1,130 @@
+{
+    "id": 52,
+    "caseId": "19980504000005",
+    "count": 3107,
+    "shareCount": 5,
+    "representImage": 186823,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/8d5aa095-96d6-49fe-960d-51af3e784703/代表圖像_臺灣銀行_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/8d5aa095-96d6-49fe-960d-51af3e784703/代表圖像_臺灣銀行.jpg",
+        "name": "代表圖像_臺灣銀行"
+    },
+    "caseName": "臺灣銀行",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "臺灣銀行始創於一八九七年，當時為日據初期，殖民政府為控制臺灣金融與經濟而設立，亦是後來執行南進政策的金融與投資機構。\r\n一九０三年建銀行總部於今址的西側，原為紅磚與斜頂之仿後期文藝復興式建築。因遭白蟻侵蝕，乃於一九三八年擇今址重建，由日本建築家西村好時設計，大倉土木施工。臺灣銀行在二次大戰時遭受轟炸，屋頂於戰後重修，但外觀牆體及列柱均為花崗石原物。它採用西洋古典建築元素，如臺柱、列柱、石雕花瓶欄杆、柱頭與女兒牆連續的飾帶，充分表現出穩重而理性的美感。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "銀行",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 117256,
+            "name": "_807504指定古蹟公告(2).tif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/1a052607-5046-42c5-aadd-11d59563143e/_807504指定古蹟公告(2).tif"
+        },
+        {
+            "fileid": 117257,
+            "name": "3._870504指定古蹟公告(1).tif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/2795f3c0-4153-4ff0-afa0-3708a3878d7e/3._870504指定古蹟公告(1).tif"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值"
+    ],
+    "registerReason": "具有保存價值",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 117258,
+            "name": "無.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/057fb0e2-d304-4372-be1c-319568fe9251/無.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 4,
+    "cityLandUseTypeName": "行政區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "台北市城中段二小段399-2、400-5地號",
+    "buildingFeatures": "臺灣銀行始創於一八九七年，當時為日據初期，殖民政府為控制臺灣金融與經濟而設立，亦是後來執行南進政策的金融與投資機構。",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "做為臺灣銀行本行使用",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.512912,
+    "latitude": 25.041467,
+    "representImageSource": "臺北市文化局",
+    "landScope": "台北市城中段二小段399-2、400-5地號",
+    "selfCoverage": "120號（營業部）建築本體",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 127846,
+            "caseId": 52,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "重慶南路1段120號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "城中段二小段",
+            "cityLandUseTypeName": "行政區",
+            "id": 175557,
+            "caseId": 52,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 147,
+            "landSerialNo": "399-2",
+            "landownership": 1,
+            "cityLandUseTypeId": 4,
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "城中段二小段",
+            "cityLandUseTypeName": "行政區",
+            "id": 175558,
+            "caseId": 52,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 147,
+            "landSerialNo": "400-5",
+            "cityLandUseTypeId": 4,
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 138857,
+            "caseId": 52,
+            "caseStatus": true,
+            "registerDate": 894211200000,
+            "officialDocNo": "府民三字第8702427101號",
+            "classificationId": 1,
+            "note": "無"
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.51254504944939,25.04182483539734],[121.51300569597299,25.041834621027657],[121.51294419664582,25.041191852180038],[121.51224528098457,25.04126621732138],[121.51227719370745,25.04150065731609],[121.51249649354624,25.041477421087517],[121.51254504944939,25.04182483539734],[121.51254504944939,25.04182483539734]]]]},\"properties\":{\"xcenter\":121.51268639669757,\"ycenter\":25.04149785274292,\"query\":\"台北市中正區城中段二小段-地號399-2號\",\"content\":\"1. 個案名稱: 臺灣銀行 <br />\\n      2. 地號: 台北市中正區城中段二小段-地號399-2號 <br />\\n      3. 級別: 直轄市定古蹟 <br />\\n      4. 種類: 其他設施 <br />\\n      5. 指定登錄理由: 具有保存價值 <br />\\n      6. 最後一筆公告日期: 1998-05-04 <br />\\n      7. 最後一筆公告文號: 府民三字第8702427101號 <br />\\n      8. 管理單位: 臺灣銀行股份有限公司 <br />\\n      9. 使用單位: 臺灣銀行股份有限公司 <br />\\n      10. 建物狀態: 現況良好 <br />\"}},{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.51224528098457,25.04126621732138],[121.51294419664582,25.041191852180038],[121.51300569597299,25.041834621027657],[121.51301210838743,25.041834779449143],[121.51303922140264,25.04180841406628],[121.5129785224034,25.0411889349643],[121.51294010205031,25.041160448531333],[121.51224100856267,25.041234904545593],[121.51224528098457,25.04126621732138],[121.51224528098457,25.04126621732138]]]]},\"properties\":{\"xcenter\":121.5127950961102,\"ycenter\":25.041359698175665,\"query\":\"台北市中正區城中段二小段-地號400-5號\",\"content\":\"1. 個案名稱: 臺灣銀行 <br />\\n      2. 地號: 台北市中正區城中段二小段-地號400-5號 <br />\\n      3. 級別: 直轄市定古蹟 <br />\\n      4. 種類: 其他設施 <br />\\n      5. 指定登錄理由: 具有保存價值 <br />\\n      6. 最後一筆公告日期: 1998-05-04 <br />\\n      7. 最後一筆公告文號: 府民三字第8702427101號 <br />\\n      8. 管理單位: 臺灣銀行股份有限公司 <br />\\n      9. 使用單位: 臺灣銀行股份有限公司 <br />\\n      10. 建物狀態: 現況良好 <br />\"}}],\"address\":[{\"address\":\"1. 個案名稱: 臺灣銀行 <br />\\n      2. 地址: 重慶南路1段120號 <br />\\n      3. 級別: 直轄市定古蹟 <br />\\n      4. 種類: 其他設施 <br />\\n      5. 指定登錄理由: 具有保存價值 <br />\\n      6. 最後一筆公告日期: 1998-05-04 <br />\\n      7. 最後一筆公告文號: 府民三字第8702427101號 <br />\\n      8. 管理單位: 臺灣銀行股份有限公司 <br />\\n      9. 使用單位: 臺灣銀行股份有限公司 <br />\\n      10. 建物狀態: 現況良好 <br />\",\"lat\":\"\",\"lng\":\"\"}]}]",
+    "openVisitType": "完全開放參觀",
+    "isCharge": false,
+    "pastHistorySource": "臺北市古蹟巡覽（下冊）"
+}

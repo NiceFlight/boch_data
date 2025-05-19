@@ -1,0 +1,105 @@
+{
+    "id": 3430,
+    "caseId": "20131219000054",
+    "count": 85,
+    "shareCount": 0,
+    "representImage": 5983,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7197/photo/英宗睿皇帝實錄(明鈔本)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7197/photo/英宗睿皇帝實錄(明鈔本).jpg",
+        "name": "英宗睿皇帝實錄(明鈔本)"
+    },
+    "caseName": "英宗睿皇帝實錄(明鈔本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1387382400000,
+    "officialDocNo": "文資局物字第 10220148851號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "明翰林院紅格鈔本。\r\n撰者陳文(1405-1468)字安簡，號褧齋，廬陵人。正統元年(1436)進士，累官禮部尚書，兼文淵閣大學士，卒諡莊靖。\r\n明翰林院紅格鈔本皇帝實錄之一，具保存及參考價值。此本為英宗實錄，記載明第六代皇帝英宗事蹟的編年體史書。原三百六十一卷，今存各卷卷端及尾題的卷次俱被剜去，經查為卷十三至卷十七、卷一百八十七至一百九十、卷二百七十四至二百七十八。\r\n明翰林院鈔本古籍，罕見稀有，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號01957",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 5,
+    "notes": "",
+    "descAge": "明代",
+    "descCreator": "明陳文等撰",
+    "descSize": "半葉10行，版匡20.7x14.1公分",
+    "descMaterial": "紙質鈔本",
+    "reserveStatusDesc": "存十五卷。\n明翰林院紅格鈔本皇帝實錄之一，具保存及參考價值。此本為英宗實錄，記載明第六代皇帝英宗事蹟的編年體史書。原三百六十一卷，今存各卷卷端及尾題的卷次俱被剜去，經查為卷十三至卷十七、卷一百八十七至一百九十、卷二百七十四至二百七十八。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "無虫蛀。未經修裱，書況良好。\n",
+    "documents": [
+        {
+            "fileid": 5984,
+            "name": "bb8cc961-e995-4b4e-98da-8b4ce31a8ea2.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44044/file/bb8cc961-e995-4b4e-98da-8b4ce31a8ea2.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3572,
+            "caseId": 3430,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3572,
+            "caseId": 3430,
+            "caseStatus": true,
+            "registerDate": 1387382400000,
+            "officialDocNo": "文資局物字第 10220148851號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

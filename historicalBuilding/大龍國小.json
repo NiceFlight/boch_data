@@ -1,0 +1,112 @@
+{
+    "id": 978,
+    "caseId": "20061220000003",
+    "count": 3139,
+    "shareCount": 1,
+    "representImage": 186929,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/223d31d0-d916-4f05-9a8f-57d336f343d5/代表圖像_大龍國小_20221011_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/223d31d0-d916-4f05-9a8f-57d336f343d5/代表圖像_大龍國小_20221011.jpg",
+        "name": "代表圖像_大龍國小_20221011"
+    },
+    "caseName": "大龍國小",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "民國22年時所建教室為2樓，約民國57年增建3樓，入口大門及圍牆約建於民國40幾年，大門口兩邊石柱約有90年歷史。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "具有歷史、文化、藝術價值之建造物",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 167665,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-06-13/555dea6f-4b80-4ed7-9cb4-408bd07e7fd1/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "1.大龍國小建校迄今已歷100餘年，培育地方人士不計其數，為大龍峒地區小學教育史之見證，具歷史文化價值。\r\n2.校內1933年所建之兩層樓教室，拱廊與高敞的空間、洗石子之樓梯，反映當時臺灣小學校舍之建築特色，目前保存完整仍維持早期國民小學校格局，具文化資產之價值。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、4款評定基準",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 118168,
+            "name": "地形位置圖與地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/177b0ea4-7feb-4179-b468-4145595f2635/地形位置圖與地籍圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 5,
+    "cityLandUseTypeName": "文教區",
+    "locationLandNo": "臺北市大同區大龍段1小段631地號(部份)",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "保存完整，仍維持早期國民小學校格局。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.5166925,
+    "latitude": 25.073409,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市大同區大龍段1小段631地號(部份)",
+    "selfCoverage": " 實際保存面積須以保存範圍實測數據為準",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 93662,
+            "caseId": 978,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "哈密街47號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "大龍段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 115281,
+            "caseId": 978,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 195,
+            "landSerialNo": "631",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "370平方公尺",
+            "cityLandUseTypeOther": "國小用地（公共設施用地）",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 101070,
+            "caseId": 978,
+            "caseStatus": true,
+            "registerDate": 1166544000000,
+            "officialDocNo": "府文化二字第09530346000號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

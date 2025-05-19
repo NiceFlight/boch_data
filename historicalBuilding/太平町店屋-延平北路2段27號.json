@@ -1,0 +1,135 @@
+{
+    "id": 955,
+    "caseId": "20061013000001",
+    "count": 2572,
+    "shareCount": 2,
+    "representImage": 173434,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/5bd1c9d8-bd54-4098-a105-8f61b1f88016/代表圖像_太平町店屋-延平北路2段27號_20220712_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/5bd1c9d8-bd54-4098-a105-8f61b1f88016/代表圖像_太平町店屋-延平北路2段27號_20220712.jpeg",
+        "name": "代表圖像_太平町店屋-延平北路2段27號_20220712"
+    },
+    "caseName": "太平町店屋-延平北路2段27號",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "依地政事務所提供資料1939年所有權人為大稻埕發記茶行洪九江，1940年賣給張亦泰兩合公司，至1954年賣給蔡茂盛先生，2011年捐贈臺北市政府作為臺北市都市更新處URS27W空間，2020年轉由臺北市政府文化局管理。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 167505,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-06-12/472db508-bf9f-4857-a049-28a3b1218bb5/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "一、「太平町」（延平北路）與「永樂町」（迪化街）及港町（貴德街）是大稻埕三條代表之街道，見證台北發展歷史。而「太平町」為台灣人打造出來的「台灣人市街」，本建物位於昔太平町，具太平町發展歷史記憶。\r\n二、本建物緊鄰1920年代臺灣最重要社會運動據點，即蔣渭水所開設之原大安醫院、文化協會及文化書局，就歷史場景而言，具歷史意義。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、4款評定基準",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 118228,
+            "name": "太平町店屋-延平北路2段27號.png",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/721bd544-76d5-46e2-8d5e-d270b6e75866/太平町店屋-延平北路2段27號.png"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "特定專用區（二）",
+    "locationLandNo": "臺北市大同區迪化段一小段569、570地號",
+    "buildingFeatures": "本棟為二層樓高之磚造建物，建築立面為四柱三窗形式，有一個半圓形的山牆，牆面使用泥塑裝飾並以一水平飾帶分隔不同建築材料。",
+    "inHouseFeatures": "已整修過，目前為現代構造形式。",
+    "buildingUsage": "",
+    "buildingActualState": "立面仍為原有構造，內部樓版結構已改為鋼筋混擬土。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.511843,
+    "latitude": 25.054723,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市大同區迪化段一小段569、570地號",
+    "selfCoverage": "迪化段一小段885建號，面積196.11平方公尺(以實際測量面積為準)",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 88678,
+            "caseId": 955,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "延平北路2段27號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 105740,
+            "caseId": 955,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 192,
+            "landSerialNo": "569",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "19",
+            "cityLandUseTypeOther": "特定專用區（二）（大稻埕歷史風貌特定區）",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 105741,
+            "caseId": 955,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 192,
+            "landSerialNo": "570",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "133",
+            "cityLandUseTypeOther": "特定專用區（二）（大稻埕歷史風貌特定區）",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 95658,
+            "caseId": 955,
+            "caseStatus": true,
+            "registerDate": 1160668800000,
+            "officialDocNo": "府文化二字第09530302700號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

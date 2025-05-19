@@ -1,0 +1,97 @@
+{
+    "id": 18992,
+    "caseId": "20210429000018",
+    "count": 257,
+    "shareCount": 2,
+    "representImage": 108113,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-04-29/a61560fd-fc9d-4d41-9957-a1fb479336ec/21明 宣德 霽青釉盤_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-04-29/a61560fd-fc9d-4d41-9957-a1fb479336ec/21明 宣德 霽青釉盤.jpg",
+        "name": "21明 宣德 霽青釉盤"
+    },
+    "caseName": "明 宣德 霽青釉盤",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "數量特別稀少或具完整性保存意義者",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此器呈侈口窄唇，淺壁，矮圈足。胎質稍厚，內外滿施霽青釉，盤底純白，樸素無紋飾。底劃有「大明宣德年製」六楷字暗款，外加雙圈。傳世隨附木座，底刻「甲」字銘。此器曾收入由乾隆皇帝主導，於乾隆五十五年（1790）組合名為《精陶韞古》典藏圖冊，現今所知傳世為乾隆皇帝主導、製作的圖冊，共有九冊，可知數量特別稀少。其中，能與圖冊對照者更為珍稀。此作整件作品的造形特徵，即繪入圖冊當中，益顯珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "0422177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故瓷13898",
+    "amount": 1,
+    "descAge": "明　宣德",
+    "descSize": "高4.2公分　口徑17.4公分　底徑10.9公分",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "此器呈圓口，淺弧形壁，平底，矮圈足。全器施霽青釉，施釉至足邊，口沿與足邊各留一道白邊，足緣無釉露白胎。足內壁及底施白釉，底有「大明宣德年製」六字楷體暗款，外加雙圈。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "良好。",
+    "documents": [
+        {
+            "fileid": 142946,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-05/68b615c2-ac88-4999-8a47-5c15986097f5/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.54843225,
+    "latitude": 121.54843225,
+    "representImageSource": "國立故宮博物院 ",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "  ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "  ",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 66550,
+            "caseId": 18992,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 70736,
+            "caseId": 18992,
+            "caseStatus": true,
+            "registerDate": 1617795258571,
+            "officialDocNo": "文授資局物字第11030033241號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

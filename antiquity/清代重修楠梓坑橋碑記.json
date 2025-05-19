@@ -1,0 +1,102 @@
+{
+    "id": 18123,
+    "caseId": "20201208000003",
+    "count": 349,
+    "shareCount": 0,
+    "representImage": 49496,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-08-16/aa0c7984-1de8-4d42-a6d5-d18fb6777dcf/清代重修楠梓坑橋碑記_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-08-16/aa0c7984-1de8-4d42-a6d5-d18fb6777dcf/清代重修楠梓坑橋碑記.jpg",
+        "name": "清代重修楠梓坑橋碑記"
+    },
+    "caseName": "清代重修楠梓坑橋碑記",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1477584000000,
+    "officialDocNo": "高市府文博字第10570358400號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "對地方或族群知識、技術或流派發展具影響或意義"
+    ],
+    "registerReason": "1.\t本案一組三件，見證地方交通設施的發展，具歷史意義。\n2.\t楠梓坑橋位於楠梓舊街，跨越楠梓溪，清康熙31年﹙1692﹚南路参將吳三錫創建，係清代鳳山縣往臺灣府城的交通要道，歷代皆有修葺。本案碑記見證地方交通設施的發展，三件碑文題立時間具歷史連貫性，可與陳文達《鳳山縣志》、王瑛曾《重修鳳山縣志》、盧德嘉《鳳山縣采訪冊》等志書文獻互為印證，具史事淵源。\n3.\t碑文記錄臺灣南路營石井汛、觀音山汛等資料，見證清代臺灣的地方軍備；又，碑文有許多商家店舖的捐題記錄，為研究地方社會經濟史的珍貴史料，具珍貴稀有性。\n4.\t碑座鐫刻「麒麟回首」紋飾，具文化及藝術價值。\n5.\t依據古物分級指定指定及廢止審查辦法第2條第1項第1、2、6款指定。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2、6款",
+    "govInstitutionCode": "800",
+    "govInstitutionName": "高雄市政府",
+    "belongCityId": 18,
+    "belongCityName": "高雄市",
+    "belongDistName": "楠梓區",
+    "govInstitution": "高雄市文化局",
+    "govDeptName": "文化資產中心",
+    "govDeptPhone": "07-2225136#8829",
+    "govDeptAddress": "高雄市苓雅區五福一路67號",
+    "reservationCode": "KH2021.001.0001",
+    "amount": 3,
+    "descAge": "1774、1828、1888",
+    "descSize": "長142cm、寬74cm、厚12cm/ 長105cm、寬59cm、厚13cm/ 長116cm、寬58cm、厚13cm ",
+    "descMaterial": "花崗岩",
+    "reserveStatusDesc": "本案一組三件，包含清乾隆39年﹙1774﹚、清道光8年﹙1828﹚及清光緒14年﹙1888﹚重修楠梓坑橋的捐題紀錄。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "1774",
+    "saveEnvironment": 3,
+    "reserveStatus": "兩塊斷裂，預計遷移至高雄市孔廟進行保存維護",
+    "documents": [
+        {
+            "fileid": 49495,
+            "name": "105古物備查資料ALL.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-08-16/b422949f-e555-49d4-8fdb-aca3145b4339/105古物備查資料ALL.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 22.68951085855884,
+    "latitude": 120.29874045371457,
+    "representImageSource": "高雄市立歷史博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "高雄市立歷史博物館",
+            "keepName": "鍾子瑄",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "高雄市立歷史博物館",
+            "keepAddressNew": "高雄市鹽埕區河西路99號3樓",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "高雄市",
+            "keepNameDistName": "鹽埕區",
+            "keepNameAddress": "中正四路272號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "高雄市",
+            "distName": "左營區",
+            "id": 148676,
+            "caseId": 18123,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1811,
+            "address": "蓮潭路400號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 161643,
+            "caseId": 18123,
+            "caseStatus": true,
+            "registerDate": 1477584000000,
+            "officialDocNo": "高市府文博字第10570358400號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

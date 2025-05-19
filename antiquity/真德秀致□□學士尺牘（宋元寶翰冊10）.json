@@ -1,0 +1,111 @@
+{
+    "id": 4113,
+    "caseId": "20110422000040",
+    "count": 212,
+    "shareCount": 0,
+    "representImage": 7031,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/34768/photo/facb4487-7c43-47ae-8caf-004afba76a80_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/34768/photo/facb4487-7c43-47ae-8caf-004afba76a80.JPG",
+        "name": "facb4487-7c43-47ae-8caf-004afba76a80"
+    },
+    "caseName": "真德秀致□□學士尺牘（宋元寶翰冊10）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1303401600000,
+    "officialDocNo": "會授資籌二字10020040353號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事重要淵源",
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "此札為南宋理學家真德秀罕見存世書跡，內容論及理學相關可為南宋珍貴史料。品質精良且數量稀少。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第一、二、三、四、五、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故書00024900009",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descSize": "28.1 x 36.5 公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "真德秀（1178-1235），理宗朝宰相，是朱熹的再傳弟子，亦是促成朱氏之學在南宋末年普世化及官學化的關鍵人物。本幅是他寫給理學同道王德文（1190-1246）的信札。德文的學問來自家傳，其曾伯祖父王蘋（1082-1153）是北宋理學宗師程頤、程灝的得意門生，但因著述刊行不廣，名氣不彰。信上提到的「先著作文集」，指的就是王蘋的遺著《王著作文集》，真氏說要為此書作跋，當有顯揚王氏家學及程門嫡傳的用意。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "汚漬、傷補、霉傷、折痕。有損傷但狀況穩定。",
+    "documents": [
+        {
+            "fileid": 16430,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2017-11-06/386fb545-3211-41ec-8605-f127863ca642/公告.pdf"
+        },
+        {
+            "fileid": 152120,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-28/428348a1-36f0-42c5-a4ab-26e0c37a647b/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71656,
+            "caseId": 4113,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 76130,
+            "caseId": 4113,
+            "caseStatus": true,
+            "registerDate": 1303401600000,
+            "officialDocNo": "會授資籌二字10020040353號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

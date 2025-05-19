@@ -1,0 +1,108 @@
+{
+    "id": 3997,
+    "caseId": "20120326000052",
+    "count": 546,
+    "shareCount": 1,
+    "representImage": 6854,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32983/photo/9d443324-ac9f-4db7-bd6d-e277de408fb7_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32983/photo/9d443324-ac9f-4db7-bd6d-e277de408fb7.JPG",
+        "name": "9d443324-ac9f-4db7-bd6d-e277de408fb7"
+    },
+    "caseName": "宋范寬谿山行旅圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有特殊之時代特色、技術及流派",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "范寬（活動於十一世紀初期），字中立，華原（今陝西耀縣）人，擅長山水，初學李成、荊浩，因長年觀察自然而獨創一家面貌。范寬的傳世作品罕見，此畫署有「范寬」名款，是學界公認范寬的真蹟，為北宋前期巨碑（中峰鼎立）或全景山水畫之代表作。具時代特色與特殊藝術價值，且品質精良且數量特別稀少。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第四條第一項第三、五、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000826",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descCreator": "范寬",
+    "descSize": "206.3×103.3公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "范寬（活動於十一世紀初期），字中立，華原（今陝西耀縣）人，擅長山水，初學李成、荊浩，因長年觀察自然而獨創一家面貌。畫幅右角樹陰下有范寬二字款。詩塘有董其昌書北宋范中立谿山行旅圖十字。此畫構圖簡潔，近景為下方中央處巨石，中景則是驢隊所在，遠景是一聳立主山。其山腰下藉雲霧留白，凸顯空間遠隔之效。全幅以方折線條勾勒輪廓，再藉短筆皴畫土石質感。龐大山體與畫中行旅騾隊相映，展現出攝人的雄壯氣勢。畫右下山林枝葉間，題「范寬」款。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 151600,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-25/58f7cf9e-8696-4280-8e19-2735e7837a00/公告.pdf"
+        },
+        {
+            "fileid": 151601,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-25/b2f9ebb7-72a8-406b-b3d4-ffd64c63cc2d/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71462,
+            "caseId": 3997,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": " 至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75910,
+            "caseId": 3997,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

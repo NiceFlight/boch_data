@@ -1,0 +1,112 @@
+{
+    "id": 2388,
+    "caseId": "20071008000001",
+    "count": 306,
+    "shareCount": 1,
+    "representImage": 4679,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/traditional_art/437/photo/4ba74515-5a32-4774-824c-f3ba327e9ba8_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/traditional_art/437/photo/4ba74515-5a32-4774-824c-f3ba327e9ba8.JPG",
+        "name": "4ba74515-5a32-4774-824c-f3ba327e9ba8"
+    },
+    "caseName": "閩南第一樂團",
+    "classifyCode": "4.1",
+    "classifyName": "傳統表演藝術",
+    "assetsTypeNames": "音樂",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "4.1.1",
+    "assetsClassifyName": "傳統表演藝術",
+    "registerDate": 1191818875000,
+    "officialDocNo": "基府文資貳字第0960113207A號",
+    "documents": [
+        {
+            "fileid": 200554,
+            "name": "0961008-登錄公告-無形文化資產.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-11-23/c34eb933-30c8-4beb-829d-2b94ea4ed28b/0961008-登錄公告-無形文化資產.pdf"
+        },
+        {
+            "fileid": 205605,
+            "name": "111條無形文資重新公告-傳統表演藝術.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-01-10/acfce573-5e42-4048-9f6b-a202f48c7ea4/111條無形文資重新公告-傳統表演藝術.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "藝術性:具有藝術價值者",
+        "特殊性:構成傳統藝術之特殊藝能表現,其技法優秀者",
+        "地方性:傳統藝術領域有價值與地位,並具有地方色彩或流派特色顯著者"
+    ],
+    "registerReason": "「藝術性：具有藝術價值者」、「特殊性：構成傳統藝術之特殊藝能表現，其技法優秀者」、「地方性:傳統藝術領域有價值與地位,並具有地方色彩或流派特色顯著者」\n",
+    "lawsReference": "<<傳統藝術、民俗及有關文物登錄指定及廢止審查辦法>>第2條第1項第1款第1、2、3目",
+    "govInstitutionCode": "200",
+    "govInstitutionName": "基隆市政府",
+    "belongCityId": 2,
+    "belongCityName": "基隆市",
+    "govInstitution": "基隆市文化觀光局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2422-4170",
+    "govDeptAddress": "基隆市信一路181號",
+    "belongAddress": "",
+    "historyDevelopment": "南管為古老的樂曲，主要流傳於閩南地區，隨著移民帶來台灣。基隆南管主要因中國泉州同鄉漸成聚落組成。\n根據《南管曲唱研究》一書第26頁，曾有陳璋榮、吳昆仁、蔣以煌、吳淑珍擔任館先生，目前則無館先生教導，為團員定期團練。",
+    "preservers": [
+        {
+            "id": 4615,
+            "type": "團體",
+            "caseName": "閩南第一樂團",
+            "cityName": "基隆市",
+            "distName": "仁愛區",
+            "caseArtistEntities": [],
+            "representImage": 163651,
+            "registrationDate": 1191772800000,
+            "judgeCriteria": [
+                "熟知並能正確體現該登錄項目之知識、技藝與文化表現形式，並具代表性",
+                "具該登錄項目之傳習能力與意願",
+                "在文化脈絡下為適當者"
+            ],
+            "registerReason": "地方性:傳統藝術領域有價值與地位,並具有地方色彩或流派特色顯著者",
+            "lawsReference": "<<傳統表演藝術登錄認定及廢止審查辦法>>第4條第1、2、3款",
+            "status": "",
+            "school": "南管為古老的樂曲，主要流傳於泉州地區，隨著移民帶來台灣，基隆南管主要因泉州同鄉漸成聚落組成。",
+            "isOpenDownload": false,
+            "representImageSource": "閩南第一樂團臉書",
+            "contactorIsOpen": false,
+            "caseAliasName": "閩南第一樂團"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "基隆市文化觀光局",
+    "addresses": [
+        {
+            "cityName": "基隆市",
+            "distName": "仁愛區",
+            "id": 148874,
+            "caseId": 2388,
+            "caseStatus": true,
+            "cityId": 2,
+            "distId": 201,
+            "address": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 161885,
+            "caseId": 2388,
+            "caseStatus": true,
+            "registerDate": 1191818875000,
+            "officialDocNo": "基府文資貳字第0960113207B號",
+            "classificationId": 1,
+            "note": "公告「閩南第一樂團」為傳統藝術"
+        },
+        {
+            "id": 161886,
+            "caseId": 2388,
+            "caseStatus": true,
+            "registerDate": 1646582400000,
+            "officialDocNo": "府授文資壹字第1110330079C號",
+            "classificationId": 1,
+            "note": "重新登錄本市無形文化資產原「傳統藝術」文化資產類別名稱為「傳統表演藝術」，並廢止原公告之「傳統藝術」名稱。"
+        }
+    ]
+}

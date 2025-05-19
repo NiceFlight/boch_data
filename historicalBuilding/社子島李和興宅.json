@@ -1,0 +1,116 @@
+{
+    "id": 2163,
+    "caseId": "20160630000001",
+    "count": 3015,
+    "shareCount": 1,
+    "representImage": 205110,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/9117eda2-93a5-42fd-a436-294aed0bd8b8/代表圖像_社子島李和興宅_20221025_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/9117eda2-93a5-42fd-a436-294aed0bd8b8/代表圖像_社子島李和興宅_20221025.jpg",
+        "name": "代表圖像_社子島李和興宅_20221025"
+    },
+    "caseName": "社子島李和興宅",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "為社子島重要二層樓合院案例 ",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 161944,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/4bfb7439-ce3b-41aa-b868-c56bb1d3b3b2/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者"
+    ],
+    "registerReason": "１、李和興宅為傳統合院格局，正身為二層樓磚造建築，正身雖已改建為仿古鋼筋混凝土建築，但建物形式與一般民宅不同，推測與社子島水患有關，具有地方特殊性。\n２、本建物左右護龍採明間凹壽作法，相關建築構造如凹壽、燈樑、疊澀等，推測為日據時期興建，保留有完整構造與紋路。 ",
+    "lawsReference": "歷史建築登錄廢止審查及輔助辦法第2條第1項第1、2款評定基準 ",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 161945,
+            "name": "社子島李和興宅地籍圖.png",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/f85ce4b0-0d53-4565-b58d-2e8d77f80bfa/社子島李和興宅地籍圖.png"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "locationLandNo": "臺北市富安段二小段292地號",
+    "bulkTransfer": 1,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.4829775,
+    "latitude": 25.1045757,
+    "representImageSource": "臺北市文化局",
+    "landScope": "社子島內",
+    "selfCoverage": "未登記建號",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 115931,
+            "caseId": 2163,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "延平北路8段133巷11號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 115932,
+            "caseId": 2163,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "延平北路8段133巷19號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "富安段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 161852,
+            "caseId": 2163,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 542,
+            "landSerialNo": "292",
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "1,707平方公尺",
+            "cityLandUseTypeOther": "變更中",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 126436,
+            "caseId": 2163,
+            "caseStatus": true,
+            "registerDate": 1467216000000,
+            "officialDocNo": "北市文化文資字第10530413700號 ",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "geojson": "[{\"features\":[{\"geometry\":{\"coordinates\":[[[[121.48284395798,25.104677845491],[121.48283009882,25.104520740192],[121.48289645364,25.10451985429],[121.48292477526,25.104500603922],[121.48293231186,25.104433994762],[121.48318324283,25.104412947526],[121.48323403389,25.104607578892],[121.48329504295,25.104594250734],[121.4833343462,25.104785972086],[121.48327265035,25.104811761994],[121.4828538349,25.104795039774],[121.48284395798,25.104677845491]]]],\"type\":\"MultiPolygon\"},\"type\":\"Feature\",\"properties\":{\"ymin\":25.104412947526,\"xmin\":121.48283009882,\"段號\":2920000,\"query\":\"臺北市,富安段二小段,292\",\"ycenter\":25.10461235476,\"land_id\":2920000,\"area_id\":\"AE\",\"content\":\"1. 個案名稱: 社子島李和興宅 <br />\\n      2. 地號: 臺北市,富安段二小段,292 <br />\\n      3. 種類: 宅第 <br />\\n      4. 指定登錄理由: １、李和興宅為傳統合院格局，正身為二層樓磚造建築，正身雖已改建為仿古鋼筋混凝土建築，但建物形式與一般民宅不同，推測與社子島水患有關，具有地方特殊性。\\n２、本建物左右護龍採明間凹壽作法，相關建築構造如凹壽、燈樑、疊澀等，推測為日據時期興建，保留有完整構造與紋路。  <br />\\n      5. 最後一筆公告日期: 2016-06-30 <br />\\n      6. 最後一筆公告文號: 北市文化文資字第10530413700號  <br />\\n      7. 管理單位: 私有 <br />\\n      8. 使用單位: 私有 <br />\\n      9. 建物狀態: 現況良好 <br />\",\"地段\":\"富安段二小段\",\"縣市\":\"臺北市\",\"ymax\":25.104811761994,\"xcenter\":121.48308222251,\"xmax\":121.4833343462,\"section_id\":\"0846\",\"鄉鎮\":\"士林區\",\"id\":\"AE0846\",\"query_log\":[]}}],\"address\":[{\"address\":\"1. 個案名稱: 社子島李和興宅 <br />\\n      2. 地址: 延平北路8段133巷11號 <br />\\n      3. 種類: 宅第 <br />\\n      4. 指定登錄理由: １、李和興宅為傳統合院格局，正身為二層樓磚造建築，正身雖已改建為仿古鋼筋混凝土建築，但建物形式與一般民宅不同，推測與社子島水患有關，具有地方特殊性。\\n２、本建物左右護龍採明間凹壽作法，相關建築構造如凹壽、燈樑、疊澀等，推測為日據時期興建，保留有完整構造與紋路。  <br />\\n      5. 最後一筆公告日期: 2016-06-30 <br />\\n      6. 最後一筆公告文號: 北市文化文資字第10530413700號  <br />\\n      7. 管理單位: 私有 <br />\\n      8. 使用單位: 私有 <br />\\n      9. 建物狀態: 現況良好 <br />\",\"lat\":25.1045757,\"lng\":121.4829775},{\"address\":\"1. 個案名稱: 社子島李和興宅 <br />\\n      2. 地址: 延平北路8段133巷19號 <br />\\n      3. 種類: 宅第 <br />\\n      4. 指定登錄理由: １、李和興宅為傳統合院格局，正身為二層樓磚造建築，正身雖已改建為仿古鋼筋混凝土建築，但建物形式與一般民宅不同，推測與社子島水患有關，具有地方特殊性。\\n２、本建物左右護龍採明間凹壽作法，相關建築構造如凹壽、燈樑、疊澀等，推測為日據時期興建，保留有完整構造與紋路。  <br />\\n      5. 最後一筆公告日期: 2016-06-30 <br />\\n      6. 最後一筆公告文號: 北市文化文資字第10530413700號  <br />\\n      7. 管理單位: 私有 <br />\\n      8. 使用單位: 私有 <br />\\n      9. 建物狀態: 現況良好 <br />\",\"lat\":25.1045757,\"lng\":121.4829775}],\"notFound\":[],\"type\":\"FeatureCollection\"}]",
+    "openVisitType": "不開放參觀"
+}

@@ -1,0 +1,96 @@
+{
+    "id": 20286,
+    "caseId": "20211215000027",
+    "count": 554,
+    "shareCount": 1,
+    "representImage": 147706,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-15/ba531ecd-2991-46b9-a4ec-2607f440c94e/001_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-15/ba531ecd-2991-46b9-a4ec-2607f440c94e/001.jpg",
+        "name": "001"
+    },
+    "caseName": "奉安櫃",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者"
+    ],
+    "registerReason": "反映日治時期教育之特色，並具有工藝價值。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174之1號",
+    "reservationCode": "STG01924-G-107-0184",
+    "amount": 1,
+    "descAge": "日治時期",
+    "descSize": "長71.1公分，寬94.6公分，高133.6公分",
+    "descMaterial": "金屬",
+    "reserveStatusDesc": "此物件為金屬製奉安櫃，全櫃⻑⽅體外型，漆塗⿊⾊漆料，由外⾄內設有三層雙⾨對 開。外觀正⾯上⽅有圓弧⼭牆裝飾，櫃⾨上各設有⼀⻑柄把手，把手下⽅設有⻑⽅形可左右移動之金屬板，板上有「TANARA、早川特製金屋」之字樣。右側⾨上中央設有圓形密碼旋鈕，密碼文字以日文片假名排列，左扇⾨的左上⽅貼有紅⾊壓印塑膠片，上頭印有「501030307/01」字樣。第二層⿊⾊櫃⾨上以金漆線條花草圖騰為⾨板裝飾，右側⾨扇中央設有鎖孔。第三層櫃⾨為⽊質，⾨上設有金⾊圓環⾨手，櫃內設有⼀抽屜。此奉安庫為放置教育勅語和昭和天皇夫妻之肖像照，只在重⼤節日或慶典才能取出，由學校校⻑親⾃宣讀。根據校友會成員陳永暉先⽣描述，戰後此奉安櫃改為存放學校重要檔案和金錢財產的保險箱，其父親因爲擔任在太平國⼩擔任總務工作時，負責保管該奉安櫃之密碼和鑰匙。\n",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "日治時期",
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定。",
+    "documents": [
+        {
+            "fileid": 147692,
+            "name": "110年12月9日北市獻編字第1103004564號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-15/d4785fd5-0b31-45a0-9757-aea6bd52d256/110年12月9日北市獻編字第1103004564號公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.51147568400398,
+    "latitude": 25.061496136852224,
+    "representImageSource": "太平國小",
+    "keepNames": [
+        {
+            "keepNameIdStr": "臺北市立太平國小",
+            "keepName": "臺北市立太平國小",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "臺北市立太平國小",
+            "keepAddressNew": "臺北市大同區延平北路二段239號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "學校",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "大同區",
+            "keepNameAddress": "延平北路二段239號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 69179,
+            "caseId": 20286,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "延平北路二段239號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73294,
+            "caseId": 20286,
+            "caseStatus": true,
+            "registerDate": 1639031759215,
+            "officialDocNo": "北市獻編字第1103004564號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

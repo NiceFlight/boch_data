@@ -1,0 +1,116 @@
+{
+    "id": 3038,
+    "caseId": "20141017000004",
+    "count": 818,
+    "shareCount": 0,
+    "representImage": 208146,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-03-07/52525eb9-b084-47f7-81b9-4a9c6803930e/簡姓惠宗祠堂陶製香爐_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-03-07/52525eb9-b084-47f7-81b9-4a9c6803930e/簡姓惠宗祠堂陶製香爐.jpg",
+        "name": "簡姓惠宗祠堂陶製香爐"
+    },
+    "caseName": "簡姓惠宗祠堂陶製香爐",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1413475200000,
+    "officialDocNo": "府授文資字第10301991183號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有一定之時代特色、技術及流派",
+        "具有珍貴及稀有性者"
+    ],
+    "registerReason": "據劉枝萬所撰《南投縣風俗誌宗教篇稿》記載，簡姓惠宗祠堂創建於清同治6年（1867）4月，由當地貢生簡廷俊首倡，此香爐為同治9年（1870），祠堂創建初期所設之祭祖香爐，為目前所知有落款年代最早的南投陶香爐，珍貴具代表性。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第2條第1項第1、3、5款",
+    "govInstitutionCode": "540",
+    "govInstitutionName": "南投縣政府",
+    "belongCityId": 12,
+    "belongCityName": "南投縣",
+    "belongDistName": "南投市",
+    "govInstitution": "南投縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "04192231191",
+    "govDeptAddress": "540南投市建國路135號",
+    "reservationCode": "無",
+    "amount": 1,
+    "notes": "",
+    "descAge": "清同治9年(1870)",
+    "descCreator": "不詳",
+    "descSize": "直徑44(不含爐耳直徑36)、高23.5公分",
+    "descMaterial": "陶質",
+    "reserveStatusDesc": "清代年款南投陶香爐目前所見有近20件，分布於臺灣中部南投縣、彰化縣以及雲林縣境內。從落款年代來說，位於南投市的簡姓惠宗祠堂收藏的一件南投陶香爐，為現存臺灣南投陶香爐中年代最早者。其外形特徵為敞口，折沿，束頸，圓腹，尖錐狀三柱足。棕褐色釉，爐身裝飾淡黃色釉梅枝紋耳，並有化妝土鑲嵌款「同治歲次庚午（1870）仲秋月置」、「惠宗堂」、「裔孫九生叩謝」。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清同治9年(1870)",
+    "saveEnvironment": 2,
+    "reserveStatus": "香爐下方局部有嚴重的脫釉現象，有損傷但狀況穩定 。",
+    "documents": [
+        {
+            "fileid": 177044,
+            "name": "簡姓惠宗祠堂陶製香爐 修正公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-29/5bdd7267-617f-4e8e-8662-fee869f31493/簡姓惠宗祠堂陶製香爐 修正公告.pdf"
+        },
+        {
+            "fileid": 177045,
+            "name": "簡姓惠宗祠堂陶製香爐 原公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-29/adebf854-319a-49e0-bbb6-01ae2f9c3624/簡姓惠宗祠堂陶製香爐 原公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.68424,
+    "latitude": 23.91039,
+    "representImageSource": "南投縣政府文化局(攝影者：巷弄文旅有限公司-謝顯林)",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "惠宗祠堂(社團法人南投縣簡姓宗親會)",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "南投縣南投市中山街253-11號惠宗祠堂",
+            "saveSpaceIdStr": "祠堂",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "南投縣",
+            "distName": "南投市",
+            "id": 114472,
+            "caseId": 3038,
+            "caseStatus": true,
+            "cityId": 12,
+            "distId": 1201
+        }
+    ],
+    "announces": [
+        {
+            "id": 124633,
+            "caseId": 3038,
+            "caseStatus": true,
+            "registerDate": 1405008000000,
+            "officialDocNo": "府授文資字第10301338203號",
+            "classificationId": 1
+        },
+        {
+            "id": 124634,
+            "caseId": 3038,
+            "caseStatus": true,
+            "registerDate": 1413475200000,
+            "officialDocNo": "府授文資字第10301991183號",
+            "classificationId": 2
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,97 @@
+{
+    "id": 23278,
+    "caseId": "20250310000001",
+    "count": 118,
+    "shareCount": 0,
+    "representImage": 281672,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2025-03-10/798d06f8-9167-4f23-97f4-43ba5c98b4e0/IMG_1798_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2025-03-10/798d06f8-9167-4f23-97f4-43ba5c98b4e0/IMG_1798.jpg",
+        "name": "IMG_1798"
+    },
+    "caseName": "蒲添生「鄭成功銅像」(含兩塊金屬銘牌)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "1.\t能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者：本座鄭成功銅像為臺灣雕塑藝術教育先驅和奠基者蒲添生所作，此像之建置始於1950年初，歷經多年討論與籌備，最終設置於臺南火車站前，遙望鄭氏登臺的大員地區，既是特殊政治時空下的產物，也是該時期的歷史見證。\n\n2.\t具有藝術造詣或科學成就：本座銅像是臺灣第一座以寫實手法雕塑的鄭成功全身立像，充分展現一代儒將崇偉內斂的風範與氣質，以及蒲添生擅長掌握人物神態的寫實功力，其造型亦成為楊英風為延平郡王祠重塑鄭氏座像的主要參考，深具藝術性與典範性價值。",
+    "lawsReference": "《古物分級指定及廢止審查辦法》第2條第1項第3款、第4款之基準。",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "govInstitution": "臺南市文化局",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市北區公園北路3號(許石音樂圖書館地下1樓)",
+    "reservationCode": "無",
+    "amount": 1,
+    "descAge": "1955年開始製作，1957年安座展示",
+    "descCreator": "蒲添生",
+    "descSize": "高約260cm",
+    "descMaterial": "銅",
+    "reserveStatusDesc": "1. 蒲添生1934年拜於朝倉文夫門下學習雕塑藝術， 1941年自日返臺，為臺灣戰後知名雕塑藝術家，作品以人像為主，著名作品包含三座戰後受政府委託所作之政治性塑像─1946年〈蔣主席戎裝像〉、1949年〈孫中山銅像〉以及1957年〈鄭成功銅像〉；其餘作品含杜聰明醫師像、運動系列等。\n\n2. 銅像外型主要以當時省立博物館臺灣博物館所藏《鄭成功畫像》蓄鬚、著朝服之外型為藍本。\n\n3. 塑像造型初為手持書卷、左腳跨出，經官方審查修改為右腳跨出、左手持長劍，由文人轉為文武雙全的儒將形象。",
+    "pastHistorySource": 2,
+    "saveEnvironment": 3,
+    "reserveStatus": "穩定",
+    "documents": [
+        {
+            "fileid": 281665,
+            "name": "鄭成功銅像.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2025-03-10/350367e1-1e12-4cce-abdb-c4baf938cff1/鄭成功銅像.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "文資處",
+    "keepNames": [
+        {
+            "keepNameIdStr": "臺南市政府工務局",
+            "keepName": "林信佑",
+            "type": 1
+        },
+        {
+            "keepNameIdStr": "臺南市政府交通局",
+            "keepName": "郭振東",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "臺南火車站前圓環",
+            "keepAddressNew": "北區",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "公務設施",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "北區",
+            "id": 148058,
+            "caseId": 23278,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1605,
+            "address": "台南火車站前圓環"
+        }
+    ],
+    "announces": [
+        {
+            "id": 160842,
+            "caseId": 23278,
+            "caseStatus": true,
+            "registerDate": 1740448455625,
+            "officialDocNo": "南市文資字1140305921A號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

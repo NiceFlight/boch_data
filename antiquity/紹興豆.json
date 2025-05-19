@@ -1,0 +1,106 @@
+{
+    "id": 16583,
+    "caseId": "20190215000021",
+    "count": 162,
+    "shareCount": 0,
+    "representImage": 55503,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-02-15/5a1d4248-8e1d-45b9-9229-daed07e413df/22-中銅000101_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-02-15/5a1d4248-8e1d-45b9-9229-daed07e413df/22-中銅000101.jpg",
+        "name": "22-中銅000101"
+    },
+    "caseName": "紹興豆",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1550134400406,
+    "officialDocNo": "文授資局物字第10830016641號",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此器為直壁斂口盆式，淺腹。銘文說明此器為紹興十六年（1146）三月南宋高宗賜給秦檜家廟的祭器，自名為「豆」。\n存世同類器物另有上海博物館〈北宋宣和豆〉及法國賽努奇亞洲博物館〈北宋政和豆〉。三件文物時代、銘文各不相同。賽努奇亞洲博物館所藏帶有豆柄，表現宋代銅豆原來的形制。\n帶有南宋年代銘文的復古禮器，相當罕見，因此此器可做為南宋時期的標準器物。與北宋二器相對照，更突顯此器在南宋時，高宗力圖祖紹北宋傳統，亦即沿襲周代賞賜功臣銅器以建立家廟的禮儀文化。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、3、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "中銅000101",
+    "amount": 1,
+    "descAge": "南宋紹興十六年（西元1146年）",
+    "descSize": "全高7.0公分/口徑14.5公分/底徑14.8公分/深3.7公分  重1.290公斤",
+    "descMaterial": "銅/鑄造",
+    "reserveStatusDesc": "直壁斂口盆式，淺腹。器腹以橫弦紋為上下界，鑄成淺浮雕幾何式的迴轉圖案，形成類似重環紋的裝飾，並間以突出的圓形乳丁紋。\n口沿外壁鑄有一圈銘文二十八字：「唯紹興丙寅三月乙丑，帝命作豆，賜師臣檜家廟，以薦菹醢，唯予永用享。」",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "良好。",
+    "documents": [
+        {
+            "fileid": 146809,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-02/07efb046-3340-497c-a37d-b692786e09fd/公告.pdf"
+        },
+        {
+            "fileid": 146810,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-02/c13f3dd6-60f9-42f0-9d7b-a8379e15583f/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 68699,
+            "caseId": 16583,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 72799,
+            "caseId": 16583,
+            "caseStatus": true,
+            "registerDate": 1550134400406,
+            "officialDocNo": "文授資局物字第10830016641號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

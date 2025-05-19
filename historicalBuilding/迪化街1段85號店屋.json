@@ -1,0 +1,154 @@
+{
+    "id": 981,
+    "caseId": "20060217000002",
+    "count": 2435,
+    "shareCount": 3,
+    "representImage": 173366,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/6db217a5-1c2d-45ea-ae48-5e9b74780a68/代表圖像_迪化街1段85號店屋_20220707_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/6db217a5-1c2d-45ea-ae48-5e9b74780a68/代表圖像_迪化街1段85號店屋_20220707.jpeg",
+        "name": "代表圖像_迪化街1段85號店屋_20220707"
+    },
+    "caseName": "迪化街1段85號店屋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "根據向台北市建成地政事務所申請調閱日據時期原始之「土地登記簿」及「建物登記謄本」、「房屋複丈平面圖」等相關資料，日據時期本棟之產權由黃姓地主持有，戰後幾經買賣，由目前之戴姓地主所持有；另根據昭和十三年「台北市商工人名錄」之資料顯示，其位址為一時計店，店號為「太生儀」，經營者名為「黃守達」。現為「永盛藥行」，為戴先生之父親將原先設置於貴德街之中藥行遷移至此，至今已約有四十年。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 167936,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/3bc7a0cf-a5bd-4bf9-95af-297bc89fd950/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "為典型二進式店屋，年代應在1900-1920年之間。立面四柱三窗形式，線腳講究。2樓鑄鐵欄杆也為原貌，有藝術價值。具有一小型地下室，在迪化街區較為少見。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 118566,
+            "name": "downloadfile (4).JPG",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/792d3551-751f-43fe-af88-7e935c95e37a/downloadfile (4).JPG"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "特定專用區",
+    "locationLandNo": "大同區迪化段二小段188、187、187-1地號",
+    "buildingFeatures": "建築風格為近代建築樣式，其構造特徵以RC為主，立面形式採四柱三間式，以簡單樸素的幾何圖形與線腳作裝飾，立面材料為日治末期特有的北投窯廠生產之國防面磚貼覆，且現況室內現況還保有舊有精緻的門窗及五金構件。",
+    "inHouseFeatures": "室內還保有舊有精緻的門窗及五金構件。",
+    "buildingUsage": "原貌修復完成，營業用。",
+    "buildingActualState": "原貌修復完成，營業用。",
+    "buildingKeyMaintainItem": "其維護重點在於，保存傳統街屋建築形式，復原街屋進落及天井，屋面及立面整修。",
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.5099923,
+    "latitude": 25.0563768,
+    "representImageSource": "臺北市文化局",
+    "landScope": "大同區迪化段二小段188、187、187-1地號",
+    "selfCoverage": "556.30平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 84877,
+            "caseId": 981,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "迪化街1段85號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 97479,
+            "caseId": 981,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 193,
+            "landSerialNo": "188",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "19平方公尺",
+            "cityLandUseTypeOther": "特定專用區（一）（供特定商業使用）",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 97480,
+            "caseId": 981,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 193,
+            "landSerialNo": "187",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "184平方公尺",
+            "cityLandUseTypeOther": "特定專用區（一）（供特定商業使用）",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 97481,
+            "caseId": 981,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 193,
+            "landSerialNo": "187-1",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "19平方公尺",
+            "cityLandUseTypeOther": "特定專用區（一）（供特定商業使用）",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 91163,
+            "caseId": 981,
+            "caseStatus": true,
+            "registerDate": 1140105600000,
+            "officialDocNo": "府文化二字第09530213700號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

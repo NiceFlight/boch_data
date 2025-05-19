@@ -1,0 +1,108 @@
+{
+    "id": 2921,
+    "caseId": "20090121000009",
+    "count": 396,
+    "shareCount": 0,
+    "representImage": 133781,
+    "representImageInfo": {
+        "ext": "gif",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-08-23/03786e32-c7bc-4a26-8fea-f3f52f723414/A07木雕板(KWL M080W06、M080W07、M080W08)代表圖_c.gif"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-08-23/03786e32-c7bc-4a26-8fea-f3f52f723414/A07木雕板(KWL M080W06、M080W07、M080W08)代表圖.gif",
+        "name": "A07木雕板(KWL M080W06、M080W07、M080W08)代表圖"
+    },
+    "caseName": "木雕板(KWL M080W06、M080W07、M080W08)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-其他,生活及儀禮器物-生活器物",
+    "otherAssetsType": "雕板",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1232467200000,
+    "officialDocNo": "府文資字第0980000332號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "（1）此木雕板屬考古出土遺物，從遺物伴出關係比同類的民族學木雕板更能提供豐富訊息價值。\n（2）此木雕板圖案特殊，並殘留原始紅彩痕跡，豐富呈現史前噶瑪蘭人的工藝技術與藝術風格。\n（3）因考古出土木器易腐爛且十分罕見，此為目前僅見的少數木質標本之一。\n（4）台灣目前考古出土惟一噶瑪蘭木雕板，在歷史文化上均具有重要意義，並呈現族群特有的雕刻技藝特色。",
+    "lawsReference": "「文化資產保存法」第65條、「古物分級登錄指定及廢止審查辦法」第2條",
+    "govInstitutionCode": "260",
+    "govInstitutionName": "宜蘭縣政府",
+    "belongCityId": 4,
+    "belongCityName": "宜蘭縣",
+    "belongDistName": "宜蘭市",
+    "govInstitution": "宜蘭縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-9322440#609",
+    "govDeptAddress": "宜蘭縣宜蘭市復興路二段101號",
+    "reservationCode": "KWL M080W06、M080W07、M080W08",
+    "amount": 3,
+    "notes": "",
+    "descAge": "600-200年前",
+    "descCreator": "噶瑪蘭人",
+    "descSize": "長82.5、寬34、厚0.5-1.8cm",
+    "descMaterial": "木",
+    "reserveStatusDesc": "重量:2560g\n形狀:長方形薄板\n技法:陰刻線雕",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "宜蘭縣礁溪鄉淇武蘭遺址出土",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定 ",
+    "documents": [
+        {
+            "fileid": 133780,
+            "name": "A07木雕板(KWL M080W06、M080W07、M080W08)公告公文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-08-23/a1e5dcb5-ad2a-4708-98ab-f11ec89e554b/A07木雕板(KWL M080W06、M080W07、M080W08)公告公文.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 121.744848,
+    "latitude": 24.748957,
+    "representImageSource": "宜蘭縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "宜蘭縣立蘭陽博物館",
+            "keepName": "宜蘭縣立蘭陽博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "宜蘭縣立蘭陽博物館",
+            "keepAddressNew": "宜蘭縣頭城鎮青雲路三段750號",
+            "saveSpaceIdStr": "公務設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "宜蘭縣",
+            "keepNameDistName": "頭城鎮",
+            "keepNameAddress": "青雲路三段750號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "宜蘭縣",
+            "distName": "頭城鎮",
+            "id": 116396,
+            "caseId": 2921,
+            "caseStatus": true,
+            "cityId": 4,
+            "distId": 402,
+            "address": "頭城鎮青雲路三段750號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 127089,
+            "caseId": 2921,
+            "caseStatus": true,
+            "registerDate": 1232467200000,
+            "officialDocNo": "府文資字第0980000332號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

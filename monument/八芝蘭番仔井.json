@@ -1,0 +1,101 @@
+{
+    "id": 20674,
+    "caseId": "20220505000002",
+    "count": 2881,
+    "shareCount": 24,
+    "representImage": 189535,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/0102f490-3912-4e99-9002-8ba582885ff5/代表圖像_八芝蘭番仔井_20220801(IMG_E0757)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/0102f490-3912-4e99-9002-8ba582885ff5/代表圖像_八芝蘭番仔井_20220801(IMG_E0757).jpg",
+        "name": "代表圖像_八芝蘭番仔井_20220801(IMG_E0757)"
+    },
+    "caseName": "八芝蘭番仔井",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "番仔井為「芝蘭八景」之一，譽稱為「番井沸泉」，為少數留存具歷史意義之水井，具人文意涵與稀少性。",
+    "assetsTypeNames": "其他設施",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 162927,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/27087759-dc0c-4f38-afbb-7997e4c86b25/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具高度歷史、藝術或科學價值者",
+        "具稀少性，不易再現者"
+    ],
+    "registerReason": "1.「番井沸泉」存在長久已超過三百年，見證原民生活遺跡。西元 1709 年漳州人移民至附近時已有此出水口，其後則做為飲用及灌溉之用，見證天母地區原住民及漢人居住與開發歷史，具歷史價值。\n2.番仔井為「芝蘭八景」之一，譽稱為「番井沸泉」，為少數留存具歷史意義之水井，具人文意涵與稀少性。\n3.符合古蹟指定及廢止審查辦法第2條第1項第1、3款指定基準。",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 162928,
+            "name": "範圍.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/b7f28a1b-2d04-421e-b3f9-4e5f10fb199b/範圍.pdf"
+        }
+    ],
+    "bulkTransfer": 2,
+    "isOpenDownload": false,
+    "longitude": 121.53463482423626,
+    "latitude": 25.12109205860975,
+    "representImageSource": "臺北市文化局",
+    "landScope": "天山段二小段37地號(部分)",
+    "selfCoverage": "水井口、周邊水塘",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 112185,
+            "caseId": 20674,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "八芝蘭番仔井"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "天山段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 151266,
+            "caseId": 20674,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 549,
+            "landSerialNo": "37",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "14831",
+            "cityLandUseTypeOther": "公園用地",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 121658,
+            "caseId": 20674,
+            "caseStatus": true,
+            "registerDate": 1651507200000,
+            "officialDocNo": "北市文化文資字第11130151651號",
+            "classificationId": 1,
+            "note": "指定古蹟"
+        }
+    ],
+    "openVisitType": ""
+}

@@ -1,0 +1,96 @@
+{
+    "id": 18205,
+    "caseId": "20201217000015",
+    "count": 162,
+    "shareCount": 0,
+    "representImage": 90058,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-12-17/b022ba43-239d-466b-908d-0ccb3affe3c1/05_1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-12-17/b022ba43-239d-466b-908d-0ccb3affe3c1/05_1.jpg",
+        "name": "05_1"
+    },
+    "caseName": "御盆節獻茶置物",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1606373560373,
+    "officialDocNo": "北市獻編字第1093004298號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "1. 具日本風俗、工藝技術及生活習俗文化特色，表現日本御盆節的整體狀況。\n2. 雕刻細微、工巧，連底部均有加紋飾，可見其工藝精細，一絲不苟，作工精緻藝術性高，藝術造詣佳。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174-1號",
+    "reservationCode": "05",
+    "amount": 1,
+    "descAge": "日本明治時期",
+    "descSize": "高 6.3 公分",
+    "descMaterial": "象牙",
+    "reserveStatusDesc": "在日本，每年夏天都有一個被視為僅次於元旦的重要節日，就是「盂蘭盆節」，也就是俗稱的「鬼節」。這個節日來源於佛教儀式，又稱「佛歡喜日」，在飛鳥時代由隋唐時期的中國傳入日本，俗稱「御盆節」。\n明治時期，茶道已成為日本文化中的一個重要元素，本件作品為在「御盆節」為鬼舉行「獻茶」活動的茶道儀式。以一個巨大茶壺為主體，提樑寬扁，壺身圓扁，一旁有面容奇特的小鬼，手持茶碗，隨意而坐，並以詼諧的表情與手勢示意為之添加茶湯。茶壺另一側有一僧人穿著傳統日本服飾，衣袖寬大，衣襬飄盪生動，雙膝微屈，人一手持鬥杓，另一手扶著茶壺提把，等候前茶水烹沸後，為小鬼添加茶湯。人物前方還放置一茶葉罐，細節描繪一絲不苟。\n藝術家以巧思與創意，用誇張的比例展現人、鬼與茶具，整體佈局精彩，雕琢細膩，姿態各異，人物的肢體動作及茶壺表面的紋飾分別以不同技巧呈現，表現出不同的質感，姿態活潑而不呆版，表現出巧妙、純熟的雕刻技藝，亦表達了明治時期清靜脫俗的茶湯會，是件節和藝術、文化、習俗等各種特色，令人讚嘆的藝術佳品。作者生平不詳。",
+    "pastHistorySource": 1,
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定。",
+    "documents": [
+        {
+            "fileid": 90059,
+            "name": "臺北市公告指定一般古物1091126.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-17/2ed59569-addf-4725-9ddd-51f01a6cd08d/臺北市公告指定一般古物1091126.pdf"
+        }
+    ],
+    "keepNames": [
+        {
+            "keepNameIdStr": "郭○穎",
+            "keepName": "郭○穎",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "郭○穎",
+            "keepAddressNew": "臺北市中正區重慶南路二段15號7樓",
+            "saveSpaceOther": "庫房",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "大安區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 7820,
+            "caseId": 18205,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 7820,
+            "caseId": 18205,
+            "caseStatus": true,
+            "registerDate": 1606373560373,
+            "officialDocNo": "北市獻編字第1093004298號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

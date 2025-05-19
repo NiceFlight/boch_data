@@ -1,0 +1,100 @@
+{
+    "id": 18184,
+    "caseId": "20201216000003",
+    "count": 202,
+    "shareCount": 0,
+    "representImage": 89894,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-12-16/c4ce40c3-7f28-43b9-857f-4490f534eb54/案031-1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-12-16/c4ce40c3-7f28-43b9-857f-4490f534eb54/案031-1.jpg",
+        "name": "案031-1"
+    },
+    "caseName": "清象牙雕十八羅漢鎮一對",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1606360240571,
+    "officialDocNo": "北市獻編字第1093004298號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "1. 具有人文藝術工藝之美，反映人文特色，具中國南方牙雕二十世紀之特色表現。\n2. 羅漢造型各異，深浮雕緊湊生動，具藝術造詣。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第3、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "內湖區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174-1號",
+    "reservationCode": "典藏 I031",
+    "amount": 2,
+    "descAge": "清末",
+    "descSize": "長 5.3 公分 寬 4.1 公分 高 1 公分",
+    "descMaterial": "象牙",
+    "reserveStatusDesc": "我國以前的書寫格式是自右而左，並且多以輕薄的宣紙為書寫用紙，紙輕易被風掀，因此於寫作時通常會以平整的物品壓在上面，此物有文鎮之用。\n以象牙雕刻而成之長條形十八羅漢鎮，一面穹起，一面平坦。穹起面以高浮雕及鏤雕技法刻畫，雕刻生動的十八羅漢尊者，各具羅漢身形及故事特色，如坐鹿羅漢、喜慶羅漢、舉缽羅漢、托塔羅漢、靜坐羅漢、過江羅漢、拂塵羅漢、笑獅羅漢、開心羅漢、探手羅漢、沉思羅漢、挖耳羅漢、布袋羅漢、芭蕉羅漢、長眉羅漢、看門羅漢、降龍羅漢、伏虎羅漢。此象牙藝術品因牙質帶象牙黃溫潤及髮絲裂紋狀況，此牙雕是清末文房之寶。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定。",
+    "documents": [
+        {
+            "fileid": 89893,
+            "name": "臺北市公告指定一般古物1091126.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-16/9a680be2-e937-48c9-877a-bba2a33e2a2d/臺北市公告指定一般古物1091126.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.51984879730222,
+    "latitude": 25.032456306173696,
+    "representImageSource": "嚴○泰/嚴○隆",
+    "keepNames": [
+        {
+            "keepNameIdStr": "嚴○泰/嚴○隆",
+            "keepName": "嚴○泰/嚴○隆",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "嚴○泰/嚴○隆",
+            "keepAddressNew": "臺北市內湖區行忠路2號2樓",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "宅第",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "內湖區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 68658,
+            "caseId": 18184,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 72758,
+            "caseId": 18184,
+            "caseStatus": true,
+            "registerDate": 1606360240571,
+            "officialDocNo": "北市獻編字第1093004298號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

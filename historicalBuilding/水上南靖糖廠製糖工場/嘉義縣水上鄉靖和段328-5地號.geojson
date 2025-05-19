@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "嘉義縣水上鄉靖和段328-5地號"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

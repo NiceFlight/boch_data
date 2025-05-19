@@ -1,0 +1,200 @@
+{
+    "id": 2078,
+    "caseId": "20150824000001",
+    "count": 4000,
+    "shareCount": 2,
+    "representImage": 187226,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/b8a5f14a-fec7-4bc9-a4b6-982f9b990c1d/代表圖像_青草巷歷史建築群_20220531_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/b8a5f14a-fec7-4bc9-a4b6-982f9b990c1d/代表圖像_青草巷歷史建築群_20220531.jpeg",
+        "name": "代表圖像_青草巷歷史建築群_20220531"
+    },
+    "caseName": "青草巷歷史建築群",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本建築群坐落之青草巷為龍山寺旁重要歷史街巷空間，店家多以經營青草藥材買賣為主，為臺北市傳統信仰、青草產業、泉州三邑移民聚集之艋舺城市中心，具有城市社會史見證意義。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 162519,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/cc12322e-30ad-4c93-8938-3f2bd4014ede/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1.基地原屬螺陽公會所有，該公會為清代三邑人之一惠安人所屬媽祖神明會，為清代祭祀公業重要歷史見證，與龍山寺緊密關聯。\r\n2.本案建築群坐落之青草巷為龍山寺旁重要歷史街巷空間，店家多以經營青草藥材買賣為主，為臺北市傳統信仰、青草產業、泉州三邑移民聚集之艋舺城市中心，具有城市社會史見證意義。\r\n3.青草巷位處龍山寺與剝皮寮間，此巷道為清代艋舺地區重要的交通動線，見證艋舺地區發展的歷史。",
+    "lawsReference": "1.依據文化資產保存法第15條、歷史建築登錄廢止審查及輔助辦法第4條暨臺北市歷史建築登錄及廢止審查作業要點相關規定。\r\n2.符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、2、4款評定基準。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 162520,
+            "name": "3cf2e648-0dc1-4e7a-9768-674974f18b21.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/92b45131-fc2f-4952-b35e-5f367b81efbe/3cf2e648-0dc1-4e7a-9768-674974f18b21.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "locationLandNo": "歷史建築(本體)面積：（無建物登記，暫無建築面積資料）            \r\n定著土地地號：萬華區龍山段一小段194、181-1地號　",
+    "buildingFeatures": "建物立面為亭仔腳形式，建築構造以磚構造為主",
+    "inHouseFeatures": "內部為經營青草買賣之店家空間形態，並有草藥存放之家具設備",
+    "buildingUsage": "建物目前以經營青草買賣之功能為主",
+    "buildingActualState": "建物目前以經營青草買賣之功能為主",
+    "buildingKeyMaintainItem": "1.建議本歷史建築使用功能仍以經營青草業為主，並保留現有萬華區西昌街224巷、廣州街209巷巷道空間。\r\n2.如未來本歷史建築之建物使用功能變更，則須於現地規劃呈現青草巷歷史之展示。",
+    "bulkTransfer": 1,
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.50049352697549,
+    "latitude": 25.037008985028002,
+    "representImageSource": "臺北市文化局",
+    "landScope": "歷史建築(本體)面積：（無建物登記，暫無建築面積資料）            \r\n定著土地地號：萬華區龍山段一小段194、181-1地號　",
+    "selfCoverage": " 實際保存面積須以保存範圍實測數據為準",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "id": 93850,
+            "caseId": 2078,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "address": "西昌街220號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "id": 93851,
+            "caseId": 2078,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "address": "西昌街224巷3號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "id": 93852,
+            "caseId": 2078,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "address": "西昌街224巷5號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "id": 93853,
+            "caseId": 2078,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "address": "西昌街224巷7號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "id": 93854,
+            "caseId": 2078,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "address": "西昌街224巷9號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "id": 93855,
+            "caseId": 2078,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "address": "西昌街224巷11號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "id": 93856,
+            "caseId": 2078,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "address": "西昌街224巷13號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "id": 93857,
+            "caseId": 2078,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "address": "西昌街224巷15號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "landNoName": "龍山段一小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 115465,
+            "caseId": 2078,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "landNoId": 175,
+            "landSerialNo": "194",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "coverageId": 2,
+            "area": "366平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "landNoName": "龍山段一小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 115466,
+            "caseId": 2078,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "landNoId": 175,
+            "landSerialNo": "181-1",
+            "landownership": 1,
+            "cityLandUseTypeId": 2,
+            "coverageId": 2,
+            "area": "125平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 101276,
+            "caseId": 2078,
+            "caseStatus": true,
+            "registerDate": 1440345600000,
+            "officialDocNo": "北市文化文資字第10430430100號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": ""
+}

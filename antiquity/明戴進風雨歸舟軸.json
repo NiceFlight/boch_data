@@ -1,0 +1,107 @@
+{
+    "id": 3962,
+    "caseId": "20120326000017",
+    "count": 213,
+    "shareCount": 0,
+    "representImage": 6786,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32948/photo/fffbf439-0fd5-4258-adcc-74193fb65be9_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32948/photo/fffbf439-0fd5-4258-adcc-74193fb65be9.JPG",
+        "name": "fffbf439-0fd5-4258-adcc-74193fb65be9"
+    },
+    "caseName": "明戴進風雨歸舟軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就"
+    ],
+    "registerReason": "戴進，為明朝「浙派」倡始者。其畫風源於南宋院畫體系，又加入了縱逸奔放的新面目，確立了浙派山水的基本風範，成為後世學習楷模。此作描繪風雨乍來情景，呈現戲劇性的趣味，尤能顯現浙派畫風特色。具有重要藝術造詣，能表現地方文化特色。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第三、四款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000404",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descCreator": "戴進",
+    "descSize": "143 x 81.8（公分）",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "戴進（1388－1462），浙江錢塘人。字文進，號靜庵，又號玉泉山人。此圖筆墨兼工帶寫，奔放縱恣而蒼勁淋漓，出色地運用了「水暈墨染」的技法，以闊筆淡墨，快速斜掃出風雨、竹、樹、葦葉、蓑衣等迎風俯偃、風雨交加的自然景色。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 151270,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-25/722474b6-ed74-486c-91a6-3683920941da/公告.pdf"
+        },
+        {
+            "fileid": 151271,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-25/23a128b6-c291-4d95-93e6-a9ce4a6da58c/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71397,
+            "caseId": 3962,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75827,
+            "caseId": 3962,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

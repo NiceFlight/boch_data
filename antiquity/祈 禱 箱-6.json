@@ -1,0 +1,97 @@
+{
+    "id": 17090,
+    "caseId": "20190926000003",
+    "count": 113,
+    "shareCount": 0,
+    "representImage": 61674,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-09-26/b3d06336-93e0-4227-8c85-edd13d61fda3/2_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-09-26/b3d06336-93e0-4227-8c85-edd13d61fda3/2.jpg",
+        "name": "2"
+    },
+    "caseName": "祈 禱 箱-6",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-教育、科研用具",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1161187200000,
+    "officialDocNo": "屏府文博字第0950206655號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色"
+    ],
+    "registerReason": "排灣系得祈禱箱，具有地區性及時代性的表現特色（春日鄉），稀有性高，年代久遠。排灣族稱覡巫以貯藏占卜道具之用，作法時從箱中取出有關物品，供獻於神靈，並唸咒文。因地域或占卜治病種類不同，木箱所貯藏之材料不儘相同，常見貯藏小刀、豚骨、木欒子實、相思樹葉和珠子等。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第1款",
+    "govInstitutionCode": "900",
+    "govInstitutionName": "屏東縣政府",
+    "belongCityId": 20,
+    "belongCityName": "屏東縣",
+    "belongDistName": "屏東市",
+    "govInstitution": "屏東縣政府文化處",
+    "govDeptName": "屏東縣政府文化處",
+    "govDeptPhone": "087227001",
+    "govDeptAddress": "屏東市瑞中街15號",
+    "reservationCode": "山/40  4.026",
+    "amount": 1,
+    "descAge": "不明",
+    "descSize": "15*10*5.3cm",
+    "descMaterial": "木.麻",
+    "reserveStatusDesc": "排灣系得祈禱箱，具有地區性及時代性的表現特色（春日鄉），稀有性高，年代久遠。排灣族稱覡巫以貯藏占卜道具之用，作法時從箱中取出有關物品，供獻於神靈，並唸咒文。因地域或占卜治病種類不同，木箱所貯藏之材料不儘相同，常見貯藏小刀、豚骨、木欒子實、相思樹葉和珠子等。",
+    "pastHistorySource": 2,
+    "pastHistorySourceNotes": "不明",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定",
+    "documents": [
+        {
+            "fileid": 231366,
+            "name": "32件一般古物(951027)_部分23.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-09-19/41f03ce5-2396-482b-944c-af143a3eaf11/32件一般古物(951027)_部分23.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "1",
+    "keepNames": [
+        {
+            "keepNameIdStr": "屏東縣政府文化處",
+            "keepName": "陳建瑛",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "屏東縣政府文化處",
+            "keepAddressNew": "屏東市菸廠路1號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "屏東縣",
+            "keepNameDistName": "屏東市",
+            "keepNameAddress": "民生路4-17號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "屏東縣",
+            "distName": "屏東市",
+            "id": 114850,
+            "caseId": 17090,
+            "caseStatus": true,
+            "cityId": 20,
+            "distId": 2001
+        }
+    ],
+    "announces": [
+        {
+            "id": 125091,
+            "caseId": 17090,
+            "caseStatus": true,
+            "registerDate": 1161187200000,
+            "officialDocNo": "屏府文博字第0950206655號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

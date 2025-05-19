@@ -1,0 +1,106 @@
+{
+    "id": 4111,
+    "caseId": "20110422000038",
+    "count": 369,
+    "shareCount": 1,
+    "representImage": 165867,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-05-27/00956e5d-0b0e-46c2-92a6-5177000f5edb/K2A001246N000000009PAF_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-05-27/00956e5d-0b0e-46c2-92a6-5177000f5edb/K2A001246N000000009PAF.jpg",
+        "name": "K2A001246N000000009PAF"
+    },
+    "caseName": "馮大有太液荷風（宋元集繪冊09）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1303401600000,
+    "officialDocNo": "會授資籌二字10020040353號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "歷史流傳已久或史事具有深厚淵源",
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "此幅筆法精細，設色典雅，是南宋寫實風格的佳作，又對幅有宋高宗題七言詩，詩書畫皆佳。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第四條第一項第一、二、三、四、五、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故畫00124600009",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descSize": "23.8 x 25.1 公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "此團扇將近三分之二幅面，畫著自水面長出高低參差的荷葉，上方留白表現天空，有一飛燕與一雙蝴蝶舞動其間。下方繪有水面，三對水禽穿梭其中，水面還滿佈大小浮萍，顯得生趣盎然。荷葉以精細筆法描繪葉脈文理，也藉線條表現葉緣的翻轉，再又透過深淺綠色處理荷葉之正背，使得畫中荷葉姿態變化豐富，具兩宋之間的空間表現概念。此景雖未畫殘荷，但繪有荷花花瓣飄落水面，可比為初秋景象。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "蟲蛀，折裂，傷補。有損傷但狀況穩定。",
+    "documents": [
+        {
+            "fileid": 16402,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2017-11-06/186569ea-2c73-4ae6-b8f6-0f77ca01a3ff/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 80441,
+            "caseId": 4111,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 86427,
+            "caseId": 4111,
+            "caseStatus": true,
+            "registerDate": 1303401600000,
+            "officialDocNo": "會授資籌二字10020040353號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

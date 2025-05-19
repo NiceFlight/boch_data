@@ -1,0 +1,106 @@
+{
+    "id": 3642,
+    "caseId": "20100830000003",
+    "count": 346,
+    "shareCount": 0,
+    "representImage": 6383,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32590/photo/d537ff36-06b0-4b09-9300-5101ccd36eb4_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32590/photo/d537ff36-06b0-4b09-9300-5101ccd36eb4.jpg",
+        "name": "d537ff36-06b0-4b09-9300-5101ccd36eb4"
+    },
+    "caseName": "抗日軍之軍令督陣旗（1895年）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1283097600000,
+    "officialDocNo": "會授資籌二字第09920102142號",
+    "judgeCriteria": [
+        "具有史事重要淵源",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1895年「乙未之役」之重要歷史文物，反映當時歷史氛圍。具有歷史、文化價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。2.符合「古物分級登錄指定及廢止審查辦法」第三條第一、二、六款、第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "AH1652",
+    "keepNameId": 4,
+    "keepName": "國立臺灣博物館",
+    "keepNameNew": 4,
+    "keepAddressNew": "100台北市中正區襄陽路2號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 1,
+    "amount": 1,
+    "notes": "1.鄭天凱，1995，攻台圖錄 : 台灣史上最大一場戰爭，遠流出版社，台北。2.許佩賢譯，1995，攻台見聞 : 風俗畫報. 台灣征討圖繪，遠流出版社，台北。3.李淑惠、李子寧、吳佰祿編，2002，黃虎旗的故事—台灣民主國文物圖錄，國立臺灣歷史博物館籌備處，台南。",
+    "descAge": "光緒21年（1895）",
+    "descCreator": "",
+    "descSize": "37.5×63公分",
+    "descMaterial": "布",
+    "reserveStatusDesc": "本旗為劉永福命人所製，乙末抗日之戰，中路將士多畏怯不前，永福為激勵士氣，特遣幕僚持旗督戰，其功用有如令箭。本旗為吳彭年所持用，八卦山之役彭年成仁，日軍於彰化市街虜獲此旗。\n1.多處纖維脆化，褪色嚴重2.現旗裱於一長方形紅色紙板上，裝裱方式欠佳，恐影響文物保存狀況",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "1945年由臺灣省立博物館接收，典藏至今",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷需處理 ",
+    "documents": [
+        {
+            "fileid": 53301,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-12-25/006685b6-7900-4e61-804e-92e15f7c4249/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立臺灣博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立臺灣博物館",
+            "keepName": "國立臺灣博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立臺灣博物館",
+            "keepAddressNew": "100台北市中正區襄陽路2號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "襄陽路2號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3784,
+            "caseId": 3642,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3784,
+            "caseId": 3642,
+            "caseStatus": true,
+            "registerDate": 1283097600000,
+            "officialDocNo": "會授資籌二字第09920102142號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

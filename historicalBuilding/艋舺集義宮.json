@@ -1,0 +1,132 @@
+{
+    "id": 20518,
+    "caseId": "20220318000007",
+    "count": 1787,
+    "shareCount": 1,
+    "representImage": 155498,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/854e172f-7e2e-4718-b885-9e785b9812c1/S__100876305_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/854e172f-7e2e-4718-b885-9e785b9812c1/S__100876305.jpg",
+        "name": "S__100876305"
+    },
+    "caseName": "艋舺集義宮",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": " ",
+    "assetsTypeNames": "寺廟",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 155499,
+            "name": "公告_111年3月7日北市文化文資字第11130098561號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/cc7fe077-8603-4fb2-84e1-24145d724078/公告_111年3月7日北市文化文資字第11130098561號.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1.集義宮創建於清末，原為艋舺地區貨運苦力的信仰中心，具地方特色。\n2.集義宮仍保存古老祭祀禮俗， 2月15日普渡，十分難得。\n3.建物重建於民國75年，保存神像、匾額、旗牌等文物，神龕木作，作工精緻，品質精良。石雕為台灣觀音山石，具本地特色。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 155500,
+            "name": "地籍地形圖(奉核).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/699bad6d-a6f1-44c2-99ad-63709bf46d2c/地籍地形圖(奉核).pdf"
+        }
+    ],
+    "longitude": 121.5014515,
+    "latitude": 25.0348806,
+    "landScope": "土地為萬華區萬華段二小段416（176平方公尺）、416-1（12平方公尺）、 416-2（2平方公尺）地號等3筆土地。（實際保存面積須以保存範圍實測數據為準）。",
+    "selfCoverage": "建物為萬華區萬華段二小段1739建號（建物總面積286.02平方公尺）",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "id": 73658,
+            "caseId": 20518,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "address": "康定路249號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "landNoName": "萬華段二小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 71653,
+            "caseId": 20518,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "landNoId": 171,
+            "landSerialNo": "416",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "area": "176平方公尺",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "landNoName": "萬華段二小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 71654,
+            "caseId": 20518,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "landNoId": 171,
+            "landSerialNo": "416-1",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "area": "12平方公尺",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "landNoName": "萬華段二小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 71655,
+            "caseId": 20518,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "landNoId": 171,
+            "landSerialNo": "416-2",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "area": "2平方公尺",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 78673,
+            "caseId": 20518,
+            "caseStatus": true,
+            "registerDate": 1646582400000,
+            "officialDocNo": "北市文化文資字第11130098561號",
+            "classificationId": 1,
+            "note": " "
+        }
+    ],
+    "openVisitType": ""
+}

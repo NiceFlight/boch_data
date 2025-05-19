@@ -1,0 +1,111 @@
+{
+    "id": 4063,
+    "caseId": "20110422000005",
+    "count": 341,
+    "shareCount": 0,
+    "representImage": 165792,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-05-27/7528fd47-1382-4292-bb3a-8e868decfbea/K2A000113N000000000PAC_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-05-27/7528fd47-1382-4292-bb3a-8e868decfbea/K2A000113N000000000PAC.jpg",
+        "name": "K2A000113N000000000PAC"
+    },
+    "caseName": "宋馬遠雪灘雙鷺軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1303401600000,
+    "officialDocNo": "會授資籌二字10020040353號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "歷史流傳已久或史事具有深厚淵源",
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "馬遠為南宋光寧二朝重要宮廷畫家，此作承襲北宋末盛行的汀渚水鳥題材，但在山水空間、用筆用墨、虛實運用具有獨特性。為馬遠重要作品。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第四條第一項第一、二、三、四、五、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故畫000113",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descSize": "59 x 37.6 公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "馬遠為光宗（1190-1194在位）、寧宗（1195-1224在位）朝宮廷畫家。本幅畫雪天中巨岩梅樹下，蘆竹寒汀，四隻白鷺憩於岸邊。三隻瑟縮於石角，其中一隻僅見其首，另兩隻仰首，當中一隻張嘴鳴叫，似認為枝頭喜鵲入侵領域；尚有一隻佇立灘邊，凝視水流。白鷺皆以細筆淡墨勾勒，蘆葉及水波紋墨色略深。岩塊輪廓、斧劈皴及梅樹枝幹墨筆濃黑簡鍊，梅樹拖枝顫筆。虛實互用，白鷺淡墨，白雪留白，梅瓣則以白粉提點；呈現一種「山間水濱荒寒清絕之趣」的特殊品味。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "包首：霉傷。本幅：蟲蛀，水漬嚴重，絹折裂。有損傷但狀況穩定。",
+    "documents": [
+        {
+            "fileid": 152047,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-27/1eb2655e-f76b-4ee4-8068-5bddb829515c/公告表.pdf"
+        },
+        {
+            "fileid": 152048,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-27/8190879a-f654-4095-ba06-487efa2df0ea/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 80398,
+            "caseId": 4063,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 86368,
+            "caseId": 4063,
+            "caseStatus": true,
+            "registerDate": 1303401600000,
+            "officialDocNo": "會授資籌二字10020040353號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

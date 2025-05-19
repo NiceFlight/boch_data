@@ -1,0 +1,100 @@
+{
+    "id": 17334,
+    "caseId": "20200206000005",
+    "count": 166,
+    "shareCount": 0,
+    "representImage": 65702,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-02-06/1973fb8d-8992-479f-9b23-81f4c99f8958/IMG_1581_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-02-06/1973fb8d-8992-479f-9b23-81f4c99f8958/IMG_1581.jpg",
+        "name": "IMG_1581"
+    },
+    "caseName": "澎湖天后宮「與天同功」匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1570600340148,
+    "officialDocNo": "中華民國108年10月9日府授文博字1083703350號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "數量稀少者"
+    ],
+    "registerReason": "1、具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：全臺「與天同功」匾約有二十方，係光緒7年(1881)頒臺灣各屬天后廟。傳聞澎湖天后宮亦有一方光緒7年的「與天同功」匾，但於中法戰爭時被法軍所掠；而現存之本匾亦有臨摹台南大天后宮之說，或為陳步翔臨摹而仿製。\n 2、 數量稀少者：匾面共有十三條金龍，相當罕見。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、5款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00646-P-106-0007",
+    "amount": 1,
+    "descAge": "日治時期",
+    "descSize": "寬約220公分",
+    "descMaterial": "木",
+    "reserveStatusDesc": "橫長形木匾，有橫向木裂痕，匾面深褐，繪有龍紋並貼金，龍共13隻，龍間飾雲紋，中央下方一焰珠。中行題「與天同功」四字為覆竹倒角，中上有一凸出方印陽文帶框，印篆體刻「敕賜之寶」",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "無",
+    "saveEnvironment": 2,
+    "reserveStatus": "澎湖天后宮正殿後點金柱間",
+    "documents": [
+        {
+            "fileid": 106637,
+            "name": "澎湖天后宮「與天同功」匾公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-04-21/f668cf5c-b4ff-40f9-8f45-22a1bc1f24e2/澎湖天后宮「與天同功」匾公告表.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.564038,
+    "latitude": 23.564693,
+    "representImageSource": "澎湖縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "澎湖天后宮",
+            "keepName": "蔡光明",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "澎湖天后宮",
+            "keepAddressNew": "澎湖縣馬公市中央里正義街1號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 127646,
+            "caseId": 17334,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "中央里正義街1號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 138568,
+            "caseId": 17334,
+            "caseStatus": true,
+            "registerDate": 1570600340148,
+            "officialDocNo": "府授文博字第1083703350號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

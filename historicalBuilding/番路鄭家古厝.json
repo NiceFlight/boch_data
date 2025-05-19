@@ -1,0 +1,157 @@
+{
+    "id": 15305,
+    "caseId": "20171117000002",
+    "count": 3243,
+    "shareCount": 7,
+    "representImage": 262548,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-09-30/9e12c033-182a-409b-9736-a18b0bbb586b/DSC_0026_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-09-30/9e12c033-182a-409b-9736-a18b0bbb586b/DSC_0026.jpg",
+        "name": "DSC_0026"
+    },
+    "caseName": "番路鄭家古厝",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "鄭氏先祖茂未公於1899年（明治三十二年）興建之祠堂，全由龍眼木建構而成，已有百年歷史。屋後曾有漢番界碑，然已滅失。家族中現有種植日治時期已種下的咖啡樹。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1506009600000,
+    "officialDocNo": "府授文資字第1060184878號",
+    "documents": [
+        {
+            "fileid": 166633,
+            "name": "番路鄭家古厝登錄歷史建築公告-106.9.22.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-31/5d54ebe2-b1f2-4d11-8957-2d20cfe3343c/番路鄭家古厝登錄歷史建築公告-106.9.22.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1. 表現地域風貌或民間藝術特色：番路鄭家古厝廊下上方保留二座蜂儲，展現當時在地生活習慣。且客廳牌位配置、正身與橫屋之間採用客家建築常用的穿廊作法，廳前懸掛天公爐，又深具閩南特色，有閩客文化融合意涵。\n2. 具建築史或技術史之價值：本宅第為日治大正初年建造的三合院式木構造建築，配合部分編竹夾泥牆；正身採用少見的基座抬高，無落柱，採懸挑出簷的作法，深具建築及技術價值。\n3. 具地區性建造物類型之特色：建築材料就地取材，使用龍眼木、砂岩等在地材料。三合院後有山環抱，基地位在「虎穴」，基地完整且屋後曾有漢番界碑，具有早期移墾歷史意義。\n\n經本縣文化資產審議委員會決議，本宅第具地域性歷史文化價值，因此登錄為本縣歷史建築。",
+    "lawsReference": "<<文化資產保存法>>第18條\n<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2、3、4條",
+    "govInstitutionCode": "612",
+    "govInstitutionName": "嘉義縣政府",
+    "belongCityId": 15,
+    "belongCityName": "嘉義縣",
+    "belongDistName": "番路鄉",
+    "govInstitution": "嘉義縣政府",
+    "govDeptName": "嘉義縣文化觀光局",
+    "govDeptPhone": "05-3628123*310",
+    "govDeptAddress": "嘉義縣太保市太子大道158號",
+    "cadasters": [
+        {
+            "fileid": 166617,
+            "name": "番路鄭家古厝-地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-05-31/39a8a05b-8578-495d-82ab-e0a862d28ee6/番路鄭家古厝-地籍圖.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "locationLandNo": "嘉義縣番路鄉番路段501、502、502-1、126-2地號內部份土地",
+    "bulkTransfer": 0,
+    "belongAddress": "嘉義縣番路鄉觸口村10鄰埔尾16號",
+    "isOpenVisit": false,
+    "isOpenDownload": false,
+    "longitude": 120.60159799999997,
+    "latitude": 23.446094,
+    "representImageSource": "嘉義縣文化觀光局",
+    "landScope": "嘉義縣番路鄉番路段501、502、502-1、126-2地號內部份土地",
+    "selfCoverage": "公告未指明歷史建築本體",
+    "addresses": [
+        {
+            "cityName": "嘉義縣",
+            "distName": "番路鄉",
+            "id": 136106,
+            "caseId": 15305,
+            "caseStatus": true,
+            "cityId": 15,
+            "distId": 1501,
+            "address": "觸口村10鄰埔尾16號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "嘉義縣",
+            "distName": "番路鄉",
+            "landNoName": "番路段",
+            "id": 199258,
+            "caseId": 15305,
+            "caseStatus": true,
+            "cityId": 15,
+            "distId": 1501,
+            "landNoId": 13015,
+            "landSerialNo": "501地號",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "嘉義縣",
+            "distName": "番路鄉",
+            "landNoName": "番路段",
+            "id": 199259,
+            "caseId": 15305,
+            "caseStatus": true,
+            "cityId": 15,
+            "distId": 1501,
+            "landNoId": 13015,
+            "landSerialNo": "502地號",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "嘉義縣",
+            "distName": "番路鄉",
+            "landNoName": "番路段",
+            "id": 199260,
+            "caseId": 15305,
+            "caseStatus": true,
+            "cityId": 15,
+            "distId": 1501,
+            "landNoId": 13015,
+            "landSerialNo": "502-1地號",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "嘉義縣",
+            "distName": "番路鄉",
+            "landNoName": "番路段",
+            "id": 199261,
+            "caseId": 15305,
+            "caseStatus": true,
+            "cityId": 15,
+            "distId": 1501,
+            "landNoId": 13015,
+            "landSerialNo": "126-2地號",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 148629,
+            "caseId": 15305,
+            "caseStatus": true,
+            "registerDate": 1506009600000,
+            "officialDocNo": "府授文資字第1060184878號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"嘉義縣番路鄉番路段501地號\"}}],\"notfound\":\"沒有地號資料\"},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"嘉義縣番路鄉番路段502地號\"}}],\"notfound\":\"沒有地號資料\"},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"嘉義縣番路鄉番路段502-1地號\"}}],\"notfound\":\"沒有地號資料\"},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"嘉義縣番路鄉番路段126-2地號\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": " "
+}

@@ -1,0 +1,112 @@
+{
+    "id": 20000,
+    "caseId": "20210908000002",
+    "count": 3638,
+    "shareCount": 1,
+    "representImage": 230174,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-08-18/4a4335dc-fb06-4c1f-855d-95a41ba4ca9b/埔里南村義民祠_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-08-18/4a4335dc-fb06-4c1f-855d-95a41ba4ca9b/埔里南村義民祠.jpg",
+        "name": "埔里南村義民祠"
+    },
+    "caseName": "埔里南村義民祠",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "埔里南村義民祠位於埔里鎮南村里南村路8-1號。創建於清光緒5年(1879)，由客家移民自新竹縣新埔鎮枋寮褒忠義民廟分香建廟於此地，距今約有145年歷史。清光緒14年(1888)、日治昭和5年(1930)及民國90年(2001)均曾經重修，但祠貌仍維持清代閩式建築風格，正身建築古色古香，屋架構照、屋面、柱樑保有傳統工法及材質，具有地區性特色。除此之外，廟內供俸「褒忠粵東義民老爺尊神之位」牌位，係祭祀清乾隆年間協助清軍平定林爽文抗清事件而陣亡之客家先民，為當地居民信仰中心。\n\n",
+    "assetsTypeNames": "寺廟",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 137448,
+            "name": "01公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-09-08/9214dd6b-74bb-4f62-bdfe-1fde423e25cf/01公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "1.本建物創於光緒5年(1879)，為140年歷史之客家廟宇，為保持良好之清代閩式建築，祠貌維持清代閩式建築風格，正身建築古色古香，屋架構照、屋面、柱樑保有傳統工法及材質，具文資價值。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、2款基準",
+    "govInstitutionCode": "540",
+    "govInstitutionName": "南投縣政府",
+    "govInstitution": "南投縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "049-2231191",
+    "govDeptAddress": "南投市建國路135號",
+    "cadasters": [
+        {
+            "fileid": 137449,
+            "name": "位置圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-09-08/b48df955-b862-47bb-a2b5-6ee9ae6b3794/位置圖.pdf"
+        }
+    ],
+    "buildingFeatures": "百年木造及磚造構造建築、上覆台灣薄瓦，斜屋頂，圍牆庭院建築。",
+    "inHouseFeatures": "三川門隔開神廳與步廊內外，型態古樸。神廳左右有次間，在左右有稍間。",
+    "buildingUsage": "目前為在地客家鄉親祭拜使用",
+    "buildingActualState": "祠貌仍維持清代閩粵式建築風格",
+    "buildingKeyMaintainItem": "環境整理，注意防火與電壓負載量。目前管理維護狀況良好。",
+    "bulkTransfer": 0,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenVisit": true,
+    "openUpTime": "上午8時至下午5時",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.944578,
+    "latitude": 23.963823,
+    "representImageSource": "南投縣政府文化局",
+    "landScope": "南投縣埔里鎮坪仔頂段313地號，土地面積為362.05平方公尺。",
+    "selfCoverage": "南投縣埔里鎮坪仔頂段313地號",
+    "addresses": [
+        {
+            "cityName": "南投縣",
+            "distName": "埔里鎮",
+            "id": 130196,
+            "caseId": 20000,
+            "caseStatus": true,
+            "cityId": 12,
+            "distId": 1205,
+            "address": "南村里南村路8-1號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "南投縣",
+            "distName": "埔里鎮",
+            "landNoName": "坪仔頂段",
+            "noncityLandUseTypeName": "山坡地保育區",
+            "id": 182925,
+            "caseId": 20000,
+            "caseStatus": true,
+            "cityId": 12,
+            "distId": 1205,
+            "landNoId": 10105,
+            "landSerialNo": "313",
+            "landownership": 1,
+            "noncityLandUseTypeId": 6,
+            "area": "362.05",
+            "noncityLandUseTypeOther": "",
+            "note": "牛相觸段0017-0000地號",
+            "cityLandUseId": 2
+        }
+    ],
+    "announces": [
+        {
+            "id": 141772,
+            "caseId": 20000,
+            "caseStatus": true,
+            "registerDate": 1628056236923,
+            "officialDocNo": "府授文資字第11001717591號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.94461925087153,23.96394506396625],[120.94465569901378,23.963916849622663],[120.94467608117368,23.963804216097312],[120.94448785090263,23.963735550136636],[120.94442500685663,23.963837458241343],[120.94456613424015,23.96393535149967],[120.94461925087153,23.96394506396625],[120.94461925087153,23.96394506396625]]]]},\"properties\":{\"envelope\":{\"left\":\"120.94442500685663\",\"top\":\"23.963735550136636\",\"right\":\"120.94467608117368\",\"bottom\":\"23.96394506396625\"},\"landLot\":\"南投縣埔里鎮坪仔頂段313\"}}],\"notfound\":[]}]",
+    "landScopeJson": "{\"type\": \"FeatureCollection\",\"features\": [{\"type\": \"Feature\",\"properties\": \"{}\",\"geometry\": {\"type\": \"Polygon\",\"coordinates\": [[[120.94444925509106,23.963800922451846],[120.94450555655234,23.96371517508682],[120.94470931422168,23.963788672831765],[120.94469054706792,23.963898919370617],[120.94465301276043,23.963928318431723],[120.944607435387,23.96392586851021],[120.94444925509106,23.963800922451846]]]}}]}",
+    "openVisitType": "部分開放參觀",
+    "pastHistorySource": "南投文化局現勘審查委員(簡榮聰)"
+}

@@ -1,0 +1,163 @@
+{
+    "id": 2130,
+    "caseId": "20160225000001",
+    "count": 3688,
+    "shareCount": 2,
+    "representImage": 158704,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-04-11/b47b7631-b848-4ed3-836d-3c5b46bcfe13/歷044臺南永福路孫宅_P001_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-04-11/b47b7631-b848-4ed3-836d-3c5b46bcfe13/歷044臺南永福路孫宅_P001.jpg",
+        "name": "歷044臺南永福路孫宅_P001"
+    },
+    "caseName": "原臺南大宮町日式住宅",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "詳公告內容。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1456365931000,
+    "officialDocNo": "府文資處字第1050076902B號",
+    "documents": [
+        {
+            "fileid": 158703,
+            "name": "臺南永福路孫宅公告105.2.25.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-11/b5d3e995-ccf0-4a12-af19-08cba3a4bca1/臺南永福路孫宅公告105.2.25.pdf"
+        },
+        {
+            "fileid": 281119,
+            "name": "公告更新A.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2025-02-19/63db5286-b60b-4f7a-a623-86ae45bcf544/公告更新A.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "1. 表現地域風貌或民間藝術特色者：木作門、窗扇作工精細，局部柱體作特殊菱形紋雕刻；黑砂壁等多樣面飾材表現日治後期建築美學與工藝價值。\n2. 具建築史或技術史之價值者：興建於1942年，局部採懸吊式屋架、花崗岩支撐板等特殊構法；建有室內磚砌防空洞，見證戰爭時期歷史。\n3. 具地區性建造物類型之特色者：呈現和、洋混合風格，空間為日式複層住宅格局，座敷精神柱造型特殊。",
+    "lawsReference": "符合《歷史建築登錄廢止審查及輔助辦法》第2條第1款至第3款之基準。",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "中西區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 281120,
+            "name": "示意圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2025-02-19/3bcec5a1-42d2-4ae6-bac9-e5ee16a4da25/示意圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺南市中西區保西段521、542及493地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "臺南市中西區永福路二段77號",
+    "isOpenVisit": false,
+    "openUpTime": "",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.200983,
+    "latitude": 22.99308,
+    "representImageSource": "臺南市政府",
+    "landScope": "臺南市中西區保西段521、542及493地號",
+    "selfCoverage": "1. 兩層樓木造建築本體一棟(60.6平方公尺)\n2. 建築本體南側原主入口之門廊(3.29平方公尺)\n3. 基地南側圍牆門柱一對(0.04平方公尺)\n4. 基地南側東半部圍牆(0.57平方公尺)",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "id": 147880,
+            "caseId": 2130,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601,
+            "address": "永福路二段77號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "landNoName": "保西段",
+            "id": 204033,
+            "caseId": 2130,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601,
+            "landNoId": 2392,
+            "landSerialNo": "521",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "landNoName": "保西段",
+            "id": 204034,
+            "caseId": 2130,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601,
+            "landNoId": 2392,
+            "landSerialNo": "542",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "landNoName": "保西段",
+            "id": 204035,
+            "caseId": 2130,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601,
+            "landNoId": 2392,
+            "landSerialNo": "493",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 160614,
+            "caseId": 2130,
+            "caseStatus": true,
+            "registerDate": 1456365931000,
+            "officialDocNo": "府文資處字第1050076902B號",
+            "classificationId": 1
+        },
+        {
+            "id": 160615,
+            "caseId": 2130,
+            "caseStatus": true,
+            "registerDate": 1734075049573,
+            "officialDocNo": "南市文資字第1132490265A號",
+            "classificationId": 2
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.20088285457722,22.992728647690956],[120.20086927608591,22.992674799104574],[120.20072397252434,22.992706962908777],[120.20074018950795,22.992759583615477],[120.20088285457722,22.992728647690956],[120.20088285457722,22.992728647690956]]]]},\"properties\":{\"envelope\":{\"left\":\"120.20072397252434\",\"top\":\"22.992674799104574\",\"right\":\"120.20088285457722\",\"bottom\":\"22.992759583615477\"},\"landLot\":\"臺南市中西區保西段521\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.20086927608591,22.992674799104574],[120.20086309669159,22.992650514890357],[120.20071599287158,22.992680964883196],[120.20072397252434,22.992706962908777],[120.20086927608591,22.992674799104574],[120.20086927608591,22.992674799104574]]]]},\"properties\":{\"envelope\":{\"left\":\"120.20071599287158\",\"top\":\"22.992650514890357\",\"right\":\"120.20086927608591\",\"bottom\":\"22.992706962908777\"},\"landLot\":\"臺南市中西區保西段542\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.20089700198106,22.992784557711236],[120.20088285457722,22.992728647690956],[120.20074018950795,22.992759583615477],[120.20075685905964,22.992812893343302],[120.20089700198106,22.992784557711236],[120.20089700198106,22.992784557711236]]]]},\"properties\":{\"envelope\":{\"left\":\"120.20074018950795\",\"top\":\"22.992728647690956\",\"right\":\"120.20089700198106\",\"bottom\":\"22.992812893343302\"},\"landLot\":\"臺南市中西區保西段493\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": "歷史建築臺南永福路孫宅 調查研究修復及再利用計畫"
+}

@@ -1,0 +1,103 @@
+{
+    "id": 5051,
+    "caseId": "20170925000005",
+    "count": 276,
+    "shareCount": 0,
+    "representImage": 63030,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-12-05/e10e694a-3f20-4317-bd7d-853d4c145706/建築費寄附人名簿封面_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-12-05/e10e694a-3f20-4317-bd7d-853d4c145706/建築費寄附人名簿封面.jpg",
+        "name": "建築費寄附人名簿封面"
+    },
+    "caseName": "建築費寄附人名簿",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1505704420223,
+    "officialDocNo": "北市獻編字第10630553000號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "數量稀少者",
+        "對地方或族群知識、技術或流派發展具影響或意義"
+    ],
+    "registerReason": "1.明治37年，年代久遠，具歷史與史料之價值。\n2.該校為承續1895年芝山巖學堂之最早老學校，所存校方文獻史籍(書類、帳冊、\n   證明書類)，均值得保存，為臺灣地區近代教育史留下見證。\n",
+    "lawsReference": "古物分級指定及廢止審查辦法第 2 條第1、2、3、5、6款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "研究員",
+    "govDeptPhone": "02-23115355#20",
+    "govDeptAddress": "臺北市萬華區中華路1段174-1號",
+    "reservationCode": "無",
+    "amount": 1,
+    "descAge": "1894年 (明治27年)",
+    "descSize": "28cm*20cm*1cm",
+    "descMaterial": "紙質書籍",
+    "reserveStatusDesc": "學校資產說明資料",
+    "pastHistorySource": 1,
+    "saveEnvironment": 1,
+    "reserveStatus": "有蟲蛀、霉斑及破損",
+    "documents": [
+        {
+            "fileid": 15954,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2017-09-25/b0f0ea08-dfb7-4c21-acdc-2940f297237c/公告.pdf"
+        },
+        {
+            "fileid": 47415,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-01-16/99c99880-a5d3-41f6-b55c-a1397e825fe4/公告表.pdf"
+        }
+    ],
+    "representImageSource": "臺北市士林區士林國民小學",
+    "keepNames": [
+        {
+            "keepNameIdStr": "臺北市士林區士林國民小學",
+            "keepName": "羅麗文",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "臺北市士林區士林國民小學",
+            "keepAddressNew": "臺北市士林區大東路165號",
+            "saveSpaceIdStr": "學校",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameAddress": "大東路一六五號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 5189,
+            "caseId": 5051,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108
+        }
+    ],
+    "announces": [
+        {
+            "id": 5189,
+            "caseId": 5051,
+            "caseStatus": true,
+            "registerDate": 1505704420223,
+            "officialDocNo": "北市獻編字第10630553000號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

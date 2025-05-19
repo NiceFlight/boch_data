@@ -1,0 +1,101 @@
+{
+    "id": 3274,
+    "caseId": "20151225000011",
+    "count": 546,
+    "shareCount": 0,
+    "representImage": 211209,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-04-12/00ce9d35-f053-434a-bd63-d560e36094a3/彰化聖廟翹頭案_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-04-12/00ce9d35-f053-434a-bd63-d560e36094a3/彰化聖廟翹頭案.jpg",
+        "name": "彰化聖廟翹頭案"
+    },
+    "caseName": "彰化聖廟翹頭案",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1450972800000,
+    "officialDocNo": "府授文資字第1040431125J號",
+    "judgeCriteria": [
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.具有珍貴及稀有性者：彰化有年款案桌年代最早者。\n2.具有歷史、文化、藝術或科學價值：代表乾隆年間案桌製作的工藝。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第4、5款",
+    "govInstitutionCode": "500",
+    "govInstitutionName": "彰化縣政府",
+    "belongCityId": 11,
+    "belongCityName": "彰化縣",
+    "belongDistName": "彰化市",
+    "govInstitution": "彰化縣政府",
+    "govDeptName": "彰化縣文化局",
+    "govDeptPhone": "04-7510709",
+    "govDeptAddress": "彰化縣彰化市平和七街66號",
+    "reservationCode": "府授文資字第1040431125J號",
+    "amount": 1,
+    "notes": "",
+    "descAge": "乾隆30年（西元1765年）",
+    "descSize": "長 354、寬91、高141(cm) ",
+    "descMaterial": "木質",
+    "reserveStatusDesc": "本案之翹頭案共一件，為木質，置於大成殿正中央。此神案以榫卯工藝拼接製成，並施以紅漆。案腳頂部有雲頭裝飾，案角飾以陰刻之回紋。桌腳與勒水之間以夾頭榫結合。案左前腳刻有「乾隆三十年（西元1765年）十月置」，「乾隆」二字疑似被刻意塗蓋而不易辨識；桌案右前腳刻有「彰化諸紳士仝立」。\n\n根據研究，在目前臺灣寺廟宗祠中所見供桌中，除了關西鄭祠一件「康熙五十年八月吉旦」（西元1711年）的翹頭案最古老之外，目前附有年款之供桌以此翹頭案為最。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 2,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 211208,
+            "name": "彰化聖廟翹頭案1041225.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-04-12/6f619ac6-b9e5-4b00-b9a0-d305fece35ef/彰化聖廟翹頭案1041225.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 24.078856473340274,
+    "latitude": 120.54575195512545,
+    "representImageSource": "彰化縣文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "彰化孔子廟",
+            "keepName": "彰化孔子廟",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "彰化孔子廟",
+            "keepAddressNew": "孔門路30號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "彰化縣",
+            "keepNameDistName": "彰化市",
+            "keepNameAddress": "孔門路30號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "彰化縣",
+            "distName": "彰化市",
+            "id": 113218,
+            "caseId": 3274,
+            "caseStatus": true,
+            "cityId": 11,
+            "distId": 1101,
+            "address": "孔門路30號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 123045,
+            "caseId": 3274,
+            "caseStatus": true,
+            "registerDate": 1450972800000,
+            "officialDocNo": "府授文資字第1040431125J號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

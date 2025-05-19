@@ -1,0 +1,107 @@
+{
+    "id": 3953,
+    "caseId": "20120326000008",
+    "count": 253,
+    "shareCount": 0,
+    "representImage": 188579,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-10-31/de1b666d-e83c-4ca3-a6ca-746b55e8043b/K2A000036N000000000PAA_c.png"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-10-31/de1b666d-e83c-4ca3-a6ca-746b55e8043b/K2A000036N000000000PAA.png",
+        "name": "K2A000036N000000000PAA"
+    },
+    "caseName": "宋李成寒江釣艇軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就"
+    ],
+    "registerReason": "此畫上無作者款印，舊傳為李成，不過李成之畫幾無傳世作品可徵。根據畫風和詩題書風，學者多認為其當出於元人手筆。此幀畫山水如捲雲狀，皴染圓渾厚重，輪廓線條精變變化大，純熟的筆墨顯示畫家對李郭一派的畫法頗為熟稔，為一幅元代李郭畫派的佳作。具有重要之時代及流派特色，並具有重要藝術造詣與成就。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第三、四款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000036",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descCreator": "李成",
+    "descSize": "170 x 101.9（公分）",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "李成（916－967），唐朝皇室後裔，五代山東人。五代至北宋初，李成的松石平遠，富呎尺千里氣象，與北方的荊浩、關仝、范寬，以及南方的董源、巨然發展出中國水墨山水畫的兩大系統。\n畫中高山飛瀑，巖上老松偃蓋。前景巨松挺立，漁人寒江獨釣。山石皴染如雲，受北宋郭熙山水畫皴法影響。然用筆活潑快速，不完全拘泥於物象。由畫風及題跋書風來看，推測為元人李郭派的作品。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 151238,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-24/d86f07c1-436a-44a1-abc8-819596d0479a/公告.pdf"
+        },
+        {
+            "fileid": 151239,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-24/f94291f6-6b01-4ee5-a732-f204de982ef3/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 94733,
+            "caseId": 3953,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": " 至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 102152,
+            "caseId": 3953,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

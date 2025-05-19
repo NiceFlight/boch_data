@@ -1,0 +1,100 @@
+{
+    "id": 20256,
+    "caseId": "20211214000007",
+    "count": 105,
+    "shareCount": 0,
+    "representImage": 147532,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-14/b369db33-9741-4440-b988-529604eeb988/007_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-14/b369db33-9741-4440-b988-529604eeb988/007.jpg",
+        "name": "007"
+    },
+    "caseName": "西清古鑑四十卷錢錄十六卷（故殿016958-016999）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就",
+        "數量稀少者",
+        "對地方或族群知識、技術或流派發展具影響或意義"
+    ],
+    "registerReason": "全書勾勒古代青銅、禮器、錢幣等器物圖形，拓印銘文並予以釋文，紀錄形制和尺寸，為研究青銅器及金石學之典籍參考的重要文獻。此套清室善後委員會點查字號「洪-70」，原貯於懋勤殿。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、3、4、5、6款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174之1號",
+    "reservationCode": "故殿016958-016999",
+    "amount": 42,
+    "descAge": "清乾隆二十年武英殿刊本",
+    "descSize": "版框29.5x21.5公分，書冊43.1x28.4公分",
+    "descMaterial": "紙墨絹",
+    "reserveStatusDesc": "《西清古鑑》乃清乾隆年間編纂之首部銅器圖錄，皇帝命尚書梁詩正（1697-1763）等人依《宣和博古圖》體例，將殿廷陳列和內府儲藏銅器，「精繪形模、備摹款識」，編為圖錄，歷時兩年成書，由武英殿專責刊印。全書總計40卷，並附《錢錄》16卷，與後來接續纂輯的《寧壽鑑古》以及《西清續鑑》甲、乙編合稱「西清四鑑」，著錄貯藏於紫禁城各殿閣以及盛京行宮之銅器共4,105件。每器具圖，勾勒器銘並釋文，詳載尺寸形制，間有考證，堪稱清代官修最具規模的傳世銅器圖鑑，也是研究中國古代金石學的重要學術文獻。清室善後委員會點查字號「洪-70」，原貯於懋勤殿。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "1.卷帙完整，書冊未曾改裝，唯獨第40冊卷末頁面破損較多，封底改用黃高麗紙重裝。石青絹質書衣，牙黃絹貼簽、包角，古色珠線，大抵保留清宮圖書裝幀原貌。\n2.此帙刷印時間較晚，字畫墨跡略見模糊。\n3.部分書冊絹面、包角略有蟲蛀、破損、脫絲情形。刷印書頁暨內襯紙張皆有程度不一之霉斑、水漬痕跡與些微破損，版心摺頁處多見斷裂。\n4.部分書冊絹面及書頁或因傳存期間檢閱頻繁，出現纖維拉力降低情形。\n",
+    "documents": [
+        {
+            "fileid": 147531,
+            "name": "110年12月9日北市獻編字第1103004564號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-14/511cebba-d752-40cd-8549-621b083c3aad/110年12月9日北市獻編字第1103004564號公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69138,
+            "caseId": 20256,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73262,
+            "caseId": 20256,
+            "caseStatus": true,
+            "registerDate": 1639043307533,
+            "officialDocNo": "北市獻編字第1103004564號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

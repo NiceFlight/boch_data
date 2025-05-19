@@ -1,0 +1,101 @@
+{
+    "id": 4355,
+    "caseId": "20150505000002",
+    "count": 276,
+    "shareCount": 0,
+    "representImage": 7305,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4401/photo/明周臣甯戚飯牛圖軸_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4401/photo/明周臣甯戚飯牛圖軸.jpg",
+        "name": "明周臣甯戚飯牛圖軸"
+    },
+    "caseName": "明周臣甯戚飯牛圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1430755200000,
+    "officialDocNo": "文授資局物第 10420054041號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就"
+    ],
+    "registerReason": "周臣（約1450—1535），字舜卿，別號東村。吳郡（江蘇蘇州）人。畫山水師陳暹，得宋人法。兼工人物，古貌奇姿、綿密蕭散，各極意態。\n周臣融合浙派與南宋院體派的畫風，在蘇州職業畫家中，卓有名聲，對其學生如唐寅（1470－1524）、仇英（約1494－1552）等人，亦有顯著之影響。此作幅中的樹石，皴筆豪邁飛動，幾近浙派風致。本幅用筆極稱潑辣縱放，屬於其寫意一格的代表之作。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條1項第3、4款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": " 04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000463",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descSize": "126.7 x 68.9（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "周臣（約1450—1535），字舜卿，別號東村。吳郡（江蘇蘇州）人。畫山水師陳暹，得宋人法。兼工人物，古貌奇姿、綿密蕭散，各極意態。\n本幅典故源自《呂氏春秋舉難》，敘說春秋時衛人甯戚（西元前七世紀），藉驅趕牛車，與齊國桓公（約西元前716—643）相遇。甯戚敲擊牛角，高歌抒懷。桓公聞聽歌曲內容，知其非尋常百姓，乃延聘為丞相。\n幅中的樹石，皴筆豪邁飛動，幾近浙派風致。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 149990,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-10/958e9001-2fa1-4487-b0ad-c14507f9d920/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "圖書文獻處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70328,
+            "caseId": 4355,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 74561,
+            "caseId": 4355,
+            "caseStatus": true,
+            "registerDate": 1430755200000,
+            "officialDocNo": "文授資局物第 10420054041號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

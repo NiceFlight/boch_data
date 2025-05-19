@@ -1,0 +1,120 @@
+{
+    "id": 2159,
+    "caseId": "20160414000002",
+    "count": 1823,
+    "shareCount": 0,
+    "representImage": 118977,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-06-11/39a3ca1a-71ef-4392-8b3f-210df8ff62e6/圖像_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-06-11/39a3ca1a-71ef-4392-8b3f-210df8ff62e6/圖像.jpg",
+        "name": "圖像"
+    },
+    "caseName": "許家403地號古宅",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "建築創建約120年歷史，非採完整四櫸頭形制，右間仔並未如一般傳統古厝全部完全，且與大厝身不同時期興建，反可見證澎湖居民仍有分年興建之歷史意義，且見證許家村的發展。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1460563200000,
+    "officialDocNo": "府授文資字第10537009602號 ",
+    "documents": [
+        {
+            "fileid": 100008,
+            "name": "公告公文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-03-12/12e42581-dace-4f1f-b7f6-32a704af5e01/公告公文.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "(一)具歷史文化價值者：為一落二櫸頭加左護龍建築為硓𥑮石造，建造120年以上。\n(二)表現地域風貌或民間藝術特色者：半截堵Swa石組砌及玄武岩組砌，作工精緻，水泥仿木作窗櫺，亦極具特色。\n(三)具建築史或技術史之價值者：見證了許家村的發展，其非採完整四櫸頭形制，右間仔未建，僅於右房前方建有草坡頂之建築，係傳統民宅增築過程之典型案例，具建築史上的意義及時代性。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "湖西鄉",
+    "govInstitution": "澎湖縣政府澎湖縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "06-9261141#138",
+    "govDeptAddress": "澎湖縣馬公市中華路230號",
+    "cadasters": [
+        {
+            "fileid": 100010,
+            "name": "110XA001689PIC1.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-03-12/773dd427-78c9-4e96-aef2-200c89625e94/110XA001689PIC1.pdf"
+        }
+    ],
+    "nonCityLandUseTypeId": 2,
+    "nonCityLandUseTypeName": "一般農業區",
+    "nonCityLandUseSubTypeId": 1,
+    "nonCityLandUseSubTypeName": "甲種建築",
+    "locationLandNo": "湖西鄉許家段403地號",
+    "buildingFeatures": "1.一落二櫸頭加左護龍形式，格局為少見的不對稱形式。\n2.半截堵汕石組砌及玄武岩組砌作工精細，水泥仿木窗櫺，極具特色。",
+    "inHouseFeatures": "無",
+    "buildingUsage": "閒置。",
+    "buildingActualState": "閒置。",
+    "buildingKeyMaintainItem": "安排人員於固定時間巡視，清理廢棄物與周遭植物。",
+    "bulkTransfer": 0,
+    "belongAddress": "許家村港仔尾37號右側之傳統建築",
+    "isOpenVisit": false,
+    "openUpTime": "不開放",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 119.607218,
+    "latitude": 23.587267,
+    "representImageSource": "澎湖縣政府文化局文化資產科",
+    "landScope": "澎湖縣湖西鄉許家段403地號",
+    "selfCoverage": "坐落湖西鄉許家段403地號內之湖西鄉許家段23建號建築本體，屬一落二櫸頭傳統建築格局，其包含大廳、左右房、中亭、深井及左間仔等，面積為99.70平方公尺。",
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "湖西鄉",
+            "id": 106256,
+            "caseId": 2159,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2106,
+            "address": "許家村港仔尾37號右側之傳統建築"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "湖西鄉",
+            "landNoName": "許家段",
+            "noncityLandUseTypeName": "一般農業區",
+            "id": 130891,
+            "caseId": 2159,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2106,
+            "landNoId": 15606,
+            "landSerialNo": "403",
+            "landownership": 2,
+            "noncityLandUseTypeId": 2,
+            "area": "223.76平方公尺",
+            "noncityLandUseTypeOther": "甲種建築用地",
+            "note": "",
+            "cityLandUseId": 2
+        }
+    ],
+    "announces": [
+        {
+            "id": 113927,
+            "caseId": 2159,
+            "caseStatus": true,
+            "registerDate": 1460563200000,
+            "officialDocNo": "府授文資字第10537009602號 ",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[119.60731384868687,23.587341322829726],[119.60725729374363,23.587175207352086],[119.60715068932535,23.587204391830277],[119.60714732656756,23.5872056171535],[119.60720767126759,23.587371903288574],[119.60731384868687,23.587341322829726],[119.60731384868687,23.587341322829726]]]]},\"properties\":{\"envelope\":{\"left\":\"119.60714732656756\",\"top\":\"23.587175207352086\",\"right\":\"119.60731384868687\",\"bottom\":\"23.587371903288574\"},\"landLot\":\"澎湖縣湖西鄉許家段403\"}}],\"notfound\":[]}]",
+    "openVisitType": ""
+}

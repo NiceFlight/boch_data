@@ -1,0 +1,102 @@
+{
+    "id": 3771,
+    "caseId": "20140421000015",
+    "count": 302,
+    "shareCount": 0,
+    "representImage": 6567,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39161/photo/pic046_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39161/photo/pic046.jpg",
+        "name": "pic046"
+    },
+    "caseName": "新石器時代龍山—齊家系 玉琮",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1398009600000,
+    "officialDocNo": "文資物字第10320043691號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要之時代特色、技術及流派",
+        "品質精良且數量稀少"
+    ],
+    "registerReason": "此件玉琮，暗青綠色玉質。全器作方形的柱體，中央有直通的大圓孔，上下切出射口形狀。光素無紋，製作工整，高大厚實。\r\n此玉琮應為新石器時代黃河上、中游族群的用器。此件玉質質感沉靜，尺寸大，罕見稀有。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第1、3、5款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局 ",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "中玉000431",
+    "amount": 1,
+    "notes": "",
+    "descAge": "新石器時代",
+    "descSize": "高：32；邊寬：10.5；孔徑：8.0；厚：1.7 （公分）",
+    "descMaterial": "玉",
+    "reserveStatusDesc": "質材：暗青綠色玉，滿布黑色藻絲斑，局部為淺青色，夾雜褐色斑。\r\n形制：全器作方形的柱體，中央有直通的大圓孔，上下切出射口形狀。\r\n紋飾：光素無紋。\r\n特徵：製作工整，高大厚實。\r\n參考考古資料：本件玉琮屬於距今約四千多至三千六、七百年間，黃河上、中游的文化玉器。其文化面貌紛雜，居民使用的玉器雖有地區差異，卻頗具共性，暫訂為「龍山—齊家系」。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。有數處輕微舊傷缺。",
+    "documents": [
+        {
+            "fileid": 150231,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-12/140a5a64-50e3-4648-bcc3-4bd90fa08e47/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": " 國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70789,
+            "caseId": 3771,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 75055,
+            "caseId": 3771,
+            "caseStatus": true,
+            "registerDate": 1398009600000,
+            "officialDocNo": "文資物字第10320043691號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

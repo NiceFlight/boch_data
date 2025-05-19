@@ -1,0 +1,101 @@
+{
+    "id": 4405,
+    "caseId": "20150505000016",
+    "count": 306,
+    "shareCount": 0,
+    "representImage": 7399,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4596/photo/明仇英春遊晚歸圖軸_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4596/photo/明仇英春遊晚歸圖軸.jpg",
+        "name": "明仇英春遊晚歸圖軸"
+    },
+    "caseName": "明仇英春遊晚歸圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1430755200000,
+    "officialDocNo": "文授資局物第 10420054041號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就"
+    ],
+    "registerReason": "仇英（約1494－1552），居蘇州。曾為漆工，後以畫藝聞名。從周臣學畫，擅長山水、仕女、人物。又長於臨摹古人作品，幾可亂真。為明四大家之一。\n本幅畫面主題雖源自戴進（1388－1462）的同名之作，但畫法實與南宋劉松年一系的院體畫風格一脈相承。形象描繪真實，敷染細膩生動，於暮色氣氛的營造上，尤具功力，的確屬仇英從師古歷程中建構個人風格特質的極佳範例，為仇英風格成熟時期的代表作品。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條1項第3、4款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": " 04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000483",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descSize": "145.5 x 76.5（公分）",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "本幅未署作者名款，僅左下方鈐有「十洲」瓢形印。仇英摹古之作多不署款，本幅雖不確知摹自何作，但由畫題看，與院藏戴進（1388－1462）的〈春遊晚歸〉取意最為近似。\r\n畫中描繪夜幕低垂，主僕四人春遊歸來。人物的神情動態，栩然若生，暮夜的氣氛營造，尤其高明。精緻的用筆與雅麗的賦色，實源自南宋劉松年（活動於1174─1224）一派的院體技法。故與戴進相比，此作無論在筆墨、設色或布局上，均更側重於主題的細膩描繪。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "包首：磨損、傷補、霉傷、水漬。本幅：霉傷、水漬、折裂、剝落。",
+    "documents": [
+        {
+            "fileid": 150023,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-10/c3d90fce-adf0-4eeb-b90e-7cbb3d8b8e96/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70372,
+            "caseId": 4405,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 74605,
+            "caseId": 4405,
+            "caseStatus": true,
+            "registerDate": 1430755200000,
+            "officialDocNo": "文授資局物第 10420054041號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,101 @@
+{
+    "id": 18173,
+    "caseId": "20201215000004",
+    "count": 166,
+    "shareCount": 0,
+    "representImage": 89855,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-12-15/bafef7ef-740f-49e2-a707-7afcc2f35948/案014-1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-12-15/bafef7ef-740f-49e2-a707-7afcc2f35948/案014-1.jpg",
+        "name": "案014-1"
+    },
+    "caseName": "象牙硯屏",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1606378822698,
+    "officialDocNo": "北市獻編字第1093004298號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者"
+    ],
+    "registerReason": "1.\t台灣產物保險公司之原型樣貌，具地方回憶價值。\n2.\t嚴家淦先生任職副總統期間受贈物，紀念靜公為首任台產公司董事長，為重要人物史事之紀錄。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "內湖區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174-1號",
+    "reservationCode": "典藏 I014",
+    "amount": 1,
+    "descAge": "1960年代",
+    "descSize": "高11.2公分，長10公分，寬 0.5公分",
+    "descMaterial": "象牙",
+    "reserveStatusDesc": "象牙微刻在台灣的拜占庭樣式建築，此建築建於1911年至1914年間，由總督府土木局與台灣土地建物株式會社主導建造，座落於表町通（表町2丁目2番地），曾為日本時代華南銀行總行，戰後由台灣產物保險公司使用，1974年拆除改建（今館前路49號）。表町通位在清國時代台北府衙門的後方，所以原本稱為府後街， 1922年台北市實施町名改正，才改稱為表町。而表町通連接了台北驛與博物館，成為台北都市計畫重要的軸線，名字由府後街轉變到表町通。兩側種植的路樹是蒲葵也在此象牙微刻小屏上清楚呈現，除卻微刻技法，更值得的是呈現出歷史的建築及時代背景軌跡。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "民國55年",
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定。",
+    "documents": [
+        {
+            "fileid": 89854,
+            "name": "臺北市公告指定一般古物1091126.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-15/50ec905d-93d8-437c-8657-2f5182ec187b/臺北市公告指定一般古物1091126.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.51984879730222,
+    "latitude": 25.032456306173696,
+    "representImageSource": "嚴○泰/嚴○隆",
+    "keepNames": [
+        {
+            "keepNameIdStr": "嚴○泰/嚴○隆",
+            "keepName": "嚴○泰/嚴○隆",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "嚴○泰/嚴○隆",
+            "keepAddressNew": "臺北市內湖區行忠路2號2樓",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "宅第",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "內湖區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 69565,
+            "caseId": 18173,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 73731,
+            "caseId": 18173,
+            "caseStatus": true,
+            "registerDate": 1606378822698,
+            "officialDocNo": "北市獻編字第1093004298號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

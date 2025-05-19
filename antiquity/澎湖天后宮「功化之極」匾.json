@@ -1,0 +1,102 @@
+{
+    "id": 17331,
+    "caseId": "20200206000003",
+    "count": 252,
+    "shareCount": 0,
+    "representImage": 65681,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-02-06/56821fbb-eeb5-4759-b606-bc198fcc41f8/IMG_0629_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-02-06/56821fbb-eeb5-4759-b606-bc198fcc41f8/IMG_0629.jpg",
+        "name": "IMG_0629"
+    },
+    "caseName": "澎湖天后宮「功化之極」匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1570590500164,
+    "officialDocNo": "中華民國108年10月9日府授文博字第1083703347號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "1、具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：本匾與澎湖天后宮於大正12年(1923)完工同時期，印證大正年間廟宇整修與馬公北甲信士的參與程度。\n2、具有藝術造詣或科學成就:本匾字體結構圓厚、遒勁的破鋒筆法，呈現剛柔並濟的美感。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、4款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00646-P-106-0009",
+    "amount": 1,
+    "descAge": "1923年",
+    "descSize": "寬約195公分",
+    "descMaterial": "木",
+    "reserveStatusDesc": "橫長形木匾，匾面呈黑色，三片拼接，字皆笑竹（陰刻）填金漆，原有貼金多脫落。中行「功化之極」，字各筆間破鋒多而細；上款「大正癸亥年孟冬月　吉旦」，下款「馬公北甲弟子黃德音　劉遐齡仝敬獻」，後有二方印「遐齡德音」與「壽輝節儉」。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "時間：大正癸亥年孟冬月　吉旦    捐贈者：馬公北甲弟子黃德音　劉遐齡仝敬獻",
+    "saveEnvironment": 2,
+    "reserveStatus": "澎湖天后宮第二進前落右次間後點柱間",
+    "documents": [
+        {
+            "fileid": 106907,
+            "name": "澎湖天后宮「功化之極」匾公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-04-22/3b9507b9-41a0-4349-815d-523584b3f9d3/澎湖天后宮「功化之極」匾公告表.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.564038,
+    "latitude": 23.564693,
+    "representImageSource": "澎湖縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "澎湖天后宮",
+            "keepName": "蔡光明",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "澎湖天后宮",
+            "keepAddressNew": "澎湖縣馬公市中央里正義街1號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "澎湖縣",
+            "keepNameDistName": "馬公市",
+            "keepNameAddress": "中央里正義街1號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 127650,
+            "caseId": 17331,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "中央里正義街1號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 138572,
+            "caseId": 17331,
+            "caseStatus": true,
+            "registerDate": 1570590500164,
+            "officialDocNo": "府授文博字第1083703347號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

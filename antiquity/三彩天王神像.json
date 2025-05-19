@@ -1,0 +1,100 @@
+{
+    "id": 3336,
+    "caseId": "20101215000009",
+    "count": 107,
+    "shareCount": 0,
+    "representImage": 5805,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32553/photo/530686fd-11c7-4704-8606-9717eea9ef4d_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32553/photo/530686fd-11c7-4704-8606-9717eea9ef4d.jpg",
+        "name": "530686fd-11c7-4704-8606-9717eea9ef4d"
+    },
+    "caseName": "三彩天王神像",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1292342400000,
+    "officialDocNo": "會授資籌二字第09920152381號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本件文物紋飾、釉色精美，藍彩釉多，造型穩重，具有時代特色及重要歷史、文化、藝術價值。本件為外交部託管，具史事淵源。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第三、五、六款、第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "16-25",
+    "amount": 1,
+    "notes": "",
+    "descAge": "盛唐",
+    "descSize": "高80.5公分、面寛34.5公分、深16公分",
+    "descMaterial": "陶",
+    "reserveStatusDesc": "胎土白、質鬆、釉色以藍彩、褐、綠和米白色為主流，但天王神像的雙手、頸和首部位皆無施釉，整體造型武威、面部表情兇猛，製作精緻。頭戴特殊，身著光明甲、左右胸前各有一圓徽、肩覆披膊做龍首狀。右手握拳高舉、左手叉扶腰際，中心縱束申帶，腰帶下垂膝裙，下縛吊腿，足著長靴，右足踏臥的牛頭，左足置於牛身上，雙眼圓瞪。本件姿態優美、器型完整。",
+    "pastHistorySource": 7,
+    "pastHistorySourceNotes": "外交部撥交(託管)",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 53520,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-12-27/f1eb1154-30ca-4cc2-a4b9-3119780eb5fc/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立歷史博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立歷史博物館",
+            "keepName": "國立歷史博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立歷史博物館",
+            "keepAddressNew": "100台北市中正區南海路49號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "徐州路21號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 116448,
+            "caseId": 3336,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 127149,
+            "caseId": 3336,
+            "caseStatus": true,
+            "registerDate": 1292342400000,
+            "officialDocNo": "會授資籌二字第09920152381號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

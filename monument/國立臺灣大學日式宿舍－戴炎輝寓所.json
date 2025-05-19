@@ -1,0 +1,135 @@
+{
+    "id": 15467,
+    "caseId": "20180112000001",
+    "count": 7750,
+    "shareCount": 11,
+    "representImage": 170473,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/427e3633-1eff-4287-81c2-6b3ebc845ba8/代表圖像_國立臺灣大學日式宿舍－戴炎輝寓所_20220620_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/427e3633-1eff-4287-81c2-6b3ebc845ba8/代表圖像_國立臺灣大學日式宿舍－戴炎輝寓所_20220620.jpeg",
+        "name": "代表圖像_國立臺灣大學日式宿舍－戴炎輝寓所_20220620"
+    },
+    "caseName": "國立臺灣大學日式宿舍－戴炎輝寓所",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "1.戴炎輝為臺灣近代著名法學教授，曾任司法院院長、司法院大法官。由戴炎輝主持整理工作及命名的淡新檔案，為唯一現存的清代臺灣府縣檔案，該檔案為研究清代臺灣行政、司法、社會的第一手史料，極具學術價值。\n2.建築內部格局具有特色，書房內的書櫃仍為原物，由書櫃上的編碼可資證明為戴炎輝整理淡新檔案時所用，本建物為紀念戴炎輝保存編纂淡新檔案之歷史記憶場域。\n",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 145022,
+            "name": "96年登錄歷史建築公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/6e0c2bc6-d4a7-4d83-a57a-10e947250e19/96年登錄歷史建築公告.pdf"
+        },
+        {
+            "fileid": 145025,
+            "name": "106年廢止歷史建築公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/2131662c-bcec-4ef9-ba16-a6b2d58117c3/106年廢止歷史建築公告.pdf"
+        },
+        {
+            "fileid": 145026,
+            "name": "106年指定古蹟公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/69da90df-576a-49f2-a601-b2db08757491/106年指定古蹟公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "具稀少性，不易再現者"
+    ],
+    "registerReason": "1.戴炎輝為臺灣近代著名法學教授，曾任司法院院長、司法院大法官。由戴炎輝主持整理工作及命名的淡新檔案，為唯一現存的清代臺灣府縣檔案，該檔案為研究清代臺灣行政、司法、社會的第一手史料，極具學術價值。\n2.建築內部格局具有特色，書房內的書櫃仍為原物，由書櫃上的編碼可資證明為戴炎輝整理淡新檔案時所用，本建物為紀念戴炎輝保存編纂淡新檔案之歷史記憶場域。\n3.符合古蹟指定及廢止審查辦法第2條第1項第1、3款評定基準。\n",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 47387,
+            "name": "圖片1.png",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2018-01-12/9fcbfb2e-4f4d-4c3c-9484-713fa50a1301/圖片1.png"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "中正區南海段二小段18地號土地",
+    "bulkTransfer": 1,
+    "longitude": 121.5195204,
+    "latitude": 25.0287398,
+    "representImageSource": "臺北市文化局",
+    "landScope": "面積555平方公尺（實際保存面積須以保存範圍實測數據為準）",
+    "selfCoverage": "戴炎輝寓所建築本體及庭院",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 83626,
+            "caseId": 15467,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "臺北市中正區南昌路二段1巷2號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "南海段二小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 94283,
+            "caseId": 15467,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 15,
+            "landSerialNo": "18",
+            "landownership": 1,
+            "cityLandUseTypeId": 2,
+            "coverageId": 2,
+            "area": "555平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 89803,
+            "caseId": 15467,
+            "caseStatus": true,
+            "registerDate": 1174924800000,
+            "officialDocNo": "府文化二字第09630231800號",
+            "classificationId": 1,
+            "note": "登錄"
+        },
+        {
+            "id": 89801,
+            "caseId": 15467,
+            "caseStatus": true,
+            "registerDate": 1513526400000,
+            "officialDocNo": "北市文化文資字第10632449400號",
+            "classificationId": 1,
+            "note": "指定"
+        },
+        {
+            "id": 89802,
+            "caseId": 15467,
+            "caseStatus": true,
+            "registerDate": 1513526400000,
+            "officialDocNo": "北市文化文資字第10632449404號",
+            "classificationId": 3,
+            "note": "廢止"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false,
+    "pastHistorySource": ""
+}

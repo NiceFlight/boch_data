@@ -1,0 +1,93 @@
+{
+    "id": 1865,
+    "caseId": "20031231000016",
+    "count": 1604,
+    "shareCount": 0,
+    "representImage": 125315,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-20/b6056a44-b446-4112-9538-a30d336efee5/歷建30-都威舊橋 -永保_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-20/b6056a44-b446-4112-9538-a30d336efee5/歷建30-都威舊橋 -永保.jpg",
+        "name": "歷建30-都威舊橋 -永保"
+    },
+    "caseName": "都威橋(舊)",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "都威橋(舊)位於省道台11線成功鎮博愛里都威部落南端，橫跨都威溪上，鄰近博愛國小。都威橋(舊)約興建於日治時期昭和8年（1933），橋寬4公尺，長30.2公尺，為鋼筋混凝土構造。橋墩兩座，每座都有圓拱形開口設計，造型特殊。民國87年（1998）省道臺11線拓寬時，在舊橋東側另建新橋，舊橋因而漸被廢棄。目前橋上雜草叢生，橋的兩端及護欄毀損嚴重，橋名與興建年代均已脫落，但橋墩主體結構仍很堅固。身為東海岸道路僅存的三座日治時期橋樑之一，足可見證東部的交通史。",
+    "assetsTypeNames": "橋樑",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1072852462000,
+    "officialDocNo": "府文資字第 0923028169 號",
+    "documents": [
+        {
+            "fileid": 114944,
+            "name": "30臺東縣歷史建築公告文- 都威橋.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-28/fe4e68e2-664c-4fb4-9584-8a1c167ef937/30臺東縣歷史建築公告文- 都威橋.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "臺東縣東海岸路僅存三座日治時代橋樑之一。",
+    "lawsReference": "1.文化資產保存法第27條之一規定\n2.歷史建築登錄及輔助辦法\n3.臺東縣92年12月16日歷史建築登錄審查會議決議辦理\n",
+    "govInstitutionCode": "950",
+    "govInstitutionName": "臺東縣政府",
+    "belongCityId": 22,
+    "belongCityName": "臺東縣",
+    "belongDistName": "成功鎮",
+    "govInstitution": "臺東縣政府",
+    "govDeptName": "文化處文化資產科",
+    "govDeptPhone": "089-350129",
+    "govDeptAddress": "臺東市南京路25號",
+    "cadasters": [],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "成功鎮小湊小港小段（因都威橋跨越河道所以沒有地號）",
+    "buildingFeatures": "",
+    "inHouseFeatures": "無室內特徵",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "臺東縣成功鎮博愛里都威部落",
+    "isOpenVisit": true,
+    "openUpTime": "全年",
+    "isCharge": false,
+    "isOpenDownload": true,
+    "longitude": 121.395907360126,
+    "latitude": 23.190320010014,
+    "representImageSource": "109-110年度臺東縣文化資產個案資料同步更新維護計畫",
+    "landScope": "都威橋跨越河道，無地段號資料",
+    "selfCoverage": "都威橋(舊)跨越河道，無地段號資料",
+    "addresses": [
+        {
+            "cityName": "臺東縣",
+            "distName": "成功鎮",
+            "id": 147907,
+            "caseId": 1865,
+            "caseStatus": true,
+            "cityId": 22,
+            "distId": 2211,
+            "address": "臺東縣成功鎮博愛里"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 160652,
+            "caseId": 1865,
+            "caseStatus": true,
+            "registerDate": 1072852462000,
+            "officialDocNo": "府文資字第 0923028169 號",
+            "classificationId": 1
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "109至110年臺東縣文化資產資料數位整合計畫"
+}

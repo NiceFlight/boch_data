@@ -1,0 +1,132 @@
+{
+    "id": 171,
+    "caseId": "20001103000001",
+    "count": 3635,
+    "shareCount": 7,
+    "representImage": 189589,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/a5112247-c4c3-4a0e-a052-e029494d8cc3/代表圖像_北投穀倉_20220706(IMG_0379)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/a5112247-c4c3-4a0e-a052-e029494d8cc3/代表圖像_北投穀倉_20220706(IMG_0379).jpg",
+        "name": "代表圖像_北投穀倉_20220706(IMG_0379)"
+    },
+    "caseName": "北投穀倉",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "北投縠倉建於日據時期昭和十三年（西元一九三八年）。當時屬於有限責任北投信用購買組合所經營。日據時期台灣各地陸續成立農會性質的民間團體，常附設穀倉及碾米廠為農民服務。各地穀倉略有差異，農民多將所生產的稻穀賣給有礱榖工廠的農會團體。至一九二０年代政府施行農業倉庫法，台灣因水利設施改良而稻米生產量大增。北投及關渡平原的稻米生產量很多，所以在一九三八年建造了穀倉。戰後北投成立農會，繼續為農民服務，實施肥料換榖政策，生產量又增高，農會穀倉業務繁忙，除了供銷外又有信用貸款之服務。\r\n北投穀倉平面呈曲尺形，包括辦公室、碾米機房及長條形的穀倉。穀倉的屋頂凸出通氣小屋頂，俗稱為太子樓，內部以中央輸送帶分為左右兩邊的倉庫，為了隔熱，又有磚造栱廊。穀倉共分隔為十二間，隔牆以磚砌成，牆上有竹編網，可使稻穀避潮。屋頂桁架全為木結構，惟在指定古蹟過程遭人為破壞，部分建物屋頂坍塌。值得重視的是碾米機設備仍為質地優良檜木所造，目前仍保存良好，為全台所罕見之實例。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "穀倉",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 141259,
+            "name": "3.ca_20100726_10261510.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/d46f33cd-9384-41cd-8842-657510736b03/3.ca_20100726_10261510.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值"
+    ],
+    "registerReason": "1.對台灣北部的稻米文化發展是重要的見證\r\n2.若能完整保存並於未來使用上給予活化利用，讓新舊建築物共存，對北投區未來發展會有正面幫助\r\n3.可作為教學見習之陳列館",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 141262,
+            "name": "B001 台北市 北投穀倉 (直轄定)02.JPG",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/934d2744-f298-4abd-8fd7-bc3b463cb878/B001 台北市 北投穀倉 (直轄定)02.JPG"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "台北市大業段一小段826地號部分及842地號部分",
+    "buildingFeatures": "至一九二０年代政府施行農業倉庫法，台灣因水利設施改良而稻米生產量大增。北投及關渡平原的稻米生產量很多，所以在一九三八年建造了穀倉。",
+    "inHouseFeatures": "",
+    "buildingUsage": "目前為北投農會倉庫使用。",
+    "buildingActualState": "目前為北投農會倉庫使用。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenDownload": false,
+    "longitude": 121.498944,
+    "latitude": 25.135741,
+    "representImageSource": "臺北市文化局",
+    "landScope": "台北市大業段一小段826地號部分及842地號部分",
+    "selfCoverage": "古蹟本體：包括第五倉庫、碾米機房及碾米機具、第三倉庫之六小間，及中央輸送帶。",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "id": 95082,
+            "caseId": 171,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "address": "大同街一段153號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "landNoName": "大業段一小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 117491,
+            "caseId": 171,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "landNoId": 650,
+            "landSerialNo": "0826-0000",
+            "landownership": 2,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "402.66平方公尺",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "landNoName": "大業段一小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 117492,
+            "caseId": 171,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "landNoId": 650,
+            "landSerialNo": "0842-0000",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "coverageId": 1,
+            "area": "403平方公尺",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 102579,
+            "caseId": 171,
+            "caseStatus": true,
+            "registerDate": 973180800000,
+            "officialDocNo": "府文化二字第8909737501號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

@@ -1,0 +1,100 @@
+{
+    "id": 548,
+    "caseId": "19980626000007",
+    "count": 3015,
+    "shareCount": 1,
+    "representImage": 284088,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2025-04-23/0ea51621-be43-4d28-abf9-ec4981a137d5/古053原嘉南大圳組合事務所_P001_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2025-04-23/0ea51621-be43-4d28-abf9-ec4981a137d5/古053原嘉南大圳組合事務所_P001.jpg",
+        "name": "古053原嘉南大圳組合事務所_P001"
+    },
+    "caseName": "原嘉南大圳組合事務所",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "待修復或再利用計畫完成後填列。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "公告無資料",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "registerDate": 898790400000,
+    "officialDocNo": "中華民國87年6月25日87南市民文字第20283號",
+    "documents": [
+        {
+            "fileid": 157191,
+            "name": "原嘉南大圳組合事務所公告87.06.25.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-03-31/ddcff216-0e30-4c7e-8ee1-5bb2c1bb844e/原嘉南大圳組合事務所公告87.06.25.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值"
+    ],
+    "registerReason": "公告無資料",
+    "lawsReference": "文化資產保存法第27條。",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "中西區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 142203,
+            "name": "原嘉南大圳組合事務所地籍地圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-11-01/fb34cb4d-997d-49e1-bd0a-8b7aed608bf6/原嘉南大圳組合事務所地籍地圖.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "中西區幸段一小段11-11、11-5地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "wenSitename": "行政院農業委員會農田水利署嘉南管理處",
+    "wenSiteaddress": "https://www.iacna.nat.gov.tw/",
+    "belongAddress": "友愛街25號",
+    "isOpenDownload": false,
+    "longitude": 120.205205653059,
+    "latitude": 22.9906769844359,
+    "representImageSource": "臺南市政府",
+    "landScope": "中區幸段一小段11-1、11-5地號",
+    "selfCoverage": "原建築物結構本體",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "id": 148785,
+            "caseId": 548,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601,
+            "address": "友愛街25號"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 161778,
+            "caseId": 548,
+            "caseStatus": true,
+            "registerDate": 898704000000,
+            "officialDocNo": "八七南市民文字第20283號",
+            "classificationId": 1
+        }
+    ],
+    "openVisitType": "完全開放參觀",
+    "openUpTime": "請洽水利會\n星期日：休息\n星期一：08:30 – 17:00\n星期二：08:30 – 17:00\n星期三：08:30 – 17:00\n星期四：08:30 – 17:00\n星期五：08:30 – 17:00\n星期六：休息",
+    "isCharge": false,
+    "pastHistorySource": "待修復或再利用計畫完成後填列。"
+}

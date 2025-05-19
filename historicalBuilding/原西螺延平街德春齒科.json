@@ -1,0 +1,106 @@
+{
+    "id": 22469,
+    "caseId": "20240115000003",
+    "count": 768,
+    "shareCount": 2,
+    "representImage": 241195,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-01-22/826ebb2e-ae42-41d2-a8db-1de0a8eaf9b6/照片六 臨延平路街屋（建築物外觀）_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-01-22/826ebb2e-ae42-41d2-a8db-1de0a8eaf9b6/照片六 臨延平路街屋（建築物外觀）.jpg",
+        "name": "照片六 臨延平路街屋（建築物外觀）"
+    },
+    "caseName": "原西螺延平街德春齒科",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "尚未辦修復及再利用計畫，待辦理後更正。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 240819,
+            "name": "1130112公告登錄「原西螺延平街德春齒科」為本縣歷史建築.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-01-15/addff4ff-ae0a-4850-8b17-89df97bfaf5d/1130112公告登錄「原西螺延平街德春齒科」為本縣歷史建築.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "(一)表現地域風貌或民間藝術特色者：街屋的基本格局完整，二樓木構與屋架均有明確地域風格，尤其二樓神明上有閣樓天井及欄杆，有傳統構造技藝。\n(二)具建築史或技術史之價值者：樓下診所樓上住家神明廳，空間構架保存佳，仍保留設備設施，具地方醫療史價值，日治時期西螺街區私人診所空間類型的證據。\n(三)具地區性建造物類型之特色者：內部空間保存完整，仍見昔日的風貌及空間氛圍，其醫療機能與住宿機能有所區劃，可見證發展過程中之變遷與因應，深具本區的代表性。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "govInstitution": "文化觀光處",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "05-5523152",
+    "govDeptAddress": "雲林縣斗六市大學路3段310號",
+    "cadasters": [
+        {
+            "fileid": 240820,
+            "name": "89.原西螺延平街德春齒科地籍資料及建物資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2024-01-15/4f25ef0c-ade5-4e96-8dae-2019a90f0c8d/89.原西螺延平街德春齒科地籍資料及建物資料.pdf"
+        },
+        {
+            "fileid": 240821,
+            "name": "89.原西螺延平街德春齒科地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2024-01-15/becc2e63-32ee-4303-bda0-df3691e7e903/89.原西螺延平街德春齒科地籍圖.pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isOpenDownload": false,
+    "longitude": 23.801952326239423,
+    "latitude": 120.46211490674662,
+    "representImageSource": "雲林縣政府文化觀光處",
+    "landScope": "建物定著土地為雲林縣西螺鎮市仔頭段643地號(118.54平方公尺)之部分土地。",
+    "selfCoverage": "第一進(一、二樓空間)，建物總面積約為39.54平方公尺。",
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "西螺鎮",
+            "id": 137183,
+            "caseId": 22469,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1314,
+            "address": "延平路110號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "雲林縣",
+            "distName": "西螺鎮",
+            "landNoName": "市仔頭段",
+            "id": 202405,
+            "caseId": 22469,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1314,
+            "landNoId": 11710,
+            "landSerialNo": "643",
+            "landownership": 2,
+            "area": "118.54",
+            "cityLandUseTypeOther": "(空白)",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 149901,
+            "caseId": 22469,
+            "caseStatus": true,
+            "registerDate": 1705057075252,
+            "officialDocNo": "府文資二字第1133805124C",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.46205424268423,23.801888835394475],[120.46209048466848,23.801907779311335],[120.46222318200311,23.801696038636234],[120.46218643295818,23.80167393264384],[120.46205424268423,23.801888835394475],[120.46205424268423,23.801888835394475]]]]},\"properties\":{\"envelope\":{\"left\":\"120.46205424268423\",\"top\":\"23.80167393264384\",\"right\":\"120.46222318200311\",\"bottom\":\"23.801907779311335\"},\"landLot\":\"雲林縣西螺鎮市仔頭段643\"}}],\"notfound\":[]}]",
+    "openVisitType": "",
+    "pastHistorySource": "尚未辦修復及再利用計畫，待辦理後更正。"
+}

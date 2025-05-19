@@ -1,0 +1,102 @@
+{
+    "id": 4478,
+    "caseId": "20160803000016",
+    "count": 231,
+    "shareCount": 0,
+    "representImage": 7531,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133362/photo/元趙雍江山放艇圖軸_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133362/photo/元趙雍江山放艇圖軸.jpg",
+        "name": "元趙雍江山放艇圖軸"
+    },
+    "caseName": "元趙雍江山放艇圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1470153600000,
+    "officialDocNo": "文授資局物字第10530074283號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "趙雍（1290-卒年不詳），字仲穆，為趙孟頫（1254-1322）次子。書畫繼承家學，擅山水，尤精人物、鞍馬，父子兩人並重於元代藝壇。\n本幅無作者款印，亦無收傳印記與清宮印璽，董其昌鑒識為趙仲穆真蹟。根據跋後董氏所鈐之「宗伯學士」一印，推測其審定時間應在六十九歲任禮部侍郎兼侍讀學士以後。\n全作青綠設色，用色溫雅；山巒以長披麻皴繪成，山頂礬頭與近景的石隙以墨點苔，疏密有度，筆墨秀潤，具文人氣息。雖然學者研究指出，此幅恐非趙雍真蹟，但確屬趙孟頫、趙雍一系的風格，是研究元代中後期繪畫發展的重要作品。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第3、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局 ",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000221",
+    "amount": 1,
+    "descAge": "元",
+    "descCreator": "趙雍",
+    "descSize": "160.6公分x 104.9公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "峰巒聳峙， 山腰雲霧繚繞，山腳下屋舍錯落。前景坡岸長松蒼翠，江面遼闊，一文士乘舟悠遊，自在逍遙，意境清幽。筆墨秀潤，具文人氣息。本幅無作者款印，亦無收傳印記與清宮印璽，董其昌鑒識為趙仲穆真蹟。根據跋後董氏所鈐之「宗伯學士」一印，推測其審定時間應在六十九歲任禮部侍郎兼侍讀學士以後。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷需處理。軸頭鬆動。畫幅裂傷。包首：傷損。",
+    "documents": [
+        {
+            "fileid": 7532,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133361/file/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69597,
+            "caseId": 4478,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73764,
+            "caseId": 4478,
+            "caseStatus": true,
+            "registerDate": 1470153600000,
+            "officialDocNo": "文授資局物字第10530074283號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

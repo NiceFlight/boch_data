@@ -1,0 +1,107 @@
+{
+    "id": 3959,
+    "caseId": "20120326000014",
+    "count": 68,
+    "shareCount": 0,
+    "representImage": 6780,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32945/photo/198213d8-75e0-45a3-915b-caf4d8532c78_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32945/photo/198213d8-75e0-45a3-915b-caf4d8532c78.JPG",
+        "name": "198213d8-75e0-45a3-915b-caf4d8532c78"
+    },
+    "caseName": "明陳洪綬雜畫冊",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "品質精良且數量稀少"
+    ],
+    "registerReason": "本冊題材多樣，含人物、花卉、竹石及詩題，構圖精簡，設色雅淡，運筆遒勁，為作者後期精心之作。\r\n具有特殊藝術造詣，品質精良且數量特別稀少。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第四、五款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫001163-",
+    "amount": 10,
+    "notes": "",
+    "descAge": "明",
+    "descCreator": "陳洪綬",
+    "descSize": "24.3 x 31.1（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "陳洪綬（1598－1652），浙江諸暨人。字章侯，自號老蓮、悔遲。工繪畫，為晚明變形主義的大家。本冊畫十幅，書五幅，雜畫人物、山水、竹石、花鳥，作於明亡後一年（1645），時四十八歲。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。 舊蟲蛀，傷補。",
+    "documents": [
+        {
+            "fileid": 151250,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-24/c0fe4aa5-1f15-46b9-b7c2-1675d5c445e9/公告.pdf"
+        },
+        {
+            "fileid": 151251,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-24/1c8e082c-cba8-409f-98fc-054160c68cdd/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71394,
+            "caseId": 3959,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75824,
+            "caseId": 3959,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

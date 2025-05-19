@@ -1,0 +1,103 @@
+{
+    "id": 21145,
+    "caseId": "20221102000001",
+    "count": 516,
+    "shareCount": 2,
+    "representImage": 189253,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-11-02/71212c91-1dbb-4556-a049-044fc7e7fe04/303264_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-11-02/71212c91-1dbb-4556-a049-044fc7e7fe04/303264.jpg",
+        "name": "303264"
+    },
+    "caseName": "靈昭誠佑匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "數量稀少者"
+    ],
+    "registerReason": "一、「靈昭誠佑」匾乃張兆連為感謝媽祖助戰「大庄事件」所奉獻之匾。「大庄事件」是東部重大的民變之一，其參與者包括卑南族呂家望社和早期東遷的平埔族及客家族群，也是清末「開山撫番」政策推動下所激起的族群衝突之一(古物分級指定及廢止審查辦法第2條第2款)。\n\n二、「靈昭誠佑」匾的製作工藝符合清代匾額規律，匾板是使用五塊杉木木材拼組而成，其後外框使用上下左右方材固定，形成如「目」字形的結構，中行文字同樣也是多塊木板切割拼貼而成，這類榫接與製作工藝也是清代匾額使用的技法之一。另經逢甲調查團隊進行匾材經鑑定，匾額後方悶榫、背面邊框與正面邊框雕刻飾板等均為福州杉。「靈昭誠佑」匾是典型的清代光緒御寶，可做為在臺御寶樣式案例(古物分級指定及廢止審查辦法第2條第3款)。\n\n三、臺東天后宮的「靈昭誠佑」匾，是目前已知臺灣東部唯一具有文物真實性，同時又能被文獻證實的皇帝御賜匾(古物分級指定及廢止審查辦法第2條第5款)。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第2、3、5款",
+    "govInstitutionCode": "950",
+    "govInstitutionName": "臺東縣政府",
+    "govInstitution": "臺東縣政府",
+    "govDeptName": "文化處文化資產科",
+    "govDeptPhone": "089-350129",
+    "govDeptAddress": "台東市南京路25號",
+    "reservationCode": "STG02541-P-109-wo03",
+    "amount": 1,
+    "descAge": "西元1893年",
+    "descSize": "長：235公分；寬：105公分",
+    "descMaterial": "杉木",
+    "reserveStatusDesc": "五片木板拼接，有邊框，坐斗一對。匾面螺鈿，陽刻金字，中行「靈昭誠佑」，雙龍捧印「光緒御筆之寶」，字以小釘釘於匾面，字體未位於同一水平線上，左、右邊框為龍紋，下為雙龍搶珠，貼金陽紋。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "西元1893",
+    "saveEnvironment": 2,
+    "reserveStatus": "狀況穩定",
+    "documents": [
+        {
+            "fileid": 189252,
+            "name": "靈昭誠佑匾公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-11-02/84a24317-b7b0-45be-b093-588fd9710748/靈昭誠佑匾公告表.pdf"
+        },
+        {
+            "fileid": 205947,
+            "name": "靈昭誠佑匾更正公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-01-16/8c8a4c61-37b8-4f15-888d-d1c95e7357b1/靈昭誠佑匾更正公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.154985,
+    "latitude": 22.757237,
+    "representImageSource": "臺東縣政府文化處",
+    "keepNames": [
+        {
+            "keepNameIdStr": "臺東天后宮",
+            "keepName": "臺東天后宮",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "臺東天后宮",
+            "keepAddressNew": "臺東市中華路一段222號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 2,
+            "keepNameCityName": "臺東縣",
+            "keepNameDistName": "臺東市",
+            "keepNameAddress": "中華路一段222號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺東縣",
+            "distName": "臺東市",
+            "id": 106912,
+            "caseId": 21145,
+            "caseStatus": true,
+            "cityId": 22,
+            "distId": 2201,
+            "address": "中華路一段222號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 114748,
+            "caseId": 21145,
+            "caseStatus": true,
+            "registerDate": 1667290179782,
+            "officialDocNo": "府文資字第1110237282號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

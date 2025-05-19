@@ -1,0 +1,102 @@
+{
+    "id": 3727,
+    "caseId": "20140425000040",
+    "count": 275,
+    "shareCount": 0,
+    "representImage": 6483,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7039/photo/明郭詡東山攜妓圖_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7039/photo/明郭詡東山攜妓圖.JPG",
+        "name": "明郭詡東山攜妓圖"
+    },
+    "caseName": "明郭詡東山攜妓圖",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1398355200000,
+    "officialDocNo": "10320044791",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "郭詡（1456－1532），字仁弘，號清狂。少為博士弟子，放棄科業，肆力於詩畫。\r\n郭詡畫風行徑俱以不受羈束稱著，與同時之吳偉、杜堇、沈周以畫論交，天下競傳清狂之畫名。此幅運筆清雅簡澹，俐落自然，不著顏色而光彩照人，為其水墨寫意人物畫之典型代表，畫風與同時活躍於南京的吳偉、杜堇之白描風格相近，此畫是其七十一歲之作，為其晚年之代表作。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條1項第3、5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000452",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descSize": "123.8 x 49.9（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "郭詡（1456－1532），字仁弘，號清狂，江西泰和人。少為博士弟子，放棄科業，肆力於詩畫。弘治年間曾短暫進入宮廷，後以寧王之亂，辭謝寧王宸濠之召納，往依王守仁。本幅描繪東晉名流謝安（320－385）事跡。謝安晚年隱居於會稽東山，整日縱情詩酒、山水，出遊必攜歌妓同行。幅中水墨寫意人物，表情生動，運筆流暢，線條帶有書法趣味。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。本幅傷磨損。",
+    "documents": [
+        {
+            "fileid": 150176,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-11/8de3a278-c538-442c-b330-e771d94ad24f/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": " 國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70706,
+            "caseId": 3727,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 74965,
+            "caseId": 3727,
+            "caseStatus": true,
+            "registerDate": 1398355200000,
+            "officialDocNo": "10320044791",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

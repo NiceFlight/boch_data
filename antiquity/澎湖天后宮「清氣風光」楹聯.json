@@ -1,0 +1,106 @@
+{
+    "id": 22581,
+    "caseId": "20240319000003",
+    "count": 62,
+    "shareCount": 0,
+    "representImage": 254139,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-03-19/5562a24c-566a-48fe-b352-6c964b588ed5/澎湖天后宮「清氣風光」楹聯_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-03-19/5562a24c-566a-48fe-b352-6c964b588ed5/澎湖天后宮「清氣風光」楹聯.jpg",
+        "name": "澎湖天后宮「清氣風光」楹聯"
+    },
+    "caseName": "澎湖天后宮「清氣風光」楹聯",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者"
+    ],
+    "registerReason": "1、具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：本聯為日本時代天后宮重建時媽祖降鸞所撰，匾聯所在具現當時馬公仕紳社會生活、漢學研究、南管雅樂的興盛有見證的意義。\n2、具有地方重要人物或歷史事件之深厚淵源者：聯句表述清風閣為當時馬公仕紳聚集處，期待清新風氣。\n3、能反映政治、經濟、社會、人文、科學等歷史變遷或時代特色者：清風閣一新後成為當時文人聚集，南管雅樂、漢文研究之所。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2、3款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "govInstitution": "澎湖縣政府澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405#6408",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00646-P-106-0032",
+    "amount": 2,
+    "descAge": "1926",
+    "descSize": "高131公分，寬17公分，厚2.5公分",
+    "descMaterial": "木",
+    "reserveStatusDesc": "直長形平面木質楹聯，聯面紅漆，題字陰刻白描勾邊，款為陰刻，頂有一如意頭形金屬掛環，下聯環已失綁鐵絲代替。上聯「清氣得來新處萃」，下聯「風光不與昔時同」；上聯年款「大正丙寅年清和之月　吉旦」，下聯落款「天后宮聖母林氏敬撰」。聯底端釘固於柱面。本聯為媽祖降鸞所賜，意思為本對楹聯所在之清風閤，為當時馬公仕紳聚集之處，能為當時社會帶來清新之風。",
+    "pastHistorySource": 1,
+    "saveEnvironment": 2,
+    "reserveStatus": "狀況不良，需維護",
+    "documents": [
+        {
+            "fileid": 254130,
+            "name": "1120706_清風閣等12案指定一般古物-公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-03-19/cb18cb9e-6564-45ef-b86a-9c145968f9cf/1120706_清風閣等12案指定一般古物-公告.pdf"
+        },
+        {
+            "fileid": 254131,
+            "name": "1130216_更正公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-03-19/555de0ac-f5e9-44a5-8091-77c0b838ac57/1130216_更正公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "〈澎湖縣百年歷史廟宇及教堂文物普查計畫（二）‧成果報告〉",
+    "keepNames": [
+        {
+            "keepNameIdStr": "澎湖天后宮",
+            "keepName": "黃光明",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "澎湖天后宮",
+            "keepAddressNew": "中央里正義街1號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 128234,
+            "caseId": 22581,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "中央里正義街1號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 139306,
+            "caseId": 22581,
+            "caseStatus": true,
+            "registerDate": 1688572800000,
+            "officialDocNo": "府授文博字第1123702174號",
+            "classificationId": 1
+        },
+        {
+            "id": 139307,
+            "caseId": 22581,
+            "caseStatus": true,
+            "registerDate": 1708012800000,
+            "officialDocNo": "府授文博字第1133700325號",
+            "classificationId": 2
+        }
+    ],
+    "isPublic": false
+}

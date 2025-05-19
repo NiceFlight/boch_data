@@ -1,0 +1,101 @@
+{
+    "id": 17379,
+    "caseId": "20200219000025",
+    "count": 160,
+    "shareCount": 0,
+    "representImage": 66214,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-02-16/9198ea57-9ed1-4767-b8b1-d5287332531a/22 (1)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-02-16/9198ea57-9ed1-4767-b8b1-d5287332531a/22 (1).jpg",
+        "name": "22 (1)"
+    },
+    "caseName": "妖怪圖小物入",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1581321176510,
+    "officialDocNo": "中華民國109年2月10日北市獻編字第1093001230號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "1.\t顯示誌怪傳統，具日本19世紀後期牙雕之時代與藝術特色。\n2.\t立體雕刻精緻入微，雕工精細，具藝術造詣，藝術水準及價值高。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第3、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "臺北市立文獻",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "10846臺北市萬華區中華路1段174之1號",
+    "reservationCode": "典藏22",
+    "amount": 1,
+    "descAge": "日本明治時期",
+    "descSize": "高13公分/徑10公分",
+    "descMaterial": "象牙",
+    "reserveStatusDesc": "妖怪的產生起初於遠古人們對自然、動物的敬畏之心，人們把自己看不見、摸不著、無法控制的力量通稱為妖怪。而日本，古往今來便充盈著大量且各式各樣關於妖怪的傳說。\n本件作品以日本常見的各式妖怪為題材，以精巧的雕工表現。罐身結合線刻、鏤雕等多種技巧，滿飾妖怪。有面目猙獰的河童、樣貌奇特的牌子鬼、高舉棒槌圓臉怪、回首上望的鷹怪、張嘴咆哮的長髮女、肌肉噴張的木桶鬼，或是獨眼長舌、尖耳尖牙、面容奇特醜陋的各式鬼怪。各種鬼怪或高舉武器、或敲鑼打鼓，向著同一方向奔跑跳躍，姿態活潑。妖怪們身後飄渺雲氣，畫面繽紛，層次清晰豐富，氣氛熱鬧。蓋頂圓雕兩位搏鬥中的妖怪為鈕，五官深邃，表情獰奇，動態富有張力，且與整體主題相襯，極具巧思。\n整體雕琢工藝細緻，妖怪的表情、服裝等細節皆各有特色，層層物象間彼此掩映的關係處理得恰到好處。又能透過藝術家的巧思，認識日本傳統且別具風味的妖怪文化，值得細細欣賞。",
+    "pastHistorySource": 1,
+    "saveEnvironment": 1,
+    "reserveStatus": "保存良好",
+    "documents": [
+        {
+            "fileid": 66215,
+            "name": "臺北市立文獻館公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-02-16/f2450183-473a-4aa7-b469-1f1dc80480c9/臺北市立文獻館公告.pdf"
+        },
+        {
+            "fileid": 66216,
+            "name": "臺北市一般古物指定公告表_妖怪圖小物入.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-02-16/c96b3773-88f2-4cc9-b92c-ce53a781a26c/臺北市一般古物指定公告表_妖怪圖小物入.pdf"
+        }
+    ],
+    "keepNames": [
+        {
+            "keepNameIdStr": "郭○穎",
+            "keepName": "郭芝穎",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "郭○穎",
+            "keepAddressNew": "台北市中正區重慶南路二段15號7樓",
+            "saveSpaceOther": "庫房",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "大安區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 7020,
+            "caseId": 17379,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 7020,
+            "caseId": 17379,
+            "caseStatus": true,
+            "registerDate": 1581321176510,
+            "officialDocNo": "中華民國109年2月10日北市獻編字第1093001230號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

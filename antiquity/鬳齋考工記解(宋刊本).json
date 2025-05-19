@@ -1,0 +1,105 @@
+{
+    "id": 3360,
+    "caseId": "20140425000016",
+    "count": 42,
+    "shareCount": 0,
+    "representImage": 5845,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7002/photo/鬳齋考工記解(宋刊本)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7002/photo/鬳齋考工記解(宋刊本).jpg",
+        "name": "鬳齋考工記解(宋刊本)"
+    },
+    "caseName": "鬳齋考工記解(宋刊本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1398355200000,
+    "officialDocNo": "10320044271",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "南宋後期刊元延祐(四年，1317)修補本。\r\n撰者林希逸（1193-1271），字肅翁，一字淵翁，號竹溪，又號鬳齋，福清人，南宋理宗端平二年（1235）進士。\r\n《考工記》記載中國最早手工業技術，包括木工、金工、皮革、染色琢磨器物及製陶等。此為林希逸注，明白淺顯，初學易以尋求。且諸工之事非圖不顯，以《三禮圖》之有關於《記》者，采摭附入，亦頗便於省覽。\r\n宋版古籍，罕見稀有，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第1項第5、6款指定基準。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號00357",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 4,
+    "notes": "",
+    "descAge": "元延祐(四年，1317)",
+    "descCreator": "林希逸",
+    "descSize": "半葉10行，版匡20.5x15.5公分。",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "《考工記》記載中國最早手工業技術，包括木工、金工、皮革、染色琢磨器物及製陶等。此為林希逸注，明白淺顯，初學易以尋求。且諸工之事非圖不顯，以《三禮圖》之有關於《記》者，采摭附入，亦頗便於省覽。\n二卷。\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "經水漬，2次修裱，保存狀況良好。",
+    "documents": [
+        {
+            "fileid": 5846,
+            "name": "06490e26-cbf4-417e-bf01-f74ded0497fb.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43976/file/06490e26-cbf4-417e-bf01-f74ded0497fb.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3502,
+            "caseId": 3360,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3502,
+            "caseId": 3360,
+            "caseStatus": true,
+            "registerDate": 1398355200000,
+            "officialDocNo": "10320044271",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

@@ -1,0 +1,101 @@
+{
+    "id": 3908,
+    "caseId": "20121112000032",
+    "count": 233,
+    "shareCount": 0,
+    "representImage": 6716,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32894/photo/0686d8af-4623-4549-a4ce-f7cff0e3ff0c_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32894/photo/0686d8af-4623-4549-a4ce-f7cff0e3ff0c.JPG",
+        "name": "0686d8af-4623-4549-a4ce-f7cff0e3ff0c"
+    },
+    "caseName": "車獵紋鈁",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1352649600000,
+    "officialDocNo": "文授字第10120135331號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "此鈁紋飾內容，生動豐富，上段紋飾為宮室宴樂圖，中為車馬狩獵圖，下為採桑圖，反映了當時貴族的生活，是戰國最富特色的銅器紋飾，為研究青銅藝術及古代社會史的重要參考文物。為清宮舊藏之商周銅器精品。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第3、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故銅002372",
+    "amount": 1,
+    "notes": "",
+    "descAge": "戰國",
+    "descSize": "高45.3公分，腹深39.9公分，口徑11.7公分，底徑13.5公分",
+    "descMaterial": "銅",
+    "reserveStatusDesc": "四面飾狩獵紋兩道，鳥獸形紋三道，頸間花紋一道，兩獸首耳銜環。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。左側舖首下嚴重傷破。左側腹部嚴重傷破。",
+    "documents": [
+        {
+            "fileid": 150834,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-20/9b717a54-57ca-46d8-8cde-8290a9de867a/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71204,
+            "caseId": 3908,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": " 至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 75570,
+            "caseId": 3908,
+            "caseStatus": true,
+            "registerDate": 1352649600000,
+            "officialDocNo": "文授字第10120135331號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

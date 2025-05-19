@@ -1,0 +1,136 @@
+{
+    "id": 17133,
+    "caseId": "20191014000004",
+    "count": 4829,
+    "shareCount": 14,
+    "representImage": 189350,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-11-04/c560c1f9-3c6d-43aa-a044-cce728cbd6fa/IMG_1163_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-11-04/c560c1f9-3c6d-43aa-a044-cce728cbd6fa/IMG_1163.jpg",
+        "name": "IMG_1163"
+    },
+    "caseName": "八德餘慶堂",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "八德餘慶堂創建完成於1940年，且依《桃園縣人權歷史口述歷史文集》所述，二次大戰時舊八德機場（八塊厝機場）在距離餘慶堂約2公里之處，日軍將指揮部遷至餘慶堂，作為陸軍航空隊隊長駐所與戰機疏散區的通訊指揮中心。二次戰後由邱家收回作為祠堂，近年邱氏後代更整修路口牌樓，持續維護中。",
+    "assetsTypeNames": "祠堂",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1569401884713,
+    "officialDocNo": "府文資字第10802051571號",
+    "documents": [
+        {
+            "fileid": 189349,
+            "name": "府文資字第10802051571號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-11-04/39bb9314-38a0-4c17-ab4d-aaf1455dc61e/府文資字第10802051571號.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "1、為日本洋式建築構造與漢式合院之混合形式，造型具特色，格局完整，原貌保存狀況良好，具地域風貌。\n２、工法與用材具時代意義，呈現日治後期建築風格與技術。\n３、日治時期曾作為日軍通訊指揮中心，有其特殊歷史意義，可彰顯邱氏家族於八德一帶之社會地位。\n４、建築及歷史均具有時代變遷之意義。\n依據：\n歷史建築紀念建築登錄廢止審查及輔助辦法第2條第1項第1、2、3款規定。\n",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "330",
+    "govInstitutionName": "桃園市政府",
+    "belongCityId": 5,
+    "belongCityName": "桃園市",
+    "belongDistName": "八德區",
+    "govInstitution": "桃園市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-3322592分機8628",
+    "govDeptAddress": "桃園市桃園區縣府路21號",
+    "cadasters": [
+        {
+            "fileid": 189348,
+            "name": "地籍資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-11-04/38f61eb8-7651-421c-9e97-10968490f564/地籍資料.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "桃園市八德區興豐段755地號",
+    "buildingFeatures": "八德餘慶堂為日本洋式建築構造與漢式合院之混合形式，造型具特色，格局完整，並且工法與用材具時代意義，呈現日治後期建築風格與技術。",
+    "buildingActualState": "目前為祭祀之用途。",
+    "bulkTransfer": 0,
+    "belongAddress": "桃園市八德區建國路168號",
+    "isOpenVisit": true,
+    "openUpTime": "週一至週五09:00-17:00",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.28743680000002,
+    "latitude": 24.9343395,
+    "representImageSource": "桃園市政府文化局",
+    "landScope": "桃園市八德區興豐段755及755-1地號，約1,886.46平方公尺",
+    "selfCoverage": "歷史建築本體及面積：218.30平方公尺",
+    "addresses": [
+        {
+            "cityName": "桃園市",
+            "distName": "八德區",
+            "id": 149631,
+            "caseId": 17133,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 509,
+            "address": "建國路168號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "桃園市",
+            "distName": "八德區",
+            "landNoName": "興豐段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 207472,
+            "caseId": 17133,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 509,
+            "landNoId": 8158,
+            "landSerialNo": "755",
+            "landownership": 2,
+            "cityLandUseTypeId": 1,
+            "area": "",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "桃園市",
+            "distName": "八德區",
+            "landNoName": "興豐段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 207473,
+            "caseId": 17133,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 509,
+            "landNoId": 8158,
+            "landSerialNo": "755-1",
+            "landownership": 2,
+            "cityLandUseTypeId": 1,
+            "area": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 162846,
+            "caseId": 17133,
+            "caseStatus": true,
+            "registerDate": 1569401884713,
+            "officialDocNo": "府文資字第10802051571號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"桃園市八德區興豐段755\"}}],\"notfound\":\"地籍資料處理失敗\"},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"桃園市八德區興豐段755-1\"}}],\"notfound\":\"地籍資料處理失敗\"}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": "報告書"
+}

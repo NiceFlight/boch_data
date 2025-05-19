@@ -1,0 +1,104 @@
+{
+    "id": 3338,
+    "caseId": "20101215000010",
+    "count": 101,
+    "shareCount": 0,
+    "representImage": 5807,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32555/photo/ab11461f-6a33-424f-b95d-8b4b7a227f4b_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32555/photo/ab11461f-6a33-424f-b95d-8b4b7a227f4b.jpg",
+        "name": "ab11461f-6a33-424f-b95d-8b4b7a227f4b"
+    },
+    "caseName": "茶末釉藍白斑腰鼓",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1292342400000,
+    "officialDocNo": "會授資籌二字第09920152382號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本件文物器型大、釉色佳，造型優美，數量稀少，具有歷史、文化、藝術價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第三、六款、第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "87-00279",
+    "keepNameId": 7,
+    "keepName": "國立歷史博物館",
+    "keepNameNew": 7,
+    "keepAddressNew": "100台北市中正區南海路49號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "唐",
+    "descSize": "長52.5公分，口徑17.5~17.8公分 ",
+    "descMaterial": "釉陶",
+    "reserveStatusDesc": "鼓可以說是中國文化中最早出現的樂器，據考古資料顯示，中國最早的鼓應是馬家窯文化出土的「土鼓」。大致而言，中國的鼓乃依材料和地區產生不同的特色，在西周時就已經分為數十種。而腰鼓是依特殊性命名，不過也可能是因其兩邊肥大、中間細瘦之形而得名。到南北朝時期，由於北方少數民族的戰爭，造成了大量少數民族的打擊樂器傳入中原地區，如羯鼓、腰鼓等，這些樂器隨後盛行於唐，使用於隋唐燕樂中。以其異國情調再融匯入漢民族的音樂，乃開展出不同於漢以前新的風格、新的形式的音樂。",
+    "pastHistorySource": 2,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 53458,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-12-26/0b87bc45-aa3f-47e9-88b5-26d7c6c5f876/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立歷史博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立歷史博物館",
+            "keepName": "國立歷史博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立歷史博物館",
+            "keepAddressNew": "100台北市中正區南海路49號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "徐州路21號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3480,
+            "caseId": 3338,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3480,
+            "caseId": 3338,
+            "caseStatus": true,
+            "registerDate": 1292342400000,
+            "officialDocNo": "會授資籌二字第09920152382號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

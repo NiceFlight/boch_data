@@ -1,0 +1,94 @@
+{
+    "id": 1861,
+    "caseId": "20021205000011",
+    "count": 2032,
+    "shareCount": 4,
+    "representImage": 125333,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-20/e2fed5ae-3d2e-46d0-804b-49eaea4f72d3/歷建49-小馬隧道-永保_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-20/e2fed5ae-3d2e-46d0-804b-49eaea4f72d3/歷建49-小馬隧道-永保.jpg",
+        "name": "歷建49-小馬隧道-永保"
+    },
+    "caseName": "泰源隧道(小馬隧道)",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "泰源隧道原為日治初期，日人政府命阿美族人開挖穿越馬沙林尼山，以暗渠方式引馬武窟溪上游溪水灌溉小馬地區農田，於1929年（昭和4年）完工，稱小馬埤圳（埤圳為日文漢字，亦即水圳）。後來為改善泰源盆地對外交通，日人政府強迫阿美族人繼續用人工將暗渠擴大，成為人車可通行的隧道，1932年完工。臺灣光復後被公路局稱為泰源隧道，是臺東縣境內唯一的公路隧道。\n成功鎮民認為該隧道位於小馬段，且早年稱小馬埤圳，臺灣光復後所改稱的泰源隧道並不妥當。乃積極運作，由耆老王河盛提供資料，鎮民代表會在第17屆第8次臨時會中，通過「隧道應回復正名為小馬隧道」案，函請成功鎮公所辦理。鎮公所順應民意，於2004年10月將該隧道正名為小馬隧道，並在東口左側立碑為誌。\n小馬隧道寬約3.5公尺，高3.75公尺、長約230公尺。除兩端在臺灣光復後稍作整修、塗以水泥外，其餘均保留人工開鑿的痕跡。\n",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "隧道",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1039055444000,
+    "officialDocNo": "府文資字第 0910114574 號",
+    "documents": [
+        {
+            "fileid": 115321,
+            "name": "49臺東縣歷史建築公告文-泰源隧道.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-28/03776b76-68d1-404f-ad53-e5cfbbf487df/49臺東縣歷史建築公告文-泰源隧道.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "1.修築於日治時代，且為臺東縣平地公路現存為一隧道。\n2.泰源盆地發展之歷史見證。\n",
+    "lawsReference": "1.文化資產保存法第27條之一\n2.歷史建築登錄及輔助辦法\n3.臺東縣91年11月15日歷史建築登錄審查會議決議辦理\n",
+    "govInstitutionCode": "950",
+    "govInstitutionName": "臺東縣政府",
+    "belongCityId": 22,
+    "belongCityName": "臺東縣",
+    "belongDistName": "成功鎮",
+    "govInstitution": "臺東縣政府",
+    "govDeptName": "文化處文化資產科",
+    "govDeptPhone": "089-350129",
+    "govDeptAddress": "臺東市南京路25號",
+    "cadasters": [],
+    "cityLandUseTypeId": 6,
+    "cityLandUseTypeName": "風景區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "成功鎮小馬段0345-0000 成功鎮小馬段0421-0000成功鎮小馬段0423-0000成功鎮小馬段0424-0000",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "wenSitename": "",
+    "belongAddress": "信義里小馬段",
+    "isOpenVisit": true,
+    "openUpTime": "全年",
+    "isCharge": false,
+    "isOpenDownload": true,
+    "longitude": 121.309579,
+    "latitude": 22.990403,
+    "representImageSource": "109-110年度臺東縣文化資產個案資料同步更新維護計畫",
+    "landScope": "臺東縣成功鎮小馬段0345、0421、0423、0424地號",
+    "selfCoverage": "臺東縣成功鎮小馬段0345、0421、0423、0424地號",
+    "addresses": [
+        {
+            "cityName": "臺東縣",
+            "distName": "成功鎮",
+            "id": 68865,
+            "caseId": 1861,
+            "caseStatus": true,
+            "cityId": 22,
+            "distId": 2211,
+            "address": "信義里"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 72986,
+            "caseId": 1861,
+            "caseStatus": true,
+            "registerDate": 1039055444000,
+            "officialDocNo": "府文資字第 0910114574 號",
+            "classificationId": 1
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

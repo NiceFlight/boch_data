@@ -1,0 +1,130 @@
+{
+    "id": 16511,
+    "caseId": "20190117000003",
+    "count": 2475,
+    "shareCount": 3,
+    "representImage": 186218,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/0259e737-00d9-4a27-b43e-bcd8936f4a21/代表圖像_延平北路二段214號店屋_20220718_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/0259e737-00d9-4a27-b43e-bcd8936f4a21/代表圖像_延平北路二段214號店屋_20220718.jpeg",
+        "name": "代表圖像_延平北路二段214號店屋_20220718"
+    },
+    "caseName": "延平北路二段214號店屋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "1、本建物為1920年代所建，側外牆唭哩岸石及兩批水之構造，具有地域特色，為當時大稻埕地區民間傳統建築樣式，具保存價值。\n2、日治時期本建物南側與第一劇場毗鄰，西側為太平館，見證太平町娛樂事業蓬勃發展之歷史。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 54309,
+            "name": "公告+地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-01-17/4b03ac2f-158b-4cf5-b84b-9a8137a16b47/公告+地籍圖.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1、本建物為1920年代所建，側外牆唭哩岸石及兩批水之構造，具有地域特色，為當時大稻埕地區民間傳統建築樣式，具保存價值。\n2、日治時期本建物南側與第一劇場毗鄰，西側為太平館，見證太平町娛樂事業蓬勃發展之歷史。\n3、符合歷史建築紀念建築登錄廢止審查及輔助辦法第2條第1項第1、3款登錄基準。\n",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 54311,
+            "name": "地籍地形圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2019-01-17/855dfcb9-03ca-4b7d-978f-a3c218e9f220/地籍地形圖.jpg"
+        },
+        {
+            "fileid": 157796,
+            "name": "歷建-延平北路二段214號店屋_地籍圖.doc",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/a7b9b3c0-d745-4c51-b72e-9c02cf8ceb73/歷建-延平北路二段214號店屋_地籍圖.doc"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市大同區延平段二小段673、674地號",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "longitude": 121.511328,
+    "latitude": 25.05937,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市大同區延平段二小段673、674地號等2筆土地(土地面積93平方公尺)",
+    "selfCoverage": "臺北市大同區延平段二小段751建號，總面積160平方公尺（實際保存面積須以保存範圍實測數據為準）  ",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 92981,
+            "caseId": 16511,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "延平北路二段214號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 113817,
+            "caseId": 16511,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 188,
+            "landSerialNo": "673",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "18",
+            "cityLandUseTypeOther": "特定專用區（二）（供一般商業使用）",
+            "note": "其他登記事項:\t重測前：太平段５小段６２—１地號\n（權狀註記事項）建築基地地號：延平段二小段６７３、６７４地號\n地價備註事項:\t(空白)\n土地參考資訊檔:\t土地使用分區;特定專用區(供一般商業使用)。",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 113818,
+            "caseId": 16511,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 187,
+            "landSerialNo": "674",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "75",
+            "cityLandUseTypeOther": "特定專用區（二）（供一般商業使用）",
+            "note": "其他登記事項:\t重測前：太平段５小段６２地號\n因分割增加地號：６７４—１地號\n（權狀註記事項）建築基地地號：延平段二小段６７３、６７４地號\n地價備註事項:\t(空白)\n土地參考資訊檔:\t土地使用分區;特定專用區(供一般商業使用)。",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 100341,
+            "caseId": 16511,
+            "caseStatus": true,
+            "registerDate": 1545926400000,
+            "officialDocNo": "北市文化文資字第10760293401號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": ""
+}

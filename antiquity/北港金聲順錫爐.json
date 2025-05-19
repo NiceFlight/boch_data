@@ -1,0 +1,105 @@
+{
+    "id": 3052,
+    "caseId": "20140205000003",
+    "count": 428,
+    "shareCount": 0,
+    "representImage": 147321,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-13/6e3043d1-3252-4649-a7a7-0d08117d3866/DSC04073-hhy_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-13/6e3043d1-3252-4649-a7a7-0d08117d3866/DSC04073-hhy.jpg",
+        "name": "DSC04073-hhy"
+    },
+    "caseName": "北港金聲順錫爐",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1391529600000,
+    "officialDocNo": "府文資字第1037400920A號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "(一)見證金聲順社團歷史發展，具在地文化意義。\r\n(二)器物製作精巧，見證當代錫器工藝發展。",
+    "lawsReference": "符合文化資產保存法第65條暨古物分級登錄指定及廢止審查辦法第2條第1項第1、2、3、4、5、6款之基準。",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "belongCityId": 13,
+    "belongCityName": "雲林縣",
+    "belongDistName": "北港鎮",
+    "govInstitution": "雲林縣政府",
+    "govDeptName": "文化觀光處",
+    "govDeptPhone": "(05)5523218",
+    "govDeptAddress": "雲林縣斗六市大學路三段310號",
+    "reservationCode": "暫無",
+    "amount": 1,
+    "notes": "",
+    "descAge": "清光緒27年(1901年)",
+    "descSize": "爐身長度26公分、寬度10.7公分、總高度18.3公分；爐口長度15.2公分、寬度7.8公初",
+    "descMaterial": "錫、鎳、鉛的合金構成",
+    "reserveStatusDesc": "北港金聲順錫爐製作於清光緒27年（1901年），材質為錫，屬傳統戟耳爐造型，造型古樸，為金聲順輪值爐主用香爐。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 142108,
+            "name": "中華民國103年02月05日 府文資二字第1037400920號 北港金聲順錫爐.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-10-31/e94b8c7f-8433-4d17-a723-e8fefff99ba9/中華民國103年02月05日 府文資二字第1037400920號 北港金聲順錫爐.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 23.56430690260693,
+    "latitude": 120.30397908224425,
+    "representImageSource": "雲林縣政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "社團法人雲林縣金聲順古樂協會",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "雲林縣北港鎮東陽里14鄰中山南路24號",
+            "saveSpaceIdStr": "民俗團體",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "北港鎮",
+            "id": 76845,
+            "caseId": 3052,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1316,
+            "address": "中山南路24號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 82539,
+            "caseId": 3052,
+            "caseStatus": true,
+            "registerDate": 1391529600000,
+            "officialDocNo": "府文資字第1037400920D號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

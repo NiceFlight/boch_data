@@ -1,0 +1,101 @@
+{
+    "id": 21185,
+    "caseId": "20221111000001",
+    "count": 1731,
+    "shareCount": 1,
+    "representImage": 199963,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-11-14/6ddc9f44-974a-4ca2-94a0-6282ce1b0d9f/IMG_9528_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-11-14/6ddc9f44-974a-4ca2-94a0-6282ce1b0d9f/IMG_9528.jpg",
+        "name": "IMG_9528"
+    },
+    "caseName": "民樂街58號店屋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "建築設計人為李重耀建築師與大稻埕聞人莊輝玉之孫莊長雄建築師，本建築原為莊輝玉所有之產業，與迪化街117、119、121號以及左右兩側56、60號有密切關聯，曾為莊義芳商行所在地，於大稻埕地區具有地域發展特色。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 189885,
+            "name": "公告+地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/519e6923-0544-4164-aa68-dbda4ed33a83/公告+地籍圖.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1.建物為民國57年竣工，4層加強磚造建物，外觀簡潔，仍可看出設計與施工細節，如陽台之弧面、開細縫以及與柱子脫開之作法，與內部之天花線腳，可呈現當時之工匠技藝，可謂上乘之作。整體建築具現代感，是戰後的店屋新貌。\n2.建築設計人為李重耀建築師與大稻埕聞人莊輝玉之孫莊長雄建築師，本建築原為莊輝玉所有之產業，與迪化街117、119、121號以及左右兩側56、60號有密切關聯，曾為莊義芳商行所在地，於大稻埕地區具有地域發展特色。\n",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 189886,
+            "name": "範圍示意圖(核准版).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/cd46dce8-10a1-4222-b077-148443aa7453/範圍示意圖(核准版).pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isOpenDownload": true,
+    "longitude": 121.510509,
+    "latitude": 25.057444,
+    "representImageSource": "文化局攝",
+    "landScope": "大同區延平段三小段578 （145平方公尺）地號1筆土地。（實際保存面積須以保存範圍實測數據為準）",
+    "selfCoverage": "456.97平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 105213,
+            "caseId": 21185,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "民樂街58號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段三小段",
+            "noncityLandUseTypeName": "特定專用區",
+            "noncityLandUseSubTypeName": "窯業",
+            "id": 128127,
+            "caseId": 21185,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 189,
+            "landSerialNo": "578",
+            "landownership": 2,
+            "noncityLandUseTypeId": 10,
+            "noncityLandUseSubTypeId": 10,
+            "coverageId": 2,
+            "area": "145平方公尺",
+            "cityLandUseId": 2
+        }
+    ],
+    "announces": [
+        {
+            "id": 112740,
+            "caseId": 21185,
+            "caseStatus": true,
+            "registerDate": 1667836800000,
+            "officialDocNo": "北市文化文資字第11130394301號",
+            "classificationId": 1,
+            "note": "歷史建築"
+        }
+    ],
+    "openVisitType": ""
+}

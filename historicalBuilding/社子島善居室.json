@@ -1,0 +1,103 @@
+{
+    "id": 17788,
+    "caseId": "20200902000005",
+    "count": 2357,
+    "shareCount": 3,
+    "representImage": 205366,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/e9f0ecb8-b8d5-49a4-8f0d-419cfc6334ad/代表圖像_社子島善居室_20221025_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/e9f0ecb8-b8d5-49a4-8f0d-419cfc6334ad/代表圖像_社子島善居室_20221025.jpg",
+        "name": "代表圖像_社子島善居室_20221025"
+    },
+    "caseName": "社子島善居室",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "興建背景:\n善居室為陳姓家族所有，所在的土地原為溪洲底630番之1，大正4年（1915）2月1日從旱田地變更為建築敷地。\n建築特色:\n善居室為閩南建築四合院形式，入口處的門屋為木造三開間，正面為「出屐起」形式，屋頂採用的是閩南瓦。進入門屋則可見建築為穿斗式屋架。穿越門屋之後為四合院中的小型中庭，正身入口上方門額有「善居室」字樣，正身為三開間「凹壽」形式，石砌基礎附踏階，磚砌外牆，門額兩側有豎型氣窗，山牆為單弧型，山尖設有通氣窗。內部為擱檁式屋架，內牆為磚造，正廳入口木製雙開門，兩側亦有開窗。室內入口上方及燈梁有彩繪裝飾，前方有頂桌，正廳內保留彩繪木隔斷。左次間設有磚造直櫺窗。左右護龍為磚造。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 71753,
+            "name": "03 公告-社子島善居室 歷史建築.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/43d97ed4-aa2c-4526-87c3-f6312751b18b/03 公告-社子島善居室 歷史建築.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者"
+    ],
+    "registerReason": "1.\t建物為閩南建築四合院形式，座向為坐東朝西，為磚木混合構造，正身外牆下段砌石，立面及側牆為日治時期磚砌構造，內部為木構造。\n2.\t建物第一落的門屋為「出屐起」形式，採木造穿斗式屋架，下部為木作裝修，上部為編竹夾泥粉白牆。第二落的正身入口上方有泥塑彩繪「善居室」之門額，立面為磚造凹壽形式，屋簷下有磚疊澀砌法，內部正廳保留彩繪木隔斷；護龍為磚造。\n3.\t符合歷史建築紀念建築登錄廢止審查及輔助辦法第2條第1項第1、3款登錄基準。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 71754,
+            "name": "公告附件-地籍地形圖-善居室.docx",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/d483ac38-dc00-457e-964a-1d60e631c0eb/公告附件-地籍地形圖-善居室.docx"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "longitude": 121.4955854828883,
+    "latitude": 25.095710411464683,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市士林區建築物坐落土地為士林區溪洲段一小段434地號(部分，該筆土地面積為992平方公尺)。（實際保存面積須以保存範圍實測數據為準）",
+    "selfCoverage": "歷史建築本體為社子島善居室建築本體(建物面積為151.92平方公尺)，建物無登記建號。（實際保存面積須以實際保存範圍實測數據為準）",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 106615,
+            "caseId": 17788,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "延平北路七段63巷12弄5號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "溪洲段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 132187,
+            "caseId": 17788,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 538,
+            "landSerialNo": "434",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "992",
+            "cityLandUseTypeOther": "都市計畫變更中",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 114376,
+            "caseId": 17788,
+            "caseStatus": true,
+            "registerDate": 1586275200000,
+            "officialDocNo": "北市文化文資字第10930170783號",
+            "classificationId": 1,
+            "note": "本建物位於士林社子島地區細部計畫(草案)公園用地(公十三)範圍內，得配合社子島地區開發計畫提高本建物高程。"
+        }
+    ],
+    "geojson": "[{\"address\":[{\"address\":\"1. 個案名稱: 社子島善居室 <br />\\n      2. 地址: 延平北路七段63巷12弄5號 <br />\\n      3. 種類: 宅第 <br />\\n      4. 指定登錄理由: 1.\\t建物為閩南建築四合院形式，座向為坐東朝西，為磚木混合構造，正身外牆下段砌石，立面及側牆為日治時期磚砌構造，內部為木構造。\\n2.\\t建物第一落的門屋為「出屐起」形式，採木造穿斗式屋架，下部為木作裝修，上部為編竹夾泥粉白牆。第二落的正身入口上方有泥塑彩繪「善居室」之門額，立面為磚造凹壽形式，屋簷下有磚疊澀砌法，內部正廳保留彩繪木隔斷；護龍為磚造。\\n3.\\t符合歷史建築紀念建築登錄廢止審查及輔助辦法第2條第1項第1、3款登錄基準。 <br />\\n      5. 最後一筆公告日期: 2020-04-08 <br />\\n      6. 最後一筆公告文號: 北市文化文資字第10930170783號 <br />\\n      7. 管理單位: 私人 <br />\\n      8. 使用單位: 私人 <br />\\n      9. 建物狀態: 待修復 <br />\",\"lat\":25.095710411464683,\"lng\":121.4955854828883}]}]",
+    "openVisitType": "",
+    "pastHistorySource": "臺北市社子島地區文化資產普查計畫"
+}

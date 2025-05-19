@@ -1,0 +1,95 @@
+{
+    "id": 18214,
+    "caseId": "20201217000024",
+    "count": 125,
+    "shareCount": 0,
+    "representImage": 90078,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-12-17/daea6a45-cf70-40b2-9c6b-95cd7b46476e/14_1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-12-17/daea6a45-cf70-40b2-9c6b-95cd7b46476e/14_1.jpg",
+        "name": "14_1"
+    },
+    "caseName": "鷹家族置物",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1606375874713,
+    "officialDocNo": "北市獻編字第1093004298號",
+    "judgeCriteria": [
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "作工精緻藝術性，猛禽表現生態自然，雕刻翎毛細微，群組神態生動，具藝術造詣。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174-1號",
+    "reservationCode": "14",
+    "amount": 1,
+    "descAge": "日本大正時期",
+    "descSize": "高 8 公分",
+    "descMaterial": "象牙",
+    "reserveStatusDesc": "本件作品以「鷹」為表現主題，作者描繪一組幼鷹棲息在枝幹上等待母鷹餵食的場景，鳥兒身姿豐潤，翎毛細密，層疊有序。幼鳥擺動雙翼，仰首向上，嗷嗷待哺的渴望表露無遺。整組雕工刻劃精巧，惟妙惟肖，令人驚豔的還有極為細膩的染色技巧，枝幹精染為穩重的深、淺綠色，與鷹的牙白原色形成對比，然顯和諧而不突兀，顯見藝術家的精湛工藝。\n鷹在日本文化中具有吉祥語意，從江戶時代開始便流傳「一富士、二鷹、三茄子」為吉祥的開運象徵。本件作品刻劃出母鳥餵食幼鳥的親情畫面，透過鳥兒為媒介，表現出親子間的溫馨情懷，令人感動不已。",
+    "pastHistorySource": 1,
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定。",
+    "documents": [
+        {
+            "fileid": 90079,
+            "name": "臺北市公告指定一般古物1091126.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-17/700e846e-8c78-43db-9f86-78b4e51b12ac/臺北市公告指定一般古物1091126.pdf"
+        }
+    ],
+    "keepNames": [
+        {
+            "keepNameIdStr": "郭○穎",
+            "keepName": "郭○穎",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "郭○穎",
+            "keepAddressNew": "臺北市中正區重慶南路二段15號7樓",
+            "saveSpaceOther": "庫房",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "大安區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 7829,
+            "caseId": 18214,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 7829,
+            "caseId": 18214,
+            "caseStatus": true,
+            "registerDate": 1606375874713,
+            "officialDocNo": "北市獻編字第1093004298號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

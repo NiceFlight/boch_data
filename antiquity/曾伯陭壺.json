@@ -1,0 +1,102 @@
+{
+    "id": 3909,
+    "caseId": "20121112000033",
+    "count": 293,
+    "shareCount": 0,
+    "representImage": 6717,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32895/photo/50c87dca-cdc2-48a4-90cd-0d1ece2713d8_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32895/photo/50c87dca-cdc2-48a4-90cd-0d1ece2713d8.JPG",
+        "name": "50c87dca-cdc2-48a4-90cd-0d1ece2713d8"
+    },
+    "caseName": "曾伯陭壺",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1352649600000,
+    "officialDocNo": "文授字第10120135331號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "圓形壺兩側附獸首啣環，壺身滿飾環帶紋與垂鱗紋，蓋上一圈鏤空蓮瓣紋十分華麗。器蓋與器口內對銘10行41字：「隹曾伯陭逎用吉金鐈鋚，用自作醴壺，用鄉饗賓客，為德無叚瑕，用孝用享，用易賜眉壽，子子孫孫用受大福無疆」。大意為曾伯陭以鎔毀鐈鋚舊器而成的吉金，新鑄為盛甜酒之醴壺，以饗宴賓客，相與善言，飲酒有節，不致害德。並以享孝先祖，祈賜長壽大福，子孫永保。銘文的位置很特別，蓋銘起始位置是蓋頂外緣一道，接續蓋子子母口邊緣一圈。為曾國重要銅器，銘文於研究春秋方國及禮器制度，均有重要價值。為清宮舊藏之商周銅器精品。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第3、5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故銅002374",
+    "amount": 1,
+    "notes": "",
+    "descAge": "春秋",
+    "descSize": "通高41.2cm、腹深28.6cm、口徑14.1cm、底徑21.8cm、腹圍77.5cm。",
+    "descMaterial": "銅",
+    "reserveStatusDesc": "通高41.2cm、腹深28.6cm、口徑14.1cm、底徑21.8cm、腹圍77.5cm。\r\n材質：銅。\r\n器口及腹飾環帶紋，頸飾竊曲紋，兩獸耳銜環，蓋飾竊曲紋，頂作雙盤龍紋，龍紋外有蓮瓣形。蓋器有對銘各41字。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。已修補。",
+    "documents": [
+        {
+            "fileid": 150835,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-20/6aa2be06-2ba2-4720-b72d-092d7fa8a5fa/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71205,
+            "caseId": 3909,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75571,
+            "caseId": 3909,
+            "caseStatus": true,
+            "registerDate": 1352649600000,
+            "officialDocNo": "文授字第10120135331號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

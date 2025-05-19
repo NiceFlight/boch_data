@@ -1,0 +1,102 @@
+{
+    "id": 3943,
+    "caseId": "20130128000024",
+    "count": 296,
+    "shareCount": 0,
+    "representImage": 6751,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32929/photo/28ea5975-8da0-4962-9f75-bf5c139621a6_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32929/photo/28ea5975-8da0-4962-9f75-bf5c139621a6.JPG",
+        "name": "28ea5975-8da0-4962-9f75-bf5c139621a6"
+    },
+    "caseName": "明吳彬仙山高士",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1359302400000,
+    "officialDocNo": "文授字第10230006433號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "此畫為吳彬山水畫的代表作品之一。吳彬山水畫除有奇特造型之外，也同時追求一種古樸的特質，本幅即可見追擬北宋大山之意趣，是一晚明畫史復古風尚的產物。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第3、4、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局 ",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫002269",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descSize": "162.8 x 59.1（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "此軸畫層疊山峰，構圖若有北宋大山水的樣式，卻又以奇特的分組手法重組山石，可說是吳彬將北宋古風融於晚明變形風潮下的成果。畫軸上有草書款題。此作是吳彬山水畫的代表作品之一。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "舊傷補，水漬，舊傷。",
+    "documents": [
+        {
+            "fileid": 150742,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-19/28c30c08-10c5-4812-8f9b-fc345a5ffd34/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": " 國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71127,
+            "caseId": 3943,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 75470,
+            "caseId": 3943,
+            "caseStatus": true,
+            "registerDate": 1359302400000,
+            "officialDocNo": "文授字第10230006433號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,103 @@
+{
+    "id": 15334,
+    "caseId": "20171122000009",
+    "count": 530,
+    "shareCount": 0,
+    "representImage": 46909,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2017-11-22/e359f23e-c7da-4efe-9fde-ce3ba4363390/唐褚遂良臨王獻之飛鳥帖卷_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2017-11-22/e359f23e-c7da-4efe-9fde-ce3ba4363390/唐褚遂良臨王獻之飛鳥帖卷.jpg",
+        "name": "唐褚遂良臨王獻之飛鳥帖卷"
+    },
+    "caseName": "唐褚遂良臨王獻之飛鳥帖卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1509605079207,
+    "officialDocNo": "文授資局物字第10630122631號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "具有重要藝術造詣或科學成就",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "褚遂良（596-659），博學文史，書法由虞世南入手，上溯王羲之，工力精深，特以行書為勝。\n本幅鈐有南宋高宗（1107-1187）「紹興」連珠璽，又有趙孟堅（1199-1264）「子固」、「彝齋」兩印。卷末元柯九思（1290-1343）及王守誠題跋，皆已認為此帖為唐人所臨。拖尾有「唐褚遂良臨晉王大令獻之飛鳥帖項元汴真賞其值（餘字已被刮除）」的記載，曾為項元汴收藏。從收傳印記來看，書寫年代應在南宋以前。\n褚書以妍媚著稱。此作書體流暢具韻律感，用筆則疏瘦勁鍊，有褚書風格，雖非褚遂良真蹟，亦可視為褚書代表。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第1項第3、4、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故書000056",
+    "amount": 1,
+    "descAge": "唐",
+    "descCreator": "褚遂良",
+    "descSize": "22公分x47.4公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "〈飛鳥帖〉內容為王獻之（344-386）自述受飛鳥傳授書訣一事，也是唐宋以來流傳的神仙傳說。\n褚遂良（596-659），博學文史，工楷隸。褚書以妍媚著稱。此作書體流暢具韻律感，用筆則疏瘦勁鍊，有褚書風格。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "褐斑、絹裂、傷損褐斑。",
+    "documents": [
+        {
+            "fileid": 147510,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-14/faf54a04-a364-4e6a-a060-f2c52e88432f/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69120,
+            "caseId": 15334,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73244,
+            "caseId": 15334,
+            "caseStatus": true,
+            "registerDate": 1509605079207,
+            "officialDocNo": "文授資局物字第10630122631號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

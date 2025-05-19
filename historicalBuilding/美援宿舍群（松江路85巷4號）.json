@@ -1,0 +1,112 @@
+{
+    "id": 2076,
+    "caseId": "20150831000002",
+    "count": 3722,
+    "shareCount": 9,
+    "representImage": 200682,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/842b7e21-2f65-419b-b475-84f608f183c7/原代表圖像_美援宿舍群（松江路85巷4號）_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/842b7e21-2f65-419b-b475-84f608f183c7/原代表圖像_美援宿舍群（松江路85巷4號）.jpg",
+        "name": "原代表圖像_美援宿舍群（松江路85巷4號）"
+    },
+    "caseName": "美援宿舍群（松江路85巷4號）",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "建於1953年，供美援時期美方人員及農復會官員使用。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 162506,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/293bf026-0344-4957-9e1b-dfc3ce4c96f9/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1.建於1953年，供美援時期美方人員及農復會官員使用，為美援會中美合作歷史見證，具臺北市都市發展的意義。\r\n2.整體街廓完整，圍塑之範圍整齊一致，建物採黑瓦洋式造型，街廓形式與建築群為臺灣發展歷程中的重要見證，格局配置計畫相仿，綠地、樹木條件佳，為臺北市高密度發展中難得的生態跳島。。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、4款評定基準。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 162507,
+            "name": "f9efbb5d-ef98-4382-bf4c-839423f51a6c.gif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/98d8cd0b-f945-4936-9076-b6b0bcc3bb75/f9efbb5d-ef98-4382-bf4c-839423f51a6c.gif"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "中山區長安段3小段271-1地號\r\n（實際保存面積須以保存範圍實測數據為準）",
+    "buildingFeatures": "黑瓦洋式造型",
+    "inHouseFeatures": "屋頂木架結構及地板均為木做",
+    "buildingUsage": "現作為宿舍使用",
+    "buildingActualState": "現況保存良好。",
+    "buildingKeyMaintainItem": "保存範圍：全棟保存。",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.5334976,
+    "latitude": 25.0500091,
+    "representImageSource": "臺北市文化局",
+    "landScope": "中山區長安段3小段271-1地號\r\n（實際保存面積須以保存範圍實測數據為準）",
+    "selfCoverage": "192.69",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中山區",
+            "id": 105801,
+            "caseId": 2076,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 103,
+            "address": "松江路85巷4號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中山區",
+            "landNoName": "長安段三小段",
+            "id": 130013,
+            "caseId": 2076,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 103,
+            "landNoId": 229,
+            "landSerialNo": "271-1",
+            "landownership": 1,
+            "coverageId": 2,
+            "area": "776平方公尺",
+            "note": "第三種住宅區及第參種商業區",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 113400,
+            "caseId": 2076,
+            "caseStatus": true,
+            "registerDate": 1440950400000,
+            "officialDocNo": "北市文化文資字第10430434200",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

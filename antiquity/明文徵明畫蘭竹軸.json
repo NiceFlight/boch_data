@@ -1,0 +1,100 @@
+{
+    "id": 4483,
+    "caseId": "20140915000029",
+    "count": 208,
+    "shareCount": 0,
+    "representImage": 7541,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {},
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133447/photo/明文徵明畫蘭竹軸.jpg",
+        "name": "明文徵明畫蘭竹軸"
+    },
+    "caseName": "明文徵明畫蘭竹軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1410710400000,
+    "officialDocNo": "文資局物字第10320112241號",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "品質精良且數量稀少"
+    ],
+    "registerReason": "文徵明（1470－1559）明四大家之一，能書善畫。繪畫中常見書法意趣，兼擅水墨、設色。和沈周（1427－1509）並列吳派領袖。\n幅中竹具八分書沈厚韻味，蘭具行草書揮灑飄逸意趣，運轉自如，揮灑靈動，帶出風的感覺。清朗的筆墨，充滿文人優雅氣息。用筆精到，為文徵明以書法用筆入畫的代表佳作。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條1項第4、5款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": " 04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000525",
+    "amount": 1,
+    "descAge": "明",
+    "descCreator": "文徵明",
+    "descSize": "62公分 x 31.2公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "在文徵明少見的花鳥畫作品中，本幅為其書法用筆入畫的代表作。幅中以元趙孟頫（1254－1322）筆意畫坡石岸，竹和蘭的線條勁健有力，運轉自如。竹具八分書沈厚韻味，蘭具行草書揮灑飄逸意趣，畫出蘭竹於風中搖曳生姿的情景，令觀者體驗到風的感覺。清朗的筆墨，充滿文人優雅氣息，布局繁密卻井然有序，且竹深蘭淺，帶出前後層次。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。霉傷，折痕。",
+    "documents": [
+        {
+            "fileid": 150084,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-11/4ee01644-dc3c-47fa-a118-35c2579145e0/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70572,
+            "caseId": 4483,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 74828,
+            "caseId": 4483,
+            "caseStatus": true,
+            "registerDate": 1410710400000,
+            "officialDocNo": "文資局物字第10320112241號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,102 @@
+{
+    "id": 3206,
+    "caseId": "20130701000004",
+    "count": 621,
+    "shareCount": 0,
+    "representImage": 5644,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7390/photo/林田小學校奉安庫_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7390/photo/林田小學校奉安庫.JPG",
+        "name": "林田小學校奉安庫"
+    },
+    "caseName": "林田小學校奉安庫",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-產業機具",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1372608000000,
+    "officialDocNo": "府文資字第1020111096A號",
+    "judgeCriteria": [
+        "具有史事淵源",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者"
+    ],
+    "registerReason": "1.見證日治時期精神教化及官營移民村內日人子弟學校的歷史，具有歷史意義及史事淵源。\r\n2.該奉安庫之鑄鐵造技術，是台灣早期工業技術之代表樣式。其五七桐紋、鳳凰紋樣及日式密碼鎖都非常細緻，具有藝術造詣及科學成就。\r\n3.花蓮縣境內仍保有如此完整之奉安庫並不多，具有珍貴及稀有性。",
+    "lawsReference": "文化資產保存法第65條及古物分級登錄指定及廢止審查辦法第2條第1項第1、2、4、5款。",
+    "govInstitutionCode": "970",
+    "govInstitutionName": "花蓮縣政府",
+    "belongCityId": 23,
+    "belongCityName": "花蓮縣",
+    "belongDistName": "鳳林鎮",
+    "govInstitution": "花蓮縣文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-8227121-321",
+    "govDeptAddress": "花蓮縣花蓮市文復路6號",
+    "reservationCode": " ",
+    "amount": 1,
+    "notes": "",
+    "descAge": " ",
+    "descSize": "長133.7cm，寬77.6cm，厚67.5cm。",
+    "descMaterial": "鑄鐵大型保險庫。",
+    "reserveStatusDesc": "奉安庫為日治時期各級學校供奉教育敕語（勅語）抄本與天皇、皇后「御真影」（玉照）的大型保險庫，外表上有「五七桐紋」。「五七桐紋」，乃桐花紋的代表，在三片桐葉上，中央有七朵桐花，其左右各配置有5朵桐花而成為圖案。根據日本WEB版周刊《家紋》第7號介紹，據說在平安時代，桐跟竹子、鳳凰即成為天皇服裝上的裝飾，結果，人們自然而然地把它當作是皇家的家紋。（資料來源：潘繼道 2006 臺灣文獻別冊 19 p.31 花蓮港廳壽小學校奉安殿遺跡）\n\n每逢開學典禮時，全體師生會固定前來參拜，並聆聽日本天皇的「教育敕」。「教育敕語」由日本明治天皇所頒佈，將其謄本下賜各級學校，作為維新政府的國家主義式教育理念。一般先收納於箱櫃內，稱之為「奉安箱」、「奉安櫃」或「奉安庫」，需安置於校長室內或安全處。目前「奉安庫」尚保存於校園內，但內部並無任何「教育敕語謄本」保留下來。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "日治時期",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 163186,
+            "name": "林田小學校奉安庫登錄為一般古物公告1020701.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-10/8d2c8518-5827-4528-bb38-1de288ccb386/林田小學校奉安庫登錄為一般古物公告1020701.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 121.4686078277364,
+    "latitude": 23.754137177240445,
+    "representImageSource": "花蓮縣文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "花蓮縣鳳林鎮大榮國民小學",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "花蓮縣鳳林鎮大榮國民小學",
+            "keepAddressNew": "花蓮縣鳳林鎮大榮里復興路85號",
+            "saveSpaceIdStr": "學校",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "花蓮縣",
+            "keepNameDistName": "鳳林鎮",
+            "keepNameAddress": "復興路八五號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "花蓮縣",
+            "distName": "鳳林鎮",
+            "id": 79011,
+            "caseId": 3206,
+            "caseStatus": true,
+            "cityId": 23,
+            "distId": 2306
+        }
+    ],
+    "announces": [
+        {
+            "id": 84797,
+            "caseId": 3206,
+            "caseStatus": true,
+            "registerDate": 1372608000000,
+            "officialDocNo": "府文資字第1020111096A號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

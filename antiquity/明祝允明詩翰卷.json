@@ -1,0 +1,102 @@
+{
+    "id": 3524,
+    "caseId": "20130613000006",
+    "count": 235,
+    "shareCount": 0,
+    "representImage": 6159,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7500/photo/明祝允明詩翰卷_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7500/photo/明祝允明詩翰卷.JPG",
+        "name": "明祝允明詩翰卷"
+    },
+    "caseName": "明祝允明詩翰卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1371052800000,
+    "officialDocNo": "文資局物字第10220064921號",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "此卷包括十幅作品，每件書蹟皆呈現出不同樣貌，其中雜有蘇軾、米芾、黃庭堅、趙孟頫等人風格，顯示出祝允明對於古代書家的廣博涉獵，皆能得其精髓，顯示他過人的臨仿能力，是祝允明的代表作，具重要藝術價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第四、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "0422295848",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故書000095",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descCreator": "祝允明",
+    "descSize": "25.5 x 48.8；26 x 56.4；25.7 x 56.3；24.3 x 44.9；24.4 x 47.5；24.3 x 44.5；23.8 x 42.1；23.9 x 43.9；23.8 x 42.4；23.5 x 47（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "此卷包括十幅作品，其中雜有蘇軾、米芾、黃庭堅、趙孟頫等人風格，顯示出祝允明對於古代書家的廣博涉獵，每件書蹟皆呈現出不同樣貌。其中八幅是約在1506到1507年間祝氏寫給沈與文（字辨之）的作品。沈與文，吳縣人，其野竹齋藏書甚富，為當時重要藏書家。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 150566,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-18/515ea737-c3c2-41e3-9115-917ac93de6e4/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71036,
+            "caseId": 3524,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75354,
+            "caseId": 3524,
+            "caseStatus": true,
+            "registerDate": 1371052800000,
+            "officialDocNo": "文資局物字第10220064921號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,101 @@
+{
+    "id": 3891,
+    "caseId": "20121112000015",
+    "count": 258,
+    "shareCount": 0,
+    "representImage": 6699,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32877/photo/969d6396-63fc-4121-a936-7286b27330f3_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32877/photo/969d6396-63fc-4121-a936-7286b27330f3.JPG",
+        "name": "969d6396-63fc-4121-a936-7286b27330f3"
+    },
+    "caseName": "亞禽印",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1352649600000,
+    "officialDocNo": "文授字第10120135331號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "璽印，橋鈕。有銘三字（「亞禽□」）。此印為目前所見最早之印章實物之一，具有無可取代之文物價值。相傳共有三鈕銅印出土於殷墟─商代晚期都城，「亞禽」印是其中之一，為中央博物院早期購藏的商代銅印，璽文與商代金文族徽及甲骨文可以參驗，確證為三千多年前的古物無疑。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": " 04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "中銅000397",
+    "amount": 1,
+    "notes": "",
+    "descAge": "商",
+    "descSize": "高1.5cm",
+    "descMaterial": "銅",
+    "reserveStatusDesc": "璽印，橋鈕。有銘三字。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 150777,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-19/69809fae-689f-4f71-b07c-18399de10fd8/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71156,
+            "caseId": 3891,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": " 至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75502,
+            "caseId": 3891,
+            "caseStatus": true,
+            "registerDate": 1352649600000,
+            "officialDocNo": "文授字第10120135331號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

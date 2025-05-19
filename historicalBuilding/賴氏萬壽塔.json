@@ -1,0 +1,114 @@
+{
+    "id": 1094,
+    "caseId": "20080915000002",
+    "count": 3256,
+    "shareCount": 3,
+    "representImage": 205100,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/e01514fd-3e0e-46c9-8e08-c62befa0ac19/代表圖像_賴氏萬壽塔_20221021_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/e01514fd-3e0e-46c9-8e08-c62befa0ac19/代表圖像_賴氏萬壽塔_20221021.jpg",
+        "name": "代表圖像_賴氏萬壽塔_20221021"
+    },
+    "caseName": "賴氏萬壽塔",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "墓塔為1940年大稻埕賴氏興建作為祖塔之用",
+    "assetsTypeNames": "墓葬",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 166755,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/4bb562e2-4bf6-47a5-b17b-efc39477b179/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1. 墓塔為1940年大稻埕賴氏興建作為祖塔之用，為地面墓室建築，墓葬區呈階梯式，前面有三壙供棺葬之用，後方有揀骨吉葬之用，墓室內兼具凶葬、吉葬，在臺灣極為少見，具稀少性及民俗文化價值。\r\n2. 墓塔的結構特殊，前有吉獸，中上有葫蘆，其他有南瓜和螺形等，充分代表吉祥意義。",
+    "lawsReference": "歷史建築登錄廢止審查及輔助辦法第2條第1項第2、4款登錄評定基準",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 166756,
+            "name": "733324f1-d34d-4f43-b2d7-a2f9c4048085.gif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/8c6b5115-0328-4d0a-bf4b-9405646f358a/733324f1-d34d-4f43-b2d7-a2f9c4048085.gif"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "公園用地(公共設施用地)",
+    "locationLandNo": "臺北市文山區興隆段1小段394-11地號",
+    "buildingFeatures": "墓塔的結構特殊，前有吉獸，中上有葫蘆，其他有南瓜和螺形",
+    "inHouseFeatures": "賴氏萬壽塔為地面墓室建築，墓葬區呈階梯式，前面有三壙供棺葬之用，後面則為揀骨吉葬之用，如此一個墓室裡面兼具凶葬、吉葬之用，在臺灣誠屬少見，甚至是僅有之例，具有民俗文化價值。",
+    "buildingUsage": "",
+    "buildingActualState": "狀況良好",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.5467615,
+    "latitude": 25.0030613,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市文山區興隆段1小段394-11地號",
+    "selfCoverage": "實際保存面積需以保存範圍實測數據為準",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "文山區",
+            "id": 106497,
+            "caseId": 1094,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 112,
+            "address": "興隆路2段203巷底"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "文山區",
+            "landNoName": "興隆段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 131530,
+            "caseId": 1094,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 112,
+            "landNoId": 36,
+            "landSerialNo": "394",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "352平方公尺",
+            "cityLandUseTypeOther": "公園用地（公共設施用地）",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 114272,
+            "caseId": 1094,
+            "caseStatus": true,
+            "registerDate": 1221408000000,
+            "officialDocNo": "北市文化二字第09730190900號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "geojson": "[{\"features\":[{\"geometry\":{\"coordinates\":[[[[121.5478248832,25.003720725257],[121.54780096036,25.003721915895],[121.54781435944,25.003712066269],[121.54776883369,25.003601000775],[121.54778940747,25.00351149747],[121.54778654839,25.003473041908],[121.54783239435,25.003413826387],[121.54786014605,25.003306043616],[121.5478605026,25.003295507004],[121.54786628939,25.003296955732],[121.54787194393,25.003298894961],[121.54787746622,25.00330132469],[121.54788258741,25.00330424591],[121.5478873075,25.003307658622],[121.54789162594,25.003311440324],[121.54789567716,25.00331559052],[121.54790353086,25.003328424456],[121.5478248832,25.003720725257]]]],\"type\":\"MultiPolygon\"},\"type\":\"Feature\",\"properties\":{\"ymin\":25.003295507004,\"xmin\":121.54776883369,\"段號\":3940000,\"query\":\"臺北市,興隆段一小段,394\",\"ycenter\":25.0035087114495,\"land_id\":3940000,\"area_id\":\"AA\",\"content\":\"1. 個案名稱: 賴氏萬壽塔 <br />\\n      2. 地號: 臺北市,興隆段一小段,394 <br />\\n      3. 種類: 墓葬 <br />\\n      4. 指定登錄理由: 1. 墓塔為1940年大稻埕賴氏興建作為祖塔之用，為地面墓室建築，墓葬區呈階梯式，前面有三壙供棺葬之用，後方有揀骨吉葬之用，墓室內兼具凶葬、吉葬，在臺灣極為少見，具稀少性及民俗文化價值。\\r\\n2. 墓塔的結構特殊，前有吉獸，中上有葫蘆，其他有南瓜和螺形等，充分代表吉祥意義。 <br />\\n      5. 最後一筆公告日期: 2008-09-15 <br />\\n      6. 最後一筆公告文號: 北市文化二字第09730190900號 <br />\\n      7. 管理單位: 臺北市政府工務局公園路燈工程管理處 <br />\\n      8. 使用單位: 無 <br />\\n      9. 建物狀態: 修復中 <br />\",\"地段\":\"興隆段一小段\",\"縣市\":\"臺北市\",\"ymax\":25.003721915895,\"xcenter\":121.547836182275,\"xmax\":121.54790353086,\"section_id\":\"0060\",\"鄉鎮\":\"文山區\",\"id\":\"AA0060\",\"query_log\":[]}}],\"address\":[{\"address\":\"1. 個案名稱: 賴氏萬壽塔 <br />\\n      2. 地址: 興隆路2段203巷底 <br />\\n      3. 種類: 墓葬 <br />\\n      4. 指定登錄理由: 1. 墓塔為1940年大稻埕賴氏興建作為祖塔之用，為地面墓室建築，墓葬區呈階梯式，前面有三壙供棺葬之用，後方有揀骨吉葬之用，墓室內兼具凶葬、吉葬，在臺灣極為少見，具稀少性及民俗文化價值。\\r\\n2. 墓塔的結構特殊，前有吉獸，中上有葫蘆，其他有南瓜和螺形等，充分代表吉祥意義。 <br />\\n      5. 最後一筆公告日期: 2008-09-15 <br />\\n      6. 最後一筆公告文號: 北市文化二字第09730190900號 <br />\\n      7. 管理單位: 臺北市政府工務局公園路燈工程管理處 <br />\\n      8. 使用單位: 無 <br />\\n      9. 建物狀態: 修復中 <br />\",\"lat\":25.0030613,\"lng\":121.5467615}],\"notFound\":[],\"type\":\"FeatureCollection\"}]",
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

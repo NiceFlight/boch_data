@@ -1,0 +1,107 @@
+{
+    "id": 3996,
+    "caseId": "20120326000051",
+    "count": 465,
+    "shareCount": 0,
+    "representImage": 6852,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32982/photo/27bd2e3c-dc3e-4c38-91f0-fdf295dfacfc_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32982/photo/27bd2e3c-dc3e-4c38-91f0-fdf295dfacfc.JPG",
+        "name": "27bd2e3c-dc3e-4c38-91f0-fdf295dfacfc"
+    },
+    "caseName": "五代南唐董源洞天山堂軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本幅無款，左上方楷書洞天山堂四字。詩塘王鐸題（1606），將作者定為五代董源。學界將本作視為一幅元人仿習董源畫風而創造出具有董源特色與元代風格的繪畫。\n此作雖為一傳稱為董源的畫作，但無論是用色、皴法、構圖等特徵，都與董源風格相符，是了解董源畫風特色的重要作品。具有特殊之時代和流派特色，具有特殊文化、藝術價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第四條第一項第三、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "0422177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000820",
+    "amount": 1,
+    "notes": "",
+    "descAge": "五代南唐",
+    "descCreator": "董源",
+    "descSize": "183.2 × 121.2 公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "此幅描繪巨壑深溝，白雲圍繞，長皴短點相間以狀寫山石，復以濃墨敷染，更顯渾雄蒼鬱，頗有憾人之勢；左側殿宇聳立，右邊曲澗迤邐，山間行旅或趕路或臨橋聽泉，景致幽深雅靜，點出世外仙境的主題。本幅無款，左上方楷書洞天山堂四字。詩塘王鐸題（1606）。將作者定為五代董源。董源，活動於十世紀上半葉，江南鍾陵（今江西南昌附近）人，善寫江南山水，影響後世山水畫發展甚鉅。現代學者考證此作成畫時間約在元代初期年間。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 151585,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-25/6fe0af82-10dd-401f-b96e-0bdb6ed0f949/公告.pdf"
+        },
+        {
+            "fileid": 151586,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-25/83e8114f-7cf1-45f5-94bb-70a8ba0ee7a4/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71455,
+            "caseId": 3996,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 75902,
+            "caseId": 3996,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

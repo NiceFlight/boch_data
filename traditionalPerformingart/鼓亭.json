@@ -1,0 +1,78 @@
+{
+    "id": 2372,
+    "caseId": "20100809000003",
+    "count": 260,
+    "shareCount": 3,
+    "representImage": 4663,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/traditional_art/370/photo/bbef4675-1276-44a1-b4f5-959a13d572a2_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/traditional_art/370/photo/bbef4675-1276-44a1-b4f5-959a13d572a2.JPG",
+        "name": "bbef4675-1276-44a1-b4f5-959a13d572a2"
+    },
+    "caseName": "鼓亭",
+    "classifyCode": "4.1",
+    "classifyName": "傳統表演藝術",
+    "assetsTypeNames": "音樂",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "4.1.1",
+    "assetsClassifyName": "傳統表演藝術",
+    "registerDate": 1281348213000,
+    "officialDocNo": "府文化三字第09931583902號",
+    "documents": [],
+    "judgeCriteria": [
+        "藝術性:具有藝術價值者",
+        "特殊性:構成傳統藝術之特殊藝能表現,其技法優秀者",
+        "地方性:傳統藝術領域有價值與地位,並具有地方色彩或流派特色顯著者"
+    ],
+    "registerReason": "一、精通鼓亭演奏，也能演奏南管、什音、車仔吹、中西樂器等，符合「傳統藝術民俗及有關文物登錄指定及廢止審查辦法」第二條第一項第一款第一目，具藝術性。\r\n二、鼓亭演奏形式特殊利於城市道路、鄉間田埂行進，符合「傳統藝術民俗及有關文物登錄指定及廢止審查辦法」第二條第一項第一款第二目，具特殊性。\r\n三、擅長之鼓亭為臺北市特有音樂演奏形式，為地方廟會重要主力，具濃厚地方色彩，符合「傳統藝術民俗及有關文物登錄指定及廢止審查辦法」第二條第一項第一款第三目，具地方性。",
+    "lawsReference": "一、「文化資產保存法」。\r\n二、「傳統藝術民俗及有關文物登錄指定及廢止審查辦法」。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongAddress": "",
+    "historyDevelopment": "「大頭金來鼓亭」約於1960年代，由陳財先生（偏名：大頭）創立，據說其也是此類「鼓亭」店的創始人。根據陳財先生的兒子陳金來表示：當年父親是看到寺廟的鐘鼓樓，引發聯想而認為可以運用「大鼓、一副鈔、一支嗩吶」來組成新類型的樂隊，因此創設了「鼓亭陣」。",
+    "preservers": [
+        {
+            "id": 4574,
+            "type": "個人",
+            "caseName": "陳金來",
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "caseArtistEntities": [],
+            "representImage": 7632,
+            "judgeCriteria": [],
+            "school": "家傳：父親陳財（外號大頭）70年前創立鼓亭",
+            "isOpenDownload": false,
+            "contactorIsOpen": false,
+            "caseAliasName": ""
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "臺北市政府文化局",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 2485,
+            "caseId": 2372,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 2485,
+            "caseId": 2372,
+            "caseStatus": true,
+            "registerDate": 1281348213000,
+            "officialDocNo": "府文化三字第09931583902號",
+            "classificationId": 1
+        }
+    ]
+}

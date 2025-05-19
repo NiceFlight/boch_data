@@ -1,0 +1,102 @@
+{
+    "id": 3852,
+    "caseId": "20121029000003",
+    "count": 435,
+    "shareCount": 0,
+    "representImage": 6660,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32838/photo/cdd3ad38-02a9-44e5-9a01-46268b616dc4_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32838/photo/cdd3ad38-02a9-44e5-9a01-46268b616dc4.JPG",
+        "name": "cdd3ad38-02a9-44e5-9a01-46268b616dc4"
+    },
+    "caseName": "五代董源江堤晚景軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1351440000000,
+    "officialDocNo": "文資局物字第10120134511號",
+    "judgeCriteria": [
+        "具有特殊之時代特色、技術及流派",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本幅學界認為是趙孟頫時代（或為趙雍之作），屬元代之大幅青綠山水鉅作，一般認為非董源真跡，但畫極佳，達高古品質。本幅先以披麻皴表現山石紋理，再藉赭石打底，並層層敷染石綠石青，帶有董源遺韻。畫上並鈐有明、清內府收藏印，上下詩塘復有張大千、溥心畬、葉公綽、龐虛齋、謝稚柳、吳湖帆等近現代名家的考證及題識。本畫品質精良，筆墨精熟，設色美麗，是研究早期青綠山水畫的重要作品。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第4條第1項第3、5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "贈畫000298",
+    "amount": 1,
+    "notes": "",
+    "descAge": "元",
+    "descSize": "179 x 116.5（公分）",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "本幅為張大千先生遺贈。畫青山高峻，綠波粼粼，一片春意盎然。前景土坡上則繪喬松聳立，江畔行旅成隊，人騎俱刻畫精微。\n畫無款印，下方張大千跋，引述元代趙孟頫記載，定此為五代董源（十世紀）作。董源是江南鍾陵（今南京）人，史稱其水墨類王維，著色如李思訓。本幅先以披麻皴表現山石紋理，再藉赭石打底，並層層敷染石綠石青，帶有董源遺韻。",
+    "pastHistorySource": 1,
+    "saveEnvironment": 1,
+    "reserveStatus": "包首：霉傷，磨損。本幅：傷損，傷補，霉傷，折裂，水漬。",
+    "documents": [
+        {
+            "fileid": 151143,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-24/84a170a9-9234-40ee-8793-4821bd601e6b/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": " 國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71311,
+            "caseId": 3852,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 75719,
+            "caseId": 3852,
+            "caseStatus": true,
+            "registerDate": 1351440000000,
+            "officialDocNo": "文資局物字第10120134511號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

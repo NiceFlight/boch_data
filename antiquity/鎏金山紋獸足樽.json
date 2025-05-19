@@ -1,0 +1,103 @@
+{
+    "id": 3921,
+    "caseId": "20121112000045",
+    "count": 85,
+    "shareCount": 0,
+    "representImage": 6729,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32907/photo/cc28f7d5-1b82-479a-9911-bf3e76ba8192_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32907/photo/cc28f7d5-1b82-479a-9911-bf3e76ba8192.JPG",
+        "name": "cc28f7d5-1b82-479a-9911-bf3e76ba8192"
+    },
+    "caseName": "鎏金山紋獸足樽",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1352649600000,
+    "officialDocNo": "文授字第10120135331號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "「樽」是漢代的盛酒器，此器器表鎏金，製作、裝飾頗講究。器蓋作漢代流行的博山式，圓筒形器身，下有三獸形足。環器飾以仙山、靈獸、羽人等圖像，具體呈現了漢代重視長生久視的主流意識。原藏於清宮養性殿的頤和軒。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第3、4、5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故銅002044",
+    "amount": 1,
+    "notes": "",
+    "descAge": "漢",
+    "descSize": "高19.6cm",
+    "descMaterial": "銅",
+    "reserveStatusDesc": "此器為圓筒形帶蓋，下有三獸形足。全器周圍裝飾層層山巒，山間佈滿奇禽異獸及羽人。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。1、多處舊刻痕。2、多處有傷補。3、鑄作遺痕（原鼓凸）。",
+    "documents": [
+        {
+            "fileid": 150852,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-20/ad40a996-9383-45ca-8773-eb64f8861bbf/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71217,
+            "caseId": 3921,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75583,
+            "caseId": 3921,
+            "caseStatus": true,
+            "registerDate": 1352649600000,
+            "officialDocNo": "文授字第10120135331號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

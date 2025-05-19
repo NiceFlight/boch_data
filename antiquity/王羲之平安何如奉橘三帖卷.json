@@ -1,0 +1,106 @@
+{
+    "id": 4022,
+    "caseId": "20120326000077",
+    "count": 407,
+    "shareCount": 0,
+    "representImage": 6903,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/33008/photo/55452d30-1f84-4a3b-9570-1ccdbf134136_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/33008/photo/55452d30-1f84-4a3b-9570-1ccdbf134136.JPG",
+        "name": "55452d30-1f84-4a3b-9570-1ccdbf134136"
+    },
+    "caseName": "王羲之平安何如奉橘三帖卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有特殊之時代特色、技術及流派",
+        "品質精良且數量特別稀少"
+    ],
+    "registerReason": "王羲之流傳作品已絕少，此作雖為唐代雙鉤本，但筆法流暢富變化，忠實保留原蹟形貌，能一窺王羲之書法之特色。具有特殊之時代特色、技術及流派，品質精良且數量特別稀少。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第四條第一項第三、五款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故書000050",
+    "amount": 1,
+    "notes": "",
+    "descAge": "東晉",
+    "descCreator": "",
+    "descSize": "24.7 x 47.3、隔水 24.7 x 8.7、隔水 24.7 x 8.4、隔水 24.7 x 9、拖尾 24.8 x 60.4、隔水 24.9 x 4.5、隔水 24.9 x 9.3、拖尾 24.9 x 60.8、隔水 24.9 x 12.9（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "王羲之，山東臨沂人，西晉末隨父南渡，曾拜右將軍，世稱王右軍。和東晉士人一樣，他嚮往道家，喜愛山水，書風富有詩意和性靈的特質，正代表了藝術家所尋求的自我解放。此三帖雖是唐代以前的雙鉤摹本，但筆劃的使轉勾挑仍可看出充滿速度和方向的變化，書法線條彷彿有了獨立的生命。它打破了隸書方正莊嚴的特質，把書法帶入能自由而豐富地表達個人性情的境地。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。",
+    "documents": [
+        {
+            "fileid": 151828,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-26/7e604f98-c7e9-4bb1-9aba-e148a90bc698/公告.pdf"
+        },
+        {
+            "fileid": 151829,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-26/2ea6bc98-d85d-4251-87e7-d48f33cbee19/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71510,
+            "caseId": 4022,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108
+        }
+    ],
+    "announces": [
+        {
+            "id": 75972,
+            "caseId": 4022,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

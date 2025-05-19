@@ -1,0 +1,105 @@
+{
+    "id": 15717,
+    "caseId": "20180601000004",
+    "count": 683,
+    "shareCount": 0,
+    "representImage": 147327,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-13/5fada753-a6c8-4dbe-b474-c0a2ab0e9c16/DSC09968-hhy_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-13/5fada753-a6c8-4dbe-b474-c0a2ab0e9c16/DSC09968-hhy.jpg",
+        "name": "DSC09968-hhy"
+    },
+    "caseName": "土庫順天宮籤詩印板",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1507279120968,
+    "officialDocNo": "府文資二字第1063809916D號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就",
+        "數量稀少者",
+        "對地方或族群知識、技術或流派發展具影響或意義"
+    ],
+    "registerReason": "1、傳統民間有抽籤來斷吉凶的習俗，本組屬「六十甲子籤詩」即證明順天宮有此信仰儀式。\n2、本組籤詩印板相傳是順天宮建廟以來已存，如此有百餘年之歷史，具有其文化、歷史意義。\n3、本組從印板木紋判斷可能屬於樟木，而印板形式亦符合於清代特點，可作為台灣其它傳世籤詩印板的對照資料。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2、3、4、5、6款",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "belongCityId": 13,
+    "belongCityName": "雲林縣",
+    "belongDistName": "土庫鎮",
+    "govInstitution": "雲林縣政府",
+    "govDeptName": "文化處",
+    "govDeptPhone": "05-5523157",
+    "govDeptAddress": "雲林縣斗六市大學路三段310段",
+    "reservationCode": "暫無",
+    "amount": 5,
+    "descAge": "西元1834年（清道光14年）  ",
+    "descSize": "長30.5公分、寬30.5公分、厚2公分",
+    "descMaterial": "木質",
+    "reserveStatusDesc": "「土庫順天宮籤詩印板」是順天宮六十甲子手工印製運簽，籤詩的木雕印刷版。\n「土庫順天宮籤詩印板」為手工製木雕印刷版，是清道光十四年重興廟宇時所做，距今有一百八十三年的歷史，因手工製作顯得特別珍貴。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "西元1834年（清道光14年），地點：土庫順天宮",
+    "saveEnvironment": 1,
+    "reserveStatus": "文物現況良好",
+    "documents": [
+        {
+            "fileid": 48288,
+            "name": "「土庫順天宮大符令印板」公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-06-01/e0e84b1e-057f-4937-8080-24937835e837/「土庫順天宮大符令印板」公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 23.6767819253369,
+    "latitude": 120.39066367048768,
+    "representImageSource": "雲林縣政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "土庫順天宮管理委員會",
+            "keepName": "土庫順天宮管理委員會",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "土庫順天宮管理委員會",
+            "keepAddressNew": "雲林縣土庫鎮順天里中正路109號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "雲林縣",
+            "keepNameDistName": "土庫鎮",
+            "keepNameAddress": "順天里中正路109號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "土庫鎮",
+            "id": 68959,
+            "caseId": 15717,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1304,
+            "address": "中正路109號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73088,
+            "caseId": 15717,
+            "caseStatus": true,
+            "registerDate": 1507279120968,
+            "officialDocNo": "府文資二字第1063809916D號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

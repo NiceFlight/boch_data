@@ -1,0 +1,192 @@
+{
+    "id": 2560,
+    "caseId": "20100618000003",
+    "count": 1215,
+    "shareCount": 0,
+    "representImage": 130688,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-08-09/b1e84ed1-169a-4262-987a-684ae39a4cac/南投縣信義鄉布農文化協會_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-08-09/b1e84ed1-169a-4262-987a-684ae39a4cac/南投縣信義鄉布農文化協會.jpg",
+        "name": "南投縣信義鄉布農文化協會"
+    },
+    "caseName": "布農族音樂pasibutbut",
+    "classifyCode": "4.1",
+    "classifyName": "傳統表演藝術",
+    "assetsTypeNames": "音樂",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "4.1.2",
+    "assetsClassifyName": "重要傳統表演藝術",
+    "registerDate": 1276849971000,
+    "officialDocNo": "會授資籌三字第09920061931號",
+    "documents": [
+        {
+            "fileid": 130675,
+            "name": "2018重新登錄文化資產類別名稱公告(原).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-08-09/17b74abf-da13-4531-b835-d833e7f2949c/2018重新登錄文化資產類別名稱公告(原).pdf"
+        },
+        {
+            "fileid": 130676,
+            "name": "2010保存者南投縣信義鄉布農文化協會公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-08-09/f7497f8f-1aa1-4cd4-a25c-8faa5384388a/2010保存者南投縣信義鄉布農文化協會公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "反映古昔常民生活形態或娛樂類型，並在藝術或藝術史上具有重要價值者",
+        "地方色彩或流派特色顯著，並在藝術或藝術史上具有價值且瀕臨失傳者",
+        "傳統技藝或藝能，其結構技法，表現特別優秀，並在全國具有領先地位者"
+    ],
+    "registerReason": "一、布農族音樂反映該族群信仰及勞動價值，其「異音唱法」歌唱方式殊具獨特性。\n二、布農族接受基督宗教影響，附著於儀式行為之音樂因動機改變轉而旨在追求藝術性之提升，傳統成套音樂有瀕臨失傳之虞。\n三、保存團體對該項藝能之表現傑出，在全國具有領先地位。",
+    "lawsReference": "文化資產保存法第91條\n傳統表演藝術登錄認定及廢止審查辦法第4條、第5條及第6條",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 12,
+    "belongCityName": "南投縣",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "0422177766",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "belongAddress": "55646南投縣信義鄉明德村新開巷60-2號",
+    "longitude": 120.85810100000003,
+    "latitude": 23.693114,
+    "historyDevelopment": "布農族音樂pasibutbut注重團體間的合群內聚，個體之音色及音高，經與同群環環相扣終至交感共鳴，圓融成一體，是一套完全屬於布農族的音樂觀及音樂系統，為舉世特出之音樂表現。在昔日傳統布農族社會中，歌謠音樂配合著歲時祭儀、生命禮俗與農獵作息進行，是超自然界、自然界與人之間的溝通媒介，也是傳統生活中不可或缺的精神要素。因外來強勢文化的影響與現代生活方式的轉變，布農族傳統的生活型態及以小米為中心的歲時祭儀與生命禮俗皆深受動搖，連帶使歌謠音樂受到相當大的衝擊，而有生疏失傳之虞。文化部為保存並傳承這項連聯合國教科文組織皆感驚訝的繁複多音性音樂，於99年指定布農族音樂pasibutbut為重要傳統藝術，保存團體為南投縣信義鄉布農文化協會。",
+    "preservers": [
+        {
+            "id": 15566,
+            "type": "團體",
+            "caseName": "南投縣信義鄉布農文化協會",
+            "cityName": "南投縣",
+            "distName": "信義鄉",
+            "caseArtistEntities": [
+                {
+                    "id": 159,
+                    "caseId": 15566,
+                    "sex": 1,
+                    "name": "王國慶",
+                    "bornYear": "1965",
+                    "closingYear": "2013",
+                    "customYear": "2010-2013",
+                    "contactCityId": 12,
+                    "contactDistId": 1211,
+                    "contactAddress": "明德村新開巷60-2號",
+                    "files": [],
+                    "videoFiles": [
+                        {
+                            "fileid": 176040,
+                            "name": "2012布農族P016.jpg",
+                            "thumbnailUrl": "https://data.boch.gov.tw/upload/representImageFile/2022-07-26/07da9690-c196-40b0-8533-ea6ba37f841c/2012布農族P016.jpg",
+                            "represent": true
+                        }
+                    ],
+                    "delete": false,
+                    "publishStatus": true,
+                    "createDate": 1658821984413,
+                    "createOrg": 25,
+                    "createId": 21984,
+                    "type": 2
+                },
+                {
+                    "id": 160,
+                    "caseId": 15566,
+                    "sex": 1,
+                    "name": "金明福",
+                    "bornYear": "1964",
+                    "closingYear": "2013",
+                    "customYear": "2010-2013",
+                    "contactCityId": 12,
+                    "contactDistId": 1211,
+                    "contactAddress": "明德村新開巷60-2號",
+                    "files": [],
+                    "videoFiles": [
+                        {
+                            "fileid": 176045,
+                            "name": "2012布農族P017.jpg",
+                            "thumbnailUrl": "https://data.boch.gov.tw/upload/representImageFile/2022-07-26/f8144352-f834-4714-aeb1-7f40ceeadb2c/2012布農族P017.jpg",
+                            "represent": true
+                        }
+                    ],
+                    "delete": false,
+                    "publishStatus": true,
+                    "createDate": 1658822199397,
+                    "createOrg": 25,
+                    "createId": 21984,
+                    "type": 2
+                },
+                {
+                    "id": 161,
+                    "caseId": 15566,
+                    "sex": 1,
+                    "name": "金文彥",
+                    "bornYear": "1962",
+                    "closingYear": "2013",
+                    "customYear": "2010-2013",
+                    "contactCityId": 12,
+                    "contactDistId": 1211,
+                    "contactAddress": "明德村新開巷60-2號",
+                    "files": [],
+                    "videoFiles": [
+                        {
+                            "fileid": 176061,
+                            "name": "2015布農族P005.jpg",
+                            "thumbnailUrl": "https://data.boch.gov.tw/upload/representImageFile/2022-07-26/615b91e6-ee20-4478-931c-d09904aea1cb/2015布農族P005.jpg",
+                            "represent": true
+                        }
+                    ],
+                    "delete": false,
+                    "publishStatus": true,
+                    "createDate": 1658822773356,
+                    "createOrg": 25,
+                    "createId": 21984,
+                    "type": 2
+                }
+            ],
+            "representImage": 130689,
+            "judgeCriteria": [
+                "熟知並能正確體現該登錄項目之知識、技藝與文化表現形式，並具代表性",
+                "具該登錄項目之傳習能力與意願",
+                "在文化脈絡下為適當者"
+            ],
+            "registerReason": "一、布農族音樂反映該族群信仰及勞動價值，其「異音唱法」歌唱方式殊具獨特性。\n二、布農族接受基督宗教影響，附著於儀式行為之音樂因動機改變轉而旨在追求藝術性之提升，傳統成套音樂有瀕臨失傳之虞。\n三、保存團體對該項藝能之表現傑出，在全國具有領先地位。",
+            "lawsReference": "傳統表演藝術登錄認定及廢止審查辦法第4條、第5條及第6條",
+            "isOpenDownload": false,
+            "representImageSource": "文化部文化資產局",
+            "contactorIsOpen": false
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "文化部文化資產局",
+    "addresses": [
+        {
+            "cityName": "南投縣",
+            "distName": "信義鄉",
+            "id": 47976,
+            "caseId": 2560,
+            "caseStatus": true,
+            "cityId": 12,
+            "distId": 1211,
+            "address": "55646南投縣信義鄉明德村新開巷60-2號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 50092,
+            "caseId": 2560,
+            "caseStatus": true,
+            "registerDate": 1276849971000,
+            "officialDocNo": "會授資籌三字第09920061931號",
+            "classificationId": 1,
+            "note": "登錄布農族音樂pasibutbut暨認定保存者南投縣信義鄉布農文化協會"
+        },
+        {
+            "id": 50093,
+            "caseId": 2560,
+            "caseStatus": true,
+            "registerDate": 1521043200000,
+            "officialDocNo": "文授資局傳字第10730026843號",
+            "classificationId": 2,
+            "note": "重新登錄文化資產類別名稱"
+        }
+    ]
+}

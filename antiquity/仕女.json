@@ -1,0 +1,101 @@
+{
+    "id": 17362,
+    "caseId": "20200219000011",
+    "count": 142,
+    "shareCount": 0,
+    "representImage": 66158,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-02-15/2e21239c-f80b-42ae-bd8b-25ff35029bae/08 (1)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-02-15/2e21239c-f80b-42ae-bd8b-25ff35029bae/08 (1).jpg",
+        "name": "08 (1)"
+    },
+    "caseName": "仕女",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1581305466580,
+    "officialDocNo": "中華民國109年2月10日北市獻編字第1093001230號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "1.\t反映19世紀末至20世紀初日本工藝之時代特色，能顯示昭和時代衣服典型，日本仕女寫真。\n2.\t日本人物雕刻寫真，衣摺處顯露其工藝，寫實生動，技藝高超、精深，具藝術造詣。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第3、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "10846臺北市萬華區中華路1段174之1號",
+    "reservationCode": "典藏08",
+    "amount": 1,
+    "descAge": "日本明治時期",
+    "descSize": "高24公分",
+    "descMaterial": "象牙",
+    "reserveStatusDesc": "以古代美女為創作主題，身材修長的女子面容秀美，雙頰豐潤，笑眼盈盈，小嘴微抿，頭盤髮髻，髻上有精美髮釵。身著傳統和服，和服的數層的內襯，而襦絆、腰封、腰繩等等配件細節皆清晰呈現，腰封上淺浮雕龍鳳紋，腰繩上刻有巧致小花，和服袖口及下擺亦淺浮雕花石紋，嶄露高等和服的精美與貴氣。女子右手緊抓袖子，左手持菊花自然下垂。和服下擺微微露出穿著足袋與草履的雙腳，底部刻有「道明」款。\n\n和服融合優雅氣度與深層內斂之本質，每套優美的和服，都經精心裁製，講究穿著時的每個細節及步驟。繁複的設計使和服充滿濃郁的日本風味，獨具魅力，從古至今傳承著日本珍貴的傳統。本件作品不僅只是單純的表現出日本古代美女造型，更能從藝術家細膩的雕琢巧思中，看見服飾之美與文化特色，讓人沐浴在濃厚的日本文化風潮中。",
+    "pastHistorySource": 1,
+    "saveEnvironment": 1,
+    "reserveStatus": "保存良好",
+    "documents": [
+        {
+            "fileid": 66156,
+            "name": "臺北市一般古物指定公告表_仕女.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-02-15/dd1a9642-7492-4525-af0a-2f170e80485f/臺北市一般古物指定公告表_仕女.pdf"
+        },
+        {
+            "fileid": 66157,
+            "name": "臺北市立文獻館公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-02-15/07869519-a5cf-45ea-b78e-39a832e50595/臺北市立文獻館公告.pdf"
+        }
+    ],
+    "keepNames": [
+        {
+            "keepNameIdStr": "郭○穎",
+            "keepName": "郭芝穎",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "郭○穎",
+            "keepAddressNew": "台北市中正區重慶南路二段15號7樓",
+            "saveSpaceOther": "庫房",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "大安區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 7002,
+            "caseId": 17362,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 7002,
+            "caseId": 17362,
+            "caseStatus": true,
+            "registerDate": 1581305466580,
+            "officialDocNo": "中華民國109年2月10日北市獻編字第1093001230號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,104 @@
+{
+    "id": 4207,
+    "caseId": "20080402000008",
+    "count": 401,
+    "shareCount": 0,
+    "representImage": 166563,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-05-31/dcf18e35-f7a4-4e7f-b90c-67a17e65d6cd/666_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-05-31/dcf18e35-f7a4-4e7f-b90c-67a17e65d6cd/666.jpg",
+        "name": "666"
+    },
+    "caseName": "廣地南部永元五年至七年官兵釜磑月言及四時簿",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-公文書",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1207065600000,
+    "officialDocNo": "文資籌二字第0972102147號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "具有特殊之時代特色、技術及流派",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "「廣地南部永元五年至七年官兵釜磑月言及四時簿」是迄今所有出土漢簡中，木簡、墨跡及編繩保存都最完整的一份漢代簡冊。簡冊中除兩支空白簡，其餘簡上是五份廣地南部按月及四時上報部內破胡燧、澗上燧釜、磑、弩、箭等裝備數量及情況的報告書。後人可由這份簡冊瞭解邊塞有那些裝備及如何檢查裝備。本件「廣地南部永元五年至七年官兵釜磑月言及四時簿」具有特殊歷史、文化價值，且品質精良，數量特別稀少，符合「古物分級登錄指定及廢止審查辦法」第四條第一、三、五、六款，指定為國寶。",
+    "lawsReference": "文化資產保存法第六十六條、古物分級登錄指定及廢止審查辦法",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "南港區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "H00185",
+    "amount": 1,
+    "notes": "相關研究資料：\r\n史語所展品圖錄製作小組編輯製作《來自碧落與黃泉：中央研究院歷史語言研究所歷史文物陳列館展品圖錄》，臺北市：中研院史語所，2002年。",
+    "descAge": "漢",
+    "descCreator": "不詳",
+    "descSize": "長23.1公分，寛91.6公分",
+    "descMaterial": "木",
+    "reserveStatusDesc": "「廣地南部永元五年至七年官兵釜磑月言及四時簿」是迄今所有出土漢簡中，木簡、墨跡及編繩保存都最完整的一份漢代簡冊。簡冊中除兩支空白簡，其餘簡上是五份廣地南部按月及四時上報部內破胡燧、澗上燧釜、磑、弩、箭等裝備數量及情況的報告書。後人可由這份簡冊瞭解邊塞有那些裝備及如何檢查裝備。",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "1930；查科爾帖A27",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 166562,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-31/ebe2252b-991a-4e37-82e5-44a881955cda/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 25.03967779634445,
+    "latitude": 121.61583238437821,
+    "representImageSource": "中央研究院歷史語言研究所",
+    "keepNames": [
+        {
+            "keepNameIdStr": "中央研究院歷史語言研究所",
+            "keepName": "中央研究院歷史語言研究所",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "中央研究院歷史語言研究所",
+            "keepAddressNew": "115台北市南港區研究院路二段130號",
+            "saveSpaceIdStr": "研究設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "南港區",
+            "keepNameAddress": "研究院路二段130號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "南港區",
+            "id": 80836,
+            "caseId": 4207,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 111
+        }
+    ],
+    "announces": [
+        {
+            "id": 86824,
+            "caseId": 4207,
+            "caseStatus": true,
+            "registerDate": 1207065600000,
+            "officialDocNo": "文資籌二字第0972102147號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

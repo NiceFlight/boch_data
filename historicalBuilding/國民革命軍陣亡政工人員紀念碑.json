@@ -1,0 +1,105 @@
+{
+    "id": 16033,
+    "caseId": "20180802000002",
+    "count": 3022,
+    "shareCount": 2,
+    "representImage": 185408,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/f6e800d8-7a26-43df-88a3-c0d31fd6049f/代表圖像_國民革命軍陣亡政工人員紀念碑_20220804_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/f6e800d8-7a26-43df-88a3-c0d31fd6049f/代表圖像_國民革命軍陣亡政工人員紀念碑_20220804.jpg",
+        "name": "代表圖像_國民革命軍陣亡政工人員紀念碑_20220804"
+    },
+    "caseName": "國民革命軍陣亡政工人員紀念碑",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "建物建於民國43年為紀念政治作戰學校學生，於民國42年分發部隊實習，在東山島突擊戰役壯烈成仁。",
+    "assetsTypeNames": "碑碣",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 49383,
+            "name": "1070713公告-國民革命軍陣亡政工人員紀念碑及復興武德精神堡壘為歷史建築.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-08-02/252c3799-7eec-4db2-adde-f2d64032372d/1070713公告-國民革命軍陣亡政工人員紀念碑及復興武德精神堡壘為歷史建築.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者"
+    ],
+    "registerReason": "1.建於民國43年，為紀念政治作戰學校學生，於民國42年分發部隊實習，在東山島突擊戰役壯烈成仁。本紀念碑彰顯政治作戰學校訓練精神，以及紀念年輕學生為國犠牲之情懷，具見證現代史價值。\n2.紀念碑主體保有原有設計形式，正面碑名為于右任先生所書，另三面為蔣中正先生所題「民族正氣」，碑體簡單雄偉，比例良好。\n",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 49385,
+            "name": "地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2018-08-02/537bd547-6cd8-493c-80d1-4ab347718ca2/地籍圖.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "北投區秀山段二小段686（部分）、686-1（部分）、856（部分）、855（部分）、862（部分）、863（部分）、685（部分）地號等7筆土地",
+    "bulkTransfer": 1,
+    "isOpenVisit": true,
+    "isCharge": false,
+    "longitude": 121.4915912,
+    "latitude": 25.1395051,
+    "representImageSource": "臺北市文化局",
+    "landScope": "北投區秀山段二小段686（部分）、686-1（部分）、856（部分）、855（部分）、862（部分）、863（部分）、685（部分）地號等7筆土地",
+    "selfCoverage": "紀念碑本體、二座亭子及周邊綠地",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "id": 92639,
+            "caseId": 16033,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "address": "中央北路二段70號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "landNoName": "秀山段二小段",
+            "cityLandUseTypeName": "行政區",
+            "id": 113182,
+            "caseId": 16033,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "landNoId": 676,
+            "landSerialNo": "686",
+            "landownership": 1,
+            "cityLandUseTypeId": 4,
+            "coverageId": 1,
+            "area": "1,770.57平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 99933,
+            "caseId": 16033,
+            "caseStatus": true,
+            "registerDate": 1531411200000,
+            "officialDocNo": "北市文化文資字第10760156541號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

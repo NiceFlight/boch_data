@@ -1,0 +1,113 @@
+{
+    "id": 1053,
+    "caseId": "20070327000006",
+    "count": 2925,
+    "shareCount": 3,
+    "representImage": 169386,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/ada4a10d-abd3-46d5-8718-99cecb416e82/代表圖像_國立臺灣大學日式宿舍－新生南路1段97巷5號_20220617_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/ada4a10d-abd3-46d5-8718-99cecb416e82/代表圖像_國立臺灣大學日式宿舍－新生南路1段97巷5號_20220617.jpeg",
+        "name": "代表圖像_國立臺灣大學日式宿舍－新生南路1段97巷5號_20220617"
+    },
+    "caseName": "國立臺灣大學日式宿舍－新生南路1段97巷5號",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "日據時期創建為一完整保存日式小型住宅。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 167455,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/288b0fac-2bf7-4716-9fd9-15696ffb7f41/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1.建物內部保存良好，原物多，結構尚完整。格局較明朗，入口玄關立柱，具有近代建築特色，內部隔間拉門良好，窗櫺皆為檜木，品質極優良。\r\n2.前後院仍存，增建物不多，為一完整保存日式小型住宅。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、2、3、4款評定基準",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 167456,
+            "name": "e81c42dc-b077-4091-9500-a5322546fb9b.png",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/2da992ee-d681-4a25-b867-010adab7f648/e81c42dc-b077-4091-9500-a5322546fb9b.png"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "locationLandNo": "臺北市大安區懷生段3小段0444-0000地號土地",
+    "buildingFeatures": "",
+    "inHouseFeatures": "內部隔間拉門良好，窗櫺皆為檜木，品質極優良。",
+    "buildingUsage": "",
+    "buildingActualState": "基地完整，屋況良好。",
+    "buildingKeyMaintainItem": "全棟建築物及庭院。",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.5342761,
+    "latitude": 25.0412814,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市大安區懷生段3小段0444-0000地號土地",
+    "selfCoverage": "117.44平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 88663,
+            "caseId": 1053,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "新生南路1段97巷5號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "懷生段三小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 105724,
+            "caseId": 1053,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 757,
+            "landSerialNo": "0444-0000",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "493平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 95641,
+            "caseId": 1053,
+            "caseStatus": true,
+            "registerDate": 1174924800000,
+            "officialDocNo": "府文化二字第09630231800號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

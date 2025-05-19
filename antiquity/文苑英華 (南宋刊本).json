@@ -1,0 +1,107 @@
+{
+    "id": 4247,
+    "caseId": "20140915000025",
+    "count": 294,
+    "shareCount": 0,
+    "representImage": 7169,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/5868/photo/文苑英華 (南宋刊本)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/5868/photo/文苑英華 (南宋刊本).jpg",
+        "name": "文苑英華 (南宋刊本)"
+    },
+    "caseName": "文苑英華 (南宋刊本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1410710400000,
+    "officialDocNo": "10320112111",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要之時代特色、技術及流派",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本書為南宋嘉泰二年至四年(1202－1204)周必大刊本。宋印宋裝，黃綾書衣、蝴蝶裝，珍稀罕見。\r\n《文苑英華》原有千卷，現海內外僅存150卷15冊，均為同部書所散出。本書一冊十卷（卷271- 280），書末傅增湘跋云：「宋刊《文苑英華》自二百七十一卷起，至二百八十卷止，凡十卷，共一百葉。取隆慶刻本對校，凡補正一千一百八十一字」，有其校勘價值。具有重要歷史、文化及學術價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第1、3、\r\n5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "南港區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "185518",
+    "keepNameId": 15,
+    "keepName": "博斯年圖書館",
+    "keepNameNew": 15,
+    "keepAddressNew": "115台北市南港區研究院路二段130號",
+    "saveSpaceId": 11,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "南宋",
+    "descCreator": "（宋）李昉等編纂",
+    "descSize": "32.5x22.2公分；版框21.9×15.3公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "存一冊十卷（卷271-280）。封面簽題：「文苑英華二百七十一之二百八十」。\n每半葉十三行二十二字；左右雙邊，花口（記字數），單魚尾，魚尾下刻書名、卷第、葉次及刻工。每卷之末鐫：「登仕郎胡柯、鄉貢進士彭叔夏校正」，封底墨戳：「景定元年十月廿五日裝背臣王潤照管訖」。\n書末民國二十八年傅增湘手跋。鈐有宋御府藏書章「內殿文璽」、「御府圖書」、「緝熙殿書籍印」；明晉藩「晉府書畫之印」、「敬德堂章」、「子子孫孫永寶用」；史語所收藏珍本圖書記等印。",
+    "pastHistorySource": 2,
+    "saveEnvironment": 1,
+    "reserveStatus": "蝴蝶裝。部分書葉有黴斑、蛀洞。",
+    "documents": [
+        {
+            "fileid": 7170,
+            "name": "2f6ff93d-7fa8-49f5-8c20-678ea43b0bb0.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44512/file/2f6ff93d-7fa8-49f5-8c20-678ea43b0bb0.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "中央研究院傅斯年圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "中央研究院歷史語言研究所-傅斯年圖書館",
+            "keepName": "博斯年圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "中央研究院歷史語言研究所-傅斯年圖書館",
+            "keepAddressNew": "115台北市南港區研究院路二段130號",
+            "saveSpaceIdStr": "研究設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "南港區",
+            "keepNameAddress": "研究院路二段130號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "南港區",
+            "id": 4389,
+            "caseId": 4247,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 111
+        }
+    ],
+    "announces": [
+        {
+            "id": 4389,
+            "caseId": 4247,
+            "caseStatus": true,
+            "registerDate": 1410710400000,
+            "officialDocNo": "10320112111",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

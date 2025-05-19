@@ -1,0 +1,101 @@
+{
+    "id": 17374,
+    "caseId": "20200219000020",
+    "count": 174,
+    "shareCount": 0,
+    "representImage": 66201,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-02-16/469e2883-949c-417e-b302-3a23589dc3cf/17 (1)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-02-16/469e2883-949c-417e-b302-3a23589dc3cf/17 (1).jpg",
+        "name": "17 (1)"
+    },
+    "caseName": "祖孫情深置物",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1581318759932,
+    "officialDocNo": "中華民國109年2月10日北市獻編字第1093001230號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "1.\t呈現親性的人文藝術的特色，反映19世紀後期至20世紀初日本生活景況寫實及工藝之時代特色。\n2.\t造型生動自然，人物栩栩如生表現生活情境，藝術水準及價值高，具藝術造詣。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第3、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "10846臺北市萬華區中華路1段174之1號",
+    "reservationCode": "典藏17",
+    "amount": 1,
+    "descAge": "日本明治時期",
+    "descSize": "高12公分",
+    "descMaterial": "象牙",
+    "reserveStatusDesc": "本件作品描繪慈祥的祖母餵食可愛孫子，以親人之間的溫馨情懷為主題。祖母笑容慈祥，梳工整髮髻，身著傳統和服跪坐，左手掀開鍋蓋，右手持筷夾取食物餵食小孫子。孫子面容圓潤，雙頰飽滿，呈跪坐姿，一手持筷，一手持飯碗，張開小嘴待祖母餵食。祖孫之間有一火盆，裡面燃燒木炭，上方架設鍋子，鍋內燉煮各式食材。整體雕琢細緻，人物造型比例準確，衣著紋理、摺痕刻畫自然，火盆、食物等質感表現清晰，顯露藝術家高深的雕刻功力。\n此一畫面與日本明治時期推崇的肉食文化相關，明治時期積極吸收西洋文化，政府鼓吹肉食，而壽喜燒也逐漸被推廣，漸漸演化為日本獨特的飲食文化。本件作品不僅呈現出當時代的服飾文化，還可看見飲食、食具等特色，更重要的是祖孫之間那樸實而溫暖的親情流露，備感溫馨。",
+    "pastHistorySource": 1,
+    "saveEnvironment": 1,
+    "reserveStatus": "保存良好",
+    "documents": [
+        {
+            "fileid": 66199,
+            "name": "臺北市一般古物指定公告表_祖孫情深置物.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-02-16/c7e9d70d-b744-43e9-b07c-9eec5183973a/臺北市一般古物指定公告表_祖孫情深置物.pdf"
+        },
+        {
+            "fileid": 66200,
+            "name": "臺北市立文獻館公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-02-16/d65a271c-9dcc-4c95-b9df-5fd92f4dfa68/臺北市立文獻館公告.pdf"
+        }
+    ],
+    "keepNames": [
+        {
+            "keepNameIdStr": "郭○穎",
+            "keepName": "郭芝穎",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "郭○穎",
+            "keepAddressNew": "台北市中正區重慶南路二段15號7樓",
+            "saveSpaceOther": "庫房",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "大安區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 7015,
+            "caseId": 17374,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 7015,
+            "caseId": 17374,
+            "caseStatus": true,
+            "registerDate": 1581318759932,
+            "officialDocNo": "中華民國109年2月10日北市獻編字第1093001230號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

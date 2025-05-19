@@ -1,0 +1,93 @@
+{
+    "id": 3264,
+    "caseId": "20160112000013",
+    "count": 538,
+    "shareCount": 0,
+    "representImage": 5722,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43372/photo/0d8d5405-049c-4054-9fb7-ea5b7379dd85_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43372/photo/0d8d5405-049c-4054-9fb7-ea5b7379dd85.jpg",
+        "name": "0d8d5405-049c-4054-9fb7-ea5b7379dd85"
+    },
+    "caseName": "元保宮-「閤族蒙庥」匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1452528000000,
+    "officialDocNo": "府授文資遺字第10500045405號",
+    "judgeCriteria": [
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.\t匾額以拼接而成，下款「前護理海壇金門等處地方總鎮臺協水師鹿港游擊賴榮敬獻」，得知當時清代對臺灣的治理狀況、軍事配置，以及海軍職銜等，具有歷史及軍事文化價值。\r\n2.\t形制保有清末匾額製作特色，且保留原來式樣之完整性，其用料材質亦符合清末用材。",
+    "lawsReference": "符合「古物分級登錄指定及廢止審查辦法」第2條第1項第2、3、5、6款評定基準。",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "北區",
+    "reservationCode": "",
+    "keepNameId": 17,
+    "keepName": "元保宮",
+    "keepNameNew": 17,
+    "keepAddressNew": "臺中市北區梅川西路三段109號",
+    "amount": 1,
+    "notes": "",
+    "reserveStatusDesc": "",
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 5723,
+            "name": "16e32666-9fc2-463d-8f63-00c99d871b8f.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44601/file/16e32666-9fc2-463d-8f63-00c99d871b8f.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "元保宮",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺中市北區梅川西路三段109號",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "北區",
+            "id": 3405,
+            "caseId": 3264,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1005
+        }
+    ],
+    "announces": [
+        {
+            "id": 3405,
+            "caseId": 3264,
+            "caseStatus": true,
+            "registerDate": 1452528000000,
+            "officialDocNo": "府授文資遺字第10500045405號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

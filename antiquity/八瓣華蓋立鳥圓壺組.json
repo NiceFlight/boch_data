@@ -1,0 +1,101 @@
+{
+    "id": 4213,
+    "caseId": "20090508000017",
+    "count": 372,
+    "shareCount": 0,
+    "representImage": 7133,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36630/photo/a9b4fd40-eb09-4cc4-b9dd-7c8ff33ef1ee_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36630/photo/a9b4fd40-eb09-4cc4-b9dd-7c8ff33ef1ee.jpg",
+        "name": "a9b4fd40-eb09-4cc4-b9dd-7c8ff33ef1ee"
+    },
+    "caseName": "八瓣華蓋立鳥圓壺組",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1241712000000,
+    "officialDocNo": "會授資籌二字第0982105246號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "「八瓣華蓋立鳥圓壺」出土一對，是戰國時期出土遺物中極為精美、別緻的銅壺，立鳥、蓮瓣均以鏤空鑄成，立鳥的雙翅可自身體卸下，整隻立鳥也可以自蓋頂取下，設計極富巧思，器壁滿布墊片，說明當時的青銅工藝技術，具有重要歷史、文化、科學、藝術價值。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第4條第1項第1、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "南港區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "R018571、R019024",
+    "amount": 2,
+    "notes": "",
+    "descAge": "東周-戰國",
+    "descCreator": "",
+    "descSize": "高68公分",
+    "descMaterial": "青銅",
+    "reserveStatusDesc": "壺形圓，長頸鼓腹，低圈足，兩耳獸面銜環，緊接器壁，鑄生。\n蓋作蓮華式，環周八瓣外侈，中口洞室。洞空處另置以圓形銅板，板心獨立一鳥，貓耳，鉤喙，昂首張翅作欲鳴將飛狀。\n尾首、鳥身與翅，皆翻轉鏤空，鑄為極細紋飾，鳥的雙爪籬在圓板上，微微凸起，頗見技巧。\n壺體以帶紋界作八層，每層皆作蟠螭紋，填以十字花瓣紋。圖案係用同一模型連續印制，邊多錯壓。圈足上圖案微異，亦印制。\n色銀白，被翠藍斑，壁薄而質勻，熔煉精純。壁留四範接線，底留雙勾十字形紋。",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": " 1930年代；山彪鎮墓001 ",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 53966,
+            "name": "20090508公告.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-01-09/43ae8b86-8a51-4f0a-866d-d57220e77a45/20090508公告.jpg"
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "中研院歷史言語研究所",
+    "keepNames": [
+        {
+            "keepNameIdStr": "中央研究院歷史語言研究所",
+            "keepName": "中央研究院歷史語言研究所",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "中央研究院歷史語言研究所",
+            "keepAddressNew": "115台北市南港區研究院路二段130號",
+            "saveSpaceIdStr": "研究設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "南港區",
+            "keepNameAddress": "研究院路二段130號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "南港區",
+            "id": 116440,
+            "caseId": 4213,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 111
+        }
+    ],
+    "announces": [
+        {
+            "id": 127141,
+            "caseId": 4213,
+            "caseStatus": true,
+            "registerDate": 1241712000000,
+            "officialDocNo": "會授資籌二字第0982105246號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

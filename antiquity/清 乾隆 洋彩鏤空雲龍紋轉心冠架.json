@@ -1,0 +1,94 @@
+{
+    "id": 22985,
+    "caseId": "20240913000003",
+    "count": 22,
+    "shareCount": 0,
+    "representImage": 262184,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-09-13/254ca8db-40f6-4c30-b6b5-8d8b0cba3bf2/PK1B016922N000000000PAC_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-09-13/254ca8db-40f6-4c30-b6b5-8d8b0cba3bf2/PK1B016922N000000000PAC.jpg",
+        "name": "PK1B016922N000000000PAC"
+    },
+    "caseName": "清 乾隆 洋彩鏤空雲龍紋轉心冠架",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "此件雲龍紋轉心冠架以高足盤托一香薰，鏤空的球形香薰裝飾氣勢磅礡的紅、黑雙龍戲珠紋。冠架無論是主體的鏤雕，中段盤柱的金彩活環，抑或各個細節的剔刻花技術皆精湛細緻。尤其能旋轉的球形香薰製作工藝需精心設計，陰乾的坯體必須經過多次琢磨、套合，上彩後更需避免燒造時各個部位的相互沾黏，各方面皆考驗匠人的工藝技術，成器不易。\n根據乾隆九年(1744)的《活計檔》記載，當時共製作四件類似的轉心冠架。目前已知傳世的四件皆收藏在國立故宮博物院，其中三件為金、黑雙龍戲珠紋，僅本件為紅、黑雙龍戲珠紋設計。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第4、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故瓷016922",
+    "amount": 1,
+    "descAge": "清乾隆",
+    "descSize": "高31.3 底徑17.0",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "此件帽架的主體類似一高足盤托著鏤空的球體。整器由香薰、盤形托柱、膽形罩子、倒扣盤型底座及活環五個部分組成。香薰裝飾紅、黑雙龍雲間戲珠，氣勢威嚴；圓頂的蓋子鏤雕蝙蝠及福字。香薰帶托盤，其內心與盤柱連接處形成一個有空隙的卡榫，使香薰得以旋轉。盤柱下段隱藏在膽形鏤雕的罩子內，裝飾紅色琺瑯彩錦地轉枝洋蓮及蓮瓣紋；膽形罩子鏤雕蝴蝶菊花紋，能環繞盤柱旋轉。罩子上套兩個金色活環。寬底盤支撐整個香薰，紅、綠琺瑯彩地剔刻各色纏枝花卉。整器多處點綴色彩斑斕的小花及蕉葉紋，並利用金彩增添華麗氣質。器底施湖綠釉，有「大清乾隆年製」青花篆款。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": " ",
+    "documents": [
+        {
+            "fileid": 262183,
+            "name": "11330087931號公告用印後PDF.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-09-13/e27486e5-90fd-4426-96b8-134bf9eafa3b/11330087931號公告用印後PDF.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 135913,
+            "caseId": 22985,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 148391,
+            "caseId": 22985,
+            "caseStatus": true,
+            "registerDate": 1725344805380,
+            "officialDocNo": "文授資局物字第11330087931號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

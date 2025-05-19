@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "金門縣烈嶼鄉青岐段567地號"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

@@ -1,0 +1,97 @@
+{
+    "id": 19612,
+    "caseId": "20210719000003",
+    "count": 62,
+    "shareCount": 0,
+    "representImage": 125132,
+    "representImageInfo": {
+        "ext": "bmp",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-19/f7689e4d-f72b-4025-8d65-41c15215f695/圖片3_c.bmp"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-19/f7689e4d-f72b-4025-8d65-41c15215f695/圖片3.bmp",
+        "name": "圖片3"
+    },
+    "caseName": "清乾隆琺瑯彩錦上添花藍地茶鍾(故瓷17017)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "數量特別稀少或具完整性保存意義者",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此器呈撇口，弧壁，矮圈足，內壁繪折枝茶花，外壁藍地上剔劃繡花錦地紋，繪洋蓮束葉紋、錐花卷草紋。胎體潔白輕薄，琺瑯彩細緻精巧。器底有「乾隆年製」藍料楷書款。兩器搭配錦地形成乾隆朝流行的「錦上添花」紋樣，筆觸細膩，色彩鮮艷，展現出乾隆官窯做工考究的風格。乾隆皇帝曾經連續降旨指定燒造琺瑯彩瓷錦上添花作品，而進一步反映出深受帝王喜愛，成為官樣的經過。另外，此件茶鍾可能為《活計檔》所記乾隆六年十一月配匣入乾清宮的「磁胎琺瑯藍錦地茶鍾」。據目前所知，該類作品全世界僅有四件，悉數藏於本院，可知數量珍稀，益顯珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "0422177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故瓷017017",
+    "amount": 1,
+    "descAge": " 清　乾隆",
+    "descSize": "高5.3公分 口徑10.1公分",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "此器呈撇口，弧壁，矮圈足。器內白釉上繪琺瑯彩折枝茶花，外壁藍地上剔劃繡花錦地紋，餘隙彩繪四組洋蓮束葉紋，底邊一周錐花卷草紋。藍釉地上滿佈細碎開片紋，並帶氧化斑紋及棕眼。胎質細膩潔白，體薄透光，口沿、足邊留白一道。器底有「乾隆年製」藍料楷書款。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "釉彩多處脫落刮傷。",
+    "documents": [
+        {
+            "fileid": 142778,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-04/b4cc76d2-3be4-40e9-b0c4-daca4a5e3c7f/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.5484322510235,
+    "latitude": 121.5484322510235,
+    "representImageSource": "  國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "台北市士林區至善路2段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 66422,
+            "caseId": 19612,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 70611,
+            "caseId": 19612,
+            "caseStatus": true,
+            "registerDate": 1624429598366,
+            "officialDocNo": "文授資局物字第11030062561號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

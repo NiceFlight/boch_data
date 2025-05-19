@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "桃園市大溪區和平段784(部分)地號"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

@@ -1,0 +1,157 @@
+{
+    "id": 922,
+    "caseId": "20071017000001",
+    "count": 9717,
+    "shareCount": 44,
+    "representImage": 200695,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/3ff2d554-9e92-4ad7-9cf0-fa480014f27d/代表圖像_國父史蹟館_20220726_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/3ff2d554-9e92-4ad7-9cf0-fa480014f27d/代表圖像_國父史蹟館_20220726.jpeg",
+        "name": "代表圖像_國父史蹟館_20220726"
+    },
+    "caseName": "國父史蹟館",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本建物為日據時期日人經營之「梅屋敷」旅館之接應室，為當時代重要旅館建築。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "(具歷史建築保存價值)",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 167154,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-06-08/034b6288-c3f5-4b6e-b224-888b03cde615/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1.本建物為日據時期日人經營之「梅屋敷」旅館之接應室，為當時代重要旅館建築。\r\n2.孫中山先生在奔走革命過程中曾住過此旅館，深富歷史人物事件價值，值得保存。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、2、3、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 116835,
+            "name": "位置圖、地及地形套繪圖、地籍圖與都市計畫圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/49162971-7519-4e93-b2b4-3371ec78022f/位置圖、地及地形套繪圖、地籍圖與都市計畫圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "公園用地（公共設施用地）",
+    "buildingFeatures": "現況良好，為木造日式建築。",
+    "inHouseFeatures": "",
+    "buildingUsage": "做為國父來臺奔走相關文物展示區。",
+    "buildingActualState": "位於逸仙公園內，現作為國父史蹟紀念館開放參觀。",
+    "buildingKeyMaintainItem": "目前由公園處保存維護及展示",
+    "bulkTransfer": 1,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.52015988311155,
+    "latitude": 25.047689202919123,
+    "representImageSource": "臺北市文化局",
+    "landScope": "中正區公園段一小段1地號",
+    "selfCoverage": "實際保存面積需以保存範圍實測數據為準",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 112183,
+            "caseId": 922,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "中山北路1段46號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "公園段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 151244,
+            "caseId": 922,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 143,
+            "landSerialNo": "1",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "",
+            "cityLandUseTypeOther": "公園用地（公共設施用地）",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "公園段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 151245,
+            "caseId": 922,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 143,
+            "landSerialNo": "2",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "",
+            "cityLandUseTypeOther": "公園用地（公共設施用地）",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "公園段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 151246,
+            "caseId": 922,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 143,
+            "landSerialNo": "2-1",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "",
+            "cityLandUseTypeOther": "公園用地（公共設施用地）",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 121655,
+            "caseId": 922,
+            "caseStatus": true,
+            "registerDate": 1192550400000,
+            "officialDocNo": "北市文化二字第09630338400號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

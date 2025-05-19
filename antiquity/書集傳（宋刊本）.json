@@ -1,0 +1,105 @@
+{
+    "id": 3352,
+    "caseId": "20140425000008",
+    "count": 52,
+    "shareCount": 0,
+    "representImage": 5829,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/6990/photo/書集傳（宋刊本）_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/6990/photo/書集傳（宋刊本）.jpg",
+        "name": "書集傳（宋刊本）"
+    },
+    "caseName": "書集傳（宋刊本）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1398355200000,
+    "officialDocNo": "10320044271",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "南宋刊八行本。\r\n撰者蔡沈（1167-1230），字仲默，號九峰，建陽人，專意為學，不求仕進，師事朱熹於白鹿洞書院，學者稱九峰先生。\r\n蔡沈《書集傳》可謂朱子學派《尚書》方面代表作，以「集傳」為名，為集諸家之說的方式作注。原書全六卷，國家圖書館館藏此書存一卷〈書傳問答拾遺〉，為寫刻體大字本，字大清明。惟書中頗有殘破處，嘗經修裱，殘破之文字則仍之，以維原貌。\r\n宋版古籍，罕見稀有，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第1項第5、6款指定基準。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號00171",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋代",
+    "descCreator": "蔡沈",
+    "descSize": "半葉8行，版匡25x17.5公分。存一卷（存書傳問答拾遺、原書序及後序）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "原書全六卷，國家圖書館館藏此書存一卷〈書傳問答拾遺〉，為寫刻體大字本，字大清明。惟書中頗有殘破處，嘗經修裱，殘破之文字則仍之，以維原貌。\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "無蟲蛀，經修裱，保存狀況良好。",
+    "documents": [
+        {
+            "fileid": 5830,
+            "name": "05cce8b2-6197-4503-bede-4054f9c4638f.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43968/file/05cce8b2-6197-4503-bede-4054f9c4638f.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3494,
+            "caseId": 3352,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3494,
+            "caseId": 3352,
+            "caseStatus": true,
+            "registerDate": 1398355200000,
+            "officialDocNo": "10320044271",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

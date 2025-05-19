@@ -1,0 +1,99 @@
+{
+    "id": 3672,
+    "caseId": "20091123000007",
+    "count": 238,
+    "shareCount": 0,
+    "representImage": 6413,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32620/photo/2acef8ca-128c-43f8-bdbd-9a584472bb27_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32620/photo/2acef8ca-128c-43f8-bdbd-9a584472bb27.jpg",
+        "name": "2acef8ca-128c-43f8-bdbd-9a584472bb27"
+    },
+    "caseName": "南宋群賢小集",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1258905600000,
+    "officialDocNo": "會授資籌二字第0982118268-2號",
+    "judgeCriteria": [
+        "歷史流傳已久或史事具有深厚淵源",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "為宋代孤本，收錄有24位作家之作品，具有重要歷史、文化、學術價值",
+    "lawsReference": "1.「文化資產保存法」第六十六條。2.符合「古物分級登錄指定及廢止審查辦法」第四條第一、二、五、六款、第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "14204",
+    "amount": 32,
+    "notes": "",
+    "descAge": "宋嘉定至景定間(1208-1264)",
+    "descCreator": "宋陳起編",
+    "descSize": "半葉10行，版匡17.3x13.2公分",
+    "descMaterial": "紙",
+    "reserveStatusDesc": "   ",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "部分虫蛀，經修裱，書況良好。",
+    "documents": [
+        {
+            "fileid": 56643,
+            "name": "981123公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-04-08/6ce92422-93d0-4294-bd3b-fcb872aff46c/981123公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 116434,
+            "caseId": 3672,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 127135,
+            "caseId": 3672,
+            "caseStatus": true,
+            "registerDate": 1258905600000,
+            "officialDocNo": "會授資籌二字第0982118268-2號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

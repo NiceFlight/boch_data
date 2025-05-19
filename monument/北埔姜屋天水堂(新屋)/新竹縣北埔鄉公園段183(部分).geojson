@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "新竹縣北埔鄉公園段183(部分)"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

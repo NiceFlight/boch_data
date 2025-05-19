@@ -1,0 +1,95 @@
+{
+    "id": 1866,
+    "caseId": "20041216000007",
+    "count": 2408,
+    "shareCount": 0,
+    "representImage": 261218,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-08-21/b1d54682-78dd-4035-aafa-fbe1ddc24ed5/S__95264811_0_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-08-21/b1d54682-78dd-4035-aafa-fbe1ddc24ed5/S__95264811_0.jpg",
+        "name": "S__95264811_0"
+    },
+    "caseName": "廣恆發商號及古厝",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "臺東縣成功鎮成廣澳的天然港灣，是花東地區早年對外交通和貿易的樞紐，清代時更成為漢人入墾東海岸的重要據點。屏東內埔客籍人士溫泰坤（1861-1947），於日治初期1910年代時在此興建「廣恒發」商號，洋樓式街屋建築堪稱首屈一指。廣恒發商號是東海岸第一家大店舖，批發兼零售。商號的左側，就是溫家宅院。 \n昭和7年（1932）新港漁港竣工啟用，政經中心隨之轉移。新港漁港逐漸取代了成廣澳港的功能，成廣澳也逐漸沒落。溫家後代陸續往外地發展，子孫也陸續他遷。廣恒發商號與溫家宅院逐漸荒廢，甚至湮沒在荒煙蔓草之間。",
+    "assetsTypeNames": "宅第,商店",
+    "otherAssetsType": "建築物類",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1103180790000,
+    "officialDocNo": "府文資字第 0933040021 號",
+    "documents": [
+        {
+            "fileid": 114905,
+            "name": "19臺東縣歷史建築公告文-廣恆發商號和溫家古厝.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-28/b07de7b0-6485-47e8-ae41-bb89dceec63d/19臺東縣歷史建築公告文-廣恆發商號和溫家古厝.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "1.目前殘存的磚拱騎樓式「亭仔腳」可發現無論門柱、雕飾、及式樣，都是當時後山地區所罕見。\n2.「廣恆發」商號及溫家古厝為象徵漢人遷移至後山之經營紀錄，視為後山的歷史及人文見證。",
+    "lawsReference": "1.文化資產保存法第27條之一規定\n2.歷史建築登錄及輔助辦法\n3.臺東縣93年12月13日歷史建築登錄審查會議決議辦理\n",
+    "govInstitutionCode": "950",
+    "govInstitutionName": "臺東縣政府",
+    "belongCityId": 22,
+    "belongCityName": "臺東縣",
+    "belongDistName": "成功鎮",
+    "govInstitution": "臺東縣政府",
+    "govDeptName": "文化處文化資產科",
+    "govDeptPhone": "089-350129",
+    "govDeptAddress": "臺東市南京路25號",
+    "cadasters": [],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 4,
+    "nonCityLandUseTypeName": "鄉村區",
+    "nonCityLandUseSubTypeId": 2,
+    "nonCityLandUseSubTypeName": "乙種建築",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "成功鎮小湊段小港小段0280-0000",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "新港區忠孝里成廣路(小港天后宮北側)",
+    "isOpenVisit": true,
+    "openUpTime": "全年",
+    "isCharge": false,
+    "isOpenDownload": true,
+    "longitude": 121.403029,
+    "latitude": 23.160729,
+    "representImageSource": "109-110年度臺東縣文化資產個案資料同步更新維護計畫",
+    "landScope": "成功鎮玉港段902、903地號",
+    "selfCoverage": "成功鎮玉港段902、903地號",
+    "addresses": [
+        {
+            "cityName": "臺東縣",
+            "distName": "成功鎮",
+            "id": 137290,
+            "caseId": 1866,
+            "caseStatus": true,
+            "cityId": 22,
+            "distId": 2211,
+            "address": "臺東縣成功鎮忠孝里成廣路"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 150017,
+            "caseId": 1866,
+            "caseStatus": true,
+            "registerDate": 1103180790000,
+            "officialDocNo": "府文資字第 0933040021 號",
+            "classificationId": 1
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "109年至110年文化資產資料數位整合計畫"
+}

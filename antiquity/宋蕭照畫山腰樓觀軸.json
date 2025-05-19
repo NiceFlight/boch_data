@@ -1,0 +1,111 @@
+{
+    "id": 4089,
+    "caseId": "20110422000022",
+    "count": 262,
+    "shareCount": 1,
+    "representImage": 152033,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-01-27/bc2dfdb4-3d07-4d7c-9419-2f927583dba1/K2A000085N000000000PAA_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-01-27/bc2dfdb4-3d07-4d7c-9419-2f927583dba1/K2A000085N000000000PAA.jpg",
+        "name": "K2A000085N000000000PAA"
+    },
+    "caseName": "宋蕭照畫山腰樓觀軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1303401600000,
+    "officialDocNo": "會授資籌二字10020040353號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "歷史流傳已久或史事具有深厚淵源",
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "蕭照傳世畫作極少見，本幅有蕭照款，為典型代表作。具有特殊之時代特色及風格。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第四條第一項第一、二、三、四、五、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故畫000085",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descSize": "179.3 x 112.7 公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "蕭照（約活動於1130－1160）此畫山體構成由北宋大觀式山水發展而成，又與李唐〈萬壑松風圖〉講究物象豐厚的近觀山水相近，藉堅實岩塊、迷茫遠山，營造出實、虛相對的景緻。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "包首：傷補，傷損，霉傷。本幅：傷補，傷損，霉傷，水漬，折裂，剝落。有損傷但狀況穩定。",
+    "documents": [
+        {
+            "fileid": 16413,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2017-11-06/7f530696-e242-45b1-b436-fd1e8fc45e3f/公告.pdf"
+        },
+        {
+            "fileid": 152034,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-27/5b1daeb5-4a8a-4a96-983b-0252206ab9a7/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71619,
+            "caseId": 4089,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 76092,
+            "caseId": 4089,
+            "caseStatus": true,
+            "registerDate": 1303401600000,
+            "officialDocNo": "會授資籌二字10020040353號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

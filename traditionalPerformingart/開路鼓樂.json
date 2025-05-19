@@ -1,0 +1,93 @@
+{
+    "id": 15755,
+    "caseId": "20180606000012",
+    "count": 364,
+    "shareCount": 3,
+    "representImage": 116267,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-05-30/d2c940cf-24d4-4034-884d-982ee49376b5/李春生_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-05-30/d2c940cf-24d4-4034-884d-982ee49376b5/李春生.jpg",
+        "name": "李春生"
+    },
+    "caseName": "開路鼓樂",
+    "classifyCode": "4.1",
+    "classifyName": "傳統表演藝術",
+    "assetsTypeNames": "戲曲,其他,音樂",
+    "otherAssetsType": "開路鼓樂",
+    "assetsClassifyCode": "4.1.1",
+    "assetsClassifyName": "傳統表演藝術",
+    "registerDate": 1503051660455,
+    "officialDocNo": "府文資二字第1063808306A號",
+    "documents": [
+        {
+            "fileid": 120117,
+            "name": "府文資二字第1063808306AB號 李春生.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-06-23/cf8b98c4-7639-421e-ba61-f6813107a892/府文資二字第1063808306AB號 李春生.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具有藝術價值",
+        "具時代或流派特色",
+        "顯著反映族群或地方之審美觀"
+    ],
+    "registerReason": "１、具有藝術價值：\n資深開路鼓樂師精通各種曲藝及樂器。\n２、具時代或流派特色：\n(1)台灣開路鼓樂指標性藝師。\n(2)長期從事開路鼓樂之演出與傳承。\n３、顯著反映族群或地方之審美觀：\n(1)北港百年館閣金聲順、集雅軒之指導藝師。\n(2)北港在地鼓樂師父。",
+    "lawsReference": "<<傳統表演藝術登錄認定及廢止審查辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "belongCityId": 13,
+    "belongCityName": "雲林縣",
+    "govInstitution": "文化觀光處",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "05-5523151",
+    "govDeptAddress": "雲林縣斗六巿雲林路二段310號",
+    "belongAddress": "雲林縣北港鎮益安路160巷10號",
+    "historyDevelopment": "150多年歷史的北港金聲順開路鼓，在李春生推動下成立「金聲順古樂協會」。他自幼跟隨父親李淵學習北管，精通各項北管樂器，逢年過節的時候，開路鼓就是打陣頭的隊伍，驕傲地走在隊伍的前端，用喧天的鑼鼓聲向鄉親們宣告神明駕到。\n由於皆以口傳心授的方式，使得樂曲容易隨著前輩的黎氏兒佚失，因此李春生肩負起數百首樂曲的傳承，除了只到北管樂團外，更是偕同政府拍攝紀錄片，保存了相關影像及記錄。",
+    "preservers": [
+        {
+            "id": 16175,
+            "type": "個人",
+            "caseName": "李春生",
+            "cityName": "雲林縣",
+            "distName": "北港鎮",
+            "caseArtistEntities": [],
+            "representImage": 116269,
+            "patentNo": "1063808306",
+            "judgeCriteria": [
+                "熟知並能正確體現該登錄項目之知識、技藝與文化表現形式，並具代表性",
+                "具該登錄項目之傳習能力與意願"
+            ],
+            "registerReason": "1、具有藝術價值：資深開路鼓樂師精通各種曲藝及樂器。\n2、具時代或流派特色：\n（1）台灣開路鼓樂指標性藝師。\n（2）長期從事開路鼓樂之演出與傳承。\n3、顯著反映族群或地方之審美覷：\n（1）北港百年館閣金聲順、集雅軒之指導藝師。\n（2）北港在地鼓樂師父。",
+            "lawsReference": "<<傳統表演藝術登錄認定及廢止審查辦法>>第4條第1、2款",
+            "isOpenDownload": false,
+            "representImageSource": "雲林縣政府",
+            "contactorIsOpen": false
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "雲林縣政府",
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "北港鎮",
+            "id": 66101,
+            "caseId": 15755,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1316,
+            "address": "雲林縣北港鎮益安路160巷10號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 70253,
+            "caseId": 15755,
+            "caseStatus": true,
+            "registerDate": 1503051660455,
+            "officialDocNo": "府文資二字第1063808306A號",
+            "classificationId": 1
+        }
+    ]
+}

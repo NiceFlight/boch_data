@@ -1,0 +1,122 @@
+{
+    "id": 17308,
+    "caseId": "20210531000006",
+    "count": 92,
+    "shareCount": 0,
+    "representImage": 116254,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-05-30/81cee2b8-ec5e-49a1-8c8d-4d3b4a55e8ec/林坤龍_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-05-30/81cee2b8-ec5e-49a1-8c8d-4d3b4a55e8ec/林坤龍.jpg",
+        "name": "林坤龍"
+    },
+    "caseName": "泥作技術",
+    "classifyCode": "7.1",
+    "classifyName": "保存技術及保存者",
+    "assetsClassifyCode": "7.1.1",
+    "assetsClassifyName": "保存技術及保存者",
+    "registerDate": 1518486671973,
+    "officialDocNo": "府文資二字第1083800677A",
+    "documents": [
+        {
+            "fileid": 116255,
+            "name": "府文資二字第1083800677A 林坤龍.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-30/dc090339-c38a-4320-94b1-29a089bc913c/府文資二字第1083800677A 林坤龍.pdf"
+        },
+        {
+            "fileid": 116754,
+            "name": "府文資二字第1073811624AB號 林坤龍.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-31/0f9a187b-f218-4eab-a6fe-f51ef96a815a/府文資二字第1073811624AB號 林坤龍.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "無形文化資產實踐中不可或缺物件製作、修復之傳統技術；其技術具有一定專業性、針對特定無形文化資產之實踐所發展，並對表現該無形文化資產價值具有顯著作用"
+    ],
+    "registerReason": "(一)為本地地區具有此一技術之稀有者。\n(二)泥作工藝已逐漸失傳，此項技術具有保存的意義。\n(三)具備完整泥作知識、執行程序以及實踐的能力，並運用各種泥塑工具，也有從事傳承(習)工作。\n",
+    "lawsReference": "<<文化資產保存技術及保存者登錄認定廢止審查辦法>>第2條第2款",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "belongCityId": 13,
+    "belongCityName": "雲林縣",
+    "govInstitution": "雲林縣政府",
+    "govDeptName": "文化觀光處",
+    "govDeptPhone": "05-552-3218",
+    "govDeptAddress": "雲林縣斗六市大學路三段310號",
+    "preservers": [
+        {
+            "id": 19175,
+            "type": "個人",
+            "caseName": "林坤龍",
+            "cityName": "雲林縣",
+            "distName": "西螺鎮",
+            "caseArtistEntities": [],
+            "representImage": 114019,
+            "patentNo": "1073811624A",
+            "judgeCriteria": [
+                "充分掌握該項保存技術所需相關知識與執行程序",
+                "正確體現、執行該項保存技術之能力",
+                "傳習該項保存技術之溝通及輔導能力"
+            ],
+            "registerReason": "1.泥作工藝之技術純熟。\n2.具有修復西螺老街之實務經驗。\n3.泥作工藝已逐漸失傳，此項技術具有保存的意義。\n4.具備完整泥作知識、執行程序以及實踐的能力，並運用各種泥塑工具，也有從事傳承(習)工作。",
+            "lawsReference": "<<文化資產保存技術及保存者登錄認定廢止審查辦法>>第4條第1項第1、2、3款",
+            "isOpenDownload": false,
+            "representImageSource": "雲林縣政府文化觀光處",
+            "contactorIsOpen": false
+        }
+    ],
+    "visitsDate": 1527582961482,
+    "classify": [
+        "4.2"
+    ],
+    "skillType": [
+        {
+            "id": 1,
+            "other": ""
+        },
+        {
+            "id": 2,
+            "other": ""
+        },
+        {
+            "id": 4,
+            "other": ""
+        },
+        {
+            "id": 5,
+            "other": ""
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "雲林縣政府",
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "西螺鎮",
+            "id": 65982,
+            "caseId": 17308,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1314
+        }
+    ],
+    "announces": [
+        {
+            "id": 70098,
+            "caseId": 17308,
+            "caseStatus": true,
+            "registerDate": 1540290326859,
+            "officialDocNo": "府文資二字第1073811264A號",
+            "classificationId": 1
+        },
+        {
+            "id": 70097,
+            "caseId": 17308,
+            "caseStatus": true,
+            "registerDate": 1549987200000,
+            "officialDocNo": "府文資二字第1083800677A號",
+            "classificationId": 1
+        }
+    ]
+}

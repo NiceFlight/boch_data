@@ -1,0 +1,107 @@
+{
+    "id": 2902,
+    "caseId": "20131225000006",
+    "count": 1089,
+    "shareCount": 0,
+    "representImage": 5272,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7131/photo/泰雅族貝珠衣_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7131/photo/泰雅族貝珠衣.jpg",
+        "name": "泰雅族貝珠衣"
+    },
+    "caseName": "泰雅族貝珠衣",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1387900800000,
+    "officialDocNo": "北市文化二字第10232100100 號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.本件貝珠衣之珠飾精緻，織法細密，屬一定時代之手藝技術(工法已逾百年)，具備珍貴與稀有性。\r\n2.本件服飾款式及色澤、條紋之調配等相當罕見，為現今難得尚存之特殊飾物，且與泰雅族屈尺群(烏來區)之服飾相關。\r\n3.貝珠衣為泰雅族傳統社會傳家之寶，可作為高貨幣單位，或部落領袖、獵首英雄之盛裝，是地位和財富的象徵，足以代表其特殊之社會文化意義。",
+    "lawsReference": "1.文化資產保存法第65條。\r\n2.古物分級登錄指定及廢止審查辦法第2、5、7條。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "萬華區",
+    "govInstitution": "臺北市政府",
+    "govDeptName": "臺北市立文獻館",
+    "govDeptPhone": "0223115355",
+    "govDeptAddress": " ",
+    "reservationCode": "   ",
+    "keepNameId": 17,
+    "keepName": "臺北市文獻委員會",
+    "keepNameNew": 17,
+    "keepAddressNew": "臺北市萬華區臺北市萬華區中華路一段174號之1",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 2,
+    "amount": 1,
+    "notes": "\n\n",
+    "descAge": " ",
+    "descSize": "  86 * 60 cm",
+    "descMaterial": "麻布、貝珠，約3公斤",
+    "reserveStatusDesc": "形狀：長方形。技法：兩幅麻布對折縫製而成，整件為無領、無袖、對襟、無扣，並以白、紅、藍色為主要色系；裝飾之貝珠係硨磲貝所燒烤、切割、磨製而成之圓柱型珠子，全件約9萬粒，串接後當飭品穿綴(含並、縱式之透、鈎綴法等)於衣上。為臺北市文獻委員會所蒐購之珍貴史料文物，供作典藏、展示與研究使用，保存狀況良好。",
+    "pastHistorySource": 2,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 5273,
+            "name": "4246ae12-af2c-4151-b555-bebf018f6faa.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44834/file/4246ae12-af2c-4151-b555-bebf018f6faa.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "臺北市文獻委員會",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺北市萬華區臺北市萬華區中華路一段174號之1",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "id": 3038,
+            "caseId": 2902,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106
+        }
+    ],
+    "announces": [
+        {
+            "id": 3038,
+            "caseId": 2902,
+            "caseStatus": true,
+            "registerDate": 1387900800000,
+            "officialDocNo": "北市文化二字第10232100100 號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

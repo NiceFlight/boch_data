@@ -1,0 +1,97 @@
+{
+    "id": 20261,
+    "caseId": "20211215000003",
+    "count": 142,
+    "shareCount": 1,
+    "representImage": 147557,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-15/154f1e4a-060a-4e05-9a24-384791a3b65b/012_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-15/154f1e4a-060a-4e05-9a24-384791a3b65b/012.jpg",
+        "name": "012"
+    },
+    "caseName": "元趙孟頫書朱子感興詩",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "趙孟頫書法秀麗、繪畫清雅，此幅筆勢多姿，為元代趙孟頫行草書風的代表作品，且有陳淳題跋，殊為難得。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第3、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174之1號",
+    "reservationCode": "故書000083",
+    "amount": 1,
+    "descAge": "元",
+    "descSize": "28.4x317.4公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "趙孟頫（1254－1322），浙江吳興人。字子昂，號松雪道人，為宋宗室。宋亡，侍御史程鉅夫奉詔搜訪遺逸，孟頫因而出仕為官，至翰林學士承旨。死後，追封魏國公，諡文敏。其書法力追晉唐，提倡復古，影響當代甚鉅。宋代理學家朱熹受唐代詩人陳子昂〈感遇詩〉啟示，曾作〈感興詩〉二十首。趙孟頫書此卷用筆清秀蒼勁，肥瘦參差，體勢奇宕多姿。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "舊傷損傷補。",
+    "documents": [
+        {
+            "fileid": 147556,
+            "name": "110年12月9日北市獻編字第1103004564號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-15/988fc689-fae9-49a9-bc85-8e079e92af51/110年12月9日北市獻編字第1103004564號公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.549499,
+    "latitude": 25.10037,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69143,
+            "caseId": 20261,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73267,
+            "caseId": 20261,
+            "caseStatus": true,
+            "registerDate": 1639018004162,
+            "officialDocNo": "北市獻編字第1103004564號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

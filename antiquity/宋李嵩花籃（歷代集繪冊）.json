@@ -1,0 +1,100 @@
+{
+    "id": 4367,
+    "caseId": "20150505000014",
+    "count": 434,
+    "shareCount": 0,
+    "representImage": 7329,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4524/photo/宋李嵩花籃（歷代集繪冊）_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4524/photo/宋李嵩花籃（歷代集繪冊）.jpg",
+        "name": "宋李嵩花籃（歷代集繪冊）"
+    },
+    "caseName": "宋李嵩花籃（歷代集繪冊）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1430755200000,
+    "officialDocNo": "文授資局物第 10420054041號",
+    "judgeCriteria": [
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少"
+    ],
+    "registerReason": "李嵩（約活動於1190－1264），浙江錢塘人。擅長人物、山水界畫、花卉。歷任南宋光、寧、理宗朝畫院待詔。\n此幅署有李嵩名款，畫法採雙鉤填彩法，繪編織精緻的籐籃中盛滿紅山茶、白水仙、綠萼梅、丁香與瑞香等花卉，象徵年節喜氣祥瑞之意。花葉反轉向背，自然寫實，色澤典雅富麗，為南宋典型院畫風格，是李嵩小品花卉畫的代表佳作。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第4條1項第4、5款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫001254-006",
+    "amount": 1,
+    "descAge": "宋",
+    "descSize": "26.1 x 26.3（公分）",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "李嵩，浙江錢塘人。少時曾為木工，後被宋徽宗（1101－1126在位）宣和年間待詔李從順收為養子。歷任南宋光、寧、理宗朝畫院待詔。此幅繪編織精緻的籐籃中盛滿紅山茶、白水仙、綠萼梅、丁香與瑞香等花卉，象徵年節喜氣祥瑞之意。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "傷損，傷補，霉傷，蟲蛀。",
+    "documents": [
+        {
+            "fileid": 150019,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-10/5241e902-1136-4b56-8193-71d31c4689fc/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70364,
+            "caseId": 4367,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 74597,
+            "caseId": 4367,
+            "caseStatus": true,
+            "registerDate": 1430755200000,
+            "officialDocNo": "文授資局物第 10420054041號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,117 @@
+{
+    "id": 2177,
+    "caseId": "20160805000002",
+    "count": 3150,
+    "shareCount": 5,
+    "representImage": 158778,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-04-11/05d15420-81e0-4154-9a47-8bd4f7763a58/歷047仁德二空防空碉堡_P004_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-04-11/05d15420-81e0-4154-9a47-8bd4f7763a58/歷047仁德二空防空碉堡_P004.jpg",
+        "name": "歷047仁德二空防空碉堡_P004"
+    },
+    "caseName": "仁德二空防空碉堡",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "碉堡",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1470326400000,
+    "officialDocNo": "府文資處字第1050784540B號",
+    "documents": [
+        {
+            "fileid": 158753,
+            "name": "仁德二空防空碉堡及仁德二空貿易四村興建碑公告105.8.5.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-11/e362a517-31ef-4046-ba3f-6b1b856eacab/仁德二空防空碉堡及仁德二空貿易四村興建碑公告105.8.5.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "1、具歷史文化價值：其基座相傳為日治時期防空軍事設施，見證二戰末期之美軍空襲，以及終戰後國軍對臺南機場之防衛，並與臺南機場有唇齒相應關係，值得保留，為日治時期至戰後防空軍事設施的實物見證。\n2、表現地域風貌或民間藝術特色：其施工及建材（鵝卵石）呈現當時原物料、機具缺乏之時代背景，頗具因地制宜特色。\n３、具建築史或技術史之價值：現況為二戰後國軍在原日治時期防空設施基礎上加高沿用，呈現日治時期及戰後空軍防砲部隊不同軍事建築工法。\n",
+    "lawsReference": "歷史建築登錄廢止審查及輔助辦法第2條第1項第1、2及第3款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "仁德區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 143251,
+            "name": "仁德二空防空碉堡地籍圖.png",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-11-07/414f602b-ea95-4c80-a03a-e89428972476/仁德二空防空碉堡地籍圖.png"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "locationLandNo": "臺南市仁德區二空段1064地號(部分)，面積約2426平方公尺",
+    "buildingFeatures": "\n",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "bulkTransfer": 0,
+    "belongAddress": "臺南市仁德區仁和國小東側",
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.222799,
+    "latitude": 22.959981,
+    "representImageSource": "臺南市政府",
+    "landScope": "臺南市仁德區二空段1064地號（部分）",
+    "selfCoverage": "碉堡本體",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "仁德區",
+            "id": 82597,
+            "caseId": 2177,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1615,
+            "address": "仁和國小東側"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺南市",
+            "distName": "仁德區",
+            "landNoName": "二空段",
+            "id": 91519,
+            "caseId": 2177,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1615,
+            "landNoId": 3590,
+            "landSerialNo": "1064",
+            "landownership": 1,
+            "coverageId": 1,
+            "area": "2426平方公尺",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": "臺南市仁德區仁和國小東側"
+        }
+    ],
+    "announces": [
+        {
+            "id": 88724,
+            "caseId": 2177,
+            "caseStatus": true,
+            "registerDate": 1470326400000,
+            "officialDocNo": "府文資處字第1050784540B號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.22323068130245,22.959956505471304],[120.22321389465992,22.959940177821974],[120.22299696972676,22.959935136406312],[120.2226587495829,22.959927282926493],[120.22265817627843,22.95996583869719],[120.22263771624277,22.961342144970054],[120.22319585322047,22.961342104123695],[120.22323048680359,22.96131026681572],[120.22323698080307,22.9603488441012],[120.22324746728144,22.95997284579233],[120.22323068130245,22.959956505471304],[120.22323068130245,22.959956505471304]]]]},\"properties\":{\"envelope\":{\"left\":\"120.22263771624277\",\"top\":\"22.959927282926493\",\"right\":\"120.22324746728144\",\"bottom\":\"22.961342144970054\"},\"landLot\":\"臺南市仁德區二空段1064\"}}],\"notfound\":[]}]",
+    "openVisitType": "部分開放參觀",
+    "pastHistorySource": ""
+}

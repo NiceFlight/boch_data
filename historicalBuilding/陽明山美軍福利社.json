@@ -1,0 +1,131 @@
+{
+    "id": 1078,
+    "caseId": "20160226000001",
+    "count": 2847,
+    "shareCount": 0,
+    "representImage": 162424,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/ede344f5-c1b5-4b74-a03a-75590e973921/B313 台北市 陽明山美軍福利社 (歷建)01_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/ede344f5-c1b5-4b74-a03a-75590e973921/B313 台北市 陽明山美軍福利社 (歷建)01.JPG",
+        "name": "B313 台北市 陽明山美軍福利社 (歷建)01"
+    },
+    "caseName": "陽明山美軍福利社",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "為1950-60年代駐台美軍及其眷屬社區的重要商業性消費空間。",
+    "assetsTypeNames": "產業",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 162425,
+            "name": "102年公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/19be910c-fabf-4c15-9c14-09bdf2ed7e03/102年公告.pdf"
+        },
+        {
+            "fileid": 162426,
+            "name": "105年公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/b248926a-9140-44de-a62f-c2b1117ea441/105年公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "陽明山美軍福利社，為1950-60年代駐台美軍及其眷屬社區的重要商業性消費空間，也是有排斥性的公共服務設施，表現了冷戰時期的歷史意義。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 162427,
+            "name": "d1f25dbc-4b84-4fc8-803f-8c11b99b32eb.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/1d4fb210-3d11-4bb6-af0d-179a14027dbc/d1f25dbc-4b84-4fc8-803f-8c11b99b32eb.jpg"
+        },
+        {
+            "fileid": 162428,
+            "name": "美宿C2區18戶稅籍證明(17紙)、門牌編訂證明(18紙)、新舊地址對照表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/192fafb0-4ace-41a5-8ce6-d67e74af75fc/美宿C2區18戶稅籍證明(17紙)、門牌編訂證明(18紙)、新舊地址對照表.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "特住",
+    "locationLandNo": "臺北市士林區華岡段二小段503地號之部份土地",
+    "buildingFeatures": "磚造",
+    "inHouseFeatures": "尚屬良好",
+    "buildingUsage": "閒置",
+    "buildingActualState": "尚屬良好",
+    "buildingKeyMaintainItem": "尚屬良好",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.543953,
+    "latitude": 25.136902,
+    "representImageSource": "文化局",
+    "landScope": "臺北市士林區華岡段二小段503地號之部份土地",
+    "selfCoverage": "1431平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 78223,
+            "caseId": 1078,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "長春街6巷2號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "華岡段二小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 82645,
+            "caseId": 1078,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 598,
+            "landSerialNo": "503",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 1,
+            "area": "4,572.88平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 83939,
+            "caseId": 1078,
+            "caseStatus": true,
+            "registerDate": 1385481600000,
+            "officialDocNo": "北市文化二字第10230428600號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        },
+        {
+            "id": 83940,
+            "caseId": 1078,
+            "caseStatus": true,
+            "registerDate": 1456416000000,
+            "officialDocNo": "北市文化文資字第10530360700號",
+            "classificationId": 2,
+            "note": "變更地址"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "臺銀"
+}

@@ -1,0 +1,99 @@
+{
+    "id": 3189,
+    "caseId": "20061018000009",
+    "count": 292,
+    "shareCount": 0,
+    "representImage": 267898,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-12-12/91872783-fcce-4777-abd6-2464a0d2f8ab/柱前木檯_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-12-12/91872783-fcce-4777-abd6-2464a0d2f8ab/柱前木檯.jpg",
+        "name": "柱前木檯"
+    },
+    "caseName": "柱前木檯",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1161100800000,
+    "officialDocNo": "屏府文博字第0950205967號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "具有藝術造詣，並具有歷史、文化、藝術價值，亦具有地方特色（古物出處：北排灣）；因為祭台前面，很少見。來義鄉白河的人遷到南和，所謂柱前木檯就是石柱或木頭柱放的凳子是立體的，不常有這麼寬的，刻工具地方特色，依照蛇紋來看，是潮州以北，人頭上有動物的鹿角彎過來，很少見，眼睛形狀刻的三角形的是以前祖先是蛇，而圓形的是一般人，由於血緣不一樣。",
+    "lawsReference": "文化資產保存法第65條暨古物分級登錄指定及廢止審查辦法第5條、第7條及第8辦理。",
+    "govInstitutionCode": "900",
+    "govInstitutionName": "屏東縣政府",
+    "belongCityId": 20,
+    "belongCityName": "屏東縣",
+    "belongDistName": "屏東市",
+    "govInstitution": " ",
+    "govDeptName": " ",
+    "govDeptPhone": " ",
+    "govDeptAddress": " ",
+    "reservationCode": " ",
+    "amount": 1,
+    "notes": "",
+    "descAge": " ",
+    "descSize": " ",
+    "descMaterial": " ",
+    "reserveStatusDesc": "種類:木質雕刻 \r\n數量:1\r\n年代:不詳 \r\n作者:不詳\r\n材質:木 \r\n重量:2.5 kg\r\n形狀:長型 \r\n尺寸:86 × 31 × 2㎝\r\n技法:雕刻",
+    "pastHistorySource": 2,
+    "pastHistorySourceNotes": " ",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 231391,
+            "name": "32件一般古物(951027)_部分6.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-09-19/cc1ec258-af74-4df2-9916-a0cf529323e9/32件一般古物(951027)_部分6.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "0",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "屏東縣政府文化處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "屏東縣屏東市自由路527號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "屏東縣",
+            "distName": "屏東市",
+            "id": 137333,
+            "caseId": 3189,
+            "caseStatus": true,
+            "cityId": 20,
+            "distId": 2001
+        }
+    ],
+    "announces": [
+        {
+            "id": 150073,
+            "caseId": 3189,
+            "caseStatus": true,
+            "registerDate": 1161100800000,
+            "officialDocNo": "屏府文博字第0950205967號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

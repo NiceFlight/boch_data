@@ -1,0 +1,118 @@
+{
+    "id": 3197,
+    "caseId": "20080903000001",
+    "count": 462,
+    "shareCount": 0,
+    "representImage": 110439,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-05-14/37a33788-9e3c-444d-ad7b-31ce9e743d9b/畫花安平壺_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-05-14/37a33788-9e3c-444d-ad7b-31ce9e743d9b/畫花安平壺.jpg",
+        "name": "畫花安平壺"
+    },
+    "caseName": "畫花安平壺",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "出土(水)-出土、出水物品",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1220371200000,
+    "officialDocNo": "府授文博字第0973700108號",
+    "judgeCriteria": [
+        "具有史事淵源",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "安平壺上有釉下彩的作品不多，為海內外各地僅見，且保存完整，具稀有性。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第2、6款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "MGG0152",
+    "amount": 1,
+    "notes": "",
+    "descAge": "產於17世紀",
+    "descCreator": "",
+    "descSize": "高17.4公分、口徑7.8公分、底徑6.9公分",
+    "descMaterial": "陶瓷",
+    "reserveStatusDesc": "高17.4公分，口徑7.8公分，底徑6.9公分，重量1,076公克，產於17世紀，閩北地區。\n出水地區：馬公港。\n特色：本件文物屬「厚胎」類型，口緣厚唇，唇面施釉（細口），器身可見釉下彩暗色折枝花卉紋裝飾，為海內外各地僅見。",
+    "pastHistorySource": 7,
+    "pastHistorySourceNotes": "出水地區：馬公港。",
+    "saveEnvironment": 4,
+    "saveEnvironmentNotes": "室內空間",
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 110437,
+            "name": "畫花安平壺公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-14/ef56ce90-dd2d-4c44-ba44-13607d00d1d1/畫花安平壺公告.pdf"
+        },
+        {
+            "fileid": 110438,
+            "name": "修正公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-14/e223758e-738e-4991-b1c4-0e37d02ad4f7/修正公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.577409,
+    "latitude": 23.571286,
+    "representImageSource": "澎湖縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "澎湖縣政府文化局",
+            "keepName": "澎湖縣政府文化局",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "澎湖縣政府文化局",
+            "keepAddressNew": "澎湖縣馬公市中華路230號",
+            "saveSpaceIdStr": "公務設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "澎湖縣",
+            "keepNameDistName": "馬公市",
+            "keepNameAddress": "中華路230號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 28341,
+            "caseId": 3197,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "中華路230號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 28686,
+            "caseId": 3197,
+            "caseStatus": true,
+            "registerDate": 1207843200000,
+            "officialDocNo": "府授文博字第09737000361號",
+            "classificationId": 1
+        },
+        {
+            "id": 28687,
+            "caseId": 3197,
+            "caseStatus": true,
+            "registerDate": 1220411745458,
+            "officialDocNo": "府授文博字第0973700108號",
+            "classificationId": 2,
+            "note": "公告修正一般古物畫花安平壺之公告函、表"
+        }
+    ],
+    "isPublic": false
+}

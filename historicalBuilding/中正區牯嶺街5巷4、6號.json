@@ -1,0 +1,201 @@
+{
+    "id": 20490,
+    "caseId": "20220315000005",
+    "count": 1847,
+    "shareCount": 2,
+    "representImage": 170158,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/7c4bb6ff-61a5-4edd-ac39-13d78eadcbb9/代表圖像_中正區牯嶺街5巷4、6號_原圖調整_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/7c4bb6ff-61a5-4edd-ac39-13d78eadcbb9/代表圖像_中正區牯嶺街5巷4、6號_原圖調整.jpg",
+        "name": "代表圖像_中正區牯嶺街5巷4、6號_原圖調整"
+    },
+    "caseName": "中正區牯嶺街5巷4、6號",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本區建物與歷史建築「原警察局中正二分局(牯嶺街\t劇場)」屬同一基地，日治時期拆除部分建物改建出張所",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 155035,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/9d223490-93a9-4040-8c9f-4be5b491e5ce/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1.本建物屋頂為洋小屋組，形式少見，4號內裝原貌留存完整，具保存價值。\n2本區建物與歷史建築「原警察局中正二分局(牯嶺街小劇場)」屬同一基地，日治時期拆除部分建物改建出張所，具完整性價值，未來整區可整體規劃，發揮整體保存效益。\n3.符合歷史建築紀念建築登錄廢止審查及輔助辦法第2 條第3項登錄基準。",
+    "lawsReference": "文化資產保存法第18條、歷史建築紀念建築登錄廢止審查及輔助辦法第5條",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 155036,
+            "name": "地籍資料.docx",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/ed30d904-63ef-45a9-8fde-fb3b7b38d539/地籍資料.docx"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.51545383663363,
+    "latitude": 25.031773537101635,
+    "representImageSource": "臺北市文化局",
+    "landScope": "建築物坐落土地為中正區南海段四小段437（10平方公尺）、438（113平方公尺）、439（7平方公尺）、440（7平方公尺）、441（111平方公尺）、442（9平方公尺）地號等6筆土地（實際保存面積須以保存範圍實測數據為準）",
+    "selfCoverage": "歷史建築本體為牯嶺街5巷4、6號建築本體，建物為中正區南海段四小段88（建物總面積66.12平方公尺）、89（建物總面積66.12平方公尺）建號",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 83411,
+            "caseId": 20490,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "牯嶺街5巷4號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 83412,
+            "caseId": 20490,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "牯嶺街5巷6號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "南海段四小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 93243,
+            "caseId": 20490,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 17,
+            "landSerialNo": "437",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "10",
+            "cityLandUseTypeOther": "道路用地(公共設施用地)",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "南海段四小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 93244,
+            "caseId": 20490,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 17,
+            "landSerialNo": "438",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "113",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "南海段四小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 93245,
+            "caseId": 20490,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 17,
+            "landSerialNo": "439",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "7",
+            "cityLandUseTypeOther": "道路用地(公共設施用地)",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "南海段四小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 93246,
+            "caseId": 20490,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 17,
+            "landSerialNo": "440",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "7",
+            "cityLandUseTypeOther": "道路用地(公共設施用地)",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "南海段四小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 93247,
+            "caseId": 20490,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 17,
+            "landSerialNo": "441",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "111",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "南海段四小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 93248,
+            "caseId": 20490,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 17,
+            "landSerialNo": "442",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "9",
+            "cityLandUseTypeOther": "道路用地(公共設施用地)",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 89650,
+            "caseId": 20490,
+            "caseStatus": true,
+            "registerDate": 1647273600000,
+            "officialDocNo": "北市文化文資字第11130108181號",
+            "classificationId": 1,
+            "note": "公告"
+        }
+    ],
+    "openVisitType": ""
+}

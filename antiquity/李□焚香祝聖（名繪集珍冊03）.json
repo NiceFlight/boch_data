@@ -1,0 +1,111 @@
+{
+    "id": 4141,
+    "caseId": "20110422000063",
+    "count": 317,
+    "shareCount": 0,
+    "representImage": 7060,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/35472/photo/a6c6ff63-806b-4fb3-a757-960a1d18bb63_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/35472/photo/a6c6ff63-806b-4fb3-a757-960a1d18bb63.jpg",
+        "name": "a6c6ff63-806b-4fb3-a757-960a1d18bb63"
+    },
+    "caseName": "李□焚香祝聖（名繪集珍冊03）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1303401600000,
+    "officialDocNo": "會授資籌二字10020040353號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "歷史流傳已久或史事具有深厚淵源",
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "準確表現出宋代官式建築風格特點，為皇家園林與造園技術提供寶貴的參考資料。畫上署款僅餘「臣李」二字，以畫風論，應是李嵩（約活動於1170－1255）所作。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第四條第一項第一、二、三、四、五、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故畫00124300003",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descSize": "24.8 x 25.8 公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "主殿為重檐歇山頂，木作構件飛椽、椽檐、斗栱均細繪，屬於等級尊貴的建築物。下層殿旁依坡岸起築木造平臺，栽柱入地，更有壼門裝飾，其上建平座，「卍」字鉤欄環繞。畫中室內家具陳設講究，戶外寬敞月臺為帝后賞景、焚香、祈禱之所。夜晚於宮中燒香燃燭，香煙繚繞可以上達天庭，以此祝禱皇帝聖壽無疆之儀禮。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "傷補，霉傷。有損傷但狀況穩定。",
+    "documents": [
+        {
+            "fileid": 16405,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2017-11-06/de88be29-eefc-4aa8-a0f5-bdd13e3f8ee5/公告.pdf"
+        },
+        {
+            "fileid": 56407,
+            "name": "李□焚香祝聖(名繪集珍冊03)-國寶公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-04-01/f4c7dfd1-d44a-4f3b-8deb-a9a41aa3b6f8/李□焚香祝聖(名繪集珍冊03)-國寶公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71662,
+            "caseId": 4141,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": " 至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 76136,
+            "caseId": 4141,
+            "caseStatus": true,
+            "registerDate": 1303401600000,
+            "officialDocNo": "會授資籌二字10020040353號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

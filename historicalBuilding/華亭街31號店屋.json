@@ -1,0 +1,100 @@
+{
+    "id": 18102,
+    "caseId": "20201204000006",
+    "count": 2705,
+    "shareCount": 8,
+    "representImage": 204565,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/7e2754ba-0c31-4f16-a62d-b4bcc03165c9/代表圖像_華亭街31號店屋_20221011_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/7e2754ba-0c31-4f16-a62d-b4bcc03165c9/代表圖像_華亭街31號店屋_20221011.jpg",
+        "name": "代表圖像_華亭街31號店屋_20221011"
+    },
+    "caseName": "華亭街31號店屋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "為華亭街少數保存臺灣人商行之建築，見證臺灣人在日治時期於圓環周邊之商業發展過程。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 77890,
+            "name": "1091124北市文化文資字第1093042331號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/98fa9c56-807b-4720-8420-33e554988b1a/1091124北市文化文資字第1093042331號公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1、\t本建物「張安仁商行」為華亭街少數保存臺灣人商行之建築，見證臺灣人在日治時期於圓環周邊之商業發展過程。\n2、\t建築立面保存完整，以白瓷磚做帶狀紋飾、有仿巴洛克式線腳、山頭有泥塑裝飾，及「興」字圓形商號及張安仁商號店招，立面裝飾及室內木作具有技術史之價值。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 77891,
+            "name": "歷史建築_華亭街31號店屋-地形地籍示意圖(奉核).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/fd0d6d94-5760-4682-8c5a-6c18d7619bab/歷史建築_華亭街31號店屋-地形地籍示意圖(奉核).pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "longitude": 121.51390902079488,
+    "latitude": 25.052843227830564,
+    "representImageSource": "臺北市文化局",
+    "landScope": "歷史建築本體為大同區華亭街31號建築本體，建號為大同區玉泉段一小段348建號（建物總面積為224.25平方公尺），建築物坐落土地為大同區玉泉段一小段554地號(92平方公尺)。（實際保存面積須以保存範圍實測數據為準）",
+    "selfCoverage": "224.25平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 106461,
+            "caseId": 18102,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "華亭街31號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "玉泉段一小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 131434,
+            "caseId": 18102,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 190,
+            "landSerialNo": "554",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "area": "92",
+            "note": "重測前：建成段一小段１４９—１地號",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 114228,
+            "caseId": 18102,
+            "caseStatus": true,
+            "registerDate": 1606147200000,
+            "officialDocNo": "北市文化文資字第10930402331號函",
+            "classificationId": 1,
+            "note": "  "
+        }
+    ],
+    "geojson": "[{\"address\":[{\"address\":\"1. 個案名稱: 華亭街31號店屋 <br />\\n      2. 地址: 華亭街31號 <br />\\n      3. 種類: 宅第 <br />\\n      4. 指定登錄理由: 1、\\t本建物「張安仁商行」為華亭街少數保存臺灣人商行之建築，見證臺灣人在日治時期於圓環周邊之商業發展過程。\\n2、\\t建築立面保存完整，以白瓷磚做帶狀紋飾、有仿巴洛克式線腳、山頭有泥塑裝飾，及「興」字圓形商號及張安仁商號店招，立面裝飾及室內木作具有技術史之價值。 <br />\\n      5. 最後一筆公告日期: 2020-11-24 <br />\\n      6. 最後一筆公告文號: 北市文化文資字第10930402331號函 <br />\\n      7. 管理單位: 私人 <br />\\n      8. 使用單位: 私人 <br />\\n      9. 建物狀態: 現況良好 <br />\",\"lat\":25.052843227830564,\"lng\":121.51390902079488}]}]",
+    "openVisitType": ""
+}

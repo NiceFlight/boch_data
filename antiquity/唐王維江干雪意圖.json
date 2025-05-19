@@ -1,0 +1,101 @@
+{
+    "id": 3729,
+    "caseId": "20140425000042",
+    "count": 439,
+    "shareCount": 0,
+    "representImage": 6487,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7037/photo/唐王維江干雪意圖_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7037/photo/唐王維江干雪意圖.JPG",
+        "name": "唐王維江干雪意圖"
+    },
+    "caseName": "唐王維江干雪意圖",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1398355200000,
+    "officialDocNo": "10320044791",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要之時代特色、技術及流派"
+    ],
+    "registerReason": "此卷原為明代陸完（1458－1526）所藏，卷後拖尾有沈周、王鏊、董其昌、顧從德等四人題跋，均極推崇此畫。該幅構圖、筆墨、意境，與歷代文獻中所記載的王維雪景山水相符，然從繪畫風格觀之，畫法溫婉優雅，與趙令穰一派較為接近，雖可能是南宋畫家托名之作，但為研究王維雪圖風格的重要資料，在中國繪畫史的研究上深具意義。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條1項第1、3款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000979",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descSize": "24.8 x 162.8（公分）",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "本幅以淡墨渲染法畫冬天江邊村舍情景，雪覆大地，木葉凋盡，鴻雁飛越天際，寂靜中添增生意，用筆勁細雅致，深具簡淡平遠之趣。舊傳為出自唐朝著名詩人亦為繪畫名家王維（701－761，一作699－759）之手筆。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。蟲蛀，霉傷，剝落（輕微）。本幅蛀痕摺痕、剝落傷損、磨損嚴重，跋墨漬磨損水漬。 ",
+    "documents": [
+        {
+            "fileid": 150185,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-11/b668c7d4-b970-4956-8604-7f3c59091009/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70727,
+            "caseId": 3729,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 74986,
+            "caseId": 3729,
+            "caseStatus": true,
+            "registerDate": 1398355200000,
+            "officialDocNo": "10320044791",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,105 @@
+{
+    "id": 3606,
+    "caseId": "20130813000061",
+    "count": 66,
+    "shareCount": 0,
+    "representImage": 6314,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7315/photo/雲谿友議（清鈔本）_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7315/photo/雲谿友議（清鈔本）.png",
+        "name": "雲谿友議（清鈔本）"
+    },
+    "caseName": "雲谿友議（清鈔本）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1376323200000,
+    "officialDocNo": "文資局物字第 10220091271號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "清影宋鈔本。\r\n唐代筆記小說集，載開元以後異聞野史﹐尤以詩話為多。此書留存多為明清版本，此版係清影宋鈔本，非常珍貴。《郘亭知見傳本書目》卷十一著錄宋刊本，此本行款與彼同，遇宋諱大抵缺末筆，本書蓋自宋刊本鈔出。文旁，書眉上有朱、墨、藍三色批校。\r\n清代鈔本，罕見稀有，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號08267",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 3,
+    "notes": "",
+    "descAge": "清代",
+    "descCreator": "唐范攄撰",
+    "descSize": "半葉11行，版匡23.2x16.4公分",
+    "descMaterial": "紙質",
+    "reserveStatusDesc": "八卷；鈔本。\n唐代筆記小說集，載開元以後異聞野史﹐尤以詩話為多。此書留存多為明清版本，此版係清影宋鈔本，非常珍貴。《郘亭知見傳本書目》卷十一著錄宋刊本，此本行款與彼同，遇宋諱大抵缺末筆，本書蓋自宋刊本鈔出。文旁，書眉上有朱、墨、藍三色批校。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "無虫蛀，經修裱。書況良好。\n",
+    "documents": [
+        {
+            "fileid": 6315,
+            "name": "29d25bc1-71e9-42c4-8057-1baa2aa03ab3.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44199/file/29d25bc1-71e9-42c4-8057-1baa2aa03ab3.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3748,
+            "caseId": 3606,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3748,
+            "caseId": 3606,
+            "caseStatus": true,
+            "registerDate": 1376323200000,
+            "officialDocNo": "文資局物字第 10220091271號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

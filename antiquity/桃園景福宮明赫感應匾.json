@@ -1,0 +1,95 @@
+{
+    "id": 22828,
+    "caseId": "20240625000003",
+    "count": 109,
+    "shareCount": 0,
+    "representImage": 258893,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-06-21/16b31450-9a23-4a6f-a9b4-d286745127d5/明赫感應匾_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-06-21/16b31450-9a23-4a6f-a9b4-d286745127d5/明赫感應匾.jpg",
+        "name": "明赫感應匾"
+    },
+    "caseName": "桃園景福宮明赫感應匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派"
+    ],
+    "registerReason": "1. 具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：為清代官方重視地方信仰的重要物證。\n2. 具有地方重要人物或歷史事件之深厚淵源者：翟淦曾於嘉慶13-14年(1808-1809)擔任淡水同知，嘉慶18年(1813)獻匾時已轉任噶瑪蘭廳首任通判，反映臺灣自清代以來地方文官對重要寺廟的肯定之歷史與習慣，體現政治與宗教之相依性。獻匾時間(嘉慶18年，1813)與武隆阿獻「赫聲濯靈匾」同年，隔年 (1814)淡水同知薛志亮獻「保我黎民匾」，足可作為景福宮嘉慶年間重建完成的歷史證物。\n3. 反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色：匾額之樣式、工藝、技法、材料均為清代匾額特徵。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "330",
+    "govInstitutionName": "桃園市政府",
+    "govInstitution": " 桃園市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-3322592分機8603",
+    "govDeptAddress": "桃園市桃園區縣府路21號",
+    "reservationCode": "尚無",
+    "amount": 1,
+    "descAge": "嘉慶拾捌年(1813)",
+    "descSize": "寬259cm/高97cm/厚4cm",
+    "descMaterial": "木質(針葉木)",
+    "reserveStatusDesc": "橫向長方形木匾，由四片木板拼接而成，邊框上藍色漆，並以金色粉線勾勒雲雷紋裝飾。匾面上藍色底漆，中行「明赫感應」，上款「嘉慶拾捌年歲次癸酉仲冬月穀旦」，下款「同知借補噶瑪蘭通判翟淦敬題」。中行與款字皆上金色漆，中行字體為另外雕刻在釘於匾面，依稀可見釘頭，款字則是另刻於木條上再嵌入匾面。目前懸掛於前殿內側。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 2,
+    "reserveStatus": "狀況穩定",
+    "documents": [
+        {
+            "fileid": 258895,
+            "name": "府文資字第1130129237號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-06-21/ef248dd2-49e2-4dab-b9b7-a7a26aafb8e0/府文資字第1130129237號公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "郭○德",
+    "keepNames": [
+        {
+            "keepNameIdStr": "桃園景福宮",
+            "keepName": "桃園景福宮",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "桃園景福宮",
+            "keepAddressNew": "不願意公開文物所在詳細地址",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "桃園市",
+            "keepNameDistName": "桃園區",
+            "keepNameAddress": "中正路208號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "桃園市",
+            "distName": "桃園區",
+            "id": 131309,
+            "caseId": 22828,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 507,
+            "address": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 143127,
+            "caseId": 22828,
+            "caseStatus": true,
+            "registerDate": 1716361456483,
+            "officialDocNo": "府文資字第11301292371號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

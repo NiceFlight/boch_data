@@ -1,0 +1,102 @@
+{
+    "id": 17650,
+    "caseId": "20200611000018",
+    "count": 116,
+    "shareCount": 0,
+    "representImage": 69627,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-06-11/2c005b48-fd02-4228-9b72-2fb5feb1667f/33金至元 鈞窯天青海棠式碟_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-06-11/2c005b48-fd02-4228-9b72-2fb5feb1667f/33金至元 鈞窯天青海棠式碟.jpg",
+        "name": "33金至元 鈞窯天青海棠式碟"
+    },
+    "caseName": "金至元 鈞窯天青海棠式碟",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1589857431553,
+    "officialDocNo": "文授資局物字第10930056341號",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "數量特別稀少或具完整性保存意義者",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此器曾收入由乾隆皇帝主導，完成於乾隆五十一年（1786）名為「珍陶萃美」的多寶格，整件作品的造型特徵也繪入典藏圖冊中，益顯珍貴。此器呈四瓣海棠花形，口沿凸起一道細稜邊。傳世帶木座，木座面刻「乙」字，底刻「宋均窯花式盤」及「古稀天子御玩」。因木座刻出與圖冊所見相同品名，足見圖冊所畫正是這件作品。雖然對照實物，圖冊所畫海棠式碟於周壁處有誇大加深的描繪，但若掌握到此件作品周壁積釉和流釉的現象，便不難理解畫家為再現作品表象，故必需採取一種非視覺邏輯的描繪方式。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故瓷8530",
+    "amount": 1,
+    "descAge": "金至元",
+    "descSize": "高2.4公分，口沿最長22.4公分，底部最長18.1公分",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "此器呈四瓣海棠花形，口沿凸起一道細稜邊。淺壁，平底，無足。全器滿施灰藍色釉，釉層不勻，積釉處釉質乳濁帶棕眼，釉薄處又現出米黃色邊。底面有四枚圓點狀支燒痕，露出灰白色胎。\n\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "口沿有舊磨損。",
+    "documents": [
+        {
+            "fileid": 144506,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-10/5e91b52d-8282-477e-8ab9-40711b3162e7/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": " ",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 67180,
+            "caseId": 17650,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 71378,
+            "caseId": 17650,
+            "caseStatus": true,
+            "registerDate": 1589857431553,
+            "officialDocNo": "文授資局物字第10930056341號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

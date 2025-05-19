@@ -1,0 +1,103 @@
+{
+    "id": 4549,
+    "caseId": "20170526000004",
+    "count": 536,
+    "shareCount": 1,
+    "representImage": 165934,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-05-27/8447249c-dc7a-4481-b5a4-a64a61709603/LOCKK3B000001N000000000AA_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-05-27/8447249c-dc7a-4481-b5a4-a64a61709603/LOCKK3B000001N000000000AA.jpg",
+        "name": "LOCKK3B000001N000000000AA"
+    },
+    "caseName": "欽定四庫全書(文淵閣本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1495728000000,
+    "officialDocNo": "中華民國106年5月26日文授資局物字第10630055051號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "歷史流傳已久或史事具有深厚淵源",
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "清高宗弘曆於乾隆三十八年（1773）二月開設四庫全書館，匯集當代學術菁英，歷經十五年，修成舉世最大之叢書《四庫全書》，先後鈔錄七部，分別庋藏於皇城宮苑以及江南人文薈萃之地。本部為乾隆四十六年歲末（1782）最先鈔畢並入藏大內的文淵閣本，具特殊歷史意義及無可替代性。\n《四庫全書》分為經、史、子、集四部，收錄了先秦至清乾隆前期學術領域之眾多古籍，並收入西洋傳教士參與撰述的數學、天文、儀器及機械等西方科學著作，可謂是集歷史、知識大成之文化工程。本作完整記錄中國歷史文化與當時代特色之代表性圖書瑰寶，為後世研究中國古代文化之全面性的重要文獻資料，具特殊影響及重大意義。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第4條第1項第1、2、4、5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故庫000001-036381",
+    "amount": 36381,
+    "descAge": "清",
+    "descSize": "版框：22.6X14.8公分；書冊：31.7X20.2公分；木函：34.2X22.4X約15公分",
+    "descMaterial": "紙本，絹、木",
+    "reserveStatusDesc": "《古今圖書集成》為清康熙年間陳夢雷編纂，雍正朝蔣廷錫奉敕校正，並由武英殿以銅活字印製。全書共10,000卷、目錄40卷，引書逾3,400種，是一部綜合性類書鉅帙，也是中國古代規模最大的銅活字印刷書籍。清宮共刷印64部，存世完整者罕見。\n此帙為清文淵閣陳設本，共5,020冊、576函。每冊首末各鈐「文淵閣寶」、「乾隆御覽之寶」。黃絹書衣，包背裝，太史連紙印本。盛以楠木書函，內有夾板，明黃色絹束帶。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "1.\t書籍保存狀況完好。\n2.\t部分木函破損待修復。",
+    "documents": [
+        {
+            "fileid": 148173,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-21/b49be76d-ffec-4468-b16d-39b713ebbbbb/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫文獻處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 80484,
+            "caseId": 4549,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 86470,
+            "caseId": 4549,
+            "caseStatus": true,
+            "registerDate": 1495728000000,
+            "officialDocNo": "中華民國106年5月26日文授資局物字第10630055051號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

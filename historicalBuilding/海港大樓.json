@@ -1,0 +1,122 @@
+{
+    "id": 1100,
+    "caseId": "20030120000003",
+    "count": 5175,
+    "shareCount": 7,
+    "representImage": 233268,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-10-16/40e8e0a3-fa89-4d01-865c-a82dfeecf815/S__46604291_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-10-16/40e8e0a3-fa89-4d01-865c-a82dfeecf815/S__46604291.jpg",
+        "name": "S__46604291"
+    },
+    "caseName": "海港大樓",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "舊名基隆港合同廳舍，位於火車站左前方，為綜合性的辦公大樓，由台灣總督府交通局鈴置良一設計，內含港務相關的官署與民間單位，有三稅關、海事出張所、水上警察署、築港出張所、港務部、專賣局出張所、埠頭郵便局及鐵道埠頭事務所等空間，二戰後由港務局接收，供給港務局及相關單位或企業繼續使用。 ",
+    "assetsTypeNames": "辦公廳舍",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1043023329000,
+    "officialDocNo": "中一字第0921051039號",
+    "documents": [
+        {
+            "fileid": 175108,
+            "name": "0920120-登錄公告-海港大樓.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-21/91aebb3f-c9fd-4175-98c4-7eb26725344a/0920120-登錄公告-海港大樓.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "本建築整體上仍保留原貌，是目前基隆市少數的重要港西歷史建築之一，亦是台灣現存早期現代主義的主要作品，值得加以保存。",
+    "lawsReference": "《歷史建築登錄廢止審查及輔助辦法》第2條第2項「具歷史文化意義足以為時代表徵者」、第5項「具建築史上之意義，有再利用之價值與潛力者」。",
+    "govInstitutionCode": "200",
+    "govInstitutionName": "基隆市政府",
+    "belongCityId": 2,
+    "belongCityName": "基隆市",
+    "belongDistName": "仁愛區",
+    "govInstitution": "基隆市文化觀光局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2422-4170",
+    "govDeptAddress": "基隆市中正區信一路181號",
+    "cadasters": [
+        {
+            "fileid": 175109,
+            "name": "海港大樓 地籍資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-07-21/1f371c49-f67e-4428-9deb-caf27a822c79/海港大樓 地籍資料.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "仁愛區海濱三小段196地號",
+    "buildingFeatures": "在外觀造型上，轉角做成圓弧形，使外觀呈現流線型，並且減少陽台，強調水平線條，使造型展現簡潔明快的工業設計美感。",
+    "inHouseFeatures": "建築分為本館與別館，中間以通廊連貫，本館建築部分設計為地下一層及地上四層與部分五層，別館為地上三層樓，未設地下室。建築師鈴置良一特別考量設置乾燥烤箱及防豪雨之排水設施，各樓層均設有排水溝，經流入下水道後排入大海，以克服基隆地區濕冷氣候、高層建築內部動線流通問題。\n所選用的裝飾紋樣，除了將花草、幾何等較為常見的簡化線條，使用在天花板、柱頭、門框、以及部分通風孔等地方外，在較為重要的場所，使用當時的重要輸出品：鳳梨，作為圓形塔樓樓梯的扶手鏤空五金。",
+    "buildingUsage": "使用中，目前仍作為基隆關稅局、基隆港務局等相關機構的辦公處所。",
+    "buildingActualState": "現狀良好，目前仍作為基隆關、航港局等相關機構的辦公處所。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "港西街6號",
+    "isOpenVisit": false,
+    "openUpTime": "辦公時間：星期一至五上午8:30~12:30、下午13:00~17:00",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.74038002973967,
+    "latitude": 25.132978665132487,
+    "representImageSource": "基隆市文化觀光局",
+    "landScope": "基隆市仁愛區站前段3地號，共計1區，總計5358.54平方公尺",
+    "selfCoverage": "基隆市仁愛區站前段3地號，共計1區，總計5358.54平方公尺",
+    "addresses": [
+        {
+            "cityName": "基隆市",
+            "distName": "仁愛區",
+            "id": 148891,
+            "caseId": 1100,
+            "caseStatus": true,
+            "cityId": 2,
+            "distId": 201,
+            "address": "港西街6號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "基隆市",
+            "distName": "仁愛區",
+            "landNoName": "站前段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 206227,
+            "caseId": 1100,
+            "caseStatus": true,
+            "cityId": 2,
+            "distId": 201,
+            "landNoId": 16014,
+            "landSerialNo": "3",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "5358.54平方公尺",
+            "cityLandUseTypeOther": "第二類港埠用地",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 161907,
+            "caseId": 1100,
+            "caseStatus": true,
+            "registerDate": 1043023329000,
+            "officialDocNo": "基府教社字第0920006602號",
+            "classificationId": 1,
+            "note": "公告「海港大樓」為本市歷史建築"
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.74067334682104,25.133624939603873],[121.7411615143495,25.133355232641527],[121.7407087152882,25.132678629083276],[121.7406810953777,25.132637356916593],[121.74065248917861,25.132652883160198],[121.74019355408319,25.1329020848788],[121.7402250891063,25.13294960282833],[121.74028287491022,25.13303665750216],[121.74067334682104,25.133624939603873],[121.74067334682104,25.133624939603873]]]]},\"properties\":{\"envelope\":{\"left\":\"121.74019355408319\",\"top\":\"25.132637356916593\",\"right\":\"121.7411615143495\",\"bottom\":\"25.133624939603873\"},\"landLot\":\"基隆市仁愛區站前段3\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": "國家文化記憶庫"
+}

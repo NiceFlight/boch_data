@@ -1,0 +1,99 @@
+{
+    "id": 21514,
+    "caseId": "20230130000003",
+    "count": 119,
+    "shareCount": 0,
+    "representImage": 206203,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-01-30/5d0dc43c-8af1-4465-8b6a-7a528b12462d/3 (1)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-01-30/5d0dc43c-8af1-4465-8b6a-7a528b12462d/3 (1).jpg",
+        "name": "3 (1)"
+    },
+    "caseName": "犀角雕隨形素面杯",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-工藝美術",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就",
+        "數量稀少者"
+    ],
+    "registerReason": "1.具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色 ：顯示十七世紀江南文人的品味。\n2.能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者：具十六、七世紀中國傳統犀角雕工藝之時代特色。\n3.具有藝術造詣或科學成就 ：全器 磨礱精緻光滑，工藝精美。\n4.數量稀少者 ：犀角杯傳世數量稀少，素面犀角杯更少見。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、3、4、5款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "萬華區中華路一段174-1號",
+    "reservationCode": "03",
+    "amount": 1,
+    "descAge": "清早期",
+    "descSize": "長13.5公分，高7公分",
+    "descMaterial": "犀角",
+    "reserveStatusDesc": "本件犀角杯通體光素，杯口呈長橢圓形，乃鏟下表皮露出有用牙，再截斷角尖，修整底沿，挖空內膛而成，整體質潤細膩，光澤柔和。",
+    "pastHistorySource": 7,
+    "pastHistorySourceNotes": "游鴻春2020年11月贈與",
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定，保存良好",
+    "documents": [
+        {
+            "fileid": 206202,
+            "name": "111年10月31日北市獻編字第1113003847號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-01-30/a6c5fea5-9844-44c5-b771-6247bfb11573/111年10月31日北市獻編字第1113003847號公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.51426,
+    "latitude": 25.0326,
+    "representImageSource": "郭○廷",
+    "keepNames": [
+        {
+            "keepNameIdStr": "郭○穎",
+            "keepName": "郭○穎",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "郭○穎",
+            "keepAddressNew": "重慶南路二段15號7樓",
+            "saveSpaceOther": "重慶南路二段15號7樓",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "大安區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 106790,
+            "caseId": 21514,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "重慶南路二段15號7樓"
+        }
+    ],
+    "announces": [
+        {
+            "id": 114585,
+            "caseId": 21514,
+            "caseStatus": true,
+            "registerDate": 1667145600000,
+            "officialDocNo": "北市獻編字第1113003847號公告",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

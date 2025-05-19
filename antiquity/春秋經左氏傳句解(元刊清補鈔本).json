@@ -1,0 +1,105 @@
+{
+    "id": 3452,
+    "caseId": "20131219000076",
+    "count": 62,
+    "shareCount": 0,
+    "representImage": 6027,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7215/photo/春秋經左氏傳句解(元刊清補鈔本)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7215/photo/春秋經左氏傳句解(元刊清補鈔本).jpg",
+        "name": "春秋經左氏傳句解(元刊清補鈔本)"
+    },
+    "caseName": "春秋經左氏傳句解(元刊清補鈔本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1387382400000,
+    "officialDocNo": "文資局物字第 10220148851號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "元刊清乾隆間(1736-1795)鄒奕孝鈔補本。\r\n此書為《春秋左傳》之注疏句解，其中卷三十八至卷四十三，卷五十九、六十，凡八卷為鈔配。此書原版部分版心刻有「崇文院」，又其左欄外耳題有「太平戊寅三年」，依鄒奕孝考證，「蓋賈人欲充作北宋版以求售而又去興國作太平，偽也」。可供作版本學辨偽之參考。\r\n元版古籍，罕見稀有，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號00621",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 20,
+    "notes": "",
+    "descAge": "元刊清乾隆[1736-1795]間",
+    "descCreator": "宋林堯叟注",
+    "descSize": "半葉10行，版匡24x19.7公分",
+    "descMaterial": "紙質刊本",
+    "reserveStatusDesc": "七十卷。此書為《春秋左傳》之注疏句解，其中卷三十八至卷四十三，卷五十九、六十，凡八卷為鈔配。此書原版部分版心刻有「崇文院」，又其左欄外耳題有「太平戊寅三年」，依鄒奕孝考證，「蓋賈人欲充作北宋版以求售而又去興國作太平，偽也」。可供作版本學辨偽之參考。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "第1、2冊有虫蛀。全套書經修裱，書況良好。",
+    "documents": [
+        {
+            "fileid": 6028,
+            "name": "dbb303f2-fdfc-496a-a64d-605f711274bf.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44066/file/dbb303f2-fdfc-496a-a64d-605f711274bf.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3594,
+            "caseId": 3452,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3594,
+            "caseId": 3452,
+            "caseStatus": true,
+            "registerDate": 1387382400000,
+            "officialDocNo": "文資局物字第 10220148851號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

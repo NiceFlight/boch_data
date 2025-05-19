@@ -1,0 +1,105 @@
+{
+    "id": 3284,
+    "caseId": "20160316000001",
+    "count": 470,
+    "shareCount": 1,
+    "representImage": 125485,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-20/26fdcdbb-4ff2-4cc6-bd24-8fe750daef43/古物_都蘭岩棺(TL-01-004)-永保_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-20/26fdcdbb-4ff2-4cc6-bd24-8fe750daef43/古物_都蘭岩棺(TL-01-004)-永保.jpg",
+        "name": "古物_都蘭岩棺(TL-01-004)-永保"
+    },
+    "caseName": "都蘭岩棺(TL-01-004)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-其他",
+    "otherAssetsType": "生活及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1458057600000,
+    "officialDocNo": "府文資字第1050051577號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "韓國大力推動巨石文物保存，近年辦理巨石文化節，值得參考；經調查研究顯示東部有大量的巨石文物，是十分珍貴的資產，更應努力推動保存及管理維護。",
+    "lawsReference": "1.文化資產保存法第65條\n2.古物分級登錄指定及廢止審查辦法第2、5、7條\n3.105年3月8日臺東縣文化資產審議委員會決議辦理。\n",
+    "govInstitutionCode": "950",
+    "govInstitutionName": "臺東縣政府",
+    "belongCityId": 22,
+    "belongCityName": "臺東縣",
+    "belongDistName": "臺東市",
+    "govInstitution": " 臺東縣政府",
+    "govDeptName": " 文化處文化資產科",
+    "govDeptPhone": "　089-350129",
+    "govDeptAddress": " 臺東市南京路25號",
+    "reservationCode": "-",
+    "amount": 1,
+    "descAge": "3000B.P/新石器時代晚期",
+    "descSize": "長:338公分、寬:218公分、高：64公分、 凹槽內長:183.5公分、深:56公分、穿孔外側：19公分、短軸:16公分，近似圓形，穿孔長15公分",
+    "descMaterial": "凝灰岩",
+    "reserveStatusDesc": "岩棺或稱石棺，是直接在大型岩塊上雕鑿出一個長方形的凹槽，並於其中一角的底部，打穿一個貫穿內外的穿孔。都蘭岩棺長338公分、寬218公分、高64公分、凹槽內長183.5公分、深56公分、穿孔外側19公分、短軸16公分、穿孔長15公分，保存於臺東縣都蘭遺址岩棺區內。都蘭岩棺是距今約3,500年到2,000年之間，麒麟文化（或稱巨石文化）的代表性遺物之一。岩棺是臺灣史前文化中，數量很少的大型石造物，而都蘭岩棺是其中少數保存較為完整的一個。",
+    "pastHistorySource": 7,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 112718,
+            "name": "臺東縣古物文化資產公告文-05都蘭岩棺(TL-01-004) .pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-22/2c4495bd-6cbe-4ddd-86cd-c23d498d2e06/臺東縣古物文化資產公告文-05都蘭岩棺(TL-01-004) .pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 121.146092,
+    "latitude": 22.756577,
+    "representImageSource": "109-110年度臺東縣文化資產個案資料同步更新維護計畫-姜柷山提供",
+    "keepNames": [
+        {
+            "keepNameIdStr": "臺東縣政府(文化處)",
+            "keepName": "臺東縣政府(文化處)",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "臺東縣政府(文化處)",
+            "keepAddressNew": "臺東縣台東市南京路25號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺東縣",
+            "keepNameDistName": "臺東市",
+            "keepNameAddress": "南京路25號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺東縣",
+            "distName": "臺東市",
+            "id": 79094,
+            "caseId": 3284,
+            "caseStatus": true,
+            "cityId": 22,
+            "distId": 2201,
+            "address": "南京路25號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 84888,
+            "caseId": 3284,
+            "caseStatus": true,
+            "registerDate": 1458057600000,
+            "officialDocNo": "府文資字第1050051577號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

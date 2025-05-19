@@ -1,0 +1,101 @@
+{
+    "id": 17356,
+    "caseId": "20200219000006",
+    "count": 204,
+    "shareCount": 0,
+    "representImage": 66139,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-02-14/b11b2dc3-ab3a-47c6-9b68-2ec066e2b1aa/03 (1)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-02-14/b11b2dc3-ab3a-47c6-9b68-2ec066e2b1aa/03 (1).jpg",
+        "name": "03 (1)"
+    },
+    "caseName": "干鱈鼠置物",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1581319692261,
+    "officialDocNo": "中華民國109年2月10日北市獻編字第1093001230號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "1.\t反映19世紀末至20世紀初之日本牙雕特色，具名家名款。\n2.\t生動有趣之題材，技藝精良，魚干雙面雕且染色細緻寫實，藝術造詣高，題材具故事性。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第3、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "10846臺北市萬華區中華路1段174之1號",
+    "reservationCode": "典藏03",
+    "amount": 1,
+    "descAge": "日本明治時期",
+    "descSize": "寬19公分/高5公分",
+    "descMaterial": "象牙",
+    "reserveStatusDesc": "干鱈是自江戶時代開始，日本東北和北海道地區的醃製食品代表。本件作品以日常生活中常見的干鱈為主題，細膩生動的以象牙為材料雕製。而干鱈上三隻正在偷偷啃咬的小老鼠，則為這件作品增添生機與活力。安藤綠山以精湛的技巧，染出干鱈醃製、乾燥後的灰褐漸層，色彩變化細膩雅致。干鱈的質感更是令人驚豔的地方，極薄的魚皮乾燥後而產生皺褶嶙峋的紋理栩栩如生，魚鰭絲絲的細骨一絲不苟，翻至作品背面，魚肉的紋理、魚骨的層次更是毫無保留的顯露眼前，與真正的魚乾幾無差異，極具大師風範。背面魚皮處有安藤綠山堂號「萬象」之款。",
+    "pastHistorySource": 1,
+    "saveEnvironment": 1,
+    "reserveStatus": "保存良好",
+    "documents": [
+        {
+            "fileid": 66136,
+            "name": "臺北市立文獻館公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-02-14/d856ca8b-417a-4dd8-ad09-f3be18947aba/臺北市立文獻館公告.pdf"
+        },
+        {
+            "fileid": 66138,
+            "name": "臺北市一般古物指定公告表_干鱈鼠置物.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-02-14/e0f0d805-9a18-4c89-adf1-198bcae1f482/臺北市一般古物指定公告表_干鱈鼠置物.pdf"
+        }
+    ],
+    "keepNames": [
+        {
+            "keepNameIdStr": "郭○穎",
+            "keepName": "郭芝穎",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "郭○穎",
+            "keepAddressNew": "台北市中正區重慶南路二段15號7樓",
+            "saveSpaceOther": "庫房",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "大安區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 6996,
+            "caseId": 17356,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 6996,
+            "caseId": 17356,
+            "caseStatus": true,
+            "registerDate": 1581319692261,
+            "officialDocNo": "中華民國109年2月10日北市獻編字第1093001230號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

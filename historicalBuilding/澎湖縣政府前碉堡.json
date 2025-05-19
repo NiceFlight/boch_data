@@ -1,0 +1,121 @@
+{
+    "id": 1798,
+    "caseId": "20031211000001",
+    "count": 1625,
+    "shareCount": 0,
+    "representImage": 76151,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-11-23/5c2e9876-0c97-47c9-a5ce-7c81b52779f8/澎湖縣政府前碉堡_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-11-23/5c2e9876-0c97-47c9-a5ce-7c81b52779f8/澎湖縣政府前碉堡.jpg",
+        "name": "澎湖縣政府前碉堡"
+    },
+    "caseName": "澎湖縣政府前碉堡",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "約建於民國40（1951）年間，為綠色圓形彩繪建築，共有4個開口，1為出入口，其他3個為觀測射擊口，分布在四週。當時設置碉堡的目的在保衛重要機關，防止民間暴動衝突，此座碉堡設置在澎湖縣政府前廣場東南角，歷史意義重大，幾經道路規劃變遷都未遭拆除。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "其他歷史遺蹟",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1071105214000,
+    "officialDocNo": "府授文視第09200726221 號",
+    "documents": [
+        {
+            "fileid": 76312,
+            "name": "公告公文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-11-24/20ce643d-b73a-4689-bb3f-7e761ed05499/公告公文.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "(一)具有歷史文化意義，足以作為時代的代表。\n(二)具稀有性，不易再現的建築。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "06-9261141#138",
+    "govDeptAddress": "澎湖縣馬公市中華路230號",
+    "cadasters": [
+        {
+            "fileid": 140929,
+            "name": "地籍資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-10-15/46fafc1e-416d-4f50-9b9f-b37fa9b0f671/地籍資料.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 4,
+    "cityLandUseTypeName": "行政區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "馬公市馬公段1729-0000地號",
+    "buildingFeatures": "碉堡為一直徑2.4公尺的圓型半地下化掩體構造，主體結構為混凝土造建築，周圍設有3個內緣長30公分、寬30公分，外緣高30公分、寬50公分的穹窖式射擊口，側邊和堡頂設有二處，長90公分、寬60公分的出入口。\n當時設置碉堡的目的在保衛重要機關，防止民間暴動衝突。",
+    "inHouseFeatures": "內部由地下高1.5公尺和地上高1公尺的空間形式構成。",
+    "buildingUsage": "目前為澎湖縣警察局民防課列管之防空洞，出入口上鎖，。",
+    "buildingActualState": "鄰近碉堡旁的木麻黃樹根已阻擋出入口。",
+    "buildingKeyMaintainItem": "應將樹木移植以利維護碉堡。",
+    "bulkTransfer": 0,
+    "belongAddress": "忠孝路與治平路交口西北側",
+    "isOpenVisit": false,
+    "openUpTime": "不開放",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 119.566936,
+    "latitude": 23.569691,
+    "representImageSource": "澎湖縣政府文化局文化資產科",
+    "landScope": "澎湖縣馬公市馬公段1729地號",
+    "selfCoverage": "位於澎湖縣政府前廣場東南角",
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 73477,
+            "caseId": 1798,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "忠孝路與治平路交口西北側"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "landNoName": "馬公段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 71142,
+            "caseId": 1798,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "landNoId": 15467,
+            "landSerialNo": "1729",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "area": "16532平方公尺",
+            "cityLandUseTypeOther": "機關用地",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 78477,
+            "caseId": 1798,
+            "caseStatus": true,
+            "registerDate": 1071105214000,
+            "officialDocNo": "府授文視字第09200726221號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[119.5652934683958,23.569857497436093],[119.56567179171448,23.570630937206055],[119.56577339137114,23.570590674558375],[119.56583540624186,23.570571194827185],[119.56590134446274,23.570634315164405],[119.5659291186967,23.57068310337212],[119.5658372227113,23.570716450255958],[119.56577275607145,23.570642309499224],[119.56569357466256,23.570676991059102],[119.56570558810559,23.57070035878277],[119.56575948031116,23.570726342804917],[119.56700649091468,23.57064927713471],[119.5670355770958,23.57062164412387],[119.56703477809081,23.570602370233257],[119.56702318714936,23.570463343426415],[119.56695706446824,23.57033964095035],[119.56700634885945,23.570318137623477],[119.5670116010578,23.57032500512613],[119.56699613450733,23.57013366883315],[119.56696056387895,23.569690429173527],[119.5669358441408,23.569669857118537],[119.56529334739749,23.56977574584285],[119.5652807142021,23.569774232698677],[119.56526706193014,23.569797552429733],[119.56526477909664,23.56980235757173],[119.5652934683958,23.569857497436093],[119.5652934683958,23.569857497436093]]]]},\"properties\":{\"envelope\":{\"left\":\"119.56526477909664\",\"top\":\"23.569669857118537\",\"right\":\"119.56703557709579\",\"bottom\":\"23.570726342804917\"},\"landLot\":\"澎湖縣馬公市馬公段1729\"}}],\"notfound\":[]}]",
+    "openVisitType": "",
+    "pastHistorySource": "文化局提供"
+}

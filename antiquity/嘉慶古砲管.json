@@ -1,0 +1,103 @@
+{
+    "id": 15468,
+    "caseId": "20181105000004",
+    "count": 950,
+    "shareCount": 1,
+    "representImage": 51149,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-11-05/f1b57ba8-8a46-4a81-b717-7271c36ea752/003-嘉慶古砲管_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-11-05/f1b57ba8-8a46-4a81-b717-7271c36ea752/003-嘉慶古砲管.jpg",
+        "name": "003-嘉慶古砲管"
+    },
+    "caseName": "嘉慶古砲管",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-軍事設備",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1509120000000,
+    "officialDocNo": "府文資字1060001547D號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "具有藝術造詣或科學成就",
+        "數量稀少者"
+    ],
+    "registerReason": "1.在砲管身上有清楚年代記載，製作於嘉慶22年（西元1817年），具歷史縱深，展現清領時期軍事防塞之歷史意義，也見證了頭城地區的歷史發展。\n2.古砲反映了當時之砲管製作技術，砲作為攻擊用之武器，反映了當時的科技水準與成就。\n3.宜蘭縣內流傳至今的古砲並不多，除蘇澳、寒溪之外，加上頭城之古砲也僅為少數，具有珍貴及稀有性，值得保存。\n",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1項第1、4、5款",
+    "govInstitutionCode": "260",
+    "govInstitutionName": "宜蘭縣政府",
+    "belongCityId": 4,
+    "belongCityName": "宜蘭縣",
+    "belongDistName": "頭城鎮",
+    "govInstitution": "宜蘭縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-9322440#609",
+    "govDeptAddress": "宜蘭縣宜蘭市復興路101號",
+    "reservationCode": "保管單位使用之編號",
+    "amount": 2,
+    "descAge": "1817年",
+    "descSize": "砲口直徑20公分；砲身長度180公分",
+    "descMaterial": "鑄鐵",
+    "reserveStatusDesc": "兩門古砲管砲口直徑約20公分，砲身長約180公分，材質為鑄鐵；砲身鑄有「嘉慶二十二年冬月吉 奉 憲鑄造噶瑪蘭營大砲一位六百觔」字樣。",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "時間：1979年 。遺址名稱/地點/GPS：頭城鎮武營社區",
+    "saveEnvironment": 3,
+    "reserveStatus": "原安置在北關海岸，因受海水鹽分侵蝕，砲身鏽蝕且砲身文字越來越模糊。110年2月3日遷移至宜蘭縣立蘭陽博物館，於110年6月底完成3D建模、脫鹽除鏽與防護等修復措施。",
+    "documents": [
+        {
+            "fileid": 51731,
+            "name": "古物D-14.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-11-29/47f084dd-dc3f-4295-b135-1029e3bd54d4/古物D-14.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 121.830995,
+    "latitude": 24.868833,
+    "representImageSource": "簡聰祥、宜蘭縣政府文化局 ",
+    "keepNames": [
+        {
+            "keepNameIdStr": "宜蘭縣立蘭陽博物館",
+            "keepName": "宜蘭縣頭城鎮青雲路三段750號",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "宜蘭縣立蘭陽博物館",
+            "keepAddressNew": "宜蘭縣頭城鎮青雲路三段750號",
+            "saveSpaceOther": "風景區",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "宜蘭縣",
+            "keepNameDistName": "頭城鎮",
+            "keepNameAddress": "青雲路三段750號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "宜蘭縣",
+            "distName": "頭城鎮",
+            "id": 116386,
+            "caseId": 15468,
+            "caseStatus": true,
+            "cityId": 4,
+            "distId": 402,
+            "address": "青雲路三段750號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 127078,
+            "caseId": 15468,
+            "caseStatus": true,
+            "registerDate": 1488902400000,
+            "officialDocNo": "府文資字第1060001547D號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

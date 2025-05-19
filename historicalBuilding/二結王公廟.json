@@ -1,0 +1,119 @@
+{
+    "id": 1239,
+    "caseId": "20020621000010",
+    "count": 2931,
+    "shareCount": 2,
+    "representImage": 145968,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-11-24/c59f0133-4992-4ff3-bf0e-77ef76dbc642/二結王公廟_A998629_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-11-24/c59f0133-4992-4ff3-bf0e-77ef76dbc642/二結王公廟_A998629.jpg",
+        "name": "二結王公廟_A998629"
+    },
+    "caseName": "二結王公廟",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "1786（乾隆51）年有先民廖地，奉迎古公三王神像前來二結定居，並蓋一茅屋加以奉祀。1929（昭和4）年為報神恩，地方耆宿鳩首共議原地改建，於1932（昭和7）年竣工。1969年，因廟體經數十年颱風侵襲，加以全面修護，並增建過水門及護室。\n1997年，因廟體空間狹小，社區民眾決議建新廟，為保存文化資產，在政府協助下於同年9月28日辦理千人移廟，並辦理全面修復。二結王公廟為漢式傳統廟宇，其內外型式依傳統古制構築，匯集當時噶瑪蘭第二代匠師精心之作。目前規畫為社區生活文化館，提供社區民眾文化活動使用。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "建築物類",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1024645693000,
+    "officialDocNo": "府文資字第0910003171 號",
+    "documents": [
+        {
+            "fileid": 233430,
+            "name": "二結王公廟公告公文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-10-18/ebb1c303-ec37-4bf8-9496-172e521f01e9/二結王公廟公告公文.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "本歷史建築保有傳統寺廟建築風格，創設至今社區居民奉為居家守護神，以及全台規模盛大的「過火」民俗活動，就其創建年期、歷史意義及建築特色，實有保存價值。",
+    "lawsReference": "文化資產保存法第廿七條之一暨歷史建築登錄及補助辦法第七條",
+    "govInstitutionCode": "260",
+    "govInstitutionName": "宜蘭縣政府",
+    "belongCityId": 4,
+    "belongCityName": "宜蘭縣",
+    "belongDistName": "五結鄉",
+    "govInstitution": "宜蘭縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-9322440*652",
+    "govDeptAddress": "宜蘭縣五結鄉中正路二段6之8號",
+    "cadasters": [
+        {
+            "fileid": 166987,
+            "name": "H13二結王公廟地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-06-06/91a01658-c39e-4ff6-a82f-c9adddffe1b9/H13二結王公廟地籍圖.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "寺廟用地",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "五結鄉學進段1236號",
+    "buildingFeatures": "王公廟屬閩南式傳統廟宇，其內外形式依傳統古制構築，匯集當時噶瑪蘭第二代匠師精心之作。並且在王公廟建築構造當中運用了日治時期當時社會中由日人引進的洋式建築技術，包括牆面磁磚裝飾技術、洗石子及磨石子等技術。",
+    "inHouseFeatures": "室內部分，則是以傳統木構造混和成種強之構造技術，這些建築技術都是在當時社會中最為先進的建築技術，足以呈現當代建築技術獨到之處。",
+    "buildingUsage": "民國86年全面整修後目前整體建築結構完好。",
+    "buildingActualState": "目前為社區生活文化館，提供社區民眾文化活動使用。",
+    "buildingKeyMaintainItem": "1.兩廂屋頂及金亭剪黏修復。 \n2.廟前廣場照明及綠化整備。",
+    "bulkTransfer": 0,
+    "belongAddress": "舊街路98 號",
+    "isOpenVisit": true,
+    "openUpTime": "全天開放。",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.76882258761401,
+    "latitude": 24.70820531942245,
+    "representImageSource": "宜蘭縣政府文化局",
+    "landScope": "",
+    "selfCoverage": "早期公告無此資料",
+    "addresses": [
+        {
+            "cityName": "宜蘭縣",
+            "distName": "五結鄉",
+            "id": 134296,
+            "caseId": 1239,
+            "caseStatus": true,
+            "cityId": 4,
+            "distId": 409,
+            "address": "舊街一路98號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "宜蘭縣",
+            "distName": "五結鄉",
+            "landNoName": "學進段",
+            "cityLandUseTypeName": "保存區",
+            "id": 195093,
+            "caseId": 1239,
+            "caseStatus": true,
+            "cityId": 4,
+            "distId": 409,
+            "landNoId": 6825,
+            "landSerialNo": "1236",
+            "landownership": 2,
+            "cityLandUseTypeId": 7,
+            "area": "1793.33平方公尺",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 146595,
+            "caseId": 1239,
+            "caseStatus": true,
+            "registerDate": 1024645693000,
+            "officialDocNo": "府文資字第0910003171號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.76857509449188,24.70833336730756],[121.76874573159235,24.708402847212994],[121.76875079635133,24.708391365376954],[121.76897927210601,24.708485082799303],[121.7690035225495,24.708307801707868],[121.7690014956713,24.70826325159725],[121.76899538237865,24.70822855594825],[121.76896202691907,24.70810334683056],[121.76889627370596,24.70791759809073],[121.76879355062347,24.707875010274087],[121.76856438742111,24.708306361920233],[121.76857509449188,24.70833336730756],[121.76857509449188,24.70833336730756]]]]},\"properties\":{\"envelope\":{\"left\":\"121.76856438742111\",\"top\":\"24.707875010274087\",\"right\":\"121.7690035225495\",\"bottom\":\"24.708485082799303\"},\"landLot\":\"宜蘭縣五結鄉學進段1236\"}}],\"notfound\":[]}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": "宜蘭縣歷史建築登錄二結王公廟表"
+}

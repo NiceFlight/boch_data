@@ -1,0 +1,115 @@
+{
+    "id": 20999,
+    "caseId": "20230209000001",
+    "count": 1565,
+    "shareCount": 4,
+    "representImage": 207001,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-02-09/3ef99072-fa75-44f7-985f-ef4c9028c61b/歷史建築-北門嶼陳家古厝_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-02-09/3ef99072-fa75-44f7-985f-ef4c9028c61b/歷史建築-北門嶼陳家古厝.jpg",
+        "name": "歷史建築-北門嶼陳家古厝"
+    },
+    "caseName": "北門嶼陳家古厝",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "北門嶼三合院古厝係由陳德成及陳林莅率四位兒子於西元1911年起造，後於1915年興建完成啟用。營造過程所需之木料、紅料與石材、磚瓦等皆至閩南一帶購置，並聘請閩南一帶匠師前來參與營造；其中屋宅所需之石材，皆由石匠耗時四年完工，可見工法之講究。營造期間家屬數次前往閩南與當地設計師討論並參觀當地的傳統民居，以供其親族世居。北門嶼三合院古厝興建與北門嶼產業關係密切，北門港為當初經商、捕魚與食用鹽出口之港埠，記錄當地漁民、鹽民、農民之產業發展，具地方史及產業史價值。 此建物亦為陳正美之故居，陳正美為北門地區近代文人，歷經日治及戰後兩個時期，為當時農田水利界關鍵人物，影響農田水利發展甚大。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 184168,
+            "name": "﹝公告﹞歷史建築-北門區-北門嶼陳家古厝.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-09-13/4847bd0c-0fc2-4a1e-af70-ac2d4b486827/﹝公告﹞歷史建築-北門區-北門嶼陳家古厝.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "具表現地域風貌或民間藝術特色者：為傳統三合院形制，其木作雕刻精美且未施彩繪，及近代洗石子磁磚等工法，具有在地的折衷臺、日建築文化表徵。\n具地區性建造物類型之特色者。\n該建物為臺灣地區傳統建築融合日式風格，亦見證陳氏家族在北門地區的人文與產業發展歷史，為地區具特色之建造物。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、3款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "govInstitution": "臺南市政府文化局",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569#607",
+    "govDeptAddress": "台南市中西區中正路5巷1號",
+    "cadasters": [
+        {
+            "fileid": 207000,
+            "name": "1675929769667.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2023-02-09/c1a02997-40fb-44a9-85fb-b5d5bfc80eac/1675929769667.jpg"
+        }
+    ],
+    "bulkTransfer": 1,
+    "isOpenVisit": false,
+    "isOpenDownload": false,
+    "longitude": 120.12552,
+    "latitude": 23.26582,
+    "representImageSource": "主管機關拍攝",
+    "landScope": "定著土地範圍：北門區舊埕段258地號、262地號（綠框），面積約713.7㎡。（面積依實際測量為準）\n",
+    "selfCoverage": "本體：（紅框）建物正身、左右護龍、內埕及圍牆，北門區舊埕段258地號（部分）、262地號，面積約333.8㎡。（面積依實際測量為準） ",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "北門區",
+            "id": 106972,
+            "caseId": 20999,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1625,
+            "address": "北門里舊埕19號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺南市",
+            "distName": "北門區",
+            "landNoName": "舊埕段",
+            "id": 132823,
+            "caseId": 20999,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1625,
+            "landNoId": 3248,
+            "landSerialNo": "258",
+            "area": "297.51平方公尺",
+            "noncityLandUseTypeOther": "鄉村區",
+            "note": "",
+            "cityLandUseId": 2
+        },
+        {
+            "cityName": "臺南市",
+            "distName": "北門區",
+            "landNoName": "舊埕段",
+            "id": 132824,
+            "caseId": 20999,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1625,
+            "landNoId": 3248,
+            "landSerialNo": "262",
+            "area": "416.19平方公尺",
+            "noncityLandUseTypeOther": "鄉村區",
+            "note": "",
+            "cityLandUseId": 2
+        }
+    ],
+    "announces": [
+        {
+            "id": 114810,
+            "caseId": 20999,
+            "caseStatus": true,
+            "registerDate": 1661928515078,
+            "officialDocNo": "南市文資字第1111090680A號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.12491508687522,23.26581232361368],[120.12474206701117,23.265733028158508],[120.124662486083,23.26585245397217],[120.12479235339393,23.26593253625071],[120.12491508687522,23.26581232361368],[120.12491508687522,23.26581232361368]]]]},\"properties\":{\"envelope\":{\"left\":\"120.124662486083\",\"top\":\"23.265733028158508\",\"right\":\"120.12491508687522\",\"bottom\":\"23.265932536250709\"},\"landLot\":\"臺南市北門區舊埕段258\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.12491508687522,23.26581232361368],[120.12479235339393,23.26593253625071],[120.1247776692302,23.265968280546172],[120.12499260728936,23.266036560515378],[120.12500792140487,23.266010031836775],[120.12504671096734,23.26585240348732],[120.12491508687522,23.26581232361368],[120.12491508687522,23.26581232361368]]]]},\"properties\":{\"envelope\":{\"left\":\"120.1247776692302\",\"top\":\"23.26581232361368\",\"right\":\"120.12504671096734\",\"bottom\":\"23.266036560515378\"},\"landLot\":\"臺南市北門區舊埕段262\"}}],\"notfound\":[]}]",
+    "openVisitType": "",
+    "pastHistorySource": "提報人提供"
+}

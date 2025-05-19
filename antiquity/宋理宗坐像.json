@@ -1,0 +1,111 @@
+{
+    "id": 4170,
+    "caseId": "20110422000082",
+    "count": 322,
+    "shareCount": 0,
+    "representImage": 7090,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36052/photo/d6abdc66-253b-4cb8-9d5d-74bbf381df09_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36052/photo/d6abdc66-253b-4cb8-9d5d-74bbf381df09.jpg",
+        "name": "d6abdc66-253b-4cb8-9d5d-74bbf381df09"
+    },
+    "caseName": "宋理宗坐像",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1303401600000,
+    "officialDocNo": "會授資籌二字10020040353號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "歷史流傳已久或史事具有深厚淵源",
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1. 本幅為傳世極為罕見的南宋肖像畫作品，反映了當時畫家卓絕的寫實功力，以精緻的筆墨、細膩的敷色，真實地呈現宮中禮制。\n2. 畫中人物的容貌以及妝扮和服飾上的特色，是研究歷史和服飾史的重要依據。\n3. 本件為南薰殿舊藏，且為國立故宮博物院僅有。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第四條第一項第一、二、三、四、五、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化資產局",
+    "govDeptName": "古物科",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "中畫000310",
+    "amount": 1,
+    "notes": "",
+    "descAge": "南宋",
+    "descSize": "189 x 108.5 公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "理宗趙昀（1205-1264）是太祖的第十世孫，在位共四十年（1225-1264）。期間對程朱理學至為推崇，堪稱是南宋將理學推向官學化最為重要的一位君主。逝後廟號亦定為理宗，可謂實至名歸。\n本幅中，理宗的面相豐碩，膚色稍黯，目光銳利，眼角明顯上揚。院藏馬麟〈伏羲像〉與〈靜聽松風〉二軸裡的人物，相貌亦皆與理宗相彷彿。故有學者以為，這是畫家刻意將理宗神格化，據以合理化他繼承道統的正統性。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "包首：磨損，霉傷。本幅：霉傷，水漬，折裂，剝落。缺一軸頭。有損傷但狀況穩定 ",
+    "documents": [
+        {
+            "fileid": 152176,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-28/e9beba78-81e6-48b1-a041-951c21030cf2/公告.pdf"
+        },
+        {
+            "fileid": 152177,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-28/e510ac12-e578-4f3f-80d7-c8c913835d8e/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71704,
+            "caseId": 4170,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 76180,
+            "caseId": 4170,
+            "caseStatus": true,
+            "registerDate": 1303401600000,
+            "officialDocNo": "會授資籌二字10020040353號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

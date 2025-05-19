@@ -1,0 +1,95 @@
+{
+    "id": 18207,
+    "caseId": "20201217000017",
+    "count": 127,
+    "shareCount": 0,
+    "representImage": 90063,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-12-17/6d4b6489-477e-4a50-a66a-ed183b7255bb/07_1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-12-17/6d4b6489-477e-4a50-a66a-ed183b7255bb/07_1.jpg",
+        "name": "07_1"
+    },
+    "caseName": "和尚置物",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1606374598580,
+    "officialDocNo": "北市獻編字第1093004298號",
+    "judgeCriteria": [
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "作工精緻藝術性高，人物雕刻寫實，形象自然，所著襟衫紋飾細緻，生動典雅，具藝術造詣。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174-1號",
+    "reservationCode": "07",
+    "amount": 1,
+    "descAge": "日本大正時期",
+    "descSize": "高 9.9 公分",
+    "descMaterial": "象牙",
+    "reserveStatusDesc": "日本的佛教約在飛鳥時代傳入，並於奈良時代與平安時代開始發展，為漢傳佛教的一支，以大乘佛教為主流。其宗教的最大特色是「神佛習合」，即神道與佛教不分家，相互融合。然而，實際上是「佛主神從」的關係，即佛教為主，神道依附在佛教之中，處於次要地位。明治維新時期，政府打出「神武創業」（即復興神武天皇時代的「祭政一致」體制）的旗幟，採取「復古」與「維新」的雙重政策。中國佛教已經消失的宗派如真言宗、三論宗等，在日本反而傳承至今。\n此件作品雕琢面容莊嚴慈祥的和尚，呈站姿，身著寬袖對襟式百衲衣袈裟，袈裟的衣襟和布片之間表現的縫線用橫布紋表現，右手橫持卷軸高舉，左手持一串佛珠，目視前方，神態似在掐珠念經，形象生動傳神。整體雕琢細緻，人物造型比例準確，臉部五官、皺紋、衣著紋理、摺痕刻畫自然，顯露藝術家高深的雕刻功力。作品於造像背部底端落有「親章」款，作者生平不詳，配原装木箱。",
+    "pastHistorySource": 1,
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定。",
+    "documents": [
+        {
+            "fileid": 90064,
+            "name": "臺北市公告指定一般古物1091126.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-17/f735e3e3-a3d4-46ee-807b-2b42ad53200d/臺北市公告指定一般古物1091126.pdf"
+        }
+    ],
+    "keepNames": [
+        {
+            "keepNameIdStr": "郭○穎",
+            "keepName": "郭○穎",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "郭○穎",
+            "keepAddressNew": "臺北市中正區重慶南路二段15號7樓",
+            "saveSpaceOther": "庫房",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "大安區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 7822,
+            "caseId": 18207,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 7822,
+            "caseId": 18207,
+            "caseStatus": true,
+            "registerDate": 1606374598580,
+            "officialDocNo": "北市獻編字第1093004298號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

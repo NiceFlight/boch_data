@@ -1,0 +1,128 @@
+{
+    "id": 16032,
+    "caseId": "20180802000001",
+    "count": 6441,
+    "shareCount": 4,
+    "representImage": 175266,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/ee7a3329-715e-49a9-8d08-df9874c33187/代表圖像_新北投車站_20220706_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/ee7a3329-715e-49a9-8d08-df9874c33187/代表圖像_新北投車站_20220706.jpg",
+        "name": "代表圖像_新北投車站_20220706"
+    },
+    "caseName": "新北投車站",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "新北投乘降場(新北投車站原名)建於1916年，1988年因興建捷運淡北線停駛，車站面臨拆除，後拆遷至臺灣民俗村重建保存。2003年起因文資保存意識抬頭，臺北市政府與民間開始協力爭取車站回家。民國102年4月獲得新產權人日榮公司同意無償捐贈車站，站體於103年初運回臺北市，重建完成後於106年4月1日正式開幕。",
+    "assetsTypeNames": "車站",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 49380,
+            "name": "新北投車站登錄歷史建築公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-08-02/ee5425e9-0a01-45d6-8b23-13b4fbccbde8/新北投車站登錄歷史建築公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "1.新北投車站(原稱「新北投乘降場」)於1916年啟用，為因應新北投地區溫泉觀光產業所設立，見證新北投溫泉產業由日治至今之發展歷程，且亦為「新北投」地名的由來，在新北投的發展史上深具歷史意義。\n2.新北投火車站為日治時期留存之木造建築中，少數採用哥德式構架者，後續歷經二次遷移，雖局部構件歷經改變，惟仍保留原有站體建築大部，具建築史上之價值。\n3.1988年因捷運興建工程，新北投車站拆遷至台灣民俗村重建保存，2003年本府與民間協力爭取車站移回，歷經多年努力車站終於返鄉，並於2017年完成重組工程。車站整建與遷移過程引發社會各界高度關切，在臺灣文化資產保存史上深具意義 。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第2、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 49382,
+            "name": "公告地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2018-08-02/8125a900-5746-4a78-a4d4-e8a9dc4c1403/公告地籍圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "公園用地(公共設施用地)",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "北投區大業段一小段14、19（部分）",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.501892,
+    "latitude": 25.1367076,
+    "representImageSource": "臺北市文化局",
+    "landScope": "北投區大業段一小段14、19（部分）",
+    "selfCoverage": "實際保存面積須以保存範圍實測數據為準",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "id": 86235,
+            "caseId": 16032,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "address": "七星街1號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "landNoName": "大業段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 100223,
+            "caseId": 16032,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "landNoId": 650,
+            "landSerialNo": "14",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "10,708平方公尺",
+            "cityLandUseTypeOther": "公園用地(公共設施用地) ",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "landNoName": "大業段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 100224,
+            "caseId": 16032,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "landNoId": 650,
+            "landSerialNo": "19",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "97平方公尺",
+            "cityLandUseTypeOther": "公園用地(公共設施用地) ",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 92722,
+            "caseId": 16032,
+            "caseStatus": true,
+            "registerDate": 1527609600000,
+            "officialDocNo": "北市文化文資字第10760121441號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

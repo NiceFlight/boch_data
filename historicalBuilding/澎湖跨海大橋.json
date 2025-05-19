@@ -1,0 +1,101 @@
+{
+    "id": 1816,
+    "caseId": "20031211000007",
+    "count": 2947,
+    "shareCount": 2,
+    "representImage": 73732,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-10-27/87a179c0-9458-471b-bd94-14367ba7e463/跨海大橋_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-10-27/87a179c0-9458-471b-bd94-14367ba7e463/跨海大橋.jpg",
+        "name": "跨海大橋"
+    },
+    "caseName": "澎湖跨海大橋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "民國54（1965）年創建，民國59（1970）年完工，建橋之初長度為2160公尺，改建後長度為2600公尺，橋的兩端設有拱形橋門，橋門側則樹立相關的紀念碑和紀念碑亭。跨海大橋主要聯繫白沙和西嶼之間，使得澎湖主要的島嶼之間可以接續，是澎湖地區重要的交通命脈，民國73（1984）年改建新橋，民國83（1994）1月竣工，目前的長度為2600公尺，也是台灣最長的橋。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "其他歷史遺蹟",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1071134647000,
+    "officialDocNo": "府授文視第09200726227號",
+    "documents": [
+        {
+            "fileid": 76826,
+            "name": "公告公文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-11-30/389c9d7b-d91c-43d4-b164-e0b4229eff07/公告公文.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "(一)創建年期久遠。\n(二)具有歷史文化意義，足以作為時代的代表。\n(三)具稀有性，不易再現的建築。\n(四)具有建築史上的意義，有再利用的價值及潛力。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "白沙鄉",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "06-9261141#138",
+    "govDeptAddress": "澎湖縣馬公市中華路230號",
+    "cadasters": [
+        {
+            "fileid": 77223,
+            "name": "澎湖跨海大橋.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2020-12-02/af661c6b-9067-418d-aa93-ed058f8f9f8f/澎湖跨海大橋.jpg"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 10,
+    "nonCityLandUseTypeName": "特定專用區",
+    "nonCityLandUseSubTypeId": 11,
+    "nonCityLandUseSubTypeName": "交通",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "無",
+    "buildingFeatures": "跨海大橋主要聯繫白沙和西嶼之間，使得澎湖主要的島嶼之間可以接續，是澎湖地區重要的交通命脈，島嶼之間可以接續，是澎湖地區重要的交通命脈，當時更允稱為遠東第一跨海大橋。",
+    "inHouseFeatures": "無",
+    "buildingUsage": "定期派人巡視橋墩主體。",
+    "buildingActualState": "誇海大橋係聯繫白沙和西嶼之間重要的交通命脈，常年經風浪侵蝕，橋墩部份因東北季風及鹽份侵蝕損壞。",
+    "buildingKeyMaintainItem": "定期派人巡視橋墩主體。",
+    "bulkTransfer": 0,
+    "belongAddress": "通樑村與西嶼鄉橫礁村之間",
+    "isOpenVisit": true,
+    "openUpTime": "全天開放",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 119.554602,
+    "latitude": 23.658029,
+    "representImageSource": "澎湖縣政府文化局文化資產科",
+    "landScope": "澎湖縣白沙鄉通樑村與西嶼鄉橫礁村之間",
+    "selfCoverage": "澎湖跨海大橋橫跨於白沙島和西嶼島， 兩島之間的「吼門」海道上。全長2600公尺，橋面13公尺，兩旁護欄。",
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "白沙鄉",
+            "id": 73472,
+            "caseId": 1816,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2105,
+            "address": "通樑村與西嶼鄉橫礁村之間"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 78470,
+            "caseId": 1816,
+            "caseStatus": true,
+            "registerDate": 1071134647000,
+            "officialDocNo": "府授文視字第09200726227號",
+            "classificationId": 1
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "文化局提供"
+}

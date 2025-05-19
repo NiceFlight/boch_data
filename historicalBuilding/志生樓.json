@@ -1,0 +1,120 @@
+{
+    "id": 16707,
+    "caseId": "20190410000002",
+    "count": 2183,
+    "shareCount": 1,
+    "representImage": 200683,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/8d5cdc5b-1c10-41ec-beb9-ae343b077c8a/代表圖像_志生樓_20220922_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/8d5cdc5b-1c10-41ec-beb9-ae343b077c8a/代表圖像_志生樓_20220922.jpeg",
+        "name": "代表圖像_志生樓_20220922"
+    },
+    "caseName": "志生樓",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "1.建物應建於1945年前，2008年曾委託許伯元建築師事務所辦理大規模整修。\n2.應由株式會社大同鐵工所(大同股份有限公司前身)興建，為大同公司總公司廠內最早興建之建築物。",
+    "assetsTypeNames": "辦公廳舍",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 172141,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-06/f0b7ab56-2e63-4d4f-8aa4-4e2c1f05327e/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "1、本建物為三層磚造，磚拱開口作工細緻，窗戶下方有推拉通風窗、承重牆內有內嵌書櫃，具有傳統建物紅磚造之特色。\n2、屋架結構依標準的構造與做法施作，三樓木桁架形式為標準型國王式桁架，木屋架兩端的「寄棟造」構成相當完整，為「洋小屋寄棟造木造屋架建築」之範例。\n3、本建物雖經民國97年整修，惟仍以原有構法及空間為修復依據，主要結構保留完整，外觀不失原有風格，且目前保存與活化狀況良好。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第2款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 53764,
+            "name": "志生樓1071109公告之地籍地形圖1080107.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2019-01-07/d914b8f8-b41f-41a3-9822-66100cbc3832/志生樓1071109公告之地籍地形圖1080107.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 3,
+    "cityLandUseTypeName": "工業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市中山區中山段二小段40、4-68地號。",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "longitude": 121.52173,
+    "latitude": 25.064468,
+    "representImageSource": "臺北市文化局",
+    "landScope": "坐落臺北市中山區中山段二小段40(部分、面積為260平方公尺)、4-68(部分、面積為160.66平方公尺)地號，共計2筆地號。",
+    "selfCoverage": "1261.98平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中山區",
+            "id": 105809,
+            "caseId": 16707,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 103,
+            "address": "中山北路3段22號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中山區",
+            "landNoName": "中山段二小段",
+            "cityLandUseTypeName": "工業區",
+            "id": 130014,
+            "caseId": 16707,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 103,
+            "landNoId": 209,
+            "landSerialNo": "40",
+            "landownership": 2,
+            "cityLandUseTypeId": 3,
+            "area": "260",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中山區",
+            "landNoName": "中山段二小段",
+            "cityLandUseTypeName": "工業區",
+            "id": 130015,
+            "caseId": 16707,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 103,
+            "landNoId": 209,
+            "landSerialNo": "4-68",
+            "cityLandUseTypeId": 3,
+            "area": "160.66",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 113411,
+            "caseId": 16707,
+            "caseStatus": true,
+            "registerDate": 1541692800000,
+            "officialDocNo": "北市文化文資字第10760248171號公告",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": ""
+}

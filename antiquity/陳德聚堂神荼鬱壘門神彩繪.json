@@ -1,0 +1,97 @@
+{
+    "id": 22673,
+    "caseId": "20240426000003",
+    "count": 294,
+    "shareCount": 0,
+    "representImage": 256137,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-04-26/b2a1f502-273b-4993-a927-98e9a3f8e729/下載_c.png"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-04-26/b2a1f502-273b-4993-a927-98e9a3f8e729/下載.png",
+        "name": "下載"
+    },
+    "caseName": "陳德聚堂神荼鬱壘門神彩繪",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "具有藝術造詣或科學成就",
+        "數量稀少者"
+    ],
+    "registerReason": "1. 具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：陳玉峰為本土第一代彩繪藝師代表，對於府城彩繪匠師頗具影響力，又其作品分布於廟宇、民宅、宗祠，對府城乃至於臺灣彩繪發展上，具有重要的地位，此作品亦充份表達傳統工藝美術之特色。\n\n2. 具有藝術造詣或科學成就：府城著名彩繪藝師陳玉峰所繪門神，重視人物整體氣氛烘托，強調「化色」功夫，色彩處理上以一主色為基調，營造明暗變化的立體感，本組門神為其人生最後階段作品，具藝術價值及代表性。\n\n3. 數量稀少者：目前已知現存陳玉峰藝師所繪門神數量稀少，且多經重繪，就目前已知資料，此組作品為其1961-1962年間受陳德聚堂委託之作，是其生涯最後期的作品，具代表性及稀有性。\n",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、4、5款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "govInstitution": "臺南市文化局",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市北區公園北路3號(許石音樂圖書館地下1樓)",
+    "reservationCode": "20220100071-001、20220100071-002",
+    "amount": 2,
+    "descAge": "1961~1962",
+    "descCreator": "陳玉峰",
+    "descSize": "長257cm、寬64cm、厚5cm",
+    "descMaterial": "木質",
+    "reserveStatusDesc": "兩扇門神狀態完整，以傳統門神「神荼、鬱壘」持斧捻鬚為主題，木作結構完整，木板結構堅實，有嗑、碰傷等小缺損。本組門神與陳德聚堂內受託繪製的四幅濕壁畫應屬同一時期，另有陳德聚堂提供之委託收據為證，收據上留有陳延祿（陳玉峰本名）署名，為陳玉峰藝師1961年至1962年晚期之作。陳玉峰所繪門神，重視人物整體氣氛烘托，強調「化色」功夫，色彩處理上以一主色為基調，營造明暗變化的立體感。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "陳德聚堂/2022",
+    "saveEnvironment": 1,
+    "reserveStatus": "兩扇門神狀態完整，木作結構完整，木板結構堅實，有嗑、碰傷等小缺損。",
+    "documents": [
+        {
+            "fileid": 256138,
+            "name": "02-陳德聚堂神荼鬱壘門神彩繪公告new.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-04-26/2b954dec-07ba-41e9-a2f4-c32ac4f713c9/02-陳德聚堂神荼鬱壘門神彩繪公告new.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "拍攝",
+    "keepNames": [
+        {
+            "keepNameIdStr": "臺南市政府",
+            "keepName": "臺南市政府",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立臺南藝術大學",
+            "keepAddressNew": "72045台南市官田區大崎66號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "公務設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺南市",
+            "keepNameDistName": "官田區",
+            "keepNameAddress": "大崎里大崎66號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "官田區",
+            "id": 135525,
+            "caseId": 22673,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1618,
+            "address": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 148000,
+            "caseId": 22673,
+            "caseStatus": true,
+            "registerDate": 1712571322701,
+            "officialDocNo": "南市文資字1130403942B號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

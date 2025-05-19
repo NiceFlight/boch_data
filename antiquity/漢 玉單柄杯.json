@@ -1,0 +1,101 @@
+{
+    "id": 3810,
+    "caseId": "20140421000024",
+    "count": 306,
+    "shareCount": 0,
+    "representImage": 6606,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7086/photo/漢玉單柄杯_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7086/photo/漢玉單柄杯.JPG",
+        "name": "漢玉單柄杯"
+    },
+    "caseName": "漢 玉單柄杯",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1398009600000,
+    "officialDocNo": "文資物字第10320043691號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本件長樂璧為閃玉，質地通透、光澤瑩潤。外形係出廓璧。紋此件玉單柄杯，白色閃玉。帶有銅綠沁，口緣沁色鮮豔。杯體略呈細長的圓錐形，有高足與單柄。自口緣至高足上，以五條橫飾帶圍繞器表，飾帶中淺浮雕各式雲紋、四瓣葉紋。\r\n據文獻記載，貴族以玉杯盛裝露水和以玉屑服用，以祈羽化登仙。考古印證此類玉杯皆出土於帝陵遺址或大貴族墓中。本器比例優美、製作精良，是探討當時神仙思想的重要文物。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第5、6　款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故玉002121",
+    "amount": 1,
+    "notes": "",
+    "descAge": "漢",
+    "descSize": "高：12.3；口徑：4.3（公分）",
+    "descMaterial": "閃玉",
+    "reserveStatusDesc": "質材：白色閃玉，玉質細緻。口緣處、柄之外側、高足至器腹下端，都有銅綠沁，其中以口緣沁色較為鮮豔。\r\n形制：杯體略呈細長的圓錐形，有高足與單柄。\r\n紋飾：自口緣至高足上，以五條橫飾帶圍繞器表，飾帶中淺浮雕各式雲紋、四瓣葉紋。\r\n其他：清宮中配製木座。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。口緣輕傷、把鋬尖端、把鋬邊緣、足緣各有輕傷。",
+    "documents": [
+        {
+            "fileid": 150248,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-13/ad492c9d-62ea-498b-b7ea-703112553500/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70855,
+            "caseId": 3810,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": " 至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75124,
+            "caseId": 3810,
+            "caseStatus": true,
+            "registerDate": 1398009600000,
+            "officialDocNo": "文資物字第10320043691號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

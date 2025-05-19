@@ -1,0 +1,154 @@
+{
+    "id": 16805,
+    "caseId": "20190530000001",
+    "count": 3582,
+    "shareCount": 2,
+    "representImage": 153215,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-02-23/ffbd8013-57e4-431c-86ac-c98713d2089a/原恆春郡役所官舍照片_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-02-23/ffbd8013-57e4-431c-86ac-c98713d2089a/原恆春郡役所官舍照片.jpg",
+        "name": "原恆春郡役所官舍照片"
+    },
+    "caseName": "原恆春郡役所官舍",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "座落於舊恆春縣城內，日治時期恆春第一公學校(原恆春國語傳習所、恆春公學校)近旁。本案建築興築緣起的事件背景屬恆春行政改轄過程。日大正9年(1920)本區升格為高雄州恆春郡，大批官吏回到城內，原有的廳舍已不敷使用，本郡所官舍即為此時期興建。為日治時期之官舍建築，屬雙併式丙種官舍、屋組為日式小屋組、外牆為雨淋板。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "官舍建築",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1557763200000,
+    "officialDocNo": "屏府文保字第10830188900號",
+    "documents": [
+        {
+            "fileid": 153401,
+            "name": "公告函-屏府文保字第10830188900號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-02-25/61770516-2be0-4137-8d41-cda05e76ce2a/公告函-屏府文保字第10830188900號.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1.具日治時期之官舍建築，屬雙拼式丙種官舍。\n2.日式小屋組外牆、雨林板、雙拼官舍。\n3.恆春保存之重要官舍建築，具地方特色。\n4.建物具建築技術史價值、亦呈現地域風貌。",
+    "lawsReference": "文化資產保存法第18條\n歷史建築紀念建築登錄廢止審查及輔助辦法第2條第1項第1、2、3款",
+    "govInstitutionCode": "900",
+    "govInstitutionName": "屏東縣政府",
+    "belongCityId": 20,
+    "belongCityName": "屏東縣",
+    "belongDistName": "恆春鎮",
+    "govInstitution": "屏東縣政府",
+    "govDeptName": "屏東縣文化資產保護所",
+    "govDeptPhone": "08-7210234",
+    "govDeptAddress": "屏東縣屏東市菸廠路1號\t",
+    "cadasters": [
+        {
+            "fileid": 153225,
+            "name": "原恆春郡役所官舍地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-02-23/a3e3895a-0fde-48e9-82a3-da61a14c0934/原恆春郡役所官舍地籍圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "屏東縣恆春鎮城南段78地號、恆春鎮城南段79地號、恆春鎮城南段272地號",
+    "buildingFeatures": "雙併式丙種官舍，切妻屋根(ともいう)山牆雙坡屋頂、外牆雨淋板為精緻的簓子下見板張式樣，地板高架以防潮抗濕。",
+    "inHouseFeatures": "雙併式丙種官舍，座敷六疊、居間四疊半、玄關二疊。",
+    "buildingUsage": "修復中(110年9月現勘)。",
+    "buildingActualState": "屬雙併式丙種官舍，單戶約13坪，右側戶台所、風呂空間已經佚失；左側戶台所、風呂牆體殘存，但已改造；室內居間障子門、隔間牆均已改造或佚失；床、床束等床組尚存，型式構造保存完整。",
+    "buildingKeyMaintainItem": "無",
+    "bulkTransfer": 0,
+    "belongAddress": "屏東縣恆春鎮文化路37號",
+    "isOpenVisit": false,
+    "openUpTime": "未開放",
+    "isCharge": false,
+    "isOpenDownload": true,
+    "longitude": 120.748158,
+    "latitude": 22.003551,
+    "representImageSource": "屏東縣政府",
+    "landScope": "屏東縣恆春鎮城南段78、79、272地號，地號面積共2,423.29平方公尺。",
+    "selfCoverage": "屏東縣恆春鎮文化路37號歷史建築本體",
+    "addresses": [
+        {
+            "cityName": "屏東縣",
+            "distName": "恆春鎮",
+            "id": 78603,
+            "caseId": 16805,
+            "caseStatus": true,
+            "cityId": 20,
+            "distId": 2032,
+            "address": "文化路37號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "屏東縣",
+            "distName": "恆春鎮",
+            "landNoName": "城南段",
+            "id": 83085,
+            "caseId": 16805,
+            "caseStatus": true,
+            "cityId": 20,
+            "distId": 2032,
+            "landNoId": 13866,
+            "landSerialNo": "78",
+            "landownership": 1,
+            "area": "",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "屏東縣",
+            "distName": "恆春鎮",
+            "landNoName": "城南段",
+            "id": 83086,
+            "caseId": 16805,
+            "caseStatus": true,
+            "cityId": 20,
+            "distId": 2032,
+            "landNoId": 13866,
+            "landSerialNo": "79",
+            "landownership": 1,
+            "area": "",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "屏東縣",
+            "distName": "恆春鎮",
+            "landNoName": "城南段",
+            "id": 83087,
+            "caseId": 16805,
+            "caseStatus": true,
+            "cityId": 20,
+            "distId": 2032,
+            "landNoId": 13866,
+            "landSerialNo": "272",
+            "landownership": 1,
+            "area": "",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 84315,
+            "caseId": 16805,
+            "caseStatus": true,
+            "registerDate": 1557763200000,
+            "officialDocNo": "屏府文保字第10830188900號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.74812614570762,22.003166159241417],[120.74811263781463,22.00316721959941],[120.74793397880028,22.003500858497073],[120.74821840534841,22.003655310040063],[120.74831523068029,22.00349997550361],[120.74847036570544,22.003586774203793],[120.74856583166662,22.003440899134134],[120.74852713175356,22.003388545727066],[120.74812614570762,22.003166159241417],[120.74812614570762,22.003166159241417]]]]},\"properties\":{\"envelope\":{\"left\":\"120.74793397880028\",\"top\":\"22.003166159241417\",\"right\":\"120.74856583166662\",\"bottom\":\"22.003655310040063\"},\"landLot\":\"屏東縣恆春鎮城南段78\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.74831523068029,22.00349997550361],[120.74821840534841,22.003655310040063],[120.74837122468651,22.003738296571996],[120.74847036570544,22.003586774203793],[120.74831523068029,22.00349997550361],[120.74831523068029,22.00349997550361]]]]},\"properties\":{\"envelope\":{\"left\":\"120.74821840534841\",\"top\":\"22.003499975503608\",\"right\":\"120.74847036570544\",\"bottom\":\"22.003738296571996\"},\"landLot\":\"屏東縣恆春鎮城南段79\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.74811263781463,22.00316721959941],[120.74806988912161,22.003170582400223],[120.74790546642272,22.003448827685087],[120.74791832797797,22.003492352685594],[120.74793397880028,22.003500858497073],[120.74811263781463,22.00316721959941],[120.74811263781463,22.00316721959941]]]]},\"properties\":{\"envelope\":{\"left\":\"120.74790546642272\",\"top\":\"22.003167219599408\",\"right\":\"120.74811263781463\",\"bottom\":\"22.003500858497073\"},\"landLot\":\"屏東縣恆春鎮城南段272\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": "歷史建築「原恆春郡役所官舍」清冊"
+}

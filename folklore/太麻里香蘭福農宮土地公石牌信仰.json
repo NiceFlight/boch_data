@@ -1,0 +1,112 @@
+{
+    "id": 2823,
+    "caseId": "20070123000004",
+    "count": 2263,
+    "shareCount": 0,
+    "representImage": 125498,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-20/630f721c-c830-4504-a4c5-5a1afeaba745/民俗10_福農宮石牌土地公-永保_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-20/630f721c-c830-4504-a4c5-5a1afeaba745/民俗10_福農宮石牌土地公-永保.jpg",
+        "name": "民俗10_福農宮石牌土地公-永保"
+    },
+    "caseName": "太麻里香蘭福農宮土地公石牌信仰",
+    "classifyCode": "5.1",
+    "classifyName": "民俗",
+    "assetsTypeNames": "儀式、祭典、節慶",
+    "assetsClassifyCode": "5.1.1",
+    "assetsClassifyName": "民俗",
+    "registerDate": 1169481600000,
+    "officialDocNo": "府文資字第 0963002803 號",
+    "documents": [
+        {
+            "fileid": 111884,
+            "name": "臺東縣民俗文化資產公告文-10福農宮石牌土地公信仰-96年登錄公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-19/15182ceb-d80b-495f-9d51-73b6e43d2163/臺東縣民俗文化資產公告文-10福農宮石牌土地公信仰-96年登錄公告.pdf"
+        },
+        {
+            "fileid": 111885,
+            "name": "臺東縣民俗文化資產公告文-10福農宮石牌土地公信仰-103年變更文資名稱 .pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-19/9a52daac-04ae-4bff-9ebe-5ddc03dce2ca/臺東縣民俗文化資產公告文-10福農宮石牌土地公信仰-103年變更文資名稱 .pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "傳統性：具有古昔生活傳承，風俗形成與發展者",
+        "地方性：民俗其形成與發展具地方特色，或與其他地區有顯著差異者"
+    ],
+    "registerReason": "具文化資產價值",
+    "lawsReference": "1.文化資產法第59條辦理。\n2.102年12月5日召開臺東縣102年度第1次「文化資產審議委員會議」決議辦理。\n",
+    "govInstitutionCode": "950",
+    "govInstitutionName": "臺東縣政府",
+    "belongCityId": 22,
+    "belongCityName": "臺東縣",
+    "govInstitution": "　臺東縣政府",
+    "govDeptName": "　文化處文化資產科",
+    "govDeptPhone": "　089-350129",
+    "govDeptAddress": "　臺東市南京路25號",
+    "belongAddress": "香蘭村12號",
+    "historyDevelopment": "福農宮原址位於今福農宮龍堵所在，是日治時期太麻里香蘭一帶民眾取水之地，村民興建土地公祠，奉祀石板牌位土地公，用以鎮守及護佑。\n民國55年（1966）有村民從高雄縣美濃鎮五穀神廟請回神農大帝，增建為福農宮，原土地公祠之石板牌位同祀宮內。\n福農宮於民國91年（2002）重建，正殿主祀神農大帝，同祀原土地公廟之石板牌位（神位）和關聖帝君，是臺東縣少見的石牌土地公形式。\n",
+    "preservers": [
+        {
+            "id": 16787,
+            "type": "團體",
+            "caseName": "福農宮",
+            "cityName": "臺東縣",
+            "distName": "太麻里鄉",
+            "caseArtistEntities": [],
+            "representImage": 111888,
+            "judgeCriteria": [
+                "充分了解該登錄項目之知識、技術與文化表現形式",
+                "具協助推動該登錄項目保存維護工作之能力與意願",
+                "在文化脈絡下為適當者"
+            ],
+            "registerReason": "資料未填寫",
+            "lawsReference": "<<民俗登錄認定及廢止審查辦法>>第4條第1、2、3款",
+            "isOpenDownload": false,
+            "representImageSource": "趙守彥",
+            "contactorIsOpen": false
+        }
+    ],
+    "culturalArtifact": [],
+    "holdPeriod": 1,
+    "hostUnitName": "",
+    "hostContactorName": "",
+    "hostContactorPhone": "",
+    "hostContactorAddress": "",
+    "representImageSource": "109-110年度臺東縣文化資產個案資料同步更新維護計畫-姜柷山提供",
+    "addresses": [
+        {
+            "cityName": "臺東縣",
+            "id": 45450,
+            "caseId": 2823,
+            "caseStatus": true,
+            "cityId": 22,
+            "address": "香蘭村12號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 46988,
+            "caseId": 2823,
+            "caseStatus": true,
+            "registerDate": 1169481600000,
+            "officialDocNo": "府文資字第 0963002803 號",
+            "classificationId": 1
+        },
+        {
+            "id": 46989,
+            "caseId": 2823,
+            "caseStatus": true,
+            "registerDate": 1390801279996,
+            "officialDocNo": "府文資字第1030010723號",
+            "classificationId": 2
+        }
+    ],
+    "ceremony": [],
+    "lops": [],
+    "taboos": [],
+    "features": [],
+    "isOpenDownload": true
+}

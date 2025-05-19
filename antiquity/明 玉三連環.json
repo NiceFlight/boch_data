@@ -1,0 +1,102 @@
+{
+    "id": 3821,
+    "caseId": "20140421000035",
+    "count": 332,
+    "shareCount": 0,
+    "representImage": 6622,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39170/photo/pic054_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39170/photo/pic054.jpg",
+        "name": "pic054"
+    },
+    "caseName": "明 玉三連環",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1398009600000,
+    "officialDocNo": "文資物字第10320043691號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "此件明代玉三連環，青玉質，有褐黃斑。外形鋪平時像圓璧，由裡而外劃分為三環，最特殊的一點在於三環可以展開，開展後兩兩以卡榫相連，三者形成一個球體，類似渾天儀。裡環的紋樣為太陽、星辰與雲氣，象徵天；中環琢龍紋，代表人間的帝王；外環則是四方山嶽與海波的圖象，象徵大地。\r\n《易繫辭》：「易之為書也，廣大悉備，有天道焉；有人道焉；有地道焉，兼三才而兩之，故六。六者非他也，三才之道也。」而這件玉三連環，正是中國天、地、人所謂「三才」者是一體之觀念的具象化。造形與做工均極為特殊，結合人文與科技的元素，罕見稀有。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第1、5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故玉001246",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descSize": "外徑：11.75 公分",
+    "descMaterial": "閃玉",
+    "reserveStatusDesc": "質材：青玉質，有褐黃斑。\r\n形制：外形鋪平時像圓璧，由裡而外劃分為三環，最特殊的一點在於三環可以展開，開展後兩兩以卡榫相連，三者形成一個球體，類似渾天儀。\r\n紋飾：裡環的紋樣為太陽、星辰與雲氣，象徵天；中環琢龍紋，代表人間的帝王；外環則是四方山嶽與海波的圖象，象徵大地。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。有玉璺。",
+    "documents": [
+        {
+            "fileid": 150278,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-13/615dd140-7fbd-4d2a-843b-2b975fbb6c53/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70891,
+            "caseId": 3821,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75167,
+            "caseId": 3821,
+            "caseStatus": true,
+            "registerDate": 1398009600000,
+            "officialDocNo": "文資物字第10320043691號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

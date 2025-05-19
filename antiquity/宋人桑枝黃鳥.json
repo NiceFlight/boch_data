@@ -1,0 +1,100 @@
+{
+    "id": 16851,
+    "caseId": "20190627000002",
+    "count": 260,
+    "shareCount": 0,
+    "representImage": 59557,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-06-27/b63e74fc-d037-487a-a604-1a776f57c965/宋人桑枝黃鳥_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-06-27/b63e74fc-d037-487a-a604-1a776f57c965/宋人桑枝黃鳥.jpg",
+        "name": "宋人桑枝黃鳥"
+    },
+    "caseName": "宋人桑枝黃鳥",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1561520021699,
+    "officialDocNo": "文授資局物字第10830067501號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色之代表性",
+        "具有獨特藝術造詣或科學成就"
+    ],
+    "registerReason": "本幅收於《韞真集慶》冊第五開，畫幅無作者款印。宋代繪畫重視寫生觀念，除翎毛型態、色彩等外在變化，也對其習性和所處環境都有深入了解。\n本幅雖尺幅不大，但設色鮮明，利用簡單構圖，畫一黃鸝站立桑樹枝頭，仰首銜著桑椹，成功捕捉到自然界稍縱即逝霎那。線條變化因物而生，未有固定畫法，而顯份外自然生動。\n雖無作者款印，但枝幹用筆，與故宮藏宋徽宗（1082-1135，1100-1125在位）〈蠟梅山禽〉和波士頓美術館徽宗〈五色鸚鵡〉頗為相似；鳥的畫法則近於故宮藏宋人〈梅竹聚禽〉，而〈梅竹聚禽〉即宣和（1119-1125）時期院畫。是宋代小品翎毛繪畫極精之作。 ",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第4條第3、4款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫003498-5",
+    "amount": 1,
+    "descAge": "宋",
+    "descSize": "本幅 25.4x26.5 公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "本幅收在《韞真集慶》冊第五開。畫中，一隻站立在桑樹枝頭的黃鸝，仰頭銜住桑椹果實，神態怡然自得。無論桑樹或禽鳥，敷色皆極細膩，線條則隨著物象而變化，由於畫無定法，感覺遂格外生動自然，堪稱是典型的宋代寫生傑作。\n畫幅無作者款印，但枝幹的用筆，與院藏宋徽宗（1082-1135）〈蠟梅山禽〉，和波士頓美術館的徽宗〈五色鸚鵡〉均頗為相似。翎毛的畫法則近於宋人〈梅竹聚禽〉，而〈梅竹聚禽〉即是宣和（1119-1125）時期的院畫，故推斷應屬同一時期的作品。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "畫面有舊傷損、傷補。",
+    "documents": [
+        {
+            "fileid": 146055,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-24/bd983224-eaa2-44f5-996f-687f7d85e99c/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 68011,
+            "caseId": 16851,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 72224,
+            "caseId": 16851,
+            "caseStatus": true,
+            "registerDate": 1561520021699,
+            "officialDocNo": "文授資局物字第10830067501號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

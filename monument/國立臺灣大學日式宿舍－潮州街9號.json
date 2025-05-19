@@ -1,0 +1,148 @@
+{
+    "id": 15470,
+    "caseId": "20180112000003",
+    "count": 3853,
+    "shareCount": 2,
+    "representImage": 186933,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/1d993e75-1551-4555-b399-1363e290d18b/代表圖像_國立臺灣大學日式宿舍－潮州街9號_20220617_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/1d993e75-1551-4555-b399-1363e290d18b/代表圖像_國立臺灣大學日式宿舍－潮州街9號_20220617.jpeg",
+        "name": "代表圖像_國立臺灣大學日式宿舍－潮州街9號_20220617"
+    },
+    "caseName": "國立臺灣大學日式宿舍－潮州街9號",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "(1)環境區位良好，原有構建及材料、工法具建築史保存價值。\n(2)建物具水準，儘管現況惡化中，仍值得提升其位階，以確保其保存狀態與環境。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 145043,
+            "name": "96年登錄歷史建築公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-17/7219539e-da55-4987-996f-a7aac5b943f5/96年登錄歷史建築公告.pdf"
+        },
+        {
+            "fileid": 145044,
+            "name": "96年修正歷史建築登錄理由.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-17/0ac8b74a-d299-4692-9ea8-48cd62e60970/96年修正歷史建築登錄理由.pdf"
+        },
+        {
+            "fileid": 145045,
+            "name": "106年指定古蹟公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-17/4f73a05d-18ad-49bd-89e7-8d58b332e699/106年指定古蹟公告.pdf"
+        },
+        {
+            "fileid": 145046,
+            "name": "106年廢止歷史建築公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-17/49d690f8-07d0-4e26-b6ea-861bfb78c549/106年廢止歷史建築公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具高度歷史、藝術或科學價值者"
+    ],
+    "registerReason": "1.本建物日據時期為台北高等商業學校校長官舍，戰後省府要員官舍，以及台大職員宿舍等，按照空間使用的演變，見證台灣教育及政治轉變歷史。 \n2.本建物室內格局保留完整，且仍保存原有構件，建築規模及平面形式相當於後期之一等官舍，可看出高等官舍之空間特色，具見證建築史之價值。",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 47393,
+            "name": "圖片3.png",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2018-01-12/30e19958-0fd0-48e2-a7c6-85fd28a50324/圖片3.png"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "中正區南海段一小段290地號土地",
+    "bulkTransfer": 1,
+    "longitude": 121.52157583910368,
+    "latitude": 25.02985273579918,
+    "representImageSource": "臺北市文化局",
+    "landScope": "面積1,637平方公尺（實際保存面積須以保存範圍實測數據為準）",
+    "selfCoverage": "潮州街9號建築本體及庭院",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 131598,
+            "caseId": 15470,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "臺北市中正區潮州街9號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "南海段一小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 186669,
+            "caseId": 15470,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 14,
+            "landSerialNo": "290",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "1637平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 143477,
+            "caseId": 15470,
+            "caseStatus": true,
+            "registerDate": 1174924800000,
+            "officialDocNo": "府文化二字第09630231800號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        },
+        {
+            "id": 143478,
+            "caseId": 15470,
+            "caseStatus": true,
+            "registerDate": 1177603200000,
+            "officialDocNo": "府文化二字第09630248600號",
+            "classificationId": 2,
+            "note": "修正登錄理由"
+        },
+        {
+            "id": 143475,
+            "caseId": 15470,
+            "caseStatus": true,
+            "registerDate": 1513526400000,
+            "officialDocNo": "北市府文化文資字第10632449400號",
+            "classificationId": 1,
+            "note": "指定古蹟"
+        },
+        {
+            "id": 143476,
+            "caseId": 15470,
+            "caseStatus": true,
+            "registerDate": 1513526400000,
+            "officialDocNo": "北市府文化文資字第10632449400號",
+            "classificationId": 3,
+            "note": "廢止歷史建築"
+        }
+    ],
+    "geojson": "[{\"features\":[{\"geometry\":{\"coordinates\":[[[[121.52141156142,25.029722748182],[121.5217967359,25.029663054957],[121.52181423195,25.029751923817],[121.52183570203,25.029860428464],[121.52186762845,25.030022983829],[121.52186831603,25.030027843207],[121.52158012491,25.030071598073],[121.52147269273,25.030088079727],[121.52141156142,25.029722748182]]]],\"type\":\"MultiPolygon\"},\"type\":\"Feature\",\"properties\":{\"ymin\":25.029663054957,\"xmin\":121.52141156142,\"段號\":2900000,\"query\":\"臺北市,南海段一小段,290\",\"ycenter\":25.029875567342,\"land_id\":2900000,\"area_id\":\"AA\",\"content\":\"1. 個案名稱: 國立臺灣大學日式宿舍－潮州街9號 <br />\\n      2. 地號: 臺北市,南海段一小段,290 <br />\\n      3. 級別: 直轄市定古蹟 <br />\\n      4. 種類: 宅第 <br />\\n      5. 指定登錄理由: 1.本建物日據時期為台北高等商業學校校長官舍，戰後省府要員官舍，以及台大職員宿舍等，按照空間使用的演變，見證台灣教育及政治轉變歷史。 \\n2.本建物室內格局保留完整，且仍保存原有構件，建築規模及平面形式相當於後期之一等官舍，可看出高等官舍之空間特色，具見證建築史之價值。 <br />\\n      6. 最後一筆公告日期: 2007-04-27 <br />\\n      7. 最後一筆公告文號: 府文化二字第09630248600號 <br />\\n      8. 管理單位: 國立臺灣大學 <br />\\n      9. 使用單位: 國立臺灣大學 <br />\\n      10. 建物狀態: 修復中 <br />\",\"地段\":\"南海段一小段\",\"縣市\":\"臺北市\",\"ymax\":25.030088079727,\"xcenter\":121.521639938725,\"xmax\":121.52186831603,\"section_id\":\"0014\",\"鄉鎮\":\"中正區\",\"id\":\"AA0014\",\"query_log\":[]}}],\"address\":[{\"address\":\"1. 個案名稱: 國立臺灣大學日式宿舍－潮州街9號 <br />\\n      2. 地址: 臺北市中正區潮州街9號 <br />\\n      3. 級別: 直轄市定古蹟 <br />\\n      4. 種類: 宅第 <br />\\n      5. 指定登錄理由: 1.本建物日據時期為台北高等商業學校校長官舍，戰後省府要員官舍，以及台大職員宿舍等，按照空間使用的演變，見證台灣教育及政治轉變歷史。 \\n2.本建物室內格局保留完整，且仍保存原有構件，建築規模及平面形式相當於後期之一等官舍，可看出高等官舍之空間特色，具見證建築史之價值。 <br />\\n      6. 最後一筆公告日期: 2007-04-27 <br />\\n      7. 最後一筆公告文號: 府文化二字第09630248600號 <br />\\n      8. 管理單位: 國立臺灣大學 <br />\\n      9. 使用單位: 國立臺灣大學 <br />\\n      10. 建物狀態: 待修復 <br />\",\"lat\":25.02985273579918,\"lng\":121.52157583910368}],\"notFound\":[],\"type\":\"FeatureCollection\"}]",
+    "openVisitType": "不開放參觀",
+    "isCharge": false
+}

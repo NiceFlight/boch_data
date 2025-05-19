@@ -1,0 +1,119 @@
+{
+    "id": 1204,
+    "caseId": "20050601000002",
+    "count": 2107,
+    "shareCount": 0,
+    "representImage": 102247,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-03-24/050fcd81-6daa-47d0-9ddc-70281e71d9b8/宜蘭市台鐵宿舍（1）(代表)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-03-24/050fcd81-6daa-47d0-9ddc-70281e71d9b8/宜蘭市台鐵宿舍（1）(代表).jpg",
+        "name": "宜蘭市台鐵宿舍（1）(代表)"
+    },
+    "caseName": "宜蘭市台鐵宿舍（1）",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本建築物建築年代不詳，為鋼筋混凝土加強磚造之二層樓建築，初為辦公室之一，後改為員工宿舍。其為早期二層磚造公有宿舍之代表，亦反應該時期政經環境、生活條件與建築技術。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "建築物類",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1117602993000,
+    "officialDocNo": "府文資字第0940002711號",
+    "documents": [
+        {
+            "fileid": 74198,
+            "name": "宜蘭市台鐵宿舍(1)公告公文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-11-05/cd6c36d6-7f9b-456d-9993-64f4070843f7/宜蘭市台鐵宿舍(1)公告公文.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "本建築為早期二層磚造公有宿舍之代表，反應該時期政經環境、生活條件與建築技術，未來可結合產業交流中心進行再利用，就歷史文化意義及再利用潛力，實有保存意義。",
+    "lawsReference": "文化資產保存法第廿七條之一暨歷史建築登錄及補助辦法第七條",
+    "govInstitutionCode": "260",
+    "govInstitutionName": "宜蘭縣政府",
+    "belongCityId": 4,
+    "belongCityName": "宜蘭縣",
+    "belongDistName": "宜蘭市",
+    "govInstitution": "宜蘭縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-9322440*652",
+    "govDeptAddress": "宜蘭縣五結鄉中正路二段6之8號",
+    "cadasters": [
+        {
+            "fileid": 126232,
+            "name": "宜蘭台鐵宿舍（1）地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-07-23/fd758161-786d-42fa-a2c4-034bc8eb1671/宜蘭台鐵宿舍（1）地籍圖.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "計畫道路用地",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "宜蘭市壯一段82-73號",
+    "buildingFeatures": "本建築物為鋼筋混凝土加強磚造之二層樓建築，在外觀上，前後兩向立面為磚砌牆面，兩側山牆以砂漿粉刷，整體造型簡樸典雅。前側屋頂為兩坡式斜頂，後側屋頂為平頂，且就二者屋頂高差之便，設置二處氣窗，加以磚牆面上之木窗，使室內之採光通風效果佳，亦為特點之一。",
+    "inHouseFeatures": "",
+    "buildingUsage": "本建築物地面層與前院低於道路約60公分，進行再利用時應注意其與行人道之銜接與使用。",
+    "buildingActualState": "1.本建築物結構體保存尚佳，惟木窗有腐朽，須加強維護。\n2.本建築物地面層與前院低於道路約60公分，進行在利用時應注意其與行人道之銜接與使用。",
+    "buildingKeyMaintainItem": "1.紅磚牆面應予以維護保存。 \r\n2.後方增設之違建應予以拆除。\r\n3.建築物地面層與前院之高程應予以維持，惟進行再利用時應注意其與行人道之銜接與使用。",
+    "bulkTransfer": 0,
+    "belongAddress": "宜興路一段178號",
+    "isOpenVisit": false,
+    "openUpTime": "不開放參觀",
+    "isCharge": false,
+    "isOpenDownload": true,
+    "longitude": 121.7567307988486,
+    "latitude": 24.752259807922066,
+    "representImageSource": "宜蘭縣政府文化局",
+    "landScope": "",
+    "selfCoverage": "早期公告無此資料",
+    "addresses": [
+        {
+            "cityName": "宜蘭縣",
+            "distName": "宜蘭市",
+            "id": 134835,
+            "caseId": 1204,
+            "caseStatus": true,
+            "cityId": 4,
+            "distId": 401,
+            "address": "宜興路一段178號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "宜蘭縣",
+            "distName": "宜蘭市",
+            "landNoName": "和睦段",
+            "id": 196614,
+            "caseId": 1204,
+            "caseStatus": true,
+            "cityId": 4,
+            "distId": 401,
+            "landNoId": 7306,
+            "landSerialNo": "104",
+            "landownership": 1,
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": "重測前:宜蘭市壯一段82-73地號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 147180,
+            "caseId": 1204,
+            "caseStatus": true,
+            "registerDate": 1117602993000,
+            "officialDocNo": "府文資字第0940002711號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.75729559450234,24.753844960245225],[121.75739459053928,24.753812418924138],[121.75676277397723,24.75217071544362],[121.75674316685274,24.752119769204754],[121.75674856442164,24.752109892215596],[121.75667098565799,24.752132935652558],[121.75664893270816,24.752171145877405],[121.75729559450234,24.753844960245225],[121.75729559450234,24.753844960245225]]]]},\"properties\":{\"envelope\":{\"left\":\"121.75664893270816\",\"top\":\"24.752109892215596\",\"right\":\"121.75739459053928\",\"bottom\":\"24.753844960245225\"},\"landLot\":\"宜蘭縣宜蘭市和睦段104\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": "宜蘭縣歷史建築登錄宜蘭市台鐵宿舍（1）表"
+}

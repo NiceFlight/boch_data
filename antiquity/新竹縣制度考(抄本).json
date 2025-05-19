@@ -1,0 +1,101 @@
+{
+    "id": 4441,
+    "caseId": "20151221000007",
+    "count": 394,
+    "shareCount": 0,
+    "representImage": 7461,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43530/photo/7354358b-5f30-4428-b87d-130dbde0bb83_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43530/photo/7354358b-5f30-4428-b87d-130dbde0bb83.jpg",
+        "name": "7354358b-5f30-4428-b87d-130dbde0bb83"
+    },
+    "caseName": "新竹縣制度考(抄本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1450627200000,
+    "officialDocNo": "文授資局物字第10430113451號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "此書是明治28年(1895)日人為進行統治所需，調查抄錄新竹縣相關資料彙編而成。內容包括新竹縣之疆域、衙署、莊堡、路站、屯社、租賦及其他等項，而以租賦最為詳細，抄錄大量檔案文書，以及日治前幾年之租稅資料與經常帳收支情形，是研究當時臺灣租稅情形之重要文獻。\n此本為大正六年(1917))抄本，並有「大正十二年四月賜皇太殿下台覽」印，是目前臺灣僅見之藏本，具珍稀性及重要歷史與文化價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第1、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 3,
+    "belongCityName": "新北市",
+    "belongDistName": "中和區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "0758 4",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明治28年(1895)",
+    "descSize": "長27.5公分；寬19.5公分；高2.4公分",
+    "descMaterial": "紙質",
+    "reserveStatusDesc": "本書不分卷，不著撰人，館藏為抄本。內有采訪人員日人「市川徹彌」等字樣，應係為日治臺灣後不久之作。所記載內容為新竹縣之疆域、衙署、莊堡、路站、屯社、租賦等項，而以租賦最為詳盡，抄錄了大量檔案文書中有關租稅資料與經常帳收支情形。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "於日據時期由臺灣總督府圖書館購置典藏，並於戰後由國立臺灣圖書館接收典藏。",
+    "saveEnvironment": 1,
+    "reserveStatus": "經過裝訂修護，情況穩定。",
+    "documents": [
+        {
+            "fileid": 52271,
+            "name": "已用印公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-12-11/14508d43-e19c-44d4-b355-e433ef11dd77/已用印公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.49416890680097,
+    "latitude": 24.99096181940247,
+    "representImageSource": "國立臺灣圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立臺灣圖書館",
+            "keepName": "國立臺灣圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立臺灣圖書館",
+            "keepAddressNew": "235新北市中和區中安街85號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "新北市",
+            "keepNameDistName": "中和區",
+            "keepNameAddress": "中安街85號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "新北市",
+            "distName": "中和區",
+            "id": 89881,
+            "caseId": 4441,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 315
+        }
+    ],
+    "announces": [
+        {
+            "id": 97108,
+            "caseId": 4441,
+            "caseStatus": true,
+            "registerDate": 1450627200000,
+            "officialDocNo": "文授資局物字第10430113451號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

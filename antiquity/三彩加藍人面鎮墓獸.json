@@ -1,0 +1,106 @@
+{
+    "id": 3342,
+    "caseId": "20101215000014",
+    "count": 329,
+    "shareCount": 2,
+    "representImage": 5811,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32559/photo/b8115009-3e60-4f08-8328-d2c0fdfa9eed_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32559/photo/b8115009-3e60-4f08-8328-d2c0fdfa9eed.jpg",
+        "name": "b8115009-3e60-4f08-8328-d2c0fdfa9eed"
+    },
+    "caseName": "三彩加藍人面鎮墓獸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1292342400000,
+    "officialDocNo": "會授資籌二字第09920152382號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本件文物器型大，藍彩釉特殊，裝飾及紋樣精美，具有宗教、文化、藝術之意義及研究價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第三、四、六款、第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中山區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "90-00647",
+    "keepNameId": 7,
+    "keepName": "國立歷史博物館",
+    "keepNameNew": 7,
+    "keepAddressNew": "100台北市中正區南海路49號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": " ",
+    "descSize": "高126.5公分，寬56公分，深44公分",
+    "descMaterial": "三彩釉陶",
+    "reserveStatusDesc": "本件鎮墓獸的尺寸依現有資料號稱世間最大，製作精緻，比率準確，保存狀態完整而列入”國之寶”，當之無虧。\r\n 本件器型碩大，製作精又緻，釉色以米、黃、褐、綠和淺藍為主。額頭上雙之間設有一顆圓粒，兇猛的利牙和臉部表情給人非常恐怖、兇悍之感。馬蹄形足、頭上角和背部長出的裝飾無釉之外全器施釉；頭上長出火炬狀物和三個角、胸前施靈巧狀陰刻線紋裝飾、火焰式四個翅膀、小腿和馬蹄形足上所施火焰式綠色裝飾，以及陶質踏板上所設綠色纏枝狀蛇形物等，裝飾趣味濃。這類裝飾在其他鎮墓獸則是相當罕見。\r\n唐代三彩鎮墓獸有二種，即單角獸和雙角獸。雙角獸的臉呈動物狀，單角獸則有人臉般的溫和的臉形。",
+    "pastHistorySource": 2,
+    "pastHistorySourceNotes": " ",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 53441,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-12-26/d5556c03-3411-4d94-86e9-cd8b217f394f/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立歷史博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立歷史博物館",
+            "keepName": "國立歷史博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立歷史博物館",
+            "keepAddressNew": "100台北市中正區南海路49號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "徐州路21號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中山區",
+            "id": 3484,
+            "caseId": 3342,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 103
+        }
+    ],
+    "announces": [
+        {
+            "id": 3484,
+            "caseId": 3342,
+            "caseStatus": true,
+            "registerDate": 1292342400000,
+            "officialDocNo": "會授資籌二字第09920152382號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

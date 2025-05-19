@@ -1,0 +1,113 @@
+{
+    "id": 1063,
+    "caseId": "20110105000001",
+    "count": 4120,
+    "shareCount": 3,
+    "representImage": 168123,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/04202a58-6bcf-4f7e-a3ec-f76571749030/代表圖像_西寧南路14-3號店屋_20220601_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/04202a58-6bcf-4f7e-a3ec-f76571749030/代表圖像_西寧南路14-3號店屋_20220601.jpeg",
+        "name": "代表圖像_西寧南路14-3號店屋_20220601"
+    },
+    "caseName": "西寧南路14-3號店屋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "1.本公有建物為戰後延續日本殖民時期學院派風格之表徵，設計態度嚴謹認真，具保存價值。 2.位於街廓角地，為形塑都市景觀與歷史風貌端點，其優雅之外觀造型，反映當時建築風格與社會背景之歷史價值。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 164573,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/836b6e4e-854b-41a7-9a06-7d3e8a773c5c/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1.本公有建物為戰後延續日本殖民時期學院派風格之表徵，設計態度嚴謹認真，具保存價值。 2.位於街廓角地，為形塑都市景觀與歷史風貌端點，其優雅之外觀造型，反映當時建築風格與社會背景之歷史價值。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、2、4款評定基準",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 164574,
+            "name": "downloadfile(12).jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/8a8a3470-98ae-432d-82eb-3b84db345c9b/downloadfile(12).jpg"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市萬華區福星段一小段254地號（面積為231平方公尺）",
+    "buildingFeatures": "立面保有艾奧尼克柱身與柱頭，並有紋飾與泥塑浮雕。",
+    "inHouseFeatures": "",
+    "buildingUsage": "本建物目前的使用功能為萬華區福星區民活動中心。",
+    "buildingActualState": "本建物目前的使用功能為萬華區福星區民活動中心，整體外觀現況良好。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.506958,
+    "latitude": 25.0467659,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市萬華區福星段一小段254地號（面積為231平方公尺）",
+    "selfCoverage": " 662.13平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "id": 88607,
+            "caseId": 1063,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "address": "西寧南路14-3號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "landNoName": "福星段一小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 105644,
+            "caseId": 1063,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "landNoId": 177,
+            "landSerialNo": "254",
+            "landownership": 1,
+            "cityLandUseTypeId": 2,
+            "coverageId": 2,
+            "area": "231平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 95612,
+            "caseId": 1063,
+            "caseStatus": true,
+            "registerDate": 1294156800000,
+            "officialDocNo": "北市文化二字第09931892400號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "臺北市政府"
+}

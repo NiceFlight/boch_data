@@ -1,0 +1,106 @@
+{
+    "id": 3673,
+    "caseId": "20100830000010",
+    "count": 366,
+    "shareCount": 1,
+    "representImage": 6414,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32621/photo/f16bf8bc-1bd4-4e36-b434-9457e2235654_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32621/photo/f16bf8bc-1bd4-4e36-b434-9457e2235654.jpg",
+        "name": "f16bf8bc-1bd4-4e36-b434-9457e2235654"
+    },
+    "caseName": "徐澍「臺灣番社圖」",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖繪",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1283097600000,
+    "officialDocNo": "會授資籌二字第09920102141號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "此為清代徐澍繪作，刻畫臺灣原住民早期生活特色具代表性之早期風俗畫，具有文化歷史及文獻價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。2.符合「古物分級登錄指定及廢止審查辦法」第三條第第一、二、六款、第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "AH1585-1~AH1585-4",
+    "keepNameId": 4,
+    "keepName": "國立臺灣博物館",
+    "keepNameNew": 4,
+    "keepAddressNew": "100台北市中正區襄陽路2號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 1,
+    "amount": 4,
+    "notes": "1組4件",
+    "descAge": "清嘉慶二十五年（1820年）",
+    "descCreator": "徐澍",
+    "descSize": "27.5×122公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "1.四幅立軸整體狀況尚稱良好，第一軸（AH1585-1）折痕較顯著，然狀況尚穩定，不致立即影響作品整體美感",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "臺灣總督府博物館時期入藏，1945年由臺灣省立博物館接收典藏至今",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定 ",
+    "documents": [
+        {
+            "fileid": 53293,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-12-25/7c59b684-1cfb-46ea-97cf-f48e0ea0d85f/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立臺灣博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立臺灣博物館",
+            "keepName": "國立臺灣博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立臺灣博物館",
+            "keepAddressNew": "100台北市中正區襄陽路2號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "襄陽路2號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3815,
+            "caseId": 3673,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3815,
+            "caseId": 3673,
+            "caseStatus": true,
+            "registerDate": 1283097600000,
+            "officialDocNo": "會授資籌二字第09920102141號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

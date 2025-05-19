@@ -1,0 +1,113 @@
+{
+    "id": 916,
+    "caseId": "20041001000006",
+    "count": 3206,
+    "shareCount": 2,
+    "representImage": 169456,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/6f8216a7-7a96-4b9b-914a-fbb6c04b7907/代表圖像_齊東街53巷9號日式宿舍_20220613_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/6f8216a7-7a96-4b9b-914a-fbb6c04b7907/代表圖像_齊東街53巷9號日式宿舍_20220613.jpeg",
+        "name": "代表圖像_齊東街53巷9號日式宿舍_20220613"
+    },
+    "caseName": "齊東街53巷9號日式宿舍",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本區建築群落原為日據時期所屬單位不同階級職務的文官宿舍，且位於殖民城市官員住宅區之中心。其後又為光復初期國民政府中央官員宿舍，建築內、外部空間仍保有日式宿舍之建築特色，具當時都市住宅群落特徵、其整體佈局與建物構造、形式皆完整之保存價值。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 285818,
+            "name": "93年10月1日公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2025-05-09/9544d164-fa9a-40d3-9647-dbd42581fbd6/93年10月1日公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "本區建築群落原為日據時期所屬單位不同階級職務的文官宿舍，且位於殖民城市官員住宅區之中心。其後又為光復初期國民政府中央官員宿舍，建築內、外部空間仍保有日式宿舍之建築特色，具當時都市住宅群落特徵、其整體佈局與建物構造、形式皆完整之保存價值。\n該建築群夾處鬧市中，卻擁有綠蔭公園與空地形成之綠意空間，其人性化的低密度空間對形塑良好的都市環境具有實質之貢獻。\n齊東街五十三巷二、四、六、八、九、十、十三號之建物屋頂雖受損，但可修復性高，鄰近濟南路二段二十五號、二十七號建物曾為空軍總司令與副總司令之官邸，全區日式住宅各種特色仍具備，有群落保存價值。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 285817,
+            "name": "地籍.gif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2025-05-09/c48a0a78-ffb6-4303-a2c8-6348c1cc4d35/地籍.gif"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "locationLandNo": "中正臨沂段一小段581地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "本基地為私人所有，建物前因狀況不佳已辦理解體調查紀錄，並依據齊東街聚落風貌保存區都市計畫及細部計畫建造新建築。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.5286553,
+    "latitude": 25.0416139,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臨沂段一小段581地號，549平方公尺",
+    "selfCoverage": "79.34平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 149428,
+            "caseId": 916,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "齊東街53巷9號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "臨沂段一小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 206990,
+            "caseId": 916,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 136,
+            "landSerialNo": "581",
+            "landownership": 2,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "549平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 162544,
+            "caseId": 916,
+            "caseStatus": true,
+            "registerDate": 1096560000000,
+            "officialDocNo": "府文化二字第09304449800號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "公告"
+}

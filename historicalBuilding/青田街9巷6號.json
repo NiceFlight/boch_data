@@ -1,0 +1,111 @@
+{
+    "id": 1047,
+    "caseId": "20061101000008",
+    "count": 2500,
+    "shareCount": 0,
+    "representImage": 185606,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/0848b268-15d9-4f53-8374-4e67db35b574/代表圖像_青田街9巷6號_20220713_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/0848b268-15d9-4f53-8374-4e67db35b574/代表圖像_青田街9巷6號_20220713.jpg",
+        "name": "代表圖像_青田街9巷6號_20220713"
+    },
+    "caseName": "青田街9巷6號",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本區日式住宅約建於1930年代，由臺北帝國大學(臺灣大學前身)教授及臺北高商(臺灣大學法學院前身)佐藤佐教授等發起由學人教授自資興建供為住家使用之建築。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 167473,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/b1f8dde1-f793-4a77-ac74-f5a3afdc9298/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1.具建築史上之意義，作為日據時期日式宿舍群規劃之表徵。\n2.具有再利用之價值及潛力。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 167474,
+            "name": "f220606d-13dc-493a-b75d-7c5d4b577af9.png",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/eb9e3682-8d91-41ae-83ac-c00e51bf86c2/f220606d-13dc-493a-b75d-7c5d4b577af9.png"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "第三種住宅區",
+    "locationLandNo": "台北市大安區金華段二小段288地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "保存範圍：台北市大安區金華段二小段288地號建築本體所在位置。",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isOpenDownload": false,
+    "longitude": 121.532636,
+    "latitude": 25.0274299,
+    "representImageSource": "臺北市文化局",
+    "landScope": "台北市大安區金華段二小段288地號(687平方公尺)",
+    "selfCoverage": "台北市大安區金華段二小段36建號(141.73平方公尺)",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 92741,
+            "caseId": 1047,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "青田街9巷6號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "金華段二小段",
+            "cityLandUseTypeName": "保存區",
+            "id": 113405,
+            "caseId": 1047,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 721,
+            "landSerialNo": "288",
+            "landownership": 1,
+            "cityLandUseTypeId": 7,
+            "coverageId": 2,
+            "area": "687平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 100044,
+            "caseId": 1047,
+            "caseStatus": true,
+            "registerDate": 1162310400000,
+            "officialDocNo": "府文化二字第09530322200號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

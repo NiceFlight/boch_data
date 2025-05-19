@@ -1,0 +1,111 @@
+{
+    "id": 4126,
+    "caseId": "20110422000050",
+    "count": 293,
+    "shareCount": 0,
+    "representImage": 7044,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/34914/photo/ac56c16f-9302-44b9-a741-c62701b0a587_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/34914/photo/ac56c16f-9302-44b9-a741-c62701b0a587.jpg",
+        "name": "ac56c16f-9302-44b9-a741-c62701b0a587"
+    },
+    "caseName": "馬和之清泉鳴鶴圖（歷朝名繪冊06）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1303401600000,
+    "officialDocNo": "會授資籌二字10020040353號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "歷史流傳已久或史事具有深厚淵源",
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "線條渾厚轉折，是馬和之代表特色。具有特殊的時代特色及風格，且品質精良數量稀少。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第四條第一項第一、二、三、四、五、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫00123600006",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descSize": "30 x 48.7 公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "馬和之活動於高宗、孝宗朝。此畫用筆獨具特色，起、收筆的筆鋒明晰，中段線條則顯圓厚，別具古風效果。畫《詩經》〈鶴鳴〉「鶴鳴于九皋，聲聞于野。魚潛在淵，或在于渚。」有規勸深意。藉鶴、魚比喻賢能人士，呼籲君王訪賢。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "汚漬、折痕、霉傷。有損傷但狀況穩定。",
+    "documents": [
+        {
+            "fileid": 16382,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2017-11-06/84d58ddf-616d-4afa-8a34-3eff5aeb7643/公告.pdf"
+        },
+        {
+            "fileid": 152136,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-28/7e4e7bd2-b799-43cc-98bf-155662a9450e/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71673,
+            "caseId": 4126,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 76148,
+            "caseId": 4126,
+            "caseStatus": true,
+            "registerDate": 1303401600000,
+            "officialDocNo": "會授資籌二字10020040353號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

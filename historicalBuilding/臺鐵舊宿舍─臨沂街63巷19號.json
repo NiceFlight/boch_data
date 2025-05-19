@@ -1,0 +1,128 @@
+{
+    "id": 931,
+    "caseId": "20070227000001",
+    "count": 3020,
+    "shareCount": 2,
+    "representImage": 184426,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/619e65ab-5acb-433e-a199-fb3d31c05bc4/代表圖像_臺鐵舊宿舍─臨沂街63巷19號_20220726_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/619e65ab-5acb-433e-a199-fb3d31c05bc4/代表圖像_臺鐵舊宿舍─臨沂街63巷19號_20220726.jpeg",
+        "name": "代表圖像_臺鐵舊宿舍─臨沂街63巷19號_20220726"
+    },
+    "caseName": "臺鐵舊宿舍─臨沂街63巷19號",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "1. 建物所在位置之巷道規劃，具佈陣防盜設計，為他處少見，又此棟建築位處此陣核心，具特殊意義。。\n2. 建物地理環境佳且建築意象鮮明，並有前後庭院，屋簷且為日式宿舍少見之二重簷屋頂，整體品質佳。\n3. 建物完整且仍保有原貌，具保存價值。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 109663,
+            "name": "3._960227登錄歷史建築公告與歷史建築公告表(宿舍).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/c0fc85b8-2bf5-4117-920f-676b1adb3d95/3._960227登錄歷史建築公告與歷史建築公告表(宿舍).pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1. 建物所在位置之巷道規劃，具佈陣防盜設計，為他處少見，又此棟建築位處此陣核心，具特殊意義。。\r\n2. 建物地理環境佳且建築意象鮮明，並有前後庭院，屋簷且為日式宿舍少見之二重簷屋頂，整體品質佳。\r\n3. 建物完整且仍保有原貌，具保存價值。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、2、4款評定基準",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 109668,
+            "name": "3d40adad-aa36-4d8a-a0f0-fdca0b33a344.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/a8e876c6-a83b-4272-8410-e84bf737fa87/3d40adad-aa36-4d8a-a0f0-fdca0b33a344.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "locationLandNo": "臺北市中正區臨沂段三小段297、297-1地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "全棟外貌原樣保存，另庭園亦一併保存。",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.5303619,
+    "latitude": 25.0359256,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市中正區臨沂段三小段297、297-1地號",
+    "selfCoverage": "179.35平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 92119,
+            "caseId": 931,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "臨沂街63巷19號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "臨沂段三小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 112332,
+            "caseId": 931,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 138,
+            "landSerialNo": "297",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "臨沂段三小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 112333,
+            "caseId": 931,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 138,
+            "landSerialNo": "297-1",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 99218,
+            "caseId": 931,
+            "caseStatus": true,
+            "registerDate": 1172505600000,
+            "officialDocNo": "府文化二字09630214700號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

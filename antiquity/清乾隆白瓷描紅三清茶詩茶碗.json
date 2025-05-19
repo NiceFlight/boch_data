@@ -1,0 +1,96 @@
+{
+    "id": 19619,
+    "caseId": "20210719000010",
+    "count": 270,
+    "shareCount": 1,
+    "representImage": 125189,
+    "representImageInfo": {
+        "ext": "bmp",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-19/1910a2e7-6023-4e93-87a4-5db78b72f90e/圖片10_c.bmp"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-19/1910a2e7-6023-4e93-87a4-5db78b72f90e/圖片10.bmp",
+        "name": "圖片10"
+    },
+    "caseName": "清乾隆白瓷描紅三清茶詩茶碗",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此器呈侈口窄唇，深壁，矮圈足。碗心以紅彩畫梅花、松實、佛手，內外壁各畫如意雲紋兩道。器底有「大清乾隆年製」紅料篆書款。此件作品薄胎細釉、造形輕巧可愛，器外壁書有乾隆十一年(1746)〈三清茶〉御製詩。透過御製詩的內容，可推知乾隆皇帝品茶的意趣，益顯珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "0422177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故瓷017573",
+    "amount": 1,
+    "descAge": " 清",
+    "descSize": "高5.1公分 口徑10.8公分 底徑4.8公分",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "此器呈侈口窄唇，深壁，矮圈足。胎質較薄，通體白釉，內外描紅畫如意雲四道。碗心畫松、梅及佛手各一枝。外壁硃書乾隆皇帝〈三清茶〉御製詩，詩後題款「乾隆丙寅小春御題」，硃紅描繪「乾」「隆」二印。器底有「大清乾隆年製」紅料篆書款。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "口沿紅彩脫落、碗內釉表舊磨擦痕、圈足舊磕傷。",
+    "documents": [
+        {
+            "fileid": 142673,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-04/d9007721-87f9-4d5f-a18e-cc04ba55e07c/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.5484322510235,
+    "latitude": 121.5484322510235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "台北市士林區至善路2段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 66414,
+            "caseId": 19619,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 70603,
+            "caseId": 19619,
+            "caseStatus": true,
+            "registerDate": 1624432810597,
+            "officialDocNo": "文授資局物字第11030062561號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

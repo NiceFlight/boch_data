@@ -1,0 +1,99 @@
+{
+    "id": 18175,
+    "caseId": "20201215000006",
+    "count": 72,
+    "shareCount": 0,
+    "representImage": 89870,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-12-15/29facd2e-3a54-4db6-879f-5c04bde984ce/案016-1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-12-15/29facd2e-3a54-4db6-879f-5c04bde984ce/案016-1.jpg",
+        "name": "案016-1"
+    },
+    "caseName": "象牙雕活動螃蟹一對",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1606380532111,
+    "officialDocNo": "北市獻編字第1093004298號",
+    "judgeCriteria": [
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "象生實物雕刻具寫實性，有一定藝術造詣，具工藝特殊技藝。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "內湖區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174-1號",
+    "reservationCode": "典藏 I016",
+    "amount": 2,
+    "descAge": "清末民初",
+    "descSize": "寬12公分",
+    "descMaterial": "象牙",
+    "reserveStatusDesc": "象牙雕刻的螃蟹是一件寫實作品， 手工精琢螃蟹【八方來財】， 處處關節可動，所有關節可收起可打開，一比一設計，工藝精湛，栩栩如生，「因為有鉗」（錢），富甲 一方、八方來財、縱橫天下等寓意 是歷來商家善用的題材因其自帶寫意功能所以無需添加任何吉祥紋飾。\n此牙雕螃蟹運用牙雕的拼接絕技、淺浮雕、陰刻、圓雕、高浮雕等技法，用刀有力簡潔，打磨圓滑光亮，完美無瑕。「敢蟹」與「感謝」諧音傳遞了感恩美德。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定。",
+    "documents": [
+        {
+            "fileid": 89869,
+            "name": "臺北市公告指定一般古物1091126.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-15/273f6b9b-58ee-4dca-b036-17d286d42a45/臺北市公告指定一般古物1091126.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.51984879730222,
+    "latitude": 25.032456306173696,
+    "representImageSource": "嚴○泰/嚴○隆",
+    "keepNames": [
+        {
+            "keepNameIdStr": "嚴○泰/嚴○隆",
+            "keepName": "嚴○泰/嚴○隆",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "嚴○泰/嚴○隆",
+            "keepAddressNew": "臺北市內湖區行忠路2號2樓",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "宅第",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "內湖區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 68645,
+            "caseId": 18175,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 72745,
+            "caseId": 18175,
+            "caseStatus": true,
+            "registerDate": 1606380532111,
+            "officialDocNo": "北市獻編字第1093004298號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

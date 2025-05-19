@@ -1,0 +1,213 @@
+{
+    "id": 22912,
+    "caseId": "20240729000001",
+    "count": 303,
+    "shareCount": 0,
+    "representImage": 260403,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-07-29/37b93026-3d08-4d89-b211-e122ee6440f5/林務局大湖工作站卓蘭辦公室_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-07-29/37b93026-3d08-4d89-b211-e122ee6440f5/林務局大湖工作站卓蘭辦公室.jpg",
+        "name": "林務局大湖工作站卓蘭辦公室"
+    },
+    "caseName": "林務局大湖工作站卓蘭辦公室",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "原臺灣省農林廳林產管理局新竹山林管理所大湖分所卓蘭辦公廳，現改稱林務局大湖工作站卓蘭辦公室。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "產業設施",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 260400,
+            "name": "歷55-林務局大湖工作站卓蘭辦公室-縣府公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-07-29/417a486a-cfcc-4f52-a7b1-288335648c58/歷55-林務局大湖工作站卓蘭辦公室-縣府公告.pdf"
+        },
+        {
+            "fileid": 260401,
+            "name": "1111012 歷史建築「林務局大湖工作站卓蘭辦公室」公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-07-29/02a6ff3a-b75f-452e-b23c-d6c3070c1006/1111012 歷史建築「林務局大湖工作站卓蘭辦公室」公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1、日治時期卓蘭地區林墾相關之辦公兼住宿建築，為地區林業設施之重要見證。\n2、建築物空間格局為辦公室與宿舍一體，有別於一般日式宿舍之型態。\n3、台所兩側出窗為出挑式，廚台設有給水槽，具稀少性。\n",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第2、4款",
+    "govInstitutionCode": "360",
+    "govInstitutionName": "苗栗縣政府",
+    "govInstitution": "苗栗縣政府文化觀光局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "037-352961#718",
+    "govDeptAddress": "苗栗縣苗栗市自治路50號",
+    "cadasters": [
+        {
+            "fileid": 260402,
+            "name": "地籍圖1.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2024-07-29/d938e6f5-77b5-4088-8d32-9380de557e94/地籍圖1.jpg"
+        }
+    ],
+    "bulkTransfer": 1,
+    "isOpenVisit": false,
+    "isOpenDownload": false,
+    "longitude": 120.824861,
+    "latitude": 24.312972,
+    "representImageSource": "苗栗縣政府文化觀光局",
+    "landScope": "卓蘭鎮新厝段286、286–1、286-2、287、287–3、287-4地號（皆為部分），定著土地總面積共計371平方公尺（實際保存面積須以保存範圍實測數據為主）",
+    "selfCoverage": "114號閒置，116號目前作為農業部林業及自然保育署新竹分署大湖工作站卓蘭辦公室使用。",
+    "addresses": [
+        {
+            "cityName": "苗栗縣",
+            "distName": "卓蘭鎮",
+            "id": 132385,
+            "caseId": 22912,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 818,
+            "address": "新厝里中山路114號"
+        },
+        {
+            "cityName": "苗栗縣",
+            "distName": "卓蘭鎮",
+            "id": 132386,
+            "caseId": 22912,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 818,
+            "address": "新厝里中山路116號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "苗栗縣",
+            "distName": "卓蘭鎮",
+            "landNoName": "新厝段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 188740,
+            "caseId": 22912,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 818,
+            "landNoId": 9021,
+            "landSerialNo": "286",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "area": "16.45",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "苗栗縣",
+            "distName": "卓蘭鎮",
+            "landNoName": "新厝段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 188741,
+            "caseId": 22912,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 818,
+            "landNoId": 9021,
+            "landSerialNo": "286-1",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "area": "71",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "苗栗縣",
+            "distName": "卓蘭鎮",
+            "landNoName": "新厝段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 188742,
+            "caseId": 22912,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 818,
+            "landNoId": 9021,
+            "landSerialNo": "286-2",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "area": "122.55",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "苗栗縣",
+            "distName": "卓蘭鎮",
+            "landNoName": "新厝段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 188743,
+            "caseId": 22912,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 818,
+            "landNoId": 9021,
+            "landSerialNo": "287",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "area": "24.66",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "苗栗縣",
+            "distName": "卓蘭鎮",
+            "landNoName": "新厝段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 188744,
+            "caseId": 22912,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 818,
+            "landNoId": 9021,
+            "landSerialNo": "287-3",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "area": "62",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "苗栗縣",
+            "distName": "卓蘭鎮",
+            "landNoName": "新厝段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 188745,
+            "caseId": 22912,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 818,
+            "landNoId": 9021,
+            "landSerialNo": "287-4",
+            "cityLandUseTypeId": 1,
+            "area": "74.34",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 144296,
+            "caseId": 22912,
+            "caseStatus": true,
+            "registerDate": 1615824000000,
+            "officialDocNo": "府文資字第1100002651B號",
+            "classificationId": 1
+        },
+        {
+            "id": 144297,
+            "caseId": 22912,
+            "caseStatus": true,
+            "registerDate": 1665504000000,
+            "officialDocNo": "府文資字第1110012328B號",
+            "classificationId": 2
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.8249415863009,24.31283804787151],[120.8249490669493,24.312869074018764],[120.82498912359722,24.3129049664906],[120.82500117053902,24.31289718619861],[120.82498299361202,24.312865083223947],[120.8249415863009,24.31283804787151],[120.8249415863009,24.31283804787151]]]]},\"properties\":{\"envelope\":{\"left\":\"120.82494158630089\",\"top\":\"24.312838047871509\",\"right\":\"120.82500117053902\",\"bottom\":\"24.3129049664906\"},\"landLot\":\"苗栗縣卓蘭鎮新厝段286\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.82497371232198,24.31303085326594],[120.82499118215081,24.31301155366426],[120.82497719592439,24.31299951067716],[120.82496734114234,24.313010310858576],[120.82491369407093,24.31296921048801],[120.82491149355951,24.312971646732333],[120.82489574574858,24.31295811189191],[120.82486455142248,24.313012266347528],[120.82493993596178,24.313068234864843],[120.82497371232198,24.31303085326594],[120.82497371232198,24.31303085326594]]]]},\"properties\":{\"envelope\":{\"left\":\"120.82486455142248\",\"top\":\"24.312958111891909\",\"right\":\"120.82499118215081\",\"bottom\":\"24.313068234864843\"},\"landLot\":\"苗栗縣卓蘭鎮新厝段286-1\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.82499118209691,24.313011556265423],[120.82504071189811,24.312956607305548],[120.82504034913237,24.312956179461455],[120.82502296241063,24.31293567364295],[120.82500117053902,24.31289718619861],[120.82498912359722,24.3129049664906],[120.8249490669493,24.312869074018764],[120.82494998021514,24.31287286180687],[120.82489574611702,24.312958114044232],[120.82491149414875,24.31297164931496],[120.82491369393561,24.31296921315959],[120.82496734136997,24.313010313081687],[120.8249771958895,24.31299951289189],[120.82499076067138,24.313011193380508],[120.82499118209691,24.313011556265423],[120.82499118209691,24.313011556265423]]]]},\"properties\":{\"envelope\":{\"left\":\"120.82489574611702\",\"top\":\"24.312869074018764\",\"right\":\"120.82504071189811\",\"bottom\":\"24.313011556265423\"},\"landLot\":\"苗栗縣卓蘭鎮新厝段286-2\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.8249415863009,24.31283804787151],[120.82492064777442,24.312823143695624],[120.82487629999584,24.31284353619022],[120.82486743227865,24.31285293756237],[120.82482715546563,24.312906225054537],[120.8248381943518,24.312914576002903],[120.82487021616035,24.312874195553754],[120.8249103389111,24.312834372008794],[120.8249490669493,24.312869074018764],[120.8249415863009,24.31283804787151],[120.8249415863009,24.31283804787151]]]]},\"properties\":{\"envelope\":{\"left\":\"120.82482715546563\",\"top\":\"24.312823143695624\",\"right\":\"120.8249490669493\",\"bottom\":\"24.312914576002903\"},\"landLot\":\"苗栗縣卓蘭鎮新厝段287\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.82489574574858,24.31295811189191],[120.82482715508017,24.312906222446735],[120.82479060650635,24.31295553107053],[120.82486455142248,24.313012266347528],[120.82489574574858,24.31295811189191],[120.82489574574858,24.31295811189191]]]]},\"properties\":{\"envelope\":{\"left\":\"120.82479060650635\",\"top\":\"24.312906222446735\",\"right\":\"120.82489574574858\",\"bottom\":\"24.313012266347528\"},\"landLot\":\"苗栗縣卓蘭鎮新厝段287-3\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.82494998021514,24.31287286180687],[120.8249490669493,24.312869074018764],[120.8249103389111,24.312834372008794],[120.82487021616035,24.312874195553754],[120.8248381943518,24.312914576002903],[120.82489574611702,24.312958114044232],[120.82494998021514,24.31287286180687],[120.82494998021514,24.31287286180687]]]]},\"properties\":{\"envelope\":{\"left\":\"120.8248381943518\",\"top\":\"24.312834372008794\",\"right\":\"120.82494998021514\",\"bottom\":\"24.312958114044232\"},\"landLot\":\"苗栗縣卓蘭鎮新厝段287-4\"}}],\"notfound\":[]}]",
+    "openVisitType": ""
+}

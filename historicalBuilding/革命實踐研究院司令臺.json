@@ -1,0 +1,114 @@
+{
+    "id": 1096,
+    "caseId": "20140619000001",
+    "count": 3241,
+    "shareCount": 0,
+    "representImage": 189554,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/dc74c1aa-b130-4f6d-89ec-7fd4a922bedb/代表圖像_革命實踐研究院司令臺_20220916(IMG_0851)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/dc74c1aa-b130-4f6d-89ec-7fd4a922bedb/代表圖像_革命實踐研究院司令臺_20220916(IMG_0851).jpg",
+        "name": "代表圖像_革命實踐研究院司令臺_20220916(IMG_0851)"
+    },
+    "caseName": "革命實踐研究院司令臺",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "司令臺興建於1953年設立之革命實踐研究院木柵中興分院內，該院為當年黨政高階人員講習教育的重要機構，先總統蔣中正當年為黨之領袖，亦曾於此向來院受訓幹部講話。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "司令臺",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 52324,
+            "name": "3._1030619登錄歷史建築公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-12-12/1b4924eb-1628-4198-93ea-1b9da582ccd4/3._1030619登錄歷史建築公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "一、革命實踐研究院為當初中國國民黨黨務改造、革新，及訓練黨籍幹部所設，為當年黨政高階人員講習教育之重要機構，對臺灣當代與後來的歷史、政治、軍事、黨務等都有深遠的影響；「革命實踐研究院司令臺」為當年先總統蔣公向來院受訓幹部講話之司令臺，具文化資產價值。\r\n二、符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、4款評定基準。",
+    "lawsReference": "歷史建築登錄廢止審查及輔助辦法第2條第1項第1、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 162559,
+            "name": "55a108c4-f3e6-406e-91da-1bb5b6731280.gif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/5e43f0db-8c5f-44ee-9285-e788bb82994d/55a108c4-f3e6-406e-91da-1bb5b6731280.gif"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "國小用地(公共設施用地)",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市文山區華興段一小段168-5地號土地（部分）",
+    "buildingFeatures": "水泥、磚建造。",
+    "inHouseFeatures": "無",
+    "buildingActualState": "保存良好。",
+    "buildingKeyMaintainItem": "保存範圍：司令臺全座保存。附帶決議：司令臺構造物及旗杆採異地重組方式保存。",
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.555928,
+    "latitude": 24.9885026,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市文山區華興段一小段168-5地號土地（部分）",
+    "selfCoverage": "20平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "文山區",
+            "id": 95057,
+            "caseId": 1096,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 112,
+            "address": "木柵路1段321號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "文山區",
+            "landNoName": "華興段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 117456,
+            "caseId": 1096,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 112,
+            "landNoId": 46,
+            "landSerialNo": "168-5",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "6,940平方公尺",
+            "cityLandUseTypeOther": "國小用地（公共設施）",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 102559,
+            "caseId": 1096,
+            "caseStatus": true,
+            "registerDate": 1403107200000,
+            "officialDocNo": "北市文化文資字第10330396400號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "管理單位臺北市文山區永建國民小學提供。"
+}

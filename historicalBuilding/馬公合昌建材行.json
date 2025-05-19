@@ -1,0 +1,120 @@
+{
+    "id": 1801,
+    "caseId": "20031211000004",
+    "count": 1667,
+    "shareCount": 0,
+    "representImage": 74083,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-11-04/4f05b960-7845-48de-ab26-f55a404509d4/馬公市合昌建材 行_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-11-04/4f05b960-7845-48de-ab26-f55a404509d4/馬公市合昌建材 行.jpg",
+        "name": "馬公市合昌建材 行"
+    },
+    "caseName": "馬公合昌建材行",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "建於大正8（1919）年，建築結構由硓𥑮石與磚塊堆砌而成。建物本身屬於巴洛克式建築2層洋樓，外觀白色牆面上有浮雕紋飾，大門門上有2座木雕獅子，是象徵興旺與財勢的圖騰。這座建築為澎湖第7任縣長呂安德的故居，當時呂安德的父親經營合昌建材行，因此屋內建材都使用上等的檜木料，目前洋樓外觀保存良好。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "建築物類",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1071104389000,
+    "officialDocNo": "府授文視第09200726224 號",
+    "documents": [
+        {
+            "fileid": 76302,
+            "name": "公告公文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-11-24/58512856-6980-46aa-b155-5be1208b35a8/公告公文.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "(一)創建年期久遠。\n(二)具有歷史文化意義，足以作為時代的代表。\n(三)具稀有性，不易再現的建築。\n(四)具有建築史上的意義，有再利用的價值及潛力。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "06-9261141#138",
+    "govDeptAddress": "澎湖縣馬公市中華路230號",
+    "cadasters": [
+        {
+            "fileid": 140931,
+            "name": "地籍資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-10-15/10c42f8a-457c-457d-894d-0e20113c8526/地籍資料.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "馬公市馬公段536地號",
+    "buildingFeatures": "據說是當時家族社會地位與個人聲望的表徵，大門門上有2座木雕獅子，建築立面形式店面形式，主要立面之構成分別為柱基、柱身、入口、水平裝飾帶、矩形分割窗、牛眼窗、頂冠帶、入口形式（雨庇）、橢圓形勳章飾、四葉飾柱頭、山頭等，是象徵興旺與財勢的圖騰。",
+    "inHouseFeatures": "一樓目前經營餐飲服務，配合原有建築木作樓板與面之語彙，其室內設計大多也配合木作為主，建築本體並沒有大幅度的更動過。二樓現況大致上仍維持舊貌，主要有2個8疊與2個6疊的日式臥房與廊道組成。",
+    "buildingUsage": "目前一樓由傻愛莊餐廳承租。",
+    "buildingActualState": "本標的曾於2009年修復，一樓再利用為特色餐館。",
+    "buildingKeyMaintainItem": "依原樣保存維護",
+    "bulkTransfer": 0,
+    "belongAddress": "新生路14號",
+    "isOpenVisit": true,
+    "openUpTime": "11：00至23：00",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 119.568487,
+    "latitude": 23.567745,
+    "representImageSource": "澎湖縣政府文化局文化資產科",
+    "landScope": "澎湖縣馬公市馬公段536地號",
+    "selfCoverage": "合昌建材行臨新生街、中華路街口，位於馬公市區偏北，後鄰馬公港，屬商業區，為馬公市主要觀光街區之一，故附近多旅社飯店。目前一樓出租經營複合式餐飲服務，名為傻愛莊，旁邊是基督教長老教會。",
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 73474,
+            "caseId": 1801,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "新生路14號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "landNoName": "馬公段",
+            "cityLandUseTypeName": "商業區",
+            "id": 71138,
+            "caseId": 1801,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "landNoId": 15467,
+            "landSerialNo": "536",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "area": "256平方公尺",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 78472,
+            "caseId": 1801,
+            "caseStatus": true,
+            "registerDate": 1071104389000,
+            "officialDocNo": "府授文視字第09200726224 號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[119.56842395909145,23.567750184622323],[119.56850775642611,23.567796028103075],[119.56866292390634,23.567657961929907],[119.56878225705488,23.56754959199087],[119.56875829485952,23.56752696067474],[119.56870830222704,23.5675608210305],[119.56842395909145,23.567750184622323],[119.56842395909145,23.567750184622323]]]]},\"properties\":{\"envelope\":{\"left\":\"119.56842395909145\",\"top\":\"23.567526960674741\",\"right\":\"119.56878225705488\",\"bottom\":\"23.567796028103075\"},\"landLot\":\"澎湖縣馬公市馬公段536\"}}],\"notfound\":[]}]",
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

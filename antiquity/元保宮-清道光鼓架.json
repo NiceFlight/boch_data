@@ -1,0 +1,91 @@
+{
+    "id": 3262,
+    "caseId": "20160112000011",
+    "count": 392,
+    "shareCount": 0,
+    "representImage": 5718,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43370/photo/abb5ef3e-6996-4518-ad1a-18d315c1f496_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43370/photo/abb5ef3e-6996-4518-ad1a-18d315c1f496.jpg",
+        "name": "abb5ef3e-6996-4518-ad1a-18d315c1f496"
+    },
+    "caseName": "元保宮-清道光鼓架",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1452528000000,
+    "officialDocNo": "府授文資遺字第10500045403號",
+    "judgeCriteria": [
+        "具有一定之時代特色、技術及流派",
+        "具有珍貴及稀有性者"
+    ],
+    "registerReason": "1.\t鼓架上所刻「夔龍」，是傳說中的瑞獸，代表祥瑞、鎮惡，具有避邪趨吉的功能，另有香火綿延、吉慶如意；尾部雕成交尾連鎖狀，寓意：「長久不斷」，讓信眾感受集吉祥於一身的感覺，符合廟宇的功能，具有文化價值。\r\n2.\t鼓架上刻有年款「大清道光柒年丁亥三月敬立」及來源「弟子仝答謝」，文字刻痕剛勁俐落，保存了清代工藝特色，具有歷史與藝術價值。",
+    "lawsReference": "符合「古物分級登錄指定及廢止審查辦法」第2條第1項第3、5款評定基準。",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "北區",
+    "reservationCode": "",
+    "keepNameId": 17,
+    "keepName": "元保宮",
+    "keepNameNew": 17,
+    "keepAddressNew": "臺中市北區梅川西路三段109號",
+    "amount": 1,
+    "notes": "",
+    "reserveStatusDesc": "",
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 5719,
+            "name": "80c9c621-b270-47cf-ad25-351671cd6ab5.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44402/file/80c9c621-b270-47cf-ad25-351671cd6ab5.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "元保宮",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺中市北區梅川西路三段109號",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "北區",
+            "id": 3403,
+            "caseId": 3262,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1005
+        }
+    ],
+    "announces": [
+        {
+            "id": 3403,
+            "caseId": 3262,
+            "caseStatus": true,
+            "registerDate": 1452528000000,
+            "officialDocNo": "府授文資遺字第10500045403號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

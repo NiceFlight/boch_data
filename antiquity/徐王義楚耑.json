@@ -1,0 +1,102 @@
+{
+    "id": 3893,
+    "caseId": "20121112000017",
+    "count": 322,
+    "shareCount": 2,
+    "representImage": 6701,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32879/photo/80dd0d18-d701-40b2-b5d8-f54ad161d9c3_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32879/photo/80dd0d18-d701-40b2-b5d8-f54ad161d9c3.JPG",
+        "name": "80dd0d18-d701-40b2-b5d8-f54ad161d9c3"
+    },
+    "caseName": "徐王義楚耑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1352649600000,
+    "officialDocNo": "文授字第10120135331號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "耑形制與觶相似。光緒十四年在江西高安出土徐國器。義楚是左傳昭公六年的徐義楚。腹外有銘文35字：「隹正月吉日丁酉，  （徐）王義楚擇余吉金，自酢（作）祭鍴，用享于皇天及我文考，永保□（予）身，子孫寶」。此器鑄製精緻，於研究春秋時期銅器工藝及徐國方國文化，具有重要之價值。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第3、4、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局 ",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "中銅000045",
+    "amount": 1,
+    "notes": "",
+    "descAge": "春秋",
+    "descSize": "高20.6cm、深18cm、口徑9.2cm、腹圍19.2cm。",
+    "descMaterial": "銅",
+    "reserveStatusDesc": "春秋器，腹外有銘文35字。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "口緣微缺。",
+    "documents": [
+        {
+            "fileid": 150781,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-19/c5c397b8-cc4a-4766-9aaf-01263b302a28/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71158,
+            "caseId": 3893,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 75504,
+            "caseId": 3893,
+            "caseStatus": true,
+            "registerDate": 1352649600000,
+            "officialDocNo": "文授字第10120135331號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

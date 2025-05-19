@@ -1,0 +1,139 @@
+{
+    "id": 18840,
+    "caseId": "20210413000002",
+    "count": 2104,
+    "shareCount": 1,
+    "representImage": 170174,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/aff359dc-fdc5-4d35-8882-ca1b2a23fd1d/代表圖像_迪化街1段121號店屋_20220623_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/aff359dc-fdc5-4d35-8882-ca1b2a23fd1d/代表圖像_迪化街1段121號店屋_20220623.jpeg",
+        "name": "代表圖像_迪化街1段121號店屋_20220623"
+    },
+    "caseName": "迪化街1段121號店屋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本建物與117、119號建物曾為莊家所有，原一樓為3開間店鋪，二樓為三戶相通之住家空間，整修後仍保存清代構造如唭哩岸石條、砌牆及日治時期街屋之特色。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 105800,
+            "name": "公告及地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/ecc17fb1-8184-44b1-bc39-82aa6d09d8da/公告及地籍圖.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1、\t本建物與117、119號建物曾為莊家所有，原一樓為3開間店鋪，二樓為三戶相通之住家空間，整修後仍保存清代構造如唭哩岸石條、砌牆及日治時期街屋之特色。\n2、\t莊輝玉為大稻埕地方商紳，與陳天來於昭和10年（1936）共同出資興建「臺灣第一劇場」，其子莊家聲民國48年繼任為董事長，後設立第一企業中心，見證大稻埕之經濟、社會與人脈交錯時代背景不同之下產生的結果。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 105801,
+            "name": "地籍圖(核准版).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/ea5d9733-904d-40ce-bc0f-6f306bf01402/地籍圖(核准版).pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "longitude": 121.50986964947388,
+    "latitude": 25.057436667959866,
+    "representImageSource": "臺北市文化局",
+    "landScope": "建築物坐落土地為大同區延平段三小段579（部分，保存面積249.84平方公尺）、 579-1 (5平方公尺）、 580(19平方公尺）地號等3筆土地。(實際保存面積須以保存範圍實測數據為準)",
+    "selfCoverage": "建物為大同區延平段三小段1408（建物總面積311.24平方公尺）、1409（部分，保存面積56.2976平方公尺)建號（實際保存面積須以保存範圍實測數據為準）",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 83421,
+            "caseId": 18840,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "迪化街1段121號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 93259,
+            "caseId": 18840,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 189,
+            "landSerialNo": "579",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "249.84",
+            "cityLandUseTypeOther": "特定專用區（一）(供特定商業使用)。",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 93260,
+            "caseId": 18840,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 189,
+            "landSerialNo": "579-1",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "5",
+            "cityLandUseTypeOther": "特定專用區（一）(供特定商業使用)。",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 93261,
+            "caseId": 18840,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 189,
+            "landSerialNo": "580",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "19",
+            "cityLandUseTypeOther": "特定專用區（一）(供特定商業使用)。",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 89659,
+            "caseId": 18840,
+            "caseStatus": true,
+            "registerDate": 1611504000000,
+            "officialDocNo": "北市文化文資字第11030065181 號",
+            "classificationId": 1,
+            "note": "歷史建築"
+        }
+    ],
+    "openVisitType": ""
+}

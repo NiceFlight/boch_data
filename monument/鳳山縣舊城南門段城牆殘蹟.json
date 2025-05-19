@@ -1,0 +1,174 @@
+{
+    "id": 16542,
+    "caseId": "20190129000001",
+    "count": 3113,
+    "shareCount": 0,
+    "representImage": 54990,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-01-29/b37e4203-b300-4eed-b388-511e177de553/水關_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-01-29/b37e4203-b300-4eed-b388-511e177de553/水關.jpg",
+        "name": "水關"
+    },
+    "caseName": "鳳山縣舊城南門段城牆殘蹟",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "清代鳳山縣舊城原有東南西北四座城門，其中西門到南門這一段因日治時期開闢道路而拆毀。\n107年(2018)，華友聯集團於南門啟文路口施作新建案，發現疑似城牆石材構件。經文化局與文資委員現勘，研判應為城牆殘蹟，即協調工程停工。後續再由考古發掘發現城牆殘蹟長達50米，還包括具城墻排水功能的水關。華友聯集團因而變更設計退縮建築範圍，保留城牆殘蹟，納入景觀設計。\n水關為設於城牆底部之水門，為城牆排水設施，設有花崗岩石格柵以阻擋異物及防止入侵。",
+    "assetsTypeNames": "城郭",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "registerDate": 1548233443383,
+    "officialDocNo": "高市府文資字第10830102200號",
+    "documents": [
+        {
+            "fileid": 54992,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-01-29/c1f4f982-9b8e-4517-9f48-a15aa329bc38/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "各時代表現地方營造技術流派特色者",
+        "具稀少性，不易再現者"
+    ],
+    "registerReason": "本段城牆殘蹟為清代鳳山縣舊城之一部分，具高度歷史價值，咾咕石牆砌築工法表現清代營造技術，出土之水關具獨特稀少性。",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、3、4款",
+    "govInstitutionCode": "800",
+    "govInstitutionName": "高雄市政府",
+    "belongCityId": 18,
+    "belongCityName": "高雄市",
+    "belongDistName": "左營區",
+    "govInstitution": "高雄市政府",
+    "govDeptName": "文化局文化資產中心",
+    "govDeptPhone": "07-2225136",
+    "govDeptAddress": "高雄市苓雅區五福一路67號",
+    "cadasters": [
+        {
+            "fileid": 54991,
+            "name": "地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2019-01-29/31e99ab2-fe37-4e17-87ef-7cd7c6f46b86/地籍圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "高雄市左營區果貿段177(部分)、201-2(部分)、200-2(部分)地號",
+    "buildingFeatures": "主體材料為咾咕石，現存於地下層，內外垣城牆皆以咾咕石從底層向上疊砌，空隙由小石粒及咾咕石灰漿填滿、勾縫及粉刷。水關材料為花崗岩疊砌。",
+    "buildingActualState": "現地現有圍籬防護，暫無開放入內參觀。",
+    "bulkTransfer": 0,
+    "belongAddress": "鄰近左營區啟文路",
+    "isOpenDownload": false,
+    "longitude": 120.28608413408506,
+    "latitude": 22.672550436112285,
+    "representImageSource": "高雄市政府文化局",
+    "landScope": "高雄市左營區果貿段177(部分)、201-2(部分)、200-2(部分)地號北側為古蹟本體外推5公尺，南側至本基地內建築物1樓建築線，西側至177地號地籍線，東側至177地號地籍線。面積：約833平方公尺 (實際面積依地政單位現況測量為準)。",
+    "selfCoverage": "古蹟本體：高雄市左營區果貿段177、201-2、215-20地號內鳳山縣舊城城牆殘跡;面積:約268平方公尺(實際面積依地政單位現況測量為準)。",
+    "addresses": [
+        {
+            "cityName": "高雄市",
+            "distName": "左營區",
+            "id": 92647,
+            "caseId": 16542,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1811,
+            "address": "鄰近左營區啟文路"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "高雄市",
+            "distName": "左營區",
+            "landNoName": "果貿段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 113202,
+            "caseId": 16542,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1811,
+            "landNoId": 4126,
+            "landSerialNo": "177",
+            "landownership": 2,
+            "cityLandUseTypeId": 1,
+            "area": "",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "高雄市",
+            "distName": "左營區",
+            "landNoName": "果貿段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 113203,
+            "caseId": 16542,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1811,
+            "landNoId": 4126,
+            "landSerialNo": "201-2",
+            "landownership": 2,
+            "cityLandUseTypeId": 1,
+            "area": "",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "高雄市",
+            "distName": "左營區",
+            "landNoName": "果貿段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 113204,
+            "caseId": 16542,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1811,
+            "landNoId": 4126,
+            "landSerialNo": "215-20",
+            "landownership": 2,
+            "cityLandUseTypeId": 1,
+            "area": "",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "高雄市",
+            "distName": "左營區",
+            "landNoName": "果貿段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 113205,
+            "caseId": 16542,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1811,
+            "landNoId": 4126,
+            "landSerialNo": "200-2",
+            "landownership": 2,
+            "cityLandUseTypeId": 1,
+            "area": "",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 99942,
+            "caseId": 16542,
+            "caseStatus": true,
+            "registerDate": 1548233443383,
+            "officialDocNo": "高市府文資字第10830102200號",
+            "classificationId": 1
+        }
+    ],
+    "openVisitType": "",
+    "openUpTime": "未開放參觀",
+    "isCharge": false,
+    "pastHistorySource": "高雄市國定古蹟左營鳳山縣舊城(南門)調查研究及修復計畫(九十六年)"
+}

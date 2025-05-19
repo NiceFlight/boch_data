@@ -1,0 +1,97 @@
+{
+    "id": 19260,
+    "caseId": "20210602000002",
+    "count": 2854,
+    "shareCount": 1,
+    "representImage": 167950,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/6c9fd8c5-ae5e-466f-ac08-bdc717dfc5bd/代表圖像_臺灣總督府交通局遞信部_20220601_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/6c9fd8c5-ae5e-466f-ac08-bdc717dfc5bd/代表圖像_臺灣總督府交通局遞信部_20220601.jpeg",
+        "name": "代表圖像_臺灣總督府交通局遞信部_20220601"
+    },
+    "caseName": "臺灣總督府交通局遞信部",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "建於1925年前後，為當時臺灣通信機關之總部，內設庶務、監督、工務、海事、電氣、貯金等單元，掌控全臺通信業務，地位甚為重要。建築採取西洋古典形式，一樓為仿石之牆面，中央闢有大圓拱門入口，二樓外觀出現十二根高大的希臘複合式柱子，造型異常華麗。這座建築原有三層樓，光復後曾由郵電總局、電信總局、交通部等機構使用，近年空間不敷使用，於頂上再增建一樓而成現貌，現改為國史館開放參觀。",
+    "assetsTypeNames": "其他設施",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 167951,
+            "name": "870504指定古蹟公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/ebbf61bf-886f-4138-9d03-5f62503eb992/870504指定古蹟公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值"
+    ],
+    "registerReason": "具保存價值",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 138088,
+            "name": "地籍.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/f00bedc7-94a1-414c-aa9b-0a7c626acb1a/地籍.pdf"
+        }
+    ],
+    "bulkTransfer": 1,
+    "longitude": 121.51080892735294,
+    "latitude": 25.039958033849793,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市城中段三小段13地號",
+    "selfCoverage": "2號建築本體",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 81944,
+            "caseId": 19260,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "長沙街1段2號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "城中段三小段",
+            "cityLandUseTypeName": "行政區",
+            "id": 90479,
+            "caseId": 19260,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 148,
+            "landSerialNo": "13",
+            "landownership": 1,
+            "cityLandUseTypeId": 4,
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 88085,
+            "caseId": 19260,
+            "caseStatus": true,
+            "registerDate": 894211200000,
+            "officialDocNo": "府民三字第8702427101號",
+            "classificationId": 1,
+            "note": "無"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "摘路台北市古蹟巡覽-下冊"
+}

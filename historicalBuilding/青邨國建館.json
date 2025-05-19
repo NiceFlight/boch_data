@@ -1,0 +1,171 @@
+{
+    "id": 1080,
+    "caseId": "20131120000001",
+    "count": 3960,
+    "shareCount": 7,
+    "representImage": 163060,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/b1b3d2df-947c-40c8-a43b-e91fd2333179/B331 台北市 青屯國建館 (歷建)01_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/b1b3d2df-947c-40c8-a43b-e91fd2333179/B331 台北市 青屯國建館 (歷建)01.JPG",
+        "name": "B331 台北市 青屯國建館 (歷建)01"
+    },
+    "caseName": "青邨國建館",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "國建館現址原為日治時代草山林間學校所在，光復後由國防部接收改稱「陽明山莊」，作為總政戰部青邨幹部訓練班基地，簡稱「青邨」。1949年10月蔣中正於此創辦「革命實踐研究院」，作為中國國民黨研究、教育訓練場所，1959年遷至木柵與中興山莊分院合併。1975年研究院再度搬回陽明山（木柵則由青邨幹訓班接收）。1994年研究院由陽明山二度遷移木柵（後於2000年更名為國家發展研究院迄今），現址再度由國防部接收使用。",
+    "assetsTypeNames": "衙署",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 163061,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/cf3d25e6-0294-46b5-bc84-8f4784c9de3a/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "1.國建館位處中山樓前方牌樓前端階梯入口，採U字型合院配置，建築風格與中山樓相近，皆以中國宮殿式建築藝術為藍本，外觀宏偉，為政府提倡復興中華文化之代表性建築。\r\n2.國建館曾作為國防部陽明山莊圖書館，為總政戰部青邨幹部訓練班及中國國民黨革命實踐研究院之重要建築群之一，為光復後黨國政治體制之歷史見證。\r\n3.院中有一巨型楓香老樹，樹形完美，古木參天。館舍與周邊的中山樓、圓講堂、松柏村、青邨幹部訓練班等建物，同為陽明山莊重要建築群落之一，並與鄰近山形地貌形成一和諧文化景觀，未來再利用的價值及潛力極高。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、2、3款評定基準。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 163062,
+            "name": "b1262075-5841-41b8-9a2a-d38c6ff20b60.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/4da10f2c-8abf-4678-8377-8e21cf532b47/b1262075-5841-41b8-9a2a-d38c6ff20b60.jpg"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 8,
+    "nonCityLandUseTypeName": "國家公園區",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "北投區湖山段一小段115、119-3、120、120-2地號",
+    "buildingFeatures": "建物樣式與中山樓相同，皆以中國北方宮殿式建築為藍本",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "1.保存範圍：2層樓建築物、中庭及楓香樹、連接中山樓前方之階梯及牌坊。\r\n2.目前納入「中山樓周邊園區文化景觀」之登錄範圍：「中山樓周邊園區文化景觀」包含市定古蹟陽明山中山樓、歷史建築青邨國建館及青邨圓講堂、周邊區域之重要景觀元素梨洲樓、舜水樓、松柏村、介壽堂及八卦升旗台，保留中山樓風水景觀軸線、注重區域內之老樹、溫泉及溪流等保護。",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isOpenDownload": false,
+    "longitude": 121.5526547,
+    "latitude": 25.1556188,
+    "representImageSource": "文化局",
+    "landScope": "北投區湖山段一小段115、119-3、120、120-2地號",
+    "selfCoverage": "實際保存面積須以保存範圍實測數據為準",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "id": 78800,
+            "caseId": 1080,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "address": "陽明路2段15號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "landNoName": "湖山段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 83233,
+            "caseId": 1080,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "landNoId": 706,
+            "landSerialNo": "115",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "cityLandUseTypeOther": "陽明山國家公園",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "landNoName": "湖山段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 83234,
+            "caseId": 1080,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "landNoId": 706,
+            "landSerialNo": "119-3",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "cityLandUseTypeOther": "陽明山國家公園",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "landNoName": "湖山段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 83235,
+            "caseId": 1080,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "landNoId": 706,
+            "landSerialNo": "120",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "cityLandUseTypeOther": "陽明山國家公園",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "landNoName": "湖山段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 83236,
+            "caseId": 1080,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "landNoId": 706,
+            "landSerialNo": "120-2",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "cityLandUseTypeOther": "陽明山國家公園",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 84530,
+            "caseId": 1080,
+            "caseStatus": true,
+            "registerDate": 1384876800000,
+            "officialDocNo": "北市文化二字第10230424204號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "數位典藏國家型科技計畫/中華百科全書、臺灣歷史辭典"
+}

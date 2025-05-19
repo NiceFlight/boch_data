@@ -1,0 +1,106 @@
+{
+    "id": 4325,
+    "caseId": "20130618000007",
+    "count": 485,
+    "shareCount": 0,
+    "representImage": 7256,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7408/photo/風車3_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7408/photo/風車3.jpg",
+        "name": "風車3"
+    },
+    "caseName": "風車3",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1371484800000,
+    "officialDocNo": "文資局物字第10220067541號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "《風車》（Le Moulin）詩誌是風車詩社的刊物。該社成立於日治時期1933年，由楊熾昌（1908-1994）主導，網羅林修二、利野倉等作家，將超現實主義文學首度引進臺灣，幾與世界文學思潮同步。\r\n《風車》詩誌創刊於1933年，共發行3號，本文物為第3號，目前1、2號皆未見。對臺灣文學史具有重大研究價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第一、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "中西區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路一段362號",
+    "reservationCode": "NMTL20060700002",
+    "keepNameId": 11,
+    "keepName": "國立臺灣文學館",
+    "keepNameNew": 11,
+    "keepAddressNew": "700台南市中西區中正路1號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 1,
+    "amount": 1,
+    "notes": "",
+    "descAge": "1943年",
+    "descCreator": "楊熾昌等",
+    "descSize": "長25.0公分、寬18.4公分、高0.7公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "文物曾經修護過，封面有缺失、皺摺痕、蟲蛀、褐斑和暈染的痕跡，結構狀況穩定。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "2006；楊熾昌家屬",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定 ",
+    "documents": [
+        {
+            "fileid": 7257,
+            "name": "eed6437c-e1a2-4142-a2fe-b30a6c759848.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44300/file/eed6437c-e1a2-4142-a2fe-b30a6c759848.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立臺灣文學館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立臺灣文學館",
+            "keepName": "國立臺灣文學館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立臺灣文學館",
+            "keepAddressNew": "700台南市中西區中正路1號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺南市",
+            "keepNameDistName": "中西區",
+            "keepNameAddress": "中正路1號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "id": 4468,
+            "caseId": 4325,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601
+        }
+    ],
+    "announces": [
+        {
+            "id": 4468,
+            "caseId": 4325,
+            "caseStatus": true,
+            "registerDate": 1371484800000,
+            "officialDocNo": "文資局物字第10220067541號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

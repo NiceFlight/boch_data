@@ -1,0 +1,99 @@
+{
+    "id": 23355,
+    "caseId": "20250507000003",
+    "count": 34,
+    "shareCount": 0,
+    "representImage": 285550,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2025-05-07/bf3f5d78-1a7f-44f2-bd8a-ef7ae210f068/插屏_c.png"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2025-05-07/bf3f5d78-1a7f-44f2-bd8a-ef7ae210f068/插屏.png",
+        "name": "插屏"
+    },
+    "caseName": "清 十八世紀 剔紅赤壁圖插屏",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "一、此件剔紅漆插屏正面以蘇東坡《赤壁賦》為主題，刻劃夜遊赤壁場景。人物形態各異刻劃細膩，背景山石與江面構成層次分明的空間感，採用斜峻刀法刻劃山石，呈現陡峭挺拔氣勢，水紋與天際回紋巧妙運用光影明暗變化視覺效果；屏面背面以雲龍戲水為主題，紋飾繁複但協調統一。屏風兩面將文人雅趣與皇家威嚴完美融合，不僅反映了清代宮廷對文人文化的推崇，也充分體現清代宮廷藝術的莊重與華麗，呈現出清代十八世紀特有的工藝特色，為清代漆器藝術中的經典之作。\n二、漆器因其材質特性，極易受環境影響而產生損壞。目前保存狀態如此完好的清代大型剔紅插屏數量極為稀少，本作品不僅具有極高的藝術價值，更是研究清代宮廷漆器工藝發展的重要實物資料。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第4、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "402臺中市南區復興路三段362號",
+    "reservationCode": "中漆000044",
+    "amount": 1,
+    "descAge": "清十八世紀",
+    "descSize": "長 59.9公分 寬 16.5公分 高 63.6公分",
+    "descMaterial": "漆、木",
+    "reserveStatusDesc": " ",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定",
+    "documents": [
+        {
+            "fileid": 285540,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2025-05-07/31dbe89d-1d5a-4c97-b653-fee7e7a75a2f/公告.pdf"
+        },
+        {
+            "fileid": 285633,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2025-05-07/999bf52b-a22c-4ea6-95de-ff82658e3a03/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 149226,
+            "caseId": 23355,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 162279,
+            "caseId": 23355,
+            "caseStatus": true,
+            "registerDate": 1746156411253,
+            "officialDocNo": "文授資局物字第11430042561號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

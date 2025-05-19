@@ -1,0 +1,117 @@
+{
+    "id": 1186,
+    "caseId": "20010629000006",
+    "count": 1871,
+    "shareCount": 0,
+    "representImage": 101396,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-03-19/70c72417-8bc0-4517-8590-a65eb4f641bd/南門外防空壕(代表)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-03-19/70c72417-8bc0-4517-8590-a65eb4f641bd/南門外防空壕(代表).jpg",
+        "name": "南門外防空壕(代表)"
+    },
+    "caseName": "南門外防空壕",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "日治後期基於戰備需要，建造防空壕，以保護人民生命安全。南門外防空壕為磚拱造建築，保存狀況良好，本建築見證日治殖民時期留下之歷史遺跡，實有保存意義。\n日治末期，建造了許多防空壕以因應太平洋戰爭之爆發。包括存放軍備之防空壕、存放機械設備及保護官員之防空壕(如本例)及民間自行建造之防空壕。其中民間所建者多僅為心安無法承受砲擊；軍備所用者多以混凝土建造，故最為堅固；官用防空壕雖不若軍用堅固，但多為磚造，至今仍存留不少。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "其他歷史遺蹟",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 993802385000,
+    "officialDocNo": "九十府宜文資產字第2990 號",
+    "documents": [
+        {
+            "fileid": 73727,
+            "name": "南門外防空壕公告公文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-10-27/46a4a6f3-3538-41ee-b115-8976d6eba452/南門外防空壕公告公文.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "日治後期為戰備需要於宜蘭郡役所建造之防空壕，見證日治時期留下之歷史遺跡，且毗鄰宜蘭設縣紀念碑，實有保存意義。",
+    "lawsReference": "文化資產保存法第廿七條之一暨歷史建築登錄及補助辦法第七條",
+    "govInstitutionCode": "260",
+    "govInstitutionName": "宜蘭縣政府",
+    "belongCityId": 4,
+    "belongCityName": "宜蘭縣",
+    "belongDistName": "宜蘭市",
+    "govInstitution": "宜蘭縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-9322440*652",
+    "govDeptAddress": "宜蘭縣五結鄉中正路二段6之8號",
+    "cadasters": [
+        {
+            "fileid": 125651,
+            "name": "南門外防空壕地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-07-21/9eb08c24-91b8-42fb-a73d-83c8a95aa60e/南門外防空壕地籍圖.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "宜蘭市南門段4號",
+    "buildingFeatures": "本建築見證日治殖民時期留下之歷史遺跡，實有保存意義。",
+    "inHouseFeatures": "磚拱造建築。",
+    "buildingUsage": "都市計畫商業用地。",
+    "buildingActualState": "磚拱造建築，保存狀況良好。",
+    "buildingKeyMaintainItem": "保留原貌，作為歷史遺跡之景觀。",
+    "bulkTransfer": 0,
+    "belongAddress": "舊城南路南側自治丕基旁",
+    "isOpenVisit": true,
+    "openUpTime": "全天。",
+    "isCharge": false,
+    "isOpenDownload": true,
+    "longitude": 121.750970626893,
+    "latitude": 24.7547633156167,
+    "representImageSource": "宜蘭縣政府文化局",
+    "landScope": "",
+    "selfCoverage": "早期公告無此資料",
+    "addresses": [
+        {
+            "cityName": "宜蘭縣",
+            "distName": "宜蘭市",
+            "id": 147733,
+            "caseId": 1186,
+            "caseStatus": true,
+            "cityId": 4,
+            "distId": 401,
+            "address": "舊城南路南側"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "宜蘭縣",
+            "distName": "宜蘭市",
+            "landNoName": "南門段",
+            "id": 203901,
+            "caseId": 1186,
+            "caseStatus": true,
+            "cityId": 4,
+            "distId": 401,
+            "landNoId": 7171,
+            "landSerialNo": "4",
+            "landownership": 1,
+            "area": "3194.43平方公尺",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 160448,
+            "caseId": 1186,
+            "caseStatus": true,
+            "registerDate": 993802385000,
+            "officialDocNo": "九十府宜文資產字第2990號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.75018237099053,24.755261139884787],[121.75024373812973,24.75522287727909],[121.7504202136247,24.755112863687078],[121.75043164218441,24.75506881487216],[121.75028078315233,24.754818211585736],[121.74968399969676,24.754980193891377],[121.74968386705237,24.75498000225495],[121.74967506925428,24.754982387279277],[121.74966587606497,24.754987751773015],[121.74959927896327,24.75502687631812],[121.7498985305042,24.7554331760622],[121.74993681069095,24.75540967553127],[121.74997795862548,24.755384789256937],[121.75018237099053,24.755261139884787],[121.75018237099053,24.755261139884787]]]]},\"properties\":{\"envelope\":{\"left\":\"121.74959927896327\",\"top\":\"24.754818211585736\",\"right\":\"121.75043164218441\",\"bottom\":\"24.7554331760622\"},\"landLot\":\"宜蘭縣宜蘭市南門段4\"}}],\"notfound\":[]}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": "宜蘭縣歷史建築登錄南門外防空壕表"
+}

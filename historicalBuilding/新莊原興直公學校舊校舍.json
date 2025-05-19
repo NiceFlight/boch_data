@@ -1,0 +1,110 @@
+{
+    "id": 18817,
+    "caseId": "20210429000001",
+    "count": 2406,
+    "shareCount": 1,
+    "representImage": 105710,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-04-12/dbe15f31-b0ba-47d2-ad25-759e3a02a8ed/P_20201208_傳藝工坊正面外觀 (1)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-04-12/dbe15f31-b0ba-47d2-ad25-759e3a02a8ed/P_20201208_傳藝工坊正面外觀 (1).jpg",
+        "name": "P_20201208_傳藝工坊正面外觀 (1)"
+    },
+    "caseName": "新莊原興直公學校舊校舍",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "學校",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 164086,
+            "name": "新莊原興直公學校舊校舍公告-110.4.29.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-18/d22ede4a-1bba-4f25-bd74-2ebaa13448aa/新莊原興直公學校舊校舍公告-110.4.29.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "一、明治34年（1901）新莊設立興直公學校，明治45年（1912）興建完成本校舍，大正10年（1921）改名為新莊第一公學校，舊校舍四連棟教室為現存最早建物，見證日治時期新莊地區教育發展，具歷史文化價值。符合「歷史建築紀念建築登錄廢止審查及輔助辦法」第2條第1項第1款之登錄基準。\n二、四連棟教室為紅磚構造，其磚拱與「拱心石」的砌造，具明治時期紅磚構造風格。雖然屋頂曾經改為「RC平頂」，牆體及建材保存情況尚佳，具建築史之價值。符合「歷史建築紀念建築登錄廢止審查及輔助辦法」第2條第1項第2款之登錄基準。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、2款",
+    "govInstitutionCode": "220",
+    "govInstitutionName": "新北市政府",
+    "govInstitution": "新北市政府",
+    "govDeptName": "文化局",
+    "govDeptPhone": "(02)29603456",
+    "govDeptAddress": "新北市板橋區中山路一段161號28樓",
+    "cadasters": [
+        {
+            "fileid": 164087,
+            "name": "新莊原興直公學校舊校舍地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-05-18/f2e496d9-818e-4313-b8de-70644b89b28a/新莊原興直公學校舊校舍地籍圖.pdf"
+        }
+    ],
+    "buildingFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "bulkTransfer": 0,
+    "wenSitename": "新北市新莊區新莊國民小學",
+    "wenSiteaddress": "https://www.scps.ntpc.edu.tw/",
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.45589728676917,
+    "latitude": 25.037337385955535,
+    "representImageSource": "新北市政府文化局",
+    "landScope": "新北市新莊區恒安段610地號（部分）",
+    "selfCoverage": "紅磚造舊校舍本體",
+    "addresses": [
+        {
+            "cityName": "新北市",
+            "distName": "新莊區",
+            "id": 84103,
+            "caseId": 18817,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 321,
+            "address": "中正路86號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "新北市",
+            "distName": "新莊區",
+            "landNoName": "恒安段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 95745,
+            "caseId": 18817,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 321,
+            "landNoId": 5383,
+            "landSerialNo": "610",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "",
+            "cityLandUseTypeOther": "國小用地",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 90334,
+            "caseId": 18817,
+            "caseStatus": true,
+            "registerDate": 1619677480381,
+            "officialDocNo": "新北府文資字第1100783856號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.45661044644406,25.037653074316626],[121.45661008551174,25.037632136433412],[121.45666552830733,25.037630810456616],[121.45670980890293,25.03760568805682],[121.45676071962288,25.037480906970845],[121.45679399099699,25.037351301277344],[121.45681053593736,25.037289161108227],[121.4568268487002,25.037183068092382],[121.45678218116971,25.037178318463404],[121.4567700806712,25.03707320657541],[121.45679058846163,25.03701213850655],[121.45672161350004,25.036991028727304],[121.45541671514783,25.036880275794857],[121.4555800399377,25.037588587199597],[121.45557548982403,25.03758977300363],[121.45548496383421,25.037612856527577],[121.45523446023758,25.037676904288315],[121.4552734327974,25.037795750663573],[121.45534702479357,25.037804482907816],[121.45553702576782,25.037738255969778],[121.45561502987553,25.037699863850914],[121.45604309894185,25.037615921480093],[121.45612109940036,25.03760929827339],[121.45617985121623,25.037621952345322],[121.45640234490075,25.03769245793394],[121.45657414913894,25.03766617103628],[121.45661044644406,25.037653074316626],[121.45661044644406,25.037653074316626]]]]},\"properties\":{\"envelope\":{\"left\":\"121.45523446023758\",\"top\":\"25.036880275794857\",\"right\":\"121.4568268487002\",\"bottom\":\"25.037804482907816\"},\"landLot\":\"新北市新莊區恒安段610\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": ""
+}

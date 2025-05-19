@@ -1,0 +1,99 @@
+{
+    "id": 18169,
+    "caseId": "20201214000001",
+    "count": 81,
+    "shareCount": 0,
+    "representImage": 89599,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-12-14/b935d52a-4cef-4bc9-b4c4-a5defdd7ae59/案009-5_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-12-14/b935d52a-4cef-4bc9-b4c4-a5defdd7ae59/案009-5.jpg",
+        "name": "案009-5"
+    },
+    "caseName": "象牙雕雙龍捻珠套球塔",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1606361329854,
+    "officialDocNo": "北市獻編字第1093004298號",
+    "judgeCriteria": [
+        "有地方重要人物或歷史事件之深厚淵源者"
+    ],
+    "registerReason": "嚴家淦先生任職副總統期間受贈之禮物，為重要人物史事。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第2款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "內湖區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174-1號",
+    "reservationCode": "典藏I009",
+    "amount": 1,
+    "descAge": "1960年代",
+    "descSize": "1件；高：33公分 木盒：長11.5公分、寬11公分、高36.5公分",
+    "descMaterial": "象牙",
+    "reserveStatusDesc": "此作品象牙雕雙龍捻珠套球塔雲龍紋套球以象牙雕刻，由大套球、承盤、支架、底座組合而成。其形似一座帽架。大套球直徑約7公分，表面以高浮雕刻4隻飛龍，兩兩成對祥雲間嬉戲，大套球內部則雕刻各種鏤空精緻的幾何紋，共9層，每層皆可靈活轉動。此牙雕集鏤雕、圓雕、浮雕、陰刻等多種技法於一身，窮工極巧而製成。其塔座為圓形蓮花底座，圓筒身上鏤雕“雙龍呈祥”紋飾。上接一根細長立柱，立柱中有一活動軸，質地堅韌瑩潤，細膩勻潔、素靜淡雅、穩重大方。\n根據近來學者的研究，這種中國奇巧工藝極致的象牙球，在製作工序、使用車床與鉤刀、鑽洞分層的幾何概念、螺旋結紐、以及清宮相關收藏等史實，竟與神聖羅馬帝國（ 962-1806 ）在16、17世紀車鏇工藝有出人意料的相似之處。\n此件藝術品有一個附屬物，記載此藝術品之重要意涵，附屬物為一個木製盒。\n木盒題款\n順天理票選噟昇副總統 得民心運籌帷幄佐邦家",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定。",
+    "documents": [
+        {
+            "fileid": 89598,
+            "name": "臺北市公告指定一般古物1091126.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-14/a5acf384-66b4-4680-8248-b0277feb69dd/臺北市公告指定一般古物1091126.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.51984879730222,
+    "latitude": 25.032456306173696,
+    "representImageSource": "嚴○泰/嚴○隆",
+    "keepNames": [
+        {
+            "keepNameIdStr": "嚴○泰/嚴○隆",
+            "keepName": "嚴○泰/嚴○隆",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "嚴○泰/嚴○隆",
+            "keepAddressNew": "台北市內湖區行忠路2號2樓",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "宅第",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "內湖區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 68655,
+            "caseId": 18169,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 72755,
+            "caseId": 18169,
+            "caseStatus": true,
+            "registerDate": 1606361329854,
+            "officialDocNo": "北市獻編字第1093004298號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

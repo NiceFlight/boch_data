@@ -1,0 +1,113 @@
+{
+    "id": 2141,
+    "caseId": "20150623000001",
+    "count": 2324,
+    "shareCount": 2,
+    "representImage": 173676,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/523f8788-fe54-4132-a3ca-f9e1a5614ec5/代表圖像_國立臺灣大學機械工程館_20220614_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/523f8788-fe54-4132-a3ca-f9e1a5614ec5/代表圖像_國立臺灣大學機械工程館_20220614.jpg",
+        "name": "代表圖像_國立臺灣大學機械工程館_20220614"
+    },
+    "caseName": "國立臺灣大學機械工程館",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "機械工程館建物為日據時期臺北帝大工學部僅存的唯一建築案例，具體展現臺北帝大工學部創建發展特色，為大學工業教育的先驅，具突出的歷史代表性。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "學校",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 132932,
+            "name": "3._1040623登錄歷史建築公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/f83122fa-b940-4ec5-a432-3732e1678ccd/3._1040623登錄歷史建築公告.pdf"
+        },
+        {
+            "fileid": 132933,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/4596187d-ea62-4630-8379-8f67dc8f0a12/公告表.pdf"
+        },
+        {
+            "fileid": 132934,
+            "name": "地形地籍示意圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/e1a24bd3-e7ad-46c9-8ceb-a49d6adfe69b/地形地籍示意圖.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "1.機械工程館建於1943年，為日據時期臺北帝大工學部唯一的建築案例，係大學工業教育的先驅。\r\n2.機械工程館山牆立面素壁高聳，南北側扶壁柱、兼具通氣排水用途的排氣管柱、日式RC出窗、屋頂三段式防火隔牆等，呈現工學部實驗教學建築之特色。",
+    "lawsReference": "歷史建築登錄廢止審查及輔助辦法第2條第1項第1、3、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 132935,
+            "name": "8c24e902-9502-4bc6-9e21-4329ae12afbe.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/d7e3e37d-039c-489d-8784-d8b4949f68f3/8c24e902-9502-4bc6-9e21-4329ae12afbe.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 5,
+    "cityLandUseTypeName": "文教區",
+    "locationLandNo": "台北市大安區學府段四小段230地號(部分)",
+    "buildingFeatures": "屋頂採用木構洋小屋形式，表面為水泥粉光上漆。山牆立面素壁高聳，南北側扶壁柱、兼具通氣排水之用的排氣管柱、日式RC出窗、屋頂三段式防火隔牆，以及多處幾何線腳修飾，如主入口、樓梯下部柱頭、防火牆兩翼收頭、山牆氣窗等。",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.5397264,
+    "latitude": 25.0186526,
+    "representImageSource": "臺北市文化局",
+    "landScope": "台北市大安區學府段四小段230地號(部分)",
+    "selfCoverage": "無建號",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 85152,
+            "caseId": 2141,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "羅斯福路4段1號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "學府段四小段",
+            "id": 97825,
+            "caseId": 2141,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 744,
+            "landSerialNo": "230",
+            "coverageId": 1,
+            "area": "644,839平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 91438,
+            "caseId": 2141,
+            "caseStatus": true,
+            "registerDate": 1434988800000,
+            "officialDocNo": "北市文化文資字第10430409500號",
+            "classificationId": 1,
+            "note": "無"
+        }
+    ],
+    "openVisitType": ""
+}

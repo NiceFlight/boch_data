@@ -1,0 +1,109 @@
+{
+    "id": 4316,
+    "caseId": "20110928000002",
+    "count": 475,
+    "shareCount": 0,
+    "representImage": 7242,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/37427/photo/266f47f7-f1b6-47e1-b4b6-f54bc2cd94fc_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/37427/photo/266f47f7-f1b6-47e1-b4b6-f54bc2cd94fc.JPG",
+        "name": "266f47f7-f1b6-47e1-b4b6-f54bc2cd94fc"
+    },
+    "caseName": "斜口筒形玉器",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1317139200000,
+    "officialDocNo": "會授資籌二字第10020104701號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事重要淵源",
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本件為中國新石器時代紅山文化玉器，年代久遠，\r\n質地溫潤，考證中國新石器時代區域文化玉禮器制\r\n度及各族群間上層文化交流網之運作的重要文物，\r\n具有歷史、文化、藝術及科學價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」\r\n   第三條第一項第一、二、三、四、五、六款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "北區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "登錄號 NMNS000558；編目號0001003",
+    "keepNameId": 9,
+    "keepName": "典藏管理組",
+    "keepNameNew": 9,
+    "keepAddressNew": "404台中市北區館前路1號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "中國，新石器時代，紅山文化，3500 BC",
+    "descSize": "徑8公分，長8公分",
+    "descMaterial": "玉",
+    "reserveStatusDesc": "本件為典型中國新石器時代紅山文化玉器，年代久遠，製作精良，保存狀況良好，具有歷史、文化、藝術及科學價值。",
+    "pastHistorySource": 2,
+    "pastHistorySourceNotes": "1990年；向鄧成清先生購買",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 52281,
+            "name": "國立自然科學博物館公告文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-12-11/9511c62c-cb78-40d7-a071-a9b4352f768c/國立自然科學博物館公告文.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立自然科學博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立自然科學博物館",
+            "keepName": "典藏管理組",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立自然科學博物館",
+            "keepAddressNew": "404台中市北區館前路1號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺中市",
+            "keepNameDistName": "北區",
+            "keepNameAddress": "館前路一號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "北區",
+            "id": 4459,
+            "caseId": 4316,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1005
+        }
+    ],
+    "announces": [
+        {
+            "id": 4459,
+            "caseId": 4316,
+            "caseStatus": true,
+            "registerDate": 1317139200000,
+            "officialDocNo": "會授資籌二字第10020104701號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

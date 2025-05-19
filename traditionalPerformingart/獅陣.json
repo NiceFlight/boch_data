@@ -1,0 +1,77 @@
+{
+    "id": 2369,
+    "caseId": "20110810000001",
+    "count": 351,
+    "shareCount": 2,
+    "representImage": 4660,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/traditional_art/364/photo/49db5602-bf56-48a5-8d70-1bd3f8eda54b_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/traditional_art/364/photo/49db5602-bf56-48a5-8d70-1bd3f8eda54b.JPG",
+        "name": "49db5602-bf56-48a5-8d70-1bd3f8eda54b"
+    },
+    "caseName": "獅陣",
+    "classifyCode": "4.1",
+    "classifyName": "傳統表演藝術",
+    "assetsTypeNames": "雜技",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "4.1.1",
+    "assetsClassifyName": "傳統表演藝術",
+    "registerDate": 1312970151000,
+    "officialDocNo": "府文化三字第10030161500號",
+    "documents": [],
+    "judgeCriteria": [
+        "藝術性:具有藝術價值者",
+        "特殊性:構成傳統藝術之特殊藝能表現,其技法優秀者",
+        "地方性:傳統藝術領域有價值與地位,並具有地方色彩或流派特色顯著者"
+    ],
+    "registerReason": "一、大龍峒金獅表演時舉凡咬蝨、沉睡、開口、搔癢、翻滾、踏七星、開四門…等動作皆栩栩如生，套路完備，符合「傳統藝術民俗及有關文物登錄指定及廢止審查辦法」第二條第一項第一款第一目，具藝術性。\r\n二、大龍峒金獅舞動方式俗稱頂路獅，是從不向人低首的，在弄獅時，無論怎樣跳躍擺動，獅頭總是向上，從不低頭，符合「傳統藝術民俗及有關文物登錄指定及廢止審查辦法」第二條第一項第一款第二目，具特殊性。\r\n三、大龍峒金獅團成立迄今約有兩百多年，是臺灣最早成立的獅團，也是老獅祖，獅頭沒有耳朵，極具地方特色，符合「傳統藝術民俗及有關文物登錄指定及廢止審查辦法」第二條第一項第一款第三目，具地方性。",
+    "lawsReference": "一、「文化資產保存法」。\r\n二、「傳統藝術民俗及有關文物登錄指定及廢止審查辦法」。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongAddress": "",
+    "historyDevelopment": "大龍峒金獅團成立迄今約有兩百多年，是台灣最早成立的獅團，也是老獅祖。獅頭由獅團成員自行以傳統方式製作，獅頭沒有耳朵，以避免團員道聽塗說，引發是非。",
+    "preservers": [
+        {
+            "id": 4576,
+            "type": "團體",
+            "caseName": "臺北市大龍峒金獅團促進會",
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "caseArtistEntities": [],
+            "judgeCriteria": [],
+            "status": "正常運作",
+            "school": "",
+            "isOpenDownload": false,
+            "contactorIsOpen": false
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "臺北市大龍峒金獅團",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 2482,
+            "caseId": 2369,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 2482,
+            "caseId": 2369,
+            "caseStatus": true,
+            "registerDate": 1312970151000,
+            "officialDocNo": "府文化三字第10030161500號",
+            "classificationId": 1
+        }
+    ]
+}

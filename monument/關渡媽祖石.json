@@ -1,0 +1,126 @@
+{
+    "id": 253,
+    "caseId": "20020425000001",
+    "count": 2334,
+    "shareCount": 1,
+    "representImage": 464,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/4538/photo/C013  新北市 關渡媽祖石 (直轄市定)01_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/4538/photo/C013  新北市 關渡媽祖石 (直轄市定)01.JPG",
+        "name": "C013  新北市 關渡媽祖石 (直轄市定)01"
+    },
+    "caseName": "關渡媽祖石",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "碑碣",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "registerDate": 1019725208000,
+    "officialDocNo": "北府文資字第0910002509號",
+    "documents": [
+        {
+            "fileid": 131256,
+            "name": "F1-91.04.25-公告淡水鎮關渡媽祖石.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-08-11/cb866a6c-b066-4d87-81f8-215f81c47680/F1-91.04.25-公告淡水鎮關渡媽祖石.pdf"
+        },
+        {
+            "fileid": 131257,
+            "name": "F5-91.04.16-本縣淡水鎮「媽祖石」古蹟指定評鑑會議記錄等相關資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-08-11/09cc671c-9d18-4e6e-bfa3-fb38dd85d470/F5-91.04.16-本縣淡水鎮「媽祖石」古蹟指定評鑑會議記錄等相關資料.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "具稀少性，不易再現者",
+        "具其他古蹟價值者"
+    ],
+    "registerReason": "1.石碣上刻有「大正二年癸丑四月二十七日立」距今九十年具有時代上之意義。\n2.此石位於淡水鎮竹圍國小自強分校運動場上，石碣上留有「和尚墓湖山頂馬路邊」之舊地名，具有地緣上的意義（參考媽祖石字碑），後經關渡宮之管理人亦為日治時期北台的名人林大春向大龍峒陳悅記購得，此與地方發展史上具相當的關連，可供深入探討，具學術研究之價值。\n3.此石巨大、奇特，上有石匠留下之打石鑿洞，石碣所載又為當時人護產之證據，並有其時代的落款，具稀有性。",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>（民國九十五年一月十二日發布）第2條第1項第1、4、6款",
+    "govInstitutionCode": "220",
+    "govInstitutionName": "新北市政府",
+    "belongCityId": 3,
+    "belongCityName": "新北市",
+    "belongDistName": "淡水區",
+    "govInstitution": "新北市政府文化局",
+    "govDeptName": "文化局",
+    "govDeptPhone": "(02)29603456",
+    "govDeptAddress": "新北市板橋區中山路段161號28樓",
+    "cadasters": [
+        {
+            "fileid": 165128,
+            "name": "關渡媽祖石地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-05-24/750150ac-7ff3-4a2b-8908-492fd3fb7f03/關渡媽祖石地籍圖.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "空白",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "淡水鎮關渡段674地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "自強路33 號",
+    "isOpenDownload": false,
+    "longitude": 121.46389428294,
+    "latitude": 25.125587807961,
+    "representImageSource": "新北市政府文化局",
+    "landScope": "淡水區關渡段674地號",
+    "selfCoverage": "關渡媽祖石本體",
+    "addresses": [
+        {
+            "cityName": "新北市",
+            "distName": "淡水區",
+            "id": 129716,
+            "caseId": 253,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 327,
+            "address": "自強路33號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "新北市",
+            "distName": "淡水區",
+            "landNoName": "關渡段",
+            "cityLandUseTypeName": "文教區",
+            "id": 180880,
+            "caseId": 253,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 327,
+            "landNoId": 6147,
+            "landSerialNo": "674",
+            "landownership": 1,
+            "cityLandUseTypeId": 5,
+            "area": "",
+            "cityLandUseTypeOther": "文小用地(附) ",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 141220,
+            "caseId": 253,
+            "caseStatus": true,
+            "registerDate": 1019725208000,
+            "officialDocNo": "北府文資字第0910002509號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.46384735708862,25.12581379868167],[121.4638571398289,25.125629652940557],[121.46386577044913,25.125607343826342],[121.46386792962237,25.125525746161852],[121.463874081654,25.1254011778791],[121.46389451116706,25.12538200880342],[121.46372039647306,25.125387711357096],[121.46372153626201,25.125426160018435],[121.46373332348084,25.12545168422959],[121.46369878790998,25.12546049620934],[121.46366011838617,25.12542499795135],[121.46363542227131,25.12541700594113],[121.46355888812643,25.125553243713785],[121.4635275004125,25.125734807279517],[121.46354993511711,25.12579813291392],[121.46354980557409,25.12586682044887],[121.46353640128048,25.125960441609195],[121.46367622242019,25.12602564894585],[121.46380578380082,25.125795905200935],[121.46384735708862,25.12581379868167],[121.46384735708862,25.12581379868167]]]]},\"properties\":{\"envelope\":{\"left\":\"121.4635275004125\",\"top\":\"25.12538200880342\",\"right\":\"121.46389451116706\",\"bottom\":\"25.126025648945848\"},\"landLot\":\"新北市淡水區關渡段674\"}}],\"notfound\":[]}]",
+    "openVisitType": "部分開放參觀",
+    "openUpTime": "配合竹圍國小自強分校開放時間",
+    "isCharge": false,
+    "pastHistorySource": "待修復或再利用計畫完成後填列"
+}

@@ -1,0 +1,180 @@
+{
+    "id": 20041,
+    "caseId": "20210929000002",
+    "count": 1545,
+    "shareCount": 2,
+    "representImage": 141402,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-10-26/100fc9b3-ea95-477f-b5ec-5f2e7f49eb6d/DSC06021-hhy_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-10-26/100fc9b3-ea95-477f-b5ec-5f2e7f49eb6d/DSC06021-hhy.jpg",
+        "name": "DSC06021-hhy"
+    },
+    "caseName": "臺南地方法院虎尾出張所宿舍",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "具臺南地方法院處尾出張所日式宿舍之歷史價值，見證臺灣土地登記制度變化與歷程",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "宿舍",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 137835,
+            "name": "臺南地方法院虎尾出張所宿舍公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-09-10/f5e0d5ff-fa2f-4d9f-adbe-638f763f549a/臺南地方法院虎尾出張所宿舍公告.pdf"
+        },
+        {
+            "fileid": 256998,
+            "name": "1130503府文資一字第1133806557號更正歷史建築臺南地方法院虎尾出張所宿舍範圍公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-05-18/054f314f-6bae-403e-8ea8-0f6a6f2ce057/1130503府文資一字第1133806557號更正歷史建築臺南地方法院虎尾出張所宿舍範圍公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "(一)表現地域風貌或民間藝術特色者：具臺南地方法院處尾出張所日式宿舍之歷史價值，見證臺灣土地登記制度變化與歷程。\n(二)具建築史或技術史之價值者：構法及空間配置依日治時期標準官舍築造，表現日式宿舍磚木混構風格與建築技術。\n(三)具地區性建造物類型之特色者：雲林地區少數保留完整之日治時期出張所宿舍，並與前棟出張所共同形成場域。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第2、3、4款",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "govInstitution": "雲林縣政府",
+    "govDeptName": "文化觀光處",
+    "govDeptPhone": "05-5523218",
+    "govDeptAddress": "雲林縣斗六市大學路三段310號",
+    "cadasters": [
+        {
+            "fileid": 137836,
+            "name": "83.臺南地方法院虎尾出張所宿舍地籍資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-09-10/97271678-a038-4c13-9723-5d963d8b7bba/83.臺南地方法院虎尾出張所宿舍地籍資料.pdf"
+        },
+        {
+            "fileid": 137837,
+            "name": "83.臺南地方法院虎尾出張所宿舍地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-09-10/429932db-6f0d-4298-8d1d-c6f564f6fff3/83.臺南地方法院虎尾出張所宿舍地籍圖.pdf"
+        }
+    ],
+    "bulkTransfer": 1,
+    "isOpenVisit": false,
+    "openUpTime": "閒置中",
+    "isCharge": false,
+    "isOpenDownload": true,
+    "longitude": 23.708799335001434,
+    "latitude": 120.43275895517344,
+    "representImageSource": "雲林縣政府",
+    "landScope": "１、建物本體面積為73.86平方公尺。\n２、建物定著土地為雲林縣虎尾鎮仁愛段386、388-2、389、412-7地號等4筆地號之土地面積合計為906.49平方公尺。\n",
+    "selfCoverage": "建物本體為73.86平方公尺",
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "虎尾鎮",
+            "id": 129756,
+            "caseId": 20041,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1303,
+            "address": "林森路一段501號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "雲林縣",
+            "distName": "虎尾鎮",
+            "landNoName": "仁愛段",
+            "cityLandUseTypeName": "商業區",
+            "id": 181222,
+            "caseId": 20041,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1303,
+            "landNoId": 11838,
+            "landSerialNo": "389",
+            "landownership": 1,
+            "cityLandUseTypeId": 2,
+            "area": "419平方公尺",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "雲林縣",
+            "distName": "虎尾鎮",
+            "landNoName": "仁愛段",
+            "cityLandUseTypeName": "商業區",
+            "id": 181223,
+            "caseId": 20041,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1303,
+            "landNoId": 11838,
+            "landSerialNo": "386",
+            "landownership": 1,
+            "cityLandUseTypeId": 2,
+            "area": "237.20平方公尺",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "雲林縣",
+            "distName": "虎尾鎮",
+            "landNoName": "仁愛段",
+            "cityLandUseTypeName": "商業區",
+            "id": 181224,
+            "caseId": 20041,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1303,
+            "landNoId": 11838,
+            "landSerialNo": "388-2",
+            "landownership": 1,
+            "cityLandUseTypeId": 2,
+            "area": "191.30平方公尺",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "雲林縣",
+            "distName": "虎尾鎮",
+            "landNoName": "仁愛段",
+            "cityLandUseTypeName": "商業區",
+            "id": 181225,
+            "caseId": 20041,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1303,
+            "landNoId": 11838,
+            "landSerialNo": "412-7",
+            "landownership": 1,
+            "cityLandUseTypeId": 2,
+            "area": "58.99平方公尺",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 141274,
+            "caseId": 20041,
+            "caseStatus": true,
+            "registerDate": 1629377678702,
+            "officialDocNo": "府文資二字第1103815118C號",
+            "classificationId": 1
+        },
+        {
+            "id": 141275,
+            "caseId": 20041,
+            "caseStatus": true,
+            "registerDate": 1714738572291,
+            "officialDocNo": "府文資一字第1133806557號",
+            "classificationId": 2
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.43281739576088,23.708359413547964],[120.4330179662424,23.70844617460508],[120.43304685964576,23.708392062115863],[120.43308486840996,23.7083208754975],[120.43309817175232,23.70829595101451],[120.43289800640413,23.708208747289778],[120.43281739576088,23.708359413547964],[120.43281739576088,23.708359413547964]]]]},\"properties\":{\"envelope\":{\"left\":\"120.43281739576088\",\"top\":\"23.708208747289778\",\"right\":\"120.43309817175232\",\"bottom\":\"23.708446174605079\"},\"landLot\":\"雲林縣虎尾鎮仁愛段389\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.43277039556378,23.708444588332558],[120.43297306751792,23.708530252828847],[120.43299480403755,23.708489555617202],[120.43300629614122,23.708468036799804],[120.4330179662424,23.70844617460508],[120.43281739576088,23.708359413547964],[120.43277039556378,23.708444588332558],[120.43277039556378,23.708444588332558]]]]},\"properties\":{\"envelope\":{\"left\":\"120.43277039556378\",\"top\":\"23.708359413547964\",\"right\":\"120.4330179662424\",\"bottom\":\"23.708530252828847\"},\"landLot\":\"雲林縣虎尾鎮仁愛段386\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"雲林縣虎尾鎮仁愛段388-2\"}}],\"notfound\":\"沒有地號資料\"},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"雲林縣虎尾鎮仁愛段412-7\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "openVisitType": "不開放參觀"
+}

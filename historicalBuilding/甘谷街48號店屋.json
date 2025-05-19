@@ -1,0 +1,101 @@
+{
+    "id": 20858,
+    "caseId": "20220712000003",
+    "count": 1307,
+    "shareCount": 3,
+    "representImage": 205248,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/8c2fc53f-d56d-4b47-90f5-b7dd0b7e9c42/代表圖像_甘谷街48號店屋_20221021_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/8c2fc53f-d56d-4b47-90f5-b7dd0b7e9c42/代表圖像_甘谷街48號店屋_20221021.jpeg",
+        "name": "代表圖像_甘谷街48號店屋_20221021"
+    },
+    "caseName": "甘谷街48號店屋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "日治時期土地初次登記明治36年(1903年)；建物首次登記腾本為明治40年(1907年)4月1日，地上建設為土木磚石造瓦葺平家壹棟。日治時期鄰近正米市場等米商街區，與當年大稻埕米業發展有關。",
+    "assetsTypeNames": "其他設施",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 173052,
+            "name": "公告+範圍示意圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/ea760e0b-1e83-4f27-a38a-afd800c79d5b/公告+範圍示意圖.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1.本建物為雙立面，五柱四窗，一坎一落一過水3層半建物，樓頂半層為倒吞樓，正立面為1940年代之建築式樣，有仿歐式的柱列及洗石子，國防色及溝面磚，呈現當時建築技術及特色。\n2.本案位於大稻埕特定專用區南側，日治時期鄰近正米市場等米商街區，與當年大稻埕米業發展有關。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 173053,
+            "name": "甘谷街48號店屋_範圍示意圖(核准版).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/56401438-bf66-44c6-ae3e-892ee478b718/甘谷街48號店屋_範圍示意圖(核准版).pdf"
+        }
+    ],
+    "isOpenVisit": false,
+    "isCharge": false,
+    "longitude": 121.51062297883738,
+    "latitude": 25.053056009678173,
+    "representImageSource": "臺北市文化局",
+    "landScope": "大同區玉泉段二小段169地號（133平方公尺）1筆土地。（實際保存面積須以保存範圍實測數據為準）",
+    "selfCoverage": "大同區玉泉段二小段677建號（建物總面積379.74 平方公尺）（實際保存面積須以保存範圍實測數據為準）",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 106548,
+            "caseId": 20858,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "甘谷街48號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "玉泉段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 131975,
+            "caseId": 20858,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 191,
+            "landSerialNo": "169",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "133",
+            "cityLandUseTypeOther": "特定專用區（二）(供一般商業使用)。",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 114324,
+            "caseId": 20858,
+            "caseStatus": true,
+            "registerDate": 1657468800000,
+            "officialDocNo": "北市文化文資字第11130264941號",
+            "classificationId": 1,
+            "note": "歷史建築"
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.51042330027234,25.053107686733316],[121.51063865570069,25.053084195735263],[121.51063587860608,25.053028682549552],[121.51045805674919,25.053047620792974],[121.51042951512272,25.053050427305404],[121.51042330027234,25.053107686733316],[121.51042330027234,25.053107686733316]]]]},\"properties\":{\"xcenter\":121.51053162858956,\"ycenter\":25.053068019241955,\"query\":\"台北市大同區-地號169號\",\"content\":\"1. 個案名稱: 甘谷街48號店屋 <br />\\n      2. 地號: 台北市大同區-地號169號 <br />\\n      3. 種類: 其他設施 <br />\\n      4. 指定登錄理由: 1.本建物為雙立面，五柱四窗，一坎一落一過水3層半建物，樓頂半層為倒吞樓，正立面為1940年代之建築式樣，有仿歐式的柱列及洗石子，國防色及溝面磚，呈現當時建築技術及特色。\\n2.本案位於大稻埕特定專用區南側，日治時期鄰近正米市場等米商街區，與當年大稻埕米業發展有關。 <br />\\n      5. 最後一筆公告日期: 2022-07-11 <br />\\n      6. 最後一筆公告文號: 北市文化文資字第11130264941號 <br />\\n      7. 管理單位: 吳政翰、林文雄、郭川上、郭宏哲 <br />\\n      8. 使用單位: 吳政翰、林文雄、郭川上、郭宏哲 <br />\\n      9. 建物狀態: 待修復 <br />\"}}],\"address\":[{\"address\":\"1. 個案名稱: 甘谷街48號店屋 <br />\\n      2. 地址: 甘谷街48號 <br />\\n      3. 種類: 其他設施 <br />\\n      4. 指定登錄理由: 1.本建物為雙立面，五柱四窗，一坎一落一過水3層半建物，樓頂半層為倒吞樓，正立面為1940年代之建築式樣，有仿歐式的柱列及洗石子，國防色及溝面磚，呈現當時建築技術及特色。\\n2.本案位於大稻埕特定專用區南側，日治時期鄰近正米市場等米商街區，與當年大稻埕米業發展有關。 <br />\\n      5. 最後一筆公告日期: 2022-07-11 <br />\\n      6. 最後一筆公告文號: 北市文化文資字第11130264941號 <br />\\n      7. 管理單位: 吳政翰、林文雄、郭川上、郭宏哲 <br />\\n      8. 使用單位: 吳政翰、林文雄、郭川上、郭宏哲 <br />\\n      9. 建物狀態: 待修復 <br />\",\"lat\":25.053056009678173,\"lng\":121.51062297883738}]}]",
+    "openVisitType": ""
+}

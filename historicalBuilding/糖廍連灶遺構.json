@@ -1,0 +1,112 @@
+{
+    "id": 16484,
+    "caseId": "20190108000005",
+    "count": 3049,
+    "shareCount": 3,
+    "representImage": 53870,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-01-08/da64e08d-a050-4b04-b421-7ec9e9e76397/5. 漢人糖廍連灶遺構_c.png"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-01-08/da64e08d-a050-4b04-b421-7ec9e9e76397/5. 漢人糖廍連灶遺構.png",
+        "name": "5. 漢人糖廍連灶遺構"
+    },
+    "caseName": "糖廍連灶遺構",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "產業",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1543977855080,
+    "officialDocNo": "府文資處字第1071342650A號",
+    "documents": [
+        {
+            "fileid": 164699,
+            "name": "公告107.12.05.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-23/34603b92-97ab-43ed-bf53-edefb2542f85/公告107.12.05.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1.具建築史或技術史之價值者：糖廍遺構之築構形式與工法具體呈現該時代之傳統特色與技術，且仍保有原貌，有其真實性與代表性。\n2.具地區性建造物類型之特色者：為傳統製糖技術與發展歷史之見證，現存遺構亦呈現了糖廍相關組成元素、製糖流程與構造，可能是目前唯一現存之標的，具稀少性及特殊性。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第2、3款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "善化區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 53871,
+            "name": "地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2019-01-08/5969ac02-a13a-4bd6-a89a-1028da605087/地籍圖.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺南市善化區曾文段124-89地號。",
+    "buildingFeatures": "",
+    "buildingActualState": "",
+    "bulkTransfer": 0,
+    "belongAddress": "臺南市善化區溪美里949-8號旁",
+    "isOpenVisit": false,
+    "openUpTime": "",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.28896,
+    "latitude": 23.14184,
+    "representImageSource": "臺南市政府",
+    "landScope": "",
+    "selfCoverage": "連灶遺構（包含糖灶等相關構造）",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "善化區",
+            "id": 92628,
+            "caseId": 16484,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1634,
+            "address": "溪美里949-8號旁"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺南市",
+            "distName": "善化區",
+            "landNoName": "曾文段",
+            "id": 113144,
+            "caseId": 16484,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1634,
+            "landNoId": 3315,
+            "landSerialNo": "124-89地號",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 99923,
+            "caseId": 16484,
+            "caseStatus": true,
+            "registerDate": 1543977855080,
+            "officialDocNo": "府文資處字第1071342650A號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"臺南市善化區曾文段124-89地號\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "openVisitType": "不開放參觀"
+}

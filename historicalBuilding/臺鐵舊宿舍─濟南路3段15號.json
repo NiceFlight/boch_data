@@ -1,0 +1,111 @@
+{
+    "id": 1042,
+    "caseId": "20070227000017",
+    "count": 2587,
+    "shareCount": 3,
+    "representImage": 186616,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/fcccf265-6d9f-41f9-be75-6ad1a33ec5c1/代表圖像_臺鐵舊宿舍─濟南路3段15號_20220617_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/fcccf265-6d9f-41f9-be75-6ad1a33ec5c1/代表圖像_臺鐵舊宿舍─濟南路3段15號_20220617.jpeg",
+        "name": "代表圖像_臺鐵舊宿舍─濟南路3段15號_20220617"
+    },
+    "caseName": "臺鐵舊宿舍─濟南路3段15號",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "編竹泥牆外貼雨淋板、屋架為木桁架、屋面舖日式黑瓦，具建築特色，前為臺鐵宿舍。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 167641,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/85916ae8-f641-43ff-8aad-72ccb5febe4c/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "1.入口門廊具素木柱，搭配洗石子，風格獨具，為少見之形式。\r\n2.庭院景觀與建築共同形成一優雅環境，頗具特色。\r\n3.建物完整且仍保有原貌，具保存價值。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、2、4款評定基準",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 167642,
+            "name": "f9c97067-85ae-4482-89f5-6a8d132789d5.JPG",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/9ea3511d-cac8-4e5f-b651-17e1fba68b75/f9c97067-85ae-4482-89f5-6a8d132789d5.JPG"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "locationLandNo": "臺北市大安區懷生段三小段479地號",
+    "buildingFeatures": "入口門廊具素木柱，搭配洗石子，風格獨具。",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "全棟外貌原樣保存（不含增建部分），另庭園亦一併保存。",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.5341067,
+    "latitude": 25.0403449,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市大安區懷生段三小段479地號",
+    "selfCoverage": "實際保存面積須以保存範圍實測數據為準",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 93419,
+            "caseId": 1042,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "濟南路3段15號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "懷生段三小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 114993,
+            "caseId": 1042,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 757,
+            "landSerialNo": "479",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "317平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 100840,
+            "caseId": 1042,
+            "caseStatus": true,
+            "registerDate": 1172505600000,
+            "officialDocNo": "北市府文化二字09630214700號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

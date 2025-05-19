@@ -1,0 +1,103 @@
+{
+    "id": 20496,
+    "caseId": "20220315000012",
+    "count": 110,
+    "shareCount": 0,
+    "representImage": 155109,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-03-15/7fd63c84-2414-47aa-b421-5ddb48f6e2dd/PC2A000020N000000000PAA (2)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-03-15/7fd63c84-2414-47aa-b421-5ddb48f6e2dd/PC2A000020N000000000PAA (2).jpg",
+        "name": "PC2A000020N000000000PAA (2)"
+    },
+    "caseName": "元王淵鷹逐畫眉 軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "具有重要藝術造詣或科學成就",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "王淵此作承襲自五代黃筌（約903-965）花鳥畫風，嚴謹描繪與寫實性反映出宋代花鳥畫遺緒，代表著元代花鳥重要成就。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第3、4、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "中畫000020",
+    "amount": 1,
+    "descAge": "元",
+    "descCreator": "王淵",
+    "descSize": "117.2x53.3公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "王淵（活動於14世紀），字若水，號淡軒，浙江錢塘人。早年曾獲趙孟頫（1254-1322）指導，尤精於花鳥畫。畫蒼鷹自空中急速俯衝而下，追擊倉促竄逃的畫眉，蒼鷹鳥喙彎曲銳利、目露凶光，強而有力的腳爪緊握，畫眉則張口失聲，神情驚駭。全幅用筆甚工，蒼鷹及畫眉造型寫實，竹樹枯蘆隨風搖曳，應和驚心動魄的氣氛，情境極富動感，設色溫雅，頗有宋畫遺風。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "舊傷補。",
+    "documents": [
+        {
+            "fileid": 155107,
+            "name": "公告用印後PDF(彩色).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-03-15/a89b7d17-1b7e-4d09-bc62-b489cd76678f/公告用印後PDF(彩色).pdf"
+        },
+        {
+            "fileid": 155108,
+            "name": "公告表11.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-03-15/ef89d563-48c0-4244-b213-cd4426afafa6/公告表11.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.549499,
+    "latitude": 25.10037,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 73614,
+            "caseId": 20496,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 78628,
+            "caseId": 20496,
+            "caseStatus": true,
+            "registerDate": 1647342968786,
+            "officialDocNo": "文授資局物字第11130027241號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,95 @@
+{
+    "id": 1832,
+    "caseId": "20031231000004",
+    "count": 1846,
+    "shareCount": 1,
+    "representImage": 125323,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-20/5aedce44-8035-43b1-83ab-05047e339009/歷建38-知本農場第5村28莊-永保_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-20/5aedce44-8035-43b1-83ab-05047e339009/歷建38-知本農場第5村28莊-永保.jpg",
+        "name": "歷建38-知本農場第5村28莊-永保"
+    },
+    "caseName": "知本農場第5村28莊",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "知本農場位於臺東市西康路一段兩側，建物均為連棟式單身宿舍。民國52年（1963）6月時，國防部東部警備開發總隊首批隊員退伍，其中二總隊624人就地安置。退輔會將大南墾區劃設為知本、大南兩個輔導區以便輔導管理，並同時開始興建農莊。最先興建的是今日的1-5村，居民習慣稱為知本農場。 \n知本農場第5村28莊，宿舍基地面積約133.87平方公尺，建物面積約82.15平方公尺。建物均為一條龍式5間起，鋼筋混凝土構造。左右各兩間為單身宿舍，每間住6人，共可容納24人。中為中山室，是活動空間，前有遮陽棚。除宿舍外，前有晒場約151.78平方公尺，做為場員晒農作物及活動的空間。後有廚房約66.93平方公尺，設有大鍋灶煮食空間。倉庫約28.66平方公尺，供存放農具、肥料與作物之用。另有豬圈、廁所，蓄水池等公共空間。正面及兩側圍牆，是以開墾土地所撿得的石塊堆砌而成。\n農莊原來是都配給單身場員，後因場員日少，改分配給兩戶有眷場員居住。除少數在左右兩側或後方增建外，其餘均保持原貌，為農場中保存原貌最好之農莊。\n",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "建築物類",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1072840073000,
+    "officialDocNo": "府文資字第 0923028169 號",
+    "documents": [
+        {
+            "fileid": 114978,
+            "name": "38臺東縣歷史建築公告文-知本農場第5村28莊.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-28/86d6416b-1072-4d57-b9ee-4edbc3ca8b8d/38臺東縣歷史建築公告文-知本農場第5村28莊.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "退除役官兵開墾東部荒地歷史見證。",
+    "lawsReference": "1.文化資產保存法第27條之一規定\n2.歷史建築登錄及輔助辦法\n3.臺東縣92年12月16日歷史建築登錄審查會議決議辦理\n",
+    "govInstitutionCode": "950",
+    "govInstitutionName": "臺東縣政府",
+    "belongCityId": 22,
+    "belongCityName": "臺東縣",
+    "belongDistName": "臺東市",
+    "govInstitution": "臺東縣政府",
+    "govDeptName": "文化處文化資產科",
+    "govDeptPhone": "089-350129",
+    "govDeptAddress": "臺東市南京路25號",
+    "cadasters": [],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 1,
+    "nonCityLandUseTypeName": "特定農業區",
+    "nonCityLandUseSubTypeId": 1,
+    "nonCityLandUseSubTypeName": "甲種建築",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺東市知本段7302-0001地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "建農里大學路一段413巷122號之1、建農里大學路一段413巷122號之2",
+    "isOpenVisit": false,
+    "openUpTime": "",
+    "isCharge": false,
+    "isOpenDownload": true,
+    "longitude": 121.07568688686705,
+    "latitude": 22.72428000517419,
+    "representImageSource": "109-110年度臺東縣文化資產個案資料同步更新維護計畫",
+    "landScope": "臺東市建農段518地號",
+    "selfCoverage": "臺東市建農段518地號",
+    "addresses": [
+        {
+            "cityName": "臺東縣",
+            "distName": "臺東市",
+            "id": 127333,
+            "caseId": 1832,
+            "caseStatus": true,
+            "cityId": 22,
+            "distId": 2201,
+            "address": "大學路一段413巷122號、122之1號、122號之1"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 138166,
+            "caseId": 1832,
+            "caseStatus": true,
+            "registerDate": 1072840073000,
+            "officialDocNo": "府文資字第 0923028169 號",
+            "classificationId": 1
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

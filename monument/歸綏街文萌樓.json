@@ -1,0 +1,130 @@
+{
+    "id": 79,
+    "caseId": "20061220000001",
+    "count": 3052,
+    "shareCount": 3,
+    "representImage": 186927,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/590c10c9-316d-4a8e-9cf4-d27eb4b8006b/代表圖像_歸綏街文萌樓_20221011_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/590c10c9-316d-4a8e-9cf4-d27eb4b8006b/代表圖像_歸綏街文萌樓_20221011.jpg",
+        "name": "代表圖像_歸綏街文萌樓_20221011"
+    },
+    "caseName": "歸綏街文萌樓",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "光復後，1941年即為公娼館所在，為都市發展史河港城市性產業歷史記憶地區，亦是反廢娼運動中心，尤具紀念意義。",
+    "assetsTypeNames": "產業",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 143174,
+            "name": "3._951220指定市定古蹟.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/be616760-2e30-41ae-8ba2-9f8af67e2c69/3._951220指定市定古蹟.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值"
+    ],
+    "registerReason": "1.為殖民時期1930-1940年代店屋類型，日人移植歐洲巴洛克建築元素，覆以黃綠色國防色磁磚，建築物實質條件尚佳。\n2.光復後，1941年即為公娼館所在，為都市發展史河港城市性產業歷史記憶地區，亦是反廢娼運動中心，尤具紀念意義。\n3.建築內部的室內隔間，反映出來當時性產業的空間要求，仍維持公娼館氣氛，相當完整，具見證價值。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 143175,
+            "name": "downloadfile (2).bmp",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/aa568b8b-9034-424d-a944-2f972047c75c/downloadfile (2).bmp"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市大同區雙連段三小段739-7、744-2地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "展示空間",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenDownload": false,
+    "longitude": 121.5147755,
+    "latitude": 25.0584192,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市大同區雙連段三小段739-7、744-2地號",
+    "selfCoverage": "歸綏街139號",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 93674,
+            "caseId": 79,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "歸綏街139號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "雙連段三小段",
+            "id": 115310,
+            "caseId": 79,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 207,
+            "landSerialNo": "739-7",
+            "landownership": 1,
+            "coverageId": 2,
+            "area": "77平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "雙連段三小段",
+            "id": 115311,
+            "caseId": 79,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 207,
+            "landSerialNo": "744-2",
+            "landownership": 1,
+            "coverageId": 2,
+            "area": "12平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 101087,
+            "caseId": 79,
+            "caseStatus": true,
+            "registerDate": 1166544000000,
+            "officialDocNo": "府文化二字第09530346200號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "openVisitType": "",
+    "openUpTime": "",
+    "isCharge": false,
+    "pastHistorySource": ""
+}

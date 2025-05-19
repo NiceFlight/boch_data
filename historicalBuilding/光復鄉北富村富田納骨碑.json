@@ -1,0 +1,131 @@
+{
+    "id": 1899,
+    "caseId": "20020923000008",
+    "count": 1741,
+    "shareCount": 3,
+    "representImage": 207619,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-02-18/afc50130-45a1-494c-8664-02b9c79a22da/h光復-富田納骨碑07_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-02-18/afc50130-45a1-494c-8664-02b9c79a22da/h光復-富田納骨碑07.jpg",
+        "name": "h光復-富田納骨碑07"
+    },
+    "caseName": "光復鄉北富村富田納骨碑",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "日本時代大巴塱一度改名為「富田」，戰後分為東、西、南、北富田共4個村，習慣上統稱「大巴塱」。在富田納骨碑附近，原為阿美族先人的亂葬墳堆，據《縣志》記載，大正14年(1925)撤除大巴塱「首棚」（陳列人頭的架子），將人頭等物集中於此，立碑紀念並供憑弔。富田納骨碑的外觀較馬太鞍納骨碑低矮短小。",
+    "assetsTypeNames": "碑碣",
+    "otherAssetsType": "建築物類",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1032710421660,
+    "officialDocNo": "府文推字第09105800790 號",
+    "documents": [
+        {
+            "fileid": 152688,
+            "name": "光復鄉北富村富田納骨碑公正定著土地範圍公告960116.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-02-17/ba69e32d-2c99-4908-ade0-4ce8f14ccbf8/光復鄉北富村富田納骨碑公正定著土地範圍公告960116.pdf"
+        },
+        {
+            "fileid": 152689,
+            "name": "光復鄉北富村富田納骨碑指定為歷史建築公告910923.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-02-17/b40be1ee-faab-444d-a29e-467eed00ada6/光復鄉北富村富田納骨碑指定為歷史建築公告910923.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "本歷史建築物與原住民記憶有關，雖為日治時期修造，其現址之碑石、石階、基座等處仍保存完整，仍應列為歷史建築。",
+    "lawsReference": "文化資產保存法第二十七條之一暨歷史建築登錄及輔助辦法第七條。",
+    "govInstitutionCode": "970",
+    "govInstitutionName": "花蓮縣政府",
+    "belongCityId": 23,
+    "belongCityName": "花蓮縣",
+    "belongDistName": "光復鄉",
+    "govInstitution": "花蓮縣文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "038227121-316",
+    "govDeptAddress": "花蓮市文復路6號",
+    "cadasters": [
+        {
+            "fileid": 158404,
+            "name": "光復鄉北富村富田納骨碑_光復鄉_東富段_0839號地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-04-08/b979a676-93a6-4211-a7f4-076fd3d51700/光復鄉北富村富田納骨碑_光復鄉_東富段_0839號地籍圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "花蓮縣光復鄉東富段0849號",
+    "buildingFeatures": "基座現況改為花崗石板，納骨碑主體為粉光表面，正面陰刻納骨碑字樣，碑高105cm ，並向後傾斜約3度，富田納骨碑的外觀較馬太鞍納骨碑低矮短小。",
+    "inHouseFeatures": "無。",
+    "buildingUsage": "供憑弔。",
+    "buildingActualState": "納骨碑位於富強街22 號，位於富強街21巷左側，進入約10公尺可到達納骨碑亭，涼亭為六角錐形屋頂，納骨碑基座範圍為253*254cm。",
+    "buildingKeyMaintainItem": "周圍環境及納骨碑本體維護。",
+    "bulkTransfer": 0,
+    "belongAddress": "北富村富強街22 號",
+    "isOpenVisit": true,
+    "openUpTime": "",
+    "isCharge": false,
+    "isOpenDownload": true,
+    "longitude": 121.454201096082,
+    "latitude": 23.6606763626618,
+    "representImageSource": "花蓮縣文化局",
+    "landScope": "花蓮縣光復鄉東富段839號。",
+    "selfCoverage": "位於花蓮縣光復鄉北富村富強街22號(納骨碑本體)。",
+    "addresses": [
+        {
+            "cityName": "花蓮縣",
+            "distName": "光復鄉",
+            "id": 107101,
+            "caseId": 1899,
+            "caseStatus": true,
+            "cityId": 23,
+            "distId": 2307,
+            "address": "北富村富強街22 號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "花蓮縣",
+            "distName": "光復鄉",
+            "landNoName": "東富段",
+            "id": 133110,
+            "caseId": 1899,
+            "caseStatus": true,
+            "cityId": 23,
+            "distId": 2307,
+            "landNoId": 14311,
+            "landSerialNo": "839",
+            "landownership": 2,
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 114972,
+            "caseId": 1899,
+            "caseStatus": true,
+            "registerDate": 1032710421660,
+            "officialDocNo": "府文推字第09105800790 號",
+            "classificationId": 1
+        },
+        {
+            "id": 114973,
+            "caseId": 1899,
+            "caseStatus": true,
+            "registerDate": 1168919532268,
+            "officialDocNo": "府文資字第09605800080號",
+            "classificationId": 2
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.45432527631588,23.66048782042419],[121.45430186883586,23.660433984848645],[121.45430460517892,23.66041960231786],[121.45402826922063,23.660540423273044],[121.4540709201601,23.66061416736354],[121.45406376502504,23.660701933426978],[121.45404240916575,23.6607479729309],[121.45414448473154,23.6608890450378],[121.45420783735196,23.66089731217144],[121.45430583328877,23.66086901818779],[121.45437798149074,23.66079876809342],[121.45442719278694,23.66079275265188],[121.45438980371165,23.66073683247499],[121.45439364276048,23.660625382876866],[121.45432527631588,23.66048782042419],[121.45432527631588,23.66048782042419]]]]},\"properties\":{\"envelope\":{\"left\":\"121.45402826922063\",\"top\":\"23.660419602317859\",\"right\":\"121.45442719278694\",\"bottom\":\"23.660897312171439\"},\"landLot\":\"花蓮縣光復鄉東富段839\"}}],\"notfound\":[]}]",
+    "openVisitType": "",
+    "pastHistorySource": "光復鄉北富村富田納骨碑管理維護計畫"
+}

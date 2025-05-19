@@ -1,0 +1,104 @@
+{
+    "id": 15715,
+    "caseId": "20180601000001",
+    "count": 1290,
+    "shareCount": 0,
+    "representImage": 48279,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-06-01/4427140a-86b7-44f4-94b3-2614184d73b0/DSCN7820_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-06-01/4427140a-86b7-44f4-94b3-2614184d73b0/DSCN7820.jpg",
+        "name": "DSCN7820"
+    },
+    "caseName": "北門早期甕城門額「巖疆鎖鑰」",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1527834426089,
+    "officialDocNo": "北市獻編字第1076000866號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.為臺北府城北門甕城之門額，乙未割臺後，被日人拆卸，甚具歷史之意義。既反映臺北市在政治、經濟、社會發展與變遷史料，也提供臺北府城建置的形貌、特色。又，臺灣古城有甕城者不多，故此一門額具稀少性。\n2.傳統城門之工藝與規制的重要見證。對臺北市的歷史發展具有重要價值。\n",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1、2、3、4、5、6款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "萬華區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "臺北市立文獻館",
+    "govDeptPhone": "(02)23115355#20",
+    "govDeptAddress": "臺北市萬華區中華路1段174-1號",
+    "reservationCode": "無",
+    "amount": 1,
+    "descAge": "1882",
+    "descSize": "長54cm*寬182cm*厚  16cm",
+    "descMaterial": "石材",
+    "reserveStatusDesc": "        清光緒元年清廷設臺北府，5年臺北知府陳星聚籌建臺北府城，但因臺北基地鬆軟，直到福建巡撫岑毓英，臺灣道劉璈相繼勘定基址後，光緒8年（西元1882年）始召募粵籍工匠興築。光緒10年（西元1884年）完工。城周一千五百餘丈南北較東西略長，為長方形的城池，並開闢五門，北門、東門附廓。北門名承恩門，其甕城城郭額銘「巖疆鎖鑰」四字。日治初期因治水患並實施都市改正計畫，乃拆毀臺北城城垣、城郭及西門。(摘錄自文資局國家文化資產網/臺北府城—北門)\n        本件古物為北門早期方形甕城門額，「巖疆鎖鑰」筆力簡潔猶勁，意以固守城池，禦敵於城門之外，右上方落款「光緒壬午年」、左下方「良月吉日建」。\n",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "北門早期方形甕城門額",
+    "saveEnvironment": 1,
+    "reserveStatus": "良好",
+    "documents": [
+        {
+            "fileid": 48278,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-06-01/2d500e95-b764-4d08-aa9d-71ab6c6ea781/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.506454,
+    "latitude": 25.040354,
+    "representImageSource": "臺北市立文獻館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "臺北市立文獻館",
+            "keepName": "臺北市立文獻館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "臺北市立文獻館",
+            "keepAddressNew": "臺北市立文獻館",
+            "saveSpaceIdStr": "公務設施",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "萬華區",
+            "keepNameAddress": "中華路1段174之1號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "id": 132465,
+            "caseId": 15715,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106
+        }
+    ],
+    "announces": [
+        {
+            "id": 144423,
+            "caseId": 15715,
+            "caseStatus": true,
+            "registerDate": 1527834426089,
+            "officialDocNo": "北市獻編字第1076000866號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

@@ -1,0 +1,82 @@
+{
+    "id": 20923,
+    "caseId": "20220803000001",
+    "count": 4400,
+    "shareCount": 12,
+    "representImage": 178112,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-08-03/5fc600e5-f914-47fa-9b64-bd9d7b0bbe4d/F002 新竹市 進士第(鄭用錫宅第) (二級)01_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-08-03/5fc600e5-f914-47fa-9b64-bd9d7b0bbe4d/F002 新竹市 進士第(鄭用錫宅第) (二級)01.jpg",
+        "name": "F002 新竹市 進士第(鄭用錫宅第) (二級)01"
+    },
+    "caseName": "進士第(鄭用錫宅第)",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "進士第建於道光十八年（西元1838年），是鄭用錫繼道光十年（西元1830年）鄭家於金門創建鄭氏家廟之後，於竹塹北門外北門街所建造的第一座宅第。 進士第為三落兩院建築格局，門前吊筒木雕與左右兩側獅座工法栩栩如生。明間大門左右兩側有對稱螭虎圍爐的鏤刻石雕窗，雕工精緻的麒麟裙堵、牆基櫃檯腳等石雕飾。正廳木格扇門雕花亦具古樸典雅之風，底層萬字不斷，上層有詩句及富貴平安雕刻。進士第旁有春官大夫第鄭氏宗祠，前埕立有旗杆座，為科舉功名的象徵。 宅第面寬四開間，縱深三進，坐西朝東略偏南，格局規劃以金門傳統縱深式民居為藍本，與後來陸續興建的春官第、吉利第、鄭氏家廟一字並排，形成寬廣特殊的大型街屋建築群。再者，相連之宅第間均夾以防火巷，實為台灣罕見之例。進士第之平面圖與金門地區常見的五開間民居非常相近，但因缺右角間而呈不對稱的格局。正面入口退凹兩重，屋頂燕尾翹脊，次間的拼花磚牆與明間的螭虎漏窗作工細膩，屋內大木結構兼具抬梁與穿斗特色，充份顯現當時鄭家的經濟能力與社會地位。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.1.1",
+    "assetsClassifyName": "國定古蹟",
+    "documents": [
+        {
+            "fileid": 178110,
+            "name": "古蹟公告進士第.bmp",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-08-03/f0c49635-c57d-434e-a3a6-f2e7cdf2315a/古蹟公告進士第.bmp"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "重要歷史事件或人物之關係",
+        "各時代表現地方營造技術流派特色者",
+        "具稀少性，不易再現者",
+        "具建築史上之意義，有再利用之價值及潛力者"
+    ],
+    "registerReason": "具歷史、文化、藝術價值",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、2、3、4、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化資產局",
+    "govDeptName": "古蹟聚落組",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "cadasters": [
+        {
+            "fileid": 178111,
+            "name": "地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-08-03/2698333c-b62f-43cd-af60-32870b20d752/地籍圖.jpg"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenDownload": false,
+    "longitude": 120.965329,
+    "latitude": 24.809436,
+    "representImageSource": "文化部文化資產局",
+    "landScope": "新竹市北門段1549、1560、1561、1562、1563、1564、1570、1574地號",
+    "selfCoverage": "宅第本體",
+    "addresses": [
+        {
+            "cityName": "新竹市",
+            "distName": "北區",
+            "id": 88434,
+            "caseId": 20923,
+            "caseStatus": true,
+            "cityId": 6,
+            "distId": 602,
+            "address": "北門街163號"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 95415,
+            "caseId": 20923,
+            "caseStatus": true,
+            "registerDate": 493228800000,
+            "officialDocNo": "內政部74年8月19日台內民字第338095號",
+            "classificationId": 1
+        }
+    ],
+    "openVisitType": ""
+}

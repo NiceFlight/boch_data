@@ -1,0 +1,105 @@
+{
+    "id": 3434,
+    "caseId": "20131219000058",
+    "count": 34,
+    "shareCount": 0,
+    "representImage": 5991,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7193/photo/廣韻(宋刊本)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7193/photo/廣韻(宋刊本).jpg",
+        "name": "廣韻(宋刊本)"
+    },
+    "caseName": "廣韻(宋刊本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1387382400000,
+    "officialDocNo": "文資局物字第 10220148851號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "宋乾道(1165-1173)淳熙(1174-1189)間婺州刊巾箱本。\r\n作者陳彭年(961-1017)字永年，江西省南城縣人。北宋文學家、音韻學家。\r\n《廣韻》又稱《大宋重修廣韻》，為現存一部重要韻書，內收206韻，分為平聲(上、下)二卷、上聲、去聲、入聲各一卷，共五卷。此書根據《切韻》、《唐韻》等韻書修訂而成，繼承其音系和反切。《切韻》、《唐韻》原書已亡佚，《廣韻》因而成為研究漢語古音的重要參考資料。此書字樣端麗、楮墨古雅，為《四部叢刊》所收影印本的底本。\r\n宋版古籍，罕見稀有，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號01070",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 5,
+    "notes": "",
+    "descAge": "宋乾道(1165-1173)淳熙(1174-1189)間",
+    "descCreator": "宋陳彭年等重修",
+    "descSize": "半葉10行，版匡13.2x10.1公分",
+    "descMaterial": "紙質刊本",
+    "reserveStatusDesc": "五卷。《廣韻》又稱《大宋重修廣韻》，為現存一部重要韻書，內收206韻，分為平聲(上、下)二卷、上聲、去聲、入聲各一卷，共五卷。此書根據《切韻》、《唐韻》等韻書修訂而成，繼承其音系和反切。《切韻》、《唐韻》原書已亡佚，《廣韻》因而成為研究漢語古音的重要參考資料。此書字樣端麗、楮墨古雅，為《四部叢刊》所收影印本的底本。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "部分虫蛀。經2次修裱，書況良好。\n",
+    "documents": [
+        {
+            "fileid": 5992,
+            "name": "0ece6238-4fbc-4a58-b7eb-7c01367f8e87.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44048/file/0ece6238-4fbc-4a58-b7eb-7c01367f8e87.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3576,
+            "caseId": 3434,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3576,
+            "caseId": 3434,
+            "caseStatus": true,
+            "registerDate": 1387382400000,
+            "officialDocNo": "文資局物字第 10220148851號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

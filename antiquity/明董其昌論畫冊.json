@@ -1,0 +1,102 @@
+{
+    "id": 4473,
+    "caseId": "20160803000011",
+    "count": 273,
+    "shareCount": 1,
+    "representImage": 7521,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/132891/photo/明董其昌論畫冊-1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/132891/photo/明董其昌論畫冊-1.jpg",
+        "name": "明董其昌論畫冊-1"
+    },
+    "caseName": "明董其昌論畫冊",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1470153600000,
+    "officialDocNo": "文授資局物字第10530074283號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "董其昌（1555-1636），晚明書壇領袖，是影響明清兩代的重要書畫家，其提出的許多書論與畫論，至今仍是書畫史研究的重要課題。\n本冊內容為董其昌的論畫精髓，對於理解其書畫理論具重要研究價值。此作書寫亦十分講究，董氏自認為秀媚溢於豪端，連墨法的表現也相當精彩。除筆法的精妙外，紙張、毛筆及墨的表現都屬上乘，為其傳世行草書蹟之精品。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故書000223",
+    "amount": 20,
+    "descAge": "明",
+    "descCreator": "董其昌",
+    "descSize": "26.8 x 30公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "董其昌此冊甫寫完即被友人取走，十一年後才在瞿式耜（1590-1650）的耕石齋中重遇，並認為秀媚溢於點畫之間，與古人相去甚遠。瞿式耜，字起田，號稼軒，蘇州人，萬曆進士，南明大臣，清順治六年（1649）被俘而死。瞿式耜雖為晚辈，兩人交往卻頗深，傳世尚有數件董其昌為其所作的書畫作品。此作的確在秀媚上發揮得淋漓盡致，加上書寫工具的精良，讓點畫的精緻度與線條的品質都達到很高的水準，甚至連墨法的表現也相當精彩。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。封面缺損近1/3。裱綾褐斑、傷損。",
+    "documents": [
+        {
+            "fileid": 7522,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/132903/file/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69590,
+            "caseId": 4473,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73757,
+            "caseId": 4473,
+            "caseStatus": true,
+            "registerDate": 1470153600000,
+            "officialDocNo": "文授資局物字第10530074283號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

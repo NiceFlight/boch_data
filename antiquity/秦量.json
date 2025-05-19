@@ -1,0 +1,102 @@
+{
+    "id": 3885,
+    "caseId": "20121112000010",
+    "count": 711,
+    "shareCount": 3,
+    "representImage": 6693,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32871/photo/68a58fdd-b11d-44fc-a2a0-2e6f625eef01_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32871/photo/68a58fdd-b11d-44fc-a2a0-2e6f625eef01.JPG",
+        "name": "68a58fdd-b11d-44fc-a2a0-2e6f625eef01"
+    },
+    "caseName": "秦量",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1352649600000,
+    "officialDocNo": "文授字第10120135331號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "秦量外壁有銘文41字：「二十六年皇帝盡并兼天下諸侯，黔首大安，立號為皇帝，乃詔丞相狀，綰法度量，則不一，歉疑者，皆明壹之」。記秦王政在位的第二十六年（公元前221年），統一了各國諸侯，百姓得到安寧，建立尊號為「皇帝」。於是詔示丞相隗狀與王綰制定標準的度量，使不統一、有疑問的、都能明確劃一。秦始皇廢封建，立郡縣，集權中央是奠定在制度統一的基礎上。秦始皇「一法度、衡石丈尺、車同軌、書同文」的措施，見證於秦始皇頒布的統一度量衡的詔書，鑄刻在大批製作的度量衡標準器上，秦量上即載此詔。《史記》記載秦始皇的丞相隗林，參之秦量銘，方知「林」為「狀」之誤。金文考史，本器銘是一個很好的例證。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第1、5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局 ",
+    "govDeptPhone": " 04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "中銅000106",
+    "amount": 1,
+    "notes": "",
+    "descAge": "秦",
+    "descSize": "高6.2cm、深6.07cm、長21.9cm、口徑9.2×17.1cm。",
+    "descMaterial": "銅",
+    "reserveStatusDesc": "秦代度量衡標準器之一，銘文為秦始皇頒布的統一度量衡的詔書。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 150748,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-19/59515ec1-f758-4fae-b79c-a4028b785ee9/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71138,
+            "caseId": 3885,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75481,
+            "caseId": 3885,
+            "caseStatus": true,
+            "registerDate": 1352649600000,
+            "officialDocNo": "文授字第10120135331號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

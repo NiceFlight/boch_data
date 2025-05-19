@@ -1,0 +1,101 @@
+{
+    "id": 3883,
+    "caseId": "20121112000009",
+    "count": 1166,
+    "shareCount": 6,
+    "representImage": 6691,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32869/photo/afd8bd67-b41c-47b7-be93-0c4faa35da82_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32869/photo/afd8bd67-b41c-47b7-be93-0c4faa35da82.JPG",
+        "name": "afd8bd67-b41c-47b7-be93-0c4faa35da82"
+    },
+    "caseName": "作冊大方鼎",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1352649600000,
+    "officialDocNo": "文授字第10120135331號",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本器腹四角有稜，唇外折，兩立耳，柱狀形足，器四面上方為單首雙尾龍紋，左右及下方為乳丁紋，足上飾獸面紋。作器者為武王、成王鑄祭器，故知器作於康王之世。國立故宮博物院藏有一對。作冊大方鼎〈一〉腹內有銘文8行41字：「公來鑄武王成王異鼎，隹四月既生霸己丑，公賞作冊大白馬，大揚皇天尹大保 ，用作祖丁寶尊彝。 冊」。作冊大方鼎〈二〉腹內有銘文8行40字：「公來鑄武王成王異鼎，隹四月既生霸己丑，賞作冊大白馬，大揚皇天尹大保 ，用作祖丁寶尊彝。 冊」。大意為在公為祭祀武王、成王鑄造大鼎的那年，四月中上旬既生霸的己丑日，「作冊大」因參與其事有功，受公賞賜白馬一匹，大為彰顯太保的美好賞賜，鑄作此器以志其事，並以祭祀祖丁。末二字是作冊大的族徽。本器於研究西周早期氏族淵源與賞賜制度，具有重要之研究價值。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第4、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "中銅000079、中銅000080",
+    "amount": 2,
+    "notes": "",
+    "descAge": "西周",
+    "descSize": "（一）通高26.4cm、腹深10.8cm、口徑19.7×14.8cm、底徑16.3×12.8cm、腹圍69cm ；（二）通高26.5cm、腹深11.1cm、口徑19×15.9cm、底徑16.4×12.6cm、腹圍69.5cm",
+    "descMaterial": "銅",
+    "reserveStatusDesc": "器腹四角有稜，唇外折，兩立耳，柱狀形足，器四面上方為單首雙尾龍紋，左右及下方為乳丁紋，足上飾獸面紋。器內有銘文41字。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 150773,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-19/9124517c-a813-47b4-89d6-1a3ee2a0efd0/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71152,
+            "caseId": 3883,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": " 至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75498,
+            "caseId": 3883,
+            "caseStatus": true,
+            "registerDate": 1352649600000,
+            "officialDocNo": "文授字第10120135331號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

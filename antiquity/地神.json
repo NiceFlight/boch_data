@@ -1,0 +1,115 @@
+{
+    "id": 3204,
+    "caseId": "20091228000002",
+    "count": 485,
+    "shareCount": 0,
+    "representImage": 5642,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/38155/photo/236aa20c-6273-446e-9d9b-95d63ec14698_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/38155/photo/236aa20c-6273-446e-9d9b-95d63ec14698.jpg",
+        "name": "236aa20c-6273-446e-9d9b-95d63ec14698"
+    },
+    "caseName": "地神",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-其他",
+    "otherAssetsType": " ",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1261929600000,
+    "officialDocNo": "會受資籌二字第0991001765號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色"
+    ],
+    "registerReason": "保存狀況良好，且融入今日村民信仰生活之中，崇拜對象稀有，具歷史意義，可助暸解日本移民村的風俗習慣和對當地的影響性。",
+    "lawsReference": "依據「文化資產保存法」、「古物分級登錄指定及廢止審查辦法」、98年7月9日「花蓮縣文化資產審議委員會第二類組(傳統藝術、民俗及有關文物、古物組)委員會98年第一次會議紀錄」暨行政院文化建設委員會文化資產總管理處籌備處99年1月6日文資籌二字第0991000031號函辦理。",
+    "govInstitutionCode": "970",
+    "govInstitutionName": "花蓮縣政府",
+    "belongCityId": 23,
+    "belongCityName": "花蓮縣",
+    "belongDistName": "壽豐鄉",
+    "govInstitution": "花蓮縣文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-8227121-321",
+    "govDeptAddress": "花蓮縣花蓮市文復路6號",
+    "reservationCode": " ",
+    "amount": 1,
+    "notes": "",
+    "descAge": " ",
+    "descSize": " ",
+    "descMaterial": "大理石",
+    "reserveStatusDesc": "地神為日人於農村設置的戶外神，表示對土地的敬重。豐坪村的地神，原座落於豐正路與豐坪路交叉口，民國60年豐坪村村民集資，為地神蓋了乙座祠堂，以免地神遭受日曬雨淋之苦，同時設香案及金爐，將地神當作「土地公」般的膜拜。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "民國60年",
+    "saveEnvironment": 3,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 152966,
+            "name": "地神登錄為古物公告981228.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-02-21/7e1fa9a8-e633-4aec-9aa0-c8c008732421/地神登錄為古物公告981228.pdf"
+        },
+        {
+            "fileid": 163181,
+            "name": "地神修正登錄為一般古物990122.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-10/5ec59c58-50f0-48df-9a2b-b45deeda27c1/地神修正登錄為一般古物990122.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 121.5095,
+    "latitude": 23.83503,
+    "representImageSource": "花蓮縣文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "豐裡社區發展協會",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "974花蓮縣壽豐鄉豐坪路二段63-73號",
+            "saveSpaceIdStr": "祠堂",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "花蓮縣",
+            "distName": "壽豐鄉",
+            "id": 116033,
+            "caseId": 3204,
+            "caseStatus": true,
+            "cityId": 23,
+            "distId": 2305,
+            "address": "花蓮縣壽豐鄉豐坪路二段63-73號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 126584,
+            "caseId": 3204,
+            "caseStatus": true,
+            "registerDate": 1261929600000,
+            "officialDocNo": "府文資字第0980221654B號",
+            "classificationId": 1
+        },
+        {
+            "id": 126585,
+            "caseId": 3204,
+            "caseStatus": true,
+            "registerDate": 1264123654508,
+            "officialDocNo": "府文資字第0990014760B號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

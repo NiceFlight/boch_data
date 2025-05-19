@@ -1,0 +1,124 @@
+{
+    "id": 15466,
+    "caseId": "20180102000008",
+    "count": 1181,
+    "shareCount": 1,
+    "representImage": 47365,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-01-02/8fa239e9-f205-4e6d-ba4f-a82a5835e573/DSCN3230_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-01-02/8fa239e9-f205-4e6d-ba4f-a82a5835e573/DSCN3230.jpg",
+        "name": "DSCN3230"
+    },
+    "caseName": "剪黏技術",
+    "classifyCode": "7.1",
+    "classifyName": "保存技術及保存者",
+    "assetsClassifyCode": "7.1.1",
+    "assetsClassifyName": "保存技術及保存者",
+    "registerDate": 1507789152083,
+    "officialDocNo": "府文資處字第1061023622B號",
+    "documents": [
+        {
+            "fileid": 47360,
+            "name": "1061011呂興貴公告函.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-01-02/99a9dc74-c82a-45e8-8391-b94a1b6838ed/1061011呂興貴公告函.pdf"
+        },
+        {
+            "fileid": 61347,
+            "name": "1080826修正公告呂興貴基本資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-09-06/7fa7fac2-825e-4d94-8769-ac9176b4030c/1080826修正公告呂興貴基本資料.pdf"
+        },
+        {
+            "fileid": 107002,
+            "name": "1080905修正公告備查.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-04-23/3da12b44-a074-4c54-9638-e4802dbf41bb/1080905修正公告備查.pdf"
+        },
+        {
+            "fileid": 107003,
+            "name": "登錄文化資產保存技術及認定保存者修正公告表.doc.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-04-23/499e8b31-240f-4e75-8b7b-f06776d354af/登錄文化資產保存技術及認定保存者修正公告表.doc.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "有形文化資產之保存、修復、維護等工作不可或缺之傳統技術",
+        "無形文化資產實踐中不可或缺物件製作、修復之傳統技術；其技術具有一定專業性、針對特定無形文化資產之實踐所發展，並對表現該無形文化資產價值具有顯著作用",
+        "前二款傳統技術操作上必要工具之製作修理、或材料之生產製造之傳統技術及知識"
+    ],
+    "registerReason": "1.\t呂興貴藝師剪黏技藝精湛，不僅能充分掌握剪黏技術所需相關知識與執行程序，並能正確體現執行此保存技術。\n2.\t剪黏甲毛、摃槌技術極為細緻，作品富動感。對於故事題材化為場景以及場景內人物之主從安排、空間安排亦有其組織及構圖理論、題材之故事背景、情節甚為熟悉。 \n3.\t對於傳承擁有高度熱忱與毅力，具備此保存技術之溝通及輔導能力。\n",
+    "lawsReference": "<<文化資產保存技術及保存者登錄認定廢止審查辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213597",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "preservers": [
+        {
+            "id": 17935,
+            "type": "個人",
+            "caseName": "呂興貴 (歿)",
+            "cityName": "臺南市",
+            "distName": "關廟區",
+            "caseArtistEntities": [],
+            "representImage": 240915,
+            "registrationDate": 1507737600000,
+            "judgeCriteria": [
+                "充分掌握該項保存技術所需相關知識與執行程序",
+                "正確體現、執行該項保存技術之能力",
+                "傳習該項保存技術之溝通及輔導能力"
+            ],
+            "registerReason": "1.\t呂興貴藝師剪黏技藝精湛，不僅能充分掌握剪黏技術所需相關知識與執行程序，並能正確體現執行此保存技術。\n2.\t剪黏甲毛、摃槌技術極為細緻，作品富動感。對於故事題材化為場景以及場景內人物之主從安排、空間安排亦有其組織及構圖理論、題材之故事背景、情節甚為熟悉。 \n3.\t對於傳承擁有高度熱忱與毅力，具備此保存技術之溝通及輔導能力。\n",
+            "lawsReference": "<<文化資產保存技術及保存者登錄認定廢止審查辦法>>第4條第1項第1、2、3款",
+            "isOpenDownload": false,
+            "representImageSource": "臺南市文化資產管理處",
+            "contactorIsOpen": false
+        }
+    ],
+    "visitsDate": 1503123459952,
+    "classify": [
+        "4.2"
+    ],
+    "skillType": [
+        {
+            "id": 1,
+            "other": ""
+        },
+        {
+            "id": 2,
+            "other": ""
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "台南市政府",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "id": 46230,
+            "caseId": 15466,
+            "caseStatus": true,
+            "cityId": 16
+        }
+    ],
+    "announces": [
+        {
+            "id": 47849,
+            "caseId": 15466,
+            "caseStatus": true,
+            "registerDate": 1507789152083,
+            "officialDocNo": "府文資處字第1061023622B號",
+            "classificationId": 1
+        },
+        {
+            "id": 47850,
+            "caseId": 15466,
+            "caseStatus": true,
+            "registerDate": 1566748800000,
+            "officialDocNo": "府文資處字第1080970902B號",
+            "classificationId": 2
+        }
+    ]
+}

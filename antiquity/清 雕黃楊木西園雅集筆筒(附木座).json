@@ -1,0 +1,99 @@
+{
+    "id": 23350,
+    "caseId": "20250507000001",
+    "count": 31,
+    "shareCount": 0,
+    "representImage": 285551,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2025-05-07/177300b8-f690-4afc-9407-0fadb5d4689a/筆筒_c.png"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2025-05-07/177300b8-f690-4afc-9407-0fadb5d4689a/筆筒.png",
+        "name": "筆筒"
+    },
+    "caseName": "清 雕黃楊木西園雅集筆筒(附木座)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "一、此件筆筒以黃楊木為材，黃楊木被譽為「木中象牙」，其材質紋理細膩、色澤亮黃、成材不易而聞名，是雕刻工藝的上乘材料。本件筆筒所用木材直徑寬廣，尤為珍貴。\n 二、整體外形為自然流暢之流雲狀圓筒形，外壁飾以深浮雕技法，精妙重現傳為北宋名士米芾《西園雅集圖記》之場景，精準展現圓通大師、蘇軾、蘇轍等19位歷史人物。全器人物分布疏密合宜，場景交錯順暢有序，又以皴法刻畫山石紋理，其雕刻線條靈動，刀法嚴謹，層次分明，人物冠帽、衣著、姿態和面部表情栩栩如生，允為清代雕刻之傑作。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第4、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "402臺中市南區復興路三段362號",
+    "reservationCode": "中文000005",
+    "amount": 1,
+    "descAge": " 清",
+    "descSize": "17.8公分x22.3公分、高18.5 公分",
+    "descMaterial": "木",
+    "reserveStatusDesc": " ",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定",
+    "documents": [
+        {
+            "fileid": 285537,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2025-05-07/6de56577-e76b-4d86-9d73-36ff3a0b73d1/公告.pdf"
+        },
+        {
+            "fileid": 285626,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2025-05-07/1b538fd3-e4d7-4d36-a606-8a1dc4db33bf/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111臺北市士林區至善路二段221號國立故宮博物院",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 149220,
+            "caseId": 23350,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "111臺北市士林區至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 162273,
+            "caseId": 23350,
+            "caseStatus": true,
+            "registerDate": 1746177546475,
+            "officialDocNo": "文授資局物字第11430042561號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,96 @@
+{
+    "id": 18211,
+    "caseId": "20201217000021",
+    "count": 234,
+    "shareCount": 0,
+    "representImage": 90073,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-12-17/fa17475a-5fec-4636-b9a6-18d0159d9fc7/11_1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-12-17/fa17475a-5fec-4636-b9a6-18d0159d9fc7/11_1.jpg",
+        "name": "11_1"
+    },
+    "caseName": "神功皇后出征置物",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1606375296534,
+    "officialDocNo": "北市獻編字第1093004298號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "1. 日本傳說與史實人物之雕刻，反映日本民俗傳說、工藝及族群生活，具有地方特色。\n2. 作工精緻藝術性，高神態生動具藝術特色，雕刻尤其精美藝術造詣成績佳。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174-1號",
+    "reservationCode": "11",
+    "amount": 5,
+    "descAge": "日本明治時期",
+    "descSize": "五件高分別為 35 、 19 、 12 、 5 、 13 公分",
+    "descMaterial": "象牙",
+    "reserveStatusDesc": "本件作品描述神功皇后率兵出征新羅前，釣魚占卜，以勾針為鉤、衣線為釣線、飯粒為餌，結果釣得細鱗魚（香魚，日文稱鮎魚）兆勝的事蹟。\n《日本書紀》記載，神功皇后(約公元170年－269年)，本名氣長足姬尊，是日本第十四代天皇「仲哀天皇」的皇后，仲哀天皇死時，神功皇后才有孕，因此由神功皇后先代理朝政。在日本歷史上，神功皇后因懷孕7個月時依然率兵渡洋遠征，並獲得勝利，廣受人民愛戴。\n本作品五件一組，神功皇后聰明叡智，貌容壯麗，手持弓，頭髮分成了兩邊，打扮成武士的模樣。身旁一名士兵舉旗，一名隨從跪在魚簍前，準備給神功皇后占卜，另一名老者手持拐杖。\n整體內容豐富，琢工細膩，各個物件、細節皆細膩表現，層層疊疊，需要耗費極大心思仔細雕琢的人物表情、魚簍、服飾、配件，不僅能看出藝術家的耐心與毅力，更是藝術家深厚技巧的表現，極為精湛。本件作品不僅具有藝術性，也生動描繪神功皇后率兵出征前運用智慧使部屬臣服的歷史典故，兼具歷史、文化與藝術價值。",
+    "pastHistorySource": 1,
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定。",
+    "documents": [
+        {
+            "fileid": 90072,
+            "name": "臺北市公告指定一般古物1091126.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-17/a1147c03-a95e-4c65-bbb2-f9e0e2785c65/臺北市公告指定一般古物1091126.pdf"
+        }
+    ],
+    "keepNames": [
+        {
+            "keepNameIdStr": "郭○穎",
+            "keepName": "郭○穎",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "郭○穎",
+            "keepAddressNew": "臺北市中正區重慶南路二段15號7樓",
+            "saveSpaceOther": "庫房",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "大安區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 7826,
+            "caseId": 18211,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 7826,
+            "caseId": 18211,
+            "caseStatus": true,
+            "registerDate": 1606375296534,
+            "officialDocNo": "北市獻編字第1093004298號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

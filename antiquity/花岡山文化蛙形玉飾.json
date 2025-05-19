@@ -1,0 +1,106 @@
+{
+    "id": 4342,
+    "caseId": "20140421000045",
+    "count": 670,
+    "shareCount": 0,
+    "representImage": 52747,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-12-19/33763ad7-0326-4165-bb04-6f62ba763a8e/蛙形玉飾-正面_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-12-19/33763ad7-0326-4165-bb04-6f62ba763a8e/蛙形玉飾-正面.jpg",
+        "name": "蛙形玉飾-正面"
+    },
+    "caseName": "花岡山文化蛙形玉飾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-其他",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1398009600000,
+    "officialDocNo": "文資局物字第10320043651號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "具有特殊之時代特色、技術及流派",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本件蛙形玉飾，形制似蛙背面雕刻一雙大眼及分岔雙肢，腹面頭部有口形凹刻，為花岡山文化玉飾代表類型之一。\r\n造型特殊而稀少，屬臺灣史前時代稀有之立體動物形玉飾，且為該類型唯一完整標本。玉質佳、磨製精良、保存良好，展現臺灣史前時代精湛的製玉工藝。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第4條第1項第1、3、5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 22,
+    "belongCityName": "臺東縣",
+    "belongDistName": "臺東市",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路3段362號",
+    "reservationCode": "201304-00001",
+    "keepNameId": 10,
+    "keepName": "國立臺灣史前文化博物館",
+    "keepNameNew": 10,
+    "keepAddressNew": "950台東縣台東市博物館路1號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "花岡山文化2800-2300 BP",
+    "descSize": "長36.4公分， 寬27公分， 厚10公分， 重13公克",
+    "descMaterial": "閃玉",
+    "reserveStatusDesc": "玉質潤澤，形制似蛙背面雕刻一雙大眼及分岔雙肢，腹面頭部有口形凹刻。",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "花蓮縣鹽寮遺址1994年探坑出土",
+    "saveEnvironment": 1,
+    "reserveStatus": "保存完整，展示於史前館史前史展廳。 ",
+    "documents": [
+        {
+            "fileid": 7280,
+            "name": "3c2b9370-4e8b-43cb-9252-96f8e0aef0bf.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44319/file/3c2b9370-4e8b-43cb-9252-96f8e0aef0bf.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立臺灣史前文化博物館",
+            "keepName": "國立臺灣史前文化博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立臺灣史前文化博物館",
+            "keepAddressNew": "950台東縣台東市博物館路1號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺東縣",
+            "keepNameAddress": "豐田里博物館路1號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺東縣",
+            "distName": "臺東市",
+            "id": 4485,
+            "caseId": 4342,
+            "caseStatus": true,
+            "cityId": 22,
+            "distId": 2201
+        }
+    ],
+    "announces": [
+        {
+            "id": 4485,
+            "caseId": 4342,
+            "caseStatus": true,
+            "registerDate": 1398009600000,
+            "officialDocNo": "文資局物字第10320043651號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

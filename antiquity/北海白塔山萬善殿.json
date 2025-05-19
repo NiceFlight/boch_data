@@ -1,0 +1,98 @@
+{
+    "id": 17969,
+    "caseId": "20201127000016",
+    "count": 134,
+    "shareCount": 0,
+    "representImage": 74370,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-11-12/42413271-8519-48bf-9cc3-6e1198b76feb/03010118-0001_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-11-12/42413271-8519-48bf-9cc3-6e1198b76feb/03010118-0001.jpg",
+        "name": "03010118-0001"
+    },
+    "caseName": "北海白塔山萬善殿",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1606376826824,
+    "officialDocNo": "北市獻編字第1093004298號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "1.整批作品為1930-1948年間北京建築物寫景，對於建築史研究極具價值。\n2.畫風寫實靈動，足證早期油畫發展。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174-1號",
+    "reservationCode": "3.01/118",
+    "amount": 1,
+    "descAge": "民國32年(1943年)",
+    "descCreator": "N.pickulevitch",
+    "descSize": "長75 公分寬60公分",
+    "descMaterial": "油彩、布",
+    "reserveStatusDesc": "此作品為俄羅斯畫家N.pickulevitch所繪北海白塔山萬善殿之景。此幅作品以中央建築為主體，畫家細緻地重現建築體上的裝飾，且以仰視的角度描繪此景，更顯得其高聳入雲。畫面左下角的文字，應為作者的英文署名（N.pickulevitch）與創作年代（1943）。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "時間：1960年代       捐贈者：游彌堅",
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況不良，需維護。表層顏料變色有裂痕。",
+    "documents": [
+        {
+            "fileid": 76733,
+            "name": "臺北市公告指定一般古物1091126.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-11-27/98f49269-6d78-4c61-8b34-f78326e6fb83/臺北市公告指定一般古物1091126.pdf"
+        }
+    ],
+    "keepNames": [
+        {
+            "keepNameIdStr": "中國文化大學華岡博物館",
+            "keepName": "典藏組",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "中國文化大學華岡博物館",
+            "keepAddressNew": "臺北市士林區陽明山華岡路55號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "華岡路55號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 7589,
+            "caseId": 17969,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108
+        }
+    ],
+    "announces": [
+        {
+            "id": 7589,
+            "caseId": 17969,
+            "caseStatus": true,
+            "registerDate": 1606376826824,
+            "officialDocNo": "北市獻編字第1093004298號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

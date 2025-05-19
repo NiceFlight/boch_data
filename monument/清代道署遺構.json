@@ -1,0 +1,96 @@
+{
+    "id": 18843,
+    "caseId": "20210415000001",
+    "count": 4269,
+    "shareCount": 7,
+    "representImage": 105868,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-04-15/21f5224d-b194-49b1-91de-99bbfc47f49a/清代道署遺構_c.png"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-04-15/21f5224d-b194-49b1-91de-99bbfc47f49a/清代道署遺構.png",
+        "name": "清代道署遺構"
+    },
+    "caseName": "清代道署遺構",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "衙署",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 159033,
+            "name": "清代道署遺構公告110.02.17.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-11/daefc218-cd52-45cc-8a14-65bdfb36f1d1/清代道署遺構公告110.02.17.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具稀少性，不易再現者"
+    ],
+    "registerReason": "具稀少性，不易再現者：清代道署遺構遺留18世紀的磚造遺構，以及日治時期的柱礎遺構，不但是臺灣重要的官署遺跡，亦反映日治時期以來之演變，是臺南市重要的歷史場域，具稀少性與重要性。",
+    "lawsReference": "古蹟指定及廢止審查辦法第2條第1項第3款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 105867,
+            "name": "地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-04-15/04b78e7a-a17a-4eff-8f37-6c6f00e5b7a3/地籍圖.pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenDownload": false,
+    "longitude": 120.20203,
+    "latitude": 22.99277,
+    "representImageSource": "105年度臺南市永福國小老舊校舍拆除重建工程-清代遺構清理工程計畫案-遺構清理監看工程",
+    "landScope": "",
+    "selfCoverage": "範圍內之遺構",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "id": 148460,
+            "caseId": 18843,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601,
+            "address": "永福路二段86號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "landNoName": "檨仔林段",
+            "id": 205261,
+            "caseId": 18843,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601,
+            "landNoId": 2391,
+            "landSerialNo": "324",
+            "landownership": 1,
+            "area": "720平方公尺",
+            "note": "部分土地"
+        }
+    ],
+    "announces": [
+        {
+            "id": 161368,
+            "caseId": 18843,
+            "caseStatus": true,
+            "registerDate": 1613491200000,
+            "officialDocNo": "南市文資字第1100223798A",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.20192711339499,22.99315814541107],[120.20200181142036,22.993142672114853],[120.20203013995572,22.993137997708146],[120.20203889184292,22.993169091136807],[120.20203963033994,22.99316893943069],[120.20210988072353,22.99315437403145],[120.20228128481223,22.993118935901503],[120.20252216584186,22.993069126521785],[120.20253855059812,22.99304556111854],[120.20238510397913,22.992386341804757],[120.2023572193819,22.99237050009385],[120.20133709966649,22.992580443658323],[120.20149575709185,22.99285919829079],[120.20150050587779,22.99287207186495],[120.20155605463059,22.99308420222392],[120.20147054668696,22.993099478624508],[120.20151235960448,22.993244077227182],[120.20192711339499,22.99315814541107],[120.20192711339499,22.99315814541107]]]]},\"properties\":{\"envelope\":{\"left\":\"120.20133709966649\",\"top\":\"22.992370500093848\",\"right\":\"120.20253855059812\",\"bottom\":\"22.993244077227182\"},\"landLot\":\"臺南市中西區檨仔林段324\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": "待修復或再利用計畫完成後填列"
+}

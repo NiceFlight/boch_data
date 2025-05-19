@@ -1,0 +1,133 @@
+{
+    "id": 2104,
+    "caseId": "20151230000001",
+    "count": 1996,
+    "shareCount": 1,
+    "representImage": 175206,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/884fa42a-038a-4870-ac8a-dd6e9f96a74c/代表圖像_北投磺田福佑宮_20220706_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/884fa42a-038a-4870-ac8a-dd6e9f96a74c/代表圖像_北投磺田福佑宮_20220706.jpg",
+        "name": "代表圖像_北投磺田福佑宮_20220706"
+    },
+    "caseName": "北投磺田福佑宮",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "1.本廟初設於清光緒年間，其基礎與牆面運用唭哩岸石建成，廟內留有唭哩岸石打造之神像文物。\r\n2.本廟為北投地區民間傳統信仰寄託之場所與象徵，反映出福德正神為民間重要的社稷信仰文化，具地方歷史之價值。",
+    "assetsTypeNames": "寺廟",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 162459,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/da3311c5-99aa-468b-a4a7-46fdd5ec9193/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "1.本廟初設於清光緒年間，其基礎與牆面運用唭哩岸石建成，廟內留有唭哩岸石打造之神像文物。\r\n2.本廟為北投地區民間傳統信仰寄託之場所與象徵，反映出福德正神為民間重要的社稷信仰文化，具地方歷史之價值。",
+    "lawsReference": "文化資產保存法\r\n歷史建築登錄廢止審查及輔助辦法第2條第1項第1、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 162460,
+            "name": "e8302397-c14c-4078-85cd-c0dd1d3646eb.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/a1c09bbd-e7b0-444b-91c5-f7a319342b90/e8302397-c14c-4078-85cd-c0dd1d3646eb.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市北投區開明段二小段382-4地號（部分）、382-5地號（部分）等2筆土地。",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isOpenDownload": false,
+    "longitude": 121.4995167,
+    "latitude": 25.1372387,
+    "representImageSource": "臺北市文化局",
+    "landScope": "北投區開明段二小段382-4地號（部分）、382-5地號（部分）等2筆土地。（382-4地號：33.64㎡，382-5地號：26.01㎡）。（實際保存面積須以保存範圍實測數據為準）",
+    "selfCoverage": "實際保存面積須以保存範圍實測數據為準",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "id": 86231,
+            "caseId": 2104,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "address": "大業路667巷8號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "landNoName": "開明段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 100218,
+            "caseId": 2104,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "landNoId": 648,
+            "landSerialNo": "382-4",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "33.64平方公尺",
+            "cityLandUseTypeOther": "道路用地(公共設施用地)",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "landNoName": "開明段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 100219,
+            "caseId": 2104,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "landNoId": 648,
+            "landSerialNo": "382-5",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "26.01平方公尺",
+            "cityLandUseTypeOther": "道路用地(公共設施用地)",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 92718,
+            "caseId": 2104,
+            "caseStatus": true,
+            "registerDate": 1451404800000,
+            "officialDocNo": "北市文化文資字第10430345100號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

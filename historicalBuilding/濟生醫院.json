@@ -1,0 +1,114 @@
+{
+    "id": 18844,
+    "caseId": "20210415000002",
+    "count": 3702,
+    "shareCount": 2,
+    "representImage": 105875,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-04-15/125c04e3-8742-46e5-ba6f-56e66df88470/濟生醫院_c.png"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-04-15/125c04e3-8742-46e5-ba6f-56e66df88470/濟生醫院.png",
+        "name": "濟生醫院"
+    },
+    "caseName": "濟生醫院",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "詳公告之登錄理由。\n",
+    "assetsTypeNames": "醫院",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 167730,
+            "name": "濟生醫院公告-110.03.25.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-06-14/0618b593-6bd8-48ff-87cd-bde7d9e4b132/濟生醫院公告-110.03.25.pdf"
+        },
+        {
+            "fileid": 281121,
+            "name": "公告A.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2025-02-19/732123b0-e0c2-444a-a37a-c1ff0c3836e2/公告A.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1. 具建築史或技術史之價值者：濟生醫院之建築順應機能採非典型不對稱平面佈局並以廊道連接，及大跨距、對束小屋組、南京下見板張外牆等日治時期建築技法。\n2. 具地區性建造物類型之特色者：見證日治時期公共衛生政策和臺南避病院發展之歷史，為臺南地區具特色之代表建造物。",
+    "lawsReference": "符合《歷史建築紀念建築登錄廢止審查及輔助辦法》第2條第2款及第3款之基準。",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 281122,
+            "name": "附圖(修)-歷史建築「濟生醫院」本體及定著土地範圍示意圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2025-02-19/19e0034c-d651-430f-8fda-11f1260f4b28/附圖(修)-歷史建築「濟生醫院」本體及定著土地範圍示意圖.pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isOpenDownload": false,
+    "longitude": 120.18795926014988,
+    "latitude": 22.99811952737286,
+    "representImageSource": "濟生醫院文資審議先期調查案",
+    "landScope": "臺南市中西區星鑽段500地號部分土地",
+    "selfCoverage": "建物本體（含車寄）",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "id": 147879,
+            "caseId": 18844,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601,
+            "address": "民生路二段463巷"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "landNoName": "星鑽段",
+            "id": 204032,
+            "caseId": 18844,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601,
+            "landNoId": 2400,
+            "landSerialNo": "500",
+            "landownership": 1,
+            "coverageId": 1,
+            "area": "約1800平方公尺",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 160612,
+            "caseId": 18844,
+            "caseStatus": true,
+            "registerDate": 1616601600000,
+            "officialDocNo": "南市文資字第1100349927A",
+            "classificationId": 1
+        },
+        {
+            "id": 160613,
+            "caseId": 18844,
+            "caseStatus": true,
+            "registerDate": 1731396997285,
+            "officialDocNo": "南市文資字第1132322381A號",
+            "classificationId": 2
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.18805767806269,22.99883459012575],[120.1885045383447,22.998770517942088],[120.18852431721213,22.998767684380187],[120.18858348961021,22.9986365544103],[120.18842721927189,22.99770470496321],[120.18800194186943,22.997771560206164],[120.18754696373554,22.99784307573552],[120.18762679560298,22.998287278652697],[120.18771238870322,22.99877950608521],[120.18782799516285,22.998867519066362],[120.18805767806269,22.99883459012575],[120.18805767806269,22.99883459012575]]]]},\"properties\":{\"envelope\":{\"left\":\"120.18754696373554\",\"top\":\"22.997704704963208\",\"right\":\"120.18858348961021\",\"bottom\":\"22.998867519066362\"},\"landLot\":\"臺南市中西區星鑽段500\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": "歷史建築濟生醫院調查研究修復再利用計畫暨修復規劃設計"
+}

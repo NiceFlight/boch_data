@@ -1,0 +1,132 @@
+{
+    "id": 17792,
+    "caseId": "20200904000001",
+    "count": 6591,
+    "shareCount": 3,
+    "representImage": 169417,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/e4278dd1-9b4f-470d-ac4e-e139a862075f/代表圖像_臺北放送局_20220616_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/e4278dd1-9b4f-470d-ac4e-e139a862075f/代表圖像_臺北放送局_20220616.jpeg",
+        "name": "代表圖像_臺北放送局_20220616"
+    },
+    "caseName": "臺北放送局",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "1.臺北放送局建於 1930 年代，為栗山俊一設計。具有近代建築及反映三Ｏ年代日本殖民主義之背景歷史，二二八事件發生時該廣播電台扮演著為黨政軍各界人士宣傳政令。目前為台北二二八紀念館館址。\n2.放送亭為日治時期臺北放送局的擴音亭，具傳播史之價值。\n\n",
+    "assetsTypeNames": "機關,其他設施",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 153044,
+            "name": "1110207-臺北放送局變更公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/27617423-ea2e-4676-a00e-ea4688122218/1110207-臺北放送局變更公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具高度歷史、藝術或科學價值者",
+        "表現各時代營造技術流派特色者",
+        "具稀少性，不易再現者"
+    ],
+    "registerReason": "1. 臺北放送局建於 1930 年代，為栗山俊一設計。建物融入西班牙瓦、中式馬頭牆，具有近代建築及反映三Ｏ年代日本殖民主義之背景歷史，為中西合併風格之建築。\n2. 放送亭為日治時期臺北放送局的擴音亭，具傳播史之價值，亦是殖民政府宣達政策的管道，1945 年 8 月 15 日裕仁天皇發表「終戰紹書」（一般稱之為「玉音放送」)，亦是透過此放送亭廣播，具歷史意義。\n3. 二二八事件發生時該廣播電台扮演著為黨政軍各界人士宣傳政令，及民眾代表報告事件處理狀況的重要角色，具重要歷史意義。",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 153045,
+            "name": "1110207-臺北放送局變更公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/6859fe6c-9071-4e14-b7e8-ed8977e77756/1110207-臺北放送局變更公告.pdf"
+        }
+    ],
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.51561,
+    "latitude": 25.040383,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市中正區公園段三小段 139地號(部分，該筆土地面積為 51,159.34平方公尺）、139-3 地號（部分，該筆土地面積為 24,992.66 平方公尺）地號等2筆土地（實際保存面積須以保存範圍實測數據為準）。",
+    "selfCoverage": "臺北放送局及放送亭本體",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 82960,
+            "caseId": 17792,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "臺北市中正區凱達格蘭大道 3 號、台北 228 公園內"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "公園段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 91979,
+            "caseId": 17792,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 145,
+            "landSerialNo": "139",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "51159.34",
+            "cityLandUseTypeOther": "公園用地(公共設施用地)",
+            "note": "地號：臺北市中正區公園段三小段 139、139-3 地號等 2 筆土地。\n",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "公園段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 91980,
+            "caseId": 17792,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 145,
+            "landSerialNo": "139-3",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "24992.66",
+            "cityLandUseTypeOther": "公園用地(公共設施用地)",
+            "note": "地號：臺北市中正區公園段三小段 139、139-3 地號等 2 筆土地。\n",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 89091,
+            "caseId": 17792,
+            "caseStatus": true,
+            "registerDate": 1589385600000,
+            "officialDocNo": "北市文化文資字第10930200601號",
+            "classificationId": 1,
+            "note": "指定"
+        },
+        {
+            "id": 89092,
+            "caseId": 17792,
+            "caseStatus": true,
+            "registerDate": 1644163200000,
+            "officialDocNo": "北市文化文資字第1113007201號",
+            "classificationId": 2,
+            "note": "修正範圍圖"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": true
+}

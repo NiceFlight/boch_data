@@ -1,0 +1,93 @@
+{
+    "id": 1827,
+    "caseId": "20021205000004",
+    "count": 2342,
+    "shareCount": 4,
+    "representImage": 258126,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-05-31/8afb3e0e-e436-4f93-bd51-a51069905157/S__94912523_0_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-05-31/8afb3e0e-e436-4f93-bd51-a51069905157/S__94912523_0.jpg",
+        "name": "S__94912523_0"
+    },
+    "caseName": "市長公館",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "臺東縣歷史建築「市長公館」位於中山路190號，興建於日治期1937年（昭和12年），建築樣式為判任官甲種一戶建獨棟官舍，為當時臺東街街長的宿舍。保存維護至今，已是臺東市日治後期都市發展建設重要之具體見證。建築外觀為寄棟式屋頂，雨淋板牆身。歷史建築主體內部空間組成為座敷、居間、茶之間、女中室、緣側、踏進、浴室、炊事場、踏進、玄關等。戰後由臺東市公所接管，亦作為市長公館之用，現今則為臺東縣市政資料館。\n臺東市公所為保存本歷史建築並再加以利用，曾於2002年（民國91年）進行整修，時隔近20年，臺東縣「市長公館」於2021年5月~2022年8月將進行修復工程。",
+    "assetsTypeNames": "官邸",
+    "otherAssetsType": "建築物類",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1039055602000,
+    "officialDocNo": "府文資字第 0910114574 號",
+    "documents": [
+        {
+            "fileid": 115317,
+            "name": "47臺東縣歷史建築公告文-市長公館.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-28/d7791c3e-2de1-474d-a02e-937e4e50aa41/47臺東縣歷史建築公告文-市長公館.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "1. 歷任市長多以此為官邸居住。\n2. 保存完整日式建築居住空間。\n",
+    "lawsReference": "1.文化資產保存法第27條之一\n2.歷史建築登錄及輔助辦法\n3.臺東縣91年11月15日歷史建築登錄審查會議決議辦理\n",
+    "govInstitutionCode": "950",
+    "govInstitutionName": "臺東縣政府",
+    "belongCityId": 22,
+    "belongCityName": "臺東縣",
+    "belongDistName": "臺東市",
+    "govInstitution": "臺東縣政府",
+    "govDeptName": "文化處文化資產科",
+    "govDeptPhone": "089-350129",
+    "govDeptAddress": "臺東市南京路25號",
+    "cadasters": [],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺東市臺東段0025-0067",
+    "buildingFeatures": "判任官甲種官舍，寄棟式屋頂、雨淋板外牆。",
+    "inHouseFeatures": "8疊座敷、8疊居間、6疊茶之間、4.5疊女中室。",
+    "buildingUsage": "於2021年月~2022年9月將進行修復工程。",
+    "buildingActualState": "於2021年月~2022年9月將進行修復工程。",
+    "buildingKeyMaintainItem": "施工進行中",
+    "bulkTransfer": 0,
+    "belongAddress": "中山路164-190 號",
+    "isOpenVisit": true,
+    "openUpTime": "於2021年月~2022年9月將進行修復工程。",
+    "isCharge": false,
+    "isOpenDownload": true,
+    "longitude": 121.152897,
+    "latitude": 22.75786,
+    "representImageSource": "109-110年度臺東縣文化資產個案資料同步更新維護計畫",
+    "landScope": "臺東市臺東段25-67地號。",
+    "selfCoverage": "臺東市臺東段25-67地號。",
+    "addresses": [
+        {
+            "cityName": "臺東縣",
+            "distName": "臺東市",
+            "id": 131564,
+            "caseId": 1827,
+            "caseStatus": true,
+            "cityId": 22,
+            "distId": 2201,
+            "address": "中山路190 號"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 143420,
+            "caseId": 1827,
+            "caseStatus": true,
+            "registerDate": 1039055602000,
+            "officialDocNo": "府文資字第 0910114574 號",
+            "classificationId": 1
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

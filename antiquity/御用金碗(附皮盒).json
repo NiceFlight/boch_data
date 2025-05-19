@@ -1,0 +1,98 @@
+{
+    "id": 19430,
+    "caseId": "20210625000005",
+    "count": 154,
+    "shareCount": 0,
+    "representImage": 120665,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-06-25/a450e9f5-dc4a-4b3a-9383-a5b42b19f69c/御用金碗(附皮盒)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-06-25/a450e9f5-dc4a-4b3a-9383-a5b42b19f69c/御用金碗(附皮盒).jpg",
+        "name": "御用金碗(附皮盒)"
+    },
+    "caseName": "御用金碗(附皮盒)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "能表現傳統、族群或地方之風俗、記憶及傳說、信仰、技藝或生活文化之重要特色",
+        "重要人物或重大歷史事件",
+        "具有重要藝術造詣或科學成就",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "本件來自新疆的金碗，利用極具特色的黃金焊細珠工藝，將極細小金珠裝飾鋪地，使碗壁佈滿金珠，雖如同鏨刻魚子紋，卻呈現出特別的質感與異域風格。收納金碗的圓皮盒，外壁紋飾也充滿域外氣息。據盒蓋內有漢、蒙、滿、藏四體文字：「乾隆四十九年（1784）十二月十七日哈密札薩克郡王品級貝勒額爾德希爾呈進金碗一件」考證，札薩克郡王六世額爾德希爾為答謝乾隆皇帝下詔其家族世襲爵位，因此進呈此金碗。\n本器為清宮和新疆交流的見證，且材質貴重，又有乾隆皇帝加上「乾隆御用」款，收貯於乾清宮，做為皇帝賞玩之用。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第1、2、4、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "0422177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故雜001241",
+    "amount": 1,
+    "descAge": " 清　乾隆",
+    "descSize": "碗：口徑14.5公分、底徑7.0公分、高7.5公分  盒：直徑17公分、高11.5公分",
+    "descMaterial": "金",
+    "reserveStatusDesc": "本器為圓形碗，敞口，圈足微外撇，器內壁光素，外壁以細微金珠排列組成紋飾，近口沿與足部各飾一圈圖案式折枝花，腹部飾纏枝花卉紋並圈繞出一石榴式開光，內陰刻草花紋，足壁飾纏枝紋。圈足內陰刻雙鉤雙行四字楷款：「乾隆御用」，底款可能為清宮利用包金技術後來添加。全器收納於一木胎圓皮盒內，盒蓋內有漢、蒙、滿、藏四體文字：「乾隆四十九年（1784）十二月十七日哈密札薩克郡王品級貝勒額爾德希爾呈進金碗一件」。清宮舊藏，原儲於乾清宮。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有敲擊凹傷。",
+    "documents": [
+        {
+            "fileid": 142884,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-04/bfc4d3e5-ccfe-48f9-8a89-f9cbd9f7dcad/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.5484322510235,
+    "latitude": 121.5484322510235,
+    "representImageSource": "  國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "  ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "  ",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 66903,
+            "caseId": 19430,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 71075,
+            "caseId": 19430,
+            "caseStatus": true,
+            "registerDate": 1623224933245,
+            "officialDocNo": "文授資局物字第11030058861號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,102 @@
+{
+    "id": 3772,
+    "caseId": "20140421000016",
+    "count": 323,
+    "shareCount": 0,
+    "representImage": 6568,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39162/photo/pic047_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39162/photo/pic047.jpg",
+        "name": "pic047"
+    },
+    "caseName": "新石器時代龍山—齊家系 玉璧",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1398009600000,
+    "officialDocNo": "文資物字第10320043691號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要之時代特色、技術及流派",
+        "品質精良且數量稀少"
+    ],
+    "registerReason": "此件玉璧，褐黃帶赭紅色斑塊玉質，光素無紋飾。\r\n此玉璧由質地等特徵觀察，應為黃河中、上游區域，龍山─齊家文化的玉璧，足以呈現當時、當地的玉器風格與宗教、宇宙觀的內涵。又其閱幾千年，一直到十八世紀，成為乾隆皇帝的珍藏，其器表加琢兩首御製詩與五方璽文，罕見稀有，別具意義。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第1、3、5款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故玉003140",
+    "amount": 1,
+    "notes": "",
+    "descAge": "新石器時代",
+    "descSize": "最大徑：28.4；孔徑：5.4；厚：1.9（公分）",
+    "descMaterial": "玉",
+    "reserveStatusDesc": "質材：褐黃帶赭紅色斑塊玉。\r\n形制：中央有大孔的圓形片狀。\r\n紋飾：光素。\r\n參考考古資料：由質地等特徵觀察，這件玉璧應為龍山─齊家文化的玉璧。\r\n特徵：此璧深受乾隆皇帝的鍾愛，在其器表加琢兩首御製詩與五方璽文；由詩的內容可知，乾隆在六十一歲時獲得，雖然大家認為此璧為一件漢玉，但乾隆獨排眾議，判定其為「虞夏」古物，經現代考古資料印證，乾隆皇帝或許的確別具慧眼。七十三歲時，乾隆再度賦詩，八十歲及遜位當太上皇時，仍在璧上加刻印文。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。有數處輕微舊傷缺。",
+    "documents": [
+        {
+            "fileid": 150232,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-12/689b6024-ac46-4669-b15d-5075212a4ef1/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70790,
+            "caseId": 3772,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 75056,
+            "caseId": 3772,
+            "caseStatus": true,
+            "registerDate": 1398009600000,
+            "officialDocNo": "文資物字第10320043691號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

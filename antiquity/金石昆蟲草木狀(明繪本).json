@@ -1,0 +1,105 @@
+{
+    "id": 3587,
+    "caseId": "20130813000042",
+    "count": 156,
+    "shareCount": 0,
+    "representImage": 6276,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7294/photo/金石昆蟲草木狀(明繪本)_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7294/photo/金石昆蟲草木狀(明繪本).png",
+        "name": "金石昆蟲草木狀(明繪本)"
+    },
+    "caseName": "金石昆蟲草木狀(明繪本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1376323200000,
+    "officialDocNo": "文資局物字第 10220091271號",
+    "judgeCriteria": [
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "明萬曆四十五年(1617)至四十八年(1620)彩繪底稿本。\r\n記載天然藥物之文獻，古稱「本草」，後為便於正確認識日漸繁多之生藥，故而繪製本草圖。此書為明代書畫大家文徵明玄孫女文俶所繪，依據內府藏《本草品彙精要》原稿附圖為底本，加以摹繪，僅繪圖而不錄文字，內容包括金石、草、木、獸、禽、蟲、果、米穀、菜、外草、外木蔓諸名目，總計本草1,070種、圖1,316幅。全書構圖細膩、用色柔和，世間罕見，為舉世孤本。\r\n明代彩繪底稿本，珍貴孤本，具特殊歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第4條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號06921",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 24,
+    "notes": "",
+    "descAge": "明萬曆四十五年(1617)至四十八年(1620)",
+    "descCreator": "明文俶繪",
+    "descSize": "半葉一圖，版匡24.5x17.5公分",
+    "descMaterial": "紙質",
+    "reserveStatusDesc": "二十七卷；彩繪底稿本。\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "無虫蛀。經修裱，書況良好。\n",
+    "documents": [
+        {
+            "fileid": 6277,
+            "name": "47d49840-9a31-48c0-a63f-682d9f73e903.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44180/file/47d49840-9a31-48c0-a63f-682d9f73e903.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3729,
+            "caseId": 3587,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3729,
+            "caseId": 3587,
+            "caseStatus": true,
+            "registerDate": 1376323200000,
+            "officialDocNo": "文資局物字第 10220091271號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

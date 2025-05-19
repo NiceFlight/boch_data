@@ -1,0 +1,147 @@
+{
+    "id": 20863,
+    "caseId": "20220812000001",
+    "count": 1724,
+    "shareCount": 1,
+    "representImage": 262073,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-09-10/dfff0ba9-502d-4863-ac79-a0280215f385/水上善德堂_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-09-10/dfff0ba9-502d-4863-ac79-a0280215f385/水上善德堂.jpg",
+        "name": "水上善德堂"
+    },
+    "caseName": "水上善德堂",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "建築本體之正身及護龍保存完整，建物內古碑見證善德堂自清中葉以來之歷史，保存數量豐富。\n藝術作品有陳玉峰之彩繪壁畫，量多質精，題材及畫風多樣。",
+    "assetsTypeNames": "寺廟",
+    "assetsClassifyCode": "1.1.3",
+    "assetsClassifyName": "縣(市)定古蹟",
+    "documents": [
+        {
+            "fileid": 179722,
+            "name": "水上善德堂-公報.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-08-12/5c9f91b6-d82a-47ed-ae2b-85922e350c02/水上善德堂-公報.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具高度歷史、藝術或科學價值者",
+        "表現各時代營造技術流派特色者",
+        "具稀少性，不易再現者"
+    ],
+    "registerReason": "１、具高度歷史、藝術或科學價值者：建築本體之正身及護龍保存完整，建物內古碑見證善德堂自清中葉以來之歷史，保存數量豐富。藝術作品有陳玉峰之彩繪壁畫，量多質精，題材及畫風多樣。\n２、表現各時代營造技術流派特色者：善德堂為兩殿式木構式建築，前殿為抬樑式，正殿為穿斗式。建築工法雖為傳統作法，但亦保有日治時期之彩磁裝飾。建築整體組織工法細緻，且建築架構及裝飾具營造流派特色。 \n３、具稀少性，不易再現者：建築本體、建物裝飾以及陳玉峰之畫作具稀少性。",
+    "lawsReference": "《古蹟指定及廢止審查辦法》第 2 條第 1 項第 1、2、3 款",
+    "govInstitutionCode": "612",
+    "govInstitutionName": "嘉義縣政府",
+    "govInstitution": "嘉義縣文化觀光局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "05-3628123*310",
+    "govDeptAddress": "嘉義縣太保市太子大道158號",
+    "cadasters": [
+        {
+            "fileid": 179723,
+            "name": "水上善德堂-地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-08-12/b68e0bbf-dbbf-4eac-9faf-a115c475ee7f/水上善德堂-地籍圖.pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenDownload": true,
+    "longitude": 120.41788,
+    "latitude": 23.433275,
+    "representImageSource": "113年度嘉義縣文資防護專業服務中心計畫",
+    "landScope": "嘉義縣水上鄉柳新段 31、34、35、36 地號",
+    "selfCoverage": "建築本體及庭院",
+    "addresses": [
+        {
+            "cityName": "嘉義縣",
+            "distName": "水上鄉",
+            "id": 135782,
+            "caseId": 20863,
+            "caseStatus": true,
+            "cityId": 15,
+            "distId": 1507,
+            "address": "柳仔林7號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "嘉義縣",
+            "distName": "水上鄉",
+            "landNoName": "柳新段",
+            "id": 198808,
+            "caseId": 20863,
+            "caseStatus": true,
+            "cityId": 15,
+            "distId": 1507,
+            "landNoId": 12913,
+            "landSerialNo": "31",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "嘉義縣",
+            "distName": "水上鄉",
+            "landNoName": "柳新段",
+            "id": 198809,
+            "caseId": 20863,
+            "caseStatus": true,
+            "cityId": 15,
+            "distId": 1507,
+            "landNoId": 12913,
+            "landSerialNo": "34",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "嘉義縣",
+            "distName": "水上鄉",
+            "landNoName": "柳新段",
+            "id": 198810,
+            "caseId": 20863,
+            "caseStatus": true,
+            "cityId": 15,
+            "distId": 1507,
+            "landNoId": 12913,
+            "landSerialNo": "35",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "嘉義縣",
+            "distName": "水上鄉",
+            "landNoName": "柳新段",
+            "id": 198811,
+            "caseId": 20863,
+            "caseStatus": true,
+            "cityId": 15,
+            "distId": 1507,
+            "landNoId": 12913,
+            "landSerialNo": "36",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 148257,
+            "caseId": 20863,
+            "caseStatus": true,
+            "registerDate": 1637769600000,
+            "officialDocNo": "府授文資字第 1100271413 號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.41838677195443,23.433573922860205],[120.41839242544661,23.433554451034098],[120.41836826803163,23.433511595347987],[120.41826713747878,23.433332217594934],[120.41821779935508,23.43335089726113],[120.41829389065862,23.433531494708163],[120.41821956261263,23.433695527068636],[120.41825720508086,23.433713162794888],[120.41829223123233,23.433729569725465],[120.41833174785488,23.43374807928878],[120.41833549895223,23.433733972276663],[120.41835331320611,23.433679270379187],[120.41837119851064,23.433623982702027],[120.41838677195443,23.433573922860205],[120.41838677195443,23.433573922860205]]]]},\"properties\":{\"envelope\":{\"left\":\"120.41821779935508\",\"top\":\"23.433332217594934\",\"right\":\"120.41839242544661\",\"bottom\":\"23.43374807928878\"},\"landLot\":\"嘉義縣水上鄉柳新段31\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.41817653287953,23.433891201274424],[120.41825720508086,23.433713162794888],[120.41821956261263,23.433695527068636],[120.41813848531362,23.433874439920857],[120.41817653287953,23.433891201274424],[120.41817653287953,23.433891201274424]]]]},\"properties\":{\"envelope\":{\"left\":\"120.41813848531362\",\"top\":\"23.433695527068636\",\"right\":\"120.41825720508086\",\"bottom\":\"23.433891201274424\"},\"landLot\":\"嘉義縣水上鄉柳新段34\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.41829389065862,23.433531494708163],[120.41821779935508,23.43335089726113],[120.41817584497578,23.433332874328645],[120.41814895098106,23.433457597384344],[120.41813961736894,23.433499320557278],[120.41810036428777,23.433491944915318],[120.41807686704566,23.433568357907962],[120.41800131131656,23.433814025977068],[120.41813848531362,23.433874439920857],[120.41821956261263,23.433695527068636],[120.41829389065862,23.433531494708163],[120.41829389065862,23.433531494708163]]]]},\"properties\":{\"envelope\":{\"left\":\"120.41800131131656\",\"top\":\"23.433332874328645\",\"right\":\"120.41829389065862\",\"bottom\":\"23.433874439920857\"},\"landLot\":\"嘉義縣水上鄉柳新段35\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.41800131131656,23.433814025977068],[120.41807686704566,23.433568357907962],[120.41787307552403,23.433618986585067],[120.41791972709099,23.433743661415225],[120.4179524009203,23.433785032793374],[120.41800131131656,23.433814025977068],[120.41800131131656,23.433814025977068]]]]},\"properties\":{\"envelope\":{\"left\":\"120.41787307552403\",\"top\":\"23.433568357907962\",\"right\":\"120.41807686704566\",\"bottom\":\"23.433814025977068\"},\"landLot\":\"嘉義縣水上鄉柳新段36\"}}],\"notfound\":[]}]",
+    "openVisitType": "",
+    "pastHistorySource": " "
+}

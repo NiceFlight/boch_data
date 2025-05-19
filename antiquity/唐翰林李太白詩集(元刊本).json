@@ -1,0 +1,91 @@
+{
+    "id": 3704,
+    "caseId": "20130610000057",
+    "count": 185,
+    "shareCount": 0,
+    "representImage": 6448,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32648/photo/403c4762-4f69-4c07-84b7-de8b1da2482c_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32648/photo/403c4762-4f69-4c07-84b7-de8b1da2482c.jpg",
+        "name": "403c4762-4f69-4c07-84b7-de8b1da2482c"
+    },
+    "caseName": "唐翰林李太白詩集(元刊本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1370793600000,
+    "officialDocNo": "文資局物字第10220062581號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "元刊本。\r\n此書為坊刻，訛字、俗體字頗多，但仍為李白集本研究之重要刊本。嘗經清季振宜、黃丕烈、張乃熊等人遞藏。\r\n元版古籍，數量稀少，具重要歷史、文化與版本學研究價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "reservationCode": "書號09489",
+    "keepNameId": 2,
+    "keepName": "",
+    "keepNameNew": 17,
+    "keepAddressNew": "臺北市中正區中山南路20號",
+    "amount": 4,
+    "notes": "",
+    "reserveStatusDesc": "唐李白撰\r\n二十六卷4冊\r\n紙本\r\n半葉11行，版匡17.5公分x11.3公分",
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 6449,
+            "name": "772cb27e-058d-4add-b2d6-956ee297b0a9.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44526/file/772cb27e-058d-4add-b2d6-956ee297b0a9.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺北市中正區中山南路20號",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3846,
+            "caseId": 3704,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3846,
+            "caseId": 3704,
+            "caseStatus": true,
+            "registerDate": 1370793600000,
+            "officialDocNo": "文資局物字第10220062581號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

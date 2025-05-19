@@ -1,0 +1,94 @@
+{
+    "id": 22956,
+    "caseId": "20240815000001",
+    "count": 88,
+    "shareCount": 0,
+    "representImage": 261003,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-08-15/6969e217-bfb0-496d-937f-c2b128cc0ece/KEN01251_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-08-15/6969e217-bfb0-496d-937f-c2b128cc0ece/KEN01251.jpg",
+        "name": "KEN01251"
+    },
+    "caseName": "嚴禁冒籍頂考殘碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "數量稀少者"
+    ],
+    "registerReason": "１、能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者： 此碑反映清代科舉考試在臺灣推動及其舞弊的社會現象，充分補充科舉文化的完整樣態與真實性，為目前所知嘉義最早的古碑，反映臺灣史的重要故事，相當珍貴。\n２、數量稀少者：臺灣傳世少見記錄科舉考試舞弊事件之石碑，又冒籍僅此一件，具稀有性，碑文為全臺首見，記載科舉文化弊端，為嘉義市現存最古老的石碑，實屬少見稀有，相當具有代表性。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第3、5款",
+    "govInstitutionCode": "600",
+    "govInstitutionName": "嘉義市政府",
+    "govInstitution": "嘉義市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "05-2788225*508",
+    "govDeptAddress": "600嘉義市東區忠孝路275號",
+    "reservationCode": "府授文資字第11351038000號",
+    "amount": 0,
+    "descAge": "乾隆20年(西元1755年)",
+    "descSize": "高94公分、寬90公分、厚11.5公分",
+    "descMaterial": "砂岩",
+    "reserveStatusDesc": "此碑已斷裂成不規則形，依照原碑拓印內容來看，此碑原為長方體，現殘存部位為中段，碑額與碑下半部已佚失，上緣斷裂呈不規則形，除碑額亡佚外，亦傷及部分文字內容，下緣斷裂處呈一橫切線，但碑面斷裂邊緣處有沾附不少黑色物質。側邊切面較為平整，斷裂面岩石則呈現片狀剝裂狀況，下緣碑面處文字較多磨損不可辨識，另下緣碑面右側有一弧形缺損。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "此碑現收存於倉庫，採橫放，無特殊保護，碑面文字下緣處有多處磨損斑駁糊化難辨識，保存狀況較差。",
+    "documents": [
+        {
+            "fileid": 261002,
+            "name": "府授文資字第11351038000號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-08-15/f7f50582-12e5-4551-bb0b-a4209713dbee/府授文資字第11351038000號公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "109-110年嘉義市西區宗教團體文物普查建檔計畫-成果報告書",
+    "keepNames": [
+        {
+            "keepNameIdStr": "財團法人台灣省嘉義市保生大帝震安宮 ",
+            "keepName": "謝永振",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "財團法人台灣省嘉義市保生大帝震安宮 ",
+            "keepAddressNew": "嘉義市西區嘉義市西區西門街168號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2,
+            "keepNameCityName": "嘉義市",
+            "keepNameDistName": "西區",
+            "keepNameAddress": "西門街168號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "嘉義市",
+            "distName": "西區",
+            "id": 133664,
+            "caseId": 22956,
+            "caseStatus": true,
+            "cityId": 14,
+            "distId": 1402,
+            "address": "西門街168號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 145830,
+            "caseId": 22956,
+            "caseStatus": true,
+            "registerDate": 1722787200000,
+            "officialDocNo": "府授文資字第11351038000號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

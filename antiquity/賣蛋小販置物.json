@@ -1,0 +1,102 @@
+{
+    "id": 17347,
+    "caseId": "20200219000004",
+    "count": 173,
+    "shareCount": 0,
+    "representImage": 65824,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-02-10/2da7fb0f-d108-42ee-9b51-221f36f893d5/01 (1)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-02-10/2da7fb0f-d108-42ee-9b51-221f36f893d5/01 (1).jpg",
+        "name": "01 (1)"
+    },
+    "caseName": "賣蛋小販置物",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1581315609918,
+    "officialDocNo": "中華民國109年2月10日北市獻編字第1093001230號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "1.\t具日本明治時期藝術風格與特徵，關注自然物件的表現，有名款，反映日本雕刻藝術及文化時代特色。\n2.\t牙雕技術圓熟，神情生動，表現細膩，名款亦具歷史價值；人物造型栩栩如生，表現市井小民生態，藝術水準及價值高。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第3、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "10846臺北市萬華區中華路1段174之1號",
+    "reservationCode": "典藏01",
+    "amount": 1,
+    "descAge": "日本明治時期",
+    "descSize": "高9.8公分",
+    "descMaterial": "象牙",
+    "reserveStatusDesc": "藝術家取象牙為材料，雕琢為賣蛋小販，小販為中年男性，面容清秀，表情喜悅，臉部肌肉飽滿，額頭、嘴角皺紋與略為凹陷的雙頰，刻劃極為自然。身著日本傳統服飾，服裝上精細雕琢不同花紋。跪坐，手持算盤，膝前有一疊紙張，幾頁紙張邊角向上卷起；一旁的竹籃內裝滿雞蛋，頂端恰有小雞破殼而出，另有一本翻閱至一半的書冊隨意置放於籃子上。作品底部有長方形開光，開光內有染為紅色的「宗孝」款。\n\n本件作品刻畫出小販正在用算盤計算一日所得時，一旁的雞蛋竟有小雞破殼，藝術家以精湛的技藝，捕捉到小販看見新生命的驚訝與喜悅瞬間，整體造型頗具故事性，且各個部位、細節皆一絲不苟，連竹籃底部、延伸至底處的布料皆刻劃精細，款識周圍更有設計獨特之紋樣，加之象牙因年代久遠而形成的米黃色澤與溫潤包漿，更令本件作品在趣味之餘，又增添古樸雅趣。\n\n日本自明治維新以來，即推崇「匠人文化」，「匠人精神」更是日本社會走向繁榮的重要支撐。從本件藝術品精湛的雕琢技藝，便顯露出藝術家非常敬業、追求極致的專業精神，不僅令人敬佩，此種精神更值得台灣藝術家學習。",
+    "pastHistorySource": 1,
+    "saveEnvironment": 1,
+    "reserveStatus": "保存良好",
+    "documents": [
+        {
+            "fileid": 65969,
+            "name": "公告函.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-02-11/68907e35-c1b8-4065-945a-6259adb84987/公告函.pdf"
+        },
+        {
+            "fileid": 65970,
+            "name": "臺北市一般古物指定公告表_賣蛋小販置物.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-02-11/cbe15eea-ec9c-4fdb-b3ef-2143ebdfd798/臺北市一般古物指定公告表_賣蛋小販置物.pdf"
+        }
+    ],
+    "representImageSource": "郭芝穎提供",
+    "keepNames": [
+        {
+            "keepNameIdStr": "郭○穎",
+            "keepName": "郭芝穎",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "郭○穎",
+            "keepAddressNew": "台北市中正區重慶南路二段15號7樓",
+            "saveSpaceOther": "庫房",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "大安區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 6987,
+            "caseId": 17347,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 6987,
+            "caseId": 17347,
+            "caseStatus": true,
+            "registerDate": 1581315609918,
+            "officialDocNo": "中華民國109年2月10日北市獻編字第1093001230號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

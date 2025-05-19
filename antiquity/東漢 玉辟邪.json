@@ -1,0 +1,102 @@
+{
+    "id": 3816,
+    "caseId": "20140421000030",
+    "count": 1293,
+    "shareCount": 3,
+    "representImage": 6614,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7100/photo/東漢玉辟邪_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7100/photo/東漢玉辟邪.JPG",
+        "name": "東漢玉辟邪"
+    },
+    "caseName": "東漢 玉辟邪",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1398009600000,
+    "officialDocNo": "文資物字第10320043691號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要之時代特色、技術及流派",
+        "品質精良且數量稀少"
+    ],
+    "registerReason": "此件東漢玉辟邪，青白玉質，表面多深淺褐斑。形為帶翼獸，昂首、張口、跨步、雙翼貼於身側，頷下長鬚垂胸，長尾曳地。是目前所知的漢代玉辟邪中，體積較大的一件。\r\n本件玉辟邪口吻較長，近似馬臉，不同於常見的短口吻、似虎臉之辟邪。本件造形及羽翅特徵和中亞、西亞的神獸有類通之處，可能是文化交流下的產物。此器曾為乾隆皇帝收藏，藝術價值高，流傳有緒，難得傑作。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第1、3、5款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局 ",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故玉002789",
+    "amount": 1,
+    "notes": "",
+    "descAge": "東漢",
+    "descSize": "高：9.3；長：13.6（公分）",
+    "descMaterial": "閃玉",
+    "reserveStatusDesc": "質材：青白玉質，因深沁熟盤及可能後期染色，故現在表面多深淺褐斑。\n形制：帶翼的四足獸，昂首、張口、跨步、雙翼貼於身側，頷下長鬚垂胸，長尾曳地。\n特徵：口吻較長，有似馬臉，與常見的短口吻似虎臉的辟邪，不相類似。卻與《文物》一九九七，四所報導的，近年在內蒙古出土的西漢中、晚期銅灶上所加飾的動物頭像，頗為神似。\n其他：曾為乾隆皇帝的重要收藏：胸前刻有御製詩，宮中配雙層紫檀木座，上層刻「乾隆御玩」，下層刻御製詩，字嵌銀絲。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 150258,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-13/c38e421b-1b5e-4aa4-840c-d682b7a00e25/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70869,
+            "caseId": 3816,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": " 至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75138,
+            "caseId": 3816,
+            "caseStatus": true,
+            "registerDate": 1398009600000,
+            "officialDocNo": "文資物字第10320043691號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

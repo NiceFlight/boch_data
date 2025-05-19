@@ -1,0 +1,87 @@
+{
+    "id": 20527,
+    "caseId": "20220418000001",
+    "count": 0,
+    "shareCount": 0,
+    "representImage": 160696,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-04-18/c3821ef1-d787-44d1-a6b9-989a6bb7b17d/5c0e765d-6806-48e5-b26e-dc08befcdc0a_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-04-18/c3821ef1-d787-44d1-a6b9-989a6bb7b17d/5c0e765d-6806-48e5-b26e-dc08befcdc0a.jpg",
+        "name": "5c0e765d-6806-48e5-b26e-dc08befcdc0a"
+    },
+    "caseName": "漆工藝-漆器",
+    "classifyCode": "4.2",
+    "classifyName": "傳統工藝",
+    "assetsTypeNames": "髹漆",
+    "assetsClassifyCode": "4.2.1",
+    "assetsClassifyName": "傳統工藝",
+    "documents": [
+        {
+            "fileid": 160695,
+            "name": "1101214_漆工藝－漆器_登錄公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-18/86e062f8-f006-434c-b897-12deee6e2e99/1101214_漆工藝－漆器_登錄公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具有藝術價值",
+        "具時代或流派特色",
+        "顯著反映族群或地方之審美觀"
+    ],
+    "registerReason": "1、漆器工藝歷史悠久，器型呈現及髹漆方式，具有藝術性。\n2、漆工藝與臺中地區歷史脈絡緊密鏈結，日治時期曾設「山中工藝所」 製造美術工藝品，80年代初期，木漆器產業蓬勃，具有時代特色。\n3、漆器作品呈現臺中地區特色，反映地方審美觀。\n4、符合傳統工藝登錄認定及廢止審查辦法第2條第1、2、3款登錄基準。",
+    "lawsReference": "<<傳統工藝登錄認定及廢止審查辦法>>第2條第1、2、3款",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "govInstitution": "臺中市政府文化局",
+    "govDeptName": "臺中市文化資產處",
+    "govDeptPhone": "04-22290280",
+    "govDeptAddress": "臺中市西區市府路41巷19號",
+    "historyDevelopment": "「漆器」為以漆工藝製造「盛器」之泛稱，歷史可追溯至河姆渡文化時期，考古發掘遺物出土漆木碗，迄今已將近7千年歷史。採自漆樹之「生漆」，其有耐酸、耐熱效能，塗刷於器物上具有隔絕效果，可防止木材腐壞，因此其後也發展至家具裝飾，明代更有《髹飾錄》詳撰漆藝技法，可見其歷史悠久及與生活關連之緊密。西元1916年，日人在臺中市新富町二丁目一番地（現今民族路接近三民路），設立「山中工藝所」，製造漆器工藝品，開啟了臺中市漆器製造產業先機，於臺中市歷史發展具重要歷史文化意義。\n漆器產業於八○年代盛極一時，臺中市豐原區因鄰近八仙山、大雪山林場，木器廠林立，更結合臺灣第一代漆工藝陳火慶大師進行髹漆技法指導，木胎漆器外銷極為興盛，也間接延續了漆器工藝之傳承。\n",
+    "preservers": [
+        {
+            "id": 20594,
+            "type": "個人",
+            "caseName": "陳清輝",
+            "cityName": "臺中市",
+            "distName": "西區",
+            "caseArtistEntities": [],
+            "representImage": 160697,
+            "registrationDate": 1639411200000,
+            "judgeCriteria": [
+                "熟知並能正確體現該登錄項目之知識、技藝與文化表現形式",
+                "具該登錄項目之傳習能力與意願",
+                "在文化脈絡下為適當者"
+            ],
+            "registerReason": "１、陳清輝先生熟知漆器製作知識、技藝及表現形式。\n\n２、漆器製作可表現漆工藝技法特色，陳清輝先生具有習能力及意願。\n\n３、陳清輝先生師承陳火慶及王清霜、王水河等大師，於文化脈絡下為適當者。\n\n４、符合傳統工藝登錄認定及廢止審查辦法第4條第1、2、3款認定基準。",
+            "lawsReference": "<<傳統工藝登錄認定及廢止審查辦法>>第4條第1、2、3款",
+            "isOpenDownload": false,
+            "representImageSource": "臺中市文化資產處",
+            "contactorIsOpen": false
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "臺中市文化資產處",
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "西區",
+            "id": 131056,
+            "caseId": 20527,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1004
+        }
+    ],
+    "announces": [
+        {
+            "id": 142834,
+            "caseId": 20527,
+            "caseStatus": true,
+            "registerDate": 1639411200000,
+            "officialDocNo": "府授文資遺字第11003121541號",
+            "classificationId": 1
+        }
+    ]
+}

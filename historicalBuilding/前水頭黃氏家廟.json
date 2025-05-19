@@ -1,0 +1,119 @@
+{
+    "id": 2005,
+    "caseId": "20030331000028",
+    "count": 1641,
+    "shareCount": 3,
+    "representImage": 181767,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-08-29/3a7fb422-f685-4938-8a65-31b0aaf72162/01封面_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-08-29/3a7fb422-f685-4938-8a65-31b0aaf72162/01封面.jpg",
+        "name": "01封面"
+    },
+    "caseName": "前水頭黃氏家廟",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "黃氏家廟位於前水頭聚落，興建時間約於明洪武末年（約1390-1398），並曾於清末民初時重修，後於民國104年至民國105年（2015-2016）依《金門縣私有歷史建築修復獎助辦法》進行整體修復。\n（詳細歷史沿革待未來修復及再利用計畫深入調查）",
+    "assetsTypeNames": "祠堂",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1049098904000,
+    "officialDocNo": "府教社字第09200570號",
+    "documents": [
+        {
+            "fileid": 258098,
+            "name": "前水頭黃氏家廟歷史建築登錄公告_92.03.31.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-05-31/d1af219f-29bb-4071-b4f0-a92ca761e349/前水頭黃氏家廟歷史建築登錄公告_92.03.31.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者"
+    ],
+    "registerReason": "1.創建年期久遠者\r\n2.表現地域風貌或民間藝術特色者",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "890",
+    "govInstitutionName": "金門縣政府",
+    "belongCityId": 24,
+    "belongCityName": "金門縣",
+    "belongDistName": "金城鎮",
+    "govInstitution": "金門縣文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "082-325643#812",
+    "govDeptAddress": "金門縣金城鎮環島北路66號",
+    "cadasters": [
+        {
+            "fileid": 181765,
+            "name": "前水頭黃氏家廟_地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-08-29/30345231-2cf7-436e-ba34-f39d041ba552/前水頭黃氏家廟_地籍圖.jpg"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 11,
+    "nonCityLandUseTypeName": "其他使用區",
+    "nonLandUseOtherType": "宅地",
+    "locationLandNo": "金城鎮前水頭測段64號",
+    "buildingFeatures": "建築為二落大厝加右護龍。大厝屋頂為傳統閩南雙坡三川脊型式，脊肚飾有交趾及剪黏裝飾，右護龍屋頂為雙坡圓脊，屋坡則皆為紅瓦。大厝採榻受，牆體上緣為斗仔砌，下緣為封堵石砌，轉角柱以菸炙磚收邊，向埕牆額堵為山水彩繪、石窗櫺上方飾有聯對，榻受以子午窗、插角、吊筒等木雕裝飾，並以彩繪及按金等手法裝飾，榻受正門兩側設有抱鼓石。\n右護龍牆體上緣為斗仔砌，下緣為封磉石砌，規壁脊墜以泥塑及彩繪裝飾，護龍門採榻受，對看堵以單色壁畫裝飾。",
+    "inHouseFeatures": "建築中軸線由外至內為前埕、前廳、深井、巷頭、正廳、神龕、堂後，深井兩側為捲棚式廊道右側為右深井及右護龍空間，結構為硬山擱檁式。正廳棟架及神龕皆以木雕及彩繪裝飾，廳堂內掛有各式牌匾。",
+    "buildingUsage": "維持原使用功能",
+    "buildingActualState": "建築本體狀況良好，周圍環境整潔，管理維護情形良好。",
+    "buildingKeyMaintainItem": "建築整體狀況良好，僅有牆角些微雜草生長待清除，建議繼續保持。",
+    "bulkTransfer": 0,
+    "belongAddress": "前水頭30號",
+    "isOpenVisit": false,
+    "openUpTime": "不開放參觀",
+    "isOpenDownload": false,
+    "longitude": 118.29952,
+    "latitude": 24.40988,
+    "representImageSource": "曾逸仁",
+    "landScope": "金城鎮前水頭段69、70、71地號\n\n民國105年（2016）進行地籍重測，現為前水頭測段64地號（534.25㎡）。",
+    "selfCoverage": "公告未指明歷史建築本體",
+    "addresses": [
+        {
+            "cityName": "金門縣",
+            "distName": "金城鎮",
+            "id": 148745,
+            "caseId": 2005,
+            "caseStatus": true,
+            "cityId": 24,
+            "distId": 2404,
+            "address": "前水頭30號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "金門縣",
+            "distName": "金城鎮",
+            "landNoName": "前水頭測段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 205722,
+            "caseId": 2005,
+            "caseStatus": true,
+            "cityId": 24,
+            "distId": 2404,
+            "landNoId": 15348,
+            "landSerialNo": "64",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "area": "534.25㎡",
+            "cityLandUseTypeOther": "國家公園區",
+            "note": "此為重測後定著土地範圍。\n\n原登錄歷史建築公告定著土地範圍為金城鎮前水頭段69、70、71地號。",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 161728,
+            "caseId": 2005,
+            "caseStatus": true,
+            "registerDate": 1049098904000,
+            "officialDocNo": "府教社字第092001570號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[118.29945763109595,24.410077963926575],[118.29963260573963,24.41002542097766],[118.29960003742008,24.40993759499969],[118.29954127085081,24.409779119293333],[118.29943511200682,24.409812523104318],[118.29936797036002,24.409833800835468],[118.29945763109595,24.410077963926575],[118.29945763109595,24.410077963926575]]]]},\"properties\":{\"envelope\":{\"left\":\"118.29936797036002\",\"top\":\"24.409779119293333\",\"right\":\"118.29963260573963\",\"bottom\":\"24.410077963926575\"},\"landLot\":\"金門縣金城鎮前水頭測段64\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": "1.歷史建築清冊  2.\t曾逸仁主持，2022，《110年度金門縣文資防護專業服務中心成果報告書》，國立金門大學，金門縣文化局委託"
+}

@@ -1,0 +1,108 @@
+{
+    "id": 3135,
+    "caseId": "20110111000002",
+    "count": 511,
+    "shareCount": 0,
+    "representImage": 5573,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/37958/photo/569d15f8-cad3-4ac6-8797-4d42e4a1d810_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/37958/photo/569d15f8-cad3-4ac6-8797-4d42e4a1d810.jpg",
+        "name": "569d15f8-cad3-4ac6-8797-4d42e4a1d810"
+    },
+    "caseName": "日治時期苓雅寮公學校畢業生名冊",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1294675200000,
+    "officialDocNo": "高市府四維史博字第1000140520號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本名冊係日治時期苓雅寮公學校畢業生名冊，年代自日明治42年至日昭和20年（1909~1945）止，歷史悠久，名冊中有前市長陳啟川(該校第六屆畢業生，民國35年至42年（1946~1953）曾擔任該校第一任家長會長)及其家族成員(如陳啟峰等)、前議長孫媽諒(該校第十一屆畢業生，民國34年11月至42年2月（1945~1953）擔任苓洲國校第一任校長)等地方名人之就學紀錄，翔實完整，頗具地方歷史意義與教育史料價值。\n本名冊內容除採用毛筆書寫外，亦有用鋼筆書寫者，保存完整。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "800",
+    "govInstitutionName": "高雄市政府",
+    "belongCityId": 18,
+    "belongCityName": "高雄市",
+    "belongDistName": "苓雅區",
+    "govInstitution": "高雄市政府文化局",
+    "govDeptName": "文化資產中心",
+    "govDeptPhone": "07-2225136",
+    "govDeptAddress": "高雄市苓雅區五福一路67號",
+    "reservationCode": "5040102-000001、5040102-000002",
+    "amount": 2,
+    "notes": "",
+    "descAge": "日治時期",
+    "descSize": "27x19.5x5公分；27x19.5x3公分",
+    "descMaterial": "紙",
+    "reserveStatusDesc": "本名冊係日治時期苓雅寮公學校畢業生名冊，年代自日明治42年至日昭和20年（1909~1945）止，歷史悠久，名冊中有前市長陳啟川(該校第六屆畢業生，民國35年至42年（1946~1953）曾擔任該校第一任家長會長)及其家族成員(如陳啟峰等)、前議長孫媽諒(該校第十一屆畢業生，，民國34年11月至42年2月（1945~1953）擔任苓洲國校第一任校長)等地方名人之就學紀錄，翔實完整，頗具地方歷史意義與教育史料價值。\n本名冊內容除採用毛筆書寫外，亦有用鋼筆書寫者，保存完整。",
+    "pastHistorySource": 7,
+    "saveEnvironment": 4,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 78157,
+            "name": "本市古物公告96-99_page-0065.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-07/cbd4de2a-a433-4a87-90a9-0dc23aa6b5c5/本市古物公告96-99_page-0065.jpg"
+        },
+        {
+            "fileid": 78158,
+            "name": "100年高雄市古物登錄公告表_page-0017.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-07/0be2b241-fb5a-461a-b4a4-b7c1819d090e/100年高雄市古物登錄公告表_page-0017.jpg"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.300464,
+    "latitude": 22.614522,
+    "representImageSource": "高雄市立歷史博物館拍攝",
+    "keepNames": [
+        {
+            "keepNameIdStr": "高雄市苓雅區苓洲國民小學",
+            "keepName": "高雄市苓雅區苓洲國民小學",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "高雄市苓雅區苓洲國民小學",
+            "keepAddressNew": "高雄市苓雅區四維四路61號",
+            "saveSpaceOther": "高雄市立苓洲國民小學",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "高雄市",
+            "keepNameDistName": "苓雅區",
+            "keepNameAddress": "四維四路61號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "高雄市",
+            "distName": "苓雅區",
+            "id": 148670,
+            "caseId": 3135,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1803,
+            "address": "四維四路61號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 161637,
+            "caseId": 3135,
+            "caseStatus": true,
+            "registerDate": 1324310400000,
+            "officialDocNo": "高市府四維史博字第1000140520號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

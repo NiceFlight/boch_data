@@ -1,0 +1,133 @@
+{
+    "id": 1277,
+    "caseId": "20040113000006",
+    "count": 2143,
+    "shareCount": 0,
+    "representImage": 224344,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-05-26/75b87e10-2b5c-4706-936d-96d32cfea4e9/IMG_1598_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-05-26/75b87e10-2b5c-4706-936d-96d32cfea4e9/IMG_1598.jpg",
+        "name": "IMG_1598"
+    },
+    "caseName": "大溪和平路Kenko",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "Kenko 為兩落一過水的規模，為土埆壁及磚牆混合構造。局部使用鋼筋混凝土補強。原屋主從事建築業，因此立面相當華麗精緻，以洗石子工法仿石雕，並採仿柯林斯式的西式柱頭（日治時期稱「白菜頭」）。山牆中央題名「Kenko」，可能意指「堅固」或「健康」，異國風情十足。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "古市街類",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1073962249000,
+    "officialDocNo": "府文資字第0930534224號",
+    "documents": [
+        {
+            "fileid": 184734,
+            "name": "府文資字第10303236382號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-09-21/ff378356-d104-4b1b-969a-ae6d33204214/府文資字第10303236382號.pdf"
+        },
+        {
+            "fileid": 184735,
+            "name": "府文資字第0930534224號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-09-21/19c5f91f-359b-4aad-9e71-85082481e564/府文資字第0930534224號.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "具有保存價值",
+    "lawsReference": "文化資產保存法第二十七條之一、歷史建築登錄輔助辦法第七條\n桃園縣九十二年九月十五日召開之歷史建築登錄審查會議決議",
+    "govInstitutionCode": "330",
+    "govInstitutionName": "桃園市政府",
+    "belongCityId": 5,
+    "belongCityName": "桃園市",
+    "belongDistName": "大溪區",
+    "govInstitution": "桃園市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-3322592分機8612",
+    "govDeptAddress": "桃園市桃園區縣府路21號",
+    "cadasters": [
+        {
+            "fileid": 184738,
+            "name": "地籍資料.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-09-21/e46e6cf4-3ba4-47e9-a56d-9f1f2a1998c3/地籍資料.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "桃園市大溪區和平段28地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "頭落為店鋪使用，立面及騎樓保持完整，內部空間已改建。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "桃園市大溪區和平路20號",
+    "isOpenVisit": true,
+    "openUpTime": "",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.2885915651,
+    "latitude": 24.8847245473573,
+    "representImageSource": "桃園市政府文化局",
+    "landScope": "桃園市大溪區和平段28地號，面積計16平方公尺",
+    "selfCoverage": "桃園市大溪區和平路20號騎樓",
+    "addresses": [
+        {
+            "cityName": "桃園市",
+            "distName": "大溪區",
+            "id": 149703,
+            "caseId": 1277,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 510,
+            "address": "和平路20號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "桃園市",
+            "distName": "大溪區",
+            "landNoName": "和平段",
+            "cityLandUseTypeName": "商業區",
+            "id": 207552,
+            "caseId": 1277,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 510,
+            "landNoId": 7662,
+            "landSerialNo": "28",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "area": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 162949,
+            "caseId": 1277,
+            "caseStatus": true,
+            "registerDate": 1073962249000,
+            "officialDocNo": "府文資字第0930534224號",
+            "classificationId": 1
+        },
+        {
+            "id": 162950,
+            "caseId": 1277,
+            "caseStatus": true,
+            "registerDate": 1421078400000,
+            "officialDocNo": "府文資字第10303236382號",
+            "classificationId": 2,
+            "note": "行政改制"
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.28864911011634,24.884964158753466],[121.28869438785668,24.88494976109985],[121.28861703948294,24.88471437653372],[121.28857235004932,24.884726353402385],[121.28864911011634,24.884964158753466],[121.28864911011634,24.884964158753466]]]]},\"properties\":{\"envelope\":{\"left\":\"121.28857235004932\",\"top\":\"24.884714376533719\",\"right\":\"121.28869438785668\",\"bottom\":\"24.884964158753466\"},\"landLot\":\"桃園市大溪區和平段28\"}}],\"notfound\":[]}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": "桃園市文化資產導覽手冊"
+}

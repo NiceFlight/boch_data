@@ -1,0 +1,103 @@
+{
+    "id": 16029,
+    "caseId": "20180731000013",
+    "count": 227,
+    "shareCount": 0,
+    "representImage": 49369,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-07-31/518b47b7-a69c-48ef-8e59-fad76b3fe9e5/12-031IMG_0276_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-07-31/518b47b7-a69c-48ef-8e59-fad76b3fe9e5/12-031IMG_0276.jpg",
+        "name": "12-031IMG_0276"
+    },
+    "caseName": "馬公觀音亭--澤沛春生楹聯",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1529997652107,
+    "officialDocNo": "府授文博字第1073701874號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者"
+    ],
+    "registerReason": "（1）具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：具歷史、詩詞對聯之文化價值。\n（2）具有地方重要人物或歷史事件之深厚淵源者：具備。\n（3）能反映政治、經濟、社會、人文、科學等歷史變遷或時代特色者：具特定歷史意義。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2、3款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00681-P-M017-031",
+    "amount": 2,
+    "notes": "蔣鏞，「字懌弇，湖北黃梅人，嘉慶七年成進士……道光元年，借補澎湖通判。慈惠愛民，與武弁和衷相濟；尤喜栽培士類」，蔣鏞樂心地方事務政通人和，於道光年間任通判期間參與多處廟宇之修建。 1826（道光6）年，「通判蔣鏞會同協鎮孫得發、左右營遊擊黃步青、林廷福倡捐，擇觀音亭東邊舊廂屋四間拆建（龍王廟）」。",
+    "descAge": "1823年",
+    "descSize": "寬23公分/ 高160公分",
+    "descMaterial": "木",
+    "reserveStatusDesc": "直長型木直楹聯，全施豬肝色漆，對連平底陰刻行楷圓施金，上下款陰刻楷書似有施墨。上聯「澤沛楊枝頻年沐西天法雨」，旁款「道光三年季秋穀旦」；下聯「春生蓮座到處被南海慈雲」，後題「侯補知州借補澎湖通判蔣鏞敬書」。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "時間：1823年     捐贈者：候補知州借補澎湖通判蔣鏞敬書",
+    "saveEnvironment": 2,
+    "reserveStatus": "觀音亭左廂房",
+    "documents": [
+        {
+            "fileid": 49368,
+            "name": "11_澤沛春生楹聯公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-07-31/5b218d18-e51f-4443-a46b-9feb09804f4b/11_澤沛春生楹聯公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.561958,
+    "latitude": 23.567663,
+    "representImageSource": "澎湖縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "觀音亭管理委員會",
+            "keepName": "王順輝",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "馬公觀音亭",
+            "keepAddressNew": "澎湖縣馬公市中興里介壽路7號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "澎湖縣",
+            "keepNameDistName": "馬公市",
+            "keepNameAddress": "中興里介壽路7號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 127681,
+            "caseId": 16029,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "中興里介壽路7號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 138604,
+            "caseId": 16029,
+            "caseStatus": true,
+            "registerDate": 1529997652107,
+            "officialDocNo": "府授文博字第1073701874號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

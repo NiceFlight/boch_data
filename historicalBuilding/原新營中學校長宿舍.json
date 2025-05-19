@@ -1,0 +1,107 @@
+{
+    "id": 15896,
+    "caseId": "20180702000001",
+    "count": 2682,
+    "shareCount": 4,
+    "representImage": 164310,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-05-19/732950f9-c2bd-43bc-bb7e-3664c48dd559/歷058原新營中學校長宿舍_P001CUT_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-05-19/732950f9-c2bd-43bc-bb7e-3664c48dd559/歷058原新營中學校長宿舍_P001CUT.jpg",
+        "name": "歷058原新營中學校長宿舍_P001CUT"
+    },
+    "caseName": "原新營中學校長宿舍",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "宿舍",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1517500800000,
+    "officialDocNo": "府文資處字第1070155418B號",
+    "documents": [
+        {
+            "fileid": 164307,
+            "name": "原新營中學校長宿舍公告-107.02.02.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-19/04da0a0d-ecf3-4c39-aacc-b7c62af9612b/原新營中學校長宿舍公告-107.02.02.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "具建築史或技術史之價值者：新營高中前身為成立於民國35年之臺南縣新營初級中學，校園內建築多經改建，此建築興建於民國57年，作為當時臺灣省立新營中學校長宿舍使用，保存至今，係新營高中校園內僅存之具歷史意義建物。建築形式簡潔，具1950年代戰後宿舍類型建築之代表性；又其正立面有大面弧形格子開窗，及八角窗等細部設計，造型頗為優美。",
+    "lawsReference": "歷史建築紀念建築登錄廢止審查及輔助辦法第2條第1項第2款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "新營區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 48820,
+            "name": "EpaperPDF建號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2018-07-02/94feb2f4-4a57-4f28-b5a9-b6ae71e6873e/EpaperPDF建號.pdf"
+        },
+        {
+            "fileid": 48821,
+            "name": "EpaperPDF.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2018-07-02/dcdc1496-125a-4193-a311-8bb76eab8dc2/EpaperPDF.pdf"
+        },
+        {
+            "fileid": 48822,
+            "name": "EpaperPDF圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2018-07-02/f3da2a3d-0de5-4bcc-9909-43a07bca615a/EpaperPDF圖.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺南市新營區南新段847地號",
+    "buildingFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "bulkTransfer": 0,
+    "wenSitename": "國立新營高級中學",
+    "wenSiteaddress": "https://w3.hysh.tn.edu.tw/www/",
+    "belongAddress": "臺南市新營區民權路101號",
+    "isOpenVisit": false,
+    "openUpTime": "請洽國立新營高級中學",
+    "isOpenDownload": false,
+    "longitude": 120.31203529999993,
+    "latitude": 23.3083164,
+    "representImageSource": "臺南市政府",
+    "landScope": "臺南市新營區南新段847地號（部分，西南兩側以圍牆為界，東側以地籍圖之地籍線為界，北側以白色矮墩為界）",
+    "selfCoverage": "臺南市新營區南新段417建號之宿舍",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "新營區",
+            "id": 82717,
+            "caseId": 15896,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1626,
+            "address": "臺南市新營區民權路101號"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 88851,
+            "caseId": 15896,
+            "caseStatus": true,
+            "registerDate": 1517500800000,
+            "officialDocNo": "府文資處字第1070155418B號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"臺南市新營區南新段847地號\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": ""
+}

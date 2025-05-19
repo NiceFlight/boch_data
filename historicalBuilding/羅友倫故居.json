@@ -1,0 +1,114 @@
+{
+    "id": 2074,
+    "caseId": "20150810000001",
+    "count": 3551,
+    "shareCount": 6,
+    "representImage": 162527,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/c29476d7-43dc-425e-8a1a-bb047f548b70/9cd1a4a0-1244-4ad3-ab0a-62b0b35fbd00_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/c29476d7-43dc-425e-8a1a-bb047f548b70/9cd1a4a0-1244-4ad3-ab0a-62b0b35fbd00.jpg",
+        "name": "9cd1a4a0-1244-4ad3-ab0a-62b0b35fbd00"
+    },
+    "caseName": "羅友倫故居",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "羅友倫先生為政府遷臺後首任陸軍軍官學校校長，後歷任憲兵司令、駐薩爾瓦多共和國大使、總統府國策顧問等軍政要職。本建物係1960年代國防部拆除原日式木構建築，於原有房舍基礎上改建而成。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 162528,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/b84777a4-7270-41a6-9cfa-c4a5abfa3793/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1.羅友倫先生為政府遷臺後首任陸軍軍官學校校長，後歷任憲兵司令、駐薩爾瓦多共和國大使、總統府國策顧問等軍政要職。1950、1960年代本區為美軍宿舍主要分佈區域，並有多位高階將軍宿舍集中分布於此處。羅友倫故居為該區僅存國軍官舍，具見證名人故居之價值及中美協防歷史。\r\n2.本建物係1960年代國防部拆除原日式木構建築，於原有房舍基礎上改建而成。建築主入口面北，內部客廳有壁爐，後方有一大型集會空間，符合公共聚會需要，入口門柱及門廊使用具地方特色之番仔砌石材貼飾，現況保存尚稱良好。",
+    "lawsReference": "歷史建築登錄廢止審查及輔助辦法第2條第1項第1、4款評定基準",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 162529,
+            "name": "10788a79-7985-4923-8fd7-286a240a9535.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/5129b221-d4d1-4315-b1cc-13c83edaf3cd/10788a79-7985-4923-8fd7-286a240a9535.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市士林區天母段三小段105地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.5282802,
+    "latitude": 25.1224072,
+    "representImageSource": "文化局",
+    "landScope": "臺北市士林區天母段三小段105地號部分",
+    "selfCoverage": "實際保存面積須以保存範圍實測數據為準",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 78330,
+            "caseId": 2074,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "中山北路7段81巷45號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "天母段三小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 82795,
+            "caseId": 2074,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 498,
+            "landSerialNo": "105",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 1,
+            "area": "3,705平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 84017,
+            "caseId": 2074,
+            "caseStatus": true,
+            "registerDate": 1439136000000,
+            "officialDocNo": "北市文化文資字第10430426800號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

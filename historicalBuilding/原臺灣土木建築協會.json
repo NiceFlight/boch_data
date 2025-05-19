@@ -1,0 +1,102 @@
+{
+    "id": 17662,
+    "caseId": "20200623000001",
+    "count": 2583,
+    "shareCount": 1,
+    "representImage": 200715,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/dc9ee165-9f73-4c0e-803d-88acdafa8b4f/代表圖像_原臺灣土木建築協會_20220729_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/dc9ee165-9f73-4c0e-803d-88acdafa8b4f/代表圖像_原臺灣土木建築協會_20220729.jpeg",
+        "name": "代表圖像_原臺灣土木建築協會_20220729"
+    },
+    "caseName": "原臺灣土木建築協會",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "建物曾由臺灣區綜合營造業同業公會做為辦公空間使用，後續歷史建築應依保存法規定予以管理維護。",
+    "assetsTypeNames": "辦公廳舍",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 69774,
+            "name": "歷史建築原臺灣土木建築協會公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/24631057-e0bd-4201-b82d-8e82bd278bc7/歷史建築原臺灣土木建築協會公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "1.本建物落成於日治時期，曾為日治時期「臺灣土木建築協會」使用，自1978年起由臺灣區綜合營造業同業公會取得產權並予使用，見證日治時期至今臺灣營造業發展歷史。\n2.本建物曾於1945年因美軍空襲造成部分損毀，為臺北舊城區少數歷經二戰末期美軍轟炸後，留存至今之空間實體，見證臺北城市發展史價值。\n3.建物入口門廳之樓梯間為大型挑空型態，1樓、2樓南向室內天花板挑高，立面以大面開窗採光，整體設計風格具聚會所之特色。\n",
+    "lawsReference": "符合歷史建築紀念建築登錄廢止審查及輔助辦法第2條第1項第1、2、3款登錄基準。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 69775,
+            "name": "歷史建築原臺灣土木建築協會公告_地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/69f33d44-8acc-4559-9f68-533ba475e772/歷史建築原臺灣土木建築協會公告_地籍圖.jpg"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": true,
+    "longitude": 121.5099849182178,
+    "latitude": 25.044717488861878,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市中正區城中段一小段795地號(部分)",
+    "selfCoverage": "231.08平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 105827,
+            "caseId": 17662,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "延平南路84巷2號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "城中段一小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 130073,
+            "caseId": 17662,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 146,
+            "landSerialNo": "795",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "area": "288",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 113433,
+            "caseId": 17662,
+            "caseStatus": true,
+            "registerDate": 1590681600000,
+            "officialDocNo": "北市文化文資字第10930208971號",
+            "classificationId": 1,
+            "note": "臺北市政府文化局公告"
+        }
+    ],
+    "openVisitType": ""
+}

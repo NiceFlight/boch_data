@@ -1,0 +1,140 @@
+{
+    "id": 1676,
+    "caseId": "20090824000001",
+    "count": 2759,
+    "shareCount": 0,
+    "representImage": 158424,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-04-08/24a8be61-c3c8-4d63-8499-db44d39e4850/歷034七股頂山鹽警槍樓_P007_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-04-08/24a8be61-c3c8-4d63-8499-db44d39e4850/歷034七股頂山鹽警槍樓_P007.jpg",
+        "name": "歷034七股頂山鹽警槍樓_P007"
+    },
+    "caseName": "七股頂山鹽警槍樓",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "產業",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1251076054000,
+    "officialDocNo": "府文資字第0980199845A號",
+    "documents": [
+        {
+            "fileid": 158420,
+            "name": "七股頂山鹽警槍樓公告98.8.24.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-08/7b5f109f-cfdb-4262-aafd-5c76244f1b56/七股頂山鹽警槍樓公告98.8.24.pdf"
+        },
+        {
+            "fileid": 158422,
+            "name": "原寶公學校本館、七股頂山鹽警槍樓補充及變更公告107.2.19.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-08/4e110681-015c-4b11-a21a-1eb0f4360c56/原寶公學校本館、七股頂山鹽警槍樓補充及變更公告107.2.19.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "具地區性建造物類型之特色者：該槍樓位於鹽田區域範圍內，與鹽田水域景觀相契合，形成完整之鹽田風貌，見證鹽業專賣，駐警防衛鹽田的歷史。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第3款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "七股區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569 ",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 53914,
+            "name": "EpaperPDF.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2019-01-08/07125804-d3de-4c11-96ca-6e1b7c6683b0/EpaperPDF.pdf"
+        },
+        {
+            "fileid": 53915,
+            "name": "EpaperPDF圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2019-01-08/d34bef5d-cf38-44fb-8fe3-169a6be493af/EpaperPDF圖.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 2,
+    "nonCityLandUseTypeName": "一般農業區",
+    "nonCityLandUseSubTypeId": 8,
+    "nonCityLandUseSubTypeName": "鹽業",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺南市七股區頂山子段91-75地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "belongAddress": "臺南市七股區頂山里東南郊(南25)",
+    "isOpenVisit": false,
+    "openUpTime": "全日開放",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.116814987143,
+    "latitude": 23.1782473841331,
+    "representImageSource": "臺南市政府",
+    "landScope": "臺南市七股區頂山子段91-75地號（部份，以本體四周延伸5m為界）",
+    "selfCoverage": "槍樓一棟",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "七股區",
+            "id": 82721,
+            "caseId": 1676,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1622,
+            "address": "頂山里東南郊"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺南市",
+            "distName": "七股區",
+            "landNoName": "頂山子段",
+            "id": 91706,
+            "caseId": 1676,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1622,
+            "landNoId": 3176,
+            "landSerialNo": "91-75地號",
+            "coverageId": 1,
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 88855,
+            "caseId": 1676,
+            "caseStatus": true,
+            "registerDate": 1251076054000,
+            "officialDocNo": "府文資字第0980199845A號",
+            "classificationId": 1
+        },
+        {
+            "id": 88856,
+            "caseId": 1676,
+            "caseStatus": true,
+            "registerDate": 1545185809102,
+            "officialDocNo": "府文資處字第1071386545A號",
+            "classificationId": 2
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"臺南市七股區頂山子段91-75地號\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": ""
+}

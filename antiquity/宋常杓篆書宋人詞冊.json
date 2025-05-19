@@ -1,0 +1,102 @@
+{
+    "id": 15333,
+    "caseId": "20171122000008",
+    "count": 471,
+    "shareCount": 0,
+    "representImage": 46895,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2017-11-22/42a30922-cc4f-4b52-9a27-a3d517a2c8e6/宋常杓篆書宋人詞冊1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2017-11-22/42a30922-cc4f-4b52-9a27-a3d517a2c8e6/宋常杓篆書宋人詞冊1.jpg",
+        "name": "宋常杓篆書宋人詞冊1"
+    },
+    "caseName": "宋常杓篆書宋人詞冊",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1509604258196,
+    "officialDocNo": "文授資局物字第10630122631號",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "常杓（13世紀初），生平待考。本作款署，書於南宋理宗寶慶三年（1227）。後有明張寧（活動於1554-1588）成化庚子（1480）跋。共分三段，第一段以小篆書蘇軾〈哨遍〉。第二段用的是銅器銘文作〈盤谷序〉，筆畫起始與終止較細，中段較粗。第三段小篆寫「紅白蓮詞」。小篆擬唐代李陽冰，圓勁而有古風。本作集合小篆、鐘鼎文，體例特殊，整篇結構勻整，為常杓傳世孤本。小篆書法自秦相李斯以後，唐代李陽冰是又一座高峰。宋代篆書的主要成就在小篆，有其新面目，宋代也是篆書再一度的高峰，本件視為宋代的代表之一。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第1項第4、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故書000152",
+    "amount": 10,
+    "descAge": "宋",
+    "descCreator": "常杓",
+    "descSize": "24.5公分x11.1公分",
+    "descMaterial": "本幅（7開）絹本、後副頁（3開）紙本",
+    "reserveStatusDesc": "此作共分三段，第一段以小篆書蘇軾〈哨徧〉。第二段用的是銅器銘文作〈盤谷序〉，筆畫起始與終止較細，中段較粗。第三段小篆寫「紅白蓮詞」。小篆擬唐李陽冰，圓勁而有古風。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "本幅：絹裂、磨傷損、蟲蛀、傷補、霉傷。裱邊污漬、霉傷。",
+    "documents": [
+        {
+            "fileid": 147511,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-14/5790dc88-b585-49ec-b73a-2e5ba7e9bbde/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69121,
+            "caseId": 15333,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 73245,
+            "caseId": 15333,
+            "caseStatus": true,
+            "registerDate": 1509604258196,
+            "officialDocNo": "文授資局物字第10630122631號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

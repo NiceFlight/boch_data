@@ -1,0 +1,144 @@
+{
+    "id": 5275,
+    "caseId": "20171106000001",
+    "count": 4868,
+    "shareCount": 1,
+    "representImage": 186623,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/ef03e82d-2ec7-4bf0-9c94-c751ef769ec3/代表圖像_總督府農業試驗所昆蟲部_20220614_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/ef03e82d-2ec7-4bf0-9c94-c751ef769ec3/代表圖像_總督府農業試驗所昆蟲部_20220614.jpg",
+        "name": "代表圖像_總督府農業試驗所昆蟲部_20220614"
+    },
+    "caseName": "總督府農業試驗所昆蟲部",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "總督府農業試驗所昆蟲部原為總督府農事試驗場，昆蟲部廳舍代表當時在農業上昆蟲研究之重要性。同時，本建物是農試所現存之重要建築，見證臺灣農業研究及農作物病蟲害防治之發展史。",
+    "assetsTypeNames": "衙署",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 145057,
+            "name": "01古蹟公告-總督府農業試驗所昆蟲部.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/8c8a1ef6-8e92-4e3b-9d56-76e2e775160c/01古蹟公告-總督府農業試驗所昆蟲部.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "具建築史上之意義，有再利用之價值及潛力者",
+        "具其他古蹟價值者"
+    ],
+    "registerReason": "1.總督府農業試驗所昆蟲部原為總督府農事試驗場，昆蟲部廳舍代表當時在農業上昆蟲研究之重要性。同時，本建物是農試所現存之重要建築，見證臺灣農業研究及農作物病蟲害防治之發展史。\n2.建物為一層磚造，平面呈「回」字形，外有磚拱迴廊，內部天花有通風口，有大面積上下推拉窗，通風採光佳，為日治初期之重要代表性建築。\n3.符合古蹟指定及廢止審查辦法第2條第1項第1、5、6款評定基準。",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、5、6款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 16470,
+            "name": "01總督府農業試驗所昆蟲部（地形圖+地籍圖）.gif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2017-11-06/982be082-3df5-4bac-aa94-c24d3dce728f/01總督府農業試驗所昆蟲部（地形圖+地籍圖）.gif"
+        }
+    ],
+    "locationLandNo": "古蹟本體為總督府農業試驗所昆蟲部建築本體，建物無建號登記，古蹟本體面積為833.74平方公尺。建築物座落土地為大安區辛亥段五小段250(部分)（該筆地號土地面積6,806平方公尺）、245(部分)（該筆地號土地面積27,103平方公尺）、245-2 （該筆地號土地面積232平方公尺）地號等3筆土地。（實際保存面積須以保存範圍實測數據為準）",
+    "bulkTransfer": 1,
+    "longitude": 121.54019,
+    "latitude": 25.01096,
+    "representImageSource": "臺北市文化局",
+    "landScope": "古蹟本體為總督府農業試驗所昆蟲部建築本體，建物無建號登記，古蹟本體面積為833.74平方公尺。建築物座落土地為大安區辛亥段五小段250(部分)（該筆地號土地面積6,806平方公尺）、245(部分)（該筆地號土地面積27,103平方公尺）、245-2 （該筆地號土地面積232平方公尺）地號等3筆土地。（實際保存面積須以保存範圍實測數據為準）",
+    "selfCoverage": "總督府農業試驗所昆蟲部建築本體",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 93426,
+            "caseId": 5275,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "臺北市大安區羅斯福路四段113巷21號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "辛亥段五小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 114999,
+            "caseId": 5275,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 763,
+            "landSerialNo": "250",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "6806平方公尺",
+            "cityLandUseTypeOther": "學校用地",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "辛亥段五小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 115000,
+            "caseId": 5275,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 763,
+            "landSerialNo": "245",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "27103平方公尺",
+            "cityLandUseTypeOther": "學校用地",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "辛亥段五小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 115001,
+            "caseId": 5275,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 763,
+            "landSerialNo": "245-2",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "232平方公尺",
+            "cityLandUseTypeOther": "學校用地",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 100849,
+            "caseId": 5275,
+            "caseStatus": true,
+            "registerDate": 1507219200000,
+            "officialDocNo": "北市文化文資字第10630519700號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

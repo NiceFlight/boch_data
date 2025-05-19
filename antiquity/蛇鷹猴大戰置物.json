@@ -1,0 +1,95 @@
+{
+    "id": 18217,
+    "caseId": "20201217000027",
+    "count": 127,
+    "shareCount": 0,
+    "representImage": 90088,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-12-17/9cd11237-d78f-492d-b8d6-76288bd00c59/17_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-12-17/9cd11237-d78f-492d-b8d6-76288bd00c59/17.jpg",
+        "name": "17"
+    },
+    "caseName": "蛇鷹猴大戰置物",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1606376418660,
+    "officialDocNo": "北市獻編字第1093004298號",
+    "judgeCriteria": [
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "作工精緻藝術性高，圓柱型雕刻鷹猴蛇的細刻手法甚為純熟，具有工藝特色及藝術造詣。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174-1號",
+    "reservationCode": "17",
+    "amount": 1,
+    "descAge": "日本大正時期",
+    "descSize": "高 21.5 公分",
+    "descMaterial": "象牙",
+    "reserveStatusDesc": "以細密象牙為材，包漿醇厚，米黃色澤古雅，雕琢一場精彩的蛇鷹猴大戰。雕件主體為一截虯曲枯木，樹紋雕琢細膩。頂端雕雄鷹，鷹首飽滿修長，尖喙，肩略聳起，雙翅豐滿張開，羽毛層次清晰分明，於樹梢頂端撲擊而下。一尾粗壯蟒蛇沿著枯幹蜿蜒而上，蛇眼銳利，充滿肅殺之氣。四周有數隻獼猴穿插其中，樣貌靈巧聰慧，姿態活潑生動，似在為蟒蛇助陣，共同抵禦蒼鷹。整體構圖繁雜，各種動物的肢體動作、表情神態皆刻劃細膩傳神，並施以大量鏤雕技法，完美的表現出三種動物之間的層次關係，且明顯可感受到凝聚其中的緊繃氣氛，工藝之精巧令人讚嘆。\n本品所雕雄鷹應為「食猿鵰」，也稱作食猴鵰，此種鵰體態強健，相貌兇狠，捕殺森林中的各種猴子、犀鳥、鼯鼠、蛇、貓等動物，由樹棍和細枝構成，位於粗枝的分叉處，主要在高於四周的樹木上築巢。藝術家透過仔細的觀察，以大自然獵食的場景為啟發，適度加入想像力，使畫面更加具有戲劇張力，並以高等象牙為材，顯露藝術家高深的雕琢技藝。作者生平不詳。",
+    "pastHistorySource": 1,
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定。保存良好。",
+    "documents": [
+        {
+            "fileid": 90087,
+            "name": "臺北市公告指定一般古物1091126.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-17/2daa49a2-acee-4dfe-8db1-09be99a21f53/臺北市公告指定一般古物1091126.pdf"
+        }
+    ],
+    "keepNames": [
+        {
+            "keepNameIdStr": "郭○穎",
+            "keepName": "郭○穎",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "郭○穎",
+            "keepAddressNew": "臺北市中正區重慶南路二段15號7樓",
+            "saveSpaceOther": "庫房",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "大安區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 7832,
+            "caseId": 18217,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 7832,
+            "caseId": 18217,
+            "caseStatus": true,
+            "registerDate": 1606376418660,
+            "officialDocNo": "北市獻編字第1093004298號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

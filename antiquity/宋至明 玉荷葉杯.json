@@ -1,0 +1,101 @@
+{
+    "id": 3820,
+    "caseId": "20140421000034",
+    "count": 291,
+    "shareCount": 0,
+    "representImage": 6620,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39169/photo/pic053_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39169/photo/pic053.jpg",
+        "name": "pic053"
+    },
+    "caseName": "宋至明 玉荷葉杯",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1398009600000,
+    "officialDocNo": "文資物字第10320043691號",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "品質精良且數量稀少"
+    ],
+    "registerReason": "此件玉荷葉杯，黃綠色玉，通體染成褐黃，部份現灰白斑。器形如枯槁而包闔起的荷葉，呈上寬下斂的三角形。外壁以雙陰線刻劃出葉脈。葉梗從底部中心開始彎繞，後順勢上揚至杯側，兼具圈足及杯把之功能。\r\n此器造形可溯浙江衢州南宋史繩祖墓出土之玉荷葉杯。而在明陳洪綬〈畫隱居十六冊－晨飲〉圖中，東坡先生所執之器，亦與此器形同。\r\n此器設計巧妙，線條與韻味充分傳達宋、明以來的文人品味。搭配清宮精緻木座，尤其展現其清雅。本器亦為國立故宮博物院極受眾人喜愛的文物之一。多次國外借展均獲選展出，可見其煥發的美感，足以跨越不同的文化族群，具有普世的價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第4、5款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故玉001859",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋至明",
+    "descSize": "長：15.2（公分）",
+    "descMaterial": "玉",
+    "reserveStatusDesc": "質材：黃綠色玉，通體染成褐黃，部份現灰白斑。\r\n形制：雕如枯槁而包闔起的荷葉，呈上寬下斂的三角形。外壁以雙陰線刻劃出葉脈。葉梗從底部中心開始彎繞，後順勢上揚至杯側，兼具圈足及杯把之功能。\r\n其他：本器附鏤雕成一把蓮狀之紫檀木座。\r\n參考：造形可溯浙江衢州南宋史繩祖墓出土之玉荷葉杯。在明陳洪綬〈畫隱居十六冊－晨飲〉圖中東坡先生所執之器，其形與此器同。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。有玉璺。木座傷缺、缺補、斷接。",
+    "documents": [
+        {
+            "fileid": 150269,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-13/0d54811c-6d6e-4141-be2b-3745f4efcc91/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70889,
+            "caseId": 3820,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75165,
+            "caseId": 3820,
+            "caseStatus": true,
+            "registerDate": 1398009600000,
+            "officialDocNo": "文資物字第10320043691號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

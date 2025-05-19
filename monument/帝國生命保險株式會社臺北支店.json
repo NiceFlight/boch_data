@@ -1,0 +1,136 @@
+{
+    "id": 53,
+    "caseId": "19980504000006",
+    "count": 3193,
+    "shareCount": 4,
+    "representImage": 168004,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/17474a9d-b7a3-4f79-835d-b9d41ba1a0a6/代表圖像_帝國生命保險株式會社臺北支店_20220601_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/17474a9d-b7a3-4f79-835d-b9d41ba1a0a6/代表圖像_帝國生命保險株式會社臺北支店_20220601.jpeg",
+        "name": "代表圖像_帝國生命保險株式會社臺北支店_20220601"
+    },
+    "caseName": "帝國生命保險株式會社臺北支店",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "本建築原為日據時期保險公司帝國生命保險株式會社興建的商業辦公建築，光復後並經外交部、臺灣銀行等機關使用，在臺灣近代歷史有其象徵意義。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "舊廈",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 145136,
+            "name": "87年公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/05b57f09-8d1d-4779-a0f7-31875235cf6f/87年公告.pdf"
+        },
+        {
+            "fileid": 145139,
+            "name": "104年公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/33fd0712-a568-405a-8569-5546dd278c02/104年公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "各時代表現地方營造技術流派特色者"
+    ],
+    "registerReason": "一、本建築原為日據時期保險公司帝國生命保險株式會社興建的商業辦公建築，光復後並經外交部、臺灣銀行等機關使用，在臺灣近代歷史有其象徵意義。\n二、其外觀採垂直列柱與水平壓簷，為當時流行的紀念主義風格，長窗、平拱、面磚等細部作法簡潔，具建築價值。",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 109395,
+            "name": "無.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/a001c09a-2722-4d0b-a661-f4fedbe45aa8/無.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 4,
+    "cityLandUseTypeName": "行政區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "台北市城中段二小段567、568地號",
+    "buildingFeatures": "可列為一九三０年代辦公大樓之代表。",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "臺灣銀行使用。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.511307,
+    "latitude": 25.041559,
+    "representImageSource": "臺北市文化局",
+    "landScope": "台北市城中段二小段567、568地號",
+    "selfCoverage": "博愛路162號建築本體",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 81976,
+            "caseId": 53,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "博愛路162號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "城中段二小段",
+            "id": 90571,
+            "caseId": 53,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 147,
+            "landSerialNo": "567",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "城中段二小段",
+            "id": 90572,
+            "caseId": 53,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 147,
+            "landSerialNo": "568",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 88125,
+            "caseId": 53,
+            "caseStatus": true,
+            "registerDate": 894211200000,
+            "officialDocNo": "府民三字第8702427101號",
+            "classificationId": 1,
+            "note": "指定古蹟"
+        },
+        {
+            "id": 88126,
+            "caseId": 53,
+            "caseStatus": true,
+            "registerDate": 1421078400000,
+            "officialDocNo": "北市文化文資字第10330324900號",
+            "classificationId": 2,
+            "note": "修正公告名稱"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false,
+    "pastHistorySource": ""
+}

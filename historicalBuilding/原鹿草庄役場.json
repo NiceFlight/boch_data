@@ -1,0 +1,103 @@
+{
+    "id": 22751,
+    "caseId": "20240603000001",
+    "count": 199,
+    "shareCount": 0,
+    "representImage": 258209,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-06-03/8a0c6f0a-6335-454f-91ec-f1c2a4cfb51f/LINE_ALBUM_嘉義縣113年第一次文化資產審議會現勘_240327_20_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-06-03/8a0c6f0a-6335-454f-91ec-f1c2a4cfb51f/LINE_ALBUM_嘉義縣113年第一次文化資產審議會現勘_240327_20.jpg",
+        "name": "LINE_ALBUM_嘉義縣113年第一次文化資產審議會現勘_240327_20"
+    },
+    "caseName": "原鹿草庄役場",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "創建： 1936年代\n竣工： 1936年代\n",
+    "assetsTypeNames": "衙署",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 258207,
+            "name": "SHARP_20240603_095507.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-06-03/60711103-e5ec-401d-a9b9-403288b720c8/SHARP_20240603_095507.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "１、表現地域風貌或民間藝術特色者：建物為鹿草鄉指標建築，見證日治時期地方制度及日治時期建築工藝之價值。\n２、具建築史或技術史之價值者：建於昭和11年(1936年)之鹿草庄役場建物，雖其前門之兩庇及後門，北側門皆經改建，但主結構不變，建築年代亦有棟札見證，披水屋頂、線腳優美，見證其建築史發展。\n３、具地區性建造物類型之特色者：建物見證日治時代背景及營造工法，具文化資產價值。",
+    "lawsReference": "「文化資產保存法」第18條\n「歷史建築紀念建築登錄廢止審查及輔助辦法」第2、4、5條",
+    "govInstitutionCode": "612",
+    "govInstitutionName": "嘉義縣政府",
+    "govInstitution": "嘉義縣文化觀光局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "05-3628123*317",
+    "govDeptAddress": "嘉義縣太保市太子大道158號",
+    "cadasters": [
+        {
+            "fileid": 258208,
+            "name": "測繪圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2024-06-03/3250f5e9-8f43-4530-bf09-cd4040d9b246/測繪圖.pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isOpenDownload": false,
+    "longitude": 120.308511,
+    "latitude": 23.411297,
+    "representImageSource": "現勘拍攝",
+    "landScope": "嘉義縣鹿草鄉鹿南段258地號",
+    "selfCoverage": "嘉義縣鹿草鄉鹿南段258地號",
+    "addresses": [
+        {
+            "cityName": "嘉義縣",
+            "distName": "鹿草鄉",
+            "id": 136028,
+            "caseId": 22751,
+            "caseStatus": true,
+            "cityId": 15,
+            "distId": 1508,
+            "address": "長壽路226巷3號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "嘉義縣",
+            "distName": "鹿草鄉",
+            "landNoName": "鹿南段",
+            "noncityLandUseTypeName": "特定專用區",
+            "id": 199132,
+            "caseId": 22751,
+            "caseStatus": true,
+            "cityId": 15,
+            "distId": 1508,
+            "landNoId": 12922,
+            "landSerialNo": "258地號",
+            "landownership": 1,
+            "noncityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "225平方公尺",
+            "note": "",
+            "cityLandUseId": 2
+        }
+    ],
+    "announces": [
+        {
+            "id": 148533,
+            "caseId": 22751,
+            "caseStatus": true,
+            "registerDate": 1716950188263,
+            "officialDocNo": "府授文資字第11301344391號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"嘉義縣鹿草鄉鹿南段258地號\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "openVisitType": "",
+    "pastHistorySource": " "
+}

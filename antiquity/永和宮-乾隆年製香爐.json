@@ -1,0 +1,105 @@
+{
+    "id": 16146,
+    "caseId": "20180912000015",
+    "count": 590,
+    "shareCount": 1,
+    "representImage": 50032,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-09-12/d25055c8-3065-437d-be73-2abd17b341c8/10 永和宮-乾隆年製香爐_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-09-12/d25055c8-3065-437d-be73-2abd17b341c8/10 永和宮-乾隆年製香爐.jpg",
+        "name": "10 永和宮-乾隆年製香爐"
+    },
+    "caseName": "永和宮-乾隆年製香爐",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1473327572800,
+    "officialDocNo": "府授文資遺字第10501861751號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.正面沿側壁陰刻「乾隆辛亥年大肚宮弟子周望德敬立」，顯示當時地方信仰之石雕工藝。\n2.見證永和宮舊名「大肚宮」，可能當時為大肚社後裔仍與漢人混居於此，距史載拍瀑拉族在嘉慶、道光年間才東遷至埔里地區，具族群興替之文化意義。\n",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第1、2、3、4、5、6款",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "大肚區",
+    "govInstitution": "臺中市文化資產處",
+    "govDeptName": "遺址傳藝課",
+    "govDeptPhone": "04-22290280#501",
+    "govDeptAddress": "臺中市南區復興路三段362號R10",
+    "reservationCode": "府授文資遺字第10501861751號",
+    "keepNameId": 72,
+    "keepName": "大肚永和宮",
+    "keepNameNew": 72,
+    "keepAddressNew": "臺中市大肚區永和街11號",
+    "saveSpaceId": 1,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "descAge": "乾隆",
+    "descSize": "寬78公分、深32公分、高37公分",
+    "descMaterial": "石",
+    "reserveStatusDesc": "1.\t四足雕飾獅首，正面腹部浮雕雙鳳朝牡丹紋，壺門飾綬帶紋，腹背浮雕開光卍字紋。\n2.\t正面陰刻「乾隆辛亥年大肚宮弟子周望德敬立」\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 2,
+    "reserveStatus": "完整良好",
+    "documents": [
+        {
+            "fileid": 50033,
+            "name": "10 永和宮-乾隆年製香爐(公告-掃描).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-09-12/88977aff-1be8-4c14-a7ba-862261aef0ae/10 永和宮-乾隆年製香爐(公告-掃描).pdf"
+        }
+    ],
+    "keepNames": [
+        {
+            "keepNameIdStr": "大肚永和宮",
+            "keepName": "大肚永和宮",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "大肚永和宮",
+            "keepAddressNew": "臺中市大肚區永和街11號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2,
+            "keepNameCityName": "臺中市",
+            "keepNameDistName": "大肚區",
+            "keepNameAddress": "永和街11號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "大肚區",
+            "id": 5883,
+            "caseId": 16146,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1022
+        }
+    ],
+    "announces": [
+        {
+            "id": 5883,
+            "caseId": 16146,
+            "caseStatus": true,
+            "registerDate": 1473327572800,
+            "officialDocNo": "府授文資遺字第10501861751號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

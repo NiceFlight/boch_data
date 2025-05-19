@@ -1,0 +1,101 @@
+{
+    "id": 21791,
+    "caseId": "20230619000003",
+    "count": 139,
+    "shareCount": 0,
+    "representImage": 225861,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-06-19/e972f44e-193c-4aac-ac40-4d2839ae29e9/PC2B000003N000000000PAA (2)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-06-19/e972f44e-193c-4aac-ac40-4d2839ae29e9/PC2B000003N000000000PAA (2).jpg",
+        "name": "PC2B000003N000000000PAA (2)"
+    },
+    "caseName": "明王寵千字文 卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "數量特別稀少或具完整性保存意義者",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此書法總體布局疏朗，以拙取巧，頗能表現王寵創作個性和審美意識，帶有樸質天真風骨，具有重要藝術造詣。本件同時也是書畫裝裱重要著作《裝潢志》作者周嘉胄藏品，彌足珍貴，可藉之窺探蘇州裝裱樣式、技術與成就。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第4、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "中書000003N000000000",
+    "amount": 1,
+    "descAge": "明",
+    "descCreator": "王寵",
+    "descSize": "27.8x460.6(cm)",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "王寵（1494－1533），字履仁，後字履吉，號雅宜山人，江蘇長洲人，書風源於王羲之、虞世南，祝允明及蔡羽等人，去世時僅四十歲，其聲名幾與文徵明抗衡。\n本件草書小品頗能表現王寵創作個性和審美意識，其書體初看平正，但實際結字、筆劃皆有變化。此卷總體看來布局疏朗，字體靈秀，有樸拙天真風骨。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "舊傷補。",
+    "documents": [
+        {
+            "fileid": 225858,
+            "name": "公告(彩色_).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-06-19/23952b27-ca1f-4740-84c0-092106f7c6a1/公告(彩色_).pdf"
+        },
+        {
+            "fileid": 225863,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-06-19/1079a1ab-8f00-48e4-b7e2-7f6f8cdf5a42/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 111537,
+            "caseId": 21791,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 120767,
+            "caseId": 21791,
+            "caseStatus": true,
+            "registerDate": 1687161243298,
+            "officialDocNo": "文授資局物字第11230060731號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

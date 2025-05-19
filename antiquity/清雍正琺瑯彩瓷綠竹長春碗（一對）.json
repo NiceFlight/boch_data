@@ -1,0 +1,102 @@
+{
+    "id": 16368,
+    "caseId": "20181114000003",
+    "count": 98,
+    "shareCount": 0,
+    "representImage": 51357,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-11-14/51b3e5a6-c5b3-46aa-b120-f0e31c5498d4/19-008770_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-11-14/51b3e5a6-c5b3-46aa-b120-f0e31c5498d4/19-008770.jpg",
+        "name": "19-008770"
+    },
+    "caseName": "清雍正琺瑯彩瓷綠竹長春碗（一對）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1522425600000,
+    "officialDocNo": "文授資局物字第10730035181號",
+    "judgeCriteria": [
+        "能表現傳統、族群或地方之風俗、記憶及傳說、信仰、技藝或生活文化特色之典型",
+        "具有獨特藝術造詣或科學成就",
+        "獨一無二或不可替代性"
+    ],
+    "registerReason": "生產於宮中造辦處的琺瑯彩瓷，是盛清代表工藝之一。製作精美，傳世數量稀少，紋飾、題材縱有成對，亦無一相同，乾隆朝時便曾降旨分批珍藏。\n此二器外壁一面以赭墨皴擦秀石，石後有碧綠翠竹數叢，竹陰下疏疏開有粉色月季花數朵；一面有墨書「勁節亭亭千尺綠，芳枝長占四時春」二句，詩句前有「鳳采」，後有「彬然」、「君子」共三枚紅料印。器底帶「雍正年製」二行藍料宋體字雙方框款。\n雍正朝是琺瑯彩瓷發展的關鍵階段，此器品質精美，繪製細膩，紋樣結合詩書畫印，展現雍正皇帝的藝術品味。傳世僅有二件，且可對照雍正十年造辦處檔案，和道光十五年七月十一日立乾清宮《琺瑯玻璃宜興磁胎陳設檔案》，益顯珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第4條第1、4、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故瓷008770、故瓷008771",
+    "amount": 2,
+    "descAge": "清　雍正",
+    "descCreator": "",
+    "descSize": "高5.9公分，口徑12公分，底徑4.4公分",
+    "descMaterial": "瓷胎畫琺瑯",
+    "reserveStatusDesc": "此器侈口、深弧壁、圈足。器內無紋，外壁一面以赭墨皴擦秀石，石後有碧綠翠竹數叢交相掩映。石旁竹陰之下，另疏疏開有粉色月季花數朵。外壁一面墨書「勁節亭亭千尺綠，芳枝長占四時春」二句，後一句描述花朵詩句。詩句前有「鳳采」，後有「彬然」（白文）、「君子」共三枚紅料印。器底帶「雍正年製」二行藍料宋體字雙方框款。此件與故瓷008771可能為雍正十二年十二月二十八日造辦處檔案中做得之「綠竹長春大碗一對」。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "良好，惟故瓷008771口緣及足底緣舊傷缺。",
+    "documents": [
+        {
+            "fileid": 147469,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-14/5fe239e0-62df-43ee-aef4-86fbfc0c3249/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 81013,
+            "caseId": 16368,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 87027,
+            "caseId": 16368,
+            "caseStatus": true,
+            "registerDate": 1522425600000,
+            "officialDocNo": "文授資局物字第10730035181號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

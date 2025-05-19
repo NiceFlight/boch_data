@@ -1,0 +1,114 @@
+{
+    "id": 20956,
+    "caseId": "20220823000004",
+    "count": 2056,
+    "shareCount": 3,
+    "representImage": 205360,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/d99a801a-b527-48fa-bfc1-76c20ec8dd2d/代表圖像_懷寧街98號店屋_20221024_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/d99a801a-b527-48fa-bfc1-76c20ec8dd2d/代表圖像_懷寧街98號店屋_20221024.jpeg",
+        "name": "代表圖像_懷寧街98號店屋_20221024"
+    },
+    "caseName": "懷寧街98號店屋",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "/",
+    "assetsTypeNames": "其他設施",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 181134,
+            "name": "1110811懷寧街98號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/54ca5ea8-e14d-4091-af27-9d10017e9b50/1110811懷寧街98號公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具高度歷史、藝術或科學價值者",
+        "表現各時代營造技術流派特色者"
+    ],
+    "registerReason": "１、本建物興建於日治時期，坐落於台北新公園出口衡陽路轉角位置，維繫台北新公園與衡陽路店屋之重要景觀，具都市景觀意義。\n２、建物為四柱三窗牌樓面店屋，有西洋風格之線腳、樑托，二、三樓間外牆柱間有矩形凸出裝飾元素，與衡陽路 2 、 4 號、懷寧街 96 號為同期設計。\n３、符合古蹟指定及廢止審查辦法第 2 條第 1 項第 1 、2 款 指定基準。",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、2款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 181135,
+            "name": "範圍示意圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/8a8a01f9-c91f-47f5-adf1-b12ebbd7aeb5/範圍示意圖.pdf"
+        }
+    ],
+    "bulkTransfer": 1,
+    "longitude": 121.513949,
+    "latitude": 25.04211,
+    "representImageSource": "臺北市文化局",
+    "landScope": "建築物坐落土地 為中正區公園段三小段 228（18 平方公尺 ）、229（52平方公尺）地號等 2 筆土地。",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 127840,
+            "caseId": 20956,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "懷寧街98號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "公園段三小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 175544,
+            "caseId": 20956,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 145,
+            "landSerialNo": "228",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "area": "18",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "公園段三小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 175545,
+            "caseId": 20956,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 145,
+            "landSerialNo": "229",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "area": "52",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 138851,
+            "caseId": 20956,
+            "caseStatus": true,
+            "registerDate": 1660147200000,
+            "officialDocNo": "北市文化文資字第11130294201號函",
+            "classificationId": 1,
+            "note": "/"
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.51393541773511,25.042131231143582],[121.51396972177227,25.042132556976856],[121.51396802557285,25.04208462365014],[121.51393344770888,25.042086548878352],[121.51393541773511,25.042131231143582],[121.51393541773511,25.042131231143582]]]]},\"properties\":{\"xcenter\":121.51395185269085,\"ycenter\":25.04210869332523,\"query\":\"台北市中正區-地號228號\",\"content\":\"1. 個案名稱: 懷寧街98號店屋 <br />\\n      2. 地號: 台北市中正區-地號228號 <br />\\n      3. 級別: 直轄市定古蹟 <br />\\n      4. 種類: 其他設施 <br />\\n      5. 指定登錄理由: １、本建物興建於日治時期，坐落於台北新公園出口衡陽路轉角位置，維繫台北新公園與衡陽路店屋之重要景觀，具都市景觀意義。\\n２、建物為四柱三窗牌樓面店屋，有西洋風格之線腳、樑托，二、三樓間外牆柱間有矩形凸出裝飾元素，與衡陽路 2 、 4 號、懷寧街 96 號為同期設計。\\n３、符合古蹟指定及廢止審查辦法第 2 條第 1 項第 1 、2 款 指定基準。 <br />\\n      6. 最後一筆公告日期: 2022-08-11 <br />\\n      7. 最後一筆公告文號: 北市文化文資字第11130294201號函 <br />\\n      8. 管理單位: 私人 <br />\\n      9. 使用單位: 私人 <br />\\n      10. 建物狀態: 現況良好 <br />\"}},{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.5138477062101,25.042134062380498],[121.51393541773511,25.042131231143582],[121.51393344770888,25.042086548878352],[121.51381137548296,25.04209347130581],[121.5138127107863,25.04210475180934],[121.51382028164666,25.042116552434734],[121.51383356775457,25.042115784239822],[121.51384747641184,25.042126479573817],[121.5138477062101,25.042134062380498],[121.5138477062101,25.042134062380498]]]]},\"properties\":{\"xcenter\":121.51388034665051,\"ycenter\":25.04210980343829,\"query\":\"台北市中正區-地號229號\",\"content\":\"1. 個案名稱: 懷寧街98號店屋 <br />\\n      2. 地號: 台北市中正區-地號229號 <br />\\n      3. 級別: 直轄市定古蹟 <br />\\n      4. 種類: 其他設施 <br />\\n      5. 指定登錄理由: １、本建物興建於日治時期，坐落於台北新公園出口衡陽路轉角位置，維繫台北新公園與衡陽路店屋之重要景觀，具都市景觀意義。\\n２、建物為四柱三窗牌樓面店屋，有西洋風格之線腳、樑托，二、三樓間外牆柱間有矩形凸出裝飾元素，與衡陽路 2 、 4 號、懷寧街 96 號為同期設計。\\n３、符合古蹟指定及廢止審查辦法第 2 條第 1 項第 1 、2 款 指定基準。 <br />\\n      6. 最後一筆公告日期: 2022-08-11 <br />\\n      7. 最後一筆公告文號: 北市文化文資字第11130294201號函 <br />\\n      8. 管理單位: 私人 <br />\\n      9. 使用單位: 私人 <br />\\n      10. 建物狀態: 現況良好 <br />\"}}]}]",
+    "openVisitType": "不開放參觀"
+}

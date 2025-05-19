@@ -1,0 +1,131 @@
+{
+    "id": 16882,
+    "caseId": "20190703000006",
+    "count": 3880,
+    "shareCount": 5,
+    "representImage": 168136,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/68891a20-40f9-4378-9cfa-7bfc97e94c96/代表圖像_雙園街79號_20220601_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/68891a20-40f9-4378-9cfa-7bfc97e94c96/代表圖像_雙園街79號_20220601.jpeg",
+        "name": "代表圖像_雙園街79號_20220601"
+    },
+    "caseName": "雙園街79號",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本建物為五〇年代第一批整建住宅，且為警察局眷屬宿舍區保存較完整者，為公教整建住宅留存之象徵，具見證都市發展之歷史價值。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 134919,
+            "name": "附件_地籍地形圖暨都市計畫土地使用分區圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/a14d05fe-b880-4b65-ab52-63d535935fe6/附件_地籍地形圖暨都市計畫土地使用分區圖.pdf"
+        },
+        {
+            "fileid": 134920,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/7d7180fc-2959-4b10-8b63-f3cb2a09da40/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1.本建物為五〇年代第一批整建住宅，且為警察局眷屬宿舍區保存較完整者，為公教整建住宅留存之象徵，具見證都市發展之歷史價值。\n2.平面格局具特色，每單位四戶，上下各二戶，各有獨立門戶進出，二樓以外露T字型樓梯進出，空間佈局合理，具保存價值。\n3.符合歷史建築紀念建築登錄廢止審查及輔助辦法第2條第1項第2、3款登錄基準。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第2、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 59698,
+            "name": "歷史建築雙園街79號地籍資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2019-07-03/1f519888-753b-4ea3-8f51-782479f5c88b/歷史建築雙園街79號地籍資料.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市萬華區莒光段四小段691地號(部分)、691-1地號",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "longitude": 121.4937051,
+    "latitude": 25.0304642,
+    "representImageSource": " 臺北市文化局",
+    "landScope": "坐落土地為臺北市萬華區莒光段四小段691(部分，該筆土地面積172平方公尺)、691-1(4平方公尺)地號等2筆土地。",
+    "selfCoverage": " ",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "id": 82070,
+            "caseId": 16882,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "address": "臺北市萬華區雙園街79號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "landNoName": "莒光段四小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 90746,
+            "caseId": 16882,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "landNoId": 157,
+            "landSerialNo": "691",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 1,
+            "area": "172平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "landNoName": "莒光段四小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 90747,
+            "caseId": 16882,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "landNoId": 157,
+            "landSerialNo": "691-1",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "4平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 88205,
+            "caseId": 16882,
+            "caseStatus": true,
+            "registerDate": 1560355200000,
+            "officialDocNo": "北市文化文資字第10830247491號",
+            "classificationId": 1,
+            "note": "無"
+        }
+    ],
+    "openVisitType": ""
+}

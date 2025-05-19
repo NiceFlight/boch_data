@@ -1,0 +1,104 @@
+{
+    "id": 16031,
+    "caseId": "20180731000015",
+    "count": 461,
+    "shareCount": 0,
+    "representImage": 49373,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-07-31/bd5e8cfd-b05b-4dd6-b4a1-d17b798032df/12-003IMG_8362_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-07-31/bd5e8cfd-b05b-4dd6-b4a1-d17b798032df/12-003IMG_8362.jpg",
+        "name": "12-003IMG_8362"
+    },
+    "caseName": "馬公觀音亭-薄海蒙庥匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1530000619105,
+    "officialDocNo": "府授文博字第1073701876號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "（1）具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：具地方文化特色。\n（2）具有地方重要人物或歷史事件之深厚淵源者：具備。\n（3）能反映政治、經濟、社會、人文、科學等歷史變遷或時代特色者：具特定歷史意義，並反映當地產物。\n（4）對地方或族群知識、技術或流派發展具影響或意義：具備。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2、3、4款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00681-P-M017- 003",
+    "amount": 1,
+    "notes": "詹功顯（1779－1854）福州府閩縣人，由武生，嘉慶六年任海壇鎮標左營額外外委（從九品），後於福建、臺灣任水師武官，道光23年任浙江提督（從一品）。",
+    "descAge": "1842年",
+    "descSize": "寬約200公分、高約60~70公分",
+    "descMaterial": "木",
+    "reserveStatusDesc": "橫長形木匾，匾面為（二片）拼接，黑漆無框，中行陰刻行書填金題「薄海蒙庥」，上款陰刻「龍飛道光二十一年歲次辛丑荷月榖旦」，款前有印；下款陰刻「協鎮福建澎湖水師等處地方副總兵官詹功顯敬立」，後落二方印款，一為「詹振陽印」陽文方款、與一「鶴峯」。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "時間：1842年    捐贈者：協鎮福建澎湖水師等處地方副總兵官詹功顯敬立",
+    "saveEnvironment": 2,
+    "reserveStatus": "觀音亭軒亭內門楣",
+    "documents": [
+        {
+            "fileid": 49372,
+            "name": "13_薄海蒙庥匾公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-07-31/1e6e9638-0de6-482c-bbc4-757a7d08f302/13_薄海蒙庥匾公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.561958,
+    "latitude": 23.567663,
+    "representImageSource": "澎湖縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "觀音亭管理委員會",
+            "keepName": "王順輝",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "馬公觀音亭",
+            "keepAddressNew": "澎湖縣馬公市中興里介壽路7號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "澎湖縣",
+            "keepNameDistName": "馬公市",
+            "keepNameAddress": "中興里介壽路7號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 127679,
+            "caseId": 16031,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "中興里介壽路7號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 138602,
+            "caseId": 16031,
+            "caseStatus": true,
+            "registerDate": 1530000619105,
+            "officialDocNo": "府授文博字第1073701876號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

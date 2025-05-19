@@ -1,0 +1,114 @@
+{
+    "id": 17309,
+    "caseId": "20200110000001",
+    "count": 2545,
+    "shareCount": 2,
+    "representImage": 65110,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-01-10/b3de687c-c4f1-4fd0-9603-0e0d6214a493/圖片1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-01-10/b3de687c-c4f1-4fd0-9603-0e0d6214a493/圖片1.jpg",
+        "name": "圖片1"
+    },
+    "caseName": "汐止水道布設記碑",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "碑碣",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1576657816638,
+    "officialDocNo": "1081218新北府文資第1082328482號、1090602新北府文資第1090968566號",
+    "documents": [
+        {
+            "fileid": 161236,
+            "name": "汐止水道布設記碑修正公告-109.6.2.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-25/916f0f83-b002-49ae-a7bc-3eb47d6ccd7e/汐止水道布設記碑修正公告-109.6.2.pdf"
+        },
+        {
+            "fileid": 161237,
+            "name": "汐止水道布設記碑公告-108.12.18.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-25/320e777c-b0b6-4e90-bbdc-3d56305497ca/汐止水道布設記碑公告-108.12.18.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "一、「汐止水道布設記碑」鐫刻於日治昭和三年（1928），碑文記載汐止水道的完成，並期勉節約用水，愛惜資源，由當時汐止街長陳定國署名，見證汐止水道建設之發展。符合「歷史建築紀念建築登錄廢止審查及輔助辦法」第2條第1項第1款之登錄基準。\n二、碑刻於康誥坑溪之石塊上，字跡仍清晰可辨，與山景形成一幽雅的地景。符合「歷史建築紀念建築登錄廢止審查及輔助辦法」第2條第1項第3款之登錄基準。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、3款",
+    "govInstitutionCode": "220",
+    "govInstitutionName": "新北市政府",
+    "belongCityId": 3,
+    "belongCityName": "新北市",
+    "belongDistName": "汐止區",
+    "govInstitution": "新北市政府",
+    "govDeptName": "文化局",
+    "govDeptPhone": "02-29603456",
+    "govDeptAddress": "新北市板橋區中山路一段161號28樓",
+    "cadasters": [
+        {
+            "fileid": 65108,
+            "name": "【公告】汐止水道布設記碑.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2020-01-10/9827a18a-95a2-4075-967a-04b934b49520/【公告】汐止水道布設記碑.pdf"
+        },
+        {
+            "fileid": 70970,
+            "name": "1090602 【修正公告】-汐止水道布設記碑.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2020-08-11/01b5fa83-9487-4f3f-9866-e8ef153ada08/1090602 【修正公告】-汐止水道布設記碑.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "新北市汐止區未登錄地號土地",
+    "buildingFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "bulkTransfer": 0,
+    "belongAddress": "白雲淨水場上游200公尺處",
+    "isOpenVisit": true,
+    "openUpTime": "全天開放",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.65912890347442,
+    "latitude": 25.047502691814525,
+    "representImageSource": "新北市政府文化局",
+    "landScope": "新北市汐止區未登錄地號土地",
+    "selfCoverage": "「水道布設記碑」所附著石塊本體",
+    "addresses": [
+        {
+            "cityName": "新北市",
+            "distName": "汐止區",
+            "id": 107591,
+            "caseId": 17309,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 304,
+            "address": "白雲淨水場上游200公尺處"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 115623,
+            "caseId": 17309,
+            "caseStatus": true,
+            "registerDate": 1576657816638,
+            "officialDocNo": "新北府文資第1082328482號",
+            "classificationId": 1
+        },
+        {
+            "id": 115624,
+            "caseId": 17309,
+            "caseStatus": true,
+            "registerDate": 1591069189552,
+            "officialDocNo": "新北府文資第1090968566號",
+            "classificationId": 2
+        }
+    ],
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": ""
+}

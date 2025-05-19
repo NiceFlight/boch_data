@@ -1,0 +1,112 @@
+{
+    "id": 118,
+    "caseId": "20080527000001",
+    "count": 3850,
+    "shareCount": 3,
+    "representImage": 186591,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/041ba621-3967-4421-8fa2-407ea6a5e4b5/代表圖像_舊總督府第二師範學校大禮堂_20220617_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/041ba621-3967-4421-8fa2-407ea6a5e4b5/代表圖像_舊總督府第二師範學校大禮堂_20220617.jpg",
+        "name": "代表圖像_舊總督府第二師範學校大禮堂_20220617"
+    },
+    "caseName": "舊總督府第二師範學校大禮堂",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "係創立於1895年，由台北師範學校分出，專責公學師範部及公學校乙種本科正教員養成講習課，於下內埔現址設立，光復後改稱台灣省立臺北師範專科學校。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "禮堂",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 142379,
+            "name": "3._970527指定市定古蹟及登錄歷史建築公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/004d4221-5f8e-4365-8b57-a1fba384be27/3._970527指定市定古蹟及登錄歷史建築公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "具稀少性，不易再現者",
+        "具其他古蹟價值者"
+    ],
+    "registerReason": "1.為日治初期所設之「第二師範學院」之校舍，大禮堂約建於1927年前後，乃屬少數僅存之師範學校建築，具有臺灣教育史之價值。\r\n2.禮堂為大跨距建築，單面（東側）設置拱廊，磚牆為Dutch式砌法，所用紅磚品質極優，砌功精密、外牆有扶壁，走廊可見拱形樑。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 142380,
+            "name": "560f5e1b-b1ee-421f-ba9e-46b3c15fa0b8.png",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/109bba4b-bf07-4836-adc7-4becb305ac20/560f5e1b-b1ee-421f-ba9e-46b3c15fa0b8.png"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "公共設施用地",
+    "locationLandNo": "大安區學府段一小段591地號土地",
+    "buildingFeatures": "建築特徵為典型紅磚造禮堂建築類型，具拱廊，立面開有拱窗。是第二師範學校於現址創校首批建築群之一，建築現況良好，儘管昔日舞蹈館與室內體操場內部隔間已經拆除，不過大體上仍維持舊貌，具一定歷史價值。",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "狀況良好",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.5462911,
+    "latitude": 25.0245572,
+    "representImageSource": "臺北市文化局",
+    "landScope": "大安區學府段一小段591地號(部分)土地",
+    "selfCoverage": "大安區學府段一小段41建號",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 93402,
+            "caseId": 118,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "和平東路二段134號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "學府段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 114960,
+            "caseId": 118,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 741,
+            "landSerialNo": "591",
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "cityLandUseTypeOther": "師專用地(公共設施用地)",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 100826,
+            "caseId": 118,
+            "caseStatus": true,
+            "registerDate": 1211817600000,
+            "officialDocNo": "北市文化二字第09730141500號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false,
+    "pastHistorySource": ""
+}

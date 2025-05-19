@@ -1,0 +1,120 @@
+{
+    "id": 1442,
+    "caseId": "20120719000001",
+    "count": 1969,
+    "shareCount": 0,
+    "representImage": 105779,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-04-13/69d5abf3-34f6-4b3e-a132-f1a217314d3b/水源地第二集水井_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-04-13/69d5abf3-34f6-4b3e-a132-f1a217314d3b/水源地第二集水井.jpg",
+        "name": "水源地第二集水井"
+    },
+    "caseName": "水源地第二集水井",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "臺中水道水源地設施於大正5年（1916）5月開始一般給水，後因市區擴大及市民用水量的增加，大正12年至昭和2年（1923-1927）9月底進行水道擴張工事，主要是增設了第二集水井（水源井）與第二唧筒室（裝設抽水設施之處）。\n\n戰後（1945～）初期，改由「臺中市自來水廠」管理，民國63年（1974）併入「臺灣省自來水公司」，屬第四區管理處管轄。民國70年代（1980～）因改以水庫、淨水給水廠方式供水，集水井因而閒置。\n\n民國98年（2009），臺中市政府以集水井與上水塔等構成完整的給水系統，為見證臺中市步入現代化的重要指標，具重要歷史意義及保存價值，公告登錄為歷史建築。\n",
+    "assetsTypeNames": "產業",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1342627200000,
+    "officialDocNo": "府授文資字第101011833號",
+    "documents": [
+        {
+            "fileid": 180598,
+            "name": "0980310_水源地第二集水井_登錄公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-08-18/3c9b7a54-5fce-4359-b95b-cd58dd793b60/0980310_水源地第二集水井_登錄公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "㈠具歷史文化價值。\r\n㈡其他具歷史建築價值。",
+    "lawsReference": "依據〈文化資產保存法〉第15條、〈歷史建築登錄廢止與輔助辦法〉第2、3、4條",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "北區",
+    "govInstitution": "臺中市政府文化局",
+    "govDeptName": "臺中市文化資產處",
+    "govDeptPhone": "04-22290280",
+    "govDeptAddress": "403420 臺中市西區市府路41巷19號",
+    "cadasters": [
+        {
+            "fileid": 180599,
+            "name": "0980310_水源地第二集水井_地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-08-18/f1be3f1f-131d-4ba4-aab8-900df4324efe/0980310_水源地第二集水井_地籍圖.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "自來水事業用地",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺中市北區水源段186-10地號",
+    "buildingFeatures": "第二集水井位於八角形建築物內，為RC加強磚構造，外飾以洗石子裝修。",
+    "inHouseFeatures": "依文獻記載，第二集水井為圓筒造型，鐵筋混凝土造，與第一集水井的磚砌不同。內部直徑約7.5公尺，深約15公尺，當時水湧量水位大致能保持在約9公尺左右。",
+    "buildingUsage": "無",
+    "buildingActualState": "保存完整",
+    "buildingKeyMaintainItem": "進行調查研究",
+    "bulkTransfer": 0,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "belongAddress": "雙十路二段2之1號",
+    "isOpenVisit": false,
+    "openUpTime": " 暫不開放",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.688156,
+    "latitude": 24.150843,
+    "representImageSource": "臺中市文化資產處",
+    "landScope": "臺中市北區水源段186-3地號",
+    "selfCoverage": "臺中市北區水源段186-10地號。",
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "北區",
+            "id": 111451,
+            "caseId": 1442,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1005,
+            "address": "雙十路二段2之1號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺中市",
+            "distName": "北區",
+            "landNoName": "水源段",
+            "id": 148580,
+            "caseId": 1442,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1005,
+            "landNoId": 980,
+            "landSerialNo": "186-3",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 120672,
+            "caseId": 1442,
+            "caseStatus": true,
+            "registerDate": 1342627200000,
+            "officialDocNo": "府授文資字第101011833號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.68949943345729,24.149477328253987],[120.68940035644191,24.149252090888847],[120.68942150778484,24.149234976431075],[120.68944885758656,24.149219822205723],[120.68949786765249,24.149204977505345],[120.68949198715316,24.149190338956917],[120.68977170880883,24.149101058895543],[120.68974207885897,24.148996901513645],[120.68964570041113,24.14898537467625],[120.68971702349977,24.14858672107785],[120.68966733382108,24.148590940578977],[120.68956634702631,24.14861549268596],[120.68946532031653,24.148641480305457],[120.68945958539139,24.148652125033344],[120.68917606631945,24.14917831263933],[120.6891546060318,24.14930076510966],[120.68914002744873,24.14938393873036],[120.68919898995188,24.149352800235114],[120.6892520505187,24.14946726272241],[120.6892630864052,24.149466777744486],[120.68932159536553,24.149466947421658],[120.68947032618475,24.14947781259851],[120.68949943345729,24.149477328253987],[120.68949943345729,24.149477328253987]]]]},\"properties\":{\"envelope\":{\"left\":\"120.68914002744873\",\"top\":\"24.148586721077852\",\"right\":\"120.68977170880883\",\"bottom\":\"24.149477812598509\"},\"landLot\":\"臺中市北區水源段186-3\"}}],\"notfound\":[]}]",
+    "openVisitType": "",
+    "pastHistorySource": "歷史建築公告"
+}

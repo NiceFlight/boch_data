@@ -1,0 +1,121 @@
+{
+    "id": 1662,
+    "caseId": "20030527000001",
+    "count": 2382,
+    "shareCount": 0,
+    "representImage": 159244,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-04-12/f32d35fa-42a9-4134-8d9f-c881f795e897/歷011歸仁潁川家廟_P001_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-04-12/f32d35fa-42a9-4134-8d9f-c881f795e897/歷011歸仁潁川家廟_P001.jpg",
+        "name": "歷011歸仁潁川家廟_P001"
+    },
+    "caseName": "歸仁潁川家廟",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列。",
+    "assetsTypeNames": "祠堂",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1054025014000,
+    "officialDocNo": "府文資字第0920086345號",
+    "documents": [
+        {
+            "fileid": 159243,
+            "name": "歸仁穎川家廟公告92.05.27.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-12/b4fa32a8-3cdb-461d-a168-ba215efe9f96/歸仁穎川家廟公告92.05.27.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "公告無資料",
+    "lawsReference": "1.\t文化資產保存法第27條之1第1項。\n2.\t行政院文化建設委員會函頒「歷史建築登錄及輔助辦法」\n3.\t本案業經92年1月3日臺南縣歷史建築登錄審查會議審議通過。",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "歸仁區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 142273,
+            "name": "歸仁穎川家廟.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-11-02/674c3f18-7f4b-49ea-834a-9e734bd8d6bb/歸仁穎川家廟.jpg"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 4,
+    "nonCityLandUseTypeName": "鄉村區",
+    "nonCityLandUseSubTypeId": 2,
+    "nonCityLandUseSubTypeName": "乙種建築",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "歸仁區媽祖廟段三小段569地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "belongAddress": "大廟里大廟一街28 巷46 號",
+    "isOpenVisit": true,
+    "openUpTime": "洽潁川家廟管理委員會",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.274927815173,
+    "latitude": 22.9966940849782,
+    "representImageSource": "臺南市政府",
+    "landScope": "",
+    "selfCoverage": "公告無資料",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "歸仁區",
+            "id": 75859,
+            "caseId": 1662,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1609,
+            "address": "大廟里大廟一街28 巷46 號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺南市",
+            "distName": "歸仁區",
+            "landNoName": "媽祖廟段三小段",
+            "id": 77286,
+            "caseId": 1662,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1609,
+            "landNoId": 3511,
+            "landSerialNo": "0569地號",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 81147,
+            "caseId": 1662,
+            "caseStatus": true,
+            "registerDate": 1054025014000,
+            "officialDocNo": "府文資字第0920086345號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.27506095959264,22.996705478782808],[120.27523719547732,22.996675175997826],[120.27527308170721,22.996671052698375],[120.27562351240135,22.996630863730257],[120.27552815177411,22.996512483949633],[120.27542077330389,22.99653350466483],[120.27527952058898,22.99656115513505],[120.27515606223507,22.996585322539982],[120.27511464363144,22.996593431852347],[120.2747779714719,22.996658896682288],[120.27479497596501,22.99676350897787],[120.27506095959264,22.996705478782808],[120.27506095959264,22.996705478782808]]]]},\"properties\":{\"envelope\":{\"left\":\"120.27477797147191\",\"top\":\"22.996512483949633\",\"right\":\"120.27562351240135\",\"bottom\":\"22.996763508977871\"},\"landLot\":\"臺南市歸仁區媽祖廟段三小段0569地號\"}}],\"notfound\":[]}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": ""
+}

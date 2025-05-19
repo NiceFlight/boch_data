@@ -1,0 +1,129 @@
+{
+    "id": 821,
+    "caseId": "20081110000001",
+    "count": 3200,
+    "shareCount": 1,
+    "representImage": 170124,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/75f0f38b-07cf-461f-8cb2-5e6c6a9ca490/代表圖像_臺北植物園腊葉館_20220617_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/75f0f38b-07cf-461f-8cb2-5e6c6a9ca490/代表圖像_臺北植物園腊葉館_20220617.jpeg",
+        "name": "代表圖像_臺北植物園腊葉館_20220617"
+    },
+    "caseName": "臺北植物園腊葉館",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "臺北植物園最早為殖產局苗圃，腊葉標本館是臺灣第一座專為設置腊葉標本所興建之建築，於1924年落成，代表苗圃轉型為植物園很重要的里程碑。為二層樓磚造建築，外牆結構為磚造，一樓室內採用鐵管柱。二樓以迴廊圍塑挑空，現二樓地板為之後因為空間需求所增加，將原有挑空處以鋼筋混凝土樓版填滿。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "具有歷史、文化、藝術價值之建造物",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 145454,
+            "name": "3._1041106公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/42906e70-eb94-46c4-ad96-7ee881b4c9de/3._1041106公告.pdf"
+        },
+        {
+            "fileid": 145455,
+            "name": "3_971110公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/813353cd-3897-4eca-92e1-8b3a399f537e/3_971110公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "具稀少性，不易再現者",
+        "具建築史上之意義，有再利用之價值及潛力者"
+    ],
+    "registerReason": "一、本建物建於1924年，為當時模仿西洋植物園整體規劃下產物，為植物腊葉標本採集陳列館，蒐集約1600多種腊葉標本，具採集、陳列、研究及教育等功能，為臺灣植物研究學術史上重要見證。\r\n二、建物結構為加強磚造，牆為磚造，樓板為R C造，部分柱為鋼管結構，屋頂為切角頂，建築構造反應東京大地震之後耐震結構之嘗試，其形式、結構特色具建築史或技術史之價值。",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、4、5款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 145456,
+            "name": "臘葉館地籍圖.bmp",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/a2dffcb5-fd53-4146-95ec-71a44aaaab3a/臘葉館地籍圖.bmp"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "公園用地（公共設施用地）",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市中正區南海段5小段390地號部分",
+    "buildingFeatures": "本建築外牆結構為磚造",
+    "inHouseFeatures": "",
+    "buildingUsage": "開放使用",
+    "buildingActualState": "開放使用",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.508655,
+    "latitude": 25.0310042,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市中正區南海段5小段390地號部分",
+    "selfCoverage": "中正區南海段五小段135建號",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 83397,
+            "caseId": 821,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "臺北植物園內"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "南海段五小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 93241,
+            "caseId": 821,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 18,
+            "landSerialNo": "390",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "150平方公尺",
+            "cityLandUseTypeOther": "公園用地",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 89641,
+            "caseId": 821,
+            "caseStatus": true,
+            "registerDate": 1226246400000,
+            "officialDocNo": "北市文化二字第09730228000號",
+            "classificationId": 1,
+            "note": "指定"
+        },
+        {
+            "id": 89642,
+            "caseId": 821,
+            "caseStatus": true,
+            "registerDate": 1446739200000,
+            "officialDocNo": "北市文化文資字第10430449800號",
+            "classificationId": 2,
+            "note": "變更公告名稱"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false,
+    "pastHistorySource": "行政院農業委員會林業試驗所"
+}

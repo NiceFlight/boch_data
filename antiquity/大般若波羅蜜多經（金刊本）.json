@@ -1,0 +1,106 @@
+{
+    "id": 3376,
+    "caseId": "20140425000032",
+    "count": 404,
+    "shareCount": 0,
+    "representImage": 5876,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7026/photo/大般若波羅蜜多經（金刊本）_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7026/photo/大般若波羅蜜多經（金刊本）.jpg",
+        "name": "大般若波羅蜜多經（金刊本）"
+    },
+    "caseName": "大般若波羅蜜多經（金刊本）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-宗教經典",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1398355200000,
+    "officialDocNo": "10320044271",
+    "judgeCriteria": [
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "金皇統至大定間（1141-1189）解州天寧寺刊大藏經卷子本。\r\n此為《大般若波羅密多經》卷五百七十二全卷，共24紙，卷子，無軸。審此卷版式及每版前以小字刻經名、卷次、紙張次及千字文珍字號，與國家圖書館館藏《付法因緣傳》同為金刻藏經之一。約自金熙宗皇統九年(1149)在山西解州天寧寺內，成立開雕大藏經版會主持募刻，迄金世宗大定十三年(1173)雕成。\r\n此本即民國二十三年(1934)在山西省趙城縣所發現，故世稱「趙城金藏」。此卷首有「興國院大藏經」朱文印。\r\n金刻藏經，珍貴稀有，具特殊歷史、文化、與學術價值。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第4條第1項第5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化資產局",
+    "govDeptName": "古物科",
+    "govDeptPhone": "0422265848",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "書號08712",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "金刊本",
+    "descCreator": "(唐)釋玄奘譯",
+    "descSize": "每版大抵23行，版匡22.4x45公分。",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "存一卷(卷五百七十二)。\n金皇統至大定間解州天寧寺刊大藏經卷子本。\n金崔法珍捐印。\n\n",
+    "pastHistorySource": 7,
+    "pastHistorySourceNotes": "民國二十三年(1934)在山西省趙城縣所發現，故世稱「趙城金藏」。",
+    "saveEnvironment": 1,
+    "reserveStatus": "無蟲蛀，未經修裱，書況良好。",
+    "documents": [
+        {
+            "fileid": 5877,
+            "name": "7abbe265-11aa-426c-8d1a-ab674b0d1397.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43991/file/7abbe265-11aa-426c-8d1a-ab674b0d1397.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3518,
+            "caseId": 3376,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3518,
+            "caseId": 3376,
+            "caseStatus": true,
+            "registerDate": 1398355200000,
+            "officialDocNo": "10320044271",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

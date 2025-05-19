@@ -1,0 +1,154 @@
+{
+    "id": 17945,
+    "caseId": "20201105000003",
+    "count": 3450,
+    "shareCount": 3,
+    "representImage": 74200,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-11-05/2a65c45d-4de2-4317-a842-8462876d10ee/P_20200427_095057_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-11-05/2a65c45d-4de2-4317-a842-8462876d10ee/P_20200427_095057.jpg",
+        "name": "P_20200427_095057"
+    },
+    "caseName": "新莊挑水巷隘門",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "關塞",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1603958035894,
+    "officialDocNo": "新北府文資字1092066011號",
+    "documents": [
+        {
+            "fileid": 161238,
+            "name": "新莊挑水巷隘門公告-109.10.29.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-25/d525db9d-2cf3-4de2-bff3-fe176d394a05/新莊挑水巷隘門公告-109.10.29.pdf"
+        },
+        {
+            "fileid": 161239,
+            "name": "新莊挑水巷隘門修正公告-110.3.19.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-25/6eb4e496-0fa9-4963-b602-3fa96bbe08d9/新莊挑水巷隘門修正公告-110.3.19.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "一、新莊街道兩側的巷弄非常狹窄，出口處常設具有防禦功能的「隘門」。此隘門創建於清代時期，歷史悠久，見證新莊老街的開發史，深具歷史文化價值。符合「歷史建築紀念建築登錄廢止審查及輔助辦法」第2條第1項第3款之登錄基準。\n二、隘門現存門柱結構堅實，其建材可見不同時期的營建痕跡，原門板已消失，只留二門柱，於今新北市轄境內已相當罕見，具稀少性。符合「歷史建築紀念建築登錄廢止審查及輔助辦法」第2條第1項第2款之登錄基準。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第2、3款",
+    "govInstitutionCode": "220",
+    "govInstitutionName": "新北市政府",
+    "belongCityId": 3,
+    "belongCityName": "新北市",
+    "belongDistName": "新莊區",
+    "govInstitution": "新北市政府",
+    "govDeptName": "文化局",
+    "govDeptPhone": "02-29603456",
+    "govDeptAddress": "新北市板橋區中山路一段161號28樓",
+    "cadasters": [
+        {
+            "fileid": 74199,
+            "name": "隘門複丈成果圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2020-11-05/0367bfd5-cd79-497c-9c3d-ef2077e88e19/隘門複丈成果圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "新北市新莊區文德段653 (部分) 、655地號",
+    "buildingFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "隘門鄰房進行重建工程，現場已施作柱體保護措施。",
+    "bulkTransfer": 0,
+    "belongAddress": "新北市新莊區新莊路278巷",
+    "isOpenVisit": false,
+    "openUpTime": "",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.45142304693289,
+    "latitude": 25.03420875640953,
+    "representImageSource": "新北市政府文化局",
+    "landScope": "新北市新莊區文德段653-1 (部分) 、655地號",
+    "selfCoverage": "隘門本體",
+    "addresses": [
+        {
+            "cityName": "新北市",
+            "distName": "新莊區",
+            "id": 115608,
+            "caseId": 17945,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 321,
+            "address": "新莊路278巷"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "新北市",
+            "distName": "新莊區",
+            "landNoName": "文德段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 161451,
+            "caseId": 17945,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 321,
+            "landNoId": 5385,
+            "landSerialNo": "653-1",
+            "landownership": 2,
+            "cityLandUseTypeId": 1,
+            "coverageId": 1,
+            "area": "0.15平方公尺",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "新北市",
+            "distName": "新莊區",
+            "landNoName": "文德段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 161452,
+            "caseId": 17945,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 321,
+            "landNoId": 5385,
+            "landSerialNo": "655",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "13.43平方公尺",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 126017,
+            "caseId": 17945,
+            "caseStatus": true,
+            "registerDate": 1603958035894,
+            "officialDocNo": "新北府文資字1092066011號",
+            "classificationId": 1
+        },
+        {
+            "id": 126018,
+            "caseId": 17945,
+            "caseStatus": true,
+            "registerDate": 1616083200000,
+            "officialDocNo": "新北府文資字1100498254號",
+            "classificationId": 2,
+            "note": "定著土地調整"
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"新北市新莊區文德段653-1\"}}],\"notfound\":\"沒有地號資料\"},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.4514544308954,25.034185261041113],[121.4514676509182,25.03414975465716],[121.45143832206817,25.034141104492118],[121.4514296322423,25.034170819993076],[121.45142711345504,25.03417953620733],[121.45142805600244,25.034179851135498],[121.45144084489831,25.034186565351227],[121.4514544308954,25.034185261041113],[121.4514544308954,25.034185261041113]]]]},\"properties\":{\"envelope\":{\"left\":\"121.45142711345504\",\"top\":\"25.034141104492118\",\"right\":\"121.4514676509182\",\"bottom\":\"25.034186565351227\"},\"landLot\":\"新北市新莊區文德段655\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": ""
+}

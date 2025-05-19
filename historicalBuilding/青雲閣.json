@@ -1,0 +1,113 @@
+{
+    "id": 1065,
+    "caseId": "20141106000002",
+    "count": 7070,
+    "shareCount": 13,
+    "representImage": 168839,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/026eb951-8987-49dc-a13f-b0dacfa69395/代表圖像_青雲閣_20220601_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/026eb951-8987-49dc-a13f-b0dacfa69395/代表圖像_青雲閣_20220601.jpeg",
+        "name": "代表圖像_青雲閣_20220601"
+    },
+    "caseName": "青雲閣",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "歷史建築「青雲閣」",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 146221,
+            "name": "位置圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/745537d4-642e-421f-a118-29be36df5e3e/位置圖.pdf"
+        },
+        {
+            "fileid": 146222,
+            "name": "3._1031106登錄歷史建築公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/d38b645c-6269-4788-b1fa-457cb2c61dfd/3._1031106登錄歷史建築公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1、建物所在位處萬華街市邊緣，與東側華西街一帶同為日治時期風化區「艋舺遊廓」之所在，區內青樓、酒館林立，因有寶斗里稱呼出現，見證都市庶民生活及地方發展歷史。\r\n2、青雲閣舊存的三層樓建物，為艋舺遊廓少數留存的建築之一。街角立面勳章飾、水平花飾線腳，不對稱的洗石子立面，長短變化不一的立柱分割，表現出獨特的街屋形式風格。尤其，裝飾有貝殼、洋蔥形式窗緣的外凸窗台，異國風味十足，為其他地區少見之作法。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、4款評定基準。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 146223,
+            "name": "153bacd9-fa01-402a-8758-816b07bde359.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/0c8e3f51-2cb5-4f3a-a1e1-fc5382ffa39c/153bacd9-fa01-402a-8758-816b07bde359.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "locationLandNo": "臺北市萬華區直興段二小段574地號",
+    "buildingFeatures": "街角立面勳章飾、水平花飾線腳、不對稱洗石子立面、裝飾有貝殼、洋蔥形式窗緣的外凸窗台等。",
+    "buildingActualState": "",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.4979166,
+    "latitude": 25.0389824,
+    "representImageSource": " 臺北市文化局",
+    "landScope": "71平方公尺",
+    "selfCoverage": " 87.46平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "id": 115731,
+            "caseId": 1065,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "address": "臺北市萬華區環河南路二段5巷6弄20號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "landNoName": "直興段二小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 161580,
+            "caseId": 1065,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "landNoId": 168,
+            "landSerialNo": "574",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "coverageId": 2,
+            "area": "71平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 126168,
+            "caseId": 1065,
+            "caseStatus": true,
+            "registerDate": 1415203200000,
+            "officialDocNo": "北市文化文資字第10330473100號",
+            "classificationId": 1,
+            "note": "登錄"
+        }
+    ],
+    "geojson": "[{\"features\":[{\"geometry\":{\"coordinates\":[[[[121.49776486267,25.038948248298],[121.49788268629,25.038950461083],[121.49788889361,25.038954685094],[121.49789728844,25.038989646318],[121.49778276594,25.039013740301],[121.49776486267,25.038948248298]]]],\"type\":\"MultiPolygon\"},\"type\":\"Feature\",\"properties\":{\"ymin\":25.038948248298,\"xmin\":121.49776486267,\"段號\":5740000,\"query\":\"臺北市,直興段二小段,574\",\"ycenter\":25.0389809942995,\"land_id\":5740000,\"area_id\":\"AB\",\"content\":\"1. 個案名稱: 青雲閣 <br />\\n      2. 地號: 臺北市,直興段二小段,574 <br />\\n      3. 種類: 宅第 <br />\\n      4. 指定登錄理由: 1、建物所在位處萬華街市邊緣，與東側華西街一帶同為日治時期風化區「艋舺遊廓」之所在，區內青樓、酒館林立，因有寶斗里稱呼出現，見證都市庶民生活及地方發展歷史。\\r\\n2、青雲閣舊存的三層樓建物，為艋舺遊廓少數留存的建築之一。街角立面勳章飾、水平花飾線腳，不對稱的洗石子立面，長短變化不一的立柱分割，表現出獨特的街屋形式風格。尤其，裝飾有貝殼、洋蔥形式窗緣的外凸窗台，異國風味十足，為其他地區少見之作法。 <br />\\n      5. 最後一筆公告日期: 2014-11-06 <br />\\n      6. 最後一筆公告文號: 北市文化文資字第10330473100號 <br />\\n      7. 管理單位: 私有 <br />\\n      8. 使用單位: 私有 <br />\\n      9. 建物狀態: 現況良好 <br />\",\"地段\":\"直興段二小段\",\"縣市\":\"臺北市\",\"ymax\":25.039013740301,\"xcenter\":121.497831075555,\"xmax\":121.49789728844,\"section_id\":\"0041\",\"鄉鎮\":\"萬華區\",\"id\":\"AB0041\",\"query_log\":[]}}],\"address\":[{\"address\":\"1. 個案名稱: 青雲閣 <br />\\n      2. 地址: 臺北市萬華區環河南路二段5巷6弄20號 <br />\\n      3. 種類: 宅第 <br />\\n      4. 指定登錄理由: 1、建物所在位處萬華街市邊緣，與東側華西街一帶同為日治時期風化區「艋舺遊廓」之所在，區內青樓、酒館林立，因有寶斗里稱呼出現，見證都市庶民生活及地方發展歷史。\\r\\n2、青雲閣舊存的三層樓建物，為艋舺遊廓少數留存的建築之一。街角立面勳章飾、水平花飾線腳，不對稱的洗石子立面，長短變化不一的立柱分割，表現出獨特的街屋形式風格。尤其，裝飾有貝殼、洋蔥形式窗緣的外凸窗台，異國風味十足，為其他地區少見之作法。 <br />\\n      5. 最後一筆公告日期: 2014-11-06 <br />\\n      6. 最後一筆公告文號: 北市文化文資字第10330473100號 <br />\\n      7. 管理單位: 私有 <br />\\n      8. 使用單位: 私有 <br />\\n      9. 建物狀態: 現況良好 <br />\",\"lat\":25.0389824,\"lng\":121.4979166}],\"notFound\":[],\"type\":\"FeatureCollection\"}]",
+    "openVisitType": "不開放參觀"
+}

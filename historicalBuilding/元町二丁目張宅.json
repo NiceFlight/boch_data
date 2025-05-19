@@ -1,0 +1,100 @@
+{
+    "id": 23342,
+    "caseId": "20250428000002",
+    "count": 33,
+    "shareCount": 0,
+    "representImage": 285505,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2025-05-07/3d76c89b-8760-4d91-9515-80fad60f22db/元町二丁目張宅_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2025-05-07/3d76c89b-8760-4d91-9515-80fad60f22db/元町二丁目張宅.jpg",
+        "name": "元町二丁目張宅"
+    },
+    "caseName": "元町二丁目張宅",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "張宅位於嘉義市東區蘭井街76 號，興建於日治時期，為一棟接近兩層樓高的木造建築；其外觀帶著漢式傳統與日式洋風的折衷樣式，正立面上有著醒目的山形入口雨庇，建物後側尚有龐大的空地；此建物在蘭井街生活場域中，扮演關鍵角色，其與紅毛井、對面之清代楊宅、轉角之1920 年代共榮館，共構出歷史場域氛圍。同時也是其中唯一的日治時期建築，對於街區整體之歷史感與尺度感具關鍵作用。\n張宅為因應基地與所處位置與原屋主本身使用之需要，將樓高拉高使其成為近似「1.75 層」的高度，其權衡巧秒：既不會使公媽廳過高並超過木材長度的極限，亦可以讓二樓滿足寢室基本的「坐」、「臥」機能。在這樣的作法下使得張宅的空間格局具有「厝屋」（民居），與「店面」（街屋）之特性；另一特殊之處在於其「漢洋折衷」的立面，屬漢、洋式樣的元素則分明地位於一、二樓。簡而言之一樓立面與嘉南一帶農村傳統民居無異，二樓則為洋風建築的作法。此種一、二樓截然不同的建築式樣大膽地直接疊加的方式與僅見於日本北海道函館的「上下和洋折衷建築」有異曲同工之妙，亦為台灣現存日治時期街屋建築中所罕見。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 284490,
+            "name": "114.04.01公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2025-04-28/f3dac2d1-8bec-4834-9838-7fdb1e7dfd7f/114.04.01公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1.\t建築立面「漢洋折衷」，具有厝屋及店面兩種不同的建築式樣。\n2.\t建築洋風雨庇、八角木窗、馬約利卡彩瓷及泥作裝飾，作工細緻展現時代風格與工藝。\n3.\t格局、構造、材料及工法具有嘉義本地1920年代建築特色\n4.\t見證嘉義市市街改正後，難得留下清代與日治共構下的歷史場域氛圍。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第2、3款",
+    "govInstitutionCode": "600",
+    "govInstitutionName": "嘉義市政府",
+    "govInstitution": "嘉義市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "05-2788225",
+    "govDeptAddress": "嘉義市忠孝路275號",
+    "cadasters": [
+        {
+            "fileid": 284493,
+            "name": "地籍丈量圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2025-04-28/3d49a4e9-1d30-42da-bfe0-51b29cff43ae/地籍丈量圖.pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isOpenDownload": false,
+    "longitude": 23.47813,
+    "latitude": 120.45495,
+    "representImageSource": "嘉義市政府文化局",
+    "landScope": "嘉義市元段二小段190-4地號",
+    "selfCoverage": "4354616351",
+    "addresses": [
+        {
+            "cityName": "嘉義市",
+            "distName": "東區",
+            "id": 149519,
+            "caseId": 23342,
+            "caseStatus": true,
+            "cityId": 14,
+            "distId": 1401,
+            "address": "蘭井街76號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "嘉義市",
+            "distName": "東區",
+            "landNoName": "元段二小段",
+            "id": 207171,
+            "caseId": 23342,
+            "caseStatus": true,
+            "cityId": 14,
+            "distId": 1401,
+            "landNoId": 8376,
+            "landSerialNo": "190-4",
+            "landownership": 2,
+            "area": "64平方公尺",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 162670,
+            "caseId": 23342,
+            "caseStatus": true,
+            "registerDate": 1743496335745,
+            "officialDocNo": "府受文資字第1145101585號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"嘉義市東區元段二小段190-4\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "selfCoverageJson": "{\"type\": \"FeatureCollection\",\"features\": []}",
+    "openVisitType": "",
+    "pastHistorySource": "嘉義市蘭井街76號調查研究計畫"
+}

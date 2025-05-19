@@ -1,0 +1,275 @@
+{
+    "id": 2690,
+    "caseId": "20110825000005",
+    "count": 583,
+    "shareCount": 1,
+    "representImage": 131371,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-08-12/bf368e1a-be7b-4a9d-bfd6-bcf24390d622/陳萬能藝師_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-08-12/bf368e1a-be7b-4a9d-bfd6-bcf24390d622/陳萬能藝師.jpeg",
+        "name": "陳萬能藝師"
+    },
+    "caseName": "錫工藝",
+    "classifyCode": "4.2",
+    "classifyName": "傳統工藝",
+    "assetsTypeNames": "金工",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "4.2.2",
+    "assetsClassifyName": "重要傳統工藝\r\n",
+    "registerDate": 1314201600000,
+    "officialDocNo": "會授資籌三字第10030064432號",
+    "documents": [
+        {
+            "fileid": 131368,
+            "name": "2011保存者陳萬能藝師公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-08-12/a38e2cbf-6770-44aa-892d-7527effc2d81/2011保存者陳萬能藝師公告.pdf"
+        },
+        {
+            "fileid": 131369,
+            "name": "2018重新登錄文化資產類別名稱公告(工藝).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-08-12/b82a1644-23e0-4007-a506-4f06ad4db76a/2018重新登錄文化資產類別名稱公告(工藝).pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "反映古昔常民生活形態或娛樂類型，並在藝術或藝術史上具有重要價值者",
+        "地方色彩或流派特色顯著，並在藝術或藝術史上具有價值且瀕臨失傳者",
+        "傳統技藝或藝能，其結構技法，表現特別優秀，並在全國具有領先地位者"
+    ],
+    "registerReason": "一、錫工藝為中國最早的金屬工藝之一，其製作複雜，廣泛運用於民間日常生活中。\n二、錫工藝是一門技藝高超之民間工藝，在傳統社會中象徵富足安樂，惟時代變遷，錫藝已有逐漸失傳之虞。\n三、保存者陳萬能先生出身錫藝世家，以傳統技法運用於作品之藝術表現，呈顯錫器之多元風貌，對台灣錫工藝發展貢獻卓著。",
+    "lawsReference": "文化資產保存法第91條\n傳統工藝登錄認定及廢止審查辦法第4條、第5條及第6條",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 11,
+    "belongCityName": "彰化縣",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177761",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "historyDevelopment": "臺灣錫工藝的發展自清乾隆時期，鹿港因是對外通商的海口之一，而成為早期錫匠聚集與錫器發展的區域，臺語俗諺：「入門看交椅茶几，桌上看花瓶五賽」，所謂「花瓶五賽」，包括香爐與成雙成對的花瓶、燭臺，共五件錫製品；意即從每戶人家的大廳，可看出一個家庭的經濟狀況。此外，錫藝具有「賜福」、「賜予」意涵，在民間廣受大眾歡迎。",
+    "preservers": [
+        {
+            "id": 15576,
+            "type": "個人",
+            "caseName": "陳萬能",
+            "cityName": "彰化縣",
+            "distName": "鹿港鎮",
+            "caseArtistEntities": [
+                {
+                    "id": 118,
+                    "caseId": 15576,
+                    "sex": 1,
+                    "name": "陳志昇",
+                    "bornYear": "1975",
+                    "closingYear": "2017",
+                    "customYear": "2012-2015",
+                    "contactCityId": 11,
+                    "contactDistId": 1105,
+                    "contactAddress": "彰鹿路7段635號",
+                    "files": [],
+                    "videoFiles": [
+                        {
+                            "fileid": 172863,
+                            "name": "IMG_0163.jpg",
+                            "thumbnailUrl": "https://data.boch.gov.tw/upload/representImageFile/2022-07-12/1e77a91f-39a5-4d66-9254-4646e23f6a78/IMG_0163.jpg",
+                            "represent": false
+                        },
+                        {
+                            "fileid": 173572,
+                            "name": "陳志昇-2（2022）.jpg",
+                            "thumbnailUrl": "https://data.boch.gov.tw/upload/representImageFile/2022-07-18/8c981d8a-7cb3-4037-ab63-b1b0198e6bad/陳志昇-2（2022）.jpg",
+                            "represent": false
+                        },
+                        {
+                            "fileid": 173573,
+                            "name": "陳志昇-1（2022）.jpg",
+                            "thumbnailUrl": "https://data.boch.gov.tw/upload/representImageFile/2022-07-18/f7fb0f3b-08c8-4f3e-9c99-99ced46f76b9/陳志昇-1（2022）.jpg",
+                            "represent": true
+                        }
+                    ],
+                    "delete": false,
+                    "publishStatus": true,
+                    "createDate": 1657593745125,
+                    "createOrg": 25,
+                    "createId": 10778,
+                    "type": 2
+                },
+                {
+                    "id": 119,
+                    "caseId": 15576,
+                    "sex": 1,
+                    "name": "李    瑋",
+                    "bornYear": "1991",
+                    "closingYear": "2017",
+                    "customYear": "2013-2016",
+                    "contactCityId": 10,
+                    "contactDistId": 1006,
+                    "contactAddress": "東山路一段146巷12弄4號",
+                    "files": [],
+                    "videoFiles": [
+                        {
+                            "fileid": 172864,
+                            "name": "1538622487782.jpeg",
+                            "thumbnailUrl": "https://data.boch.gov.tw/upload/representImageFile/2022-07-12/1fd390c4-2285-4406-b5bc-0e5ae8e11108/1538622487782.jpeg",
+                            "represent": true
+                        },
+                        {
+                            "fileid": 173571,
+                            "name": "李瑋-1（2022）.jpg",
+                            "thumbnailUrl": "https://data.boch.gov.tw/upload/representImageFile/2022-07-18/d3a3f273-46d1-4641-995b-0ebeefb29acd/李瑋-1（2022）.jpg",
+                            "represent": false
+                        }
+                    ],
+                    "delete": false,
+                    "publishStatus": true,
+                    "createDate": 1657593857462,
+                    "createOrg": 25,
+                    "createId": 10778,
+                    "type": 2
+                },
+                {
+                    "id": 120,
+                    "caseId": 15576,
+                    "sex": 0,
+                    "name": "楊蕙如",
+                    "bornYear": "1978",
+                    "closingYear": "2017",
+                    "customYear": "2013-2016",
+                    "contactCityId": 11,
+                    "contactDistId": 1101,
+                    "contactAddress": "金馬路二段559巷27號",
+                    "files": [],
+                    "videoFiles": [
+                        {
+                            "fileid": 172865,
+                            "name": "蕙如照片.jpg",
+                            "thumbnailUrl": "https://data.boch.gov.tw/upload/representImageFile/2022-07-12/a8860b3d-8df6-4b58-9d18-926ac855866d/蕙如照片.jpg",
+                            "represent": true
+                        },
+                        {
+                            "fileid": 173569,
+                            "name": "楊蕙如-1（2022）.jpg",
+                            "thumbnailUrl": "https://data.boch.gov.tw/upload/representImageFile/2022-07-18/cf196d08-01ec-496c-9731-1c12c0ee156d/楊蕙如-1（2022）.jpg",
+                            "represent": false
+                        },
+                        {
+                            "fileid": 173570,
+                            "name": "楊蕙如-2（2022）.jpg",
+                            "thumbnailUrl": "https://data.boch.gov.tw/upload/representImageFile/2022-07-18/ee5f7ad6-3880-4942-8464-a52fb3893805/楊蕙如-2（2022）.jpg",
+                            "represent": false
+                        }
+                    ],
+                    "delete": false,
+                    "publishStatus": true,
+                    "createDate": 1657593943129,
+                    "createOrg": 25,
+                    "createId": 10778,
+                    "type": 2
+                },
+                {
+                    "id": 270,
+                    "caseId": 15576,
+                    "sex": 1,
+                    "name": "陳政穎",
+                    "bornYear": "1996",
+                    "closingYear": "2024",
+                    "customYear": "2020-2023",
+                    "contactCityId": 11,
+                    "contactDistId": 1105,
+                    "contactAddress": "彰鹿路7段635號",
+                    "files": [],
+                    "videoFiles": [
+                        {
+                            "fileid": 285738,
+                            "name": "政穎.jpg",
+                            "thumbnailUrl": "https://data.boch.gov.tw/upload/representImageFile/2025-05-08/3422ffa1-37a0-4f69-a63b-b9c186065f80/政穎.jpg",
+                            "represent": true
+                        }
+                    ],
+                    "delete": false,
+                    "publishStatus": true,
+                    "createDate": 1746674404273,
+                    "createOrg": 25,
+                    "createId": 22439,
+                    "type": 2
+                },
+                {
+                    "id": 271,
+                    "caseId": 15576,
+                    "sex": 0,
+                    "name": "蔡佩儒",
+                    "bornYear": "1990",
+                    "closingYear": "2025",
+                    "customYear": "2020-2023",
+                    "contactCityId": 10,
+                    "contactDistId": 1010,
+                    "contactAddress": "福大路36巷21號",
+                    "files": [],
+                    "videoFiles": [
+                        {
+                            "fileid": 285739,
+                            "name": "佩儒.jpg",
+                            "thumbnailUrl": "https://data.boch.gov.tw/upload/representImageFile/2025-05-08/780c2911-5d6a-49fc-b272-079ba4dd364c/佩儒.jpg",
+                            "represent": true
+                        }
+                    ],
+                    "delete": false,
+                    "publishStatus": true,
+                    "createDate": 1746674530462,
+                    "createOrg": 25,
+                    "createId": 22439,
+                    "type": 2
+                }
+            ],
+            "representImage": 99146,
+            "patentNo": "第拾柒-001號",
+            "judgeCriteria": [
+                "熟知並能正確體現該登錄項目之知識、技藝與文化表現形式",
+                "具該登錄項目之傳習能力與意願",
+                "在文化脈絡下為適當者"
+            ],
+            "registerReason": "一、錫工藝為中國最早的金屬工藝之一，其製作複雜，廣泛運用於民間日常生活中。\n二、錫工藝是一門技藝高超之民間工藝，在傳統社會中象徵富足安樂，惟時代變遷，錫藝已有逐漸失傳之虞。\n三、保存者陳萬能先生出身錫藝世家，以傳統技法運用於作品之藝術表現，呈顯錫器之多元風貌，對台灣錫工藝發展貢獻卓著。",
+            "lawsReference": "傳統工藝登錄認定及廢止審查辦法第4條、第5條及第6條",
+            "school": "陳萬能藝師出身錫藝世家，以傳統技法運用於作品之藝術表現，呈現錫器之多元風貌。",
+            "isOpenDownload": false,
+            "representImageSource": "文化部文化資產局",
+            "contactorIsOpen": false,
+            "caseAliasName": ""
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "文化部文化資產局",
+    "addresses": [
+        {
+            "cityName": "彰化縣",
+            "distName": "鹿港鎮",
+            "id": 48429,
+            "caseId": 2690,
+            "caseStatus": true,
+            "cityId": 11,
+            "distId": 1105
+        }
+    ],
+    "announces": [
+        {
+            "id": 50772,
+            "caseId": 2690,
+            "caseStatus": true,
+            "registerDate": 1314201600000,
+            "officialDocNo": "會授資籌三字第10030064432號",
+            "classificationId": 1,
+            "note": "登錄錫工藝暨認定保存者陳萬能藝師"
+        },
+        {
+            "id": 50773,
+            "caseId": 2690,
+            "caseStatus": true,
+            "registerDate": 1515513600000,
+            "officialDocNo": "文授資局傳字第10730004691號",
+            "classificationId": 2,
+            "note": "重新登錄文化資產類別名稱"
+        }
+    ]
+}

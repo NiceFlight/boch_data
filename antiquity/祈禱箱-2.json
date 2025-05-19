@@ -1,0 +1,99 @@
+{
+    "id": 3175,
+    "caseId": "20061019000010",
+    "count": 303,
+    "shareCount": 0,
+    "representImage": 5613,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/38087/photo/f4e01fe5-0e1e-435e-8929-224ce5858735_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/38087/photo/f4e01fe5-0e1e-435e-8929-224ce5858735.jpg",
+        "name": "f4e01fe5-0e1e-435e-8929-224ce5858735"
+    },
+    "caseName": "祈禱箱-2",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "出土(水)-出土、出水物品",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1161187200000,
+    "officialDocNo": "屏府文博字第0950206644號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有一定之時代特色、技術及流派"
+    ],
+    "registerReason": "具有地區性及時代性的表現特色，年代久遠，稀有性高。排灣族稱覡巫以貯藏占卜道具之用，作法時從箱中取出有關物品，供獻於神靈，並唸咒文。因地域或占卜治病種類不同，木箱所貯藏之材料不儘相同，常見貯藏小刀、豚骨、木欒子實、相思樹葉和珠子等。",
+    "lawsReference": "文化資產保存法第65條暨古物分級登錄指定及廢止審查辦法第5條、第7條及第8辦理。",
+    "govInstitutionCode": "900",
+    "govInstitutionName": "屏東縣政府",
+    "belongCityId": 20,
+    "belongCityName": "屏東縣",
+    "belongDistName": "屏東市",
+    "govInstitution": " ",
+    "govDeptName": " ",
+    "govDeptPhone": " ",
+    "govDeptAddress": " ",
+    "reservationCode": " ",
+    "amount": 1,
+    "notes": "",
+    "descAge": " ",
+    "descSize": " ",
+    "descMaterial": " ",
+    "reserveStatusDesc": "種類:宗教用具 \r\n數量:1\r\n年代:不詳 \r\n作者:不詳\r\n材質:木、麻 \r\n重量:220 g\r\n形狀:長型 \r\n尺寸:14 × 3 × 9 ㎝\r\n技法:依照傳統工法將整段木塊挖空製成之占卜箱，開口一端連接以麻繩編結而成的細網，網口再綴附騰編小環，以繩索貫穿以供束紮。方形木箱兩側穿洞繫繩與網口上收縮的繩子相連，外出時可掛於一肩或背於雙肩。",
+    "pastHistorySource": 2,
+    "pastHistorySourceNotes": " ",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 231374,
+            "name": "32件一般古物(951027)_部分19.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-09-19/ccf31be5-35f4-426c-864e-d217b75cb8fc/32件一般古物(951027)_部分19.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "0",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "屏東縣政府文化處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "屏東縣屏東市大連路69號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "屏東縣",
+            "distName": "屏東市",
+            "id": 114857,
+            "caseId": 3175,
+            "caseStatus": true,
+            "cityId": 20,
+            "distId": 2001
+        }
+    ],
+    "announces": [
+        {
+            "id": 125098,
+            "caseId": 3175,
+            "caseStatus": true,
+            "registerDate": 1161187200000,
+            "officialDocNo": "屏府文博字第0950206644號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

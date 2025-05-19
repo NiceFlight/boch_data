@@ -1,0 +1,129 @@
+{
+    "id": 15914,
+    "caseId": "20180705000006",
+    "count": 6937,
+    "shareCount": 23,
+    "representImage": 185319,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/e5322b2d-e332-4453-87f3-ac67e778812f/代表圖像_黃杰故居＿20220916_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/e5322b2d-e332-4453-87f3-ac67e778812f/代表圖像_黃杰故居＿20220916.jpeg",
+        "name": "代表圖像_黃杰故居＿20220916"
+    },
+    "caseName": "黃杰故居",
+    "classifyCode": "1.4",
+    "classifyName": "紀念建築",
+    "pastHistory": "1.本建物為二戰後之現代住宅，為黃杰任陸軍總司令之官邸，主建築原為一層西式平房，後期增建二層樓建築。建物外貌及內裝雖經修改，惟客廳設置之壁爐、Bay Window及櫸木地板，仍大致維持初建時樣貌，表現當代建築風格與特色。後期增建之2層樓建築呈現當時官邸之配置。\n2.黃杰為黃埔軍校一期出身，國共內戰時，率部轉戰西南後經越南回臺，歷任陸軍總司令、臺灣警備總司令、臺灣省政府主席、國防部長等要職，是1950-60年代對軍事及省政具重大影響力之人物，在軍事、政治史上具有一定地位，其居所亦具有一定歷史文化價值。",
+    "assetsTypeNames": "官邸",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.4",
+    "assetsClassifyName": "紀念建築",
+    "documents": [
+        {
+            "fileid": 169676,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-06-26/2cc17a7e-e2aa-496c-933c-d3c9be366367/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具地區性建造物類型之特色者",
+        "合於歷史建築登錄基準之建造物與附屬設施物，如屬與歷史、文化、藝術等具有重要貢獻之人物相關者，得登錄為紀念建築"
+    ],
+    "registerReason": "1.本建物為二戰後之現代住宅，為黃杰任陸軍總司令之官邸，主建築原為一層西式平房，後期增建二層樓建築。建物外貌及內裝雖經修改，惟客廳設置之壁爐、Bay Window及櫸木地板，仍大致維持初建時樣貌，表現當代建築風格與特色。後期增建之2層樓建築呈現當時官邸之配置。\n2.黃杰為黃埔軍校一期出身，國共內戰時，率部轉戰西南後經越南回臺，歷任陸軍總司令、臺灣警備總司令、臺灣省政府主席、國防部長等要職，是1950-60年代對軍事及省政具重大影響力之人物，在軍事、政治史上具有一定地位，其居所亦具有一定歷史文化價值。\n3.\t符合歷史建築紀念建築登錄廢止審查及輔助辦法第2條第1項第3款及第2項登錄基準。\n",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第3款,<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第2項",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 48914,
+            "name": "範圍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2018-07-05/d534997d-5985-448e-9b26-319027c05bb4/範圍圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "住宅區、商業區",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "大安區復興段三小段867、867-1地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "longitude": 121.54391,
+    "latitude": 25.035098,
+    "representImageSource": "臺北市文化局",
+    "landScope": "建築物座落土地為大安區復興段三小段867（該筆土地面積1183平方公尺）、867-1（該筆土地面積590平方公尺）地號等2筆土地。",
+    "selfCoverage": "建物無建號登記（實際保存面積須以保存範圍實際數據為準）",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 92544,
+            "caseId": 15914,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "復興南路1段297號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "復興段三小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 113031,
+            "caseId": 15914,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 747,
+            "landSerialNo": "867",
+            "landownership": 1,
+            "cityLandUseTypeId": 2,
+            "coverageId": 2,
+            "area": "1183平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "復興段三小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 113032,
+            "caseId": 15914,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 747,
+            "landSerialNo": "867-1",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "590平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 99824,
+            "caseId": 15914,
+            "caseStatus": true,
+            "registerDate": 1528992000000,
+            "officialDocNo": "北市文化文資字第10760133811號",
+            "classificationId": 1,
+            "note": "登錄紀念建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

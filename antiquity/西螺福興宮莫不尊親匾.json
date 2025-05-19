@@ -1,0 +1,106 @@
+{
+    "id": 3283,
+    "caseId": "20160412000002",
+    "count": 458,
+    "shareCount": 0,
+    "representImage": 5746,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/132352/photo/bfe2ccd4-5625-4260-8e49-b7066eedf9ef_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/132352/photo/bfe2ccd4-5625-4260-8e49-b7066eedf9ef.jpg",
+        "name": "bfe2ccd4-5625-4260-8e49-b7066eedf9ef"
+    },
+    "caseName": "西螺福興宮莫不尊親匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1460390400000,
+    "officialDocNo": "府文資二字第1053802888B號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "（一）歷史久遠且為地方仕紳所立，見證宮廟歷史沿革。\r\n（二）製作型式呈現台灣傳統製匾技術、技法。\r\n（三）兼具特殊性與歷史性。\r\n（四）保存狀況良好。",
+    "lawsReference": "《文化資產保存法》第65條暨《古物分級登錄指定及廢止審查辦法》第2條第1項第1款至第6款及第7條規定。",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "belongCityId": 13,
+    "belongCityName": "雲林縣",
+    "belongDistName": "西螺鎮",
+    "govInstitution": "雲林縣政府",
+    "govDeptName": "文化處文化資產科",
+    "govDeptPhone": "05-5523156",
+    "govDeptAddress": "雲林縣斗六市大學路三段310號",
+    "reservationCode": "暫無",
+    "amount": 1,
+    "notes": "",
+    "descAge": "西元1770年〈乾隆35年〉",
+    "descSize": "高76.8公分，寬201.6公分，厚4公分",
+    "descMaterial": "木",
+    "reserveStatusDesc": "本件為橫長方形木匾，以多塊木板拼接製成，邊框為紅底纏枝卷草紋，匾面為黑底金字，字樣為陽刻金字楷書，上款「乾隆庚寅年仲夏穀旦」、中行「莫不尊親」、下款「首事林倉光、廖尚德、鍾氏和同立」。此匾保留著清領時期匾額製作工藝，中行「莫不尊親」為片狀陽文，係另外製作後接合於額面上，並以金屬釘固定在匾額板面上。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "西元1770年（乾隆35年），地點：西螺福興宮",
+    "saveEnvironment": 2,
+    "reserveStatus": "1.匾下方有高溫或附近溫溼度變化太大。\n2.日後需更換位置或移除造成溫溼度變化因子。\n3.字是嵌釘上去--必須拿下來重新固定\n4.木板拼接處產生裂紋，需加固與改善存放環境。\n5.金箔表面為油煙與高溫造成的保護漆老化--如有必要需清潔與新作保護漆。",
+    "documents": [
+        {
+            "fileid": 139993,
+            "name": "中華民國105年04月12日 府文資二字第1053802888號 西螺福興宮莫不尊親匾.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-09-30/71cbbb68-9eb6-4e58-8ad9-cf2e626afcce/中華民國105年04月12日 府文資二字第1053802888號 西螺福興宮莫不尊親匾.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 23.801592293090103,
+    "latitude": 120.46055573992001,
+    "representImageSource": "雲林縣西螺福興宮",
+    "keepNames": [
+        {
+            "keepNameIdStr": "財團法人西螺福興宮",
+            "keepName": "財團法人西螺福興宮",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "財團法人西螺福興宮",
+            "keepAddressNew": "雲林縣西螺鎮延平路180號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2,
+            "keepNameCityName": "雲林縣",
+            "keepNameDistName": "西螺鎮",
+            "keepNameAddress": "延平路180號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "西螺鎮",
+            "id": 64062,
+            "caseId": 3283,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1314,
+            "address": "延平路180號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 67707,
+            "caseId": 3283,
+            "caseStatus": true,
+            "registerDate": 1460390400000,
+            "officialDocNo": "府文資二字第1053802888B號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

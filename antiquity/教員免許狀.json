@@ -1,0 +1,103 @@
+{
+    "id": 5056,
+    "caseId": "20170925000010",
+    "count": 239,
+    "shareCount": 0,
+    "representImage": 63023,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-12-05/f0c4260e-d93b-4d82-90ae-c2d7a2b88c7d/教員免許狀1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-12-05/f0c4260e-d93b-4d82-90ae-c2d7a2b88c7d/教員免許狀1.jpg",
+        "name": "教員免許狀1"
+    },
+    "caseName": "教員免許狀",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-其他",
+    "otherAssetsType": "證書",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1505706242179,
+    "officialDocNo": "古物分級指定及廢止審查辦法第 2 條第2、3、5、6款",
+    "judgeCriteria": [
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "數量稀少者",
+        "對地方或族群知識、技術或流派發展具影響或意義"
+    ],
+    "registerReason": "1.具稀有性。\n2.該校為承續1895年芝山巖學堂之最早老學校，所存校方文獻史籍(書類、帳冊、證明\n   書類)，均值得保存，為臺灣地區近代教育史留下見證。\n",
+    "lawsReference": "古物分級指定及廢止審查辦法第 2 條第2、3、5、6款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "研究員",
+    "govDeptPhone": "02-23115355#20",
+    "govDeptAddress": "臺北市萬華區中華路1段174-1",
+    "reservationCode": "無",
+    "amount": 1,
+    "descAge": "1903年 (明治36年)",
+    "descSize": "32cm*43cm*2cm",
+    "descMaterial": "紙質",
+    "reserveStatusDesc": "日本時期留下之證書",
+    "pastHistorySource": 1,
+    "saveEnvironment": 1,
+    "reserveStatus": "有摺痕、尚完整",
+    "documents": [
+        {
+            "fileid": 15964,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2017-09-25/dc37736f-5693-43b7-9f6d-827150fe7736/公告.pdf"
+        },
+        {
+            "fileid": 47410,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-01-16/16c04b11-2fbf-4be5-a747-0429a9095561/公告表.pdf"
+        }
+    ],
+    "representImageSource": "臺北市士林區士林國民小學",
+    "keepNames": [
+        {
+            "keepNameIdStr": "臺北市士林區士林國民小學",
+            "keepName": "羅麗文",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "臺北市士林區士林國民小學",
+            "keepAddressNew": "臺北市士林區大東路165號",
+            "saveSpaceIdStr": "學校",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameAddress": "大東路一六五號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 5194,
+            "caseId": 5056,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108
+        }
+    ],
+    "announces": [
+        {
+            "id": 5194,
+            "caseId": 5056,
+            "caseStatus": true,
+            "registerDate": 1505706242179,
+            "officialDocNo": "古物分級指定及廢止審查辦法第 2 條第2、3、5、6款",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

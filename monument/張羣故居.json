@@ -1,0 +1,121 @@
+{
+    "id": 157,
+    "caseId": "20140613000001",
+    "count": 5315,
+    "shareCount": 0,
+    "representImage": 186339,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/6c28b5cc-8eb9-4c2a-93cd-f4005aeda896/代表圖像_20220714_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/6c28b5cc-8eb9-4c2a-93cd-f4005aeda896/代表圖像_20220714.jpg",
+        "name": "代表圖像_20220714"
+    },
+    "caseName": "張羣故居",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "本建物為曾任行政院院長、總統府秘書長張羣先生（1889~1990）寓所，由臺灣戰後現代建築代表建築師王大閎所設計，建物外部為鋼筋混凝土柱廊，並採用清水磚、斬石子及空心磚（壽字）等材料，其附屬建物（原佣人房、儲藏室）並設有採光天井，為臺灣近代建築發展過程傳統與現代建築融合、轉化之見證。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 145160,
+            "name": "3._1030613指定市定古蹟公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/daf51721-54c7-410a-b321-94df623f6fb4/3._1030613指定市定古蹟公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "重要歷史事件或人物之關係",
+        "具建築史上之意義，有再利用之價值及潛力者",
+        "具其他古蹟價值者"
+    ],
+    "registerReason": "1、本建物為曾任行政院院長、總統府秘書長張羣先生（1889~1990）寓所，由臺灣戰後現代建築代表建築師王大閎所設計，建物外部為鋼筋混凝土柱廊，並採用清水磚、斬石子及空心磚（壽字）等材料，其附屬建物（原佣人房、儲藏室）並設有採光天井，為臺灣近代建築發展過程傳統與現代建築融合、轉化之見證。 2、本建物為方形平面格局，外觀立面分割規整、比例嚴謹，四周挑高迴廊，簡潔的樑柱結構表現延伸至門口、門窗部位，正向入口倒吊樑出挑，建物保持王大閎建築師的一貫風格，展現出強烈的現代式樣風貌。",
+    "lawsReference": "符合古蹟指定及廢止審查辦法第2條第1項第1、2、5、6款評定基準。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 145161,
+            "name": "6737d7ad-1f43-495f-b9f8-5b88fd75cd2f.gif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/d6192ebc-bf90-4e41-aaec-5b14b84f9487/6737d7ad-1f43-495f-b9f8-5b88fd75cd2f.gif"
+        },
+        {
+            "fileid": 145162,
+            "name": "土地鑑界成果圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/35a8a689-115c-4617-bfa7-60f26372aa40/土地鑑界成果圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "公園用地",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市士林區福林段二小段294-3地號（部分）",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "建物現況良好。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.5299557,
+    "latitude": 25.0909479,
+    "representImageSource": "臺北市文化局",
+    "landScope": "士林官邸公園旁，臺北市士林區福林段二小段294-3地號（部分）",
+    "selfCoverage": "福林段二小段20050建號",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 93174,
+            "caseId": 157,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "中山北路五段378巷1號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "福林段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 114505,
+            "caseId": 157,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 517,
+            "landSerialNo": "0294-0003",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "3709.34",
+            "cityLandUseTypeOther": "公園用地",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 100569,
+            "caseId": 157,
+            "caseStatus": true,
+            "registerDate": 1402588800000,
+            "officialDocNo": "北市文化文資字第 10330405800 號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false,
+    "pastHistorySource": ""
+}

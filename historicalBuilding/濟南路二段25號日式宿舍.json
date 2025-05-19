@@ -1,0 +1,114 @@
+{
+    "id": 919,
+    "caseId": "20041001000009",
+    "count": 2770,
+    "shareCount": 1,
+    "representImage": 167796,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/0cc7ca7b-9e5e-4789-9457-c1fd27857894/齊東舍1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/0cc7ca7b-9e5e-4789-9457-c1fd27857894/齊東舍1.jpg",
+        "name": "齊東舍1"
+    },
+    "caseName": "濟南路二段25號日式宿舍",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本區建築群落原為日據時期所屬單位不同階級職務的文官宿舍，且位於殖民城市官員住宅區之中心。其後又為光復初期國民政府中央官員宿舍，建築內、外部空間仍保有日式宿舍之建築特色，具當時都市住宅群落特徵、其整體佈局與建物構造、形式皆完整之保存價值。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 285821,
+            "name": "93年10月1日公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2025-05-09/586f98a5-bc4d-48d4-ade9-c1411e73f2b0/93年10月1日公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "本區建築群落原為日據時期所屬單位不同階級職務的文官宿舍，且位於殖民城市官員住宅區之中心。其後又為光復初期國民政府中央官員宿舍，建築內、外部空間仍保有日式宿舍之建築特色，具當時都市住宅群落特徵、其整體佈局與建物構造、形式皆完整之保存價值。\n該建築群夾處鬧市中，卻擁有綠蔭公園與空地形成之綠意空間，其人性化的低密度空間對形塑良好的都市環境具有實質之貢獻。\n齊東街五十三巷二、四、六、八、九、十、十三號之建物屋頂雖受損，但可修復性高，鄰近濟南路二段二十五號、二十七號建物曾為空軍總司令與副總司令之官邸，全區日式住宅各種特色仍具備，有群落保存價值。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 285822,
+            "name": "地籍.png",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2025-05-09/5ea13eb0-59b5-4a53-af47-4c13f806bab3/地籍.png"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "locationLandNo": "中正區臨沂段一小段601地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "修復完成",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenVisit": true,
+    "isCharge": true,
+    "isOpenDownload": false,
+    "longitude": 121.5282925,
+    "latitude": 25.0411971,
+    "representImageSource": "臺北市文化局",
+    "landScope": "中正區臨沂段一小段601地號",
+    "selfCoverage": "174.81平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 149427,
+            "caseId": 919,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "濟南路2段25號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "臨沂段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 206989,
+            "caseId": 919,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 136,
+            "landSerialNo": "601",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "634平方公尺",
+            "cityLandUseTypeOther": "聚落風貌保存專用區",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 162543,
+            "caseId": 919,
+            "caseStatus": true,
+            "registerDate": 1096560000000,
+            "officialDocNo": "府文化二字第09304449800號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "公告"
+}

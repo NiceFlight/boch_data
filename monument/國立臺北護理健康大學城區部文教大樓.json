@@ -1,0 +1,121 @@
+{
+    "id": 15931,
+    "caseId": "20180709000001",
+    "count": 5447,
+    "shareCount": 8,
+    "representImage": 168125,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/981025d8-ffeb-4394-89a7-c6627087b388/_代表圖像_國立臺北護理健康大學城區部文教大樓_20220601_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/981025d8-ffeb-4394-89a7-c6627087b388/_代表圖像_國立臺北護理健康大學城區部文教大樓_20220601.jpeg",
+        "name": "_代表圖像_國立臺北護理健康大學城區部文教大樓_20220601"
+    },
+    "caseName": "國立臺北護理健康大學城區部文教大樓",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "護理教育、醫學教育及工藝教育為1950-1960年間政府因應人才需求重要政策的重點施政項目，臺北護專即為其重要歷史發展見證。\n從臺灣現代建築史而言，本建物代表1960年代初現代運動設計思潮下最具代表性的建築作品，值得保存。\n建物施工甚具水準，現況尚佳，為基泰公司在臺重點代表建築，亦為臺灣近現代建築史案例，有其建築史價值。\n",
+    "assetsTypeNames": "學校",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 202202,
+            "name": "108年公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-12-09/54d5f91d-48ec-4eed-8e07-4f94c87d20f2/108年公告.pdf"
+        },
+        {
+            "fileid": 202203,
+            "name": "111年公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-12-09/44d94bf8-4f40-4526-8231-a58b0879a80a/111年公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具高度歷史、藝術或科學價值者",
+        "表現各時代營造技術流派特色者"
+    ],
+    "registerReason": "1.本建物為基泰建築師事務所設計，為現代主義樣式建築，代表1960年代初現代運動設計思潮下的建築作品，具建築史價值。\n2.本建築比例甚佳，設計特色包括南面之垂直遮陽、底層排空流暢空間及開放樓梯間，且施工甚具水準，具保存價值。\n",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、2款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 58846,
+            "name": "地籍地形圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2019-05-14/a06c64ac-e46c-46ee-8b7a-1af1db0f3a38/地籍地形圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "大專用地",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市萬華區漢中段一小段789地號（部分）",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.5033595,
+    "latitude": 25.0417554,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市萬華區漢中段一小段789地號（部分，該筆土地面積5,646.55平方公尺）（實際保存面積須以保存範圍實測數據為準）",
+    "selfCoverage": "文教大樓建築本體",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "id": 106215,
+            "caseId": 15931,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "address": "內江街89號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "landNoName": "漢中段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 130765,
+            "caseId": 15931,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "landNoId": 172,
+            "landSerialNo": "789",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "5,646.55平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 113880,
+            "caseId": 15931,
+            "caseStatus": true,
+            "registerDate": 1556121600000,
+            "officialDocNo": "北市文化文資字第10830159592號",
+            "classificationId": 1,
+            "note": "指定"
+        },
+        {
+            "id": 113881,
+            "caseId": 15931,
+            "caseStatus": true,
+            "registerDate": 1662998400000,
+            "officialDocNo": "北市文化文資字第11130323811號",
+            "classificationId": 2,
+            "note": "變更定著土地範圍"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false
+}

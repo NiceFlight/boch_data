@@ -1,0 +1,100 @@
+{
+    "id": 4486,
+    "caseId": "20170203000003",
+    "count": 363,
+    "shareCount": 1,
+    "representImage": 7547,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133825/photo/3宋人秋荷野鳧圖軸_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133825/photo/3宋人秋荷野鳧圖軸.jpg",
+        "name": "3宋人秋荷野鳧圖軸"
+    },
+    "caseName": "宋人秋荷野鳧圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1486051200000,
+    "officialDocNo": "中華民國106年2月3日文授資局物字第10630011521號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就"
+    ],
+    "registerReason": "此作畫秋江煙波中，近景寫秋荷敗葉、蘆汀野雁，題材兼具山水畫與花鳥畫的特質。通幅設色醇厚，物象優雅寫實，畫雁筆筆細謹，神情生動逼真，展現了畫家深入觀察自然之功力，也凸顯出濃厚的宋畫韻味。據畫面構圖研判，本件有可能為一組對幅繪畫的左幅，此類對幅形式的作品，在北宋畫院即已有之，另據畫上所鈐明初的內府司印半印，更加確定作品的完成年代，應比明代為早，最有可能出自宋代院畫家之手，足以反映宋代畫院所強調的寫實精神。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第3、4款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": " 04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000205",
+    "amount": 1,
+    "descAge": "宋",
+    "descSize": "79.4公分x 46.4公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "秋江煙波中，近景繪秋荷敗葉、蘆汀野雁。畫雁筆筆精謹，且情韻生動。畫面因年代久遠，有些暗沉，但仍不減其宋畫韻味。比對院藏宋人〈畫秋塘雙雁〉，北宋徽宗朝（1102-1126）畫院之作，畫中主題雙鵝，分置在畫幅左右，通幅畫面由兩幅絹併接而成。宋人〈秋荷野鳧圖〉畫中野雁與蓮梗、葦草皆朝右方，推測原先可能為對幅畫軸的左幅。右下角的明初「司印」半印，因重裝時裁切太多，僅存邊框上半。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。本幅有絹裂、折裂、污漬、磨傷損、傷補。",
+    "documents": [
+        {
+            "fileid": 148325,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-22/e317602b-bb43-4558-b229-a3fc1ead35d1/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69428,
+            "caseId": 4486,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73590,
+            "caseId": 4486,
+            "caseStatus": true,
+            "registerDate": 1486051200000,
+            "officialDocNo": "中華民國106年2月3日文授資局物字第10630011521號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

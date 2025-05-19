@@ -1,0 +1,115 @@
+{
+    "id": 3047,
+    "caseId": "20141017000011",
+    "count": 702,
+    "shareCount": 0,
+    "representImage": 230804,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-09-06/afbfb114-3778-4df0-afbe-3ecabbfb6934/嚴禁勒索竹排船伕碑_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-09-06/afbfb114-3778-4df0-afbe-3ecabbfb6934/嚴禁勒索竹排船伕碑.jpg",
+        "name": "嚴禁勒索竹排船伕碑"
+    },
+    "caseName": "嚴禁勒索竹排船伕碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-其他",
+    "otherAssetsType": "碑碣",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1413475200000,
+    "officialDocNo": "府授文資字第1030199118A號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本碑為清道光4年（1824年）給立，緣以早期竹山居民以竹為經濟作物，砍下後捆結成竹排入河送至市場拍賣，由於利潤豐厚，有下游人家居中攔截勒索，後經協調，議定酌收竹排放運費以為林圮埔天后宮及溪洲元帥之香燈諸費，由知縣李振青出示此曉諭，並勒石於連興宮，立碑申律，深具歷史、文化與當時民間經濟活動之研究價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第2條第1項第1、5、6款",
+    "govInstitutionCode": "540",
+    "govInstitutionName": "南投縣政府",
+    "belongCityId": 12,
+    "belongCityName": "南投縣",
+    "belongDistName": "竹山鎮",
+    "govInstitution": "南投縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "049-2231191",
+    "govDeptAddress": "540南投市建國路135號",
+    "reservationCode": "無",
+    "amount": 1,
+    "notes": "",
+    "descAge": "清道光4年(1824)",
+    "descSize": "137*53*12公分",
+    "descMaterial": "砂岩",
+    "reserveStatusDesc": "陰刻，長方形碑體。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 2,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 177033,
+            "name": "嚴禁勒索竹排船伕碑修正公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-29/2d06feec-2045-4a20-b4c0-666ad8e91679/嚴禁勒索竹排船伕碑修正公告.pdf"
+        },
+        {
+            "fileid": 177035,
+            "name": "嚴禁勒索竹排船伕碑 原公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-29/fa906ff7-d4e3-4869-9626-f57d0d97c823/嚴禁勒索竹排船伕碑 原公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.68808,
+    "latitude": 23.75641,
+    "representImageSource": "南投縣政府文化局(拍攝者:禾影文化影像工作室)",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "連興宮",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "南投縣竹山鎮 竹山路28號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "南投縣",
+            "distName": "竹山鎮",
+            "id": 114467,
+            "caseId": 3047,
+            "caseStatus": true,
+            "cityId": 12,
+            "distId": 1212
+        }
+    ],
+    "announces": [
+        {
+            "id": 124626,
+            "caseId": 3047,
+            "caseStatus": true,
+            "registerDate": 1405040373099,
+            "officialDocNo": "府授文資字第1030133820A號",
+            "classificationId": 1
+        },
+        {
+            "id": 124627,
+            "caseId": 3047,
+            "caseStatus": true,
+            "registerDate": 1413475200000,
+            "officialDocNo": "府授文資字第1030199118A號",
+            "classificationId": 2
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,97 @@
+{
+    "id": 18985,
+    "caseId": "20210429000013",
+    "count": 193,
+    "shareCount": 0,
+    "representImage": 108094,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-04-29/fc2f5ef7-5139-4ca5-9ae7-0e62cb2c53ea/16南宋至元 青瓷凹稜瓶_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-04-29/fc2f5ef7-5139-4ca5-9ae7-0e62cb2c53ea/16南宋至元 青瓷凹稜瓶.jpg",
+        "name": "16南宋至元 青瓷凹稜瓶"
+    },
+    "caseName": "南宋至元 青瓷凹稜瓶",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "數量特別稀少或具完整性保存意義者",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此器呈斂口捲邊，長頸，腹部上斂下豐，平底，矮圈足。腹部四凹稜，面成扁平。薄胎厚釉，色勻而潤。口沿現灰色邊，碎紋密佈。足底露胎，外塗赭色汁。底面鐫刻乾隆皇帝〈詠官窯瓶〉御製詩。詩末署「乾隆壬寅春御題」紀年銘（乾隆四十七年，1782），並落「太璞」一枚鈐印。現今所知傳世帶有御製詩的瓷器，約為130件，可知數量特別稀少。透過御製詩的內容以及器上鈐印，可推知乾隆皇帝對此器的識別與鑑賞觀。此器造形模仿自玻璃器，為當時不同材質之間工藝交流的具體例證。於郎世寧和金廷標合繪〈乾隆古裝像軸〉，可見與此器極為相似之作，推測該瓶曾為乾隆皇帝書房中的花瓶。另外，依照嘉慶朝《陳設檔》(1802)的紀錄，可知此瓶屬養心殿前殿東暖閣「博古格」的文物，益顯珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "0422177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故瓷17903",
+    "amount": 1,
+    "descAge": "南宋至元",
+    "descSize": "高15.8公分　寬7.7公分",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "此器呈斂口捲邊，長頸，腹部上斂下豐，平底，矮圈足。腹部押出四凹稜，形成四個扁平面。胎體稍薄，上施青瓷釉，釉色月白，釉表開細密紋片。口沿釉薄，現出灰色邊，施釉至足際，露胎處加塗赭色護胎汁。底面鐫刻乾隆皇帝〈詠官窯瓶〉御製詩。詩末署「乾隆壬寅春御題」紀年銘（乾隆四十七年，1782），並落「太璞」一枚鈐印。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "良好。",
+    "documents": [
+        {
+            "fileid": 143126,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-05/c2cb9f90-09b4-4d91-841b-ac68fd3bbf28/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 121.548432,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "國立故宮博物院",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 66511,
+            "caseId": 18985,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 70694,
+            "caseId": 18985,
+            "caseStatus": true,
+            "registerDate": 1617793550115,
+            "officialDocNo": "文授資局物字第11030033241號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

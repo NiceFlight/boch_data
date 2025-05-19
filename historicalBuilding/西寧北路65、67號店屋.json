@@ -1,0 +1,146 @@
+{
+    "id": 1000,
+    "caseId": "20130326000001",
+    "count": 3904,
+    "shareCount": 11,
+    "representImage": 177905,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/543c5ec8-ee3e-4d83-ac53-26c654f1835c/代表圖像_西寧北路65、67號店屋_20220707_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/543c5ec8-ee3e-4d83-ac53-26c654f1835c/代表圖像_西寧北路65、67號店屋_20220707.jpg",
+        "name": "代表圖像_西寧北路65、67號店屋_20220707"
+    },
+    "caseName": "西寧北路65、67號店屋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "西寧北路65、67號建物前方曾緊鄰通往淡水河之小運河「港仔溝」，該運河為清末至日治初期茶葉運輸河道，西寧北路65、67號位於河道流經之彎曲處，建物也因此形成退縮，見證臺北茶港之歷史。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 163161,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/d98760b5-d4b2-4f08-a5f5-60b7e2ea586c/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1.西寧北路65、67號建物配置、退縮立面及前方退縮地，反映出迪化街西邊原有一河溝運河，該河溝運河連通淡水河，為清末至日治初期重要茶業運輸河道，見證臺北茶港之歷史。\r\n2.符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、2、4款評定基準。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、2、4款評定基準。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 163162,
+            "name": "downloadfile.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/5fe6644d-3817-4589-9d61-eda9540035d0/downloadfile.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "大稻埕歷史風貌特定專用區",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市大同區大同區迪化段三小段276、277、278地號",
+    "buildingFeatures": "三層樓之建物，外牆為洗石子。",
+    "inHouseFeatures": "室內為一進、一過水之格局，並有天井空間。",
+    "buildingUsage": "目前作為辦公室、住家使用。",
+    "buildingActualState": "現狀良好",
+    "buildingKeyMaintainItem": "保存範圍：全棟保存\r\n附帶決議：本案建物前方退縮地，應留為開放空地使用，以展現早期歷史演變之風貌。",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.5089615075856,
+    "latitude": 25.05472613037056,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市大同區迪化段三小段276、277、278地號，面積：292平方公尺",
+    "selfCoverage": "西寧北路65號面積約為235.82平方公尺、西寧北路67號面積約為195.06平方公尺（實際保存面積需以保存範圍實測數據為準）",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 88150,
+            "caseId": 1000,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "西寧北路65號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 88151,
+            "caseId": 1000,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "西寧北路67號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 104354,
+            "caseId": 1000,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 194,
+            "landSerialNo": "275",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "152",
+            "cityLandUseTypeOther": "大稻埕歷史風貌特定專用區",
+            "note": "西寧北路65號，合併自：０２７６－００００、０２７８－００００地號(1090313)",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 104355,
+            "caseId": 1000,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 194,
+            "landSerialNo": "277",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "151",
+            "cityLandUseTypeOther": "大稻埕歷史風貌特定專用區",
+            "note": "西寧北路67號，合併自：０２７８-1號(1090313)",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 95051,
+            "caseId": 1000,
+            "caseStatus": true,
+            "registerDate": 1364227200000,
+            "officialDocNo": "北市文化二字第10230309100號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

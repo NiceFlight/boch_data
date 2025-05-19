@@ -1,0 +1,94 @@
+{
+    "id": 22983,
+    "caseId": "20240918000017",
+    "count": 22,
+    "shareCount": 0,
+    "representImage": 262182,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-09-13/45b857cb-8eeb-425b-adc3-10015384fe88/PK1B017491N000000000PAC_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-09-13/45b857cb-8eeb-425b-adc3-10015384fe88/PK1B017491N000000000PAC.jpg",
+        "name": "PK1B017491N000000000PAC"
+    },
+    "caseName": "清 乾隆 琺瑯彩雲龍紋碗 一對",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "此對琺瑯彩雲龍紋碗色澤艷麗，黃、紅、綠龍穿梭在藍天白雲及波濤之間，配色特殊，主要紋飾幾無二致，僅碗心荔枝及葉片佈局略異。荔枝為琺瑯彩及洋彩器上較為少見的裝飾。琺瑯彩瓷是盛清代表工藝之一，乾隆朝是琺瑯彩瓷發展的成熟階段，此二器品質精美，繪製細膩，且或為《活計檔》中紀錄的「磁胎法瑯山水雲龍碗一對」，益顯珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第4、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故瓷017491、故瓷017492",
+    "amount": 2,
+    "descAge": "清乾隆",
+    "descSize": "故瓷017491：高6.3 口徑15.2 底徑5.4、故瓷017492：高6.3 口徑15.2 底徑5.3",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "此對琺瑯彩雲龍紋碗撇口、弧壁、矮圈足。外壁繪波濤雲龍，姿態各異，碗心繪有荔枝，圈足內有雙方框藍料「乾隆年製」款。黃、紅、綠龍穿梭在藍天白雲及波濤之間，配色特殊。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": " ",
+    "documents": [
+        {
+            "fileid": 262180,
+            "name": "11330087931號公告用印後PDF.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-09-13/863b8c2a-0ae9-4e3c-80f4-6689479a0e15/11330087931號公告用印後PDF.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 135969,
+            "caseId": 22983,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 148456,
+            "caseId": 22983,
+            "caseStatus": true,
+            "registerDate": 1725343716162,
+            "officialDocNo": "文授資局物字第11330087931號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,96 @@
+{
+    "id": 18218,
+    "caseId": "20201217000028",
+    "count": 406,
+    "shareCount": 0,
+    "representImage": 90091,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-12-17/ab2f83bf-4072-47a8-884e-4f05126d36a1/18_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-12-17/ab2f83bf-4072-47a8-884e-4f05126d36a1/18.jpg",
+        "name": "18"
+    },
+    "caseName": "惠比壽饅頭根付",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1606376567913,
+    "officialDocNo": "北市獻編字第1093004298號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "1. 根付為日本人生活實用之器具之一，雕刻七福神代表日本信仰民俗特色，反映日本風俗、傳說、族群及工藝特色。\n2. 作工精緻藝術性高，紋飾甚為精細具有特色，具藝術造詣。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174-1號",
+    "reservationCode": "18",
+    "amount": 1,
+    "descAge": "日本明治時期",
+    "descSize": "徑 5 公分",
+    "descMaterial": "象牙",
+    "reserveStatusDesc": "本組作品取象牙雕琢圓形根付，象牙包漿潤澤，色澤米黃，顯露古樸時代氣韻。根付字面意思是帶子的尾端，是日本傳統服裝和服的配套附件，用途是卡在和服腰帶上，掛住下面的提物。根付陰刻日本神話中的海神惠比壽及鯛魚，惠比壽手舞足蹈，肢體動作鮮活，表情細膩，頭戴烏帽，身穿狩衣，衣折紋理細膩，以俐落簡約的線條表現，不顯繁瑣，手足姿態表現的栩栩如生，人物動感十足。以如此小巧的材料，創作出豐富的故事情節，藝術家極為細膩的巧思令人驚豔。\n惠比壽原先是漁民信仰的海上守護神，頗似中國沿海地區的「媽祖」信仰，後來由於海運的興起而成了商業神、財神。到十四、十五世紀，演變成為民眾的一般信仰。惠比壽屬於七福神之一，也是七福神中唯一一個日本固有神明，左手懷抱鯛魚常見的形象。本根付尺幅極小，然雕琢毫不馬虎，人物與鯛魚細節與質感面面俱到，甚為精彩。\n作者生平不詳。",
+    "pastHistorySource": 1,
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定。",
+    "documents": [
+        {
+            "fileid": 90092,
+            "name": "臺北市公告指定一般古物1091126.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-17/1935b6c6-4f1b-4b1c-bae1-135b472c9f02/臺北市公告指定一般古物1091126.pdf"
+        }
+    ],
+    "keepNames": [
+        {
+            "keepNameIdStr": "郭○穎",
+            "keepName": "郭○穎",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "郭○穎",
+            "keepAddressNew": "臺北市中正區重慶南路二段15號7樓",
+            "saveSpaceOther": "庫房",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "大安區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 7833,
+            "caseId": 18218,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 7833,
+            "caseId": 18218,
+            "caseStatus": true,
+            "registerDate": 1606376567913,
+            "officialDocNo": "北市獻編字第1093004298號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

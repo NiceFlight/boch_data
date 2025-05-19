@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "雲林縣虎尾鎮仁愛段412-7"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

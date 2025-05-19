@@ -1,0 +1,101 @@
+{
+    "id": 20519,
+    "caseId": "20220318000008",
+    "count": 1748,
+    "shareCount": 3,
+    "representImage": 155501,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/4da0eb7d-bbff-460f-b554-0e3ed36b1189/S__7503922_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/4da0eb7d-bbff-460f-b554-0e3ed36b1189/S__7503922.jpg",
+        "name": "S__7503922"
+    },
+    "caseName": "臺灣大學醫學院舊藥學館",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "日治時期(1911年)左右興建，原為帝大木造學生宿舍，1937年改建為帝大藥理學教室，增加車寄及立面形式改變，成為磚造2樓建築，1樓淺色面磚，2樓淺色洗石子，後期增建改為學生餐廳。2000年因興建臺大醫院國際會議中心，藥學系館向北搬遷22.57公尺到徐州路側，拆除增建部分，目前樣貌大致維持1937年。",
+    "assetsTypeNames": "學校",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 155502,
+            "name": "公告+圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/4aad444f-b17c-4b3d-8ed0-2e7d99fe234f/公告+圖.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1.本建物始建於1911年，日赤醫院第六病房、帝大學生宿舍使用。1936年改建後作為帝大藥理學教室，戰後曾做為藥學系館使用，1984年藥學系遷出後，被稱為舊藥學館。1999年為興建臺大醫院國際會議中心暨醫學研究大樓，拆除本建物增建物並向北平移至現地，具歷史意義。\n2.本建物一樓淺色面磚，二樓淺色洗石子，木樓板、木屋架、斜屋頂，入口門廊內有洗石子裝修與線腳裝飾，內部中央樓梯保存尚為完整，欄杆形式作工精緻，建築多維持1936年整修時樣貌，具建築價值。\n3.符合歷史建築紀念建築登錄廢止審查及輔助辦法第2條第1、2、3款登錄基準。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 155503,
+            "name": "範圍示意圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/25860190-54b3-4e9b-8c52-c3ec69c39eca/範圍示意圖.pdf"
+        }
+    ],
+    "longitude": 121.52075067070837,
+    "latitude": 25.041190093122246,
+    "representImageSource": "文化局",
+    "landScope": "中正區中正段三小段99地號（部分，該筆土地面積90,078平方公尺）。",
+    "selfCoverage": "建物總面積1,012.68平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 73656,
+            "caseId": 20519,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "徐州路2之5號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "中正段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 71644,
+            "caseId": 20519,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 135,
+            "landSerialNo": "99",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "90078",
+            "cityLandUseTypeOther": "大專用地（公共設施用地）",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 78671,
+            "caseId": 20519,
+            "caseStatus": true,
+            "registerDate": 1647532800000,
+            "officialDocNo": "北市文化文資字第11130112151號",
+            "classificationId": 1,
+            "note": "登錄"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "國立臺灣大學"
+}

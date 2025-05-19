@@ -1,0 +1,105 @@
+{
+    "id": 15679,
+    "caseId": "20180503000001",
+    "count": 635,
+    "shareCount": 0,
+    "representImage": 48128,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-05-03/ba1a91c6-9fd8-4add-8b7e-da7b379e0729/DSCN6147_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-05-03/ba1a91c6-9fd8-4add-8b7e-da7b379e0729/DSCN6147.jpg",
+        "name": "DSCN6147"
+    },
+    "caseName": "潮軍義勇祠碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1520407715217,
+    "officialDocNo": "高市府文資字第10730387800號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者"
+    ],
+    "registerReason": "據盧德嘉「鳳山縣采訪冊」所載：「潮州義勇祠，在舊治天后宮左畔在舊治天后宮左畔(興隆)，縣西十五里，屋十間，光緒四年福建補用道方勳建。又籌生息銀六百兩，存交鄭、謝兩姓，為逐年祭祀、修理之費。」該祠毀於日治時期，僅存此石碑印證該祠與史籍對於潮軍徵剿鳳山縣轄內諸番社之戰役，具補史之價值。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2款",
+    "govInstitutionCode": "800",
+    "govInstitutionName": "高雄市政府",
+    "belongCityId": 18,
+    "belongCityName": "高雄市",
+    "belongDistName": "左營區",
+    "govInstitution": "高雄市政府",
+    "govDeptName": "高雄市立歷史博物館",
+    "govDeptPhone": "07-5312560#236",
+    "govDeptAddress": "高雄市鹽埕區中正四路272號",
+    "reservationCode": "無",
+    "amount": 1,
+    "descAge": "1878年",
+    "descSize": "長120cm、寬66cm、厚9cm",
+    "descMaterial": "花崗岩",
+    "reserveStatusDesc": "本碑背景為清光緒3年（1877）鳳山縣轄內諸番社騷亂，大殺修路漢人，潮軍便被調往徵剿，於諸戰役中陣亡、病死者達300餘人，方勳乃在清光緒4年（1878）建潮州義勇祠，以祭祀潮汕義勇。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 3,
+    "reserveStatus": "本府於民國七十二年重修鳳山舊城孔廟崇聖祠時，將散置附近的十方石碑蒐集起來，重新立於祠後，成為碑林，石碑目前狀態穩定，日後會持續在原地保存。",
+    "documents": [
+        {
+            "fileid": 48126,
+            "name": "24749248_10730387800.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-05-03/37ba71b7-d2b1-4df9-8a4d-14843867b959/24749248_10730387800.pdf"
+        },
+        {
+            "fileid": 48127,
+            "name": "一般古物指定公告表-106大會指定 (公告版).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-05-03/680495a5-4cd7-41fe-92ab-4cdf5749072a/一般古物指定公告表-106大會指定 (公告版).pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.2930037,
+    "latitude": 22.6831769,
+    "representImageSource": "高雄市立歷史博物館拍攝",
+    "keepNames": [
+        {
+            "keepNameIdStr": "高雄市立舊城國民小學",
+            "keepName": "舊城國小／曾望超（總務主任）",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "高雄市立舊城國民小學",
+            "keepAddressNew": "高雄市左營區蓮潭路47號",
+            "saveSpaceIdStr": "學校",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "高雄市",
+            "keepNameDistName": "左營區",
+            "keepNameAddress": "蓮潭路47號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "高雄市",
+            "distName": "左營區",
+            "id": 148681,
+            "caseId": 15679,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1811,
+            "address": "蓮潭路47號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 161648,
+            "caseId": 15679,
+            "caseStatus": true,
+            "registerDate": 1520407715217,
+            "officialDocNo": "高市府文資字第10730387800號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

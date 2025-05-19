@@ -1,0 +1,105 @@
+{
+    "id": 3415,
+    "caseId": "20131219000039",
+    "count": 29,
+    "shareCount": 0,
+    "representImage": 5954,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7172/photo/忠義錄(明刊本)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7172/photo/忠義錄(明刊本).jpg",
+        "name": "忠義錄(明刊本)"
+    },
+    "caseName": "忠義錄(明刊本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1387382400000,
+    "officialDocNo": "文資局物字第 10220148851號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "明正統五年(1440)四明袁氏家刊本。\n撰者袁忠徹(1377-1459)，字靜思，鄞縣人。好學，博涉多聞，藏書甚豐，築有瞻袞堂藏書樓。\n此書內容為作者撰其先人宋季忠臣袁鏞英烈殉國事蹟，輯錄有關的贊、傳、誄、詩等，可補正史之不足。\n明代罕見之版本，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號02731",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 2,
+    "notes": "",
+    "descAge": "明正統五年(1440)",
+    "descCreator": "明袁忠徹撰",
+    "descSize": "半葉11行，版匡19.6x13.9公分",
+    "descMaterial": "紙質刊本",
+    "reserveStatusDesc": "不分卷。\n此書內容為作者撰其先人宋季忠臣袁鏞英烈殉國事蹟，輯錄有關的贊、傳、誄、詩等，可補正史之不足。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "無虫蛀。經修裱，保存狀況良好。\n",
+    "documents": [
+        {
+            "fileid": 5955,
+            "name": "6b9799e8-24cb-40c1-93cb-0ea8a3eba76f.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44030/file/6b9799e8-24cb-40c1-93cb-0ea8a3eba76f.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3557,
+            "caseId": 3415,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3557,
+            "caseId": 3415,
+            "caseStatus": true,
+            "registerDate": 1387382400000,
+            "officialDocNo": "文資局物字第 10220148851號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

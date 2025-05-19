@@ -1,0 +1,102 @@
+{
+    "id": 4469,
+    "caseId": "20160803000007",
+    "count": 180,
+    "shareCount": 0,
+    "representImage": 7514,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/132855/photo/明董其昌臨月儀帖卷1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/132855/photo/明董其昌臨月儀帖卷1.jpg",
+        "name": "明董其昌臨月儀帖卷1"
+    },
+    "caseName": "明董其昌臨月儀帖卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1470153600000,
+    "officialDocNo": "文授資局物字第10530074283號",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "董其昌（1555-1636），晚明書壇領袖，是影響明清兩代的重要書畫家，其提出的許多書論與畫論，至今仍是書畫史研究的重要課題。\n此卷為董其昌於萬曆三十年（1602），首次見到唐人〈月儀帖〉，隨即加以臨寫，並自認與原帖相當接近。此作為其傳世小草代表作，由於使用性質相異的紙張書寫，反應出書家對於紙張材質的喜好與掌握，對書法的物質文化研究具有特殊意義。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第4、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故書000124",
+    "amount": 1,
+    "descAge": "明",
+    "descCreator": "董其昌",
+    "descSize": "28.8 x 261.3公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "萬曆三十年（1602）四月，董其昌至金沙（金壇）拜訪于玉立（?-1620），首次見到唐人〈月儀帖〉，隨即加以臨寫，並自認與原帖相當接近，當時雖有將其刻入〈戲鴻堂帖〉的想法，不過隔年完成的刻帖卻並未收入。〈月儀帖〉為晉、唐時期朋友間的書信範本，按月有不同的格式與問候方式。卷中使用的紙各段俱不相同，高士奇推測是由於無暇選紙。淡色紙纖維明顯，表面較粗澀，書寫流暢度受阻，點畫也略顯拘束。中段的深色藏經紙光滑細密，寫來得心應手，點畫、墨色皆變化豐富。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "受損需馬上處理。包首：缺別子、磨損、霉傷。",
+    "documents": [
+        {
+            "fileid": 7515,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/132857/file/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69586,
+            "caseId": 4469,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73753,
+            "caseId": 4469,
+            "caseStatus": true,
+            "registerDate": 1470153600000,
+            "officialDocNo": "文授資局物字第10530074283號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

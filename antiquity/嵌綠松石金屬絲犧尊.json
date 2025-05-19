@@ -1,0 +1,106 @@
+{
+    "id": 16573,
+    "caseId": "20190215000012",
+    "count": 362,
+    "shareCount": 0,
+    "representImage": 55458,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-02-15/61e23cda-ef45-4b9e-b1f2-8d7b65099164/14-故銅002382-1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-02-15/61e23cda-ef45-4b9e-b1f2-8d7b65099164/14-故銅002382-1.jpg",
+        "name": "14-故銅002382-1"
+    },
+    "caseName": "嵌綠松石金屬絲犧尊",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1550124524291,
+    "officialDocNo": "文授資局物字第10830016641號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此犧尊造型寫實，圓潤光滑，身體結構和肌肉紋理細膩逼真。全器鑲嵌珍貴的金屬絲，並以綠松石點綴，作工精緻，極盡華麗，展現戰國時期金銀絲鑲嵌工藝的高超技巧。\n類似的犧尊也見出土於戰國時期墓葬，如江蘇漣水三里墩大型墓葬及河北中山國靈壽城成公墓。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第3、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故銅002382",
+    "amount": 1,
+    "descAge": "戰國中期(西元前4世紀) ",
+    "descSize": "長39.5公分/寬14.5公分/高29公分",
+    "descMaterial": "銅/鑄造",
+    "reserveStatusDesc": "全器作四蹄動物穩立狀，立耳，圓眼，四蹄足，尾下垂。以寫實的風格呈現動物姿態及肌理。做為戰國時期的酒器，以獸口為流，背上開口，有活頁式蓋。\n器表為黑褐色，間以青綠。通體以銀絲鑲嵌斜角雲紋，並飾以華美的綠松石及金銀鑲嵌。在面部，以圓金鑲嵌為眼珠，鼻梁、眉、額以綠松石點綴。頸部嵌金一周，表示項圈。背蓋上為蟠龍形金銀鑲嵌。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏。",
+    "saveEnvironment": 1,
+    "reserveStatus": "良好，足、腹部經修補；鑲嵌局部脫失。",
+    "documents": [
+        {
+            "fileid": 146859,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-02/5a12d5a8-a6ff-4fa4-b5a7-f06f236f57cc/公告.pdf"
+        },
+        {
+            "fileid": 146860,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-02/503df162-2b29-4b64-8e22-91900e3fd3c4/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 68719,
+            "caseId": 16573,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 72819,
+            "caseId": 16573,
+            "caseStatus": true,
+            "registerDate": 1550124524291,
+            "officialDocNo": "文授資局物字第10830016641號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

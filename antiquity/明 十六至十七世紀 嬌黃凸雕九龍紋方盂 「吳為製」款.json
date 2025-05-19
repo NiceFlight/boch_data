@@ -1,0 +1,94 @@
+{
+    "id": 22981,
+    "caseId": "20240913000001",
+    "count": 17,
+    "shareCount": 0,
+    "representImage": 262177,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-09-13/3b31b820-2a98-4695-ae71-d9b93d32d3f5/PK1B017810N000000000PAB_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-09-13/3b31b820-2a98-4695-ae71-d9b93d32d3f5/PK1B017810N000000000PAB.jpg",
+        "name": "PK1B017810N000000000PAB"
+    },
+    "caseName": "明 十六至十七世紀 嬌黃凸雕九龍紋方盂 「吳為製」款",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "此件瓷製方盂，呈正方形，斂口窄邊，深壁。外口沿雕回紋一周，四壁各雕雲龍二，底雕一雲龍戲珠，隙地加飾波濤紋，器內光素無紋。口沿有「萬曆年吳為製」款。\n關於吳為，一說是擅長製作宜興壺的昊十九，凡經他燒造的瓷器常有「壺隱道人」的落款；另一說則認為是以燒製壁薄如紙「卵幕杯」聞名的吳昊十九。無論作者是誰，行家名款的出現，清楚地反映出在晚明骨董市場活絡的時代，工藝名家輩出，紛紛自掛品牌的現象。目前所知，存世所知帶有「吳為」款的瓷器，僅見此作，益顯珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第3、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故瓷017810",
+    "amount": 1,
+    "descAge": "明 十六至十七世紀",
+    "descSize": "高3.8",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "此器四方、斜壁、矮足。四壁及外底浮雕九龍紋。深浮雕的四爪龍紋，鬚爪細勁，鱗片粒粒鼓起；龍身隱現在淺浮雕的雲紋、細劃的水紋，以及浪濤湧立之間，狀皆矯健生動。器底四邊角的雲頭高起，正可為矮足，口沿出脣，外緣淺刻折帶紋，脣面繞刻陽文楷書銘：「鈞爾陶兮文爾質，龍函潤珠耀東壁。萬曆年吳為製。」銘文均圍以圓框若印款狀，極為工整。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": " ",
+    "documents": [
+        {
+            "fileid": 262176,
+            "name": "11330087931號公告用印後PDF.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-09-13/142b4beb-5286-48c5-88c4-0bc3f6c1cbc9/11330087931號公告用印後PDF.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 135908,
+            "caseId": 22981,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 148386,
+            "caseId": 22981,
+            "caseStatus": true,
+            "registerDate": 1725343275610,
+            "officialDocNo": "文授資局物字第11330087931號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

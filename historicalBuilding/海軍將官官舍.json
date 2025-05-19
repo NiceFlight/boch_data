@@ -1,0 +1,169 @@
+{
+    "id": 933,
+    "caseId": "20070302000001",
+    "count": 5352,
+    "shareCount": 7,
+    "representImage": 184430,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/8b04bb18-7575-43e0-be7b-afe2ea45c3be/代表圖像_海軍將官官舍_20220726_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/8b04bb18-7575-43e0-be7b-afe2ea45c3be/代表圖像_海軍將官官舍_20220726.jpeg",
+        "name": "代表圖像_海軍將官官舍_20220726"
+    },
+    "caseName": "海軍將官官舍",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "建物約建於日據末期，為洋式風格宿舍建築形式，與當時和洋風風格型態之日式建築正好相異，頗具特色。\r\n本區域為海軍將官官舍群，曾住有馬紀壯將軍、黎玉璽將軍、蔣謙將軍及裴毓棻將軍，具特殊歷史人物價值。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 152554,
+            "name": "96年公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/bcbd8b5a-0890-4be1-9839-6dc0b59efd11/96年公告.pdf"
+        },
+        {
+            "fileid": 152555,
+            "name": "111年公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/f2cb7837-14f6-4e1b-ad71-8875f1bf7e0b/111年公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1. 建物約建於日據末期，為洋式風格宿舍建築形式，與當時和洋風風格型態之日式建築正好相異，頗具特色。\r\n2. 本區域為海軍將官官舍群，曾住有馬紀壯將軍、黎玉璽將軍、蔣謙將軍及裴毓棻將軍，具特殊歷史人物價值。\r\n3. 保留本區域建築,可串聯齊東街日式宿舍、孫運璿寓所、李國鼎故居日式宿舍，以形塑地區特殊風貌。",
+    "lawsReference": "符合歷史建築紀念建築登錄廢止審查及輔助辦法第2條評定基準",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 152556,
+            "name": "111年公告-範圍示意圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/7d4c5ffd-eb30-43ce-9055-9d1611e9fe80/111年公告-範圍示意圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市中正區臨沂段二小段311、311-1地號",
+    "buildingFeatures": "洋式風格宿舍建築形。",
+    "inHouseFeatures": "地板為抬高之木地板形式、空間格局為日式建築之格局。",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.5282769,
+    "latitude": 25.0403316,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市中正區臨沂段二小段311、311-1地號",
+    "selfCoverage": "中正區臨沂段二小段748建號210.34平方公尺\n中正區臨沂段二小段749建號120.99平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 92121,
+            "caseId": 933,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "泰安街1巷2號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 92122,
+            "caseId": 933,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "泰安街1巷4號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 92123,
+            "caseId": 933,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "泰安街1巷6號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "臨沂段二小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 112335,
+            "caseId": 933,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 137,
+            "landSerialNo": "311",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "1,328平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "臨沂段二小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 112336,
+            "caseId": 933,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 137,
+            "landSerialNo": "311-1",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "1,760平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 99220,
+            "caseId": 933,
+            "caseStatus": true,
+            "registerDate": 1172764800000,
+            "officialDocNo": "府文化二字09630214800號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        },
+        {
+            "id": 99221,
+            "caseId": 933,
+            "caseStatus": true,
+            "registerDate": 1644336000000,
+            "officialDocNo": "文化文資字第11130073881號",
+            "classificationId": 2,
+            "note": "修正歷史建築本體公告文字"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

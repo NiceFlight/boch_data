@@ -1,0 +1,102 @@
+{
+    "id": 16028,
+    "caseId": "20180731000012",
+    "count": 367,
+    "shareCount": 0,
+    "representImage": 49367,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-07-31/4a1bb152-03f0-41c7-bb0e-70aacf141b1e/12-033IMG_1281_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-07-31/4a1bb152-03f0-41c7-bb0e-70aacf141b1e/12-033IMG_1281.jpg",
+        "name": "12-033IMG_1281"
+    },
+    "caseName": "馬公觀音亭-如是觀匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1529996902272,
+    "officialDocNo": "府授文博字第1073701873號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者"
+    ],
+    "registerReason": "（1）具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：具地方文化特性。\n（2）能反映政治、經濟、社會、人文、科學等歷史變遷或時代特色者：具歷史文化價值。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00681-P-M017-033",
+    "amount": 1,
+    "notes": "沈朝冠，詔安人，行伍出身，道光元年護理澎湖水師協鎮，於澎湖任官期間參與\n水仙宮、關帝廟等廟之修建，道光五年任臺協水師左營遊擊，同年11月卒於任內。\n",
+    "descAge": "1823年",
+    "descSize": "寬約103公分",
+    "descMaterial": "木",
+    "reserveStatusDesc": "橫長形木匾，匾面黑漆無紋，字皆呈黑色，中行為笑竹行書「如是觀」。上款旁一圓款，上款題「道光三年瓜月吉旦」；下款「信官沈朝冠敬酬」，後有二方印款，字皆陰刻。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "時間： 1823年     捐贈者：信官沈朝冠",
+    "saveEnvironment": 2,
+    "reserveStatus": "觀音亭右廂龕二側",
+    "documents": [
+        {
+            "fileid": 49366,
+            "name": "10_如是觀匾公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-07-31/6d7e2c43-ab13-4b66-b3c7-d69e115f05a8/10_如是觀匾公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.561958,
+    "latitude": 23.567663,
+    "representImageSource": "澎湖縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "觀音亭管理委員會",
+            "keepName": "王順輝",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "馬公觀音亭",
+            "keepAddressNew": "澎湖縣馬公市中興里介壽路7號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "澎湖縣",
+            "keepNameDistName": "馬公市",
+            "keepNameAddress": "中興里介壽路7號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 127682,
+            "caseId": 16028,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "中興里介壽路7號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 138605,
+            "caseId": 16028,
+            "caseStatus": true,
+            "registerDate": 1529996902272,
+            "officialDocNo": "府授文博字第1073701873號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

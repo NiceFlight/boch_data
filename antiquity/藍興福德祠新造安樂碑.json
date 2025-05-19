@@ -1,0 +1,102 @@
+{
+    "id": 3031,
+    "caseId": "20071203000001",
+    "count": 470,
+    "shareCount": 0,
+    "representImage": 209926,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-03-28/aebf94e5-9bbc-495b-8cd2-f88524552489/IMG_6227_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-03-28/aebf94e5-9bbc-495b-8cd2-f88524552489/IMG_6227.jpg",
+        "name": "IMG_6227"
+    },
+    "caseName": "藍興福德祠新造安樂碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1196611200000,
+    "officialDocNo": "府授文資字第0960278290號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.碑名鐫刻地方捐獻建土地祠之人名與捐獻金額，有助於理解當時地方人士氏族與物價，係地方重要文化證物，具地方開發特色。 \r\n2.具有史事淵源，與藍興莊之關係密切，可作為探查地方史事之史料參考。 \r\n3.台中地區土地祠中目前僅存此碑，較具稀少性，具一定歷史意義。 \r\n4.具地方發展之時代見證意義。",
+    "lawsReference": "文化資產保存法第65條\r\n古物登錄指定即廢止辦法第5、7條",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "西區",
+    "govInstitution": "臺中市文化資產處",
+    "govDeptName": "遺址傳藝課",
+    "govDeptPhone": "04-22290280",
+    "govDeptAddress": "臺中市西區市府路41巷19號",
+    "reservationCode": "0960278290",
+    "amount": 1,
+    "descAge": "西元1835年",
+    "descSize": "高116公分、寬60公分、厚13公分",
+    "descMaterial": "泉州花崗石",
+    "reserveStatusDesc": "「藍興福德祠新造安樂碑」為直立式長方形，高116公分、寬60公分、厚13公分，依據石碑落款時間道光十五年(西元1835年)以及參照中部地區（當時為彰化縣所管轄）同時代的鹿港「重修龍山寺記」、台中萬春宮…等石碑造型，研判為泉州花崗石。石碑落款為「道光拾伍年乙未陽月 吉立」，字體清晰可辨。當時碑刻習慣，目前台中市區已罕見。",
+    "pastHistorySource": 7,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 209939,
+            "name": "府授文資字第0960278290號.txt",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-03-28/9519490f-4643-435b-ade1-3f513cb9538e/府授文資字第0960278290號.txt"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.669557,
+    "latitude": 24.13405,
+    "representImageSource": "臺中市文化資產處",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "藍興福德祠",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺中市西區藍興里大全街61巷6-1號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "西區",
+            "id": 107522,
+            "caseId": 3031,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1004,
+            "address": "藍興里大全街61巷6-1號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 115516,
+            "caseId": 3031,
+            "caseStatus": true,
+            "registerDate": 1196611200000,
+            "officialDocNo": "府授文資字第0960278290號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

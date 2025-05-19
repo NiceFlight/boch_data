@@ -1,0 +1,97 @@
+{
+    "id": 20288,
+    "caseId": "20211215000029",
+    "count": 230,
+    "shareCount": 0,
+    "representImage": 147711,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-15/82b3c2f3-2c01-4006-973d-5055eb094f6a/001_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-15/82b3c2f3-2c01-4006-973d-5055eb094f6a/001.jpeg",
+        "name": "001"
+    },
+    "caseName": "校鐘",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "數量稀少者"
+    ],
+    "registerReason": "為日治時期迄今仍在使用之少數教育用品，亦為二戰後期少數保存之金屬器具，造型古樸、優美，承載師生校友共同回憶，見證學校發展歷史。臺灣目前日治時期國小此類校鐘並不多見，具稀少性。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、5款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174之1號",
+    "reservationCode": "STG02393-G-108-0001",
+    "amount": 1,
+    "descAge": "日治時期",
+    "descSize": "長54.6公分，寬41公分，高71.2公分",
+    "descMaterial": "鐵",
+    "reserveStatusDesc": "從日治時期及保存至今的校園物件，不只乘載群體師生的共同記憶，同時也見證了學校的歷史演變。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "日治時期",
+    "saveEnvironment": 2,
+    "reserveStatus": "狀況不良，需維護。",
+    "documents": [
+        {
+            "fileid": 147710,
+            "name": "110年12月9日北市獻編字第1103004564號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-15/dea1da9e-ee62-48e0-ad82-b4587decdae2/110年12月9日北市獻編字第1103004564號公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.520741,
+    "latitude": 25.03862,
+    "representImageSource": "臺北市立東門國小",
+    "keepNames": [
+        {
+            "keepNameIdStr": "臺北市立東門國小",
+            "keepName": "臺北市立東門國小",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "臺北市立東門國小",
+            "keepAddressNew": "臺北市中正區仁愛路一段2-4號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "學校",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "仁愛路一段2-4號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 69182,
+            "caseId": 20288,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "仁愛路一段2-4號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73297,
+            "caseId": 20288,
+            "caseStatus": true,
+            "registerDate": 1639033518135,
+            "officialDocNo": "北市獻編字第1103004564號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

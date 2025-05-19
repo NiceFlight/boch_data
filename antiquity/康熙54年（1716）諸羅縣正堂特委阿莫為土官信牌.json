@@ -1,0 +1,106 @@
+{
+    "id": 3654,
+    "caseId": "20100830000006",
+    "count": 475,
+    "shareCount": 2,
+    "representImage": 6395,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32602/photo/1a52adca-fce1-477a-9689-aa0b3499f454_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32602/photo/1a52adca-fce1-477a-9689-aa0b3499f454.jpg",
+        "name": "1a52adca-fce1-477a-9689-aa0b3499f454"
+    },
+    "caseName": "康熙54年（1716）諸羅縣正堂特委阿莫為土官信牌",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-公文書",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1283097600000,
+    "officialDocNo": "會授資籌二字第09920102141號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "歷史流傳已久或史事具有深厚淵源",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.現存最早官方原住民頭目委任狀文獻。\r\n2.為清政府官方和原住民之間重要之文書，歷史意義重大。\r\n3.研究清代臺灣中部原漢族群關係文化史與開發史的珍貴史料。具有歷史及文獻價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.符合「古物分級登錄指定及廢止審查辦法」第四條第一、二、六款、第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "AH2384",
+    "keepNameId": 4,
+    "keepName": "典藏管理組",
+    "keepNameNew": 4,
+    "keepAddressNew": "100台北市中正區襄陽路2號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 1,
+    "amount": 1,
+    "notes": "1.陳秋坤，1994，清代臺灣土著地權：官僚、漢佃與岸裡社人的土地變遷，中央研究院近代史研究所，台北。2.洪麗完，1997，台灣中部平埔族：沙轆社與岸裡大社之研究，稻鄉出版社，台北。",
+    "descAge": "康熙54年（1716）",
+    "descSize": " 59.5×60.5公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "臺中縣神岡鄉社口潘氏家族家傳古文書，日治時期臺中州民眾教育館取得，民國34年後並移由省立臺中圖書館管理，民國53年再由省立臺中圖書館移交臺灣省立博物館，一直典藏至今。",
+    "pastHistorySource": 3,
+    "pastHistorySourceNotes": "1964年由省立臺中圖書館移交臺灣省立博物館",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 53295,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-12-25/d8d9190a-d075-4476-9bee-0d52acb33e93/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立臺灣博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立臺灣博物館",
+            "keepName": "典藏管理組",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立臺灣博物館",
+            "keepAddressNew": "100台北市中正區襄陽路2號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "襄陽路2號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3796,
+            "caseId": 3654,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3796,
+            "caseId": 3654,
+            "caseStatus": true,
+            "registerDate": 1283097600000,
+            "officialDocNo": "會授資籌二字第09920102141號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

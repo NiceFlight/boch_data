@@ -1,0 +1,97 @@
+{
+    "id": 18991,
+    "caseId": "20210429000017",
+    "count": 189,
+    "shareCount": 0,
+    "representImage": 108111,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-04-29/f1592195-5071-44e9-a15c-71fa525c98d6/20元至明 青瓷葵口碗_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-04-29/f1592195-5071-44e9-a15c-71fa525c98d6/20元至明 青瓷葵口碗.jpg",
+        "name": "20元至明 青瓷葵口碗"
+    },
+    "caseName": "元至明 青瓷葵口碗",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "數量特別稀少或具完整性保存意義者",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此器呈六瓣葵花口，深壁，圓底微凸，矮圈足，月白釉極腴潤。黑色小紋勻整清晰。口沿加鈐銅邊。對照圖冊所畫，而能得知銅釦於乾隆皇帝組合文物之際已存在。此器曾收入由乾隆皇帝主導，於乾隆五十五年（1790）組合名為《精陶韞古》典藏圖冊，現今所知傳世為乾隆皇帝主導、製作的圖冊，共有九冊，可知數量特別稀少。其中，能與圖冊對照者更為珍稀。此作整件作品的造形特徵，即繪入圖冊當中，益顯珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "0422177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故瓷13897",
+    "amount": 1,
+    "descAge": "元至明",
+    "descSize": "高4.9公分，口徑12公分，底徑3.5公分",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "此器呈六瓣葵花口，弧形深壁，平底，矮圈足。全器施青釉，施釉至足際，足緣無釉，露胎處加塗深褐色護胎汁。釉表開深色紋片，口嵌銅釦。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "良好。",
+    "documents": [
+        {
+            "fileid": 144683,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-12/3ca1bbec-97ac-4472-928b-1f8fe4028296/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 121.548432,
+    "representImageSource": "  國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "國立故宮博物院",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 67359,
+            "caseId": 18991,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 71569,
+            "caseId": 18991,
+            "caseStatus": true,
+            "registerDate": 1617795072187,
+            "officialDocNo": "文授資局物字第11030033241號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

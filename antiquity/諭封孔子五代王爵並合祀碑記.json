@@ -1,0 +1,107 @@
+{
+    "id": 3108,
+    "caseId": "20141105000012",
+    "count": 317,
+    "shareCount": 0,
+    "representImage": 5532,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4789/photo/諭封孔子五代王爵並合祀碑記_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4789/photo/諭封孔子五代王爵並合祀碑記.png",
+        "name": "諭封孔子五代王爵並合祀碑記"
+    },
+    "caseName": "諭封孔子五代王爵並合祀碑記",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-其他",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1415116800000,
+    "officialDocNo": "府文資處字第1031018187B號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源"
+    ],
+    "registerReason": "清雍正元年（西元1723年），示諭封孔子五代王爵並合祀，且頒發全國各地勒石遵行。本碑即雍正二年（西元1724年）三月，由臺灣府知府高鐸暨轄屬三縣知縣遵行聖諭，共同勒石，本碑為清代朝廷政教政策施行於臺灣之歷史紀錄，具濃厚官方政治教化意涵。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第2條第1項第1、2款。",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "中西區",
+    "govInstitution": "臺南市文化資產管理處",
+    "govDeptName": "-文化資產研究組",
+    "govDeptPhone": "06-2213597",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "reservationCode": "-",
+    "amount": 1,
+    "notes": "",
+    "descAge": "雍正二年（1724年）",
+    "descCreator": "不詳",
+    "descSize": "高226公分、寬86公分",
+    "descMaterial": "花崗石",
+    "reserveStatusDesc": "1.年代：雍正二年（1724年）\n2.作者：不詳\n3.材質：花崗石\n4.尺寸：高226公分、寬86公分    \n5.技法：石刻\n6.重量：定著，無法測量\n7.數量：1組1件\n8.其他特徵：碑頭為「上諭」二字，無其他紋飾。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "雍正二年（1724年），臺灣府知府高鐸暨轄屬三縣知縣 立",
+    "saveEnvironment": 3,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 109852,
+            "name": "一般古物登錄清冊103.11.6.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-12/71a903ff-d4dc-422e-947e-1e6ca5be0633/一般古物登錄清冊103.11.6.pdf"
+        },
+        {
+            "fileid": 142158,
+            "name": "孔廟古物公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-01/746678ef-2154-46f6-8b63-36c5624575b0/孔廟古物公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 22.990697864018713,
+    "latitude": 120.20424391283163,
+    "representImageSource": "臺南市政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "財團法人臺南市孔廟文化基金會",
+            "keepName": "財團法人臺南市孔廟文化基金會",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺南市中西區 南門路2號(臺南市孔廟)",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "id": 107120,
+            "caseId": 3108,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601
+        }
+    ],
+    "announces": [
+        {
+            "id": 114995,
+            "caseId": 3108,
+            "caseStatus": true,
+            "registerDate": 1415116800000,
+            "officialDocNo": "府文資處字第1031018187B號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

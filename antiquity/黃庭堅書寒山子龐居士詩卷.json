@@ -1,0 +1,108 @@
+{
+    "id": 4023,
+    "caseId": "20120326000078",
+    "count": 428,
+    "shareCount": 0,
+    "representImage": 6904,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/33009/photo/43de05dd-e429-45d1-935f-172f9978ed03_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/33009/photo/43de05dd-e429-45d1-935f-172f9978ed03.JPG",
+        "name": "43de05dd-e429-45d1-935f-172f9978ed03"
+    },
+    "caseName": "黃庭堅書寒山子龐居士詩卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "黃庭堅富於個性的大字行書向為歷代書家所喜愛臨摹。本件為黃庭堅晚年大字行書的代表作，全作疏密變化和節奏安排，使得二維空間的靜態字體具有撼人心魄的強烈動勢，字體跌宕奇險，富於個人特色與藝術價值。具特殊藝術成就，品質精良，有特殊歷史、文化、藝術價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第四條第一項第四、五、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故書000070",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descCreator": "黃庭堅",
+    "descSize": "29.1 x 213.8、引首 28.5 x 53.6、前隔水 29.6 x 14.3、拖尾 29.2 x 80.2（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "黃庭堅（1045－1105），字魯直，號山谷道人。善詩文、長書法，為「宋四大家」之一。此卷書唐代禪僧寒山子詩二首半，為黃氏貶謫至戎州時（1099－1100）所作。本幅墨色腴潤飽滿，個別字的點畫、間架及鄰行間保持均衡，有輕重、大小、疏密的變化及節奏。全作用筆凝練而富有韻致，結字險絕，敧側中帶安穩，並以一二長筆打破空間布白，配合行氣的錯落，產生強烈的動勢，為一件黃庭堅大字行書的代表作。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。",
+    "documents": [
+        {
+            "fileid": 151840,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-26/02cf8df9-51b1-43f7-868c-86fda4a11156/公告.pdf"
+        },
+        {
+            "fileid": 151841,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-26/b0bcebe8-973e-4509-b6f1-60204f72ee50/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71512,
+            "caseId": 4023,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": " 至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 75975,
+            "caseId": 4023,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

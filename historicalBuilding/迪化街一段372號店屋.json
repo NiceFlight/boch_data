@@ -1,0 +1,181 @@
+{
+    "id": 19046,
+    "caseId": "20210510000003",
+    "count": 1194,
+    "shareCount": 0,
+    "representImage": 170945,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/946a6a81-cae2-4e86-aaa4-a7dc13ec680e/代表圖像_迪化街一段372號店屋_20220623_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/946a6a81-cae2-4e86-aaa4-a7dc13ec680e/代表圖像_迪化街一段372號店屋_20220623.jpg",
+        "name": "代表圖像_迪化街一段372號店屋_20220623"
+    },
+    "caseName": "迪化街一段372號店屋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "１、本建物為1910年代所建，空間格局為一坎一進一過水，左右牆為唭哩岸石所砌之厚牆，品質良好、砌法講究，為日治時期留存的原有構造，具保存價值。\n2、\t原為「中北街」成排街屋，因臺北橋改建，拆去北側數座街屋，使本建物成為街角建物，為迪化街北側入口具門戶作用，呈現臺北橋歷經清代，日治等時期拓建之都市發展過程。\n",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 109609,
+            "name": "歷建-迪化街一段372號號店屋--公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/9d915bdb-336e-49a8-bf5f-88399cca0e7c/歷建-迪化街一段372號號店屋--公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1、\t本建物為1910年代所建，空間格局為一坎一進一過水，左右牆為唭哩岸石所砌之厚牆，品質良好、砌法講究，為日治時期留存的原有構造，具保存價值。\n2、\t原為「中北街」成排街屋，因臺北橋改建，拆去北側數座街屋，使本建物成為街角建物，為迪化街北側入口具門戶作用，呈現臺北橋歷經清代，日治等時期拓建之都市發展過程。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第2、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 109610,
+            "name": "歷建-迪化街一段372號店屋_地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/b7593545-87c3-4b8d-85e1-337fc5b1a89f/歷建-迪化街一段372號店屋_地籍圖.pdf"
+        },
+        {
+            "fileid": 109611,
+            "name": "土地使用分區.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/35eb774d-b1d6-4bad-b9bb-3b5532f07a0e/土地使用分區.jpg"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "longitude": 121.50920989005549,
+    "latitude": 25.06300569945488,
+    "representImageSource": "臺北市文化局",
+    "landScope": "鄰近大橋頭捷運站及台北橋，大稻埕特專區最北邊。",
+    "selfCoverage": "建物登記大同區延平段二小段83建號(總面積351.61平方公尺)。（實際保存面積須以保存範圍實測數據為準）",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 83737,
+            "caseId": 19046,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "迪化街一段372號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 94578,
+            "caseId": 19046,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 188,
+            "landSerialNo": "206",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "area": "59平方公尺",
+            "cityLandUseTypeOther": "特定專用區（四）(河濱住宅使用)",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 94579,
+            "caseId": 19046,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 188,
+            "landSerialNo": "207",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "area": "40平方公尺",
+            "cityLandUseTypeOther": "特定專用區（四）(河濱住宅使用)",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 94580,
+            "caseId": 19046,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 188,
+            "landSerialNo": "208",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "area": "87平方公尺",
+            "cityLandUseTypeOther": "特定專用區（四）(河濱住宅使用)",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 94581,
+            "caseId": 19046,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 188,
+            "landSerialNo": "208-1",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "area": "16平方公尺",
+            "cityLandUseTypeOther": "特定專用區（四）(河濱住宅使用)",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 94582,
+            "caseId": 19046,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 188,
+            "landSerialNo": "209",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "area": "16平方公尺",
+            "cityLandUseTypeOther": "特定專用區（四）(河濱住宅使用)",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 89917,
+            "caseId": 19046,
+            "caseStatus": true,
+            "registerDate": 1587052800000,
+            "officialDocNo": "北市文化文資字第10930176351 號",
+            "classificationId": 1,
+            "note": "無"
+        }
+    ],
+    "openVisitType": ""
+}

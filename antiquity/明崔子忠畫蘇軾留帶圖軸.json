@@ -1,0 +1,103 @@
+{
+    "id": 15335,
+    "caseId": "20171122000010",
+    "count": 624,
+    "shareCount": 1,
+    "representImage": 46911,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2017-11-22/b8ddce8d-0abc-4b68-aa7b-bb0cf94899de/明崔子忠畫蘇軾留帶圖軸_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2017-11-22/b8ddce8d-0abc-4b68-aa7b-bb0cf94899de/明崔子忠畫蘇軾留帶圖軸.jpg",
+        "name": "明崔子忠畫蘇軾留帶圖軸"
+    },
+    "caseName": "明崔子忠畫蘇軾留帶圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1509605227533,
+    "officialDocNo": "文授資局物字第10630122631號",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "具有重要藝術造詣或科學成就",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "崔子忠（？-1644），明末著名畫家。所繪物象不以寫實為目標，而是常將物象造型朝圖案化發展。\n此作描繪蘇軾與金山寺僧佛印說偈的故事。梅枝樹石方折的造型，為是崔氏的風格特色。人物、山石之造型、品質，均與故宮院藏重要古物崔子忠〈桐陰博古圖〉伯仲，足稱崔氏代表畫作。\n本作上方有乾隆皇帝於乾隆二十七年（1762）、三十年（1765）、四十五年（1780）、四十九年（1784）之四次南巡至金山的題詠，亦具有重要留傳史事價值。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第1項第2、4、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "0422295848",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故畫000658",
+    "amount": 1,
+    "descAge": "明",
+    "descCreator": "崔子忠",
+    "descSize": "79.4公分x50公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "崔子忠（？ -1644），字道母，北京人，是為明末著名的「變形主義」的著名畫家，所繪物象不以寫實為終極追求目標，而常將造型朝圖案化的方向發展。此作描繪的是蘇軾與金山寺僧佛印說偈的故事。梅枝樹石方折的造型，為是崔氏的風格特色。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "本幅刮痕摺痕霉傷裱綾污漬。",
+    "documents": [
+        {
+            "fileid": 147508,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-14/8356a10e-dffc-4337-b7de-67e5f5429d66/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69119,
+            "caseId": 15335,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73243,
+            "caseId": 15335,
+            "caseStatus": true,
+            "registerDate": 1509605227533,
+            "officialDocNo": "文授資局物字第10630122631號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

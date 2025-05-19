@@ -1,0 +1,104 @@
+{
+    "id": 18945,
+    "caseId": "20210428000001",
+    "count": 4439,
+    "shareCount": 17,
+    "representImage": 107677,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-04-28/b8955980-0e8a-4d4b-b8ad-146cf2d42ab3/IMG_5754_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-04-28/b8955980-0e8a-4d4b-b8ad-146cf2d42ab3/IMG_5754.jpg",
+        "name": "IMG_5754"
+    },
+    "caseName": "三峽蘇萬利古厝",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 164088,
+            "name": "三峽蘇萬利古厝公告-110.3.22.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-18/0284665d-cb1a-47e0-b804-146b19c6015f/三峽蘇萬利古厝公告-110.3.22.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "一、三峽蘇萬利古厝，先祖來自泉州安溪，清乾隆年間渡海來臺，族人辛勤墾拓事業有成。1895年三角湧之役，族人蘇力、蘇俊擔任首領，英勇抗日的事蹟照耀史冊，故蘇家與三峽地區的墾拓、產業、史事都有密切的關係，為溪南四大家族之一。符合歷史建築紀念建築登錄廢止審查及輔助辦法第2條第1項第2款之登錄基準。\n二、三峽蘇萬利古厝為傳統閩南式建築，規模為正身兩落保持傳統的空間格局，為土墼牆及磚牆建築，正身明間為家祠公廳，有磚組砌透空花窗，正脊兩端有燕尾，脊垛有剪黏裝飾，屋簷線條平直，屬漳州派風格。符合歷史建築紀念建築登錄廢止審查及輔助辦法第2條第1項第1、2、3款之登錄基準。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "220",
+    "govInstitutionName": "新北市政府",
+    "govInstitution": "新北市政府",
+    "govDeptName": "文化局",
+    "govDeptPhone": "(02)2960-3456＃4632",
+    "govDeptAddress": "新北市板橋區中山路一段161號28樓",
+    "cadasters": [
+        {
+            "fileid": 107673,
+            "name": "940地號土地複丈成果圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-04-28/db0d5699-4d9a-4c16-b0ad-9d5a4e2465dc/940地號土地複丈成果圖.pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.390912,
+    "latitude": 24.934687,
+    "representImageSource": "新北市政府文化局",
+    "landScope": "新北市三峽區溪南段940地號（部分）",
+    "selfCoverage": "建物本體",
+    "addresses": [
+        {
+            "cityName": "新北市",
+            "distName": "三峽區",
+            "id": 131593,
+            "caseId": 18945,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 317,
+            "address": "介壽路2段24-5號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "新北市",
+            "distName": "三峽區",
+            "landNoName": "溪南段",
+            "noncityLandUseTypeName": "鄉村區",
+            "id": 186662,
+            "caseId": 18945,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 317,
+            "landNoId": 6723,
+            "landSerialNo": "940",
+            "landownership": 2,
+            "noncityLandUseTypeId": 4,
+            "coverageId": 1,
+            "area": "492.43",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 2
+        }
+    ],
+    "announces": [
+        {
+            "id": 143467,
+            "caseId": 18945,
+            "caseStatus": true,
+            "registerDate": 1616379724302,
+            "officialDocNo": "新北府文資字第1100486712號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.39099397518525,24.935075367665267],[121.39100434862979,24.935002129764523],[121.3910395854732,24.93490714962403],[121.39101940086286,24.93480818893645],[121.3910528467713,24.93474813505191],[121.39108933205486,24.934653458585036],[121.39080635458687,24.93450820377244],[121.39062085712068,24.93441299880671],[121.39047865284981,24.93464261867602],[121.39043574893007,24.934623527821394],[121.3904122703971,24.93466372023104],[121.39044056282316,24.934683797343016],[121.39036016189444,24.934812426843763],[121.39048742989554,24.93487651057233],[121.3905227122833,24.934858704557044],[121.39096308963691,24.935074518767127],[121.39099397518525,24.935075367665267],[121.39099397518525,24.935075367665267]]]]},\"properties\":{\"envelope\":{\"left\":\"121.39036016189444\",\"top\":\"24.93441299880671\",\"right\":\"121.39108933205486\",\"bottom\":\"24.935075367665267\"},\"landLot\":\"新北市三峽區溪南段940\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀"
+}

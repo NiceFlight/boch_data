@@ -1,0 +1,95 @@
+{
+    "id": 22675,
+    "caseId": "20240426000005",
+    "count": 195,
+    "shareCount": 0,
+    "representImage": 256140,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-04-26/6e4b6b8e-650f-4fe7-a70e-a42967aaf228/藥籤_c.png"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-04-26/6e4b6b8e-650f-4fe7-a70e-a42967aaf228/藥籤.png",
+        "name": "藥籤"
+    },
+    "caseName": "同治八年重建臺灣縣署樑籤",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "數量稀少者"
+    ],
+    "registerReason": "1. 具有地方重要人物或歷史事件之深厚淵源者：本件樑籤書寫銘文可作為清同治年間臺灣知縣白鸞卿重建臺灣縣署之重要物證，見證當時重要官署之興修沿革，具重要歷史文化價值。\n\n2. 數量稀少者：目前已知清代臺灣官署建築多已拆除，傳世文物亦為數不多，「重建臺灣縣署樑籤」除尺寸長達4.15公尺外，作為官署建築興革之重要見證，更是罕見。\n",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第2、5款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "govInstitution": "臺南市文化局",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市北區公園北路3號(許石音樂圖書館地下1樓)",
+    "reservationCode": "5040102",
+    "amount": 1,
+    "descAge": "1869",
+    "descSize": "長415cm、寬19cm、厚2.7cm",
+    "descMaterial": "木質",
+    "reserveStatusDesc": "本件樑籤以長條木板製作而成，上端為髹紅漆葫蘆造型的籤頭，下端為長條狀的籤身。並以毛筆書寫銘文「大清同治己巳年臘月吉日賞戴花翎補用知府即補同知直隸州知臺灣縣事白鸞卿重建」，「同治、賞、鸞卿」四字用紅漆書寫，其餘銘文用黑漆書寫。清乾隆15年（1765）臺灣縣知縣魯鼎梅移建臺灣縣署於今成功國小校址，而後因震災毀損，知縣白鸞卿於同治6年至8年（1867〜1869）間重建，本件文物即是縣署重建竣工時，由白鸞卿所題置。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "臺南市歷史館/1937",
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定",
+    "documents": [
+        {
+            "fileid": 256139,
+            "name": "04-同治八年重建臺灣縣署樑籤公告new.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-04-26/7655e9d9-f29c-46a2-bd7f-283ab099066f/04-同治八年重建臺灣縣署樑籤公告new.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "拍攝",
+    "keepNames": [
+        {
+            "keepNameIdStr": "臺南市政府",
+            "keepName": "臺南市政府",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "鄭成功文物館文物庫房",
+            "keepAddressNew": "中西區",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺南市",
+            "keepNameDistName": "中西區",
+            "keepNameAddress": "開山路152號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "id": 135523,
+            "caseId": 22675,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601,
+            "address": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 147998,
+            "caseId": 22675,
+            "caseStatus": true,
+            "registerDate": 1712574337981,
+            "officialDocNo": "南市文資字1130403942D號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

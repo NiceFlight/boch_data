@@ -1,0 +1,101 @@
+{
+    "id": 3935,
+    "caseId": "20130128000016",
+    "count": 229,
+    "shareCount": 0,
+    "representImage": 6743,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32921/photo/c5cf3a04-8a06-4c83-bb81-7ee19b04d40c_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32921/photo/c5cf3a04-8a06-4c83-bb81-7ee19b04d40c.JPG",
+        "name": "c5cf3a04-8a06-4c83-bb81-7ee19b04d40c"
+    },
+    "caseName": "元人寒林圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1359302400000,
+    "officialDocNo": "文授字第10230006433號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本幅畫郊野中，幾株老樹傍水而生。樹葉已凋零落盡，露出枯乾的枝枒，唯有老藤猶纏繞垂掛著。樹木坡土均以墨色渲染，倍覺陰冷蕭瑟。寒風陣陣，吹拂著水面，波紋似長披麻般交織如鱗，並層層疊列，漸淡漸遠，空闊無邊。本幅中雖無作者名款，根據筆墨判斷，與盛懋（十四世紀）的風格頗為接近，可作為研究元代繪畫的重要參考。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第3、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局 ",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000343",
+    "amount": 1,
+    "notes": "",
+    "descAge": "元",
+    "descSize": "162.4 x 102.3",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "本幅畫郊野中，幾株老樹傍水而生。樹葉已凋零落盡，露出枯乾的枝枒，唯有老藤猶纏繞垂掛著。樹木坡土均以墨色渲染，倍覺陰冷蕭瑟。寒風陣陣，吹拂著水面，波紋似長披麻般交織如鱗，並層層疊列，漸淡漸遠，空闊無邊。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 150733,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-19/7b4226d8-2c07-4d29-ac8e-15a90c686420/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71114,
+            "caseId": 3935,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": " 至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75457,
+            "caseId": 3935,
+            "caseStatus": true,
+            "registerDate": 1359302400000,
+            "officialDocNo": "文授字第10230006433號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

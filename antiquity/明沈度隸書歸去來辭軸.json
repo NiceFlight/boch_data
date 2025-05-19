@@ -1,0 +1,107 @@
+{
+    "id": 4164,
+    "caseId": "20120326000109",
+    "count": 321,
+    "shareCount": 0,
+    "representImage": 7083,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36046/photo/49246a16-21a3-462d-b2bf-4a08a5ee0762_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36046/photo/49246a16-21a3-462d-b2bf-4a08a5ee0762.JPG",
+        "name": "49246a16-21a3-462d-b2bf-4a08a5ee0762"
+    },
+    "caseName": "明沈度隸書歸去來辭軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "沈度是明永樂至宣德初年重要的宮廷書家，擅長各體書，書風婉麗典雅，有「館閣體」之稱。此幅可視為他隸書的重要作品。傳世有大字隸書題寫書畫引首之作，如此幅長篇隸書不多見。全幅行間嚴密，運筆規矩中，而有生意，開明代隸書之典型。具有重要之時代與流派特色、藝術價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第三、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故書000011",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descCreator": "沈度",
+    "descSize": "50.5 x 23.4（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "沈度（西元一三五七－一四三四年）字民則，號自樂，華亭（今上海）人。本幅書東晉詩人陶淵明〈歸去來辭〉名作。此幅隸書用筆勁健，點畫平齊規律，或是想要以拙樸有古意的書體傳達千載前陶詩意境。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 151222,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-24/f8dd135f-6e19-4622-b72d-ff7bc0d36b84/公告.pdf"
+        },
+        {
+            "fileid": 151223,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-24/b5b752b4-7eb8-46db-b969-41c9048646af/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71347,
+            "caseId": 4164,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 75759,
+            "caseId": 4164,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

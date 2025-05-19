@@ -1,0 +1,110 @@
+{
+    "id": 4131,
+    "caseId": "20110422000055",
+    "count": 219,
+    "shareCount": 0,
+    "representImage": 7049,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/35180/photo/55fe6b7f-22b3-410a-84e8-ef4bb1f70cf1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/35180/photo/55fe6b7f-22b3-410a-84e8-ef4bb1f70cf1.jpg",
+        "name": "55fe6b7f-22b3-410a-84e8-ef4bb1f70cf1"
+    },
+    "caseName": "無款柳塘釣隱（歷代畫幅集冊07a）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1303401600000,
+    "officialDocNo": "會授資籌二字10020040353號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事重要淵源",
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "全圖採高遠俯視，佈局合理，此種近乎定點視法，是南宋較常用的取景觀念。在用筆方面，相當嚴謹細膩，如以濃墨、汁綠畫遠處雜樹，襯托較淡墨的柳樹，筆調含蓄溫柔，應為南宋畫院前期作品",
+    "lawsReference": "1. 「文化資產保存法」第六十六條。\n2. 「古物分級登錄指定及廢止審查辦法」第三條第一項第一、二、三、四、五、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故畫00126100012",
+    "amount": 1,
+    "notes": "",
+    "descAge": "傳宋",
+    "descSize": "23.6 x 24 公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "畫荷塘林境，其間置以水榭、房舍，池中荷花正盛，鴨鳧、喜鵲、鷺鷥悠游棲息。一棹隱藏在葦叢中，士人閒倚，營造恬淡的情境氣氛，傳達對山林水野生活的嚮往。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "本幅有舊霉傷，略有絹裂，蟲蛀，傷損傷補，白點，刮痕。對幅有舊霉傷，絹裂嚴重，蟲蛀，傷損傷補嚴重，白點，破缺。有損傷但狀況穩定。",
+    "documents": [
+        {
+            "fileid": 16484,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2017-11-07/41e25fbd-4c65-4ed0-ade6-b69b09d46348/公告.pdf"
+        },
+        {
+            "fileid": 152142,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-28/59200152-928e-4295-9b17-c6982791d518/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71678,
+            "caseId": 4131,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 76153,
+            "caseId": 4131,
+            "caseStatus": true,
+            "registerDate": 1303401600000,
+            "officialDocNo": "會授資籌二字10020040353號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

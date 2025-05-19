@@ -1,0 +1,103 @@
+{
+    "id": 15596,
+    "caseId": "20180329000002",
+    "count": 474,
+    "shareCount": 0,
+    "representImage": 47820,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-03-29/dd3e273f-c3cb-4266-830e-10dcc016d7a2/德同再造_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-03-29/dd3e273f-c3cb-4266-830e-10dcc016d7a2/德同再造.jpg",
+        "name": "德同再造"
+    },
+    "caseName": "宮保第-德同再造匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-其他",
+    "otherAssetsType": "匾額",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1507017525775,
+    "officialDocNo": "府授文資遺字第10602102092號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者"
+    ],
+    "registerReason": "1. 德同再造匾係1888年「施九緞」事件，霧峰林朝棟率軍平定後，懲治首謀者，避免進一步屠村，彰化縣燕霧二十四庄鄉民為感念此德澤，為重要歷史事件之佐證資料。\n2. 以牡丹枝葉與蝙蝠圖案貼金而成，為無邊框之淺浮雕 ，工藝水準極高，具備當代藝術意義。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第1、2、4、5款",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "霧峰區",
+    "govInstitution": "臺中市文化資產處",
+    "govDeptName": "遺址傳藝課",
+    "govDeptPhone": "04-22290280",
+    "govDeptAddress": "台中市南區復興路三段362號R10",
+    "reservationCode": "106-02",
+    "amount": 1,
+    "descAge": "清光緒15年(1890)",
+    "descCreator": "",
+    "descSize": "46*110",
+    "descMaterial": "木",
+    "reserveStatusDesc": "1. 德同再造匾係1888年「施九緞」事件，霧峰林朝棟率軍平定後，懲治首謀者，避免進一步屠村，彰化縣燕霧二十四庄鄉民為感念此德澤，為重要歷史事件之佐證資料。\n2. 以牡丹枝葉與蝙蝠圖案貼金而成，為無邊框之淺浮雕 ，工藝水準極高，具備當代藝術意義。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 2,
+    "reserveStatus": "刻正懸掛於宮保第第三進門上，屬半戶外空間。",
+    "documents": [
+        {
+            "fileid": 47819,
+            "name": "10602102092-德同再造匾.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-03-29/034dcee1-c374-4ddb-af33-27738224c468/10602102092-德同再造匾.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 120.70094485737421,
+    "latitude": 24.063039599985647,
+    "representImageSource": "臺中市文化資產處",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國定古蹟霧峰林家下厝管理委員會/林本堂股份有限公司",
+            "keepName": "國定古蹟霧峰林家下厝管理委員會",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國定古蹟霧峰林家下厝管理委員會",
+            "keepAddressNew": "臺中市霧峰區本堂里民生路26號",
+            "saveSpaceIdStr": "宅第",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "臺中市",
+            "keepNameDistName": "霧峰區",
+            "keepNameAddress": "本堂里民生路26號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "霧峰區",
+            "id": 86775,
+            "caseId": 15596,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1011
+        }
+    ],
+    "announces": [
+        {
+            "id": 93409,
+            "caseId": 15596,
+            "caseStatus": true,
+            "registerDate": 1507017525775,
+            "officialDocNo": "府授文資遺字第10602102092號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

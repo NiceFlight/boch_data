@@ -1,0 +1,102 @@
+{
+    "id": 15408,
+    "caseId": "20171206000014",
+    "count": 222,
+    "shareCount": 0,
+    "representImage": 166923,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-06-02/56efb7ac-637e-4d72-9c38-e37f4d54672c/K1B017067N000000000PAC_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-06-02/56efb7ac-637e-4d72-9c38-e37f4d54672c/K1B017067N000000000PAC.jpg",
+        "name": "K1B017067N000000000PAC"
+    },
+    "caseName": "清雍正琺瑯彩瓷玉棠富貴碟(一對)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1507883527630,
+    "officialDocNo": "文授資局物字第10630111602號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "具有重要藝術造詣或科學成就",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "生產於宮中造辦處的琺瑯彩瓷，是盛清代表工藝之一。製作精美，傳世數量稀少，紋飾、題材縱有成對，亦無一相同，乾隆時便曾降旨分批珍藏。\n此二器成對，器內無紋，器外壁彩繪粉色海棠及白色玉蘭，其中一件構圖以海棠始，另一件以木蘭始，佈局大體相同而細節各有變化。另一面墨書「影轉團團月，香含細細風」詩句，詩句前有「佳麗」，後有「碧霞」、「旭映」共三枚紅料印。器底帶「雍正年製」二行藍料宋體字雙方框款。\n雍正朝是琺瑯彩瓷發展的關鍵階段，此器品質精美，繪製細膩，紋樣結合詩書畫印，展現雍正皇帝的高雅品味。傳世僅有二件，且能對照陳設檔案史料，益顯珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第1項第3、4、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故瓷017067、故瓷017068",
+    "amount": 2,
+    "descAge": "清　雍正",
+    "descSize": "(1) 高3.2公分、口徑14公分、底徑8.2公分　　(2) 高3.1公分、口徑14公分、底徑6.2公分",
+    "descMaterial": "瓷胎畫琺瑯",
+    "reserveStatusDesc": "此二器斂口、淺弧壁、圈足，器內無紋，器外壁彩繪粉色海棠及白色玉蘭，其中一件構圖以海棠始，另一件以木蘭始，佈局大體相同而細節各有變化。另一面墨書「影轉團團月，香含細細風」詩句，詩句前有「佳麗」，後有「碧霞」、「旭映」共三枚紅料印。器底帶「雍正年製」二行藍料宋體字雙方框款。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "良好，唯故瓷017068口緣有舊裂璺。",
+    "documents": [
+        {
+            "fileid": 147793,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-16/9fd5a8f4-89ae-4065-94d5-9dcb33095bc5/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 81109,
+            "caseId": 15408,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 87129,
+            "caseId": 15408,
+            "caseStatus": true,
+            "registerDate": 1507883527630,
+            "officialDocNo": "文授資局物字第10630111602號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

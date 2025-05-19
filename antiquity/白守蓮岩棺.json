@@ -1,0 +1,93 @@
+{
+    "id": 4337,
+    "caseId": "20080305000001",
+    "count": 633,
+    "shareCount": 2,
+    "representImage": 7274,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39127/photo/pic006_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39127/photo/pic006.jpg",
+        "name": "pic006"
+    },
+    "caseName": "白守蓮岩棺",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-其他",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1204646400000,
+    "officialDocNo": "文資籌二字第0972102091號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要之時代特色、技術及流派",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "「白守蓮岩棺」為台灣東部史前文化所遺留之器物，只出現於花東海岸，花蓮新社至台東都蘭之間。其年代為距今約3000年至2000年前，為麒麟文化代表性巨石構造物，表現特有巨石製作技術，具史前新石器晚期的重要要文化特色。其由整塊石頭雕刻而成，造型具藝術美感，代表台灣史前時代精良鑿石技術與藝術。保存狀況良好，為目前台灣地區二具保存完整的岩棺之一。麒麟文化岩棺屬於特殊文化產物。本岩棺具有重要歷史、文化、藝術、科學價值，且數量稀少，符合「古物分級登錄指定及廢止審查辦法」第三條第一、三、五、六款，指定為重要古物。",
+    "lawsReference": "依文化資產保存法第六十六條、古物分級登錄指定及廢止審查辦法",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 22,
+    "belongCityName": "臺東縣",
+    "belongDistName": "臺東市",
+    "reservationCode": "",
+    "keepNameId": 17,
+    "keepName": "台東縣政府文化暨觀光處",
+    "keepNameNew": 17,
+    "keepAddressNew": "臺東縣台東市95051 臺東市南京路25號",
+    "amount": 1,
+    "notes": "",
+    "descAge": "距今約3000年至2000年前",
+    "descCreator": "不詳",
+    "descSize": "長約2.64m、寬1.5m、高1.3m",
+    "descMaterial": "凝灰岩",
+    "reserveStatusDesc": "經鑑定岩棺屬凝灰岩質地鬆軟易風化，已有長久一段時間的地表暴露和自然與人為力量的影響，有部分風化殘損，但仍有約80%完整度，是臺灣二座保存最完整的岩棺之一。",
+    "reserveStatus": "有損傷但狀況穩定 ",
+    "documents": [],
+    "isOpenDownload": true,
+    "belongAddress": "95051 臺東市南京路25號",
+    "representImageSource": "台東縣政府文化暨觀光處",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "台東縣政府文化暨觀光處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺東縣台東市95051 臺東市南京路25號",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺東縣",
+            "distName": "臺東市",
+            "id": 4480,
+            "caseId": 4337,
+            "caseStatus": true,
+            "cityId": 22,
+            "distId": 2201,
+            "address": "95051 臺東市南京路25號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 4480,
+            "caseId": 4337,
+            "caseStatus": true,
+            "registerDate": 1204646400000,
+            "officialDocNo": "文資籌二字第0972102091號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

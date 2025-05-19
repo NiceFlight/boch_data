@@ -1,0 +1,93 @@
+{
+    "id": 20867,
+    "caseId": "20220722000001",
+    "count": 1602,
+    "shareCount": 1,
+    "representImage": 175192,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/574c6ae2-01fc-476c-81a0-bd4a92cbd6e2/160巷16號_9_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/574c6ae2-01fc-476c-81a0-bd4a92cbd6e2/160巷16號_9.jpg",
+        "name": "160巷16號_9"
+    },
+    "caseName": "新生南路一段160巷16號日式宿舍",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "日據時期創建，後由國立台灣大學接收日人之日式宿舍，為大學教員宿舍，現無人居住。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 177389,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-29/97410e43-a55f-4dc3-83bf-50ba3d027e19/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "1.本建物為臺灣大學接收日人之日式宿舍，原有格局完整，雖經增改建，整體風貌仍維持完整。\n2.符合歷史建築紀念建築登錄廢止審查及輔助辦法第2條第3款登陸基準。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 175194,
+            "name": "新生南路一段160巷16號日式宿舍範圍示意圖(簽核).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/9dd45444-ebee-4296-ab23-4c5fe1aeef0f/新生南路一段160巷16號日式宿舍範圍示意圖(簽核).pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "longitude": 121.531033,
+    "latitude": 25.034548,
+    "landScope": "歷史建築本體為新生南路1段160巷16號建築本體，建物為中正區臨沂段三小段99建號（建物總面積82.23平方公尺），建築物坐落土地為中正區臨沂段三小段396地號（358平方公尺）1筆\n土地。（實際保存面積須以保存範圍實測數據為準）",
+    "selfCoverage": "歷史建築本體為新生南路1段160巷16號建築本體，建物為中正區臨沂段三小段99建號（建物總面積82.23平方公尺），建築物坐落土地為中正區臨沂段三小段396地號（358平方公尺）1筆\n土地。（實際保存面積須以保存範圍實測數據為準）",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 88233,
+            "caseId": 20867,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "新生南路1段160巷16號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "臨沂段三小段",
+            "id": 104689,
+            "caseId": 20867,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 138,
+            "landSerialNo": "396",
+            "landownership": 1,
+            "area": "358平方公尺",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 95172,
+            "caseId": 20867,
+            "caseStatus": true,
+            "registerDate": 1658332800000,
+            "officialDocNo": "北市文化文資字第11130271651",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": ""
+}

@@ -1,0 +1,101 @@
+{
+    "id": 4281,
+    "caseId": "20090508000042",
+    "count": 165,
+    "shareCount": 0,
+    "representImage": 7207,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36695/photo/6c5eabe6-cba2-472f-bd03-fa515cb61475_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36695/photo/6c5eabe6-cba2-472f-bd03-fa515cb61475.jpg",
+        "name": "6c5eabe6-cba2-472f-bd03-fa515cb61475"
+    },
+    "caseName": "銅鏟組",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1241712000000,
+    "officialDocNo": "會授資籌二字第0982105246號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "出土一對，銅鏟形制特殊，鏟身上端內捲成角狀，連接管銎，整體製作精良，保存良好，具有重要歷史、文化、科學價值。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第3條第1項第1、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "南港區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "R006851 ",
+    "amount": 2,
+    "notes": "",
+    "descAge": "商(後期)",
+    "descCreator": "",
+    "descSize": "長16.2公分、寬7.8公分",
+    "descMaterial": "青銅",
+    "reserveStatusDesc": "銅鏟形制特殊，鏟身上端內捲成角狀，連接管銎，整體製作精良，保存良好。",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": " 西北岡墓1005 ",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 53898,
+            "name": "20090508公告.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-01-08/841a370c-04bd-41be-8c47-cb1db61c4e3e/20090508公告.jpg"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "中央研究院歷史語言研究所",
+    "keepNames": [
+        {
+            "keepNameIdStr": "中央研究院歷史語言研究所",
+            "keepName": "中央研究院歷史語言研究所",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "中央研究院歷史語言研究所",
+            "keepAddressNew": "115台北市南港區研究院路二段130號",
+            "saveSpaceIdStr": "研究設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "南港區",
+            "keepNameAddress": "研究院路二段130號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "南港區",
+            "id": 116492,
+            "caseId": 4281,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 111
+        }
+    ],
+    "announces": [
+        {
+            "id": 127195,
+            "caseId": 4281,
+            "caseStatus": true,
+            "registerDate": 1241712000000,
+            "officialDocNo": "會授資籌二字第0982105246號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

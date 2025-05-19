@@ -1,0 +1,101 @@
+{
+    "id": 4356,
+    "caseId": "20150505000003",
+    "count": 252,
+    "shareCount": 0,
+    "representImage": 7307,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4402/photo/明周臣畫閒看兒童捉柳花句意軸_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4402/photo/明周臣畫閒看兒童捉柳花句意軸.jpg",
+        "name": "明周臣畫閒看兒童捉柳花句意軸"
+    },
+    "caseName": "明周臣畫閒看兒童捉柳花句意軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1430755200000,
+    "officialDocNo": "文授資局物第 10420054041號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就"
+    ],
+    "registerReason": "周臣（約1450—1535），字舜卿，別號東村。吳郡（江蘇蘇州）人。畫山水師陳暹，得宋人法。兼工人物，古貌奇姿、綿密蕭散，各極意態。\n本幅畫法遠承南宋院體，線描及賦彩俱極細膩，畫柳蔭庭院，三名童子於春風中捉柳絮為戲，一翁閒立旁觀，畫面氛圍沉靜清雅，具體傳達出詩人楊萬里（1127－1206）筆下「日常睡起無情思，閒看兒童捉柳花」的詩情與畫意。構圖採邊角式，雖與浙派同樣傳承馬、夏傳統，但卻了無浙派剛勁的筆調，處處洋溢著南宋院體畫澄靜清雅的風致。誠屬周臣工筆一格的精彩傑作。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條1項第3、4款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": " 04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000464",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descSize": "116.6 x 63.5（公分）",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "周臣（約1450－1535），字舜卿，號東村。吳人（今江蘇蘇州）。畫山水近師陳暹（1405－？），遠承宋人，唐寅（1470－1524）、仇英（約1494－1552）均曾從其學。\n本幅畫柳蔭庭院，三名童子於春風中捉柳絮為戲，一翁閒立旁觀。畫意源自白居易（772－846）〈別柳枝〉與楊萬里（1127－1206）的〈閒居初夏午睡起〉。構圖採邊角式，雖與浙派同樣傳承馬、夏傳統，但卻了無浙派剛勁的筆調，處處洋溢著南宋院體畫澄靜清雅的風致。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 149993,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-10/7d6a8ea4-189f-4ce7-930a-abc1e5ec44da/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70331,
+            "caseId": 4356,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 74564,
+            "caseId": 4356,
+            "caseStatus": true,
+            "registerDate": 1430755200000,
+            "officialDocNo": "文授資局物第 10420054041號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

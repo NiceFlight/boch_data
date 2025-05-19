@@ -1,0 +1,101 @@
+{
+    "id": 16279,
+    "caseId": "20181017000002",
+    "count": 149,
+    "shareCount": 0,
+    "representImage": 50824,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-10-17/116e89d9-a2dc-49a1-8d5f-a53d6fcb4314/013488-1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-10-17/116e89d9-a2dc-49a1-8d5f-a53d6fcb4314/013488-1.jpg",
+        "name": "013488-1"
+    },
+    "caseName": "清雍正琺瑯彩瓷花蝶紋茶壺",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1532275200000,
+    "officialDocNo": "文授資局物字第10730082501號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "具有重要藝術造詣或科學成就",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "生產於宮中造辦處的琺瑯彩瓷，是盛清代表工藝之一。製作精美，傳世數量稀少，紋飾、題材縱有成對，亦無一相同，乾隆朝時便曾降旨分批珍藏。\n此器器腹左右各以二組四隻蝴蝶形成圓形開光，開光中有粉色花卉一朵。前方流口及後方把手各繪對蝶紋飾以及纏枝牡丹。器蓋寶珠形鈕上有帶瓣團花一朵，蓋面則以四蝶拱花圖案裝飾。器底帶「雍正年製」二行藍料宋體字雙方框款。\n雍正朝是琺瑯彩瓷發展的關鍵階段，此器品質精美，繪製細膩，紋樣結合詩書畫印，展現雍正皇帝的藝術品味。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第3、4、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故瓷013488",
+    "amount": 1,
+    "descAge": "清　雍正",
+    "descSize": "通蓋高11.8公分，口徑6.7公分，足徑6.8公分",
+    "descMaterial": "瓷胎畫琺瑯",
+    "reserveStatusDesc": "生產於宮中造辦處的琺瑯彩瓷，是盛清代表工藝之一。製作精美，傳世數量稀少，紋飾、題材縱有成對，亦無一相同，乾隆朝時便曾降旨分批珍藏。\n此器器腹左右各以二組四隻蝴蝶形成圓形開光，開光中有粉色花卉一朵。前方流口及後方把手各繪對蝶紋飾以及纏枝牡丹。器蓋寶珠形鈕上有帶瓣團花一朵，蓋面則以四蝶拱花圖案裝飾。器底帶「雍正年製」二行藍料宋體字雙方框款。\n雍正朝是琺瑯彩瓷發展的關鍵階段，此器品質精美，繪製細膩，紋樣結合詩書畫印，展現雍正皇帝的藝術品味。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況良好。",
+    "documents": [
+        {
+            "fileid": 147273,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-10/8612de7d-2aa5-4fef-b6d8-929036f08b09/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 68897,
+            "caseId": 16279,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73017,
+            "caseId": 16279,
+            "caseStatus": true,
+            "registerDate": 1532275200000,
+            "officialDocNo": "文授資局物字第10730082501號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

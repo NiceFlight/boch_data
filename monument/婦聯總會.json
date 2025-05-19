@@ -1,0 +1,112 @@
+{
+    "id": 58,
+    "caseId": "19980901000001",
+    "count": 2781,
+    "shareCount": 1,
+    "representImage": 204521,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/4e1c4871-f123-4aec-9614-343d4239c6b4/代表圖像_婦聯總會_20221109_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/4e1c4871-f123-4aec-9614-343d4239c6b4/代表圖像_婦聯總會_20221109.jpg",
+        "name": "代表圖像_婦聯總會_20221109"
+    },
+    "caseName": "婦聯總會",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "一，為使建於日據時期之官方建築，所在位置先後設有登瀛書院（清季台北最大書院）、淡水館（日據後易名，充為日本官民俱樂部）、陸軍偕行社。\n二、「婦聯總會」之名稱更迭為：中華民國婦女反共抗俄聯合會－>婦聯總會－>中華婦女反共聯合會－>中華民國婦女聯合會。\n",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "其他",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 109372,
+            "name": "3._870901指定古蹟公告.tif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/d1fdfa52-769f-455a-99ab-ff3de6f1cab6/3._870901指定古蹟公告.tif"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值"
+    ],
+    "registerReason": "1.原為日治時期陸軍俱樂部偕行社，約建於1920年前後，其址前身為清末登瀛書院。戰後由國府接收充為婦女反共抗俄聯合會，與蔣夫人宋美齡關係密切，具近代婦女參政史之意義。\n2.為台北城內少數僅存之日治初期洋式風格建物，樓高二層，三面圓拱迴廊，四周綠地環繞，格局方整，近年屢有修繕，但主體結構仍保存原有風貌。",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 109373,
+            "name": "土地登記謄本.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/ea65b49b-1350-485b-8631-96d8ab690afe/土地登記謄本.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 4,
+    "cityLandUseTypeName": "行政區",
+    "locationLandNo": "臺北市城中段三小段17地號",
+    "buildingFeatures": "建築物平面呈長方形，四周拱廊環繞，格局嚴謹，屬典型殖民式樣建築。主體為磚石混合構造，但樓板為鋼筋混凝土，屋架應為木桁架，外牆近年屢有修飾，入口上方及兩翼凸出山牆，頗為醒目，所有拱圈皆用石材拱心石，亦具特色。",
+    "inHouseFeatures": "格局方整，近年屢有修繕，但主體結構仍保存原有風貌。",
+    "buildingUsage": "由台灣台北地方法院修復完成，進行活化再利用作業中。",
+    "buildingActualState": "由台灣台北地方法院修復完成。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.504944,
+    "latitude": 25.040589,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市城中段三小段17地號",
+    "selfCoverage": "婦聯總會建築本體",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 106450,
+            "caseId": 58,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "長沙街1段27號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "城中段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 131408,
+            "caseId": 58,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 148,
+            "landSerialNo": "0017-0000",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "12240平方公尺",
+            "cityLandUseTypeOther": "機關或公共建築用地",
+            "note": "重測前:小南門段1小段1地號\n原介壽段八十五年五月十八日變更為城中段",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 114210,
+            "caseId": 58,
+            "caseStatus": true,
+            "registerDate": 904579200000,
+            "officialDocNo": "府民三字第8704803701號",
+            "classificationId": 1,
+            "note": "無"
+        }
+    ],
+    "geojson": "[{\"features\":[{\"geometry\":{\"coordinates\":[[[[121.5102562796,25.040311456672],[121.51036720767,25.041235121522],[121.51034140539,25.041273704076],[121.50953775088,25.04155597414],[121.5094936256,25.041535537906],[121.50917496903,25.040449416032],[121.50920235207,25.040411785818],[121.51021727478,25.040283725602],[121.5102562796,25.040311456672]]]],\"type\":\"MultiPolygon\"},\"type\":\"Feature\",\"properties\":{\"ymin\":25.040283725602,\"xmin\":121.50917496903,\"段號\":170000,\"query\":\"臺北市,城中段三小段,0017-0000\",\"ycenter\":25.040919849871,\"land_id\":170000,\"area_id\":\"AB\",\"content\":\"1. 個案名稱: 婦聯總會 <br />\\n      2. 地號: 臺北市,城中段三小段,0017-0000 <br />\\n      3. 級別: 直轄市定古蹟 <br />\\n      4. 種類: 其他設施 <br />\\n      5. 指定登錄理由: 1.原為日治時期陸軍俱樂部偕行社，約建於1920年前後，其址前身為清末登瀛書院。戰後由國府接收充為婦女反共抗俄聯合會，與蔣夫人宋美齡關係密切，具近代婦女參政史之意義。\\n2.為台北城內少數僅存之日治初期洋式風格建物，樓高二層，三面圓拱迴廊，四周綠地環繞，格局方整，近年屢有修繕，但主體結構仍保存原有風貌。 <br />\\n      6. 最後一筆公告日期: 1998-09-01 <br />\\n      7. 最後一筆公告文號: 府民三字第8704803701號 <br />\\n      8. 管理單位: 臺灣臺北地方法院 <br />\\n      9. 使用單位: 臺灣臺北地方法院 <br />\\n      10. 建物狀態: 現況良好 <br />\",\"地段\":\"城中段三小段\",\"縣市\":\"臺北市\",\"ymax\":25.04155597414,\"xcenter\":121.50977108834999,\"xmax\":121.51036720767,\"section_id\":\"0256\",\"鄉鎮\":\"中正區\",\"id\":\"AB0256\",\"query_log\":[]}}],\"address\":[{\"address\":\"1. 個案名稱: 婦聯總會 <br />\\n      2. 地址: 長沙街1段27號 <br />\\n      3. 級別: 直轄市定古蹟 <br />\\n      4. 種類: 其他設施 <br />\\n      5. 指定登錄理由: 1.原為日治時期陸軍俱樂部偕行社，約建於1920年前後，其址前身為清末登瀛書院。戰後由國府接收充為婦女反共抗俄聯合會，與蔣夫人宋美齡關係密切，具近代婦女參政史之意義。\\n2.為台北城內少數僅存之日治初期洋式風格建物，樓高二層，三面圓拱迴廊，四周綠地環繞，格局方整，近年屢有修繕，但主體結構仍保存原有風貌。 <br />\\n      6. 最後一筆公告日期: 1998-09-01 <br />\\n      7. 最後一筆公告文號: 府民三字第8704803701號 <br />\\n      8. 管理單位: 臺灣臺北地方法院 <br />\\n      9. 使用單位: 臺灣臺北地方法院 <br />\\n      10. 建物狀態: 現況良好 <br />\",\"lat\":25.040589,\"lng\":121.504944}],\"notFound\":[],\"type\":\"FeatureCollection\"}]",
+    "openVisitType": "",
+    "isCharge": false,
+    "pastHistorySource": ""
+}

@@ -1,0 +1,120 @@
+{
+    "id": 18269,
+    "caseId": "20201230000005",
+    "count": 2453,
+    "shareCount": 5,
+    "representImage": 201967,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/6f568420-a3db-4bcd-9024-9a627bd7a431/重慶北路三段283巷1號（大龍峒四十四坎店屋二落）_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/6f568420-a3db-4bcd-9024-9a627bd7a431/重慶北路三段283巷1號（大龍峒四十四坎店屋二落）.jpg",
+        "name": "重慶北路三段283巷1號（大龍峒四十四坎店屋二落）"
+    },
+    "caseName": "重慶北路三段283巷1號（大龍峒四十四坎店屋二落）",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待後續修復及再利用計畫調查",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 91259,
+            "name": "1091216公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/7f710947-2187-4a15-9e80-a3938ea2347b/1091216公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1、\t大龍峒四十四坎建築群創設於嘉慶年間，迄今已有二百餘年，為早年臺北市具有計畫性之店屋建物例證之一。\n2、\t本建物為四十四坎南側最西坎的二落，最遲於1915年已存在，其前尚有天井（其下有被填埋的公用井）及左側公巷，見證大龍峒地區的歷史發展。後落留存原貌，建物各項材料、細部皆存，包括下部砌石、斗砌磚牆、開口部、門扇、半樓仔、綠釉花磚、地磚，具稀少性及真實性。\n",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 91260,
+            "name": "範圍示意圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/7d254374-e96b-4130-82f2-f83b4c243662/範圍示意圖.pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "longitude": 121.514004,
+    "latitude": 25.072776,
+    "representImageSource": "臺北市文化局",
+    "landScope": "大同區大龍段二小段697地號、697-1地號等2筆土地。（實際保存面積須以保存範圍實測數據為準）",
+    "selfCoverage": "98.18平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 106462,
+            "caseId": 18269,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "重慶北路三段283巷1號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "大龍段二小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 131435,
+            "caseId": 18269,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 196,
+            "landSerialNo": "697",
+            "landownership": 2,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "107",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "大龍段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 131436,
+            "caseId": 18269,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 196,
+            "landSerialNo": "697-1",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "18",
+            "cityLandUseTypeOther": "道路用地(公共設施用地)",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 114229,
+            "caseId": 18269,
+            "caseStatus": true,
+            "registerDate": 1608048000000,
+            "officialDocNo": "北市文化文資字第1093042453號",
+            "classificationId": 1,
+            "note": "登錄"
+        }
+    ],
+    "geojson": "[{\"address\":[{\"address\":\"1. 個案名稱: 重慶北路三段283巷1號（大龍峒四十四坎店屋二落） <br />\\n      2. 地址: 重慶北路三段283巷1號 <br />\\n      3. 種類: 宅第 <br />\\n      4. 指定登錄理由: 1、\\t大龍峒四十四坎建築群創設於嘉慶年間，迄今已有二百餘年，為早年臺北市具有計畫性之店屋建物例證之一。\\n2、\\t本建物為四十四坎南側最西坎的二落，最遲於1915年已存在，其前尚有天井（其下有被填埋的公用井）及左側公巷，見證大龍峒地區的歷史發展。後落留存原貌，建物各項材料、細部皆存，包括下部砌石、斗砌磚牆、開口部、門扇、半樓仔、綠釉花磚、地磚，具稀少性及真實性。\\n <br />\\n      5. 最後一筆公告日期: 2020-12-16 <br />\\n      6. 最後一筆公告文號: 北市文化文資字第1093042453號 <br />\\n      7. 管理單位: 私人 <br />\\n      8. 使用單位: 私人 <br />\\n      9. 建物狀態: 待修復 <br />\",\"lat\":25.072776,\"lng\":121.514004}]}]",
+    "openVisitType": ""
+}

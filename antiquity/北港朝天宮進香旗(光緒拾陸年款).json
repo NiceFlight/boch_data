@@ -1,0 +1,106 @@
+{
+    "id": 15725,
+    "caseId": "20180604000005",
+    "count": 1003,
+    "shareCount": 0,
+    "representImage": 147355,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-13/254a1610-467f-400d-b554-ab7eb46c2baf/DSC05127-hhy_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-13/254a1610-467f-400d-b554-ab7eb46c2baf/DSC05127-hhy.jpg",
+        "name": "DSC05127-hhy"
+    },
+    "caseName": "北港朝天宮進香旗(光緒拾陸年款)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1517500800000,
+    "officialDocNo": "府文資二字第1073800872D號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就",
+        "數量稀少者",
+        "對地方或族群知識、技術或流派發展具影響或意義"
+    ],
+    "registerReason": "1、本進香旗落款顯示來自於寶斗（北斗）信徒，反映清領晚期中部信徒前往北港進香的歷史。\n2、旗面為三角形布，旗上配錫製葫蘆旗頭、錫香火牌，形制完整。\n3、目前台灣落款進香旗以日治時期至民國時期居多，本件進香旗為光緒年款，具有稀有性。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2、3、4、5、6款",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "belongCityId": 13,
+    "belongCityName": "雲林縣",
+    "belongDistName": "北港鎮",
+    "govInstitution": "雲林縣政府",
+    "govDeptName": "文化處",
+    "govDeptPhone": "05-5523157",
+    "govDeptAddress": "雲林縣斗六市大學路三段310號",
+    "reservationCode": "暫無",
+    "amount": 1,
+    "notes": "於2007年左右由信徒捐贈給北港朝天宮，捐贈後曾由《聯合報》於2007年3月15日地方版C2版予以報導。",
+    "descAge": "西元1890年 (清光緒16年)",
+    "descSize": "長63公分，寬42公分，斜邊62公分，劍帶54公分。",
+    "descMaterial": "布、竹",
+    "reserveStatusDesc": "旗面：天上聖母/紅底藍字(繡款)/藍布邊/劍帶\n年款：光緒拾陸年 歲次庚寅 閏貳月二十九日 信士李陳山 敬奉\n下側：宝斗六鄰十四?(疑為近代以簽字筆書寫)\n附件：錫製葫蘆旗頭、錫香火牌 (各一)",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "時間：2007年左右， 捐贈者： 信徒",
+    "saveEnvironment": 2,
+    "reserveStatus": "良好，目前裱框收藏展示。",
+    "documents": [
+        {
+            "fileid": 48317,
+            "name": "公告-北港朝天宮進香旗光緒拾陸年款.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-06-04/c2ed6ebf-f9c3-4934-8b1a-9c09e065aa99/公告-北港朝天宮進香旗光緒拾陸年款.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 23.568292330235835,
+    "latitude": 120.30461399758735,
+    "representImageSource": "雲林縣政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "財團法人北港朝天宮",
+            "keepName": "雲林縣北港鎮光民里中山路178號",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "財團法人北港朝天宮",
+            "keepAddressNew": "雲林縣北港鎮光民里中山路178號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "雲林縣",
+            "keepNameDistName": "北港鎮",
+            "keepNameAddress": "光民里中山路178號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "北港鎮",
+            "id": 68980,
+            "caseId": 15725,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1316,
+            "address": "中山路178號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73110,
+            "caseId": 15725,
+            "caseStatus": true,
+            "registerDate": 1517500800000,
+            "officialDocNo": "府文資二字第1073800872D號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

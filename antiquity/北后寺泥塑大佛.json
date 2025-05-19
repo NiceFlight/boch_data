@@ -1,0 +1,105 @@
+{
+    "id": 17518,
+    "caseId": "20200327000001",
+    "count": 1805,
+    "shareCount": 6,
+    "representImage": 120570,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-06-25/47066611-de2a-4c44-889f-4919b61feab5/北后寺泥塑大佛代表圖_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-06-25/47066611-de2a-4c44-889f-4919b61feab5/北后寺泥塑大佛代表圖.jpg",
+        "name": "北后寺泥塑大佛代表圖"
+    },
+    "caseName": "北后寺泥塑大佛",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1340294400000,
+    "officialDocNo": "府文資字第1010004384B號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本泥塑大佛取材自宜蘭本地，所使用之傳統技法現已失傳，其工法精細、法相莊嚴，是宜蘭縣僅存第二尊泥塑大佛，製作工藝與美術均達一定水準，具時代意義，值得保存。",
+    "lawsReference": "「文化資產保存法」第65條、「古物分級登錄指定及廢止審查保存法」第2條",
+    "govInstitutionCode": "260",
+    "govInstitutionName": "宜蘭縣政府",
+    "belongCityId": 4,
+    "belongCityName": "宜蘭縣",
+    "belongDistName": "員山鄉",
+    "govInstitution": "宜蘭縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-9322440#609",
+    "govDeptAddress": "宜蘭縣宜蘭市復興路二段101號",
+    "reservationCode": "0001",
+    "amount": 1,
+    "notes": "",
+    "descAge": "民國後",
+    "descSize": "3.21公尺高",
+    "descMaterial": "泥塑",
+    "reserveStatusDesc": "2006年由宜蘭縣礁溪鄉妙釋寺搬遷至宜蘭員山鄉紫竹林北后寺新大殿(現保存地)。",
+    "pastHistorySource": 7,
+    "saveEnvironment": 2,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 76509,
+            "name": "古物D-10.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-11-25/322ac3dc-1bbb-42ef-acfc-9ea543578744/古物D-10.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 121.708741,
+    "latitude": 24.726794,
+    "representImageSource": "宜蘭縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "紫竹林北后寺",
+            "keepName": "紫竹林北后寺大悲精舍",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "紫竹林北后寺",
+            "keepAddressNew": "宜蘭縣員山鄉尚德村10鄰八甲路4號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "宜蘭縣",
+            "keepNameDistName": "員山鄉",
+            "keepNameAddress": "八甲路4號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "宜蘭縣",
+            "distName": "員山鄉",
+            "id": 148322,
+            "caseId": 17518,
+            "caseStatus": true,
+            "cityId": 4,
+            "distId": 405,
+            "address": "尚德村10鄰八甲路4號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 161197,
+            "caseId": 17518,
+            "caseStatus": true,
+            "registerDate": 1340294400000,
+            "officialDocNo": "府文資字第1010004384B號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

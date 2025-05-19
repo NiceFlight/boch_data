@@ -1,0 +1,114 @@
+{
+    "id": 15672,
+    "caseId": "20180501000001",
+    "count": 1244,
+    "shareCount": 2,
+    "representImage": 138637,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-09-15/b7139b47-b52c-413e-b1cd-42735869f579/房裡溪官義渡示禁碑-1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-09-15/b7139b47-b52c-413e-b1cd-42735869f579/房裡溪官義渡示禁碑-1.jpg",
+        "name": "房裡溪官義渡示禁碑-1"
+    },
+    "caseName": "房裡溪官義渡示禁碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1523510883817,
+    "officialDocNo": "府文資字第1070004002B號",
+    "judgeCriteria": [
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "數量稀少者"
+    ],
+    "registerReason": "清代早期渡河不便，遂有義渡、義渡碑的設置，但官義渡碑則甚少，具稀有性，本碑足以彰顯當時時代特色及交通發展。目前碑身位置非原有位置，惟碑身保存良好，文字清晰可辨，材質為花崗岩。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1項第2、3、5款",
+    "govInstitutionCode": "360",
+    "govInstitutionName": "苗栗縣政府",
+    "belongCityId": 8,
+    "belongCityName": "苗栗縣",
+    "belongDistName": "苑裡鎮",
+    "govInstitution": "苗栗縣政府文化觀光局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(037)352961#712",
+    "govDeptAddress": "36045 苗栗縣苗栗市自治路50號",
+    "reservationCode": "07",
+    "amount": 1,
+    "descAge": "道光十七年（1837年）",
+    "descSize": "長141公分、寬61公分、厚14.3公分。",
+    "descMaterial": "米黃色花崗岩",
+    "reserveStatusDesc": "清乾隆三年以前，船筏概屬官辦，改為民營後，因屢傳船夫勒索，淡水廳同知婁雲著手邀請地方士紳捐助義渡基金，並於轄內設置六處義渡（房裡溪、中港溪、大甲溪、柑尾溪、鹽水港溪、井水港溪）為臺灣官義渡置之先驅。\n碑文內容：房裡溪官義渡示禁碑額刻：「淡水分府婁示」、中書「房裡溪官義渡」、右款：「道光丁酉年（即道光17年，1937年）起建設義渡，由官給發工食，往來行人隨到隨渡，不准需索分文，如違鳴官嚴辦。」左款：「加州銜淡水分府山陰婁雲建立」。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "已知最早既存時間：1837年",
+    "saveEnvironment": 2,
+    "reserveStatus": "有損傷但狀況穩定。\n保存現狀描述：房裡溪官義渡示禁碑於民國九十三年（2004年）移至現址（房裡順天宮前）以後，廟方建有義渡亭予以保護，本碑字體尚可辨別、石材亦無過多風化現象，現況保存尚佳。\n",
+    "documents": [
+        {
+            "fileid": 138626,
+            "name": "古物07-房裡溪官義渡示禁碑-公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-09-15/f81d41c8-05b1-45fa-9ab5-a1e321874e16/古物07-房裡溪官義渡示禁碑-公告.pdf"
+        },
+        {
+            "fileid": 213836,
+            "name": "房裡溪官義渡示禁碑-更正公告-1070913.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-05-19/3e7dab64-a296-4469-8a15-a5bd062605c3/房裡溪官義渡示禁碑-更正公告-1070913.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.646682619062,
+    "latitude": 24.4351610104781,
+    "representImageSource": "苗栗縣政府文化觀光局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "房裡順天宮",
+            "keepName": "房裡順天宮",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "房裡順天宮(苗栗縣苑裡鎮房裡里1鄰南房26號)前義渡亭",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "苗栗縣",
+            "distName": "苑裡鎮",
+            "id": 110045,
+            "caseId": 15672,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 808
+        }
+    ],
+    "announces": [
+        {
+            "id": 119001,
+            "caseId": 15672,
+            "caseStatus": true,
+            "registerDate": 1523510883817,
+            "officialDocNo": "府文資字第1070004002B號",
+            "classificationId": 1
+        },
+        {
+            "id": 119002,
+            "caseId": 15672,
+            "caseStatus": true,
+            "registerDate": 1536768000000,
+            "officialDocNo": "府文資字第1070011071B號",
+            "classificationId": 2
+        }
+    ],
+    "isPublic": false
+}

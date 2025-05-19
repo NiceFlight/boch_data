@@ -1,0 +1,92 @@
+{
+    "id": 16334,
+    "caseId": "20181109000001",
+    "count": 176,
+    "shareCount": 1,
+    "representImage": 51230,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-11-09/0562e0c9-9244-4350-a8c1-3853a12ff977/IMG_1072_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-11-09/0562e0c9-9244-4350-a8c1-3853a12ff977/IMG_1072.jpg",
+        "name": "IMG_1072"
+    },
+    "caseName": "太平歌樂",
+    "classifyCode": "4.1",
+    "classifyName": "傳統表演藝術",
+    "assetsTypeNames": "音樂",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "4.1.1",
+    "assetsClassifyName": "傳統表演藝術",
+    "registerDate": 1536552058144,
+    "officialDocNo": "高市府文資字第10731523404號",
+    "documents": [
+        {
+            "fileid": 51228,
+            "name": "107公告傳統表演藝術-太平歌樂.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-11-09/a908d143-4987-4ac2-9def-733bac137e22/107公告傳統表演藝術-太平歌樂.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具時代或流派特色"
+    ],
+    "registerReason": "下茄萣金鑾宮太平歌樂社為高雄市民俗金鑾宮王醮之藝陣，屬金鑾宮四館之一，館東郭江清先生師承林老仲與薛善，演出與傳承近六十年，曲風古樸純正，保有太平歌樂之時代及流派特色。",
+    "lawsReference": "<<傳統表演藝術登錄認定及廢止審查辦法>>第2條第2款",
+    "govInstitutionCode": "800",
+    "govInstitutionName": "高雄市政府",
+    "belongCityId": 18,
+    "belongCityName": "高雄市",
+    "govInstitution": "高雄市政府",
+    "govDeptName": "高雄市立歷史博物館文化資產小組",
+    "govDeptPhone": "07-5312560#236",
+    "govDeptAddress": "高雄市鹽埕區中正四路272號",
+    "belongAddress": "茄萣區濱海路二段133號",
+    "longitude": 120.18163600000003,
+    "latitude": 22.8953924,
+    "historyDevelopment": "下茄萣金鑾宮太平歌樂社為本市民俗金鑾宮王醮之藝陣，屬金鑾宮四館之一。目前最早之演出紀錄為1948年。早期是媽祖要啟建王醮時的臨時性團練組織，王醮結束後謝館解散，沒有固定聚會，也沒常態性傳承，2011年起金鑾宮王醮後並無謝館，由廟方無償提供團練空間至今。館東郭江清先生師承林老仲與薛善，演出與傳承近六十年，曲風古樸純正，保有太平歌樂之時代及流派特色。且成員多為茄萣在地人，向心力佳，具強烈保存意願。",
+    "preservers": [
+        {
+            "id": 16335,
+            "type": "團體",
+            "caseName": "下茄萣金鑾宮太平歌樂社",
+            "cityName": "高雄市",
+            "distName": "茄萣區",
+            "caseArtistEntities": [],
+            "representImage": 99176,
+            "registrationDate": 1536508800000,
+            "judgeCriteria": [
+                "熟知並能正確體現該登錄項目之知識、技藝與文化表現形式，並具代表性",
+                "具該登錄項目之傳習能力與意願",
+                "在文化脈絡下為適當者"
+            ],
+            "registerReason": "1.茄萣地區重要館閣之一，熟知並能正確體現該登錄項目之知識、技藝與文化表現形式，且在文化脈絡下為適當者。\n2.成員約20人，多為茄萣在地人，向心力佳，具該登錄項目之傳習能力與意願。",
+            "lawsReference": "<<傳統表演藝術登錄認定及廢止審查辦法>>第4條第1、2、3款",
+            "isOpenDownload": false,
+            "representImageSource": "高雄市政府文化局",
+            "contactorIsOpen": false
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "高雄市政府文化局",
+    "addresses": [
+        {
+            "cityName": "高雄市",
+            "id": 128031,
+            "caseId": 16334,
+            "caseStatus": true,
+            "cityId": 18,
+            "address": "茄萣區濱海路二段133號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 139069,
+            "caseId": 16334,
+            "caseStatus": true,
+            "registerDate": 1536552058144,
+            "officialDocNo": "高市府文資字第10731523404號",
+            "classificationId": 1
+        }
+    ]
+}

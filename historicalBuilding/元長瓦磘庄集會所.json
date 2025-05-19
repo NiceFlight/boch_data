@@ -1,0 +1,125 @@
+{
+    "id": 2147,
+    "caseId": "20160204000002",
+    "count": 2012,
+    "shareCount": 2,
+    "representImage": 4352,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/43661/photo/2_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/43661/photo/2.JPG",
+        "name": "2"
+    },
+    "caseName": "元長瓦磘庄集會所",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "元長瓦磘庄集會所於日治時代創建至今，為典型日治時期建築，戰後持續作為村民集會場所、投開票所，具歷史意義與村民的記憶情感。",
+    "assetsTypeNames": "衙署",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1454569572000,
+    "officialDocNo": "府文資二字第1053801038B號",
+    "documents": [
+        {
+            "fileid": 135988,
+            "name": "105.2.4-元長瓦嗂庄集會所歷史建築公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-08-31/b7573786-5a2e-4b64-ab13-73753a45fb6c/105.2.4-元長瓦嗂庄集會所歷史建築公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "(一)各時代表現地方營造技術與流派︰為日治時期典型廣間建築。 \r\n(二)具稀少性不易再現︰庄級集會所之僅有證據。\r\n(三)具歷史、文化、藝術價值︰具地方公共集會的歷史意義。\r\n(四)具建築或技術史上之意義，有再利用價值及潛力︰長期作為居民集會場所使用。",
+    "lawsReference": "文化資產保存法第15條暨歷史建築登錄廢止審查及輔助辦法第2條第1項第1、2、3、4款登錄評定基準。",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "belongCityId": 13,
+    "belongCityName": "雲林縣",
+    "belongDistName": "元長鄉",
+    "govInstitution": "雲林縣政府",
+    "govDeptName": "文化觀光處",
+    "govDeptPhone": "(05)5523218",
+    "govDeptAddress": "雲林縣斗六市大學路三段310號",
+    "cadasters": [
+        {
+            "fileid": 147963,
+            "name": "地籍圖.png",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-12-16/9a905bba-1f2e-4cca-91de-9bf935540483/地籍圖.png"
+        },
+        {
+            "fileid": 147964,
+            "name": "地籍資料.png",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-12-16/7d314876-63a9-4f3d-93d7-2ff33ac0581b/地籍資料.png"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 4,
+    "nonCityLandUseTypeName": "鄉村區",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "雲林縣元長鄉瓦磘段685號",
+    "buildingFeatures": "典型日治時期廣間類型建築",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "日常清潔維護(水溝、天溝清潔、雜草拔除)、屋頂植生物清理",
+    "bulkTransfer": 0,
+    "belongAddress": "雲林縣元長鄉瓦磘村中央路36號",
+    "isOpenVisit": false,
+    "openUpTime": "不開放參觀",
+    "isOpenDownload": false,
+    "longitude": 120.35893,
+    "latitude": 23.640055,
+    "representImageSource": "雲林縣政府",
+    "landScope": "雲林縣元長鄉瓦磘段685號",
+    "selfCoverage": "建物及土地面積約204.75平方公尺",
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "元長鄉",
+            "id": 94621,
+            "caseId": 2147,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1320,
+            "address": "瓦磘村中央路36號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "雲林縣",
+            "distName": "元長鄉",
+            "landNoName": "瓦磘段",
+            "id": 116409,
+            "caseId": 2147,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1320,
+            "landNoId": 11978,
+            "landSerialNo": "685",
+            "landownership": 1,
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 102070,
+            "caseId": 2147,
+            "caseStatus": true,
+            "registerDate": 1454601600000,
+            "officialDocNo": "府文資二字第1053801038B號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.35864284597938,23.640226013765258],[120.35872017219128,23.64021022739821],[120.35897646954217,23.640097713369226],[120.3587990779522,23.639918265962347],[120.35866551661651,23.64000128549842],[120.35864284597938,23.640226013765258],[120.35864284597938,23.640226013765258]]]]},\"properties\":{\"envelope\":{\"left\":\"120.35864284597938\",\"top\":\"23.639918265962347\",\"right\":\"120.35897646954217\",\"bottom\":\"23.640226013765258\"},\"landLot\":\"雲林縣元長鄉瓦磘段685\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": ""
+}

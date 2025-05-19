@@ -1,0 +1,111 @@
+{
+    "id": 4128,
+    "caseId": "20110422000052",
+    "count": 414,
+    "shareCount": 0,
+    "representImage": 165862,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-05-27/996a613b-2cde-4104-985b-4fecf1bc50f0/K2A001291N000000006PAC_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-05-27/996a613b-2cde-4104-985b-4fecf1bc50f0/K2A001291N000000006PAC.jpg",
+        "name": "K2A001291N000000006PAC"
+    },
+    "caseName": "馬遠曉雪山行（名畫集珍冊06）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1303401600000,
+    "officialDocNo": "會授資籌二字10020040353號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "歷史流傳已久或史事具有深厚淵源",
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "作品為馬遠精采小幅山水人物作品，畫中顫筆為馬遠個人特色。狀物技巧高超，簡略線條和墨染即能精確呈現物象。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第四條第一項第一、二、三、四、五、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故畫00129100006",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descSize": "27.6 x 40 公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "「馬遠」款署於右下樹幹下方。圖繪寒天中一翁瑟縮前行，前方驢子駝炭，後面驢子駝薪，皆因天冷負重而顯步履維艱。畫樹皴石等大多用禿筆，皴紋為斧劈皴，勾勒人物衣紋及二驢線條微用顫筆。狀物技巧高超，簡略線條和墨染精確表現老驢、幼驢一前一後的行進身軀。主題或為賣炭郎形象，因在山中伐薪燒炭，致滿面塵灰，衣衫單薄，且肩負山雉，雪徑中呵凍前行；呈現自然天候中庶民辛勤、富足的面貌。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "本幅有舊霉傷，中央有舊折痕，幅左人物後方有一道舊刮痕，通幅有多處絹裂露白，傷損傷補。有損傷但狀況穩定。",
+    "documents": [
+        {
+            "fileid": 16396,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2017-11-06/8b931a9e-22a7-419a-aca5-779f7029f908/公告.pdf"
+        },
+        {
+            "fileid": 152139,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-28/6f7d2da5-2d64-429a-b9ce-98c071bddcec/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 80439,
+            "caseId": 4128,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 86425,
+            "caseId": 4128,
+            "caseStatus": true,
+            "registerDate": 1303401600000,
+            "officialDocNo": "會授資籌二字10020040353號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

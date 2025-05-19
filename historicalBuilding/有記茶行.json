@@ -1,0 +1,129 @@
+{
+    "id": 953,
+    "caseId": "20101203000001",
+    "count": 2970,
+    "shareCount": 2,
+    "representImage": 184461,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/8e6dd0f1-1592-4181-89cb-30c2ff99cdcc/代表圖像_有記茶行_20220718_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/8e6dd0f1-1592-4181-89cb-30c2ff99cdcc/代表圖像_有記茶行_20220718.jpeg",
+        "name": "代表圖像_有記茶行_20220718"
+    },
+    "caseName": "有記茶行",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "有記茶行建築由前後二棟建築構成。前棟為傳統磚構造形式，建物現況仍舊良好，紅磚構造形式應是1922年創建時的原貌，推測除了臨建興街店口淺短的小騎樓外，一樓當作茶行店面使用，二樓則是住家及倉儲空間。後棟建物建於何時並無資料可證，一樓為精製茶工場，焙籠間及焙茶窟為其特徵，二樓則為倉儲空間，與三樓的神明廳住家空間有所區別。從其建築形式看來，後棟建築應是日治後期或光復初期興建而成。尤其內部空間作為製茶工廠的機能看來，極可能是「長榮茶行」開設以後，才拆除舊有一層樓建物重新建築而成。",
+    "assetsTypeNames": "產業",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 164577,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/50f58a4d-7dc0-441c-9ffd-f5b021ebcdbd/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "1、為當時生產包種茶典型之茶廠，見證大稻埕的茶葉與都市經濟的發展以及為當時臺北精製茶運銷至泰國、東南亞等地有重要之證明。 2、典型活的茶博物館，具備保存古時完整製茶過程的設備及資料，有完整之軟體導覽及硬體設備之展示功能，具歷史文化資產價值。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、2、4款評定基準",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 164578,
+            "name": "有記茶行.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/67628224-cbae-468a-bf3f-7577aa00ff1e/有記茶行.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "locationLandNo": "臺北市大同區迪化街一小段258地號（面積約453平方公尺）及259部分地號",
+    "buildingFeatures": "建物前進為2層、後進為3層。",
+    "inHouseFeatures": "一樓為販售、展示、焙籠間、開放式生產等空間；二樓為推廣茶藝活動及倉儲空間；三樓為私人住家。",
+    "buildingUsage": "現有內裝為則2004年6月重新裝潢改造而成，為開放式生產 、銷售 與教育兼具的綜合型賣場。",
+    "buildingActualState": "良好",
+    "buildingKeyMaintainItem": "保存範圍：建物本體。",
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.5131205,
+    "latitude": 25.0556719,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市大同區迪化街一小段258地號（面積約453平方公尺）及259部分地號",
+    "selfCoverage": " 509.84平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 92143,
+            "caseId": 953,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "重慶北路2段64巷26號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段一小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 112368,
+            "caseId": 953,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 192,
+            "landSerialNo": "258",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "coverageId": 2,
+            "area": "453平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段一小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 112369,
+            "caseId": 953,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 192,
+            "landSerialNo": "259",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "coverageId": 1,
+            "area": "",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 99240,
+            "caseId": 953,
+            "caseStatus": true,
+            "registerDate": 1291305600000,
+            "officialDocNo": "北市文化二字第09931860500號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "國立臺北科技大學張崑振教授辦理「有記名茶測繪調查計畫」報告書"
+}

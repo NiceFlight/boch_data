@@ -1,0 +1,110 @@
+{
+    "id": 119,
+    "caseId": "20061101000001",
+    "count": 3409,
+    "shareCount": 2,
+    "representImage": 189543,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/2123666f-58af-4ac4-baa6-79b38aad8913/代表圖像_國立臺灣大學日式宿舍─羅銅壁寓所_20220713(IMG_0527)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/2123666f-58af-4ac4-baa6-79b38aad8913/代表圖像_國立臺灣大學日式宿舍─羅銅壁寓所_20220713(IMG_0527).jpg",
+        "name": "代表圖像_國立臺灣大學日式宿舍─羅銅壁寓所_20220713(IMG_0527)"
+    },
+    "caseName": "國立臺灣大學日式宿舍─羅銅壁寓所",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "本區日式住宅約建於1930年代，由臺北帝國大學(臺灣大學前身)教授及臺北高商(臺灣大學法學院前身)佐藤佐教授等發起由學人教授自資興建供為住家使用之建築。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 143179,
+            "name": "3._951101指定古蹟與登錄歷史建築公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/9c892d99-9d58-4f33-b418-2f44c4b8ef49/3._951101指定古蹟與登錄歷史建築公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "具稀少性，不易再現者",
+        "具其他古蹟價值者"
+    ],
+    "registerReason": "1.為殖民時期昭和町舊址之高級文人住宅區，是臺北市城市歷史的重要組成部分，值得保存。\r\n2.保存狀況良好，格局完整，原物較多，有假山、有2樓，品質極佳，具建築特色。現住者羅銅壁教授，曾任中研院副院長。",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、4、6款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 143180,
+            "name": "6299d68d-594a-4c1f-8649-fa24fb7842b4.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/d9c1e4c1-7a3f-4e72-978c-3c41ab8af4df/6299d68d-594a-4c1f-8649-fa24fb7842b4.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "locationLandNo": "台北市大安區金華段2小段273地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "主建築體保持良好，前院廣大，建物後方為木造二層樓建物，形式完整而優雅，現為臺大教職員宿舍。",
+    "buildingActualState": "主建築體保持良好，前院廣大，建物後方為木造二層樓建物，形式完整而優雅，現為臺大教職員宿舍。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.531442,
+    "latitude": 25.027168,
+    "representImageSource": "臺北市文化局",
+    "landScope": "台北市大安區金華段2小段273地號",
+    "selfCoverage": "金華段二小段159建號",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 95052,
+            "caseId": 119,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "青田街12巷5號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "金華段二小段",
+            "cityLandUseTypeName": "保存區",
+            "id": 117450,
+            "caseId": 119,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 721,
+            "landSerialNo": "273",
+            "landownership": 1,
+            "cityLandUseTypeId": 7,
+            "coverageId": 2,
+            "area": "459",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 102551,
+            "caseId": 119,
+            "caseStatus": true,
+            "registerDate": 1162310400000,
+            "officialDocNo": "府文化二字第09530322200號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

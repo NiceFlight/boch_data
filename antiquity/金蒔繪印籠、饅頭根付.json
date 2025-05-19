@@ -1,0 +1,96 @@
+{
+    "id": 18219,
+    "caseId": "20201217000029",
+    "count": 394,
+    "shareCount": 2,
+    "representImage": 90094,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-12-17/a5caecdc-a684-4918-b2e8-959a12c46ca9/20_1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-12-17/a5caecdc-a684-4918-b2e8-959a12c46ca9/20_1.jpg",
+        "name": "20_1"
+    },
+    "caseName": "金蒔繪印籠、饅頭根付",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1606376755256,
+    "officialDocNo": "北市獻編字第1093004298號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "1. 日本人生活用具之一，印籠材質為金蒔繪，根付材質為象牙，具日本傳統工藝、族群風俗生活文化特色。\n2. 作工精緻藝術性高，工藝特色極佳，漆藝精美具藝術造詣。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174-1號",
+    "reservationCode": "20",
+    "amount": 1,
+    "descAge": "日本江戶時期",
+    "descSize": "高 8.5 公分",
+    "descMaterial": "蒔繪、金屬、象牙",
+    "reserveStatusDesc": "印籠，是一種小型盒式漆器，江戶時代成為武士代替沒有口袋的日本傳統和服的袋子，而繫在腰上不離身的裝飾品。印籠最先來源於中國放印章的容器，後流傳日本，並於江戶時代開始盛行。\n本件印籠主體以蒔繪工藝表現，表面敷以金粉，表現蜿蜒的河川景色，金光燦爛，華麗至極，再以不同漆料彩繪一人身著華麗繁複的和服，端坐於輕舟上，岸邊一株垂柳，柳葉輕飄，意境清雅。\n印籠另一端繫一饅頭根付，根付類似現在的掛墜，實際用途是和服提物的末端，用來卡在和服的腰帶上，掛住下面的主體。本根付以牙雕嵌銀，工藝精湛。因根付扁圓，像饅頭般的其造形，因而稱之為「饅頭」根付。\n作者梶川是德川家族的御用蒔繪師，乃將軍綱吉於天和3年（1683）從大阪所召納，專為印籠蒔繪御用，此後數代為將軍家「禦納戸頭支配禦蒔繪師」，其作品具高超工藝水準。",
+    "pastHistorySource": 1,
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定。",
+    "documents": [
+        {
+            "fileid": 90093,
+            "name": "臺北市公告指定一般古物1091126.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-17/86693446-fcbe-469a-96cd-b8f9b39bdb52/臺北市公告指定一般古物1091126.pdf"
+        }
+    ],
+    "keepNames": [
+        {
+            "keepNameIdStr": "郭○穎",
+            "keepName": "郭○穎",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "郭○穎",
+            "keepAddressNew": "臺北市中正區重慶南路二段15號7樓",
+            "saveSpaceOther": "庫房",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "大安區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 7834,
+            "caseId": 18219,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 7834,
+            "caseId": 18219,
+            "caseStatus": true,
+            "registerDate": 1606376755256,
+            "officialDocNo": "北市獻編字第1093004298號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,108 @@
+{
+    "id": 17568,
+    "caseId": "20200429000001",
+    "count": 3913,
+    "shareCount": 6,
+    "representImage": 169443,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/120ef83f-e0ae-45c2-abeb-161fa3368a89/代表圖像_華山貨運站_20220613_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/120ef83f-e0ae-45c2-abeb-161fa3368a89/代表圖像_華山貨運站_20220613.jpeg",
+        "name": "代表圖像_華山貨運站_20220613"
+    },
+    "caseName": "華山貨運站",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "無",
+    "assetsTypeNames": "車站",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 68672,
+            "name": "公告(含圖).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/b60c0629-27c6-49f5-866a-40ccb57d4e16/公告(含圖).pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1、建築風格屬 1930 年代現代主義表現手法，整體造型為平面不對稱，建物為二層樓建築，一樓外貼溝狀面磚、二樓外牆粉灰白色，門窗採用圓形牛眼窗，富圖案之變化，建物仍保存設計初期之特色 。\n2、華山車站是日治時期臺北火車站之外最大的貨運站，往東延伸設立甚多產業設施，具有見證都市發展紋理之歷史價值 。\n3、本車站為昔日經判決的政治受難者移送至綠島服刑的重要交通節點，見證白色恐怖時期臺灣人權發展歷程。\n4、符合歷史建築紀念建築登錄廢止審查及輔助辦法第 2 條第 1項第 1 、 2 、 3 款登錄基準 。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 92044,
+            "name": "歷史建築本體範圍及地籍地形示意圖_0325公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/4fcc0f00-33c5-45c1-b6b9-d58f086512a8/歷史建築本體範圍及地籍地形示意圖_0325公告.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 4,
+    "cityLandUseTypeName": "行政區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市中正區成功段一小段120-3地號（部分）",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "longitude": 121.52425013433786,
+    "latitude": 25.047125381013213,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市中正區成功段一小段120-3地號（部分，該筆土地面積為18,172平方公尺）",
+    "selfCoverage": "歷史建築本體為華山貨運站建築本體，建物無建號登記。",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 82978,
+            "caseId": 17568,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "林森北路 27 號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "成功段一小段",
+            "cityLandUseTypeName": "行政區",
+            "id": 92015,
+            "caseId": 17568,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 140,
+            "landSerialNo": "120-3",
+            "landownership": 1,
+            "cityLandUseTypeId": 4,
+            "coverageId": 1,
+            "area": "18172",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 89131,
+            "caseId": 17568,
+            "caseStatus": true,
+            "registerDate": 1585065600000,
+            "officialDocNo": "北市文化文資字第10930158051號",
+            "classificationId": 1,
+            "note": "第一次登錄"
+        }
+    ],
+    "openVisitType": ""
+}

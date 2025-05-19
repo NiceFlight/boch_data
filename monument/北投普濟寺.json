@@ -1,0 +1,111 @@
+{
+    "id": 166,
+    "caseId": "19980325000009",
+    "count": 3365,
+    "shareCount": 2,
+    "representImage": 175195,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/6c0ed738-2a1b-437b-8071-8963d30dae17/代表圖像_北投普濟寺_20220706_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/6c0ed738-2a1b-437b-8071-8963d30dae17/代表圖像_北投普濟寺_20220706.jpg",
+        "name": "代表圖像_北投普濟寺_20220706"
+    },
+    "caseName": "北投普濟寺",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "市定古蹟「北投普濟寺」位於北投區溫泉路一一二號，佛寺採用日式風格，平面佈局保存極為完整，包括大殿及住持方丈宅院，皆呈現簡樸淡雅且寧靜莊嚴之佛教寺院之美。\n大殿建築為單簷的歇山式，面寬三開間，進深亦得三間，近正方形。寺的屋頂向前伸出，成為入口玄關，此為日本江戶時期常用的形式。大殿全為高級檜木造，斗栱及虹樑施以雕刻，極為精美。窗子作成鐘形，亦具特色。除大殿外，湯守觀石佛像與村上彰一翁碑等文物也深具歷史價值。",
+    "assetsTypeNames": "寺廟",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 226592,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-07-04/a07c4052-0c52-46be-af52-e77ceab56c7b/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值"
+    ],
+    "registerReason": "具有保存價值",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 226591,
+            "name": "地籍圖.tif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2023-07-04/49829e7b-ffc7-4575-8193-639da01a1b1b/地籍圖.tif"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "locationLandNo": "台北市崇仰段一小段236地號",
+    "buildingFeatures": "佛寺採用日式風格，平面佈局保存極為完整，包括大殿及住持方丈宅院，皆呈現簡樸淡雅且寧靜莊嚴之佛教寺院之美。",
+    "inHouseFeatures": "",
+    "buildingUsage": "寺廟使用",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenDownload": false,
+    "longitude": 121.511277,
+    "latitude": 25.135996,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市北投區崇仰段一小段236地號",
+    "selfCoverage": "112號建築本體",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "id": 112176,
+            "caseId": 166,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "address": "溫泉路112號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "landNoName": "崇仰段一小段",
+            "cityLandUseTypeName": "保存區",
+            "id": 151206,
+            "caseId": 166,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "landNoId": 694,
+            "landSerialNo": "0236-0000",
+            "landownership": 1,
+            "cityLandUseTypeId": 7,
+            "coverageId": 2,
+            "area": "2338.57平方公尺",
+            "note": "重測前:北投段1191地號",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 121645,
+            "caseId": 166,
+            "caseStatus": true,
+            "registerDate": 890755200000,
+            "officialDocNo": "府民三字第8701538601號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false,
+    "pastHistorySource": ""
+}

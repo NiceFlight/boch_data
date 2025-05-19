@@ -1,0 +1,104 @@
+{
+    "id": 3711,
+    "caseId": "20120706000003",
+    "count": 237,
+    "shareCount": 0,
+    "representImage": 6459,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32655/photo/9fdcb6f3-8ee0-475e-a416-076eb1c2ea1d_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32655/photo/9fdcb6f3-8ee0-475e-a416-076eb1c2ea1d.jpg",
+        "name": "9fdcb6f3-8ee0-475e-a416-076eb1c2ea1d"
+    },
+    "caseName": "行中書省銀錠",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1341504000000,
+    "officialDocNo": "文資局物字第10120077792號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "品質精良且數量稀少"
+    ],
+    "registerReason": "元朝將白銀鑄成馬蹄形元寶狀，分賜有功將士，取名「元寶」，有元朝之寶及大銀錠之意。本件「元行中書省銀錠」背面有「元宝」陰文兩大字，正面中間有「行中書省」、「至元十四年」的陰文鋼印款識；右側有「揚州」、「銷銀官王珪」、「秤驗銀庫子侯成」；左側則有「重伍拾兩」、「庫官王仲方」，「铸銀侯君用」等款識；由面文記載的款識，得知是元代至元十四年於揚州所鑄的官錠銀錠。由於銀錠屬貴重金屬貨幣，因此常遭熔解或改鑄，因此存世稀少。目前所知現存元至元年間揚州鑄造銀錠僅有五件，數量稀少。本銀錠上有各種官銜戳記，有文獻價值且重量為現存五件銀錠最重者。具有重要歷史文化價值。",
+    "lawsReference": "1. 《文化資產保存法》第六十六條。\r\n2. 〈古物分級登錄指定及廢止審查辦法〉第三條第一項第一、五款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "83-02090",
+    "keepNameId": 7,
+    "keepName": "國立歷史博物館",
+    "keepNameNew": 7,
+    "keepAddressNew": "100台北市中正區南海路49號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "至元十四年",
+    "descSize": "長13.5",
+    "descMaterial": "銀",
+    "reserveStatusDesc": "由於銀錠屬貴重金屬貨幣，因此常遭熔解或改鑄，因此近年來實物存世數量稀少難得。銀錠稱作「元寶」的由來，始於元朝，爾後由於「元寶」寓意吉祥，人們也不在意它原來的政治意義，成為銀錠的通稱。",
+    "pastHistorySource": 2,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 53659,
+            "name": "公告(用印).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-01-02/274ac73f-e7aa-47d1-b74d-38c7b94a3b6d/公告(用印).pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立歷史博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立歷史博物館",
+            "keepName": "國立歷史博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立歷史博物館",
+            "keepAddressNew": "100台北市中正區南海路49號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "徐州路21號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3853,
+            "caseId": 3711,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3853,
+            "caseId": 3711,
+            "caseStatus": true,
+            "registerDate": 1341504000000,
+            "officialDocNo": "文資局物字第10120077792號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

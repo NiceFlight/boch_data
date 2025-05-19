@@ -1,0 +1,107 @@
+{
+    "id": 3144,
+    "caseId": "20111220000008",
+    "count": 151,
+    "shareCount": 0,
+    "representImage": 5582,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/37973/photo/5c24cad1-da18-406e-9fa8-a3ff06df9b63_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/37973/photo/5c24cad1-da18-406e-9fa8-a3ff06df9b63.jpg",
+        "name": "5c24cad1-da18-406e-9fa8-a3ff06df9b63"
+    },
+    "caseName": "木雕彩繪獨木舟形漆煙盒",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1324310400000,
+    "officialDocNo": "高市府四維史博字第1000140520號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有一定之時代特色、技術及流派",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本件蘭嶼船型蓋式煙盒。船身以木材雕製，四周有三角形刻紋為邊框，器身外部中間有三人手牽手線刻填漆彩繪，兩側有圓形太陽彩繪，盒蓋利用天然竹材的半圓型，兩端接合木板製成，器物表面線刻出豬、鹿圖紋後填漆彩繪。本作品裝飾係台灣原住民生活圖騰，充分表現台灣印象，具時代性、地方性及文化意涵，為當時優良文化創意產品。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "800",
+    "govInstitutionName": "高雄市政府",
+    "belongCityId": 18,
+    "belongCityName": "高雄市",
+    "belongDistName": "鹽埕區",
+    "govInstitution": "高雄市文化局",
+    "govDeptName": "文化資產中心",
+    "govDeptPhone": "07-5312560#8829",
+    "govDeptAddress": "高雄市苓雅區五福一路67號",
+    "reservationCode": "KH2001.032.002",
+    "amount": 1,
+    "notes": "",
+    "descAge": "日治時期（大正）",
+    "descSize": "19x9x9.7公分",
+    "descMaterial": "漆器",
+    "reserveStatusDesc": "本件蘭嶼船型蓋式煙盒。船身以木材雕製，四周有三角形刻紋為邊框，器身外部中間有三人手牽手線刻填漆彩繪，兩側有圓形太陽彩繪，盒蓋利用天然竹材的半圓型，兩端接合木板製成，器物表面線刻出豬、鹿圖紋後填漆彩繪。",
+    "pastHistorySource": 7,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 78024,
+            "name": "本市古物公告96-99_page-0065.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-07/7de3a3f7-d11b-44b8-804a-1d44672fa8d5/本市古物公告96-99_page-0065.jpg"
+        },
+        {
+            "fileid": 78025,
+            "name": "100年高雄市古物登錄公告表_page-0014.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-07/0da15b9d-4cb5-41c8-a4a5-bdd5355e7fd7/100年高雄市古物登錄公告表_page-0014.jpg"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.286737,
+    "latitude": 22.626671,
+    "representImageSource": "高雄市立歷史博物館提供",
+    "keepNames": [
+        {
+            "keepNameIdStr": "高雄市立歷史博物館",
+            "keepName": "鍾子瑄",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "高雄市立歷史博物館",
+            "keepAddressNew": "高雄市鹽埕區河西路99號3樓",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "高雄市",
+            "keepNameDistName": "鹽埕區",
+            "keepNameAddress": "中正四路272號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "高雄市",
+            "distName": "鹽埕區",
+            "id": 113558,
+            "caseId": 3144,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1804,
+            "address": "河西路99號3樓"
+        }
+    ],
+    "announces": [
+        {
+            "id": 123573,
+            "caseId": 3144,
+            "caseStatus": true,
+            "registerDate": 1324310400000,
+            "officialDocNo": "高市府四維史博字第1000140520號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

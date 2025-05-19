@@ -1,0 +1,115 @@
+{
+    "id": 15898,
+    "caseId": "20180703000001",
+    "count": 2610,
+    "shareCount": 2,
+    "representImage": 181312,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-08-25/d3346d17-154d-485c-b9d0-cd5d1cd6c9a6/0_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-08-25/d3346d17-154d-485c-b9d0-cd5d1cd6c9a6/0.jpg",
+        "name": "0"
+    },
+    "caseName": "尖山配水池",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "尖山配水池位於大園國小校園內，為1970年代臺灣省建設廳公共工程局設計之水塔設施，原供應桃園機場備用水，後期提供大園民生用水，為桃園推動自來水民生設施的重要見證，2004年因無儲水功能停用至今。\n\n尖山配水池為鋼筋混凝土構造，外觀呈圓形塔，直徑約13公尺，高度約20公尺，蓄水容量約3000公噸。",
+    "assetsTypeNames": "其他設施,產業",
+    "otherAssetsType": "水塔",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1524536538448,
+    "officialDocNo": "府文資字第1070055729號",
+    "documents": [
+        {
+            "fileid": 181305,
+            "name": "府文資字第1070055729號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-08-25/56995058-f5c9-41be-90e8-c342964de3aa/府文資字第1070055729號.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "一、係1970年代臺灣省建設廳公共工程局設計之水塔設施，為桃園推動自來水民生設施的重要見證，其圓形塔狀空間及其外形，具建築形式特色。\n\n二、位於大園市區高點，為大園地區的地標，係在地居民及大園國小師生的共同記憶，具保存價值。\n\n三、尖山配水池位於校園內，未來再利用可配合作為文化資產教育場域，具再利用的潛力。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第2款",
+    "govInstitutionCode": "330",
+    "govInstitutionName": "桃園市政府",
+    "belongCityId": 5,
+    "belongCityName": "桃園市",
+    "belongDistName": "大園區",
+    "govInstitution": "桃園市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-3322592分機8609",
+    "govDeptAddress": "桃園市縣府路21號",
+    "cadasters": [
+        {
+            "fileid": 181306,
+            "name": "地籍資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-08-25/74be8894-0ecb-4253-b0a9-72ef7f4eeca5/地籍資料.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 5,
+    "cityLandUseTypeName": "文教區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "大園區東園段262地號",
+    "buildingFeatures": "鋼筋混凝土結構，高度約20公尺。",
+    "inHouseFeatures": "",
+    "buildingActualState": "位於大園國小，由總務處管理，目前為閒置狀態。",
+    "bulkTransfer": 0,
+    "belongAddress": "大園國小(337桃園市大園區中正東路160號)",
+    "isOpenVisit": false,
+    "isOpenDownload": false,
+    "longitude": 21.20222,
+    "latitude": 25.06093,
+    "representImageSource": "桃園市政府文化局",
+    "landScope": "大園區東園段262地號，定著土地面積：393.63平方公尺。",
+    "selfCoverage": "建物投影面蹟：271.71平方公尺",
+    "addresses": [
+        {
+            "cityName": "桃園市",
+            "distName": "大園區",
+            "id": 135063,
+            "caseId": 15898,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 512,
+            "address": "中正東路160號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "桃園市",
+            "distName": "大園區",
+            "landNoName": "東園段",
+            "cityLandUseTypeName": "文教區",
+            "id": 197213,
+            "caseId": 15898,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 512,
+            "landNoId": 8102,
+            "landSerialNo": "262",
+            "landownership": 1,
+            "cityLandUseTypeId": 5,
+            "area": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 147460,
+            "caseId": 15898,
+            "caseStatus": true,
+            "registerDate": 1524536538448,
+            "officialDocNo": "府文資字第1070055729號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.2022846499995,25.060987511520295],[121.2023277701907,25.06080896383119],[121.20212391681505,25.060767259966962],[121.20211222652986,25.060951904051084],[121.2022846499995,25.060987511520295],[121.2022846499995,25.060987511520295]]]]},\"properties\":{\"envelope\":{\"left\":\"121.20211222652986\",\"top\":\"25.060767259966962\",\"right\":\"121.20232777019071\",\"bottom\":\"25.060987511520295\"},\"landLot\":\"桃園市大園區東園段262\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": "訪視巡查紀錄表"
+}

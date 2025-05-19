@@ -1,0 +1,168 @@
+{
+    "id": 82,
+    "caseId": "20050510000001",
+    "count": 5085,
+    "shareCount": 3,
+    "representImage": 173349,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/c1b9825b-c7d4-40e8-ba75-6af4af089879/代表圖像_大稻埕千秋街店屋_20220707_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/c1b9825b-c7d4-40e8-ba75-6af4af089879/代表圖像_大稻埕千秋街店屋_20220707.jpeg",
+        "name": "代表圖像_大稻埕千秋街店屋_20220707"
+    },
+    "caseName": "大稻埕千秋街店屋",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "大稻埕係台北都市發展的起源地之一，與艋舺、台北城歷史上合稱「台北三市街」，大稻埕因緊臨淡水河，是盛極一時的繁華港埠。其中，貴德街日治時期稱為「港町」，為大稻埕地區重要街道之一，是當時大稻埕最主要的茶業製造加工中心。兩連棟建築物為2層樓建築，屬簡約磚造街屋，2樓部份開高窗，外牆清水磚大致完好，仍保留原有陽台、天井及竹節式落水管等，屋頂格局完整，而為防淡水河淹水而加高地基，表現建築地區性。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 143245,
+            "name": "3._940510指定古蹟公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/b8757dca-6ce9-48bb-a5a0-15cd968bab61/3._940510指定古蹟公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "重要歷史事件或人物之關係",
+        "各時代表現地方營造技術流派特色者",
+        "具稀少性，不易再現者",
+        "具建築史上之意義，有再利用之價值及潛力者",
+        "具其他古蹟價值者"
+    ],
+    "registerReason": "1.劉銘傳新政時期在大稻埕港區所規劃市街(千秋街)之相關建築， 依歷史及建材特色推論為清末日治初之建物，見證台北早期淡水河運繁榮，呈現洋行茶商聚集之街屋特色。\r\n2.建物沿古街，為防水患與方便卸貨，騎樓提高3尺，為北市罕見之特色。建物在日治時期開雜貨店，店內至今保存古老櫥櫃設施，具早期商業文化之特色。\r\n3.本區周邊多為歷史文化遺跡，如港町文化講座、李春生紀念教堂、陳天來宅、李臨秋故居等，並蘊藏豐富人文軼事，如林本源家、李春生、辜顯榮、廖添丁等，有助於了解台北早期發展歷史。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 143246,
+            "name": "downloadfile (2).bmp",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/d12ee34c-2e27-4750-8add-ab0212b866bb/downloadfile (2).bmp"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "大稻埕歷史風貌特定專用區",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "台北市大同區迪化段3小段695及697地號",
+    "buildingFeatures": "大稻埕係台北都市發展的起源地之一，與艋舺、台北城歷史上合稱「台北三市街」，大稻埕因緊臨淡水河，是盛極一時的繁華港埠。",
+    "inHouseFeatures": "",
+    "buildingUsage": "修復完成,不定期辦理講座",
+    "buildingActualState": "修復完成",
+    "buildingKeyMaintainItem": "已修復完成，現為住家現況良好",
+    "bulkTransfer": 2,
+    "isOpenDownload": false,
+    "longitude": 121.5083787,
+    "latitude": 25.0551403,
+    "representImageSource": "臺北市文化局",
+    "landScope": "台北市大同區迪化段3小段695及697地號",
+    "selfCoverage": "貴德街51、53號",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 84862,
+            "caseId": 82,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "貴德街51號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 84863,
+            "caseId": 82,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "貴德街53號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 97431,
+            "caseId": 82,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 194,
+            "landSerialNo": "695",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "117",
+            "cityLandUseTypeOther": "歷史風貌特定專用區",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 97432,
+            "caseId": 82,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 194,
+            "landSerialNo": "695-2",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "4",
+            "cityLandUseTypeOther": "歷史風貌特定專用區",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 97433,
+            "caseId": 82,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 194,
+            "landSerialNo": "697",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "76",
+            "cityLandUseTypeOther": "歷史風貌特定專用區",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 91145,
+            "caseId": 82,
+            "caseStatus": true,
+            "registerDate": 1115654400000,
+            "officialDocNo": "府文化二字第09406158900號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false,
+    "pastHistorySource": ""
+}

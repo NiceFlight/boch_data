@@ -1,0 +1,102 @@
+{
+    "id": 3297,
+    "caseId": "20151111000004",
+    "count": 1082,
+    "shareCount": 1,
+    "representImage": 122809,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-06/61150510-4fd0-4eaf-a7af-68ab1dc77501/古物026清代府城三郊石駝8_P001_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-06/61150510-4fd0-4eaf-a7af-68ab1dc77501/古物026清代府城三郊石駝8_P001.jpg",
+        "name": "古物026清代府城三郊石駝8_P001"
+    },
+    "caseName": "清代府城三郊石駝 ",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1447171200000,
+    "officialDocNo": "府文資處字第1041092335B",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源"
+    ],
+    "registerReason": "府城三郊又稱為臺南三郊或三郊，乃於清領時期先後成立的臺南地區之商業公會組織。三郊商分別是以「蘇萬利」為代表的北郊，以「金永順」為代表的南郊，以及以「李勝興」為代表的糖郊。此三郊商既合作也競爭，於臺灣社會上形成一股民間力量，連袂帶動了臺南地區的商業發展。\n本組「石駝」為郊商用來秤重的石製秤錘，是臺灣清治時期府城三郊的歷史見證物，戰後為「臺南市立歷史博物館」（即今日赤崁樓）所蒐藏。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第2條第1項第1、2款。",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "安平區",
+    "govInstitution": "臺南市文化資產管理處",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "reservationCode": "赤崁樓-039-50401905015351到赤崁樓-039-50401905015361",
+    "amount": 11,
+    "descAge": "清領時期",
+    "descCreator": "",
+    "descSize": "(1)縱37橫32厚22（CM） (2)縱44橫24厚20（CM） (3)縱46橫26厚16（CM） (4)縱36橫36厚34（CM） (5)縱56橫40厚28（CM） (6)縱54橫46厚37（CM） (7)縱54橫43厚33（CM） (8)縱48橫55厚27（CM） (9)縱50橫45厚28（CM） (10)縱45橫41厚24（CM） (11)縱48橫34厚21（CM）",
+    "descMaterial": "花崗岩",
+    "reserveStatusDesc": "數量：1組11件\n尺寸（CM）：\n(1)縱37橫32厚22\n(2)縱44橫24厚20\n(3)縱46橫26厚16\n(4)縱36橫36厚34\n(5)縱56橫40厚28\n(6)縱54橫46厚37\n(7)縱54橫43厚33\n(8)縱48橫55厚27\n(9)縱50橫45厚28\n(10)縱45橫41厚24\n(11)縱48橫34厚21",
+    "pastHistorySource": 3,
+    "saveEnvironment": 1,
+    "reserveStatus": "室內空氣不太流通、溼氣重、有監視器、建築物周圍大樹環繞",
+    "documents": [
+        {
+            "fileid": 174868,
+            "name": "清代府城三郊石駝公告-104.11.11.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-21/99a7ee97-b759-4766-9ada-2c6414838049/清代府城三郊石駝公告-104.11.11.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 22.999626263690303,
+    "latitude": 120.15848554232846,
+    "representImageSource": "臺南市政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "臺南市政府文化局古蹟營運科",
+            "keepName": "70801臺南市安平區永華路二段6號13樓",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "安平小砲臺",
+            "keepAddressNew": "臺南市安平區安平路790號",
+            "saveSpaceOther": "關塞",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺南市",
+            "keepNameDistName": "安平區",
+            "keepNameAddress": "安平路790號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "安平區",
+            "id": 92589,
+            "caseId": 3297,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1606,
+            "address": "湖內二街安平小砲台倉庫"
+        }
+    ],
+    "announces": [
+        {
+            "id": 99878,
+            "caseId": 3297,
+            "caseStatus": true,
+            "registerDate": 1447171200000,
+            "officialDocNo": "府文資處字第1041092335B",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,103 @@
+{
+    "id": 4446,
+    "caseId": "20160427000005",
+    "count": 384,
+    "shareCount": 0,
+    "representImage": 7469,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/114897/photo/30b6913f-fb62-4e44-ab40-739cb2864308_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/114897/photo/30b6913f-fb62-4e44-ab40-739cb2864308.jpg",
+        "name": "30b6913f-fb62-4e44-ab40-739cb2864308"
+    },
+    "caseName": "宋朱熹易繫辭冊",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1461686400000,
+    "officialDocNo": "文授資局物字第10530037421號",
+    "judgeCriteria": [
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "朱熹，字元晦，號晦庵，徽州婺源（今屬江西）人，為南宋理學大師。此冊經元、明兩代藏家之手，於清乾隆時期入宮，著錄於《石渠寶笈．初編》，為流傳有緒之作品。\r\n本件是行楷大書，每字在五寸之上，共一百零七個字，通幅行筆迅疾，筆勢深沉，強健有力，時而又現飛白，恣意奔放，格外顯得精神奕奕。此作是朱熹存世僅見的大字墨蹟，亦為古代傳世大字書法中之傑作，具有特殊歷史文化和藝術意涵。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第4條第1項第3、4、5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局 ",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "贈書000335",
+    "amount": 15,
+    "descAge": "宋",
+    "descCreator": "朱熹",
+    "descSize": "36.5公分x61.8公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "朱熹（1130-1200），字元晦，號晦庵，徽州婺源（今屬江西）人，為南宋理學大師。其所著的《四書集注》，闡述孔子學說，成為南宋的官學與士子科舉必讀之書，影響近八百年來的中國思想。\n本冊所書內容節錄自《易經》的〈繫辭〉上、下傳及〈說卦傳〉，共十四開，朱熹大約於四十五歲到五十三歲之間寫成。每行僅書寫二字，通幅行筆迅疾，筆勢深沉，強健有力，時而又現飛白，恣意奔放，格外顯得精神奕奕。此作原為清宮舊藏，後流入日本，由旅日華僑林宗毅先生於民國七十二年捐贈故宮。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "全冊：霉傷、剝落、磨傷損、汙漬。",
+    "documents": [
+        {
+            "fileid": 148836,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-28/ba26dd75-0f29-412b-9354-987a3f41bf19/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69612,
+            "caseId": 4446,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73785,
+            "caseId": 4446,
+            "caseStatus": true,
+            "registerDate": 1461686400000,
+            "officialDocNo": "文授資局物字第10530037421號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

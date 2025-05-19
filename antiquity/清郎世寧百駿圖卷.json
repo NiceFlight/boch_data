@@ -1,0 +1,103 @@
+{
+    "id": 4444,
+    "caseId": "20160427000003",
+    "count": 640,
+    "shareCount": 1,
+    "representImage": 7465,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/114894/photo/70013142-d2e4-4e12-9f90-b1f5473b910a_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/114894/photo/70013142-d2e4-4e12-9f90-b1f5473b910a.jpg",
+        "name": "70013142-d2e4-4e12-9f90-b1f5473b910a"
+    },
+    "caseName": "清郎世寧百駿圖卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1461686400000,
+    "officialDocNo": "文授資局物字第10530037421號",
+    "judgeCriteria": [
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "郎世寧為自義大利來華的耶穌會修士，服務於清宮畫院。其貫合中西之創新畫風，是融鑄清代雍正、乾隆院畫風尚的關鍵之一。\n郎世寧在雍正朝的繪畫成就十分重要，從其題款書風兼具早期之明版宋體字及後來之館閣體，也兼證他調整、修正西方繪畫技巧的關鍵時期。此卷繪於雍正六年（1728），於大橫幅山水景致中描繪百匹姿態各異的駿馬，呈現出壯闊的牧放場面。畫中馬匹的足部可見有陰影描繪，這類處理手法，能與其稿本畫法呼應，顯示他從西洋素描傳統汲取養分，以與中國畫風有效整合。\n此卷傳是畫熱河避暑山莊景色，尺幅高大，且長達七公尺餘，畫中物象豐富，又能凸顯郎世寧整合中西技巧之複雜過程，是一見證中西文化交流的難得巨幅珍品。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第4條第1項第3、4、5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000916",
+    "amount": 1,
+    "descAge": "清",
+    "descCreator": "郎世寧",
+    "descSize": "94.5公分x 776.2公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "郎世寧（1688-1766）為自義大利來華的耶穌會修士，服務於清宮畫院，卒於北京。其貫合中西之創新畫風，是融鑄清代雍正、乾隆院畫風尚的關鍵之一。此卷繪於雍正六年（1728），於一高大橫幅山水景致中描繪百匹姿態各異的駿馬，呈現出壯闊的牧放場面。畫中山水景觀有明顯西法技巧，但又巧妙地佈置於中式橫卷形制。部分筆墨技巧與傳統中國畫法不同，常以更多以色塊形塑立體，表達光影效果。此卷從構圖與技巧兩方面，皆屬他積極整合中西畫風的精采成果。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "包首：傷損、傷補、污漬、霉傷。本幅：霉傷、磨傷損、傷補。撞邊傷損。",
+    "documents": [
+        {
+            "fileid": 148834,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-28/c41179cb-1520-4868-b6bd-11a021cb3780/公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69610,
+            "caseId": 4444,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73783,
+            "caseId": 4444,
+            "caseStatus": true,
+            "registerDate": 1461686400000,
+            "officialDocNo": "文授資局物字第10530037421號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

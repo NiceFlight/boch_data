@@ -1,0 +1,95 @@
+{
+    "id": 3030,
+    "caseId": "20141210000004",
+    "count": 777,
+    "shareCount": 2,
+    "representImage": 5441,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4778/photo/均安宮大鼓_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4778/photo/均安宮大鼓.jpg",
+        "name": "均安宮大鼓"
+    },
+    "caseName": "均安宮大鼓",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1418140800000,
+    "officialDocNo": "府授文資遺字第1030254700號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.\t此鼓之工藝價值頗高，乃千年櫸木樹幹刨空製成鼓框，乃日治時期運木運料於日本「大阪吉田大鼓店」製造，「別上等」、「太極鼓」可知為最上等之鼓。\r\n2.\t原屬神社之物，後為均安宮收藏，其保留之舊鼓皮有彰化老天興樂器行之字樣，亦見證臺灣彰化地區製鼓工藝。",
+    "lawsReference": "符合「古物分級登錄指定及廢止審查辦法」第2條第1項第1、2、3、4、5、6款評定基準，爰依據「古物分級登錄指定及廢止審查辦法」第5、7條登錄。",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "西區",
+    "reservationCode": "",
+    "keepNameId": 17,
+    "keepName": "",
+    "keepNameNew": 17,
+    "keepAddressNew": "臺中市西區梅川東路一段81號",
+    "amount": 1,
+    "notes": "",
+    "reserveStatusDesc": "1.\t年代：日據時期\r\n2.\t重量：350台斤\r\n3.\t材質：木\r\n4.\t形制：大鼓",
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 5442,
+            "name": "e81c0090-d20a-4a9f-907d-c2194b28f605.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44642/file/e81c0090-d20a-4a9f-907d-c2194b28f605.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "臺中市文化資產處",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺中市西區梅川東路一段81號",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "西區",
+            "id": 3167,
+            "caseId": 3030,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1004
+        }
+    ],
+    "announces": [
+        {
+            "id": 3167,
+            "caseId": 3030,
+            "caseStatus": true,
+            "registerDate": 1418140800000,
+            "officialDocNo": "府授文資遺字第1030254700號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,102 @@
+{
+    "id": 2998,
+    "caseId": "20141107000001",
+    "count": 588,
+    "shareCount": 0,
+    "representImage": 5380,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39110/photo/pic008_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39110/photo/pic008.jpg",
+        "name": "pic008"
+    },
+    "caseName": "嚴禁差役藉端擾累碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1415289600000,
+    "officialDocNo": "府文資字第1030010953C號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "碑材為砂岩（沉積岩類），至今仍保存完好實屬不易，內文見證清代社會治安管理與地方吏政制度之史料，反應差役擾民的歷史背景，為研究臺灣開發史之第一手物證史料，具時代性及教化意義。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第2條第1項第1、2、5、6款",
+    "govInstitutionCode": "360",
+    "govInstitutionName": "苗栗縣政府",
+    "belongCityId": 8,
+    "belongCityName": "苗栗縣",
+    "belongDistName": "竹南鎮",
+    "govInstitution": "苗栗縣政府文化觀光局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(037)352961#712",
+    "govDeptAddress": "苗栗縣苗栗市自治路50號",
+    "reservationCode": "01",
+    "amount": 1,
+    "notes": "",
+    "descAge": "乾隆五十三年(1788年)",
+    "descSize": "底座座高42公分、寬54公分。碑高130公分、寬69公分",
+    "descMaterial": "砂岩（沉積岩）",
+    "reserveStatusDesc": "碑立於清乾隆五十三年（1788年）12月，並於民國一百零三年（2014年）11月7日，經苗栗縣政府公告登錄為一般古物，屬生活及儀禮器物類。原碑無題，額刻「奉憲」二字，其碑文內容描述福建巡撫徐嗣曾應監生莊文榜等人呈請，出示嚴禁差役與社差索擾民人與原住民並陷害無辜。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 3,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 138620,
+            "name": "古物01-嚴禁差役藉端擾累碑-公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-09-15/0ef3df31-29a9-4752-a6e5-ea8031c12011/古物01-嚴禁差役藉端擾累碑-公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 24.68,
+    "latitude": 120.86,
+    "representImageSource": "苗栗縣政府文化觀光局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "中港慈裕宮管理委員會",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "苗栗縣竹南鎮民生路7號",
+            "saveSpaceOther": " 竹南鎮中美里民生路7號",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "考古遺址",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "苗栗縣",
+            "distName": "竹南鎮",
+            "id": 109995,
+            "caseId": 2998,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 801
+        }
+    ],
+    "announces": [
+        {
+            "id": 118949,
+            "caseId": 2998,
+            "caseStatus": true,
+            "registerDate": 1415289600000,
+            "officialDocNo": "府文資字第1030010953C號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

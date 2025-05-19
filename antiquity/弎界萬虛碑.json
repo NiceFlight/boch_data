@@ -1,0 +1,100 @@
+{
+    "id": 15440,
+    "caseId": "20180102000010",
+    "count": 1721,
+    "shareCount": 4,
+    "representImage": 47199,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2017-12-20/141a3e01-2c56-4f75-8910-3c5e00cb1f8b/弎界萬虛碑_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2017-12-20/141a3e01-2c56-4f75-8910-3c5e00cb1f8b/弎界萬虛碑.jpg",
+        "name": "弎界萬虛碑"
+    },
+    "caseName": "弎界萬虛碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1514476800000,
+    "officialDocNo": "府授文資第1060185113號函",
+    "judgeCriteria": [
+        "具有史事淵源",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者"
+    ],
+    "registerReason": "1.\t具有地方重要人物或歷史事件之深厚淵源者：碑文記載了新竹公園清塚修建的歷史。\n2.\t具有藝術造詣或科學成就：碑文為知名書法家李逸樵所書具藝術價值。\n3.\t數量稀少者：大型卵石造型石碑較罕見。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第2、4、5款",
+    "govInstitutionCode": "300",
+    "govInstitutionName": "新竹市政府",
+    "belongCityId": 6,
+    "belongCityName": "新竹市",
+    "belongDistName": "東區",
+    "govInstitution": "新竹市文化局",
+    "govDeptName": "新竹市文化局文化資產科",
+    "govDeptPhone": "03-5425079",
+    "govDeptAddress": "300新竹市北區中央路109號",
+    "reservationCode": "Z1061226002",
+    "amount": 1,
+    "notes": "位置說明：位於新竹市立動物園內，座落於草原區獸籠內。",
+    "descAge": "大正十二年二月(西元1923年)",
+    "descSize": "高150公分、最寬78公分、厚56公分",
+    "descMaterial": "石質",
+    "reserveStatusDesc": "弎界萬虛碑下有一圓石作為碣座，現立於新竹市動物園內。碑體未見人工雕塑痕跡，應是原石直接刻字為碣。正面陰刻「無量壽」三字並上有紅漆，背面陰刻文字書以紅漆，碣題陰刻篆文「弎界萬虛」，碣文內容「城之東南有一小邱，叢塚纍纍，古枕頭山也。地頗風致，當局者意以為公園甚適，詢謀僉同，爰命拾枯骨痊於南郊納骨堂，俾永血食，乃就其地而開拓焉；園成因誌其沿革勒諸石。」下款陰刻「大正十二年二月立」大正年號已被抹去。「無量壽」碣龍邊有陰刻有「李逸樵書」之落款。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 3,
+    "reserveStatus": "狀況穩定",
+    "documents": [
+        {
+            "fileid": 47361,
+            "name": "府授文資第1060185113號函.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-01-02/a7eb19fb-6a1f-4a0e-8461-b84f919eae90/府授文資第1060185113號函.jpg"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.98008,
+    "latitude": 24.80101,
+    "representImageSource": "新竹市文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "新竹市立動物園",
+            "keepName": "楊家民",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "新竹市立動物園",
+            "keepAddressNew": "新竹市東區博愛街111號",
+            "saveSpaceIdStr": "公務設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "新竹市",
+            "keepNameAddress": "公園路279號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "新竹市",
+            "distName": "東區",
+            "id": 69711,
+            "caseId": 15440,
+            "caseStatus": true,
+            "cityId": 6,
+            "distId": 601
+        }
+    ],
+    "announces": [
+        {
+            "id": 73890,
+            "caseId": 15440,
+            "caseStatus": true,
+            "registerDate": 1514476800000,
+            "officialDocNo": "府授文資第1060185113號函",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

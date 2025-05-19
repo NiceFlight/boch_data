@@ -1,0 +1,94 @@
+{
+    "id": 2422,
+    "caseId": "20120521000001",
+    "count": 193,
+    "shareCount": 0,
+    "representImage": 4714,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/traditional_art/2793/photo/7bf8aea6-9a6e-42e7-ae2c-301aa2f2b076_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/traditional_art/2793/photo/7bf8aea6-9a6e-42e7-ae2c-301aa2f2b076.jpg",
+        "name": "7bf8aea6-9a6e-42e7-ae2c-301aa2f2b076"
+    },
+    "caseName": "客家戲曲",
+    "classifyCode": "4.1",
+    "classifyName": "傳統表演藝術",
+    "assetsTypeNames": "戲曲",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "4.1.1",
+    "assetsClassifyName": "傳統表演藝術",
+    "registerDate": 1337583713000,
+    "officialDocNo": "1020004771",
+    "documents": [
+        {
+            "fileid": 260101,
+            "name": "客家戲曲-保存者張有財-公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-07-16/14aa7cea-f5e7-408a-a653-b9d7fc231c54/客家戲曲-保存者張有財-公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "藝術性:具有藝術價值者",
+        "特殊性:構成傳統藝術之特殊藝能表現,其技法優秀者",
+        "地方性:傳統藝術領域有價值與地位,並具有地方色彩或流派特色顯著者"
+    ],
+    "registerReason": "1、具客家傳統藝術表驗的特殊藝能。\r\n2、呈現客家戲曲文化的重要角色(丑角)價值與特色，技法精湛、優秀。\r\n3、致力於丑角表演藝術的教學與傳承工作。",
+    "lawsReference": "符合文化資產保存法第５９條第４項規定訂定之「傳統藝術民俗及有關文物登錄指定及廢止審查辦法」第２條第１項第１款第１、２、３目之登錄基準。",
+    "govInstitutionCode": "360",
+    "govInstitutionName": "苗栗縣政府",
+    "belongCityId": 8,
+    "belongCityName": "苗栗縣",
+    "govInstitution": "苗栗縣政府文化觀光局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "037-352961#713",
+    "govDeptAddress": "苗栗縣苗栗市自治路50號",
+    "belongAddress": "",
+    "historyDevelopment": "暫無資料",
+    "preservers": [
+        {
+            "id": 21967,
+            "type": "個人",
+            "caseName": "張有財(歿)",
+            "cityName": "苗栗縣",
+            "distName": "後龍鎮",
+            "caseArtistEntities": [],
+            "representImage": 230474,
+            "registrationDate": 1369065600000,
+            "judgeCriteria": [
+                "熟知並能正確體現該登錄項目之知識、技藝與文化表現形式，並具代表性",
+                "具該登錄項目之傳習能力與意願",
+                "在文化脈絡下為適當者"
+            ],
+            "registerReason": "（一）\t具客家傳統藝術表演的特殊藝能。\n（二）\t呈現客家戲曲文化的重要角色（丑角）價值與特色，技法精湛、優秀。\n（三）\t致力於丑角表演藝術的教學與傳承工作。\n",
+            "lawsReference": "<<傳統表演藝術登錄認定及廢止審查辦法>>第4條第1、2、3款",
+            "isOpenDownload": false,
+            "representImageSource": "劉榮春",
+            "contactorIsOpen": false
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "2003客家大戲《錯無錯》",
+    "addresses": [
+        {
+            "cityName": "苗栗縣",
+            "distName": "後龍鎮",
+            "id": 132111,
+            "caseId": 2422,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 806,
+            "address": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 143955,
+            "caseId": 2422,
+            "caseStatus": true,
+            "registerDate": 1337583713000,
+            "officialDocNo": "1020004771",
+            "classificationId": 1
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "id": 19610,
+    "caseId": "20210719000001",
+    "count": 427,
+    "shareCount": 0,
+    "representImage": 125121,
+    "representImageInfo": {
+        "ext": "bmp",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-19/b4111b43-abc0-4f60-a58d-e59550173ad0/圖片1_c.bmp"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-19/b4111b43-abc0-4f60-a58d-e59550173ad0/圖片1.bmp",
+        "name": "圖片1"
+    },
+    "caseName": "北宋汝窯青瓷水仙盆",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "judgeCriteria": [
+        "歷代著名人物、國家重大事件之代表性",
+        "獨一無二或不可替代性",
+        "對知識、技術或流派發展具特殊影響或意義"
+    ],
+    "registerReason": "此器呈橢圓形器身，侈口加鑲銅釦，周壁較淺而胎骨較薄，底足略厚，平底，底緣凸起一道窄邊，四角各按一雲頭形短足。滿釉支燒，通體施天青色釉，周緣與稜角釉薄處微現淺粉色光澤。外底留存六枚支釘，支痕中露出灰土色胎。底面鐫刻乾隆皇帝〈猧食盆〉御製詩。詩末署「乾隆御題」，並鈐「比德」、「朗潤」兩印。乾隆三十二年《活計檔》記事記錄乾隆皇帝降旨為一件「隨木座內裝冊頁一冊」的「汝窯貓食盆」鑲金口，而且要求「鑲薄些，銅口燒古」，對照實物，從口沿加鑲銅釦的特徵中，反推檔案所記或正是這件作品。傳世隨附木座，木座帶屜，底面刻「靜憩軒御賞」及「清玩」、「比德」、「朗潤」三枚印章。現今所知，傳世的汝窯水仙盆僅有六件，可知數量特別稀少。另外，透過御製詩的內容以及器上鈐印，可推知乾隆皇帝對此器的識別與鑑賞觀，益顯珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第4條第2、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "0422177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故瓷 013977",
+    "amount": 1,
+    "descAge": " 宋",
+    "descSize": "高5.7公分  口縱15.1公分  口橫22.9公分  底縱13.1公分  底橫19.6公分",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "此器呈橢圓形，侈口嵌銅釦，淺壁，平底外緣多出一圈窄邊，下接四雲頭形足。周壁胎較薄，底足略厚。通體施天青色釉，周緣與稜角釉薄處顯現淺粉色光澤。外底留有六枚支燒痕，從支痕中可見土色胎土。底面刻乾隆皇帝〈猧食盆〉御製詩，詩末無紀年銘，僅署「乾隆御題」，並落「比德」、「朗潤」兩枚鈐印。\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "口沿舊裂璺、器內底舊刮痕、圈足著地處舊磨擦痕。",
+    "documents": [
+        {
+            "fileid": 142843,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-04/5f3219a4-5bb3-4b13-8de0-cae60fd1bda1/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.5484322510235,
+    "latitude": 121.5484322510235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": " ",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 66424,
+            "caseId": 19610,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 70613,
+            "caseId": 19610,
+            "caseStatus": true,
+            "registerDate": 1624428920618,
+            "officialDocNo": "文授資局物字第11030062561號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

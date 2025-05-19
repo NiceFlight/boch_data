@@ -1,0 +1,103 @@
+{
+    "id": 3295,
+    "caseId": "20151111000002",
+    "count": 651,
+    "shareCount": 0,
+    "representImage": 91688,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-01-06/db02e512-a91a-4c41-911d-b6e4f6b3fa6a/義民祠記碑_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-01-06/db02e512-a91a-4c41-911d-b6e4f6b3fa6a/義民祠記碑.jpg",
+        "name": "義民祠記碑"
+    },
+    "caseName": "義民祠記碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-其他",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1447171200000,
+    "officialDocNo": "府文資處字第1041092335B",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者"
+    ],
+    "registerReason": "本碑記錄清乾隆五十一年(西元1786年)林爽文事件發生後，臺灣知府楊廷理倚仗義民協助守禦府城，亂事平定後建「義民祠」於府城鎮北坊，並捐俸購置祠旁店屋及田地，以資歲祀。義民祠今已不存，僅存本碑記見證昔日義民祠之創建，並呈現臺灣清領時期，官方逢亂運用地方力量平定之史實，印證林爽文事件，具歷史意義與價值。\r\n本碑碑文雕刻精細，具石刻藝術價值，且臺灣知府楊廷理所立之碑，目前府城僅存六件，本件碑記為其中之一，碑文清晰可辨，具珍貴稀有性。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第2條第1項第1、2、4、5款。",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "安平區",
+    "govInstitution": "臺南市文化資產管理處",
+    "govDeptName": "文化資產研究組",
+    "govDeptPhone": "06-2213569#603",
+    "govDeptAddress": "臺南市中西區中正路五巷1號2樓",
+    "reservationCode": "5040190-5015331",
+    "amount": 1,
+    "descAge": "1790",
+    "descSize": "縱148cm、橫60cm、厚18cm",
+    "descMaterial": "花崗岩",
+    "reserveStatusDesc": "本碑記錄清乾隆五十一年(西元1786年)林爽文事件發生後，臺灣知府楊廷理倚仗義民協助守禦府城，亂事平定後建「義民祠」於府城鎮北坊，並捐俸購置祠旁店屋及田地，以資歲祀。義民祠今已不存，僅存本碑記見證昔日義民祠之創建，並呈現臺灣清領時期，官方逢亂運用地方力量平定之史實，印證林爽文事件，具歷史意義與價值。\n本碑碑文雕刻精細，具石刻藝術價值，且臺灣知府楊廷理所立之碑，目前府城僅存六件，本件碑記為其中之一，碑文清晰可辨，具珍貴稀有性。\n",
+    "pastHistorySource": 7,
+    "saveEnvironment": 2,
+    "reserveStatus": "有損傷但狀況穩定 ",
+    "documents": [
+        {
+            "fileid": 118163,
+            "name": "義民祠記碑.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-06-07/2fc11e2a-1994-4c6e-b8fd-e4c25f505693/義民祠記碑.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 22.996174438340773,
+    "latitude": 120.20553004156378,
+    "representImageSource": "所有人提供",
+    "keepNames": [
+        {
+            "keepNameIdStr": "臺南市政府",
+            "keepName": "蔡華芳",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺南市中西區民族路二段212號（赤崁樓）",
+            "saveSpaceOther": "-",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "id": 63643,
+            "caseId": 3295,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601,
+            "address": "民族路2段212號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 67235,
+            "caseId": 3295,
+            "caseStatus": true,
+            "registerDate": 1447171200000,
+            "officialDocNo": "府文資處字第1041092335B",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

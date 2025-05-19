@@ -1,0 +1,102 @@
+{
+    "id": 16141,
+    "caseId": "20180912000010",
+    "count": 448,
+    "shareCount": 0,
+    "representImage": 50019,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-09-12/ab96c973-9356-4f9a-aee3-e29c32f39328/16 萬和宮-德媲媧皇匾_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-09-12/ab96c973-9356-4f9a-aee3-e29c32f39328/16 萬和宮-德媲媧皇匾.jpg",
+        "name": "16 萬和宮-德媲媧皇匾"
+    },
+    "caseName": "萬和宮-德媲媧皇匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1473066966570,
+    "officialDocNo": "府授文資遺字第10501862705 號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有一定之時代特色、技術及流派",
+        "具有珍貴及稀有性者"
+    ],
+    "registerReason": "1.立於光緒十二年(1886)，立匾人林文欽、林振芳二位乃有功名之本地赫赫巨紳，具地方拓墾史上之價值。\n2.文物製作精美，贊助文反映特定歷史文化脈絡，所屬年代明確。\n",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第1、3、5款",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "南屯區",
+    "govInstitution": "臺中市文化資產處",
+    "govDeptName": "遺址傳藝課",
+    "govDeptPhone": "04-22290280#501",
+    "govDeptAddress": "臺中市南區復興路三段362號R10",
+    "reservationCode": "府授文資遺字第10501862705 號",
+    "keepNameId": 69,
+    "keepName": "財團法人台中萬和宮",
+    "keepNameNew": 69,
+    "keepAddressNew": "臺中市南屯區萬和路一段51號",
+    "saveSpaceId": 1,
+    "saveSpaceIdentityId": 1,
+    "amount": 1,
+    "descAge": "光緒",
+    "descSize": "寬178公分，高70.5公分，厚1.9~2.1公分",
+    "descMaterial": "木",
+    "reserveStatusDesc": "完整良好",
+    "pastHistorySource": 6,
+    "saveEnvironment": 2,
+    "reserveStatus": "完整良好",
+    "documents": [
+        {
+            "fileid": 50020,
+            "name": "16 萬和宮-德媲媧皇匾(公告-掃描).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-09-12/155293d8-c89b-4166-a458-b3ba6ae9b9cf/16 萬和宮-德媲媧皇匾(公告-掃描).pdf"
+        }
+    ],
+    "keepNames": [
+        {
+            "keepNameIdStr": "財團法人台中萬和宮",
+            "keepName": "財團法人台中萬和宮",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "財團法人台中萬和宮",
+            "keepAddressNew": "臺中市南屯區萬和路一段51號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "臺中市",
+            "keepNameDistName": "南屯區",
+            "keepNameAddress": "萬和路一段51號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "南屯區",
+            "id": 5878,
+            "caseId": 16141,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1008
+        }
+    ],
+    "announces": [
+        {
+            "id": 5878,
+            "caseId": 16141,
+            "caseStatus": true,
+            "registerDate": 1473066966570,
+            "officialDocNo": "府授文資遺字第10501862705 號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

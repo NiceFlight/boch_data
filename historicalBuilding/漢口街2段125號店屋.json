@@ -1,0 +1,126 @@
+{
+    "id": 1060,
+    "caseId": "20070403000001",
+    "count": 3215,
+    "shareCount": 2,
+    "representImage": 168108,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/02582b89-0b3d-4260-b17c-880e36854282/代表圖像_漢口街2段125號店屋_20220531_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/02582b89-0b3d-4260-b17c-880e36854282/代表圖像_漢口街2段125號店屋_20220531.jpeg",
+        "name": "代表圖像_漢口街2段125號店屋_20220531"
+    },
+    "caseName": "漢口街2段125號店屋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "約建於1920-30年代，帶豐富西洋建物花草裝飾的立面，山牆立面牆上泥飾形式眾多，外飾溝面磚，如楄牆具有常見的勳章飾及卷草紋樣，柱端具有南美馬雅風格之紋樣（蜻蜓），為典型的店屋立面。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 140625,
+            "name": "3._960403登錄歷史建築公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/dc649bdd-bcb1-41df-a886-ad7b63cdd88e/3._960403登錄歷史建築公告.pdf"
+        },
+        {
+            "fileid": 140626,
+            "name": "4._960403檢送歷史建築相關資料函.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/60a14b56-89c8-445d-82dc-09e365834471/4._960403檢送歷史建築相關資料函.pdf"
+        },
+        {
+            "fileid": 140627,
+            "name": "地籍圖與地形位置圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/c54e3b99-5354-48ee-a428-b311d36650e0/地籍圖與地形位置圖.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1.與慈雲寺相鄰，為北市漢口街尾連續舊店面之一部分，對都市景觀風貌及慈雲寺周圍風貌的維持極為重要，具歷史文化價值。\r\n2.約建於1920-30年代，帶豐富西洋建物花草裝飾的立面，山牆立面牆上泥飾形式眾多，外飾溝面磚，如楄牆具有常見的勳章飾及卷草紋樣，柱端具有南美馬雅風格之紋樣（蜻蜓），為典型的店屋立面。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 140628,
+            "name": "b62df4e1-57af-4117-a1ec-5cbadbcf9d3a.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/49cd98aa-8c31-4275-b053-d01d3b5a703e/b62df4e1-57af-4117-a1ec-5cbadbcf9d3a.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "萬華區福星段2小段482地號、483地號",
+    "buildingFeatures": "本建物為鋼筋混凝土加強磚造之單間三層洋樓，外牆為十三溝面磚，立面有細緻的山牆雕飾、柱頭裝飾，其結構及外觀保存仍佳。",
+    "inHouseFeatures": "",
+    "buildingUsage": "已整修完成，私人使用。",
+    "buildingActualState": "已整修完成，私人使用。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.5040002,
+    "latitude": 25.0464845,
+    "representImageSource": "臺北市文化局",
+    "landScope": "萬華區福星段2小段482地號、483地號",
+    "selfCoverage": "以實際量測數據為主",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "id": 82060,
+            "caseId": 1060,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "address": "漢口街2段125號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "landNoName": "福星段二小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 90737,
+            "caseId": 1060,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "landNoId": 178,
+            "landSerialNo": "482",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "coverageId": 2,
+            "area": "63",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 88194,
+            "caseId": 1060,
+            "caseStatus": true,
+            "registerDate": 1175529600000,
+            "officialDocNo": "府文化二字第09630235000號",
+            "classificationId": 1,
+            "note": "登錄"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

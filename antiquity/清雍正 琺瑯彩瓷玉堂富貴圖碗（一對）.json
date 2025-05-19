@@ -1,0 +1,101 @@
+{
+    "id": 16364,
+    "caseId": "20181113000015",
+    "count": 103,
+    "shareCount": 0,
+    "representImage": 51332,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-11-13/9b970e9b-f307-4666-85e7-b740d482ba3d/15-017734_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-11-13/9b970e9b-f307-4666-85e7-b740d482ba3d/15-017734.jpg",
+        "name": "15-017734"
+    },
+    "caseName": "清雍正 琺瑯彩瓷玉堂富貴圖碗（一對）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1522425600000,
+    "officialDocNo": "文授資局物字第10730035181號",
+    "judgeCriteria": [
+        "能表現傳統、族群或地方之風俗、記憶及傳說、信仰、技藝或生活文化之重要特色",
+        "具有重要藝術造詣或科學成就",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "生產於宮中造辦處的琺瑯彩瓷，是盛清代表工藝之一。製作精美，傳世數量稀少，紋飾、題材縱有成對，亦無一相同，乾隆朝時便曾降旨分批珍藏。\n此二器外壁彩繪玉蘭、海棠及牡丹花，三者合而觀之，帶有「玉堂富貴」的吉祥意涵；另一面有墨書「影轉團團月，香含細細風」二句，詩句前有「佳麗」，後有「金成」、「旭映」共三枚紅料印。器底帶「雍正年製」二行藍料宋體字雙方框款。\n雍正朝是琺瑯彩瓷發展的關鍵階段，此器品質精美，繪製細膩，紋樣可對照清 郎世寧〈畫仙萼長春〉冊，反映當時流通異質材間的宮廷品味。傳世僅有二件，且能對照道光十五年七月十一日立乾清宮《琺瑯玻璃宜興磁胎陳設檔案》，益顯珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第1、4、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故瓷017734、故瓷017735",
+    "amount": 2,
+    "descAge": "清　雍正",
+    "descSize": "高5.4公分，口徑10.2公分",
+    "descMaterial": "瓷胎畫琺瑯",
+    "reserveStatusDesc": "此器侈口、深弧壁、圈足。器內無紋，外壁一面彩繪玉蘭、海棠及牡丹花，三者合而觀之，帶有「玉堂富貴」的吉祥意涵。另一面墨書「影轉團團月，香含細細風」二句，詩句取材自明朝薛惠〈海棠畫扇〉五言律詩之頸聯。詩句前有「佳麗」，後有「金成」、「旭映」共三枚紅料印，器底帶「雍正年製」二行藍料宋體字雙方框款。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "良好，唯故瓷017734有舊微傷。",
+    "documents": [
+        {
+            "fileid": 147464,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-14/2cf26008-2799-489a-8dc2-0bcf63cee0c0/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號 ",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 81007,
+            "caseId": 16364,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 87020,
+            "caseId": 16364,
+            "caseStatus": true,
+            "registerDate": 1522425600000,
+            "officialDocNo": "文授資局物字第10730035181號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

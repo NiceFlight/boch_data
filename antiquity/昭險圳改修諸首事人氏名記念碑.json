@@ -1,0 +1,103 @@
+{
+    "id": 16508,
+    "caseId": "20190117000002",
+    "count": 680,
+    "shareCount": 0,
+    "representImage": 5459,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/5359/photo/昭險圳改修諸首事人氏名紀念碑_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/5359/photo/昭險圳改修諸首事人氏名紀念碑.JPG",
+        "name": "昭險圳改修諸首事人氏名紀念碑"
+    },
+    "caseName": "昭險圳改修諸首事人氏名記念碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-其他",
+    "otherAssetsType": "碑碣",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1413475200000,
+    "officialDocNo": "府授文資字第10301991189號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "日治初期，灌溉草屯地區之險圳因茄荖山輸水隧道嚴重崩壞無法灌溉，南投廳長小柳重道與地方人士商議，決定予以改築，於明治37年(1904)開工，39年(1906)1月竣工，工程完工通水後為表彰參與者諸人功績特立此碑紀念，臺灣總督府民政長官後藤新平並將之重新命名為「北投新圳」。險圳自清代開鑿以來即為草屯地區重要的水利工程，本碑見證地方農田水利之發展沿革，深具歷史價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第2條第1項第1、6款",
+    "govInstitutionCode": "540",
+    "govInstitutionName": "南投縣政府",
+    "belongCityId": 12,
+    "belongCityName": "南投縣",
+    "belongDistName": "草屯鎮",
+    "govInstitution": "南投縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "049-2231191",
+    "govDeptAddress": "540南投市建國路135號",
+    "reservationCode": "一般古物",
+    "amount": 1,
+    "notes": "",
+    "descAge": "1906年(明治39年)",
+    "descSize": "寬57公分、高109公分",
+    "descMaterial": "石質(玄武岩類)台灣觀音石",
+    "reserveStatusDesc": "石碑外形為長方碑形；碑首上方有雙龍搶珠的浮雕紋飾，碑面兩側刻有回紋。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 3,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 233850,
+            "name": "昭險圳改修諸首事人氏名記念碑 公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-10-25/e3b0e2e5-0c4a-4906-850b-fd0c58ab369b/昭險圳改修諸首事人氏名記念碑 公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 23.98382,
+    "latitude": 120.68877,
+    "representImageSource": "農業部農田水利署南投管理處",
+    "keepNames": [
+        {
+            "keepNameIdStr": "農業部",
+            "keepName": "農業部農田水利署南投管理處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "南投縣草屯鎮儒林街21號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "公務設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "南投縣",
+            "distName": "草屯鎮",
+            "id": 115645,
+            "caseId": 16508,
+            "caseStatus": true,
+            "cityId": 12,
+            "distId": 1203,
+            "address": "儒林街21號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 126094,
+            "caseId": 16508,
+            "caseStatus": true,
+            "registerDate": 1545062400000,
+            "officialDocNo": "府授文資字第10702690431號",
+            "classificationId": 2
+        }
+    ],
+    "isPublic": true
+}

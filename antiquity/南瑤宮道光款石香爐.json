@@ -1,0 +1,97 @@
+{
+    "id": 21046,
+    "caseId": "20220929000002",
+    "count": 371,
+    "shareCount": 0,
+    "representImage": 185637,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-09-28/e0c5d91c-2979-4476-becb-cf639cb36624/案2-南瑤宮道光款石香爐_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-09-28/e0c5d91c-2979-4476-becb-cf639cb36624/案2-南瑤宮道光款石香爐.jpg",
+        "name": "案2-南瑤宮道光款石香爐"
+    },
+    "caseName": "南瑤宮道光款石香爐",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "1.具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：如此造形之石爐，常見於清乾隆至道光年間，以石作打製工藝，本件刻有「南瑤宮」、「道光丁亥年」，保存完整，具歷史價值。\n2.具有藝術造詣或科學成就：雙側為倒立獅頭吞高展耳，造形生動，具藝術價值。",
+    "lawsReference": "<<文化資產保存法>>第67條暨<<古物分級指定及廢止審查辦法>>第2條第1、4款",
+    "govInstitutionCode": "500",
+    "govInstitutionName": "彰化縣政府",
+    "govInstitution": "彰化縣政府",
+    "govDeptName": "彰化縣文化局",
+    "govDeptPhone": "04-7510709",
+    "govDeptAddress": "500彰化縣彰化市平和七街66號",
+    "reservationCode": "府授文戲字第 1110216915B 號",
+    "amount": 1,
+    "descAge": "道光7年（西元1827年）",
+    "descSize": "最長 65 公分、最寬 36.5 公分、最高 40 公分",
+    "descMaterial": "石",
+    "reserveStatusDesc": "方口、雙側倒立獅頭吞高展耳、下有四隻獅吞獸足，全器磚紅色，部分色料脫落。正面器身陰刻「南瑤宮」、「道光丁亥年」字款，背面器身陰刻拐龍團爐紋，雙側牙子陰刻束草紋，正反面牙子陰刻如意牡丹紋。陰刻紋飾與獅首有墨線描繪，部分墨線已脫落不明。器身有裂縫，已做修補。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "道光7年（西元1827年）",
+    "saveEnvironment": 2,
+    "reserveStatus": "狀況穩定，器身有裂縫，已做修補",
+    "documents": [
+        {
+            "fileid": 211225,
+            "name": "南瑤宮道光款石香爐1110620.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-04-12/27149e98-2f3c-4f7f-808a-ec1530195f01/南瑤宮道光款石香爐1110620.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.53856676185,
+    "latitude": 24.0676783000564,
+    "representImageSource": "彰化縣文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "彰化縣彰化市公所",
+            "keepName": "彰化縣彰化市公所",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "南瑤宮",
+            "keepAddressNew": "彰化縣彰化市南瑤路43號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "彰化縣",
+            "keepNameDistName": "彰化市",
+            "keepNameAddress": "南瑶路43號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "彰化縣",
+            "distName": "彰化市",
+            "id": 148834,
+            "caseId": 21046,
+            "caseStatus": true,
+            "cityId": 11,
+            "distId": 1101,
+            "address": "南瑤里南瑤路43號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 161842,
+            "caseId": 21046,
+            "caseStatus": true,
+            "registerDate": 1655710530080,
+            "officialDocNo": "府授文戲字第 1110216915B 號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

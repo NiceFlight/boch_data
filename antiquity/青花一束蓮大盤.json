@@ -1,0 +1,105 @@
+{
+    "id": 3335,
+    "caseId": "20101215000008",
+    "count": 81,
+    "shareCount": 0,
+    "representImage": 5804,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32552/photo/1ec7d06c-fbd7-4b57-9cc1-5003ffb14c6c_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32552/photo/1ec7d06c-fbd7-4b57-9cc1-5003ffb14c6c.jpg",
+        "name": "1ec7d06c-fbd7-4b57-9cc1-5003ffb14c6c"
+    },
+    "caseName": "青花一束蓮大盤",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1292342400000,
+    "officialDocNo": "會授資籌二字第09920152382號",
+    "judgeCriteria": [
+        "具有史事重要淵源",
+        "具有重要之時代特色、技術及流派"
+    ],
+    "registerReason": "本件由外交部泰國大使館撤回，具有史事重要淵源；品質精良，紋飾具有明代特微，具有重要時代特色。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第二、三款、第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "16-75",
+    "keepNameId": 7,
+    "keepName": "國立歷史博物館",
+    "keepNameNew": 7,
+    "keepAddressNew": "100台北市中正區南海路49號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descSize": "高7.2~7.5公分；口徑38.3公分",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "本件器型碩大、完整，時代特徵明顯。\r\n器型圓，分內圓和外圓二部分及圈足；在內圓施池塘蓮紋、外圓施吉祥牡丹團花，描繪成熟、線條流利。全身覆白釉，而白釉泛青，青花鈷藍釉呈深藍。",
+    "pastHistorySource": 7,
+    "pastHistorySourceNotes": "外交部代管",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 53469,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-12-26/2c2d6f91-d9aa-42f3-8fde-af0634aadff7/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立歷史博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立歷史博物館",
+            "keepName": "國立歷史博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立歷史博物館",
+            "keepAddressNew": "100台北市中正區南海路49號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "徐州路21號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3477,
+            "caseId": 3335,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3477,
+            "caseId": 3335,
+            "caseStatus": true,
+            "registerDate": 1292342400000,
+            "officialDocNo": "會授資籌二字第09920152382號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

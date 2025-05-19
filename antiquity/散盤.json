@@ -1,0 +1,102 @@
+{
+    "id": 3878,
+    "caseId": "20121112000004",
+    "count": 553,
+    "shareCount": 0,
+    "representImage": 6686,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32864/photo/733453e1-701b-4d2f-a27a-768f04bb2549_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32864/photo/733453e1-701b-4d2f-a27a-768f04bb2549.JPG",
+        "name": "733453e1-701b-4d2f-a27a-768f04bb2549"
+    },
+    "caseName": "散盤",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1352649600000,
+    "officialDocNo": "文授字第10120135331號",
+    "judgeCriteria": [
+        "歷史流傳已久或史事具有深厚淵源",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "散盤器表滿飾花紋，莊重華麗。銘文鑄於盤內底上，實能認出者為350字。字體渾樸雄偉。銘文內容豐富。是一篇涉及西周晚期諸侯國之間土地糾紛問題，是研究西周土地制度的重要史料。據學者們考證，由銘文內的人物推知，此盤的鑄作年代約在厲王時期。為研究西周晚期歷史，如王權衰落的重要史料。根據張廷濟《清儀閣題跋》、陳介祺輯《簠齋積古金文》等資料，散氏盤於清康熙年間於陝西鳳翔出土，先後在江南，揚州鹽商收藏家之間流轉。嘉慶十四年，仁宗皇帝五十萬壽，申命臣工不准進獻珠玉，書冊字畫准進。鹽運使額勒布認為此時送散盤為賀禮最貼切，乃以散盤呈進，使這件宗邦重器入列石渠。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第4條第1項第2、5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故銅002376",
+    "amount": 1,
+    "notes": "",
+    "descAge": "西周",
+    "descSize": "通高20.6cm、腹深9.8cm、口徑54.6cm、底徑41.4cm。",
+    "descMaterial": "銅",
+    "reserveStatusDesc": "器身飾夔紋，間以獸首三，足飾獸面紋。鑄銘350字。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 150757,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-19/6e774ea8-6431-4eb6-85c3-59d3e3432507/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71147,
+            "caseId": 3878,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 75493,
+            "caseId": 3878,
+            "caseStatus": true,
+            "registerDate": 1352649600000,
+            "officialDocNo": "文授字第10120135331號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

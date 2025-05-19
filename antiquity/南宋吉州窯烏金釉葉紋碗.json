@@ -1,0 +1,107 @@
+{
+    "id": 17284,
+    "caseId": "20200108000013",
+    "count": 441,
+    "shareCount": 0,
+    "representImage": 64779,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-01-08/f2b7a88e-6c2f-4eb9-a7e6-df4531912312/12-故-瓷-016991_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-01-08/f2b7a88e-6c2f-4eb9-a7e6-df4531912312/12-故-瓷-016991.jpg",
+        "name": "12-故-瓷-016991"
+    },
+    "caseName": "南宋吉州窯烏金釉葉紋碗",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1577160574070,
+    "officialDocNo": "中華民國108年12月24日文授資局物字第10830139531號",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "數量特別稀少或具完整性保存意義者",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此器侈口，上豐下削，平底，底沿凹刻一周，與底部均露米白色胎，塗赭色薄汁。裏外壁均施明亮的烏黑釉，微泛褐色斑。內壁餘一片葉紋，色黃微帶藍色調；網狀葉脈細膩，葉緣卷起殘蝕。外壁有輪鏇痕。口沿鈐金邊。\n1996年江西省上饒市南宋開禧二年（1206）趙氏墓出土類似本展件的作品，說明此時這項工藝已臻成熟。院藏同類作品數量稀少，此件作品葉紋清晰，為同型器中精彩之作，益顯珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故瓷016991",
+    "amount": 1,
+    "descAge": "南宋",
+    "descSize": "高5.1、口徑14.5、底徑3.2公分",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "此茶碗，廣口、斜直壁，小足底略凹，裡心突起，口鑲金扣。倒置形似斗笠，通稱「斗笠碗」，是宋代點茶茶碗常見的造形。黑釉若刨後木頭的光澤，內斂深遂，器內多使用痕跡。外壁薄釉，轆轤痕跡明顯。外底滿施粉狀褐釉，不勻處露米黃色胎。器內黃褐色殘葉斜倚，葉脈交錯清晰。整體沉靜，若一葉飄浮夜空。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "口緣有璺、口沿內緣有舊傷缺，圈足有舊傷缺，器內外有多處摩擦痕。",
+    "documents": [
+        {
+            "fileid": 144786,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-15/b6f0825e-1d05-4033-a74e-c208c2e6dfdc/公告.pdf"
+        },
+        {
+            "fileid": 144787,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-15/129d12f0-3707-433d-969f-7d32658de387/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "11143臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71927,
+            "caseId": 17284,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 76445,
+            "caseId": 17284,
+            "caseStatus": true,
+            "registerDate": 1577160574070,
+            "officialDocNo": "中華民國108年12月24日文授資局物字第10830139531號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

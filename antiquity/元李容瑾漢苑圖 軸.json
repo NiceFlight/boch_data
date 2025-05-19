@@ -1,0 +1,100 @@
+{
+    "id": 19224,
+    "caseId": "20210531000001",
+    "count": 419,
+    "shareCount": 1,
+    "representImage": 116550,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-05-31/a1d2a68f-65fc-4459-b404-6e6520d06905/PK2A000260N000000000PAA (2)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-05-31/a1d2a68f-65fc-4459-b404-6e6520d06905/PK2A000260N000000000PAA (2).jpg",
+        "name": "PK2A000260N000000000PAA (2)"
+    },
+    "caseName": "元李容瑾漢苑圖 軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "judgeCriteria": [
+        "具有獨特藝術造詣或科學成就",
+        "獨一無二或不可替代性",
+        "對知識、技術或流派發展具特殊影響或意義"
+    ],
+    "registerReason": "此幀立軸山水界畫以鳥瞰視角描繪，畫面宮室建築群主次分明而類型齊全，畫法成熟精確工整；背景筆意微近唐棣（1296-1364），顯見李、郭畫風於元代深受喜愛。本作與大阪市立美術館藏傳北宋郭忠恕〈明皇避暑宮圖〉為同類型繪畫題材，反映出元代界畫特色與成就。\n唐、宋、元、明代傳統木造建築保存至今甚少，此圖可窺見古代皇家建築的營造法則，足以供為古代宏偉壯麗的宮殿建築群之視覺範例。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第4條第4、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故畫000260",
+    "amount": 1,
+    "descAge": "元",
+    "descCreator": "李容瑾",
+    "descSize": "156.6x108.7公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "李容瑾（14世紀），字公琰，籍里待考。畫師王振鵬（約1278-1350），長於界畫及山木。畫上款署「李容瑾作」（存半），上鈐半印，存「琰」字。\n此幀立軸山水界畫，使用鳥瞰視角描繪宮殿建築群，畫面宮室樓閣依山傍水，建築群主次分明，殿堂樓閣、門亭榭廊各種建築類型齊全，畫法成熟，白描線條細節精確，建築部件形式與結構，描繪精謹細致，是山水界畫重要傑作。\n畫中斗栱與屋頂部件，運用界尺畫平行線，重覆疊加的木造構件，間距排列精細無誤，畫家使用濃淡相間的墨色烘托渲染，營造樓台材質體積感。除工整細膩的界畫宮苑外，背景搭配山石、林木錯落其間，筆意微近唐棣（1296-1364），顯見李、郭畫風在元代深受喜愛。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "",
+    "saveEnvironment": 1,
+    "reserveStatus": "舊傷補。",
+    "documents": [
+        {
+            "fileid": 142913,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-05/c1640079-dc28-45f6-b48b-75ebe5fbbb70/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.549499,
+    "latitude": 25.10037,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 66444,
+            "caseId": 19224,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 70633,
+            "caseId": 19224,
+            "caseStatus": true,
+            "registerDate": 1622445158219,
+            "officialDocNo": "文授資局物字第 11030057001號",
+            "classificationId": 1,
+            "note": ""
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,153 @@
+{
+    "id": 1148,
+    "caseId": "20111206000003",
+    "count": 2482,
+    "shareCount": 0,
+    "representImage": 114702,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-05-28/e00d0e3e-ed64-40a9-8ba1-49f7385fc503/C103新北市烏來發電廠(歷建)(19)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-05-28/e00d0e3e-ed64-40a9-8ba1-49f7385fc503/C103新北市烏來發電廠(歷建)(19).jpg",
+        "name": "C103新北市烏來發電廠(歷建)(19)"
+    },
+    "caseName": "烏來發電廠",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用報告完成後填列",
+    "assetsTypeNames": "產業",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1323157749000,
+    "officialDocNo": "北府文資字第1001721589號",
+    "documents": [
+        {
+            "fileid": 161541,
+            "name": "烏來發電廠公告100.12.06.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-27/ff423892-53cd-416f-b242-6377a2e219a2/烏來發電廠公告100.12.06.pdf"
+        },
+        {
+            "fileid": 161542,
+            "name": "烏來發電廠變更公告107.10.3.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-27/f555d582-8836-4ed2-8960-7ca849580174/烏來發電廠變更公告107.10.3.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "一、粗坑發電廠、桂山發電廠、烏來發電廠是繼龜山發電廠之後，殖民地政府利用新店溪上游發展水力發電的一連串重要的現代化基礎工程，具臺灣開發史之意義。\n二、烏來發電廠建於1942年，但遲至光復後才完工運轉，造型為一般台電制式規格，外觀有如一艘行駛於大洋中的軍艦，從整體考量，應與粗坑發電廠、桂山發電廠併列為「歷史建築」。",
+    "lawsReference": "<<文化資產保存法>>第15條暨<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1～3款、第4條評定基準。",
+    "govInstitutionCode": "220",
+    "govInstitutionName": "新北市政府",
+    "belongCityId": 3,
+    "belongCityName": "新北市",
+    "belongDistName": "烏來區",
+    "govInstitution": "新北市政府",
+    "govDeptName": "文化局",
+    "govDeptPhone": "02-29603456",
+    "govDeptAddress": "新北市板橋區中山路一段161號28樓",
+    "cadasters": [
+        {
+            "fileid": 60730,
+            "name": "1071003 烏來發電廠變更公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2019-08-14/ec57f37d-096f-487c-9155-f50d4a9a68aa/1071003 烏來發電廠變更公告.pdf"
+        },
+        {
+            "fileid": 133178,
+            "name": "烏來發電廠.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-08-19/4542d341-f87b-487c-83fc-007fdb99ee1a/烏來發電廠.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "發電廠用地",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "烏來區南勢段490、490-1地號。",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "烏來區啦卡路9巷9號",
+    "isOpenVisit": false,
+    "openUpTime": "",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.55255881116514,
+    "latitude": 24.859656313025656,
+    "representImageSource": "新北市政府文化局",
+    "landScope": "烏來區南勢段490、490-1地號",
+    "selfCoverage": "發電廠建物本體\n",
+    "addresses": [
+        {
+            "cityName": "新北市",
+            "distName": "烏來區",
+            "id": 108333,
+            "caseId": 1148,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 313,
+            "address": "啦卡路9巷9號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "新北市",
+            "distName": "烏來區",
+            "landNoName": "南勢段",
+            "id": 135982,
+            "caseId": 1148,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 313,
+            "landNoId": 5842,
+            "landSerialNo": "490地號",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "新北市",
+            "distName": "烏來區",
+            "landNoName": "南勢段",
+            "id": 135983,
+            "caseId": 1148,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 313,
+            "landNoId": 5842,
+            "landSerialNo": "490-1地號",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 116721,
+            "caseId": 1148,
+            "caseStatus": true,
+            "registerDate": 1323157749000,
+            "officialDocNo": "北府文資字第1001721589號",
+            "classificationId": 1
+        },
+        {
+            "id": 116722,
+            "caseId": 1148,
+            "caseStatus": true,
+            "registerDate": 1538496000000,
+            "officialDocNo": "新北府文資字第1071865780號",
+            "classificationId": 2
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"新北市烏來區南勢段490地號\"}}],\"notfound\":\"沒有地號資料\"},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"新北市烏來區南勢段490-1地號\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": ""
+}

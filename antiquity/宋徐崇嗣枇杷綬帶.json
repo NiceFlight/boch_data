@@ -1,0 +1,101 @@
+{
+    "id": 16861,
+    "caseId": "20190627000012",
+    "count": 196,
+    "shareCount": 0,
+    "representImage": 59584,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-06-27/5beb6edd-6dee-4ba1-84b9-730f53ad6665/c5.宋徐崇嗣枇杷綬帶_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-06-27/5beb6edd-6dee-4ba1-84b9-730f53ad6665/c5.宋徐崇嗣枇杷綬帶.jpg",
+        "name": "c5.宋徐崇嗣枇杷綬帶"
+    },
+    "caseName": "宋徐崇嗣枇杷綬帶",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1561532699417,
+    "officialDocNo": "文授資局物字第10830067501號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "具有重要藝術造詣或科學成就"
+    ],
+    "registerReason": "本幅收在《藝苑藏真》冊第五開，畫上無作者款印，舊題籤訂為徐崇嗣（10世紀）。崇嗣為徐熙（9-10世紀）孫，鍾陵人。\n〈枇杷綬帶〉於紈扇形格局中，畫一隻頭呈藍黑色、身軀雪白綬帶鳥，停歇結滿枇杷果實枝梢上。白綬帶轉頭回望，與作拋物線下垂尾羽，形成絕妙S形曲線。\n本作俱採勾勒填彩畫法，極其精謹寫實，充分展現宋代畫家觀物寫生之時代風尚，並可據以印證當時繪畫藝術卓越的風格特色。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第3、4款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777#6722",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫001240-5",
+    "amount": 1,
+    "descAge": "宋",
+    "descCreator": "徐崇嗣",
+    "descSize": "本幅 25.7x27.8（公分）",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "本幅收在《藝苑藏真》冊第五開，畫上無作者款印，舊題籤訂為徐崇嗣（10世紀）。崇嗣是徐熙（9-10世紀）孫，鍾陵（今江蘇南京）人。《圖畫見聞志》謂其擅作沒骨花，直接以彩色暈染，取代墨線鉤廓。\n〈枇杷綬帶〉在紈扇形的格局中，畫一隻頭呈藍黑色，身軀雪白的綬帶鳥，停歇於結滿枇杷果實的枝梢上。白綬帶轉頭回望，與作拋物線下垂的尾羽，形成了絕妙的S形曲線。枇杷果、枝葉與鳥羽，俱採勾勒填彩的畫法，極其工緻寫實。對幅另有乾隆的御題詩一首。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "絹裂、舊傷補。",
+    "documents": [
+        {
+            "fileid": 145967,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-24/c58c2b1a-e105-4143-93ca-6fa3a7c24031/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 73155,
+            "caseId": 16861,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 78087,
+            "caseId": 16861,
+            "caseStatus": true,
+            "registerDate": 1561532699417,
+            "officialDocNo": "文授資局物字第10830067501號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

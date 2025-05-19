@@ -1,0 +1,120 @@
+{
+    "id": 1648,
+    "caseId": "20080109000001",
+    "count": 1992,
+    "shareCount": 4,
+    "representImage": 260645,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-08-05/55493337-63cf-407e-8c12-2de5c45aab81/貞愛親王殿下御上陸紀念之碑_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-08-05/55493337-63cf-407e-8c12-2de5c45aab81/貞愛親王殿下御上陸紀念之碑.jpg",
+        "name": "貞愛親王殿下御上陸紀念之碑"
+    },
+    "caseName": "貞愛親王殿下御上陸紀念之碑",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "該碑係中日簽訂馬關條約，割讓台灣、澎湖給日本，貞愛親王率艦自布袋口登陸，日本人為此立碑紀念，碑上書「貞愛親王殿下御上陸紀念之碑」，光復後於1946年（民國三十五年）將該碑拉倒，以示結束日本殖民時代，並於1956年（民國四十五年）埋入地下作為房屋地基，後於2002年（民國九十一年）重新開挖出土。",
+    "assetsTypeNames": "碑碣",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1199856972000,
+    "officialDocNo": "府文資字第0970014535號",
+    "documents": [
+        {
+            "fileid": 161847,
+            "name": "貞愛親王殿下御上陸紀念之碑「公告」_2018.01.09.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-28/c85c1075-48ff-4a52-844d-bce8c6a44990/貞愛親王殿下御上陸紀念之碑「公告」_2018.01.09.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "中日簽訂馬關條約，割讓台灣、澎湖給日本，貞愛親王率艦自布袋口登陸，日本人為此立碑紀念，碑上書『貞愛親王殿下御上陸紀念之碑』，戰後於1946年將該碑拉倒，以示結束日本殖民時代，並於1956年埋入地下作為房屋地基，後於2002年重新開挖出土；因本碑深具時間與空間意義，見證著馬關條約，台灣割讓給日本的歷史意義，因此登錄本碑為歷史建築。",
+    "lawsReference": "1.《文化資產保存法》\n2.《歷史建築登錄廢止審查及輔助辦法》\n",
+    "govInstitutionCode": "612",
+    "govInstitutionName": "嘉義縣政府",
+    "belongCityId": 15,
+    "belongCityName": "嘉義縣",
+    "belongDistName": "布袋鎮",
+    "govInstitution": "嘉義縣政府",
+    "govDeptName": "嘉義縣文化觀光局",
+    "govDeptPhone": "05-3628123*310",
+    "govDeptAddress": "嘉義縣太保市太子大道158號",
+    "cadasters": [
+        {
+            "fileid": 161946,
+            "name": "貞愛親王殿下御上陸紀念之碑「地籍圖」_2018.01.09.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-04-28/3602b533-e1eb-4e5c-b030-7c666253f867/貞愛親王殿下御上陸紀念之碑「地籍圖」_2018.01.09.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "嘉義縣布袋鎮九江段1300-0000地號",
+    "buildingFeatures": "長條不規則狀之碑體，上書「貞愛親王殿下御上陸紀念之碑」",
+    "inHouseFeatures": "",
+    "buildingUsage": "開放參觀",
+    "buildingActualState": "現狀保持良好",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "belongAddress": "嘉義縣布袋鎮岑海里入船路8號",
+    "isOpenVisit": true,
+    "openUpTime": "",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.156850125265,
+    "latitude": 23.3780750174788,
+    "representImageSource": "  采義科技有限公司",
+    "landScope": "嘉義縣布袋鎮九江段13地號",
+    "selfCoverage": "依2008年公告無標示本體範圍",
+    "addresses": [
+        {
+            "cityName": "嘉義縣",
+            "distName": "布袋鎮",
+            "id": 132521,
+            "caseId": 1648,
+            "caseStatus": true,
+            "cityId": 15,
+            "distId": 1518,
+            "address": "岑海里入船路8號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "嘉義縣",
+            "distName": "布袋鎮",
+            "landNoName": "九江段",
+            "id": 189150,
+            "caseId": 1648,
+            "caseStatus": true,
+            "cityId": 15,
+            "distId": 1518,
+            "landNoId": 12437,
+            "landSerialNo": "13",
+            "landownership": 1,
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 144498,
+            "caseId": 1648,
+            "caseStatus": true,
+            "registerDate": 1199856972000,
+            "officialDocNo": "府文資字第0970014535號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.16030914553153,23.378933183546472],[120.16034973379227,23.378938932096357],[120.16035182472908,23.378916170585892],[120.16031082275589,23.37891631436029],[120.16030914553153,23.378933183546472],[120.16030914553153,23.378933183546472]]]]},\"properties\":{\"envelope\":{\"left\":\"120.16030914553153\",\"top\":\"23.378916170585892\",\"right\":\"120.16035182472908\",\"bottom\":\"23.378938932096357\"},\"landLot\":\"嘉義縣布袋鎮九江段13\"}}],\"notfound\":[]}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": "古蹟暨歷史建築指定登錄提報表"
+}

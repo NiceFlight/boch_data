@@ -1,0 +1,100 @@
+{
+    "id": 21788,
+    "caseId": "20230619000001",
+    "count": 188,
+    "shareCount": 0,
+    "representImage": 225816,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-06-19/ccc7e557-ae5a-4912-b7f1-cd8b4160bc67/PK2A001101N000000000PAJ_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-06-19/ccc7e557-ae5a-4912-b7f1-cd8b4160bc67/PK2A001101N000000000PAJ.jpg",
+        "name": "PK2A001101N000000000PAJ"
+    },
+    "caseName": "元王冕吳鎮梅竹雙清 卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "此作為兩幅畫卷之組合。第一幅王冕梅枝小幅，以其擅長圈瓣法畫就，與傳世多為千花萬蕊之立軸有別，乃稀見王冕畫梅小品，筆墨精緻。畫前且存七言古詩二首，可能為王冕不同時期書風，是其罕見長篇書作。\n第二幅吳鎮竹枝小幅，兼具正側、俯仰之態，用筆精勁，且又有明確記年（1344年），為其墨竹小品佳作。另全卷前有明代沈度隸書引首，亦屬難得。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第4、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故畫001101N000000000",
+    "amount": 1,
+    "descAge": "元",
+    "descCreator": "王冕",
+    "descSize": "本幅一22.4x81.4；本幅二22.4x89.1(cm)",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "王冕（1287-1359），浙江諸暨人，字元章。能詩善畫，特別擅長畫墨梅，所用圈瓣法源自南宋揚无咎（1097-1169）。\n吳鎮（1280-1354），浙江嘉興人，字仲圭，號梅花道人。工詩文及書畫，所畫山水、竹石俱佳，山水宗巨然（活動於十世紀後期），墨竹法文同（1018-1079）。\n王冕墨梅、吳鎮墨竹各一幅，均筆墨簡潔，風韻清雅，合裱為一卷，故曰「雙清」，前有明初沈度（1357-1434）引首。王冕梅花以圈瓣方式畫成，未加染任何色彩，用筆精勁，顯清秀宜人。吳鎮只畫三叉竹一枝，卻具有正側、俯仰之態，富有生意、自在灑脫。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "舊傷補",
+    "documents": [
+        {
+            "fileid": 225811,
+            "name": "公告(彩色_).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-06-19/62066c92-8b5b-4488-845b-84251a545098/公告(彩色_).pdf"
+        },
+        {
+            "fileid": 225813,
+            "name": "公告表（元王冕吳鎮梅竹雙清 卷）.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-06-19/16d73988-99a0-47f9-bfe8-2ff078387858/公告表（元王冕吳鎮梅竹雙清 卷）.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 111530,
+            "caseId": 21788,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 120760,
+            "caseId": 21788,
+            "caseStatus": true,
+            "registerDate": 1687159072270,
+            "officialDocNo": "文授資局物字第11230060731號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

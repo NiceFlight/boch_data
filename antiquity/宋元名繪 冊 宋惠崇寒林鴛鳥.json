@@ -1,0 +1,102 @@
+{
+    "id": 21551,
+    "caseId": "20230215000001",
+    "count": 156,
+    "shareCount": 0,
+    "representImage": 207329,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-02-15/934eab2f-1744-4635-99ec-a1076540699b/PK2A001244N000000014PAC (3)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-02-15/934eab2f-1744-4635-99ec-a1076540699b/PK2A001244N000000014PAC (3).jpg",
+        "name": "PK2A001244N000000014PAC (3)"
+    },
+    "caseName": "宋元名繪 冊 宋惠崇寒林鴛鳥",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "宋代名僧惠崇，擅長詩、畫，詩作受到歐陽修等人推崇，繪畫則多以鵝、雁、鷺鷥為題材，寒汀遠渚為構圖，表現出蕭灑虛曠景象，稱作「小景」，在當時被認為充滿詩意。\n惠崇雖無確切畫作流傳至今，但北宋末以來，傳世作品中仍可見這類汀渚水禽題材，大多表現水境迷濛虛曠景象，足見惠崇「小景」影響。〈寒林鴛鳥〉作者舊題為惠崇，正是這類題材代表之作。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": " ",
+    "govDeptAddress": " ",
+    "reservationCode": "故畫001244N000000014",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descCreator": "",
+    "descSize": "23.8x25（cm）",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "畫無名款，舊題惠崇之作。惠崇，福建建陽人，約活動於11世紀前半葉，為當時名僧，擅畫鵝雁鷺鷥，尤工小景，善為寒汀遠渚，蕭灑虛曠之象。本作畫面中白梅點點，竹葉坡石餘有殘雪；前景鴛鴦怡然自適，另有一對黃尾鴝，棲息於枝上。 ",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "舊傷補。",
+    "documents": [
+        {
+            "fileid": 207327,
+            "name": "公告(彩色) (2).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-02-15/4de2c7e6-81a3-4643-9184-a1723c1bfbde/公告(彩色) (2).pdf"
+        },
+        {
+            "fileid": 207328,
+            "name": "重要古物公告表(宋元名繪 冊 宋惠崇寒林鴛鳥).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-02-15/cd379834-6517-49e9-beee-6070befac1aa/重要古物公告表(宋元名繪 冊 宋惠崇寒林鴛鳥).pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.549499,
+    "latitude": 25.10037,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 107024,
+            "caseId": 21551,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 114877,
+            "caseId": 21551,
+            "caseStatus": true,
+            "registerDate": 1676454699388,
+            "officialDocNo": "文授資局物字第11230013491號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

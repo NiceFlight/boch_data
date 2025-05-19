@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "屏東縣恆春鎮鵝鑾段937~943"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

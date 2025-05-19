@@ -1,0 +1,160 @@
+{
+    "id": 2165,
+    "caseId": "20160506000001",
+    "count": 2442,
+    "shareCount": 3,
+    "representImage": 4402,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/132547/photo/原臺灣總督府交通局高雄築港出張所平和町官舍群代表圖_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/132547/photo/原臺灣總督府交通局高雄築港出張所平和町官舍群代表圖.jpg",
+        "name": "原臺灣總督府交通局高雄築港出張所平和町官舍群代表圖"
+    },
+    "caseName": "原臺灣總督府交通局高雄築港出張所平和町官舍群",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待調查研究中。 ",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1462464000000,
+    "officialDocNo": "高市府文資字第10530597401號函 ",
+    "documents": [
+        {
+            "fileid": 77164,
+            "name": "登錄「原臺灣總督府交通局高雄築港出張所平和町官舍群」為歷史建築.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-02/bd3c29c6-19b0-4c61-ba20-1a7640cae610/登錄「原臺灣總督府交通局高雄築港出張所平和町官舍群」為歷史建築.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "一、原臺灣總督府交通局高雄築港出張所平和町官舍群代表了日治時期高雄築港事業之起源地，為當時日人技師生活場域，透過官舍群可回溯築港工程到日治中期旗津地區的空間發展及變遷過程，具有重要歷史意義。\n二、原臺灣總督府交通局高雄築港出張所平和町官舍群為木造日式房屋，建築使用日式軸組形式，雨淋板外牆，並建造於硓(石古)石駁坎上，呼應在地資材及工法之應用，具有建築史上之意義，且日式建築在旗津地區已極為少見，因此更顯得此官舍群的稀少性和珍貴性。 ",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第2、4款",
+    "govInstitutionCode": "800",
+    "govInstitutionName": "高雄市政府",
+    "belongCityId": 18,
+    "belongCityName": "高雄市",
+    "belongDistName": "旗津區",
+    "govInstitution": " 高雄市政府文化局 ",
+    "govDeptName": "文資中心",
+    "govDeptPhone": "07-2225136#8322",
+    "govDeptAddress": "五福一路67號",
+    "cadasters": [
+        {
+            "fileid": 4403,
+            "name": "原臺灣總督府交通局高雄築港出張所平和町官舍群地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/132548/photo/原臺灣總督府交通局高雄築港出張所平和町官舍群地籍圖.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "高雄市旗津區旗津段360、361、336等3筆地號(部分)；面積：約1360平方公尺(另實際面積依地政事務所現況測量結果為準)。",
+    "buildingFeatures": "日式建築。",
+    "inHouseFeatures": "磚木構造",
+    "buildingUsage": "住宿及辦公 ",
+    "buildingActualState": "良好 ",
+    "bulkTransfer": 0,
+    "belongAddress": "高雄市旗津區廟前路42巷32、34、36、38、40號",
+    "isOpenVisit": false,
+    "openUpTime": "目前未開放",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.2690356103077,
+    "latitude": 22.611651469417883,
+    "representImageSource": " 高雄市政府文化局 ",
+    "landScope": "高雄市旗津區旗津段360、361、336等3筆地號(部分)；面積：約1360平方公尺(另實際面積依地政事務所現況測量結果為準)。",
+    "selfCoverage": "歷史建築本體面積約314.04平方公尺",
+    "addresses": [
+        {
+            "cityName": "高雄市",
+            "distName": "旗津區",
+            "id": 31897,
+            "caseId": 2165,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1806,
+            "address": "高雄市旗津區廟前路42巷32、34、36、38、40號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "高雄市",
+            "distName": "旗津區",
+            "landNoName": "旗津段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 28518,
+            "caseId": 2165,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1806,
+            "landNoId": 3845,
+            "landSerialNo": "360",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 1,
+            "area": "",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "高雄市",
+            "distName": "旗津區",
+            "landNoName": "旗津段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 28519,
+            "caseId": 2165,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1806,
+            "landNoId": 3845,
+            "landSerialNo": "361",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 1,
+            "area": "",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "高雄市",
+            "distName": "旗津區",
+            "landNoName": "旗津段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 28520,
+            "caseId": 2165,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1806,
+            "landNoId": 3845,
+            "landSerialNo": "336",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 1,
+            "area": "",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 33070,
+            "caseId": 2165,
+            "caseStatus": true,
+            "registerDate": 1462464000000,
+            "officialDocNo": "高市府文資字第10530597401號函 ",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.26930163816151,22.611299412068508],[120.26933677375233,22.611286946263572],[120.26933585496589,22.61127968956089],[120.2689160373916,22.611000996358026],[120.26877322745035,22.611164299156012],[120.26879106331563,22.611189703274597],[120.269140958133,22.611461101331408],[120.26926184822074,22.61131005505908],[120.26930163816151,22.611299412068508],[120.26930163816151,22.611299412068508]]]]},\"properties\":{\"envelope\":{\"left\":\"120.26877322745035\",\"top\":\"22.611000996358026\",\"right\":\"120.26933677375233\",\"bottom\":\"22.611461101331408\"},\"landLot\":\"高雄市旗津區旗津段360\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.26934054799185,22.61132483621122],[120.26930163816151,22.611299412068508],[120.26926184822074,22.61131005505908],[120.269140958133,22.611461101331408],[120.26919884369208,22.611506082913095],[120.26934054799185,22.61132483621122],[120.26934054799185,22.61132483621122]]]]},\"properties\":{\"envelope\":{\"left\":\"120.269140958133\",\"top\":\"22.611299412068508\",\"right\":\"120.26934054799185\",\"bottom\":\"22.611506082913095\"},\"landLot\":\"高雄市旗津區旗津段361\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.26919884369208,22.611506082913095],[120.269140958133,22.611461101331408],[120.26879106331563,22.611189703274597],[120.26865940780905,22.611321144248024],[120.26853929022356,22.611435602261864],[120.2684188409985,22.611575214459542],[120.26841012844787,22.611619783470097],[120.26843795056307,22.611697098903583],[120.26853507873999,22.611786028460003],[120.26857182540857,22.611749619971004],[120.26868858089539,22.61187396860925],[120.26867675825393,22.6118820161387],[120.26865389505151,22.61190049343307],[120.2686921295275,22.611935369750114],[120.26893152089646,22.61184707584536],[120.26919884369208,22.611506082913095],[120.26919884369208,22.611506082913095]]]]},\"properties\":{\"envelope\":{\"left\":\"120.26841012844787\",\"top\":\"22.611189703274597\",\"right\":\"120.26919884369208\",\"bottom\":\"22.611935369750114\"},\"landLot\":\"高雄市旗津區旗津段336\"}}],\"notfound\":[]}]",
+    "openVisitType": ""
+}

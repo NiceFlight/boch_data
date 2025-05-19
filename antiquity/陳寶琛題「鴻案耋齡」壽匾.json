@@ -1,0 +1,95 @@
+{
+    "id": 21926,
+    "caseId": "20230811000013",
+    "count": 143,
+    "shareCount": 0,
+    "representImage": 229887,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-08-11/a2422271-61fc-45fb-b5ff-c453231495ff/代表圖_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-08-11/a2422271-61fc-45fb-b5ff-c453231495ff/代表圖.jpg",
+        "name": "代表圖"
+    },
+    "caseName": "陳寶琛題「鴻案耋齡」壽匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有藝術造詣或科學成就",
+        "對地方或族群知識、技術或流派發展具影響或意義"
+    ],
+    "registerReason": "1.符合一般古物指定基準第4款「具有藝術造詣或科學成就」：雕刻精美，書法及漆藝均美觀難得。\n2.符合一般古物指定基準第6款「對地方或族群知識、技術或流派發展具影響或意義」：展現清末福州之漆藝與木雕工藝，顯示福州製匾成就與特色。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第4、6款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "萬華區中華路一段174-1號",
+    "reservationCode": "無",
+    "amount": 1,
+    "descAge": "1903年",
+    "descSize": "長213公分、寬80公分。",
+    "descMaterial": "柏木",
+    "reserveStatusDesc": "中堂主題「鴻案耋齡」是高浮雕技法，髹以墨漆，上下款與底匾浮雕高度略低中堂，加深中堂立體感。底層細灑鏍鈿，並善用壽、蝴蝶紋做堵圖界堵，以洋溢吉祥氛圍，襯托中堂的雅正 ",
+    "pastHistorySource": 2,
+    "pastHistorySourceNotes": "2001年，福州。",
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定。",
+    "documents": [
+        {
+            "fileid": 229885,
+            "name": "112年7月13日北市獻編字第1123002644號公告_新.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-08-11/2050774b-ccc5-45fa-8187-cd4e03e676b8/112年7月13日北市獻編字第1123002644號公告_新.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "潘Ｏ源",
+    "keepNames": [
+        {
+            "keepNameIdStr": "潘Ｏ源",
+            "keepName": "潘Ｏ源",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "潘Ｏ源",
+            "keepAddressNew": "台北市中山區中山北路二段27巷1-2號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "產業設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中山區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中山區",
+            "id": 114087,
+            "caseId": 21926,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 103,
+            "address": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 124207,
+            "caseId": 21926,
+            "caseStatus": true,
+            "registerDate": 1689237659488,
+            "officialDocNo": "北市獻編字第1123002644號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,106 @@
+{
+    "id": 3615,
+    "caseId": "20130813000070",
+    "count": 111,
+    "shareCount": 0,
+    "representImage": 6332,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7326/photo/大般涅槃經（隋寫卷子本）_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7326/photo/大般涅槃經（隋寫卷子本）.png",
+        "name": "大般涅槃經（隋寫卷子本）"
+    },
+    "caseName": "大般涅槃經（隋寫卷子本）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1376323200000,
+    "officialDocNo": "文資局物字第 10220091271號",
+    "judgeCriteria": [
+        "歷史流傳已久或史事具有深厚淵源",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "隋大業四年(608)釋慧休寫卷子本。\n書名依據尾題，凡十四卷。又名《大本涅槃經》、《大涅槃經》、《大經》，略稱《涅槃經》。本經以發揮如來藏（佛性）思想、闡提成佛為要義。此本有寫經比丘及清信弟子題記，可作為敦煌寫經緣起的研究資料。殘存第十九卷第八「梵行品」一部分，查其釐卷與今傳本不同，內容相等於大正藏所收第十九卷後半及第二十卷前一小部分，文字亦殊者。\n敦煌遺書，隋大業四年釋慧休寫經卷，可作為敦煌寫經緣起研究之重要資料，全卷保存完整，彌足珍貴，為研究當時文化歷史不可缺少之代表性證物，具特殊歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第4條第一項第二、五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號08756",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "隋大業四年(608)",
+    "descCreator": "北涼釋曇無讖譯",
+    "descSize": "存11紙，每紙29行，全幅26.2×51.6公分",
+    "descMaterial": "紙質",
+    "reserveStatusDesc": "存一卷(十九卷第八「梵行品」一部分)；寫本。書名依據尾題，凡十四卷。又名《大本涅槃經》、《大涅槃經》、《大經》，略稱《涅槃經》。本經以發揮如來藏（佛性）思想、闡提成佛為要義。此本有寫經比丘及清信弟子題記，可作為敦煌寫經緣起的研究資料。殘存第十九卷第八「梵行品」一部分，查其釐卷與今傳本不同，內容相等於大正藏所收第十九卷後半及第二十卷前一小部分，文字亦殊者。\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "無虫蛀。經修裱，書況良好。\n",
+    "documents": [
+        {
+            "fileid": 6333,
+            "name": "2d78d514-dc6d-4a2c-9e4c-2a8fee9e7ffd.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44208/file/2d78d514-dc6d-4a2c-9e4c-2a8fee9e7ffd.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3757,
+            "caseId": 3615,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3757,
+            "caseId": 3615,
+            "caseStatus": true,
+            "registerDate": 1376323200000,
+            "officialDocNo": "文資局物字第 10220091271號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

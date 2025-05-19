@@ -1,0 +1,87 @@
+{
+    "id": 4341,
+    "caseId": "20121107000005",
+    "count": 479,
+    "shareCount": 0,
+    "representImage": 7278,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/38140/photo/0232335e-ef64-4068-b9de-3e5255dcd3b8_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/38140/photo/0232335e-ef64-4068-b9de-3e5255dcd3b8.jpg",
+        "name": "0232335e-ef64-4068-b9de-3e5255dcd3b8"
+    },
+    "caseName": "鈴形玉串飾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1352217600000,
+    "officialDocNo": "文資局物字第10120133973號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "具有特殊之時代特色、技術及流派",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "鈴形玉串飾，由152顆鈴形玉器串成，出土自卑南遺址石板棺人類骨骸的頭部，考古脈絡清晰，據此推測可能是當時人類的頭飾。玉串中之各個鈴形玉器，體積微小，高、寬、厚各約0.5 cm，係由條狀玉材切成小塊後，再逐一磨成鈴形，其頂部縮小為鈕，中有一穿孔，孔徑不及1mm，作為串線之用。整體觀之，此鈴形玉串飾玉質通透，造型優美、製作技術精良，數量稀少，表現史前臺灣之裝飾風格，彌足珍貴。",
+    "lawsReference": "「古物分級登錄指定及廢止審查辦法」第4條第1項第1、3、5、6款；第6條及第7條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 22,
+    "belongCityName": "臺東縣",
+    "belongDistName": "臺東市",
+    "reservationCode": "",
+    "keepNameId": 10,
+    "keepName": "",
+    "keepNameNew": 17,
+    "keepAddressNew": "臺東縣台東市博物館路1號",
+    "amount": 1,
+    "notes": "",
+    "reserveStatusDesc": "為細條狀玉材切成小塊後，逐一磨成鈴形而成之玉飾，圓鈴小鈕帶一細穿，圓腹鈴身修整細緻，穿細小而準確，器形帶美感。\r\n\r\n典藏環境溫濕度控制設定在20℃（±3℃），相對濕度50%RH（±5%）。典藏庫內全區域採標準色溫低紫外線日光燈管照明，紫外線強度不超過75μw/l。",
+    "reserveStatus": "完整良好 ",
+    "documents": [],
+    "isOpenDownload": false,
+    "representImageSource": "",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立臺灣史前文化博物館",
+            "keepName": "",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺東縣台東市博物館路1號",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺東縣",
+            "distName": "臺東市",
+            "id": 4484,
+            "caseId": 4341,
+            "caseStatus": true,
+            "cityId": 22,
+            "distId": 2201
+        }
+    ],
+    "announces": [
+        {
+            "id": 4484,
+            "caseId": 4341,
+            "caseStatus": true,
+            "registerDate": 1352217600000,
+            "officialDocNo": "文資局物字第10120133973號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

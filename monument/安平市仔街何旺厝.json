@@ -1,0 +1,114 @@
+{
+    "id": 615,
+    "caseId": "20030513000017",
+    "count": 2978,
+    "shareCount": 5,
+    "representImage": 158178,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-04-07/5f97ba5d-2c7e-4725-b454-6b41e43c75ef/古081安平市仔街何旺厝_P001裁切_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-04-07/5f97ba5d-2c7e-4725-b454-6b41e43c75ef/古081安平市仔街何旺厝_P001裁切.jpg",
+        "name": "古081安平市仔街何旺厝_P001裁切"
+    },
+    "caseName": "安平市仔街何旺厝",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "registerDate": 1052794748000,
+    "officialDocNo": "南市文維字第09218505270號",
+    "documents": [
+        {
+            "fileid": 158635,
+            "name": "安平市仔街何旺厝公告92.5.13.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-08/581efd87-76dd-4724-ae9f-fface5ce37df/安平市仔街何旺厝公告92.5.13.pdf"
+        },
+        {
+            "fileid": 158636,
+            "name": "臺南縣市合併後縣定市定重新公告100.6.24.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-08/e9a4736d-9e7c-42a2-a586-db9cfa39b619/臺南縣市合併後縣定市定重新公告100.6.24.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "重要歷史事件或人物之關係",
+        "具建築史上之意義，有再利用之價值及潛力者"
+    ],
+    "registerReason": "公告無資料",
+    "lawsReference": "依據文化資產保存法第 27 條暨本府 91 年度第 2 次「臺南市古蹟暨歷史建築審查委員會」審查會議決議。",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "安平區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569 ",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 158637,
+            "name": "安平市仔街何旺厝(地).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-04-08/e37ec30b-e360-4759-b230-743c6a623612/安平市仔街何旺厝(地).pdf"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "安平區石門段1136地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "延平街86號",
+    "isOpenDownload": false,
+    "longitude": 120.162752002014,
+    "latitude": 23.0007701887484,
+    "representImageSource": "臺南市政府",
+    "landScope": "石門段1136地號",
+    "selfCoverage": "原建築物結構本體乙棟",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "安平區",
+            "id": 75607,
+            "caseId": 615,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1606,
+            "address": "延平街86號"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 80840,
+            "caseId": 615,
+            "caseStatus": true,
+            "registerDate": 1052794748000,
+            "officialDocNo": "南市文維字第09218505270號",
+            "classificationId": 1
+        },
+        {
+            "id": 80841,
+            "caseId": 615,
+            "caseStatus": true,
+            "registerDate": 1308844800000,
+            "officialDocNo": "府文資處字第1000393784號",
+            "classificationId": 2,
+            "note": "直轄市升格"
+        }
+    ],
+    "openVisitType": "預約開放參觀",
+    "openUpTime": "請洽永豐餘集團",
+    "isCharge": false,
+    "pastHistorySource": ""
+}

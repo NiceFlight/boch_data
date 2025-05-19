@@ -1,0 +1,100 @@
+{
+    "id": 16816,
+    "caseId": "20190531000002",
+    "count": 754,
+    "shareCount": 0,
+    "representImage": 140092,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-10-02/fd57b7e1-c0b9-4437-8978-2cf0b443a306/古物11-原竹南公學校單開奉安庫1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-10-02/fd57b7e1-c0b9-4437-8978-2cf0b443a306/古物11-原竹南公學校單開奉安庫1.jpg",
+        "name": "古物11-原竹南公學校單開奉安庫1"
+    },
+    "caseName": "原竹南公學校單開奉安庫",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1557331200000,
+    "officialDocNo": "府文資字1080005327B號",
+    "judgeCriteria": [
+        "具有藝術造詣或科學成就",
+        "數量稀少者"
+    ],
+    "registerReason": " 1.單開奉安庫為竹南國小於明治31年建校，次年存放教育勅語之奉安設備，見證竹南公學校發展與日治時期日人精神教化之歷史。\n2.奉安庫之鑄造技術，其五三桐花紋、日式密碼鎖具，是日本工藝技術之代表。\n3.目前臺灣明治時期留存之奉安庫數量相當稀少。\n",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第4、5款",
+    "govInstitutionCode": "360",
+    "govInstitutionName": "苗栗縣政府",
+    "belongCityId": 8,
+    "belongCityName": "苗栗縣",
+    "belongDistName": "竹南鎮",
+    "govInstitution": "苗栗縣政府文化觀光局",
+    "govDeptName": "文化資產科 ",
+    "govDeptPhone": "(037)352961#716",
+    "govDeptAddress": "36045 苗栗市自治路50號",
+    "reservationCode": "11",
+    "amount": 1,
+    "descAge": "約明治三十二年（1899年）",
+    "descSize": "長54公分、寬52公分、高97公分",
+    "descMaterial": "金屬、梧桐木",
+    "reserveStatusDesc": "原竹南公學校單開奉安庫，設立年代約明治三十二年（1899年）；並於民國一百零八年（2019年）5月9日，經苗栗縣政府公告為一般古物，屬生活及儀禮器物類。整體為長方體外型，底部裝設有4個滾輪方便移動，材質以金屬為主，外立面皆髹黑漆，目前多已脫落，正立面有把手、附商標的密碼鎖、五三銅紋鑰石孔等，奉安庫為單開門形式但無法開啟，目前無法確認內部是否有其他物件。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "已知最早既存時間：疑似於1899 年 地點：竹南國小",
+    "saveEnvironment": 3,
+    "reserveStatus": "有損傷。\n保存現狀描述：目前存放在開放空間中，雖以帆布覆蓋稍阻隔日曬雨淋的危害，但長期對文物損害仍相當大，目前小型單開奉安櫃的外立面黑漆已經脫落，狀況不良，需維護。\n",
+    "documents": [
+        {
+            "fileid": 59215,
+            "name": "古物11-原竹南公學校單開奉安庫-公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-05-31/404d7366-a600-4fde-a10a-718ef3c837cb/古物11-原竹南公學校單開奉安庫-公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.87030368769867,
+    "latitude": 24.683603531231327,
+    "representImageSource": "攝影時間：2019.1.21 攝影者：賈雯婷",
+    "keepNames": [
+        {
+            "keepNameIdStr": "竹南國小",
+            "keepName": "竹南國小",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "竹南國小",
+            "keepAddressNew": "苗栗縣竹南鎮中正路146號",
+            "saveSpaceIdStr": "學校",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "苗栗縣",
+            "keepNameDistName": "竹南鎮",
+            "keepNameAddress": "中正路146號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "苗栗縣",
+            "distName": "竹南鎮",
+            "id": 149444,
+            "caseId": 16816,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 801
+        }
+    ],
+    "announces": [
+        {
+            "id": 162569,
+            "caseId": 16816,
+            "caseStatus": true,
+            "registerDate": 1557331200000,
+            "officialDocNo": "府文資字1080005327B號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

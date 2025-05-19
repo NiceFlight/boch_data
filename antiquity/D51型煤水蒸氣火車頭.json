@@ -1,0 +1,104 @@
+{
+    "id": 2910,
+    "caseId": "20070904000001",
+    "count": 1292,
+    "shareCount": 0,
+    "representImage": 136564,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-09-01/5bfa620e-112d-4bfa-a75b-f8520630c827/外部全貌-2_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-09-01/5bfa620e-112d-4bfa-a75b-f8520630c827/外部全貌-2.jpg",
+        "name": "外部全貌-2"
+    },
+    "caseName": "D51型煤水蒸氣火車頭",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-交通工具",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1188835200000,
+    "officialDocNo": "北文資字第0960012328號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "一、此類型火車頭在臺灣原有37輛，目前僅存4輛，保存現狀極佳，展示館空間建物與基本解說設施齊全，且火車頭歷史年代超過半世紀，具有歷史性、教育性、珍貴性及稀有性。\n二、日治時代將鐵路線改由萬華-板橋-樹林，影響到板橋的發展，而今鐵路均地下化，臺北縣政府文化局（現新北市政府文化局）有舊火車頭保存展示，極具歷史意義。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第1、5、6款",
+    "govInstitutionCode": "220",
+    "govInstitutionName": "新北市政府",
+    "belongCityId": 3,
+    "belongCityName": "新北市",
+    "belongDistName": "板橋區",
+    "govInstitution": "新北市政府",
+    "govDeptName": "文化局",
+    "govDeptPhone": "(02)2960-3456",
+    "govDeptAddress": "新北市政府板橋區中山路一段161號28樓",
+    "reservationCode": "5040106-000001",
+    "amount": 1,
+    "descAge": "昭和17年(1942年)",
+    "descCreator": "日本汽車會社",
+    "descSize": "暫缺",
+    "descMaterial": "鋼鐵",
+    "reserveStatusDesc": "臺灣鐵道的歷史可追溯至清代光緒年間，而後有劉銘傳倡建由基隆經臺北至新竹的鐵路路段。日治時期，規劃將原先行經新莊到桃園的路段改線行經板橋，因此帶動了板橋近代的建設與發展。\n民國七十二年（1983年），臺鐵最後的蒸汽機車全數報廢，步下鐵道舞台。原本多達37輛DT650型，現僅存四輛，根據臺鐵的資料，這四輛車分别是：DT651、DT652、DT668以及 DT675。\n目前位於新北市藝文中心內的D51型煤水蒸汽火車頭是首輛被列為古物的蒸汽火車頭，也是臺灣現存最大型的蒸汽火車頭。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "鐵路管理局嘉義機務分段",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 165927,
+            "name": "D51型水蒸氣火車頭公告-96.9.4.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-27/a9dedb0e-a935-40de-9ca5-7b22bd089fa2/D51型水蒸氣火車頭公告-96.9.4.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 121.472335,
+    "latitude": 25.026107,
+    "representImageSource": "新北市政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "新北市藝文中心",
+            "keepName": "新北市政府文化局",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "新北市藝文中心",
+            "keepAddressNew": "新北市板橋區莊敬路62號",
+            "saveSpaceOther": "新北市藝文中心",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "新北市",
+            "keepNameDistName": "板橋區",
+            "keepNameAddress": "莊敬路62號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "新北市",
+            "distName": "板橋區",
+            "id": 110832,
+            "caseId": 2910,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 303,
+            "address": "莊敬路62號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 119911,
+            "caseId": 2910,
+            "caseStatus": true,
+            "registerDate": 1188835200000,
+            "officialDocNo": "北府文資字第0960008653號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

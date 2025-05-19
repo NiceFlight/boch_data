@@ -1,0 +1,92 @@
+{
+    "id": 3011,
+    "caseId": "20141210000001",
+    "count": 615,
+    "shareCount": 1,
+    "representImage": 5405,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4724/photo/廖繼春遠眺玉山_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4724/photo/廖繼春遠眺玉山.jpg",
+        "name": "廖繼春遠眺玉山"
+    },
+    "caseName": "廖繼春遠眺玉山",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1418140800000,
+    "officialDocNo": "府授文資遺字第1030254877號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.\t廖繼春為代表性之臺灣前輩藝術家，其作品有其保存意義。\r\n2.\t作者廖繼春為本市豐原人，亦為重要美術學者，並見重於國際；贈送當時豐原鎮長廖忠雄，具備地方史事意義。",
+    "lawsReference": "符合「古物分級登錄指定及廢止審查辦法」第2條第1項第1、2、3、4、5、6款評定基準，爰依據「古物分級登錄指定及廢止審查辦法」第5、7條登錄。",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "豐原區",
+    "keepNameId": 17,
+    "keepName": "葫蘆墩文化中心典藏室",
+    "keepNameNew": 17,
+    "keepAddressNew": "臺中市豐原區圓環東路782號",
+    "amount": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 5406,
+            "name": "ce2d9a5c-5b19-4baf-b5fc-a24c9c51636b.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44361/file/ce2d9a5c-5b19-4baf-b5fc-a24c9c51636b.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "臺中市文化資產處",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "葫蘆墩文化中心典藏室",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺中市豐原區圓環東路782號",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "豐原區",
+            "id": 3148,
+            "caseId": 3011,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1013
+        }
+    ],
+    "announces": [
+        {
+            "id": 3148,
+            "caseId": 3011,
+            "caseStatus": true,
+            "registerDate": 1418140800000,
+            "officialDocNo": "府授文資遺字第1030254877號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

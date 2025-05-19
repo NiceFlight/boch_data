@@ -1,0 +1,144 @@
+{
+    "id": 1093,
+    "caseId": "20061207000004",
+    "count": 3492,
+    "shareCount": 2,
+    "representImage": 189596,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/2cba9591-44ea-4458-a107-31fb650d2045/代表圖像_松山療養所所長宿舍_20220922(IMG_0957)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/2cba9591-44ea-4458-a107-31fb650d2045/代表圖像_松山療養所所長宿舍_20220922(IMG_0957).jpg",
+        "name": "代表圖像_松山療養所所長宿舍_20220922(IMG_0957)"
+    },
+    "caseName": "松山療養所所長宿舍",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本建物所在區域原為防癆病院區宿舍區，此棟建物為所長宿舍。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 170308,
+            "name": "95年公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-06-28/593e6e31-9fd3-4664-acbd-fff39efa5cef/95年公告.pdf"
+        },
+        {
+            "fileid": 170309,
+            "name": "106年公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-06-28/26cad534-70ba-4ae4-a468-eaa378305b8f/106年公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "1.本建物為日治時期松山療養所所長官舍，建築格局大，前有石山，維持原有形貌，建築用料佳，入口有八角形小柱，柱基有Art  Deco 13溝面磚裝飾。\r\n2.建物內部車寄、玄關、應接室、餐廳、便所都是原物，相當難得。",
+    "lawsReference": " 歷史建築登錄廢止審查及輔助辦法第2條第 1項第 2、3款評定基準。 ",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 70448,
+            "name": "2.地籍地形圖附說明.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/ce79b9fb-1fc5-42f1-b0d9-144681b7d0ed/2.地籍地形圖附說明.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市南港區玉成段四小段266、267地號",
+    "buildingFeatures": "建築格局大，前有石山，維持原有形貌，建築用料佳，入口有八角形小柱，柱基有Art  Deco 13溝面磚裝飾。",
+    "inHouseFeatures": "建物內部車寄、玄關、應接室、餐廳、便所均保存良好。",
+    "buildingActualState": "修復中",
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.59355365767193,
+    "latitude": 25.0484672719381,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市南港區玉成段四小段266、267地號",
+    "selfCoverage": "149.95平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "南港區",
+            "id": 95087,
+            "caseId": 1093,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 111,
+            "address": "昆陽街164號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "南港區",
+            "landNoName": "玉成段四小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 117550,
+            "caseId": 1093,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 111,
+            "landNoId": 429,
+            "landSerialNo": "266",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "768平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "南港區",
+            "landNoName": "玉成段四小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 117551,
+            "caseId": 1093,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 111,
+            "landNoId": 429,
+            "landSerialNo": "267",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "150平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 102584,
+            "caseId": 1093,
+            "caseStatus": true,
+            "registerDate": 1165420800000,
+            "officialDocNo": "北市府文化二字第09530330900號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        },
+        {
+            "id": 102585,
+            "caseId": 1093,
+            "caseStatus": true,
+            "registerDate": 1504800000000,
+            "officialDocNo": "北市文化文資字第10630508000號",
+            "classificationId": 2,
+            "note": "變更定著土地地號"
+        }
+    ],
+    "openVisitType": ""
+}

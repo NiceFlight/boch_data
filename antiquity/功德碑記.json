@@ -1,0 +1,106 @@
+{
+    "id": 15680,
+    "caseId": "20180503000002",
+    "count": 542,
+    "shareCount": 0,
+    "representImage": 48131,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-05-03/dbf75dab-4dc7-436c-8cd7-fe37917b009d/DSCN6125_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-05-03/dbf75dab-4dc7-436c-8cd7-fe37917b009d/DSCN6125.jpg",
+        "name": "DSCN6125"
+    },
+    "caseName": "功德碑記",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1520410424781,
+    "officialDocNo": "高市府文資字第10730387800號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者"
+    ],
+    "registerReason": "北門石路為清代鳳山縣城與臺灣府城之往來要道，本碑係鳳邑仕紳、鄉老等捐金修砌之紀錄，見證鳳山縣治的地方建設；碑文所見監生詹榮、黃樑、曾尊、史輝等人皆未採錄於《重修鳳山縣志》與《鳳山縣采訪冊》，記載地方仕紳參與地方公共事務之盛況，可補志書科舉人物之不足，具史料價值。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2款",
+    "govInstitutionCode": "800",
+    "govInstitutionName": "高雄市政府",
+    "belongCityId": 18,
+    "belongCityName": "高雄市",
+    "belongDistName": "左營區",
+    "govInstitution": "高雄市政府",
+    "govDeptName": "高雄市立歷史博物館",
+    "govDeptPhone": "07-5312560#236",
+    "govDeptAddress": "高雄市鹽埕區中正四路272號",
+    "reservationCode": "無",
+    "amount": 1,
+    "descAge": "1768年",
+    "descSize": "長87cm、寬56cm、厚9.5cm",
+    "descMaterial": "花崗岩",
+    "reserveStatusDesc": "本碑係鳳邑仕紳、鄉老等捐金修砌北門石路，以利商旅往來，並勒石題名，以誌不忘，見證鳳山縣治的地方建設。碑體文字陰刻，碑體上方橫書「功德碑記」，其餘碑文內容為直書，碑體底座以陰刻方式鑿刻有二足裝飾。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "1768年",
+    "saveEnvironment": 3,
+    "reserveStatus": "本府於民國七十二年重修鳳山舊城孔廟崇聖祠時，將散置附近的十方石碑蒐集起來，重新立於祠後，成為碑林，石碑目前狀態穩定，日後會持續在原地保存。",
+    "documents": [
+        {
+            "fileid": 48129,
+            "name": "24749248_10730387800.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-05-03/fe2aedbe-4c5b-45e0-89b2-21611cfb4194/24749248_10730387800.pdf"
+        },
+        {
+            "fileid": 48130,
+            "name": "一般古物指定公告表-106大會指定 (公告版).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-05-03/f3ed4333-ad49-4a9b-9bdf-3c4a5ef7ebe5/一般古物指定公告表-106大會指定 (公告版).pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.2930037,
+    "latitude": 22.6831769,
+    "representImageSource": "高雄市立歷史博物館拍攝",
+    "keepNames": [
+        {
+            "keepNameIdStr": "高雄市立舊城國民小學",
+            "keepName": "舊城國小／賴南望主任",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "高雄市立舊城國民小學",
+            "keepAddressNew": "高雄市左營區蓮潭路47號",
+            "saveSpaceIdStr": "學校",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "高雄市",
+            "keepNameDistName": "左營區",
+            "keepNameAddress": "蓮潭路47號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "高雄市",
+            "distName": "左營區",
+            "id": 130691,
+            "caseId": 15680,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1811,
+            "address": "蓮潭路47號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 142385,
+            "caseId": 15680,
+            "caseStatus": true,
+            "registerDate": 1520410424781,
+            "officialDocNo": "高市府文資字第10730387800號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

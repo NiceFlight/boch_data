@@ -1,0 +1,131 @@
+{
+    "id": 16761,
+    "caseId": "20190507000001",
+    "count": 3310,
+    "shareCount": 2,
+    "representImage": 186939,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/0f731937-d9f2-4f1a-8765-ef1f6cb25858/代表圖像_亞洲水泥大樓_20220601_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/0f731937-d9f2-4f1a-8765-ef1f6cb25858/代表圖像_亞洲水泥大樓_20220601.jpeg",
+        "name": "代表圖像_亞洲水泥大樓_20220601"
+    },
+    "caseName": "亞洲水泥大樓",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "/",
+    "assetsTypeNames": "產業",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 58449,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-05-07/11e36c4a-677b-4f1d-9e4d-ad67ca5561b9/公告.pdf"
+        },
+        {
+            "fileid": 58580,
+            "name": "公告附件.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-05-08/5c8fbe2a-8dc0-4e37-997a-128a380b0530/公告附件.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1、為王大閎先生所設計之現代建築，1966 年完工，為遠東集團最早的辦公大樓之一，亦為當年臺灣辦公大樓之重要設計案例。\n2、外牆採用單窗預鑄式鋁版帷幕牆，另以塗漆覆蓋，建築平面精簡，外牆比例恰當，西南角之圓形外牆曲線接合尤屬不易，具建築史之價值。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第2、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 58452,
+            "name": "公告附件.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2019-05-07/bdb35321-96b9-4c66-8cff-cca8e3ccf9d1/公告附件.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 4,
+    "cityLandUseTypeName": "行政區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市中正區城中段二小段578(211平方公尺)、579 (71平方公尺) 地號等2筆土地。（實際保存面積須以保存範圍實測數據為準）。",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "longitude": 121.5105958,
+    "latitude": 25.0414802,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市中正區城中段二小段578(211平方公尺)、579 (71平方公尺) 地號等2筆土地。（實際保存面積須以保存範圍實測數據為準）。",
+    "selfCoverage": "中正區城中段二小段117建號（建物總面積2,759.34平方公尺）。（實際保存面積須以保存範圍實測數據為準）",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 93671,
+            "caseId": 16761,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "臺北市中正區寶慶路27號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "城中段二小段",
+            "cityLandUseTypeName": "行政區",
+            "id": 115292,
+            "caseId": 16761,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 147,
+            "landSerialNo": "578",
+            "landownership": 2,
+            "cityLandUseTypeId": 4,
+            "coverageId": 2,
+            "area": "211平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "城中段二小段",
+            "cityLandUseTypeName": "行政區",
+            "id": 115293,
+            "caseId": 16761,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 147,
+            "landSerialNo": "579",
+            "landownership": 2,
+            "cityLandUseTypeId": 4,
+            "coverageId": 2,
+            "area": "71平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 101084,
+            "caseId": 16761,
+            "caseStatus": true,
+            "registerDate": 1555948800000,
+            "officialDocNo": "北市文化文資字第10830155901號",
+            "classificationId": 1,
+            "note": "無"
+        }
+    ],
+    "openVisitType": ""
+}

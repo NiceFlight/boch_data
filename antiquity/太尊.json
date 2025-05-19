@@ -1,0 +1,104 @@
+{
+    "id": 3087,
+    "caseId": "20121105000001",
+    "count": 408,
+    "shareCount": 0,
+    "representImage": 5502,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/37829/photo/e828f535-daf1-470e-8fb8-91f44a3250ce_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/37829/photo/e828f535-daf1-470e-8fb8-91f44a3250ce.jpg",
+        "name": "e828f535-daf1-470e-8fb8-91f44a3250ce"
+    },
+    "caseName": "太尊",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1352044800000,
+    "officialDocNo": "府文資處字第1010796904號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "登錄指定基準描述：\r\n1.具有歷史意義或能表現傳統、族群或地方文化特色。\r\n2.具有史事淵源。\r\n3.具有一定之時代特色、技術及流派。\r\n4.具有珍貴及稀有性者。\r\n5.具有歷史、文化、藝術或科學價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法\r\n第二條一般古物之登錄，依下列基準為之： \r\n一、具有歷史意義或能表現傳統、族群或地方文化特色。\r\n二、具有史事淵源。\r\n三、具有一定之時代特色、技術及流派。\r\n四、具有藝術造詣或科學成就。\r\n五、具有珍貴及稀有性者。\r\n六、具有歷史、文化、藝術或科學價值。　\r\n前項基準，直轄市、縣（市）主管機關得依地方特性，另定補充規定。",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "中西區",
+    "govInstitution": "臺南市文化資產管理處",
+    "govDeptName": "-文化資產研究組",
+    "govDeptPhone": "06-2213597",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "reservationCode": "尚未編列",
+    "amount": 1,
+    "notes": "",
+    "descAge": "清乾隆四十一年(1776 年)",
+    "descSize": "器高 23.5、最寬 20.9、口徑 6.2、足徑 15.9。",
+    "descMaterial": "陶",
+    "reserveStatusDesc": "現況描述：\r\n1.器底中央刻有「乾隆四十一年台灣府知府蔣元樞捐造貢生蔣得皋監製」之銘文。\r\n2.器為平縮口、寬肩、矮圈足，胎色黑褐，器表施有紅、黑、白加彩，嚴重剝落。於舉行釋奠禮時器上皆覆一鮮紅色布帛，布之四角有重穗裝飾。\r\n3.器表施彩有多處脫落，露出胎體的黑褐色胎皮。口緣殘損嚴重，斷面顯示曾遭敲擊損毀，圈足外緣多處有殘損。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "乾隆四十一年臺灣知府蔣元樞捐造貢生蔣得皋監製",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 118718,
+            "name": "太尊及青銅方鼎公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-06-09/5ee50ac4-61d7-4109-bd17-45a4da2bf967/太尊及青銅方鼎公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 22.990697864018713,
+    "latitude": 120.20424391283163,
+    "representImageSource": "臺南市政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "財團法人臺南市孔廟文化基金會",
+            "keepName": "臺南市文廟管理委員會",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺南市中西區 南門路2號（臺南孔廟）",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "id": 136505,
+            "caseId": 3087,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601
+        }
+    ],
+    "announces": [
+        {
+            "id": 149078,
+            "caseId": 3087,
+            "caseStatus": true,
+            "registerDate": 1352044800000,
+            "officialDocNo": "府文資處字第1010796904號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

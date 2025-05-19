@@ -1,0 +1,126 @@
+{
+    "id": 2148,
+    "caseId": "20160205000001",
+    "count": 2080,
+    "shareCount": 1,
+    "representImage": 175486,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-07-23/e4957d74-c3c3-499b-a0ac-e43e743417cb/歷建63-原西螺街長宿舍_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-07-23/e4957d74-c3c3-499b-a0ac-e43e743417cb/歷建63-原西螺街長宿舍.jpg",
+        "name": "歷建63-原西螺街長宿舍"
+    },
+    "caseName": "原西螺街長宿舍",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "原西螺街長宿舍為西螺地方首長宿舍，與西螺鎮歷史變遷密切關聯，具建築及地方歷史價值，且原西螺街長宿舍空間造型別具特色，表現地方營造技術。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1454657166000,
+    "officialDocNo": "府文資二字第1053801053B號",
+    "documents": [
+        {
+            "fileid": 139628,
+            "name": "105.2.5原西螺街長宿舍公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-09-27/6c3cc8b0-29ab-47ba-b10a-21bbda468a82/105.2.5原西螺街長宿舍公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "(一)各時代表現地方營造技術流派特色者。 \r\n(二)重要歷史事件或人物之關係︰西螺地方首長宿舍。 \r\n(三)具歷史、文化、藝術價值。 \r\n(四)具建築史或技術史上之意義︰建築形貌是街長宿舍中較獨特者。",
+    "lawsReference": "文化資產保存法第15條暨歷史建築登錄廢止審查及輔助辦法第2條第1項第1、2、3、4款登錄評定基準。",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "belongCityId": 13,
+    "belongCityName": "雲林縣",
+    "belongDistName": "西螺鎮",
+    "govInstitution": "雲林縣政府",
+    "govDeptName": "文化觀光處",
+    "govDeptPhone": "05-5523218",
+    "govDeptAddress": "雲林縣斗六市大學路三段310號",
+    "cadasters": [
+        {
+            "fileid": 139606,
+            "name": "63.原西螺街長宿舍地籍資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-09-27/97d78ce7-e943-4a9f-8406-cf5f482295ad/63.原西螺街長宿舍地籍資料.pdf"
+        },
+        {
+            "fileid": 139607,
+            "name": "63.原西螺街長宿舍地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-09-27/22a25d84-c048-4a03-bf0d-30d3f17846a1/63.原西螺街長宿舍地籍圖.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 11,
+    "nonCityLandUseTypeName": "其他使用區",
+    "nonLandUseOtherType": "建",
+    "locationLandNo": "雲林縣西螺鎮東南段866地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "室內包含座敷、居間、書房及茶間等空間。",
+    "buildingUsage": "112年已取得客委會補助，進行修復工程，預計114年完成",
+    "buildingActualState": "整體概況：地板多處開裂毀損，屋身結構多處毀損，牆面開裂。屋身結構坍塌或毀損，外部表面屋瓦脫落，內部天花板掉落毀損。",
+    "buildingKeyMaintainItem": "日常清潔管理(如水溝清除、雜草拔除)、颱風豪雨前臨時拉撐加固措施",
+    "bulkTransfer": 0,
+    "belongAddress": "雲林縣西螺鎮中山路288、288-1號",
+    "isOpenVisit": false,
+    "openUpTime": "未開放",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.454977,
+    "latitude": 23.799567,
+    "representImageSource": "雲林縣政府",
+    "landScope": "雲林縣西螺鎮東南段866地號房屋面積：264平方公尺\r\n土地面積：1,126.31平方公尺",
+    "selfCoverage": "房屋面積264平方公尺",
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "西螺鎮",
+            "id": 115907,
+            "caseId": 2148,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1314,
+            "address": "雲林縣西螺鎮中山路288、288-1號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "雲林縣",
+            "distName": "西螺鎮",
+            "landNoName": "東南段",
+            "id": 161811,
+            "caseId": 2148,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1314,
+            "landNoId": 11689,
+            "landSerialNo": "866",
+            "landownership": 1,
+            "area": "1126.31平方公尺",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 126402,
+            "caseId": 2148,
+            "caseStatus": true,
+            "registerDate": 1454657166000,
+            "officialDocNo": "府文資二字第1053801053B號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.45483227760813,23.799617662789572],[120.45484197195644,23.799621495765912],[120.4551374427577,23.799745586680658],[120.45518962100945,23.799394866884487],[120.45487525832448,23.7993511932046],[120.45483227760813,23.799617662789572],[120.45483227760813,23.799617662789572]]]]},\"properties\":{\"envelope\":{\"left\":\"120.45483227760813\",\"top\":\"23.7993511932046\",\"right\":\"120.45518962100945\",\"bottom\":\"23.799745586680658\"},\"landLot\":\"雲林縣西螺鎮東南段866\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": ""
+}

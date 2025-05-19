@@ -1,0 +1,116 @@
+{
+    "id": 165,
+    "caseId": "19980325000008",
+    "count": 3042,
+    "shareCount": 0,
+    "representImage": 189587,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/c589295b-bafe-4808-a25d-eb2d9a7d6a4c/長老教會北投教堂_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/c589295b-bafe-4808-a25d-eb2d9a7d6a4c/長老教會北投教堂.jpg",
+        "name": "長老教會北投教堂"
+    },
+    "caseName": "長老教會北投教堂",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "市定古蹟「長老教會北投教堂」位於北投區中央南路一段七十七號，北投教堂是由加拿大來臺的傳教士吳威廉〈WilliamGauld〉在一九一二年所設計建造，也是臺北附近僅存的古老教堂之一。當時附近信徒多為北投的平埔族人，在臺灣近代宗教發展史上具有見證之價值。\r\n這座以紅磚及木屋架構成的小教堂，風格接近英式鄉村教堂，正面中央設入口，室內空間尺度親切，予人以溫暖之感。它的外牆使用加強耐震的扶壁，頗具特色，二十世紀初年由吳威廉所設計的教堂大都已改建，北投教堂為僅存的孤例，值得保存。",
+    "assetsTypeNames": "教堂",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 137616,
+            "name": "_870325指定十二處古蹟及二處紀念性建物公告(2).tif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/c26d629b-b23f-432c-bac9-7191c9967ecd/_870325指定十二處古蹟及二處紀念性建物公告(2).tif"
+        },
+        {
+            "fileid": 137617,
+            "name": "3._870325指定十二處古蹟及二處紀念性建物公告(1).tif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/007382ba-4571-4499-886d-60a6bc40c23f/3._870325指定十二處古蹟及二處紀念性建物公告(1).tif"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值"
+    ],
+    "registerReason": "由加拿大來臺的傳教士吳威廉〈William Gauld〉在1912年所設計建造，也是臺北附近僅存的古老教堂之一。當時附近信徒多為北投的平埔族人，在臺灣近代宗教發展史上具有見證之價值。 這座以紅磚及木屋架構成的小教堂，風格接近英式鄉村教堂，正面中央設入口，室內空間尺度親切，予人以溫暖之感。它的外牆使用加強耐震的扶壁，頗具特色，二十世紀初年由吳威廉所設計的教堂大都已改建，北投教堂為僅存的孤例，值得保存。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 137618,
+            "name": "B005 台北市 長老教會北投教堂 (直轄定)05.JPG",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/213e33ff-784e-4441-9e06-40b69bc953bb/B005 台北市 長老教會北投教堂 (直轄定)05.JPG"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "台北市溫泉段四小段603地號",
+    "buildingFeatures": "北投教堂是由加拿大來臺的傳教士吳威廉〈William Gauld〉在一九一二年所設計建造，也是臺北附近僅存的古老教堂之一。當時附近信徒多為北投的平埔族人，在臺灣近代宗教發展史上具有見證之價值。",
+    "inHouseFeatures": "",
+    "buildingUsage": "教會活動使用。",
+    "buildingActualState": "二十世紀初年由吳威廉所設計的教堂大都已改建，北投教堂為僅存的孤例，值得保存。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.5013699,
+    "latitude": 25.1313119,
+    "representImageSource": "臺北市文化局",
+    "landScope": "台北市溫泉段四小段603地號",
+    "selfCoverage": "本體",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "id": 95081,
+            "caseId": 165,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "address": "中央南路1段77號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "landNoName": "溫泉段四小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 117490,
+            "caseId": 165,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "landNoId": 657,
+            "landSerialNo": "0603-0000",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "coverageId": 2,
+            "area": "579平方公尺",
+            "note": "重測前:北投段507-4地號",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 102578,
+            "caseId": 165,
+            "caseStatus": true,
+            "registerDate": 890755200000,
+            "officialDocNo": "府民三字第8701538601號",
+            "classificationId": 1,
+            "note": "無"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "（略）"
+}

@@ -1,0 +1,95 @@
+{
+    "id": 22039,
+    "caseId": "20230915000001",
+    "count": 98,
+    "shareCount": 0,
+    "representImage": 231304,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-09-15/6b5e180f-bf8e-4a63-91b2-cf145afc5a04/photo1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-09-15/6b5e180f-bf8e-4a63-91b2-cf145afc5a04/photo1.jpg",
+        "name": "photo1"
+    },
+    "caseName": "修造臺澎提學道署碑記",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "數量稀少者"
+    ],
+    "registerReason": "1.\t具有地方重要人物或歷史事件之深厚淵源者：臺灣道丁曰健重修道署，竣工後撰二篇碑記記事，〈修造臺澎提學道署初記〉敘述平定戴潮春事件經過，〈修造臺澎提學道署再記〉重申平定戴潮春事件之功、修造道署之志、捐款紳商之義，以及表達對付出勞役者之嘉獎，印證臺灣重要歷史事件。\n2.\t數量稀少者：為目前已知現存唯一記載臺灣道署修建之碑記，「三山」款反映此碑為福州製作，亦是目前少見。\n",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第2、5款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "govInstitution": "臺南市文化局",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213-569#605",
+    "govDeptAddress": "700臺南市中西區中正路5巷1號3樓",
+    "reservationCode": "0-495、0-496",
+    "amount": 2,
+    "descAge": "1864年",
+    "descSize": "「修造臺澎提學道署初記」長78cm、寬44.5cm、厚2cm；「修造臺澎提學道署再記」長66.5cm、寬48cm、厚3.5cm。",
+    "descMaterial": "頁岩",
+    "reserveStatusDesc": "臺灣道丁曰健撰〈修造臺澎提學道署初記〉與〈修造臺澎提學道署再記〉，敘述平定戴潮春事件及重修道署經過，為臺灣重要歷史事件之證物，正面為楷書陰刻銘文，背面無刻文，鐫刻者為「三山」福州石匠宋鐘鳴，碑文雕刻精美。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "臺南市立歷史館（赤崁樓）",
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況不良，需維護",
+    "documents": [
+        {
+            "fileid": 231300,
+            "name": "109公告-修造臺澎提學道署碑記.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-09-15/9970ec48-cb01-4c97-90be-cb036af0f05b/109公告-修造臺澎提學道署碑記.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "臺南市立博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "臺南市立博物館",
+            "keepName": "謝蕙蕙",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺南市柳營區共同典藏庫房",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "研究設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "柳營區",
+            "id": 114831,
+            "caseId": 22039,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1632,
+            "address": "共同典藏庫房"
+        }
+    ],
+    "announces": [
+        {
+            "id": 125063,
+            "caseId": 22039,
+            "caseStatus": true,
+            "registerDate": 1693884771086,
+            "officialDocNo": "南市文資字第1121111874A號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

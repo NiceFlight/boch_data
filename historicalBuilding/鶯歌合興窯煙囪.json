@@ -1,0 +1,135 @@
+{
+    "id": 5029,
+    "caseId": "20170915000003",
+    "count": 3145,
+    "shareCount": 3,
+    "representImage": 15866,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2017-09-15/e4a3a24a-1868-47a5-bc44-d8d9070f572e/DSC_3396_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2017-09-15/e4a3a24a-1868-47a5-bc44-d8d9070f572e/DSC_3396.jpg",
+        "name": "DSC_3396"
+    },
+    "caseName": "鶯歌合興窯煙囪",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "產業",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1482311595946,
+    "officialDocNo": "新北府文資字第1052445338號",
+    "documents": [
+        {
+            "fileid": 161422,
+            "name": "鶯歌合興窯煙囪登錄公告-105.12.21.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-26/4af4a95c-6bfd-4c27-b65b-860fdddace2a/鶯歌合興窯煙囪登錄公告-105.12.21.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "一、合興窯約創建於日治時期，乃鶯歌燒製陶器之一大窯場，見證地方產業發展史，煙囪為始建原物。符合「歷史建築登錄廢止審查及輔助辦法」第2條第1項第1款之登錄基準。\n二、合興窯煙囪為磚構造，四角以鐵件加固，顯現當時的作法，具時代意義。符合「歷史建築登錄廢止審查及輔助辦法」第2條第1項第3、4款之登錄基準。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、3、4款",
+    "govInstitutionCode": "220",
+    "govInstitutionName": "新北市政府",
+    "belongCityId": 3,
+    "belongCityName": "新北市",
+    "belongDistName": "鶯歌區",
+    "govInstitution": "新北市政府",
+    "govDeptName": "文化局",
+    "govDeptPhone": "(02)29603456",
+    "govDeptAddress": "新北市板橋區中山路一段161號28樓",
+    "cadasters": [
+        {
+            "fileid": 15867,
+            "name": "合興窯測量成果圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2017-09-15/18bd0345-2d2d-4234-9107-815cdeb69657/合興窯測量成果圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 3,
+    "cityLandUseTypeName": "工業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "鶯歌區中正段 71、72號(均為部分)。",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "bulkTransfer": 0,
+    "belongAddress": "新北市鶯歌區中正一路與文化路平交道附近",
+    "isOpenVisit": false,
+    "openUpTime": "",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.3592000021057,
+    "latitude": 24.956060036512913,
+    "representImageSource": "新北市政府文化局",
+    "landScope": "鶯歌區中正段 71、72號(均為部分)。以歷史建築煙囪本體定著正投影，向外3個方向各擴充3公尺、煙道方向擴充5公尺為面積範圍，計89.25平方公尺(以實際測量結果為準)。",
+    "selfCoverage": "煙囪與部分地下煙道\n\n",
+    "addresses": [
+        {
+            "cityName": "新北市",
+            "distName": "鶯歌區",
+            "id": 76875,
+            "caseId": 5029,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 319,
+            "address": "中正一路與文化路平交道附近"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "新北市",
+            "distName": "鶯歌區",
+            "landNoName": "中正段",
+            "id": 79850,
+            "caseId": 5029,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 319,
+            "landNoId": 6643,
+            "landSerialNo": "71",
+            "coverageId": 1,
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "新北市",
+            "distName": "鶯歌區",
+            "landNoName": "中正段",
+            "id": 79851,
+            "caseId": 5029,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 319,
+            "landNoId": 6643,
+            "landSerialNo": "72",
+            "coverageId": 1,
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 82578,
+            "caseId": 5029,
+            "caseStatus": true,
+            "registerDate": 1482311595946,
+            "officialDocNo": "新北府文資字第1052445338號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.35890254390802,24.955974517723572],[121.35908294836644,24.95627071164959],[121.35909068024671,24.956193775852693],[121.35901585796023,24.956154718354668],[121.35905763617802,24.9560880694379],[121.35909912689564,24.956109722981306],[121.35910552728328,24.956046029008466],[121.35890254390802,24.955974517723572],[121.35890254390802,24.955974517723572]]]]},\"properties\":{\"envelope\":{\"left\":\"121.35890254390802\",\"top\":\"24.955974517723572\",\"right\":\"121.35910552728328\",\"bottom\":\"24.956270711649591\"},\"landLot\":\"新北市鶯歌區中正段71\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.35960750310727,24.956359909123236],[121.35918887910316,24.956209190136207],[121.35910740216306,24.956046685411405],[121.35910552755846,24.956046029057685],[121.3590829482696,24.956270711726315],[121.35907262429805,24.956379684971267],[121.3590935939907,24.956394209740143],[121.35931424356728,24.956547768496026],[121.35937671501873,24.956590971778162],[121.35960750310727,24.956359909123236],[121.35960750310727,24.956359909123236]]]]},\"properties\":{\"envelope\":{\"left\":\"121.35907262429805\",\"top\":\"24.956046029057685\",\"right\":\"121.35960750310727\",\"bottom\":\"24.956590971778162\"},\"landLot\":\"新北市鶯歌區中正段72\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀"
+}

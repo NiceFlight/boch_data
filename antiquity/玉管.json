@@ -1,0 +1,106 @@
+{
+    "id": 4339,
+    "caseId": "20121107000003",
+    "count": 652,
+    "shareCount": 0,
+    "representImage": 7276,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/38138/photo/db40e721-5f43-41e4-a555-d7149075cd6c_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/38138/photo/db40e721-5f43-41e4-a555-d7149075cd6c.jpg",
+        "name": "db40e721-5f43-41e4-a555-d7149075cd6c"
+    },
+    "caseName": "玉管",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1352217600000,
+    "officialDocNo": "文資局物字第10120133973號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "具有特殊之時代特色、技術及流派",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "管形玉器為卑南遺址所出土極具特色之玉器，係用條狀玉材修磨成圓柱狀後，自兩端鑽鑿貫通而成為管狀，長達29公分。與台灣東部及鄰近國家其他遺址所出土同類玉器相較，此組管型玉器，是目前所知長度最長者。推測其用途是由5件收攏成束置於墓主身旁，作為陪葬品或作為某種特定目的使用。綜而言之，此組玉器外觀研磨精緻，1組5件規格均一，為現存最長鑽穿之玉管，凸顯臺灣新石器時代製玉工藝的技術高超及世界級的獨特性。",
+    "lawsReference": "「古物分級登錄指定及廢止審查辦法」第4條第1項第1、3、5、6款；第6條及第7條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 22,
+    "belongCityName": "臺東縣",
+    "belongDistName": "臺東市",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "201216-00002~00006-PN",
+    "keepNameId": 10,
+    "keepName": "國立臺灣史前文化博物館",
+    "keepNameNew": 10,
+    "keepAddressNew": "950台東縣台東市博物館路1號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 5,
+    "notes": "",
+    "descAge": "距今2800-2300年",
+    "descSize": "(1)長：28.6 cm寬：0.95 cm厚：0.9 cm(2)長：29 cm   寬：1.05 cm 厚：1.05 cm(3)長：28.7 cm  寬：0.95 cm厚：0.97 cm(4)長：28.6 cm  寬：0.95 cm厚：0.99 cm(5)長：28.45 cm寬：1.05 cm厚：1.0 cm",
+    "descMaterial": "臺灣玉",
+    "reserveStatusDesc": "為條狀玉材修磨成圓柱狀後，自兩端鑽鑿貫通而成之管形玉飾，管身磨製精良，斷面近呈正圓形，管口多半齊整，少數管口略凹，可能為用途所需或使用後軟耗所致。",
+    "pastHistorySource": 3,
+    "pastHistorySourceNotes": "卑卑南遺址；臺東縣政府採集發掘移轉標本",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 52743,
+            "name": "用印公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-12-19/f6203de6-73cd-4892-a2ba-6496e23df725/用印公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立臺灣史前文化博物館",
+            "keepName": "國立臺灣史前文化博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立臺灣史前文化博物館",
+            "keepAddressNew": "950台東縣台東市博物館路1號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺東縣",
+            "keepNameAddress": "豐田里博物館路1號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺東縣",
+            "distName": "臺東市",
+            "id": 4482,
+            "caseId": 4339,
+            "caseStatus": true,
+            "cityId": 22,
+            "distId": 2201
+        }
+    ],
+    "announces": [
+        {
+            "id": 4482,
+            "caseId": 4339,
+            "caseStatus": true,
+            "registerDate": 1352217600000,
+            "officialDocNo": "文資局物字第10120133973號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

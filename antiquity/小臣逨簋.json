@@ -1,0 +1,101 @@
+{
+    "id": 3888,
+    "caseId": "20121112000012",
+    "count": 503,
+    "shareCount": 3,
+    "representImage": 6696,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32874/photo/3be4ab30-bc8e-4b89-aec9-ec9e0dff1707_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32874/photo/3be4ab30-bc8e-4b89-aec9-ec9e0dff1707.JPG",
+        "name": "3be4ab30-bc8e-4b89-aec9-ec9e0dff1707"
+    },
+    "caseName": "小臣逨簋",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1352649600000,
+    "officialDocNo": "文授字第10120135331號",
+    "judgeCriteria": [
+        "具有史事重要淵源",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "簋器身圓，二附耳，有蓋，蓋頂圈鈕二孔對穿，圈足下另出三立足，全器光素，僅器上口沿有弦紋二道。此器國立故宮博物院共藏一對。蓋器同銘，各8行64字：「 東夷大反，白懋父以殷八 征東尸。唯十又一月，遣自 ， 述東 伐海眉，雩厥復歸才牧 。白懋父承王令易  征自五 貝，小臣 蔑 ，眔易貝，用乍寶尊彝」。大意為記載某年的十一月，東夷叛變，小臣 隨伯懋父率領殷八師征伐東夷的經過。凱旋班師至牧師，伯懋父秉承天子的賜命，賞給小臣 從五 征得的貨貝，以勉勵 ， 因而作器紀念此事。銘文於研究周代與東夷之征伐及軍事、賞賜制度，具有極重要價值。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第2、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "中銅000163、中銅000165",
+    "amount": 2,
+    "notes": "",
+    "descAge": "西周",
+    "descSize": "（一）通蓋高4.5cm，腹深10.9cm，口徑20cm，底徑15.3cm，腹圍64.3cm；（二）通蓋高24.5cm，腹深11cm，口徑20.1cm，底徑15.3cm，腹圍64cm",
+    "descMaterial": "銅",
+    "reserveStatusDesc": "器身橫切面圓，二附耳，圈足下另出三足，有蓋，蓋頂圈足二孔對穿，蓋飾弦紋一道，器身飾弦紋二首。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "（一）蓋破，器緣裂（已修補）。\n（二）有銹蝕。器蓋舊傷損。",
+    "documents": [
+        {
+            "fileid": 150774,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-19/e49caa2a-b981-46d0-a847-c3cd3da79b3a/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71153,
+            "caseId": 3888,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75499,
+            "caseId": 3888,
+            "caseStatus": true,
+            "registerDate": 1352649600000,
+            "officialDocNo": "文授字第10120135331號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

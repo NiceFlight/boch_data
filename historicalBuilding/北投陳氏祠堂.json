@@ -1,0 +1,120 @@
+{
+    "id": 2231,
+    "caseId": "20170727000001",
+    "count": 8450,
+    "shareCount": 38,
+    "representImage": 189593,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/1f8ff1a4-21ea-4272-a496-2e5124f66e27/代表圖像_北投陳氏祠堂_20220801(IMG_E0708)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/1f8ff1a4-21ea-4272-a496-2e5124f66e27/代表圖像_北投陳氏祠堂_20220801(IMG_E0708).jpg",
+        "name": "代表圖像_北投陳氏祠堂_20220801(IMG_E0708)"
+    },
+    "caseName": "北投陳氏祠堂",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "1、北投陳氏族人與北投地區漢人墾拓的開發歷史息息相關，其先祖自清朝年間結伴渡台於北投定居，移民拓墾帶來的水田文化蘊涵濃厚家族倫常與宗族關係，與其相應而生的宗教、風俗及教化因此深植北投地區。\r\n2、北投陳氏祖籍為福建泉州同安馬巷侯亭鄉，祠堂初建於1890年， 1898年遭焚毀，1910年重修擴建又稱侯亭居。堂中供奉清初以來於北投拓墾之先祖牌位，除敬天祭祖，尚具策勵後進及排解族內糾紛之功能，係北投陳氏族群重要活動場所。每年冬至仍保有祭祖活動，反映對先祖及原鄉的敬思緬懷。\r\n",
+    "assetsTypeNames": "祠堂",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 161666,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/4086fc3a-fa3f-4060-8003-dd6b142abcfb/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1、民投陳氏族人與北投地區漢人墾拓的開發歷史息息相關，其先祖自清朝年間結伴渡台於北投定居，移民拓墾帶來的水田文化蘊涵濃厚家族倫常與宗族關係，與其相應而生的宗教、風俗及教化因此深植北投地區。\r\n2、北投陳氏祖籍為福建泉州同安馬巷侯亭鄉，祠堂初建於1890年， 1898年遭焚毀，1910年重修擴建又稱侯亭居。堂中供奉清初以來於北投拓墾之先祖牌位，除敬天祭祖，尚具策勵後進及排解族內糾紛之功能，係北投陳氏族群重要活動場所。每年冬至仍保有祭祖活動，反映對先祖及原鄉的敬思緬懷。\r\n3、陳氏祠堂建築形式為閩南建築，正堂保有原建築構造，包括步口廊石柱、入口格扇門窗、四點金柱等，並維持供奉祭祀空間，其中頂下棹、祭器、禮器及門神等均為祠堂重要陳設與文物，深具社會文化歷史價值。\r\n4、符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、4款評定基準。\r\n",
+    "lawsReference": "歷史建築登錄廢止審查及輔助辦法第2條第1項第1、4款評定基準",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 161667,
+            "name": "地籍圖-01.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/9d61e616-8c53-4fb8-8853-dfed74742eb1/地籍圖-01.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "locationLandNo": "臺北市北投區大業段二小段47、48地號等2筆土地。",
+    "buildingUsage": "祭祀使用",
+    "buildingActualState": "祭祀使用",
+    "bulkTransfer": 1,
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.49932903873265,
+    "latitude": 25.132872708568332,
+    "representImageSource": "臺北市文化局",
+    "landScope": "鄰近北投捷運站，位於大同街與光明路路口",
+    "selfCoverage": "243平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "id": 95084,
+            "caseId": 2231,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "address": "大同街12號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "landNoName": "大業段二小段",
+            "id": 117495,
+            "caseId": 2231,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "landNoId": 651,
+            "landSerialNo": "47",
+            "coverageId": 1,
+            "area": "965平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "landNoName": "大業段二小段",
+            "id": 117496,
+            "caseId": 2231,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "landNoId": 651,
+            "landSerialNo": "48",
+            "coverageId": 1,
+            "area": "383平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 102581,
+            "caseId": 2231,
+            "caseStatus": true,
+            "registerDate": 1501084800000,
+            "officialDocNo": "北市文化文資字第10630486800號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": ""
+}

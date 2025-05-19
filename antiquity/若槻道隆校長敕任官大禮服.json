@@ -1,0 +1,95 @@
+{
+    "id": 22043,
+    "caseId": "20230915000005",
+    "count": 367,
+    "shareCount": 3,
+    "representImage": 231296,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-09-15/9389dd00-6f90-4f09-8a1c-00c2ea8c0db7/U-2013-008-0001-001-TE-若槻道隆敕任文官大禮服-外套-正面_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-09-15/9389dd00-6f90-4f09-8a1c-00c2ea8c0db7/U-2013-008-0001-001-TE-若槻道隆敕任文官大禮服-外套-正面.jpg",
+        "name": "U-2013-008-0001-001-TE-若槻道隆敕任文官大禮服-外套-正面"
+    },
+    "caseName": "若槻道隆校長敕任官大禮服",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "數量稀少者"
+    ],
+    "registerReason": "1.\t具有地方重要人物或歷史事件之深厚淵源者：\n「若槻道隆校長敕任官大禮服」為臺南高等工業學校（國立成功大學前身）首任校長的重要文官禮服，見證當時學制及服制西化現象，具特殊意義。\n2.\t數量稀少者：本組文物為臺灣目前已知現存日治時期唯一文官大禮服，成套禮服及其配件完整，刺繡及縫製技法精湛。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第2、5款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "govInstitution": "臺南市文化局",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213-569#605",
+    "govDeptAddress": "700臺南市中西區中正路5巷1號3樓",
+    "reservationCode": "2013-008",
+    "amount": 10,
+    "descAge": "日治時代",
+    "descSize": "外衣長95cm、通袖寬170.5cm、袖口寬13cm、釦徑2.2cm，褲身長106cm、褲頭寬44cm。",
+    "descMaterial": "織品、金屬",
+    "reserveStatusDesc": "若槻道隆為臺南高等工業學校（國立成功大學前身）首任校長，本套敕任官大禮服為日本官服制度中之最高級形制，將象徵日本內閣的五七桐紋章裝飾於西式禮服上，為和洋服飾文化合璧下的結晶，並與臺南本地教育發展史有密切聯繫。本件係由若槻道隆之孫捐贈予成功大學，成套禮服及配件完整，刺繡及縫製技法精美，亦是臺灣目前已知現存日治時期唯一文官大禮服，具稀少性。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "若槻道隆家族捐贈",
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定",
+    "documents": [
+        {
+            "fileid": 231297,
+            "name": "111公告-若槻道隆大禮服.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-09-15/a96e28c0-2c71-4ed6-8f90-57d57e383652/111公告-若槻道隆大禮服.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立成功大學博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立成功大學",
+            "keepName": "李侑叡",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "國立成功大學博物館",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "東區",
+            "id": 114816,
+            "caseId": 22043,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1602,
+            "address": "大學路1號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 125048,
+            "caseId": 22043,
+            "caseStatus": true,
+            "registerDate": 1693887945542,
+            "officialDocNo": "南市文資字第1120607607A號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

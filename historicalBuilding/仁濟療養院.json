@@ -1,0 +1,115 @@
+{
+    "id": 1059,
+    "caseId": "20061030000002",
+    "count": 3957,
+    "shareCount": 2,
+    "representImage": 168078,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/b579f565-1de7-43bb-b084-692c83842267/代表圖像_仁濟療養院_20220531_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/b579f565-1de7-43bb-b084-692c83842267/代表圖像_仁濟療養院_20220531.jpeg",
+        "name": "代表圖像_仁濟療養院_20220531"
+    },
+    "caseName": "仁濟療養院",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "具80多年歷史的仁濟療養院其建築多為早期日式空間的型態，屋身為木構造類型、其屋頂以黑瓦覆蓋，大體而言仍保持其創立時期的空間配置與分布型態。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "其他",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 167501,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/589e68ab-259d-4d45-9893-6c3133bdea59/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1.考量臺北仁濟院彙集清代的養濟院、同善堂、育嬰院等機構之社會救濟事業背景，本療養院為其於1922年增設之精神病療養所，在公共衛生史上確有歷史價值。\r\n2.清水磚造建築造型簡潔、構造樸實，可配合公園整體規劃利用。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、4款評定基準",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 167502,
+            "name": "23c5b659-77f9-4e61-84d2-b3d3d840a9e6.JPG",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/f549f604-eda1-47cb-88ec-61200b62ef26/23c5b659-77f9-4e61-84d2-b3d3d840a9e6.JPG"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "公園用地",
+    "locationLandNo": "萬華區莒光段4小段1地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "固定時段提供民眾作為綠化教室使用，平常開放為歷史解說展覽空間。",
+    "buildingActualState": "固定時段提供民眾作為綠化教室使用，平常開放為歷史解說展覽空間。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.4969928,
+    "latitude": 25.0318364,
+    "representImageSource": "臺北市文化局",
+    "landScope": "萬華區莒光段4小段1地號",
+    "selfCoverage": " 230平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "id": 88677,
+            "caseId": 1059,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "address": "西園路2段42號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "landNoName": "莒光段四小段",
+            "cityLandUseTypeName": "工業區",
+            "id": 105739,
+            "caseId": 1059,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "landNoId": 157,
+            "landSerialNo": "1",
+            "landownership": 1,
+            "cityLandUseTypeId": 3,
+            "coverageId": 1,
+            "area": "",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 95657,
+            "caseId": 1059,
+            "caseStatus": true,
+            "registerDate": 1162137600000,
+            "officialDocNo": "府文化二字第09530322500號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

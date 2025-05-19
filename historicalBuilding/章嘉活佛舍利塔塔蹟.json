@@ -1,0 +1,133 @@
+{
+    "id": 1086,
+    "caseId": "20060517000004",
+    "count": 3070,
+    "shareCount": 14,
+    "representImage": 189591,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/8a24ff54-902f-46da-8f08-9a60b8c18492/代表圖像_章嘉活佛舍利塔塔蹟_20220801(IMG_E0715)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/8a24ff54-902f-46da-8f08-9a60b8c18492/代表圖像_章嘉活佛舍利塔塔蹟_20220801(IMG_E0715).jpg",
+        "name": "代表圖像_章嘉活佛舍利塔塔蹟_20220801(IMG_E0715)"
+    },
+    "caseName": "章嘉活佛舍利塔塔蹟",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "章嘉活佛係清代藏傳佛教格魯派重要的活佛轉世系統之一。章嘉活佛世系與達賴、班禪、哲布尊丹巴並稱為四大活佛。歷代章嘉活佛後皆受封主持內蒙及青海蒙旗教化。第十九世的章嘉呼圖克圖，為慈禧太后、袁世凱及蔣中正國師，歷任國大代表、總統府資政。1949年來台，當選中國佛教會理事長，曾從日本迎請玄奘大師頂骨歸還安奉於日月潭。",
+    "assetsTypeNames": "墓葬",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 167512,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/bb77c674-54fc-47f9-906a-7b0c3808ecfa/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "1.章嘉活佛在藏傳佛教史具有崇高地位，且為佛教界重要之領導人物，是西藏黃教格魯派之活佛中，自1949年後唯一來臺定居者，對於推動藏傳佛教在臺發展與安定當時人心有顯著貢獻。2.造型具藏式舍利塔之重要特徵，包括塔剎、瓶形塔身及基座等三段式造型，極富特色與稀有性，具歷史建築保存價值。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 167513,
+            "name": "B008 台北市 章嘉活佛舍利塔塔蹟 (歷建) 03.JPG",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/2e0633a0-1743-4a0d-8310-7ec840b54c21/B008 台北市 章嘉活佛舍利塔塔蹟 (歷建) 03.JPG"
+        }
+    ],
+    "nonCityLandUseTypeId": 6,
+    "nonCityLandUseTypeName": "山坡地保育區",
+    "locationLandNo": "臺北市北投區崇仰段1小段427、467部分地號",
+    "buildingFeatures": "屬印度傳統佛塔形制，塔身部分是一個平面圓形的覆缽體，上面置有塔剎，下面則有須彌座承托，如同寶瓶式塔。",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "構造物本身塔身與塔座狀況尚完好，塔內舍利子曾取出，業於2013年1月2日迎回，安置於佛塔覆缽中佛像下方之涵洞，塔座仍保留雕飾花紋，構造精巧，塔上書有「章嘉活佛舍利塔」字樣，並供有活佛照片及碑文等。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.5075627,
+    "latitude": 25.1306107,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市北投區崇仰段1小段427、467部分地號",
+    "selfCoverage": "實際保存面積需以保存範圍實測數據為準",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "id": 95083,
+            "caseId": 1086,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "address": "奇岩路151號中和禪寺後方山坡"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "landNoName": "崇仰段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 117493,
+            "caseId": 1086,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "landNoId": 694,
+            "landSerialNo": "427",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "3221.18平方公尺",
+            "cityLandUseTypeOther": "林地",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "landNoName": "崇仰段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 117494,
+            "caseId": 1086,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "landNoId": 694,
+            "landSerialNo": "467",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "598.18平方公尺",
+            "cityLandUseTypeOther": "林地",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 102580,
+            "caseId": 1086,
+            "caseStatus": true,
+            "registerDate": 1147795200000,
+            "officialDocNo": "府文化二字第09530253200號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

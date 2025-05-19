@@ -1,0 +1,104 @@
+{
+    "id": 17346,
+    "caseId": "20200219000003",
+    "count": 2007,
+    "shareCount": 7,
+    "representImage": 65968,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-02-11/5f6f0919-6884-408c-bb18-acda68fe91e5/附件1.3開道碑碑文正面_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-02-11/5f6f0919-6884-408c-bb18-acda68fe91e5/附件1.3開道碑碑文正面.jpg",
+        "name": "附件1.3開道碑碑文正面"
+    },
+    "caseName": "開道碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1581314695514,
+    "officialDocNo": "中華民國109年2月10日北市獻編字第1093001230號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "數量稀少者"
+    ],
+    "registerReason": "1.\t此碑見證了瑠公圳水道設施材料與改道的史實。\n2.\t此碑由清末景美出身之舉人高選鋒所撰，由地方仕紳詳述開道的史事，甚具意義，可見其文采及立碑之慎重，其書法亦可添此碑價值。\n3.\t此碑為記載景美地方開發歷史較大型的砂岩碑，見證瑠公圳改道、景美街由空溝填平而改建道路的歷程、木柵路開闢等街市發展經過，可反映景美、瑠公圳、深坑、木柵地方發展與變遷的紋理，亦能反應人文、經濟、交通之時代特色。\n4.\t歷代開闢道路之碑碣不乏其數，但以水道改建者卻是罕見，具稀有性。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2、3、5款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "文山區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "10846臺北市萬華區中華路1段174之1號",
+    "reservationCode": "無",
+    "amount": 1,
+    "descAge": "1909年（明治42年）",
+    "descSize": "長170公分（下方補破3-7公分）/寬83公分/厚16公分",
+    "descMaterial": "砂岩",
+    "reserveStatusDesc": "此石碑記载1908年瑠公橋完工後，瑠公圳局部改道至景文街，將原來景美街舊圳道填空溝築道路，以及鑿岩石穿山腳築往木柵道路的歷史。\n此石碑原立於瑠公橋橋頭側邊，後因景美溪加築堤防時，將石碑移往二二八公園保存。1997年景美人找回重立於現址。見證景美的開發歷史。\n石碑：長180公分∕寬83公分∕厚16公分。體型巨大，砂岩。陰刻。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 3,
+    "reserveStatus": "1997年重置於現址，戶外空間無遮蔽，碑文風吹日曬下已逐漸模糊。",
+    "documents": [
+        {
+            "fileid": 65966,
+            "name": "公告函.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-02-11/26663dc6-93f5-4a82-9475-f45194cd2def/公告函.pdf"
+        },
+        {
+            "fileid": 65967,
+            "name": "臺北市一般古物指定公告表_開道碑.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-02-11/9c98c625-7d54-4012-aa7d-adb95d1d1b48/臺北市一般古物指定公告表_開道碑.pdf"
+        }
+    ],
+    "representImageSource": "何文賢提供",
+    "keepNames": [
+        {
+            "keepNameIdStr": "臺北市文山區景美國小",
+            "keepName": "總務處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "臺北市文山區景美國小",
+            "keepAddressNew": "116台北市文山區景文街142巷巷口",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "學校",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "文山區",
+            "keepNameAddress": "景文街108號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "文山區",
+            "id": 6986,
+            "caseId": 17346,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 112
+        }
+    ],
+    "announces": [
+        {
+            "id": 6986,
+            "caseId": 17346,
+            "caseStatus": true,
+            "registerDate": 1581314695514,
+            "officialDocNo": "中華民國109年2月10日北市獻編字第1093001230號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

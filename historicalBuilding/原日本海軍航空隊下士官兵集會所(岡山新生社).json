@@ -1,0 +1,105 @@
+{
+    "id": 18964,
+    "caseId": "20210524000001",
+    "count": 2111,
+    "shareCount": 1,
+    "representImage": 107833,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-04-29/8f4df1d0-304b-4371-8544-c0fb4d25553b/77815_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-04-29/8f4df1d0-304b-4371-8544-c0fb4d25553b/77815.jpg",
+        "name": "77815"
+    },
+    "caseName": "原日本海軍航空隊下士官兵集會所(岡山新生社)",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "臺灣第一支海軍航空隊，高雄航空隊成立於昭和13年（1938）4月1日，依當時的高雄海軍航空隊位置圖可知，當時的規劃中，除高雄飛行場及其行政中心外，在鄰近岡山驛的縱貫道路西側規劃了一區「宿舍地帶」（即為今樂群村、勵志村一帶），而在宿舍地帶及阿公店溪西側則圈畫一小矩型區域規劃為「下士官兵集會所」。其最早設立的用途是做為高雄海軍航空隊之集會所。 ",
+    "assetsTypeNames": "集會堂",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 107826,
+            "name": "歷史建築 (新生社)公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-04-29/32b6c60d-7bf4-44f8-941e-f194eb54bd61/歷史建築 (新生社)公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "1.\t台灣目前少數留存的日本海軍航空隊下士官兵集會堂。\n2.\t本體建築中，出現因應台灣南部炎熱多雨的氣候而規劃的外部迴廊及通氣孔；洋小屋組及加強磚造之作法，為反映當時社會情勢及建築風潮，具重要的有歷史意義。\n3.\t空軍新生社磁磚所採用的青灰、灰綠色系，為日治後期流行的國防色，忠實反映當時的建築風潮，成為重要的時代表徵。\n",
+    "lawsReference": "1.\t依文化資產保存法第18條及歷史建築紀念建築登錄廢止審查及輔\n助辦法第2、4條規定。\n2.\t符合歷史建築紀念建築登錄廢止審查及輔助辦法第2條第1項規定。",
+    "govInstitutionCode": "800",
+    "govInstitutionName": "高雄市政府",
+    "govInstitution": "國防部",
+    "govDeptName": "軍備局",
+    "govDeptPhone": "02-27851751",
+    "govDeptAddress": "台北市南港區忠孝東路6段360號",
+    "cadasters": [
+        {
+            "fileid": 107829,
+            "name": "岡山新生社地籍資料.docx",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-04-29/85b2a25a-e81d-4b0f-8e40-d52f92f77387/岡山新生社地籍資料.docx"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "openUpTime": "目前未開放",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 22.7903,
+    "latitude": 120.29016,
+    "representImageSource": "高雄市政府文化局",
+    "landScope": "高雄市岡山區陽明段386地號(部分)、384地號(部分)、383地號及大人段2549地號(部分)、2504地號(部分)；面積：約6,177平方公尺。",
+    "selfCoverage": "北棟(編號004)：餐廳；南棟(編號009)：閒置；附屬建築(編號007)：辦公室\n",
+    "addresses": [
+        {
+            "cityName": "高雄市",
+            "distName": "岡山區",
+            "id": 31913,
+            "caseId": 18964,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1814,
+            "address": "柳橋西路一號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "高雄市",
+            "distName": "岡山區",
+            "landNoName": "陽明段",
+            "cityLandUseTypeName": "商業區",
+            "id": 28580,
+            "caseId": 18964,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1814,
+            "landNoId": 4278,
+            "landSerialNo": "386",
+            "landownership": 1,
+            "cityLandUseTypeId": 2,
+            "coverageId": 1,
+            "area": "",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 33086,
+            "caseId": 18964,
+            "caseStatus": true,
+            "registerDate": 1612281600000,
+            "officialDocNo": "高市府文資字第11030215102號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.29039296982096,22.79043822717573],[120.29037891828732,22.78997265209207],[120.2892495946459,22.789936306571526],[120.28919549309035,22.790401608705466],[120.2892085961766,22.790593154915953],[120.28920868754038,22.790594318449518],[120.2892088022923,22.790595479378172],[120.28955845687341,22.790617686140237],[120.2901149113034,22.790690855926854],[120.29012839474902,22.79064980915826],[120.29033042981081,22.790581679986126],[120.29039296982096,22.79043822717573],[120.29039296982096,22.79043822717573]]]]},\"properties\":{\"envelope\":{\"left\":\"120.28919549309035\",\"top\":\"22.789936306571526\",\"right\":\"120.29039296982096\",\"bottom\":\"22.790690855926854\"},\"landLot\":\"高雄市岡山區陽明段386\"}}],\"notfound\":[]}]",
+    "openVisitType": "",
+    "pastHistorySource": "高雄市岡山區空軍新生社文化價值評估基礎調查報告"
+}

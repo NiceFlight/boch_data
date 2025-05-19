@@ -1,0 +1,194 @@
+{
+    "id": 2549,
+    "caseId": "20090217000002",
+    "count": 589,
+    "shareCount": 3,
+    "representImage": 130661,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-08-09/cd86082d-769e-4f3a-b1b2-624e0a44f4e2/楊秀卿藝師_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-08-09/cd86082d-769e-4f3a-b1b2-624e0a44f4e2/楊秀卿藝師.jpg",
+        "name": "楊秀卿藝師"
+    },
+    "caseName": "說唱",
+    "classifyCode": "4.1",
+    "classifyName": "傳統表演藝術",
+    "assetsTypeNames": "說唱",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "4.1.2",
+    "assetsClassifyName": "重要傳統表演藝術",
+    "registerDate": 1234851597000,
+    "officialDocNo": "會授資籌三字第0982101168號書函",
+    "documents": [
+        {
+            "fileid": 130659,
+            "name": "2009保存者楊秀卿藝師公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-08-09/5e5de970-a43b-42fa-8909-e91fa1b2503f/2009保存者楊秀卿藝師公告.pdf"
+        },
+        {
+            "fileid": 130660,
+            "name": "2018重新登錄文化資產類別名稱公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-08-09/43fea612-5145-4393-b576-77ff213c3be9/2018重新登錄文化資產類別名稱公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "反映古昔常民生活形態或娛樂類型，並在藝術或藝術史上具有重要價值者",
+        "地方色彩或流派特色顯著，並在藝術或藝術史上具有價值且瀕臨失傳者",
+        "傳統技藝或藝能，其結構技法，表現特別優秀，並在全國具有領先地位者"
+    ],
+    "registerReason": "1.反映古昔常民生活形態或娛樂類型，並在藝術或藝術史上具有重要價值者\n2.地方色彩或流派特色顯著，並在藝術或藝術史上具有價值且瀕臨失傳者\n3.傳統技藝或藝能，其結構技法，表現特別優秀，並在全國具有領先地位者",
+    "lawsReference": "文化資產保存法第91條\n傳統表演藝術登錄認定及廢止審查辦法第4條、第5條及第6條",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 3,
+    "belongCityName": "新北市",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "0422177763",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "belongAddress": "新北市汐止區",
+    "longitude": 121.63971839999999,
+    "latitude": 25.0616059,
+    "historyDevelopment": "說唱念歌原本是中下階層沿村走唱、賣藝糊口所必須具備的技能，楊秀卿女士的藝術被發掘，始於許常惠與曾永義教授於1985年代表文建會，邀請其於藝術季中獻聲，自此楊女士致力於念歌藝術的薪傳，迄今已有廿餘載，雙眼全盲的楊女士，以溫柔卻堅定的歌聲見證台灣的社會發展歷程。",
+    "preservers": [
+        {
+            "id": 15558,
+            "type": "個人",
+            "caseName": "楊秀卿(歿)",
+            "cityName": "新北市",
+            "distName": "汐止區",
+            "caseArtistEntities": [
+                {
+                    "id": 167,
+                    "caseId": 15558,
+                    "sex": 0,
+                    "name": "鄭美",
+                    "bornYear": "1948",
+                    "closingYear": "2013",
+                    "customYear": "2009-2012",
+                    "contactCityId": 1,
+                    "contactDistId": 104,
+                    "contactAddress": "松山路474號3F",
+                    "files": [],
+                    "videoFiles": [
+                        {
+                            "fileid": 176372,
+                            "name": "231B0693.jpg",
+                            "thumbnailUrl": "https://data.boch.gov.tw/upload/representImageFile/2022-07-27/a7221711-0006-4834-bb2c-5d9c54853874/231B0693.jpg",
+                            "represent": true
+                        }
+                    ],
+                    "delete": false,
+                    "publishStatus": true,
+                    "createDate": 1658889968823,
+                    "createOrg": 25,
+                    "createId": 21984,
+                    "type": 2
+                },
+                {
+                    "id": 168,
+                    "caseId": 15558,
+                    "sex": 0,
+                    "name": "丁秀津",
+                    "bornYear": "1953",
+                    "closingYear": "2020",
+                    "customYear": "2014-2017",
+                    "contactCityId": 4,
+                    "contactDistId": 403,
+                    "contactAddress": "白雲二路136號",
+                    "files": [],
+                    "videoFiles": [
+                        {
+                            "fileid": 176371,
+                            "name": "231B0738_0.jpg",
+                            "thumbnailUrl": "https://data.boch.gov.tw/upload/representImageFile/2022-07-27/af63d1e2-576d-4e63-9a43-d56463806a5f/231B0738_0.jpg",
+                            "represent": true
+                        }
+                    ],
+                    "delete": false,
+                    "publishStatus": true,
+                    "createDate": 1658890088881,
+                    "createOrg": 25,
+                    "createId": 21984,
+                    "type": 2
+                },
+                {
+                    "id": 169,
+                    "caseId": 15558,
+                    "sex": 1,
+                    "name": "儲見智",
+                    "bornYear": "1977",
+                    "closingYear": "2020",
+                    "customYear": "2014-2017",
+                    "contactCityId": 10,
+                    "contactDistId": 1003,
+                    "contactAddress": "復興路三段362號R12-31",
+                    "files": [],
+                    "videoFiles": [
+                        {
+                            "fileid": 176369,
+                            "name": "231B0723.jpg",
+                            "thumbnailUrl": "https://data.boch.gov.tw/upload/representImageFile/2022-07-27/a17f7ef3-9433-479a-99a9-1b07b382d6cb/231B0723.jpg",
+                            "represent": true
+                        }
+                    ],
+                    "delete": false,
+                    "publishStatus": true,
+                    "createDate": 1658890167192,
+                    "createOrg": 25,
+                    "createId": 21984,
+                    "type": 2
+                }
+            ],
+            "representImage": 129354,
+            "registrationDate": 1234800000000,
+            "patentNo": "第參-001號",
+            "judgeCriteria": [
+                "熟知並能正確體現該登錄項目之知識、技藝與文化表現形式，並具代表性",
+                "具該登錄項目之傳習能力與意願",
+                "在文化脈絡下為適當者"
+            ],
+            "registerReason": "1.楊秀卿女士以即興念歌聞名，致力於說唱藝術教學與推廣，深受認識與激賞，並獲國家薪傳獎肯定。\n2.充分展現音樂古路曲調，已漸瀕臨失傳需加以保存。\n3.楊女士結合民間音樂與口語文學，不僅具代表性，且有稀少性，今年歲已大，亟宜指定以期傳承。",
+            "lawsReference": "傳統表演藝術登錄認定及廢止審查辦法第4條、第5條及第6條",
+            "isOpenDownload": false,
+            "representImageSource": "文化部文化資產局",
+            "contactorIsOpen": false
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "文化部文化資產局",
+    "addresses": [
+        {
+            "cityName": "新北市",
+            "distName": "汐止區",
+            "id": 129078,
+            "caseId": 2549,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 304,
+            "address": "新北市汐止區"
+        }
+    ],
+    "announces": [
+        {
+            "id": 140375,
+            "caseId": 2549,
+            "caseStatus": true,
+            "registerDate": 1234851597000,
+            "officialDocNo": "會授資籌三字第0982101168號書函",
+            "classificationId": 1,
+            "note": "登錄說唱暨認定保存者楊秀卿藝師"
+        },
+        {
+            "id": 140376,
+            "caseId": 2549,
+            "caseStatus": true,
+            "registerDate": 1519315200000,
+            "officialDocNo": "文授資局傳字第10730019223號",
+            "classificationId": 2,
+            "note": "重新登錄文化資產類別名稱"
+        }
+    ]
+}

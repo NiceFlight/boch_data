@@ -1,0 +1,103 @@
+{
+    "id": 15973,
+    "caseId": "20180720000002",
+    "count": 370,
+    "shareCount": 0,
+    "representImage": 267903,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-12-12/593d5c5c-1d6a-4e41-ad67-7e63894cfff9/獵刀 Takit cibakubabu_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-12-12/593d5c5c-1d6a-4e41-ad67-7e63894cfff9/獵刀 Takit cibakubabu.jpg",
+        "name": "獵刀 Takit cibakubabu"
+    },
+    "caseName": "獵刀 Takit cibakubabu",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1456761600000,
+    "officialDocNo": "屏府文保字第10530074600號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "    本件獵刀刀柄以傳統藤皮纏繞，刀鞘末端彎轉如百步蛇形，以陽刻技法雕刻百步蛇紋和人像紋，百步蛇紋位於刀鞘上方，下方則雕刻簡單的直立人像紋，人像頭部寫實清晰，身體造型則較忽略。近柄處有護手突起，雕刻人頭紋和百步蛇紋。刀鞘背面使用銅條裝飾，除美學考量外，也可防止刀身滑落。\n    在顏色裝飾上，典型為排灣族常用的紅色、黑色、白色、黃色等四色裝飾，以黃色為基底，紅色輔之，以白色妝點人頭紋之眼睛及嘴巴。\n就刀柄及刀鞘的工法，推測是一把工作用途之獵刀，反映出排灣族及魯凱族工作、農耕時之特殊工具裝飾。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第1、2、3、4、5、6款",
+    "govInstitutionCode": "900",
+    "govInstitutionName": "屏東縣政府",
+    "belongCityId": 20,
+    "belongCityName": "屏東縣",
+    "belongDistName": "屏東市",
+    "govInstitution": "屏東縣政府",
+    "govDeptName": "屏東縣文化資產保護所",
+    "govDeptPhone": "08-7227001#19",
+    "govDeptAddress": "屏東縣屏東市瑞中街15號",
+    "reservationCode": "008/3.001",
+    "amount": 1,
+    "descAge": "不詳",
+    "descCreator": "不詳",
+    "descSize": "47 x 6cm",
+    "descMaterial": "木(闊葉木) /鐵",
+    "reserveStatusDesc": "獵刀Takit cibakubaku屬中排灣群(來義鄉)獵刀傳統技法",
+    "pastHistorySource": 2,
+    "pastHistorySourceNotes": "高蔣蘭女士（歿）",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好",
+    "documents": [
+        {
+            "fileid": 49183,
+            "name": "古物公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-07-20/945e73e4-6437-4828-9a34-b1cf5261c8c3/古物公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "屏東縣政府文化處",
+    "keepNames": [
+        {
+            "keepNameIdStr": "屏東縣政府文化處",
+            "keepName": "聯絡人：陳建瑛",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "屏東縣政府文化處",
+            "keepAddressNew": "屏東市菸廠路1號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "屏東縣",
+            "keepNameDistName": "屏東市",
+            "keepNameAddress": "民生路4-17號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "屏東縣",
+            "distName": "屏東市",
+            "id": 137338,
+            "caseId": 15973,
+            "caseStatus": true,
+            "cityId": 20,
+            "distId": 2001
+        }
+    ],
+    "announces": [
+        {
+            "id": 150078,
+            "caseId": 15973,
+            "caseStatus": true,
+            "registerDate": 1456761600000,
+            "officialDocNo": "屏府文保字第10530074600號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

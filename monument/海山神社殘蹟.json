@@ -1,0 +1,185 @@
+{
+    "id": 216,
+    "caseId": "20050913000001",
+    "count": 3703,
+    "shareCount": 9,
+    "representImage": 142625,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-11-03/966ff410-809f-4eb1-ba8e-9e9a7467bd25/玩味_細節-1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-11-03/966ff410-809f-4eb1-ba8e-9e9a7467bd25/玩味_細節-1.jpg",
+        "name": "玩味_細節-1"
+    },
+    "caseName": "海山神社殘蹟",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "昭和六年至昭和二十年（1931-1945）作為臺灣日治時期的最後階段，臺灣總督府推動「皇民化運動」，並提出「國有神社」的口號，並在各地廣建神社，以作為社會教化的中心。海山神社便是建立在此時期，於昭和十三年（1938）竣工，屬無格社，坐落中和庄外員山。\n第二次世界大戰後，日本戰敗，皇民化運動宣告終止，民國三十四年（1945）國民政府接收臺灣後，僅有少數神社改建為忠烈祠，其餘多數皆遭破壞，包含海山神社，直至民國八十六年（1997）神社僅存殘蹟。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "遺蹟",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "registerDate": 1126540800000,
+    "officialDocNo": "北府文資字第0940008172號",
+    "documents": [
+        {
+            "fileid": 183579,
+            "name": "海山神社殘蹟及中和瑞穗配水池公告_94.09.13.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-09-07/d0dbea1d-f324-4227-ad7f-056961a4c543/海山神社殘蹟及中和瑞穗配水池公告_94.09.13.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值"
+    ],
+    "registerReason": "本處涵蓋海山神社殘蹟、積穗配水池、防空洞及考古遺址，深具地方歷史保存價值。",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>（民國九十五年一月十二日發布）第2條第1項第1款",
+    "govInstitutionCode": "220",
+    "govInstitutionName": "新北市政府",
+    "belongCityId": 3,
+    "belongCityName": "新北市",
+    "belongDistName": "中和區",
+    "govInstitution": "新北市政府",
+    "govDeptName": "文化局",
+    "govDeptPhone": "(02)29603456",
+    "govDeptAddress": "新北市板橋區中山路一段161號28樓",
+    "cadasters": [
+        {
+            "fileid": 138759,
+            "name": "海山神社殘蹟地籍.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-09-16/92e20c9d-2bce-411e-bfcd-73358490a5c3/海山神社殘蹟地籍.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 6,
+    "cityLandUseTypeName": "風景區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "中和區員山段308、311、320地號（外員山段56-3、54、55-1地號）",
+    "buildingFeatures": "神社階梯外飾洗石子，低層處右側有駁崁，平臺亦作洗石子，有二座鳥居柱礎。\n資料來源：臺北縣縣定古蹟海山神社殘蹟、中和瑞穗配水池調查研究及修復計畫",
+    "inHouseFeatures": "",
+    "buildingUsage": "自民國三十四年（1945）後已無使用，並遭破壞僅存殘蹟。",
+    "buildingActualState": "現況神社本體建築已被拆除，原址改建為活動中心，僅留存部分階梯與鳥居石柱。",
+    "buildingKeyMaintainItem": "應保存建築現貌，並定期清理周遭環境及植生。\n資料來源：臺北縣縣定古蹟海山神社殘蹟、中和瑞穗配水池調查研究及修復計畫",
+    "bulkTransfer": 0,
+    "belongAddress": "中和市員山路455巷員山公園內",
+    "isOpenDownload": false,
+    "longitude": 121.478903683824,
+    "latitude": 25.0047268473336,
+    "representImageSource": "新北市政府文化局",
+    "landScope": "公告地號為中和市外員山段56-3、54、55-1地號；新地號為中和區員山段308（分割增加308-1地號）、311（分割增加311-1地號）、320地號",
+    "selfCoverage": "海山神社殘蹟、積穗配水池、防空洞",
+    "addresses": [
+        {
+            "cityName": "新北市",
+            "distName": "中和區",
+            "id": 131585,
+            "caseId": 216,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 315,
+            "address": "中和區員山路455巷員山公園內"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "新北市",
+            "distName": "中和區",
+            "landNoName": "員山段",
+            "cityLandUseTypeName": "保存區",
+            "id": 186639,
+            "caseId": 216,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 315,
+            "landNoId": 6560,
+            "landSerialNo": "308",
+            "cityLandUseTypeId": 7,
+            "area": "",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "新北市",
+            "distName": "中和區",
+            "landNoName": "員山段",
+            "cityLandUseTypeName": "保存區",
+            "id": 186640,
+            "caseId": 216,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 315,
+            "landNoId": 6560,
+            "landSerialNo": "308-1",
+            "cityLandUseTypeId": 7,
+            "area": "",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "新北市",
+            "distName": "中和區",
+            "landNoName": "員山段",
+            "cityLandUseTypeName": "保存區",
+            "id": 186641,
+            "caseId": 216,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 315,
+            "landNoId": 6560,
+            "landSerialNo": "311",
+            "cityLandUseTypeId": 7,
+            "area": "",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "新北市",
+            "distName": "中和區",
+            "landNoName": "員山段",
+            "cityLandUseTypeName": "保存區",
+            "id": 186642,
+            "caseId": 216,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 315,
+            "landNoId": 6560,
+            "landSerialNo": "311-1",
+            "cityLandUseTypeId": 7,
+            "area": "",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "新北市",
+            "distName": "中和區",
+            "landNoName": "員山段",
+            "cityLandUseTypeName": "保存區",
+            "id": 186643,
+            "caseId": 216,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 315,
+            "landNoId": 6560,
+            "landSerialNo": "320",
+            "cityLandUseTypeId": 7,
+            "area": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 143455,
+            "caseId": 216,
+            "caseStatus": true,
+            "registerDate": 1126540800000,
+            "officialDocNo": "北府文資字第0940008172號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.48001301768939,25.004200882360113],[121.47957080968219,25.004013659669596],[121.47947269932877,25.004042344283825],[121.47930650344688,25.004223511998067],[121.47878319971657,25.00445926087969],[121.47885947392676,25.004812727424703],[121.47899490025861,25.00493154991716],[121.48001301768939,25.004200882360113],[121.48001301768939,25.004200882360113]]]]},\"properties\":{\"envelope\":{\"left\":\"121.47878319971657\",\"top\":\"25.004013659669596\",\"right\":\"121.48001301768939\",\"bottom\":\"25.00493154991716\"},\"landLot\":\"新北市中和區員山段308\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.48017702932002,25.004270321319932],[121.48001301768939,25.004200882360113],[121.47899490025861,25.00493154991716],[121.47885947392676,25.004812727424703],[121.47887721215281,25.00489492780418],[121.47889636047164,25.004912044058063],[121.4789705336756,25.00492741042177],[121.4790273678603,25.004947191392354],[121.47937108685895,25.0047194579407],[121.47939032571298,25.004697095446584],[121.47940968007765,25.00469377570192],[121.47999774914132,25.004302888590527],[121.48017702932002,25.004270321319932],[121.48017702932002,25.004270321319932]]]]},\"properties\":{\"envelope\":{\"left\":\"121.47885947392676\",\"top\":\"25.004200882360113\",\"right\":\"121.48017702932002\",\"bottom\":\"25.004947191392354\"},\"landLot\":\"新北市中和區員山段308-1\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.47878319971657,25.00445926087969],[121.47874462166806,25.004436471548793],[121.47873296104007,25.004396573857285],[121.47839074507361,25.004309271020173],[121.47839723327522,25.004351506519864],[121.47840695393072,25.004415687237902],[121.47885947392676,25.004812727424703],[121.47878319971657,25.00445926087969],[121.47878319971657,25.00445926087969]]]]},\"properties\":{\"envelope\":{\"left\":\"121.47839074507361\",\"top\":\"25.004309271020173\",\"right\":\"121.47885947392676\",\"bottom\":\"25.004812727424703\"},\"landLot\":\"新北市中和區員山段311\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.47887721215281,25.00489492780418],[121.47885947392676,25.004812727424703],[121.47840695393072,25.004415687237902],[121.47843472212116,25.004599041381173],[121.47888044139692,25.00490988792335],[121.47887721215281,25.00489492780418],[121.47887721215281,25.00489492780418]]]]},\"properties\":{\"envelope\":{\"left\":\"121.47840695393072\",\"top\":\"25.004415687237902\",\"right\":\"121.47888044139692\",\"bottom\":\"25.00490988792335\"},\"landLot\":\"新北市中和區員山段311-1\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.47957080968219,25.004013659669596],[121.47928693258271,25.003893471639763],[121.47874157972869,25.00378067840983],[121.4785343930814,25.0038705651323],[121.47849233633434,25.004049413136308],[121.47841195950745,25.00392367899284],[121.47836053361965,25.003945984178465],[121.47843519494268,25.004016946550955],[121.4784466636072,25.00406358893287],[121.47839074507361,25.004309271020173],[121.47873296104007,25.004396573857285],[121.47874462166806,25.004436471548793],[121.47878319971657,25.00445926087969],[121.47930650344688,25.004223511998067],[121.47947269932877,25.004042344283825],[121.47957080968219,25.004013659669596],[121.47957080968219,25.004013659669596]]]]},\"properties\":{\"envelope\":{\"left\":\"121.47836053361965\",\"top\":\"25.003780678409829\",\"right\":\"121.47957080968219\",\"bottom\":\"25.004459260879688\"},\"landLot\":\"新北市中和區員山段320\"}}],\"notfound\":[]}]",
+    "openVisitType": "完全開放參觀",
+    "openUpTime": "全天開放",
+    "isCharge": false,
+    "pastHistorySource": "臺北縣縣定古蹟海山神社殘蹟、中和瑞穗配水池調查研究及修復計畫"
+}

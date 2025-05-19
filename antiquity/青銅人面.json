@@ -1,0 +1,107 @@
+{
+    "id": 4186,
+    "caseId": "20090508000003",
+    "count": 271,
+    "shareCount": 0,
+    "representImage": 7106,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36603/photo/42f95769-77d1-4a8e-8687-9172f4c1c904_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36603/photo/42f95769-77d1-4a8e-8687-9172f4c1c904.jpg",
+        "name": "42f95769-77d1-4a8e-8687-9172f4c1c904"
+    },
+    "caseName": "青銅人面",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1241712000000,
+    "officialDocNo": "會授資籌二字第0982105246號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "這是目前殷墟出土遺物中，唯一一件的青銅人面。形象十分寫實，額短狹、顴寛扁、肥腮、圓頜，頂部有一環以供懸掛，背面之眼、耳、鼻處的背部鑄接六管，可知非一般的面具。此件人臉部的形象，與現今所知的蒙古人種極為相似。具有重要歷史、文化、科學、藝術價值。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第4條第1項第1、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "南港區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "R001116",
+    "keepNameId": 5,
+    "keepName": "中央研究院歷史語言研究所",
+    "keepNameNew": 5,
+    "keepAddressNew": "115台北市南港區研究院路二段130號",
+    "saveSpaceId": 11,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "商（後期）",
+    "descCreator": "1935年河南安陽西北崗墓1400出",
+    "descSize": "通長25.3公分、寬23.5公分",
+    "descMaterial": "青銅",
+    "reserveStatusDesc": "頂有一環，為懸掛之用，兩耳特痕\n除口外，眼耳鼻六孔俱透過後成一長筒形，正面略凸，後面則凹入甚深。\n環與內部相接處部份有補痕，疑為古代所補。",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "1930年代；西北崗墓1400",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 53961,
+            "name": "20090508公告.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-01-09/28842515-bc98-4b73-b54d-e0d742911351/20090508公告.jpg"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "中央研究院歷史語言研究所",
+    "keepNames": [
+        {
+            "keepNameIdStr": "中央研究院歷史語言研究所",
+            "keepName": "中央研究院歷史語言研究所",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "中央研究院歷史語言研究所",
+            "keepAddressNew": "115台北市南港區研究院路二段130號",
+            "saveSpaceIdStr": "研究設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "南港區",
+            "keepNameAddress": "研究院路二段130號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "南港區",
+            "id": 4328,
+            "caseId": 4186,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 111
+        }
+    ],
+    "announces": [
+        {
+            "id": 4328,
+            "caseId": 4186,
+            "caseStatus": true,
+            "registerDate": 1241712000000,
+            "officialDocNo": "會授資籌二字第0982105246號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

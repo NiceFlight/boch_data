@@ -1,0 +1,105 @@
+{
+    "id": 17361,
+    "caseId": "20200219000010",
+    "count": 196,
+    "shareCount": 0,
+    "representImage": 66153,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-02-15/864e1bb6-49f6-4ac9-ba90-203c51515957/07 (1)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-02-15/864e1bb6-49f6-4ac9-ba90-203c51515957/07 (1).jpg",
+        "name": "07 (1)"
+    },
+    "caseName": "捕鳥人",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1581305089476,
+    "officialDocNo": "中華民國109年2月10日北市獻編字第1093001230號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "1.\t反映生動寫實的19世紀末到20世紀初日本藝術，具有日本生活的時代特色。\n2.\t人物寫真所掛之捕具雕刻細膩，形象生動傳神，工藝造詣深。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第3、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "10846臺北市萬華區中華路1段174之1號",
+    "reservationCode": "典藏07",
+    "amount": 1,
+    "descAge": "日本明治時期",
+    "descSize": "高24公分(含座)",
+    "descMaterial": "象牙",
+    "reserveStatusDesc": "作品以捕鳥人為主題，中年男子頭戴斗笠，身著輕便服飾，腰間繫網袋，袋內有補捉到的小鳥，後背籐籃，右手持長棍，左手緊捉鳥兒，抬頭仰望天空，似在觀察其他可捉的鳥兒，站立於木座上。木座雕琢成樹樁造型，側邊有一方形小開光，鑲嵌象牙「互道」款。\n\n整體體量碩大，用料甚巨。藝術家雕琢細膩，將捕鳥人神情專注、殷切渴望再捕得鳥兒的表情刻劃傳神。其餘細節亦分毫不差，斗笠細密編織的紋理、服裝布料光滑柔順的質感都在藝術家的巧手下鉅細靡遺的呈現，更令人感到驚奇的，是在那以精湛技巧鏤雕的網袋中，竟還有鳥兒置身其中，如此精巧的細節著實令人讚嘆不已。日本明治時代藝術家追求完美、極緻的敬業精神，非常值得現代的藝術家揣摩參考。",
+    "pastHistorySource": 1,
+    "saveEnvironment": 1,
+    "reserveStatus": "保存良好",
+    "documents": [
+        {
+            "fileid": 66154,
+            "name": "臺北市立文獻館公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-02-15/a2877463-109f-4720-bd7c-7427b0ec7637/臺北市立文獻館公告.pdf"
+        },
+        {
+            "fileid": 66155,
+            "name": "臺北市一般古物指定公告表_捕鳥人.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-02-15/87be7e02-2c0c-4eb2-9e65-bcc869627f3b/臺北市一般古物指定公告表_捕鳥人.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.514004,
+    "latitude": 25.03414,
+    "representImageSource": "申請人提供",
+    "keepNames": [
+        {
+            "keepNameIdStr": "郭○穎",
+            "keepName": "郭芝穎",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "郭○穎",
+            "keepAddressNew": "台北市中正區重慶南路二段15號7樓",
+            "saveSpaceOther": "庫房",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "大安區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 10977,
+            "caseId": 17361,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 11064,
+            "caseId": 17361,
+            "caseStatus": true,
+            "registerDate": 1581305089476,
+            "officialDocNo": "中華民國109年2月10日北市獻編字第1093001230號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

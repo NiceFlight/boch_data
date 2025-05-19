@@ -1,0 +1,103 @@
+{
+    "id": 16039,
+    "caseId": "20180807000001",
+    "count": 4329,
+    "shareCount": 14,
+    "representImage": 185411,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/0586a10d-cd5e-4701-b165-0a7e562033cc/復興武德精神堡壘_20220804_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/0586a10d-cd5e-4701-b165-0a7e562033cc/復興武德精神堡壘_20220804.jpg",
+        "name": "復興武德精神堡壘_20220804"
+    },
+    "caseName": "復興武德精神堡壘",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "建物建於1955年，象徵政戰學校復興武德之精神。",
+    "assetsTypeNames": "碑碣",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 49407,
+            "name": "1070713公告-國民革命軍陣亡政工人員紀念碑及復興武德精神堡壘為歷史建築.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-08-07/620de49a-293a-4e17-a551-243957d60a56/1070713公告-國民革命軍陣亡政工人員紀念碑及復興武德精神堡壘為歷史建築.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者"
+    ],
+    "registerReason": "1.建於民國45年，由蔣中正先生題字，為政治作戰學校各項重大場合合影之地標，象徵政戰學校復興武德之精神。\n2.精神堡壘設計具特色，背景為大屯山系，環境優美，且與國民革命軍陣亡政工人員紀念碑成一軸線，成為復興崗的兩大標幟。\n",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 49412,
+            "name": "地籍圖-復興武德精神堡壘.docx",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2018-08-07/f82c5d7a-d27b-4858-a1b2-a468b480c676/地籍圖-復興武德精神堡壘.docx"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "北投區秀山段二小段883-2地號",
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isCharge": false,
+    "longitude": 121.4915912,
+    "latitude": 25.1395051,
+    "representImageSource": "臺北市文化局",
+    "landScope": "北投區秀山段二小段883-2地號1筆，面積1,273.96㎡",
+    "selfCoverage": "精神堡壘本體、基座及階梯",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "id": 92640,
+            "caseId": 16039,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "address": "中央北路二段70號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "landNoName": "秀山段二小段",
+            "id": 113183,
+            "caseId": 16039,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 109,
+            "landNoId": 676,
+            "landSerialNo": "885",
+            "landownership": 1,
+            "coverageId": 1,
+            "area": "1,273.96平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 99934,
+            "caseId": 16039,
+            "caseStatus": true,
+            "registerDate": 1531411200000,
+            "officialDocNo": "北市文化文資字第10760156541號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

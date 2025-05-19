@@ -1,0 +1,111 @@
+{
+    "id": 4134,
+    "caseId": "20110422000058",
+    "count": 209,
+    "shareCount": 0,
+    "representImage": 7052,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/35183/photo/d7d3ae4f-4e7c-4835-97b2-feee75b43536_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/35183/photo/d7d3ae4f-4e7c-4835-97b2-feee75b43536.JPG",
+        "name": "d7d3ae4f-4e7c-4835-97b2-feee75b43536"
+    },
+    "caseName": "王十朋書劄子（宋人法書三冊20）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1303401600000,
+    "officialDocNo": "會授資籌二字10020040353號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事重要淵源",
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "王十朋為南宋文學家，此札寫與宰相張俊，是具史料價值的南宋尺牘。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第一、二、三、四、五、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故書00024500020",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descSize": "30.3 x 73.6 公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "王十朋（1112-1171）是南宋早期的文學大家，兼擅經學，尤重將儒學經術貫徹到起居生活之中。隆興初年出知江西饒州時，他曾將官邸寓舍取名為「不欺室」，勉勵自己能片刻不離正道。除請宰相張浚撰寫室銘，又廣邀同儕題跋作詩，本劄的收受人即為其中之一。但此人寫作喜用佛家術語，與十朋平日拒談佛、老的立場正相牴觸，遂引來十朋的嚴辭撻伐，至以「異端」一詞來指斥當時沉溺於佛、老之學的儒士。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "汚漬、傷補、霉傷、折痕。有損傷但狀況穩定。",
+    "documents": [
+        {
+            "fileid": 16432,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2017-11-06/9a478997-2636-490b-94ff-995c516c6e62/公告.pdf"
+        },
+        {
+            "fileid": 152147,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-28/713f4473-132a-4590-a3d3-bb79391a3622/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71681,
+            "caseId": 4134,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 76156,
+            "caseId": 4134,
+            "caseStatus": true,
+            "registerDate": 1303401600000,
+            "officialDocNo": "會授資籌二字10020040353號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

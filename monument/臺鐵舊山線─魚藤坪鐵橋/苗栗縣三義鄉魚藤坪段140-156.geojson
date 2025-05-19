@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "苗栗縣三義鄉魚藤坪段140-156"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

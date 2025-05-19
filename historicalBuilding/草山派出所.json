@@ -1,0 +1,116 @@
+{
+    "id": 2073,
+    "caseId": "20150622000001",
+    "count": 2741,
+    "shareCount": 4,
+    "representImage": 162537,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/97763d9d-12c7-4641-87e9-10e99f924b7e/de18f4b5-b9c4-4a3b-9c15-4e577a5b2d4f_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/97763d9d-12c7-4641-87e9-10e99f924b7e/de18f4b5-b9c4-4a3b-9c15-4e577a5b2d4f.JPG",
+        "name": "de18f4b5-b9c4-4a3b-9c15-4e577a5b2d4f"
+    },
+    "caseName": "草山派出所",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "建物落成於日據時期（西元1934年），周邊有草山御賓館、原草山公共浴場等重要建築，為日據時期該地區之管理單位",
+    "assetsTypeNames": "衙署",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 162538,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/35292394-188f-4691-a03c-3c037e5bc339/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1、草山派出所落成於日據時期（西元1934年），周邊有草山御賓館、原草山公共浴場等重要建築，為日據時期該地區之管理單位，有其重要意義。\r\n2、建物外觀造型比例良好，前有小雨庇及雙栓，後段為木造宿舍，建物帶有「和洋混合風格」。\r\n3、符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、3、4款評定基準。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、3、4款評定基準。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 162539,
+            "name": "c84455af-d8e8-42e9-ba5a-13308e6550e7.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/9b24b66b-6191-4bb1-a167-67f6f3e5e52c/c84455af-d8e8-42e9-ba5a-13308e6550e7.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "陽明山國家公園區",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市士林區力行段二小段301地號（部分）。（實際保存面積須以保存範圍實測數據為準）",
+    "buildingFeatures": "建物外觀帶有和洋混合風格",
+    "inHouseFeatures": "",
+    "buildingUsage": "建物暫無使用",
+    "buildingActualState": "部分損壞",
+    "buildingKeyMaintainItem": "保存範圍：全棟保存",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.5501788,
+    "latitude": 25.1505202,
+    "representImageSource": "文化局",
+    "landScope": "臺北市士林區力行段二小段301地號（部分）。（實際保存面積須以保存範圍實測數據為準）",
+    "selfCoverage": "實際保存面積須以保存範圍實測數據為準",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 78344,
+            "caseId": 2073,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "陽明路1段66號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "力行段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 82815,
+            "caseId": 2073,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 591,
+            "landSerialNo": "301",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "4717.47平方公尺",
+            "cityLandUseTypeOther": "陽明山國家公園區",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 84032,
+            "caseId": 2073,
+            "caseStatus": true,
+            "registerDate": 1434902400000,
+            "officialDocNo": "北市文化文資字第10430411100 號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

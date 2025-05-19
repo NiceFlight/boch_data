@@ -1,0 +1,219 @@
+{
+    "id": 19420,
+    "caseId": "20210625000002",
+    "count": 3416,
+    "shareCount": 3,
+    "representImage": 167890,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/56f7d953-02dc-4476-9230-4db1d82a5241/IMG_4165_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/56f7d953-02dc-4476-9230-4db1d82a5241/IMG_4165.jpeg",
+        "name": "IMG_4165"
+    },
+    "caseName": "博愛路4、6、8號店屋",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "1927-1931年京町改築計畫之建物，立面保有四柱三窗形式，並延續博愛路街屋意象，具歷史意義。",
+    "assetsTypeNames": "商店",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 120598,
+            "name": "古蹟公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/dcc5f272-1d65-4127-aaae-ce5b4e56ffa1/古蹟公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具高度歷史、藝術或科學價值者",
+        "具稀少性，不易再現者"
+    ],
+    "registerReason": "1.本建物鄰近北門、鐵道部、臺北郵局、撫臺街洋樓等古蹟，形構北門城內都市發展紋理。\n2.1927-1931年京町改築計畫之建物，立面保有四柱三窗形式，並延續博愛路街屋意象，具歷史意義。",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 120599,
+            "name": "公告示意圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/8d3b569d-681a-44ff-9cfd-e19643fffea8/公告示意圖.pdf"
+        }
+    ],
+    "bulkTransfer": 1,
+    "longitude": 121.51112680514423,
+    "latitude": 25.04681940558158,
+    "representImageSource": "臺北市文化局",
+    "landScope": "中正區城中段一小段361、364、365、366、367、368、369號7筆土地",
+    "selfCoverage": "博愛路4、6、8號建築本體",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 93990,
+            "caseId": 19420,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "博愛路4號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 93991,
+            "caseId": 19420,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "博愛路6號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 93992,
+            "caseId": 19420,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "博愛路8號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "城中段一小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 115683,
+            "caseId": 19420,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 146,
+            "landSerialNo": "361",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "area": "58",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "城中段一小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 115684,
+            "caseId": 19420,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 146,
+            "landSerialNo": "364",
+            "landownership": 1,
+            "cityLandUseTypeId": 2,
+            "area": "17",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "城中段一小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 115685,
+            "caseId": 19420,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 146,
+            "landSerialNo": "365",
+            "landownership": 1,
+            "cityLandUseTypeId": 2,
+            "area": "31",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "城中段一小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 115686,
+            "caseId": 19420,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 146,
+            "landSerialNo": "366",
+            "landownership": 1,
+            "cityLandUseTypeId": 2,
+            "area": "17",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "城中段一小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 115687,
+            "caseId": 19420,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 146,
+            "landSerialNo": "367",
+            "landownership": 1,
+            "cityLandUseTypeId": 2,
+            "area": "17",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "城中段一小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 115688,
+            "caseId": 19420,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 146,
+            "landSerialNo": "368",
+            "landownership": 1,
+            "cityLandUseTypeId": 2,
+            "area": "40",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "城中段一小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 115689,
+            "caseId": 19420,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 146,
+            "landSerialNo": "369",
+            "landownership": 1,
+            "cityLandUseTypeId": 2,
+            "area": "18",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 101452,
+            "caseId": 19420,
+            "caseStatus": true,
+            "registerDate": 1623081600000,
+            "officialDocNo": "北市文化文資字第11030271301",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "openVisitType": ""
+}

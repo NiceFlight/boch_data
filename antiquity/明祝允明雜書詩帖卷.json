@@ -1,0 +1,101 @@
+{
+    "id": 3519,
+    "caseId": "20130613000001",
+    "count": 410,
+    "shareCount": 0,
+    "representImage": 6149,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7406/photo/明祝允明雜書詩帖卷_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7406/photo/明祝允明雜書詩帖卷.jpg",
+        "name": "明祝允明雜書詩帖卷"
+    },
+    "caseName": "明祝允明雜書詩帖卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1371052800000,
+    "officialDocNo": "文資局物字第10220064921號",
+    "judgeCriteria": [
+        "具有特殊藝術造詣或科學成就",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "此卷抄錄曹植古詩四首，寫於「冬日烈風」，然祝允明對自己的表現卻很滿意，認為可追摹一千五百年前的「草聖」張芝。\r\n全卷率意自然，不加修飾，狂放的外觀下卻有著嚴謹的法度與高度的掌控，憑藉著收放自如的書寫技巧與豐富的書學修為，此作確實達到了神融筆暢的書寫境界。\r\n本卷文為祝允明生平草書傑作，也代表吳門書派與明代草書的成就，具特殊藝術及書法史研究價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第4條第四、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故書000097",
+    "amount": 1,
+    "descAge": "明",
+    "descCreator": "",
+    "descSize": "36.2 x 1154.7（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "此卷抄錄曹植古詩四首，寫於「冬日烈風」，然祝允明對自己的表現卻很滿意，認為可追摹一千五百年前的「草聖」張芝。通篇用筆俐落，鋒勢勁銳，輕重徐急變化大，結體攲正疏密，化線為點，以簡馭繁，加上筆勢的縱橫使轉，大大強化了畫面的變化性與節奏感。全卷率意自然，不加修飾，狂放的外觀下卻有著嚴謹的法度與高度的掌控，憑藉著收放自如的書寫技巧與豐富的書學修為，此作確實達到了神融筆暢的書寫境界。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "上方舊水漬圈連串，全幅滿遍霉傷、淡墨，右上角缺補。包首：內部天杆修補，兩邊有細裂紋，外部絹磨損，內部漬斑。",
+    "documents": [
+        {
+            "fileid": 150429,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-17/e4192349-50f8-4fb9-953e-0358845faf5e/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70954,
+            "caseId": 3519,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 75232,
+            "caseId": 3519,
+            "caseStatus": true,
+            "registerDate": 1371052800000,
+            "officialDocNo": "文資局物字第10220064921號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

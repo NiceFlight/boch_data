@@ -1,0 +1,97 @@
+{
+    "id": 22041,
+    "caseId": "20230915000003",
+    "count": 189,
+    "shareCount": 1,
+    "representImage": 231305,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-09-15/5bcefc5e-2487-4c6f-9bf7-3813dc11b9f7/photo2_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-09-15/5bcefc5e-2487-4c6f-9bf7-3813dc11b9f7/photo2.jpg",
+        "name": "photo2"
+    },
+    "caseName": "萬壽宮下馬碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物,藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就",
+        "數量稀少者"
+    ],
+    "registerReason": "1. 具有地方重要人物或歷史事件之深厚淵源者：萬壽宮原建物已不存，「萬壽宮下馬碑」及「恭修萬壽宮碑記暨圖碑」同為見證萬壽宮歷史的重要文物。\n2. 能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者：為目前已知臺灣現存四件下馬碑之一，反映傳統儒家思想之禮制觀念。\n3. 具有藝術造詣或科學成就：本碑為漢滿文並列，文字以陽刻工藝刻成，字體鐫刻精美工整。\n4. 數量稀少者：臺灣目前已知僅存四件下馬碑，具稀有性，且是唯一以陽刻工藝鐫刻之下馬碑。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第2、3、4、5款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "govInstitution": "臺南市文化局",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213-569#605",
+    "govDeptAddress": "700臺南市中西區中正路5巷1號3樓",
+    "reservationCode": "0-930",
+    "amount": 1,
+    "descAge": "1765年或1777年",
+    "descSize": "長145cm、寬33cm、厚6.5cm〜9cm，底部梯形榫接結 構上寬23cm、下窄19.5cm、高4cm。",
+    "descMaterial": "花崗岩",
+    "reserveStatusDesc": "萬壽宮是清代府城文武官員於歲時慶賀時向北遙拜行君臣之禮的場所，下馬碑用以維持萬壽宮入口的淨空，呈現尊崇的空間，反映傳統儒家思想之禮制觀念。萬壽宮原建物現已不存，「萬壽宮下馬碑」及「恭修萬壽宮碑記暨圖碑」同為見證萬壽宮歷史的重要文物。此碑陽刻「文武官員軍民人等至此下馬」與滿文「ᠪᡳᡨ᠌ᡥᡝ ᠴᠣᠣᡥᠠᡳ ᡥᠠᡶᠠᠰᠠ ᠴᠣᠣᡥᠠ ᡳᡵᡤᡝᠨ ᡳ ᡠᡵᠰᡝ ᡠᠪᠠᡩᡝ ᠵᡳᡶᡳ ᠮᠣᡵᡳᠨ ᠴᡳ ᡝᠪᡠ」，為臺灣現存四件下馬碑之一，亦是唯一以陽刻工藝鐫刻者。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "1937年，臺南市立歷史館（今中西區區公所）",
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定",
+    "documents": [
+        {
+            "fileid": 231302,
+            "name": "109公告-下馬碑.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-09-15/99e36d58-8fda-4974-98ee-43d9fbd2e6c2/109公告-下馬碑.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "臺南市立博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "臺南市立博物館",
+            "keepName": "謝蕙蕙",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺南市柳營區共同典藏庫房",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "研究設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "柳營區",
+            "id": 114829,
+            "caseId": 22041,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1632,
+            "address": "共同典藏庫房"
+        }
+    ],
+    "announces": [
+        {
+            "id": 125061,
+            "caseId": 22041,
+            "caseStatus": true,
+            "registerDate": 1693886530602,
+            "officialDocNo": "南市文資字第1121122864A 號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

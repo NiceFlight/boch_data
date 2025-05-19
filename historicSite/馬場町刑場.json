@@ -1,0 +1,96 @@
+{
+    "id": 17465,
+    "caseId": "20200306000001",
+    "count": 6379,
+    "shareCount": 7,
+    "representImage": 168141,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/202b8e64-3f8c-4b93-8ecf-19460d6736c0/代表圖像_馬場町刑場_20220602_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/202b8e64-3f8c-4b93-8ecf-19460d6736c0/代表圖像_馬場町刑場_20220602.jpeg",
+        "name": "代表圖像_馬場町刑場_20220602"
+    },
+    "caseName": "馬場町刑場",
+    "classifyCode": "3.2",
+    "classifyName": "史蹟",
+    "assetsTypeNames": "災難場所",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "3.2.1",
+    "assetsClassifyName": "史蹟",
+    "documents": [
+        {
+            "fileid": 66836,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-03-06/acdbf719-9c22-4d5c-b84d-210675e065eb/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具有遺跡或史料佐證曾發生歷史上重要事件者"
+    ],
+    "registerReason": "1.馬場町刑場原址為日本陸軍所設立之「臺北練兵場」，為步兵操練與騎兵學習馬術的場所，本區因此而得名，後改為飛行場。\n2.1950年代初期為槍決政治犯的刑場，於此槍決的人數難以考證，推測是執行最多政治犯死刑之處，約於1954年停止使用。\n3.2000年改建為「馬場町紀念公園」，園內中心為紀念丘，土丘前立有碑文。",
+    "lawsReference": "<<史蹟登錄及廢止審查辦法>>第2條第1項第2款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 9,
+    "nonCityLandUseTypeName": "河川區",
+    "nonLandUseOtherType": "",
+    "historyValue": "1.馬場町刑場原址為日本陸軍所設立之「臺北練兵場」，為步兵操練與騎兵學習馬術的場所，本區因此而得名，後改為飛行場。\n2.1950年代初期為槍決政治犯的刑場，於此槍決的人數難以考證，推測是執行最多政治犯死刑之處，約於1954年停止使用。\n3.2000年改建為「馬場町紀念公園」，園內中心為紀念丘，土丘前立有碑文。",
+    "briefDescribe": " 2000年改建為「馬場町紀念公園」，園內中心為紀念丘，土丘前立有碑文。",
+    "isOpenDownload": false,
+    "longitude": 121.5040613336428,
+    "latitude": 25.01913889659925,
+    "representImageSource": "臺北市文化局",
+    "landScope": "青年段二小段1地號。",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "id": 84442,
+            "caseId": 17465,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "address": "馬場町紀念公園"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "landNoName": "青年段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 96511,
+            "caseId": 17465,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "landNoId": 150,
+            "landSerialNo": "1",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "69362平方公尺",
+            "cityLandUseTypeOther": "河川區",
+            "note": "-",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 90727,
+            "caseId": 17465,
+            "caseStatus": true,
+            "registerDate": 1583424000000,
+            "officialDocNo": "2020/03/06",
+            "classificationId": 1,
+            "note": "登錄史蹟"
+        }
+    ]
+}

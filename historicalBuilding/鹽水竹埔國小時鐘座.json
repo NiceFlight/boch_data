@@ -1,0 +1,119 @@
+{
+    "id": 1700,
+    "caseId": "20090511000004",
+    "count": 1903,
+    "shareCount": 2,
+    "representImage": 158629,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-04-08/cd962c3a-5aba-4e37-96fa-dedef9586f95/歷028鹽水竹埔國小時鐘座_P001_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-04-08/cd962c3a-5aba-4e37-96fa-dedef9586f95/歷028鹽水竹埔國小時鐘座_P001.jpg",
+        "name": "歷028鹽水竹埔國小時鐘座_P001"
+    },
+    "caseName": "鹽水竹埔國小時鐘座",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "時鐘座",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1242011905000,
+    "officialDocNo": "府文資字第0980110108 號",
+    "documents": [
+        {
+            "fileid": 158615,
+            "name": "鹽水竹埔國小時鐘座公告98.5.11.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-08/ac082c69-9b8e-41e4-a649-4fe7613c5749/鹽水竹埔國小時鐘座公告98.5.11.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "1、為原臺南縣唯二之時鐘座，具稀少性。\n2、時鐘座對聯為鹽份地帶書法家王英雄所篆，具有與當地文化結合之意義。\n3、此時鐘座原貌猶存，雖歷任校長輪調，仍能保留下來，誠屬可貴，兼具創校及校友紀念之歷史意義。",
+    "lawsReference": "文化資產保存法第15條",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "鹽水區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569 ",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 142281,
+            "name": "鹽水竹埔國小時鐘座地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-11-02/3f879a17-495b-4af1-b304-06c78a8f53a2/鹽水竹埔國小時鐘座地籍圖.jpg"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 2,
+    "nonCityLandUseTypeName": "一般農業區",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "鹽水區南竹子腳段384-11地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "belongAddress": "鹽水鎮竹埔裏92之1號",
+    "isOpenVisit": false,
+    "openUpTime": "請洽竹埔國小",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.246360251703,
+    "latitude": 23.2671186051659,
+    "representImageSource": "臺南市政府",
+    "landScope": "臺南市鹽水區南竹子腳段384-11地號",
+    "selfCoverage": "時鐘座",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "鹽水區",
+            "id": 75583,
+            "caseId": 1700,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1633,
+            "address": "竹埔里92之1號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺南市",
+            "distName": "鹽水區",
+            "landNoName": "南竹子脚段",
+            "id": 76369,
+            "caseId": 1700,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1633,
+            "landNoId": 2631,
+            "landSerialNo": "384-11",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 80810,
+            "caseId": 1700,
+            "caseStatus": true,
+            "registerDate": 1242011905000,
+            "officialDocNo": "府文資字第098011010 號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"臺南市鹽水區南竹子腳段384-11\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": ""
+}

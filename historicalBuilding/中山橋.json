@@ -1,0 +1,96 @@
+{
+    "id": 1009,
+    "caseId": "20040105000001",
+    "count": 2906,
+    "shareCount": 0,
+    "representImage": 169650,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/47b6558d-4982-4135-ae05-8ab9d75d88c0/4bc7c6a4-4bd4-48e1-8896-55de4f135798_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/47b6558d-4982-4135-ae05-8ab9d75d88c0/4bc7c6a4-4bd4-48e1-8896-55de4f135798.jpg",
+        "name": "4bc7c6a4-4bd4-48e1-8896-55de4f135798"
+    },
+    "caseName": "中山橋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "橋墩採一大二小、三孔拱型設計，橋上的欄杆原係用日本德川產的花崗石砌成，兩側四盞青銅質橋燈，係為典雅優美之橋樑。惟因本橋涉及造成水患因素，故以尊重文化資產角度，及兼顧人民性命財產安全的態度，作為本案處理方式。因此本橋以遷建方式保存，並於九十二年四月三十日完成拆卸，拆卸下來的構建共計435單元，並暫存於再春游泳池舊址。",
+    "assetsTypeNames": "橋樑",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 169651,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/648eb4b6-8577-44ee-84a3-69c2ab877b50/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "1933年完工時是一座全長120公尺的鋼筋混凝土拱橋，為當時臺灣唯一鋼筋混凝土構造之橋樑，橋上的欄杆係用日本德川產的花崗石砌成。兩側四盞青銅質橋燈，為當時臺北最典雅優美的橋樑，故其整座橋體極具保存價值。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 169652,
+            "name": "5644c641-0d8a-4574-88c8-2f28a7419e4f.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/0df4e7f5-532e-4440-b083-7e40bfcec518/5644c641-0d8a-4574-88c8-2f28a7419e4f.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "(尚未找到重組地點)",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "橋體置放於再春游泳池舊址。",
+    "buildingActualState": "拆卸435塊橋體目前置放於基隆河畔再春游泳池舊址。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenVisit": false,
+    "openUpTime": "",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.5232252,
+    "latitude": 25.0693667,
+    "representImageSource": "文化局",
+    "landScope": "原位置：中山北路三段橫跨基隆河接中山北路四段",
+    "selfCoverage": "整座橋以原構建重組異地重建方式保存。",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中山區",
+            "id": 83153,
+            "caseId": 1009,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 103,
+            "address": "中山北路三段橫跨基隆河接中山北路四段（整座橋以原構件重組異地重建方式保存）"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 89358,
+            "caseId": 1009,
+            "caseStatus": true,
+            "registerDate": 1073232000000,
+            "officialDocNo": "府文化二字第09200526100號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

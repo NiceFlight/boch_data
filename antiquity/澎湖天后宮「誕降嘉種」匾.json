@@ -1,0 +1,99 @@
+{
+    "id": 17342,
+    "caseId": "20200207000003",
+    "count": 578,
+    "shareCount": 0,
+    "representImage": 65801,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-02-07/2f889efe-a97d-424d-868e-8c0e3792462f/IMG_0644_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-02-07/2f889efe-a97d-424d-868e-8c0e3792462f/IMG_0644.jpg",
+        "name": "IMG_0644"
+    },
+    "caseName": "澎湖天后宮「誕降嘉種」匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1570605941009,
+    "officialDocNo": "中華民國108年10月9日府授文博字第1083703358號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色"
+    ],
+    "registerReason": "1、具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：澎湖宮廟正殿左神龕普遍供奉註生娘娘，天后宮則以「育麟宮」祀有註生娘娘和十二婆姐，本地人多稱註生娘娘為「註生媽」，此匾懸於神龕上，對於前來求子的婦女信眾，「誕降嘉種」是為吉兆，亦可見證信仰和民間養兒育女的風俗。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00646-P-106-0014",
+    "amount": 1,
+    "descAge": "大正乙丑季秋",
+    "descSize": "寬約120公分",
+    "descMaterial": "木",
+    "reserveStatusDesc": "橫長形木匾，匾面黑，似有拼接，字皆陰刻白描勾邊，中行題「誕降嘉種」，字有破鋒，上下款為嵌板，上款「大正乙丑季秋　吉旦」，下款「東山信士朱迺禎率孫　世恭　世儉　仝叩謝」。背似有榫自頂凸出。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": " 時間:大正乙丑季秋； 捐贈者：東山信士朱迺禎率孫　世恭　世儉　仝叩謝",
+    "saveEnvironment": 2,
+    "reserveStatus": "澎湖天后宮育麟宮神龕上方",
+    "documents": [
+        {
+            "fileid": 106541,
+            "name": "澎湖天后宮「誕降嘉種」匾公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-04-20/b6912372-83b5-42da-b2cf-69edaeca9a06/澎湖天后宮「誕降嘉種」匾公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.564038,
+    "latitude": 23.564693,
+    "representImageSource": "澎湖縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "澎湖天后宮",
+            "keepName": "蔡光明",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "澎湖天后宮",
+            "keepAddressNew": "澎湖縣馬公市中央里正義街1號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 127641,
+            "caseId": 17342,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "中央里正義街1號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 138563,
+            "caseId": 17342,
+            "caseStatus": true,
+            "registerDate": 1570605941009,
+            "officialDocNo": "府授文博字第1083703358號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

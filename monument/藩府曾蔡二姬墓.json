@@ -1,0 +1,112 @@
+{
+    "id": 587,
+    "caseId": "19850819000073",
+    "count": 2703,
+    "shareCount": 1,
+    "representImage": 283816,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2025-04-22/bdb66ea8-f9b6-46b0-a87e-ba1b052f9f2f/古038藩府曾蔡二姬墓_P004_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2025-04-22/bdb66ea8-f9b6-46b0-a87e-ba1b052f9f2f/古038藩府曾蔡二姬墓_P004.jpg",
+        "name": "古038藩府曾蔡二姬墓_P004"
+    },
+    "caseName": "藩府曾蔡二姬墓",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "待修復或再利用計畫完成後填列。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "陵墓",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "registerDate": 493265998000,
+    "officialDocNo": "台內字第338095號",
+    "documents": [
+        {
+            "fileid": 165561,
+            "name": "藩府曾蔡二姬墓公告74.08.19.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-26/b8f550ff-93c4-44f5-800b-44c15e7a9e78/藩府曾蔡二姬墓公告74.08.19.pdf"
+        },
+        {
+            "fileid": 165562,
+            "name": "臺南縣市合併後縣定市定重新公告100.6.24.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-26/286aac8e-25e9-46ff-a9df-e2c944944c56/臺南縣市合併後縣定市定重新公告100.6.24.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具其他古蹟價值者"
+    ],
+    "registerReason": "公告無資料",
+    "lawsReference": "依據行政院文化建設委員會74年7月23日、8月3日(74) 文件壹字第1970、3136號函及文化資產保存法第 27條第一項暨同法施行細則第40條規定辦理。",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "南區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "(06)2213569",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 142223,
+            "name": "藩府曾蔡二姬墓地籍地圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-11-01/9c44fc76-c626-4aa8-940b-8c089933f31f/藩府曾蔡二姬墓地籍地圖.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "南區新都段273地號",
+    "buildingFeatures": "墓為座東向西，全長1032公分，墓寬354公分。花崗石碑高107公分，寬77公分，花崗石上刻有「藩府曾蔡二姬墓」。",
+    "inHouseFeatures": "",
+    "buildingUsage": "墓地、祭祀",
+    "buildingActualState": "本墓周遭除了西北方向有一塊空地(約一坪大小)外，四周均有他墓環境比鄰，且雜草叢生，草密而高，嚴重妨礙景觀與活動。由鄭氏後人清掃、清明時節由文化局會同祭拜。",
+    "buildingKeyMaintainItem": "2001年（民國九十年）進行修護工程已針對古蹟完整修繕，但在日常生活中應隨時維護，本案位處偏僻即濫葬區，且基地位置為私人土地，維護更加不易。建議管理單位定期勘查維護，詳實填寫紀錄。",
+    "bulkTransfer": 0,
+    "belongAddress": "桶盤淺段墓園內",
+    "isOpenDownload": false,
+    "longitude": 120.201638954274,
+    "latitude": 22.9664112925845,
+    "representImageSource": "臺南市政府",
+    "landScope": "公告無資料",
+    "selfCoverage": "公告無資料",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "南區",
+            "id": 148698,
+            "caseId": 587,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1603,
+            "address": "桶盤淺段墓園內"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 161669,
+            "caseId": 587,
+            "caseStatus": true,
+            "registerDate": 493265998000,
+            "officialDocNo": "臺內字第338095號",
+            "classificationId": 1
+        },
+        {
+            "id": 161670,
+            "caseId": 587,
+            "caseStatus": true,
+            "registerDate": 1308844800000,
+            "officialDocNo": "府文資處字第1000393784號",
+            "classificationId": 2,
+            "note": "直轄市升格"
+        }
+    ],
+    "openVisitType": "完全開放參觀",
+    "openUpTime": "全日開放",
+    "isCharge": false,
+    "pastHistorySource": "臺南市第三級古蹟藩府二鄭公子墓、藩府曾蔡二姬墓、曾振暘墓調查研究與修護計劃報告"
+}

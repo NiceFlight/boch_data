@@ -1,0 +1,91 @@
+{
+    "info": [
+        {
+            "code": "5.3.1",
+            "count": 4
+        }
+    ],
+    "rows": [
+        {
+            "id": 20804,
+            "caseName": "傳統手工製茶-鹿谷烏龍茶",
+            "classifyName": "傳統知識與實踐\r\n",
+            "assetsTypeNames": "農林牧",
+            "govInstitutionName": "南投縣政府",
+            "representImage": 212073,
+            "representImageInfo": {
+                "ext": "png",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2023-04-22/285d3ce9-3c7a-4625-b8a1-373c886f7127/蘇文昭藝師_c.png"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2023-04-22/285d3ce9-3c7a-4625-b8a1-373c886f7127/蘇文昭藝師.png",
+                "name": "蘇文昭藝師"
+            },
+            "classifyCode": "5.3",
+            "caseId": "20220619000001",
+            "recorder": "蘇文昭",
+            "belongCity": "南投縣鹿谷鄉"
+        },
+        {
+            "id": 17688,
+            "caseName": "芳苑潮間帶牛車採蚵",
+            "classifyName": "傳統知識與實踐\r\n",
+            "assetsTypeNames": "其他",
+            "govInstitutionName": "彰化縣政府",
+            "representImage": 144941,
+            "representImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2021-11-16/98f44f1f-09ba-4372-83c2-0ccab768d832/芳苑潮間帶牛車採蚵01_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2021-11-16/98f44f1f-09ba-4372-83c2-0ccab768d832/芳苑潮間帶牛車採蚵01.jpg",
+                "name": "芳苑潮間帶牛車採蚵01"
+            },
+            "classifyCode": "5.3",
+            "caseId": "20200723000001",
+            "recorder": "彰化縣西海岸環境教育保護協會",
+            "belongCity": "彰化縣芳苑鄉"
+        },
+        {
+            "id": 17218,
+            "caseName": "臺東新港鏢旗魚",
+            "classifyName": "傳統知識與實踐\r\n",
+            "assetsTypeNames": "漁獵",
+            "govInstitutionName": "臺東縣政府",
+            "representImage": 125516,
+            "representImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-20/ae35b443-d810-4eec-aadb-1f3d4f47352a/傳統知識與實踐01_鏢旗魚-永保 _c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-20/ae35b443-d810-4eec-aadb-1f3d4f47352a/傳統知識與實踐01_鏢旗魚-永保 .jpg",
+                "name": "傳統知識與實踐01_鏢旗魚-永保 "
+            },
+            "classifyCode": "5.3",
+            "caseId": "20191220000004",
+            "recorder": "新港區漁會、江偉全、陳志和、盧旻易",
+            "belongCity": "臺東縣成功鎮"
+        },
+        {
+            "id": 16557,
+            "caseName": "傳統手工製茶-名間埔中茶",
+            "classifyName": "傳統知識與實踐\r\n",
+            "assetsTypeNames": "農林牧",
+            "govInstitutionName": "南投縣政府",
+            "representImage": 212501,
+            "representImageInfo": {
+                "ext": "jpg",
+                "transform": {
+                    "c": "https://data.boch.gov.tw/upload/representImageFile/2023-04-29/5f6224e1-3020-4c03-88bf-34689485e4c1/陳茂淳藝師_c.jpg"
+                },
+                "original": "https://data.boch.gov.tw/upload/representImageFile/2023-04-29/5f6224e1-3020-4c03-88bf-34689485e4c1/陳茂淳藝師.jpg",
+                "name": "陳茂淳藝師"
+            },
+            "classifyCode": "5.3",
+            "caseId": "20190418000001",
+            "recorder": "陳茂淳(歿)",
+            "belongCity": "南投縣"
+        }
+    ],
+    "total": 4
+}

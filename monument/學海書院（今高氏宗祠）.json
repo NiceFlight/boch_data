@@ -1,0 +1,122 @@
+{
+    "id": 128,
+    "caseId": "19850819000017",
+    "count": 4412,
+    "shareCount": 3,
+    "representImage": 141049,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/fdf327f6-1b8a-45ea-9b77-c41d9d87ec2c/B149 台北市 學海書院（今高氏宗祠） (三級)01_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/fdf327f6-1b8a-45ea-9b77-c41d9d87ec2c/B149 台北市 學海書院（今高氏宗祠） (三級)01.JPG",
+        "name": "B149 台北市 學海書院（今高氏宗祠） (三級)01"
+    },
+    "caseName": "學海書院（今高氏宗祠）",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "學海書院係台北市僅存的書院古蹟，為直轄市定古蹟 ，地址在萬華區環河南路二段93號，現屬祭祀公業高惠連所有。學海書院是於清道光十七年〈西元一八三七年〉由淡水同知婁雲創建，惟因事延廢，至道光二十三年〈西元一八四三年〉始由繼任同知曹謹續成之。書院原名艋舺，因覺名稱不雅而稱文甲。道光二十七年〈西元一八四七年〉閩浙總督劉韻珂巡視臺灣，易名學海，並題額曰學海書院。同治三年〈西元一八六四年〉重修。歷任院長中以學名時者，有同知曹士桂，舉人陳維英等。日人治臺標售其地，高姓族人看上這優美的古建築，承購改充宗祠以迄今。但近年環河南路拓寬，門廳乃退縮新建。\n此書院為清季淡北最高學府，同治六年〈西元一八六七年〉所設艋舺義塾及光緒五年〈西元一八七九年〉新置淡水縣儒學亦附設於此。",
+    "assetsTypeNames": "書院",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 141050,
+            "name": "3._740829台閩地區古蹟指定函(1).tif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/547b8fd2-2dd2-43a9-8a1b-9701ca42bae0/3._740829台閩地區古蹟指定函(1).tif"
+        },
+        {
+            "fileid": 141051,
+            "name": "_740829台閩地區古蹟指定函(2).tif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/24dcb032-7524-4c00-ad65-15212b5ccd01/_740829台閩地區古蹟指定函(2).tif"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "具其他古蹟價值者"
+    ],
+    "registerReason": "具有保存價值",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 141052,
+            "name": "位置圖.tif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/f894c344-7184-4f9a-931a-ece043e148cc/位置圖.tif"
+        },
+        {
+            "fileid": 141053,
+            "name": "地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/801f8660-434b-443d-9a9b-554ff0fea8ff/地籍圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "locationLandNo": "臺北市萬華區龍山段二小段409地號",
+    "buildingFeatures": "此書院為清季淡北最高學府，同治六年〈西元一八六七年〉所設艋舺義塾及光緒五年〈西元一八七九年〉新置淡水縣儒學亦附設於此。",
+    "inHouseFeatures": "",
+    "buildingUsage": "日人治臺標售其地，高姓族人看上這優美的古建築，承購改充宗祠以迄今。但近年環河南路拓寬，門廳乃退縮新建。",
+    "buildingActualState": "學海書院係台北市僅存的書院古蹟，位址在萬華區環河南路二段93號，現屬祭祀公業高惠連所有。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenDownload": false,
+    "longitude": 121.495628,
+    "latitude": 25.0363299,
+    "representImageSource": "文化局",
+    "landScope": "臺北市萬華區龍山段二小段409地號",
+    "selfCoverage": "環河南路2段93號",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "id": 147763,
+            "caseId": 128,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "address": "環河南路2段93號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "landNoName": "龍山段二小段",
+            "cityLandUseTypeName": "保存區",
+            "id": 203916,
+            "caseId": 128,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "landNoId": 176,
+            "landSerialNo": "0409-0000",
+            "landownership": 2,
+            "cityLandUseTypeId": 7,
+            "coverageId": 2,
+            "area": "1512平方公尺",
+            "note": "重測前:龍山寺3小段80地號",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 160478,
+            "caseId": 128,
+            "caseStatus": true,
+            "registerDate": 493228800000,
+            "officialDocNo": "74台內民字第338095號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false,
+    "pastHistorySource": "學海書院（今高氏宗祠）"
+}

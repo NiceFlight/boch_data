@@ -1,0 +1,107 @@
+{
+    "id": 4179,
+    "caseId": "20090914000001",
+    "count": 135,
+    "shareCount": 0,
+    "representImage": 7099,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36596/photo/774671fd-f253-4218-921f-c4e2ad609c97_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36596/photo/774671fd-f253-4218-921f-c4e2ad609c97.jpg",
+        "name": "774671fd-f253-4218-921f-c4e2ad609c97"
+    },
+    "caseName": "青銅刀柄",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1252857600000,
+    "officialDocNo": "會授資籌二字第0982113661號函",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要之時代特色、技術及流派",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.品質精良且數量稀少。2.十三行遺址出土為數不少的各式青銅器，為臺灣史前遺址所少見。根據研究，這些青銅器可能為十三行人與其他地區交換而來，。本件青銅刀柄造型相當精緻獨特，具有神秘色彩，可作為史前文化交換行為的研究材料，具有學術意義及文化代表性，十分重要",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第3條第1項第1、3、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "南港區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777#6722",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "T0030259",
+    "amount": 1,
+    "notes": "",
+    "descAge": "金石並用時代",
+    "descCreator": "",
+    "descSize": "長約12.39公分，上寬約5.83公分",
+    "descMaterial": "青銅",
+    "reserveStatusDesc": "倒梨狀人面，表情誇大，大眼、露齒，眉、鼻、唇、耳皆具。可見刻畫的頸飾、腰飾、褲飾與帽飾，雙手上舉著似鳥頭。",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "十三行H區坑號T9P06D-d 十三行H區墓19 ",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 49023,
+            "name": "0982113661att9公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-07-13/692d69f7-079e-466e-a3a0-8bbc50fb173d/0982113661att9公告.pdf"
+        },
+        {
+            "fileid": 49024,
+            "name": "重要古物指定公告表-青銅刀柄T0030259.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-07-13/cedf63b2-36fb-47ca-b188-18b0d90b53c8/重要古物指定公告表-青銅刀柄T0030259.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "中央研究院歷史語言研究所",
+    "keepNames": [
+        {
+            "keepNameIdStr": "中央研究院歷史語言研究所",
+            "keepName": "中央研究院歷史語言研究所",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "中央研究院歷史語言研究所",
+            "keepAddressNew": "115台北市南港區研究院路二段130號",
+            "saveSpaceIdStr": "研究設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "南港區",
+            "keepNameAddress": "研究院路二段130號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "南港區",
+            "id": 116452,
+            "caseId": 4179,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 111
+        }
+    ],
+    "announces": [
+        {
+            "id": 127153,
+            "caseId": 4179,
+            "caseStatus": true,
+            "registerDate": 1252857600000,
+            "officialDocNo": "會授資籌二字第0982113661號函",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

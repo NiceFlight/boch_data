@@ -1,0 +1,94 @@
+{
+    "id": 2687,
+    "caseId": "20160513000003",
+    "count": 379,
+    "shareCount": 0,
+    "representImage": 259253,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-07-01/fb27382f-81f2-44a7-a8bf-6a506a6bb1eb/黃天來_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-07-01/fb27382f-81f2-44a7-a8bf-6a506a6bb1eb/黃天來.jpg",
+        "name": "黃天來"
+    },
+    "caseName": "大甲鐵壺",
+    "classifyCode": "4.2",
+    "classifyName": "傳統工藝",
+    "assetsTypeNames": "金工",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "4.2.1",
+    "assetsClassifyName": "傳統工藝",
+    "registerDate": 1463068800000,
+    "officialDocNo": "府授文資遺字第1050090502號",
+    "documents": [
+        {
+            "fileid": 53861,
+            "name": "傳統工藝公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-01-08/e2db60de-6793-4ccd-b635-9e7f1a66948d/傳統工藝公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "藝術性:具有藝術價值者",
+        "特殊性:構成傳統藝術之特殊藝能表現,其技法優秀者",
+        "地方性:傳統藝術領域有價值與地位,並具有地方色彩或流派特色顯著者"
+    ],
+    "registerReason": "1.「大甲鐵壺」可謂為臺中特有之傳統工藝技術，且已成為專屬工藝美術類型，具地方性意義。\r\n2.保存者以藝術生活化理念，將堅硬金屬材質，運用個人藝術思維，轉化為典雅穩重之工藝創作，且兼具藝術性與實用性，至為難得。\r\n3.以藝術性鐵壺為創作標的，在臺灣屬極少見之美術工藝，技法亦具特殊性。\r\n4.案經本市傳統藝術審議委員會議審議，評定符合傳統藝術民俗及有關文物登錄指定及廢止審查辦法第2條第1項第1款第1、2、3目「藝術性、特殊性及地方性」等3項審查基準，值得登錄保存。",
+    "lawsReference": "文化資產保存法第59條及傳統藝術民俗及有關文物登錄指定及廢止審查辦法第2條第1項第1款第1、2、3目。",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "govInstitution": "臺中市政府",
+    "govDeptName": "臺中市文化資產處",
+    "govDeptPhone": "04-22290280",
+    "govDeptAddress": "臺中市西區市府路41巷19號",
+    "belongAddress": "臺中市大甲區金華路",
+    "longitude": 120.62997710000002,
+    "latitude": 24.3482222,
+    "historyDevelopment": "「鐵壺」顧名思義以鐵製成，最早僅係取其加熱、耐用，而在文化推衍相關技術發展成熟後，為避免燃燒加熱釋放鐵金屬，改以不鏽鋼材取代，因創作者出生於大甲，回鄉創業，希能推展形成群聚效應，而取名「大甲鐵壺」。\n",
+    "preservers": [
+        {
+            "id": 15759,
+            "type": "個人",
+            "caseName": "黃天來",
+            "caseArtistEntities": [],
+            "patentNo": "",
+            "judgeCriteria": [
+                "熟知並能正確體現該登錄項目之知識、技藝與文化表現形式",
+                "具該登錄項目之傳習能力與意願",
+                "在文化脈絡下為適當者"
+            ],
+            "registerReason": "",
+            "lawsReference": "<<傳統工藝登錄認定及廢止審查辦法>>第4條第1項,<<傳統工藝登錄認定及廢止審查辦法>>第4條第2項,<<傳統工藝登錄認定及廢止審查辦法>>第4條第3項",
+            "isOpenDownload": false,
+            "representImageSource": "",
+            "contactorIsOpen": false,
+            "caseAliasName": ""
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "黃天來先生提供",
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "大甲區",
+            "id": 131503,
+            "caseId": 2687,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1027,
+            "address": "臺中市大甲區金華路"
+        }
+    ],
+    "announces": [
+        {
+            "id": 143345,
+            "caseId": 2687,
+            "caseStatus": true,
+            "registerDate": 1463068800000,
+            "officialDocNo": "府授文資遺字第1050090502號",
+            "classificationId": 1
+        }
+    ]
+}

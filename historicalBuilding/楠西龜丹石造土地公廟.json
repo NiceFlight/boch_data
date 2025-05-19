@@ -1,0 +1,141 @@
+{
+    "id": 1668,
+    "caseId": "20130402000003",
+    "count": 1959,
+    "shareCount": 1,
+    "representImage": 158581,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-04-08/323e04cc-5cf1-48c2-a106-fc5797b66149/歷042楠西龜丹石造土地公廟_P001_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-04-08/323e04cc-5cf1-48c2-a106-fc5797b66149/歷042楠西龜丹石造土地公廟_P001.jpg",
+        "name": "歷042楠西龜丹石造土地公廟_P001"
+    },
+    "caseName": "楠西龜丹石造土地公廟",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "寺廟",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1364888050000,
+    "officialDocNo": "府文資處字第1020164967號",
+    "documents": [
+        {
+            "fileid": 158578,
+            "name": "楠西龜丹石造土地公廟公告102.4.2.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-08/2de43a82-5bd8-40b9-8a98-d3e837de1edf/楠西龜丹石造土地公廟公告102.4.2.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "一、表現地域風貌或民間藝術特色者：石造土地公廟以整體鑿刻而組成，具歷史與藝術價值。\n二、具建築史或技術史之價值者：楠西龜丹石造土地公廟具有建築石造技術與工法之特色，值得保存。\n三、其他具歷史建築價值者：石造土地公廟及石頭廟在臺南市相當少見，本廟型制完整，文物、石碑尚存。",
+    "lawsReference": "文化資產保存法第15條第1項\n歷史建築登錄廢止審查及輔助辦法第2條第1項第2、3、4款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "楠西區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569 ",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 142469,
+            "name": "楠西龜丹石造土地公廟地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-11-03/9220dbf7-9f10-402e-872b-0df6164523c7/楠西龜丹石造土地公廟地籍圖.jpg"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 6,
+    "nonCityLandUseTypeName": "山坡地保育區",
+    "nonCityLandUseSubTypeId": 5,
+    "nonCityLandUseSubTypeName": "農牧",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "楠西區龜丹段9254地號（部份）、82地號（部份）",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "belongAddress": "臺南市楠西區龜丹村40-5號",
+    "isOpenVisit": true,
+    "openUpTime": "全日開放",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.49775379987756,
+    "latitude": 23.133270090413145,
+    "representImageSource": "臺南市政府",
+    "landScope": "臺南市楠西區龜丹段9254地號（部份）、82地號（部份）",
+    "selfCoverage": "石造土地公廟",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "楠西區",
+            "id": 93421,
+            "caseId": 1668,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1613,
+            "address": "龜丹里龜丹40-5號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺南市",
+            "distName": "楠西區",
+            "landNoName": "龜丹段",
+            "id": 114996,
+            "caseId": 1668,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1613,
+            "landNoId": 3623,
+            "landSerialNo": "9254",
+            "coverageId": 1,
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "臺南市",
+            "distName": "楠西區",
+            "landNoName": "龜丹段",
+            "id": 114997,
+            "caseId": 1668,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1613,
+            "landNoId": 3623,
+            "landSerialNo": "82",
+            "coverageId": 1,
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 100843,
+            "caseId": 1668,
+            "caseStatus": true,
+            "registerDate": 1364888050000,
+            "officialDocNo": "府文資處字第1020164967號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.49774923710883,23.13298057959857],[120.49774473546755,23.132975867651968],[120.497542804533,23.13288057164895],[120.49751656856021,23.132869350037815],[120.49744584357563,23.132855360876565],[120.49739480976605,23.132790363732493],[120.49733794333915,23.132787088763582],[120.49726903169407,23.132807379160532],[120.49688029830793,23.132779026285483],[120.49688025037527,23.13291697200452],[120.49689801524153,23.132931081823855],[120.49691340570865,23.132941060775387],[120.49692553025777,23.132945459198588],[120.49694882637594,23.132947395365083],[120.49695865237385,23.132947139552407],[120.4971749106658,23.132887977909704],[120.49729372130105,23.13291592671172],[120.49743132242597,23.133013041910065],[120.49755697180346,23.133025980295127],[120.49759597919189,23.13305195107094],[120.49763394492925,23.133081100965146],[120.49773299900036,23.133094978551956],[120.49773406321475,23.13309598617053],[120.49774923710883,23.13298057959857],[120.49774923710883,23.13298057959857]]]]},\"properties\":{\"envelope\":{\"left\":\"120.49688025037527\",\"top\":\"23.132779026285483\",\"right\":\"120.49774923710883\",\"bottom\":\"23.133095986170531\"},\"landLot\":\"臺南市楠西區龜丹段9254\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.498173281651,23.132911669993465],[120.49808162775491,23.132810185966303],[120.49802304257081,23.132749097021083],[120.49794311147669,23.132769928606777],[120.49793515152543,23.132775767695836],[120.49791968441603,23.132783800232776],[120.49791309404063,23.1327856218052],[120.4979126951301,23.13278583879778],[120.49788219016219,23.132802499943175],[120.4978686923614,23.132825031168736],[120.49780223725381,23.13293769553051],[120.49774923710883,23.13298057959857],[120.49773406321475,23.13309598617053],[120.49779748346856,23.133155954661365],[120.4978243966638,23.13315465693908],[120.49807113642727,23.132972893876442],[120.49811512159532,23.13292385476916],[120.498173281651,23.132911669993465],[120.498173281651,23.132911669993465]]]]},\"properties\":{\"envelope\":{\"left\":\"120.49773406321475\",\"top\":\"23.132749097021083\",\"right\":\"120.498173281651\",\"bottom\":\"23.133155954661365\"},\"landLot\":\"臺南市楠西區龜丹段82\"}}],\"notfound\":[]}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": ""
+}

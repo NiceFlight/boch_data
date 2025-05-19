@@ -1,0 +1,100 @@
+{
+    "id": 22439,
+    "caseId": "20240103000005",
+    "count": 175,
+    "shareCount": 1,
+    "representImage": 240466,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-01-02/3ec8d107-e841-40e6-ab31-1275bd553699/PK2B000086N000000000PAD (3)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-01-02/3ec8d107-e841-40e6-ab31-1275bd553699/PK2B000086N000000000PAD (3).jpg",
+        "name": "PK2B000086N000000000PAD (3)"
+    },
+    "caseName": "元趙孟頫書禊帖源流 卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "judgeCriteria": [
+        "具有獨特藝術造詣或科學成就",
+        "獨一無二或不可替代性"
+    ],
+    "registerReason": "本幅同時保留了趙孟頫三十六歲時小楷書法，以及二十年後行草書蹟，至為難得。內容抄錄姜夔〈蘭亭考〉，書法用筆、結構反映效仿魏晉書學脈絡。本文「亭」字共出現十次，唯獨末次將橫勾改為橫豎勾，一反楷書常態，淵源或許來自魏晉，甚或更早，足茲提供後人理解和研究元人復古途徑和藝術表現。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第4條第4、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路3段362號",
+    "reservationCode": "故書000086",
+    "amount": 1,
+    "descAge": "元",
+    "descCreator": "趙孟頫",
+    "descSize": "本幅26x219.5；拖尾26x24.4（cm）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "趙孟頫（1254-1322），字子昂，號松雪道人，浙江吳興人。書法尊倡復古，影響後世甚鉅。本幅乃趙孟頫應野翁之請，以小楷抄寫姜夔（1155-1221）撰〈蘭亭考〉。書風古樸典雅，結字效法〈蘭亭〉，予人楷書其形、行書其質之感。本文「亭」字共出現十次，唯獨末次將橫勾改為橫豎勾，一反楷書常態，淵源或許來自魏晉，甚或更早。本幅同時保留了趙孟頫三十六歲時小楷書法，以及二十年後行草書蹟，至為難得。內容抄錄姜夔〈蘭亭考〉，書法用筆、結構反映效仿魏晉書學脈絡。本文「亭」字共出現十次，唯獨末次將橫勾改為橫豎勾，一反楷書常態，淵源或許來自魏晉，甚或更早，足茲提供後人理解和研究元人復古途徑和藝術表現。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "良好",
+    "documents": [
+        {
+            "fileid": 240487,
+            "name": "公告（20140103）.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-01-03/3d6518c8-7aa0-4fff-b48e-7419dd3ed7a6/公告（20140103）.pdf"
+        },
+        {
+            "fileid": 240488,
+            "name": "公告表─元趙孟頫書禊帖源流 卷.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-01-03/e5ed457a-c41a-420b-9d0c-f43e1a7c80cc/公告表─元趙孟頫書禊帖源流 卷.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 116544,
+            "caseId": 22439,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 127243,
+            "caseId": 22439,
+            "caseStatus": true,
+            "registerDate": 1704262993932,
+            "officialDocNo": "文授資局物字第11330000481號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

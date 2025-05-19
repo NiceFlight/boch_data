@@ -1,0 +1,96 @@
+{
+    "id": 20265,
+    "caseId": "20211215000007",
+    "count": 157,
+    "shareCount": 0,
+    "representImage": 147570,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-15/b17ae187-9b67-45e0-a700-883118460566/016_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-15/b17ae187-9b67-45e0-a700-883118460566/016.jpg",
+        "name": "016"
+    },
+    "caseName": "清郎世寧畫白海青",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "白海青由郎世寧筆下栩栩如生，筆法細膩，極具寫實功力。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174之1號",
+    "reservationCode": "故畫000801",
+    "amount": 1,
+    "descAge": "清",
+    "descSize": "145x89公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "本幅畫來自滿洲皇親宗室以及蒙古王公所進之白鷹，工筆設色聚焦表現猛禽溫馴的靜態姿勢與身體羽紋、色澤。完整鷹具，明顯是由人工豢養於皇苑，鷹架下加掛掛簾，避免鷹繞懸架子而被繩具勒傷。鷹柱鑲嵌精美金屬片與獨角獸，柱底獅子趺座氣派貴重，強調對白鷹的高規格待遇。\n郎世寧（1688-1766），義大利人，耶穌會教士，以繪畫供奉內廷。歷仕康熙、雍正、乾隆朝。由畫上御製詩，可知繪於乾隆二十三年（1758）。\n",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "天綾折痕。",
+    "documents": [
+        {
+            "fileid": 147569,
+            "name": "110年12月9日北市獻編字第1103004564號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-15/8f02f0b9-734a-44e7-b555-454f50aca3f7/110年12月9日北市獻編字第1103004564號公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69147,
+            "caseId": 20265,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73271,
+            "caseId": 20265,
+            "caseStatus": true,
+            "registerDate": 1639019037067,
+            "officialDocNo": "北市獻編字第1103004564號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

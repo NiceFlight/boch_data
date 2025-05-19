@@ -1,0 +1,95 @@
+{
+    "id": 18215,
+    "caseId": "20201217000025",
+    "count": 250,
+    "shareCount": 0,
+    "representImage": 90082,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-12-17/5e3120e2-c1fe-4d99-8a46-1d46dedcc3ac/15_1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-12-17/5e3120e2-c1fe-4d99-8a46-1d46dedcc3ac/15_1.jpg",
+        "name": "15_1"
+    },
+    "caseName": "鑄銅虎象鬥置物",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1606376039393,
+    "officialDocNo": "北市獻編字第1093004298號",
+    "judgeCriteria": [
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "作工精緻藝術性，金屬鑄銅工藝，神態自然寫生傳神，象牙附著於大象牙增添動物神采，具藝術造詣。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174-1號",
+    "reservationCode": "15",
+    "amount": 1,
+    "descAge": "日本明治時期",
+    "descSize": "高 36.5 公分",
+    "descMaterial": "鑄銅、象牙",
+    "reserveStatusDesc": "象嵌，是指在金屬、陶瓷、木材等物品的表面雕刻出形狀，再於凹處鑲入金、銀、貝、牙等材料的一種工藝裝飾技法。據傳在飛鳥時代從西亞經絲綢之路傳入日本，經歷長年發展後，於明治時期大放異彩，妝點出精美華麗的藝術效果。\n1882年，東京動物園成立後，藝術家開始大量以動物為題材創作，並開始出現出口相關題材的藝術品到歐洲，且非常受到歡迎。\n本作品以精銅鑄製成，描繪一隻大象與兩隻老虎搏鬥的場景，一虎行動敏捷，四肢粗而有力，以鋒利的爪撲抓象背。另一虎翻倒在地，雙掌緊抓象腿，大象長鼻高昂，張嘴吼叫，雙蹄高舉奮力掙脫。從動物的外在形象到精神氣勢，皆掌握精準，生動表現大自然中動物弱肉強食之生態。\n主體構圖布局緊湊，線條流暢，雙虎神態威猛，強化虎象鬥內在的精神意蘊，賦予出神入化的靈性與神性。整體細節表現精湛，象牙處以牙嵌入，使其更加傳神，栩栩如生。虎的眼睛以象嵌技法鑲貝，使其眼神銳利，炯炯有光，富有神采。\n赤祖父曉光（1885ー1912），本名外次郎，為明治時期著名金工藝術家，尤擅於製作高品質的鳥類、動物置物。活耀於東京地區，其製作之金工藝術主要出口至歐洲市場。曾為東京金工協會會員，更以其出色的立體作品贏得多次世界博覽會獎項。",
+    "pastHistorySource": 1,
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定。",
+    "documents": [
+        {
+            "fileid": 90080,
+            "name": "臺北市公告指定一般古物1091126.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-17/d9b4b899-555c-4efa-8f39-13178c108979/臺北市公告指定一般古物1091126.pdf"
+        }
+    ],
+    "keepNames": [
+        {
+            "keepNameIdStr": "郭○穎",
+            "keepName": "郭○穎",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "郭○穎",
+            "keepAddressNew": "臺北市中正區重慶南路二段15號7樓",
+            "saveSpaceOther": "庫房",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "大安區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 7830,
+            "caseId": 18215,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 7830,
+            "caseId": 18215,
+            "caseStatus": true,
+            "registerDate": 1606376039393,
+            "officialDocNo": "北市獻編字第1093004298號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

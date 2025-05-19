@@ -1,0 +1,147 @@
+{
+    "id": 104,
+    "caseId": "20060322000001",
+    "count": 4191,
+    "shareCount": 6,
+    "representImage": 170159,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/26b15c37-b807-4f9c-a762-f52c506d0c4a/代表圖像_松山市場_20220609_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/26b15c37-b807-4f9c-a762-f52c506d0c4a/代表圖像_松山市場_20220609.jpeg",
+        "name": "代表圖像_松山市場_20220609"
+    },
+    "caseName": "松山市場",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "松山市場係因水運而商業活動興盛，自清代起逐漸形成市集，直至1909年興建松山市場延續至今，已達百年之久，深具歷史意義。",
+    "assetsTypeNames": "產業",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 143229,
+            "name": "3._950322指定市定古蹟公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/70b774dd-15d8-4fd2-8de9-da69abaf80ac/3._950322指定市定古蹟公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "具建築史上之意義，有再利用之價值及潛力者"
+    ],
+    "registerReason": "一、松山市場係因水運而商業活動興盛，自清代起逐漸形成市集，直至1909年興建松山市場延續至今，已達百年之久，深具歷史意義。\r\n二、建物仍保有原有形貌，檜木桁架及洗石子外牆保存狀況尚佳，具保存價值。\r\n三、未來可與饒河街夜市、松山慈祐宮配合規劃再利用，以提昇整區觀光效益。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 143230,
+            "name": "downloadfile.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/e1756876-2d25-41cd-86a1-ece4ae223bdc/downloadfile.jpg"
+        },
+        {
+            "fileid": 143231,
+            "name": "98建號謄本.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/9984bc37-fab5-44c8-ac98-3fdbc77f2281/98建號謄本.pdf"
+        },
+        {
+            "fileid": 143232,
+            "name": "537地號謄本.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/ece22aca-9153-425e-ba4a-8c5155415139/537地號謄本.pdf"
+        },
+        {
+            "fileid": 143233,
+            "name": "538地號謄本.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/0bb30f98-2191-41e4-aa3c-3b7525f03dec/538地號謄本.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "市場用地",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市松山區寶清段七小段537、538地號",
+    "buildingFeatures": "洗石子外牆。",
+    "inHouseFeatures": "檜木桁架。",
+    "buildingUsage": "目前仍為營業中的傳統市場。",
+    "buildingActualState": "古蹟現況仍保有原有形貌，檜木桁架及洗石子外牆保存狀況尚佳。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.5759294,
+    "latitude": 25.0501902,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市松山區寶清段七小段537、538地號",
+    "selfCoverage": "松山區寶清段七小段98建號市場本體（不含管理所）",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "松山區",
+            "id": 83413,
+            "caseId": 104,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 104,
+            "address": "松山區八德路4段679號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "松山區",
+            "landNoName": "寶清段七小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 93249,
+            "caseId": 104,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 104,
+            "landNoId": 413,
+            "landSerialNo": "537",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "area": "152",
+            "cityLandUseTypeOther": "道路用地",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "松山區",
+            "landNoName": "寶清段七小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 93250,
+            "caseId": 104,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 104,
+            "landNoId": 413,
+            "landSerialNo": "538",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "area": "577",
+            "cityLandUseTypeOther": "市場用地",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 89651,
+            "caseId": 104,
+            "caseStatus": true,
+            "registerDate": 1142956800000,
+            "officialDocNo": "府文化二字第09530227800號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false,
+    "pastHistorySource": ""
+}

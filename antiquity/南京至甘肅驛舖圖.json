@@ -1,0 +1,101 @@
+{
+    "id": 20513,
+    "caseId": "20220318000002",
+    "count": 164,
+    "shareCount": 0,
+    "representImage": 155477,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-03-18/623cc1d1-1819-485e-9021-0c626797fc37/map2_c.png"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-03-18/623cc1d1-1819-485e-9021-0c626797fc37/map2.png",
+        "name": "map2"
+    },
+    "caseName": "南京至甘肅驛舖圖",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖繪",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "本圖卷除反映明代早期東南至西北交通地理路線外，亦直接繪出驛路沿線之人文及自然景觀，堪稱極具象之歷史史料，此外此卷圖幅長達24.32公尺、寬達55公分，量體頗大，加以年代較早，未見相關複本。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第3、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "平圖020798",
+    "amount": 1,
+    "descAge": "明",
+    "descSize": "畫心55x2432公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "本圖卷首起自揚子江岸，註「東南」二字，卷尾止於沙州城，註「西北」二字。全圖描述明代早期從應天衛到陜西布政司所在地西安府，再由西安府向西北經蘭州渡黃河到陜西行都指揮使司所在地甘州，然後由甘州向西北至肅州衛，最後抵達沙州城的驛路─「陜甘路」。\n圖的方位大致東上西下，左北右南，繪出驛路沿線城鎮、壇廟、名勝、山脈、水流、橋樑、巡檢司及驛站、急遞舖、遞運所等。山形大多平緩，藍、青綠、土黃三色自頂而下，由深而淺，分列於驛路兩旁。水流、湖泊以青綠雙線，黃河以黃色表示。沿線驛站、急遞舖、遞運所、城鎮、壇廟等多有固定圖示，城址以立面表示，城圍形狀各異。道路以棕色單線表示，里程、聯繫方向註記於各城鎮間的驛道上。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "一、 本圖為卷裝，狀況良好。\n二、 全圖間有污漬、脫色（磨損）、水漬、蟲蛀、霉斑等痕跡。\n三、 圖中：\n1. 宿州北社稷壇邊緣及永城縣邊緣：略有破損。\n2. 開封府左側：鄭門鋪與社稷壇上似有薄紙沾黏。\n3. 陝州右緣及華州左邊：有接圖折痕。\n4. 隆德縣右及蘭州衛右定遠驛：有折痕。\n5. 屯田寨（千戶所左下緣）：破損補痕。\n6. 山丹衛附近：有接圖痕跡。",
+    "documents": [
+        {
+            "fileid": 155475,
+            "name": "公告用印後PDF.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-03-18/3d2b5987-81a9-44b0-99bb-af8e27bc6dfd/公告用印後PDF.pdf"
+        },
+        {
+            "fileid": 155476,
+            "name": "02公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-03-18/b40b172a-ddb8-4060-ac10-a80faca12b3f/02公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.549499,
+    "latitude": 25.10037,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 73638,
+            "caseId": 20513,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 78652,
+            "caseId": 20513,
+            "caseStatus": true,
+            "registerDate": 1647587676055,
+            "officialDocNo": "文授資局物字第11130027321號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

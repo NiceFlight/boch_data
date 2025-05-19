@@ -1,0 +1,88 @@
+{
+    "id": 2905,
+    "caseId": "20111207000004",
+    "count": 506,
+    "shareCount": 0,
+    "representImage": 5277,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36667/photo/c4cd309f-2c71-4054-b2f7-52ec6dd30865_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36667/photo/c4cd309f-2c71-4054-b2f7-52ec6dd30865.jpg",
+        "name": "c4cd309f-2c71-4054-b2f7-52ec6dd30865"
+    },
+    "caseName": "9.2吋阿姆斯脫朗礮(9.2 ”Rifled Breech Loading Armstrong Gun)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-軍事設備",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1323187200000,
+    "officialDocNo": "北市文化二字第10032047100號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.屬英國早期製作之後膛鋼礮，為百年以上之古礮。\r\n2.口徑為9.2吋，係目前國內所僅見，具珍稀性與保存價值。\r\n3.製造技術特殊、礮身造型優美，兼具科學與藝術造詣。\r\n4.現安置於於國防部軍備局生產製造中心第202廠內，該廠為生產各式火礮之兵工廠，可凸顯該廠之精神象徵，並彰顯文化資產之意義與價值。",
+    "lawsReference": "1.文化資產保存法第65條。\r\n2.古物分級登錄指定及廢止審查辦法第2、5、7條。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "南港區",
+    "reservationCode": "",
+    "keepNameId": 17,
+    "keepName": "國防部軍備局",
+    "keepNameNew": 17,
+    "keepAddressNew": "臺北市南港區新光里昆陽街165號國防部軍備局生產製造中心第202廠",
+    "amount": 1,
+    "notes": "年代:西元1880至1890年間。材質:由鋼鑄造。重量:15公噸\r\n形狀:呈圓柱狀加農礮。尺寸:\t口徑為9.2吋、全長約650 cm\r\n技法:採閉鎖裝置，利用熱賬冷縮原理，以層層套箍方式製成礮身。",
+    "reserveStatusDesc": "現安置於於國防部軍備局生產製造中心第202廠內，該廠維護良好，保存狀況甚佳。",
+    "reserveStatus": "完整良好 ",
+    "documents": [],
+    "isOpenDownload": false,
+    "representImageSource": "",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "國防部軍備局",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺北市南港區新光里昆陽街165號國防部軍備局生產製造中心第202廠",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "南港區",
+            "id": 3041,
+            "caseId": 2905,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 111
+        }
+    ],
+    "announces": [
+        {
+            "id": 3041,
+            "caseId": 2905,
+            "caseStatus": true,
+            "registerDate": 1323187200000,
+            "officialDocNo": "北市文化二字第10032047100號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

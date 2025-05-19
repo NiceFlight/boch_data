@@ -1,0 +1,118 @@
+{
+    "id": 17821,
+    "caseId": "20200915000004",
+    "count": 3075,
+    "shareCount": 2,
+    "representImage": 153055,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-02-22/475fe3e3-6fb6-470d-b483-9bef73d002e5/潮州郡守官舍照片_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-02-22/475fe3e3-6fb6-470d-b483-9bef73d002e5/潮州郡守官舍照片.jpg",
+        "name": "潮州郡守官舍照片"
+    },
+    "caseName": "潮州郡守官舍",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "潮州郡官署、潮州庄役埸於日大正9年(1920)興建落成，潮州郡守官舍可能也在約略同時間前後興建。潮州郡守官舍為日治時期潮州郡位階最高之官舍，也是潮州目前僅存之郡守官舍，具有稀少性與代表性；建物本體與周遭潮州公會堂、潮州庄役場等建築共構出潮州日治時期重要行政空間場域，極具歷史文化意義。 ",
+    "assetsTypeNames": "官邸",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1591003858543,
+    "officialDocNo": "屏府文保字第10930273000號",
+    "documents": [
+        {
+            "fileid": 153053,
+            "name": "公告函-屏府文保字第10930273000號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-02-22/4e730c17-e582-4ecb-b49d-30f451469c81/公告函-屏府文保字第10930273000號.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1.符合《歷史建築紀念建築登錄廢止審查及輔助辦法》第2條第1項第1、2、3款之登錄基準：表現地域風貌或民間藝術特色者、具建築史或技術史之價值者、具地區性建造物類型之特色者。\n2.潮州郡守官舍為日治時期潮州郡位階最高之官舍，也是日治時期高雄州目前僅存之郡守官舍，具有稀少性與代表性；建物本體與周遭潮州公會堂、潮州庄役場等建築共構出潮州日治時期重要行政空間場域，極具歷史文化意義。\n3.建築形式上，具有多單體組合之雁形平面特色，床之間中間的木柱為原木，表現當時建築藝匠，為日式官舍中較特殊類型。",
+    "lawsReference": "文化資產保存法第18條\n歷史建築紀念建築登錄廢止審查及輔助辦法第2條第1項第1、2、3款",
+    "govInstitutionCode": "900",
+    "govInstitutionName": "屏東縣政府",
+    "belongCityId": 20,
+    "belongCityName": "屏東縣",
+    "belongDistName": "屏東市",
+    "govInstitution": "屏東縣政府",
+    "govDeptName": "屏東縣文化資產保護所",
+    "govDeptPhone": "08-7210234",
+    "govDeptAddress": "屏東縣屏東市菸廠路1號\t",
+    "cadasters": [
+        {
+            "fileid": 153054,
+            "name": "潮州郡守官舍地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-02-22/22517697-2719-400c-8d0c-2eb11b1e7116/潮州郡守官舍地籍圖.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "屏東縣潮州鎮華興段12地號",
+    "buildingFeatures": "具有多單體組合之雁形平面特色。",
+    "inHouseFeatures": "日式建築格局，床之間中間的木柱為原木，表現當時建築藝匠，為日式官舍中較特殊類型。",
+    "buildingUsage": "毀損嚴重無法使用。",
+    "buildingActualState": "毀損嚴重。",
+    "buildingKeyMaintainItem": "應進行建築本體修復。",
+    "bulkTransfer": 0,
+    "belongAddress": "屏東縣潮州鎮中山路25、25-2號",
+    "isOpenVisit": false,
+    "openUpTime": "未開放(尚未修復)",
+    "isCharge": false,
+    "isOpenDownload": true,
+    "longitude": 120.544,
+    "latitude": 22.549611,
+    "representImageSource": "屏東縣政府",
+    "landScope": "屏東縣潮州鎮華興段12地號 ，地號面積1,141.37平方公尺。",
+    "selfCoverage": "屏東縣潮州鎮中山路25、25-2號\t\t\t\t\t",
+    "addresses": [
+        {
+            "cityName": "屏東縣",
+            "distName": "潮州鎮",
+            "id": 78630,
+            "caseId": 17821,
+            "caseStatus": true,
+            "cityId": 20,
+            "distId": 2014,
+            "address": "中山路25、25-2號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "屏東縣",
+            "distName": "潮州鎮",
+            "landNoName": "華興段",
+            "id": 83089,
+            "caseId": 17821,
+            "caseStatus": true,
+            "cityId": 20,
+            "distId": 2014,
+            "landNoId": 13586,
+            "landSerialNo": "12",
+            "landownership": 1,
+            "area": "1141.37",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 84355,
+            "caseId": 17821,
+            "caseStatus": true,
+            "registerDate": 1591003858543,
+            "officialDocNo": "屏府文保字第10930273000號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.54406703731517,22.54927165530532],[120.54374859447314,22.54925012365253],[120.54373064711166,22.54958907913189],[120.54400328521267,22.54960548591298],[120.54406703731517,22.54927165530532],[120.54406703731517,22.54927165530532]]]]},\"properties\":{\"envelope\":{\"left\":\"120.54373064711166\",\"top\":\"22.549250123652531\",\"right\":\"120.54406703731517\",\"bottom\":\"22.549605485912981\"},\"landLot\":\"屏東縣潮州鎮華興段12\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": "歷史建築「潮州郡守官舍」清冊、文化價值評估表"
+}

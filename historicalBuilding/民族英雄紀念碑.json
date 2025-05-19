@@ -1,0 +1,156 @@
+{
+    "id": 1107,
+    "caseId": "20030120000006",
+    "count": 2573,
+    "shareCount": 3,
+    "representImage": 173210,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-07-13/542b3e66-cf80-40f8-bfc3-d302e57abc58/20200413民族英雄紀念碑會勘_200413_0018_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-07-13/542b3e66-cf80-40f8-bfc3-d302e57abc58/20200413民族英雄紀念碑會勘_200413_0018.jpg",
+        "name": "20200413民族英雄紀念碑會勘_200413_0018"
+    },
+    "caseName": "民族英雄紀念碑",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "清領時期二沙灣一帶歷經鴉片戰爭、清法戰爭、乙未戰爭等戰役的洗禮，儼然為基隆的重要歷史戰場。光緒10年(1884年)清法戰爭後，在二沙灣附近築有雙方因戰事喪生之軍人公墓。陣亡的清兵，原葬於二沙灣附近山麓，但因馬路開闢，墓地遭毀。基隆士紳池清祥乃將清兵骨骸集於一塚，刊碑：「清國人墓」，背刻「勳在邦家」。民國46年(1957年)，基隆市政府再度重建墓塚，更名「民族英雄墓」。",
+    "assetsTypeNames": "碑碣",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1043045473000,
+    "officialDocNo": "中一字第0921051039號",
+    "documents": [
+        {
+            "fileid": 175084,
+            "name": "0920120-登錄公告-民族英雄紀念碑.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-21/00446110-5244-4a86-8957-2d66faac1e03/0920120-登錄公告-民族英雄紀念碑.pdf"
+        },
+        {
+            "fileid": 184687,
+            "name": "1051102-變更公告-民族英雄紀念碑.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-09-20/4eb32155-5dff-4e85-921e-4cbadb8ef329/1051102-變更公告-民族英雄紀念碑.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "本紀念碑是為紀念清法戰爭殉身的清人，雖在民國46年重修，其仍保有表述戰爭歷史的意義。",
+    "lawsReference": "《歷史建築登錄廢止審查及輔助辦法》第2條第1項第1、2款。",
+    "govInstitutionCode": "200",
+    "govInstitutionName": "基隆市政府",
+    "belongCityId": 2,
+    "belongCityName": "基隆市",
+    "belongDistName": "中正區",
+    "govInstitution": "基隆市文化觀光局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2422-4170",
+    "govDeptAddress": "基隆市中正區信一路181號",
+    "cadasters": [
+        {
+            "fileid": 186521,
+            "name": "民族英雄紀念碑 地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-10-11/1482f592-89a4-414d-8f87-ce4e495d7385/民族英雄紀念碑 地籍圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "基隆市中正區港灣段三小路18地號",
+    "buildingFeatures": "1957 年又在海濱拓地改建為民族英雄墓，具有表述戰爭歷史的意義。海門公園內的民族英雄紀念碑，主要是為了紀念清法戰爭中的陣亡清人而設立的。",
+    "inHouseFeatures": "目前供紀念碑使用中。",
+    "buildingUsage": "1940（昭和15）年，市政府於草莽當中覓得當年石碑，並重立山坡上。1957年基隆市政府再度重建墓塚，1957年更名「民族英雄墓」。",
+    "buildingActualState": "雖然現有紀念碑係修建於1957年，但紀錄事件的場所本身，卻已擁有百年以上的歷史刻痕。",
+    "buildingKeyMaintainItem": "無",
+    "bulkTransfer": 0,
+    "belongAddress": "中正路海門天險對面",
+    "isOpenVisit": true,
+    "openUpTime": "",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.756087570741,
+    "latitude": 25.1410045157023,
+    "representImageSource": "基隆市文化觀光局",
+    "landScope": "基隆市中正區港灣段四小路17-46地號、18-9地號，共計2區，土地面積總計2119平方公尺",
+    "selfCoverage": "中正路海門天險對面",
+    "addresses": [
+        {
+            "cityName": "基隆市",
+            "distName": "中正區",
+            "id": 148207,
+            "caseId": 1107,
+            "caseStatus": true,
+            "cityId": 2,
+            "distId": 203,
+            "address": "中正路 海門天險對面"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "基隆市",
+            "distName": "中正區",
+            "landNoName": "港灣段四小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 204745,
+            "caseId": 1107,
+            "caseStatus": true,
+            "cityId": 2,
+            "distId": 203,
+            "landNoId": 2190,
+            "landSerialNo": "17-46",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "1721平方公尺",
+            "cityLandUseTypeOther": "快速道路用地",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "基隆市",
+            "distName": "中正區",
+            "landNoName": "港灣段四小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 204746,
+            "caseId": 1107,
+            "caseStatus": true,
+            "cityId": 2,
+            "distId": 203,
+            "landNoId": 2190,
+            "landSerialNo": "18-9",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "398平方公尺",
+            "cityLandUseTypeOther": "快速道路用地",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 161024,
+            "caseId": 1107,
+            "caseStatus": true,
+            "registerDate": 1043045473000,
+            "officialDocNo": "基府教社壹字第0920006602號",
+            "classificationId": 1,
+            "note": "公告「民族英雄紀念碑」登錄為本市歷史建築"
+        },
+        {
+            "id": 161025,
+            "caseId": 1107,
+            "caseStatus": true,
+            "registerDate": 1478016000000,
+            "officialDocNo": "府授文資壹字第1050330144B號",
+            "classificationId": 2,
+            "note": "變更公告「民族英雄紀念碑」定著土地地號及面積"
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.75290397369561,25.13834428663515],[121.75288207640105,25.13834921238842],[121.75286268882286,25.13834420934574],[121.75278700567091,25.138340320185588],[121.75277339358436,25.138357565473576],[121.7527633662075,25.138370693965637],[121.75286916455829,25.138443446072458],[121.75293511458183,25.138373404352738],[121.75290397369561,25.13834428663515],[121.75290397369561,25.13834428663515]]]]},\"properties\":{\"envelope\":{\"left\":\"121.7527633662075\",\"top\":\"25.138340320185588\",\"right\":\"121.75293511458183\",\"bottom\":\"25.138443446072458\"},\"landLot\":\"基隆市中正區港灣段三小段18\"}}],\"notfound\":[]}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": " "
+}

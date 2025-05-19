@@ -1,0 +1,118 @@
+{
+    "id": 1134,
+    "caseId": "20130227000001",
+    "count": 2380,
+    "shareCount": 3,
+    "representImage": 2277,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/5129/photo/C109新北市平溪頌德碑(歷建)(1)_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/5129/photo/C109新北市平溪頌德碑(歷建)(1).JPG",
+        "name": "C109新北市平溪頌德碑(歷建)(1)"
+    },
+    "caseName": "平溪頌德碑",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "碑碣",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1361958011000,
+    "officialDocNo": "北府文資字第1021298844號",
+    "documents": [
+        {
+            "fileid": 164075,
+            "name": "平溪頌德碑公告-102.2.27.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-18/03568881-e68a-4037-b3c1-f6ef799a82c8/平溪頌德碑公告-102.2.27.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "一、平溪頌德碑視為表彰前鄉長潘炳燭先生與臺陽鑛業公司顏雲年、國年先生對平溪鑛業發展的重大貢獻，還有建設三貂嶺至菁桐坑間十二公里長的交通動脈，因此立碑 。\n二、頌德碑為二段式碑體，三公尺高以上，有三段式磚砌底座與前後2層的立石組成，還有水泥立柱掛鐵鍊圍欄，建築形式構造完整，值得保存 。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、3款",
+    "govInstitutionCode": "220",
+    "govInstitutionName": "新北市政府",
+    "belongCityId": 3,
+    "belongCityName": "新北市",
+    "belongDistName": "平溪區",
+    "govInstitution": "新北市政府",
+    "govDeptName": "文化局",
+    "govDeptPhone": "(02)8953-5332",
+    "govDeptAddress": "新北市板橋區中山路一段161號28樓",
+    "cadasters": [
+        {
+            "fileid": 134612,
+            "name": "地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-08-25/1de80241-feda-43ff-abc9-cd43f98974fa/地籍圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "平溪區平溪段165地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "平溪區石底段平溪子小段152地號",
+    "isOpenVisit": true,
+    "openUpTime": "全天開放",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.73823679559013,
+    "latitude": 25.025569566194367,
+    "representImageSource": "新北市政府文化局",
+    "landScope": "公告地號：平溪區石底段平溪子小段152地號；重測後地號：平溪區平溪段165地號",
+    "selfCoverage": "碑及護欄構造本體",
+    "addresses": [
+        {
+            "cityName": "新北市",
+            "distName": "平溪區",
+            "id": 110808,
+            "caseId": 1134,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 308,
+            "address": "石底段平溪子小段152地號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "新北市",
+            "distName": "平溪區",
+            "landNoName": "平溪段",
+            "id": 144715,
+            "caseId": 1134,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 308,
+            "landNoId": 6395,
+            "landSerialNo": "165",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 119873,
+            "caseId": 1134,
+            "caseStatus": true,
+            "registerDate": 1361958011000,
+            "officialDocNo": "北府文資字第1021298844號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.73814371330162,25.0256858440389],[121.73813873515455,25.02566858942174],[121.73825988890503,25.025621178260735],[121.73825935112636,25.025594223720784],[121.73825580872868,25.025561903494545],[121.73825034730885,25.025540056096858],[121.73823856305799,25.02551136989393],[121.73822560083778,25.025489496551923],[121.73819777323236,25.025457215679022],[121.73817690580137,25.02543727744263],[121.7381489531213,25.025417211885596],[121.7380912068881,25.02542712233737],[121.73805814956272,25.025428616281854],[121.73797427586965,25.02546320950539],[121.73797749166322,25.025491959937224],[121.7380690828185,25.025705660646377],[121.73814371330162,25.0256858440389],[121.73814371330162,25.0256858440389]]]]},\"properties\":{\"envelope\":{\"left\":\"121.73797427586965\",\"top\":\"25.025417211885596\",\"right\":\"121.73825988890503\",\"bottom\":\"25.025705660646377\"},\"landLot\":\"新北市平溪區平溪段165\"}}],\"notfound\":[]}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": ""
+}

@@ -1,0 +1,103 @@
+{
+    "id": 17036,
+    "caseId": "20190826000005",
+    "count": 330,
+    "shareCount": 0,
+    "representImage": 61195,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-08-26/3857f59d-fe6a-4a88-9b93-5ee5aabb5bc3/16-009IMG_3620_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-08-26/3857f59d-fe6a-4a88-9b93-5ee5aabb5bc3/16-009IMG_3620.jpg",
+        "name": "16-009IMG_3620"
+    },
+    "caseName": "武聖廟圓口三足石香爐",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1563784376931,
+    "officialDocNo": "中華民國108年7月22日府授文博字第1083702324號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "數量稀少者"
+    ],
+    "registerReason": "（1）具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：為澎湖石香爐少見大型而完整者，且年代久遠，捐獻者於澎湖任澎湖協副將的經歷，足以說明昔日的官宦為澎湖的發展多方面的貢獻。\n（2）具有地方重要人物或歷史事件之深厚淵源者：為歷任澎湖武將參與地方信仰活動，留下見證。　　　　\n（3）數量稀少者:澎湖目前的石香爐大約5個左右。而石香爐出自乾隆年間者，澎湖為數僅2個。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2、5款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00685-P-M022-009",
+    "amount": 1,
+    "notes": "",
+    "descAge": " 1786年",
+    "descSize": "外:口徑 59  高 45 (公分)  ； 內:口徑 40  高 20 (公分)",
+    "descMaterial": "石",
+    "reserveStatusDesc": "平直口，直身斜腹平底，三足方，內壁直凹底。口沿頂前方陰刻三字「關帝廟」，口沿測緣正面陰刻「乾隆五十一年桂月吉旦　澎湖協魏大斌」，爐身浮雕雙龍拱珠，足為螭虎吞腳。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "時間： 1786年  捐贈者：澎湖協魏大斌",
+    "saveEnvironment": 2,
+    "reserveStatus": "武聖廟二樓文物典藏室，有溫溼度控制。",
+    "documents": [
+        {
+            "fileid": 107209,
+            "name": "武聖廟圓口三足石香爐公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-04-26/f7da6372-e77d-4627-9b67-e3cba2bec3de/武聖廟圓口三足石香爐公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.575211,
+    "latitude": 23.573159,
+    "representImageSource": "澎湖縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "武聖廟",
+            "keepName": "王照界",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "武聖廟",
+            "keepAddressNew": "澎湖縣馬公市朝陽里陽明路30號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2,
+            "keepNameCityName": "澎湖縣",
+            "keepNameDistName": "馬公市",
+            "keepNameAddress": "朝陽里陽明路30號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 127678,
+            "caseId": 17036,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "朝陽里陽明路30號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 138601,
+            "caseId": 17036,
+            "caseStatus": true,
+            "registerDate": 1563784376931,
+            "officialDocNo": "府授文博字第1083702324號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

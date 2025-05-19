@@ -1,0 +1,246 @@
+{
+    "id": 2075,
+    "caseId": "20150831000001",
+    "count": 5667,
+    "shareCount": 17,
+    "representImage": 162515,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/b911ead7-adca-44dc-998e-207ec305a658/c7319ff4-bc6f-4d0f-a4b0-4a6044d6432e_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/b911ead7-adca-44dc-998e-207ec305a658/c7319ff4-bc6f-4d0f-a4b0-4a6044d6432e.JPG",
+        "name": "c7319ff4-bc6f-4d0f-a4b0-4a6044d6432e"
+    },
+    "caseName": "美援宿舍群（長安東路2段155號、157號、159號，龍江路46巷6號、8號、10號）",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "建於1953年，供美援時期美方人員及農復會官員作為宿舍使用。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 162516,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/6504b68d-2ef1-4af1-9330-d72e74cb9ab6/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1.建於1953年，供美援時期美方人員及農復會官員使用，為美援會中美合作歷史見證，具臺北市都市發展的意義。\r\n2.整體街廓完整，圍塑之範圍整齊一致，建物採黑瓦洋式造型，街廓形式與建築群為臺灣發展歷程中的重要見證，格局配置計畫相仿，綠地、樹木條件佳，為臺北市高密度發展中難得的生態跳島。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、4款評定基準。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 162517,
+            "name": "58ad0e04-98c8-4d7d-ab81-e50b67bcc658.gif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/3cb9dfc8-9eaa-4a53-b693-3e5946d78b81/58ad0e04-98c8-4d7d-ab81-e50b67bcc658.gif"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "長安東路2段155號：臺北市中山區長安段1小段771-5地號\r\n長安東路2段157號：臺北市中山區長安段1小段771-6地號\r\n長安東路2段159號：臺北市中山區長安段1小段771-7地號\r\n龍江街46巷6號：臺北市中山區長安段1小段771地號\r\n龍江街46巷8號：臺北市中山區長安段1小段 771-3地號\r\n龍江街46巷10號：臺北市中山區長安段1小段771-4地號\r\n（實際保存面積須以保存範圍實測數據為準）",
+    "buildingFeatures": "黑瓦洋式造型",
+    "inHouseFeatures": "屋頂木架結構及地板均為木做",
+    "buildingUsage": "長安東路2段155號、龍江路46巷10號現作為宿舍使用，其餘為閒置。",
+    "buildingActualState": "現況保存良好。",
+    "buildingKeyMaintainItem": "保存範圍：建物全棟保存，長安東路二段、長安東路二段157巷與龍江路46巷圍起之街廓。",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.5393694,
+    "latitude": 25.0485059,
+    "representImageSource": "文化局",
+    "landScope": "長安東路2段155號：臺北市中山區長安段1小段771-5地號\r\n長安東路2段157號：臺北市中山區長安段1小段771-6地號\r\n長安東路2段159號：臺北市中山區長安段1小段771-7地號\r\n龍江街46巷6號：臺北市中山區長安段1小段771地號\r\n龍江街46巷8號：臺北市中山區長安段1小段 771-3地號\r\n龍江街46巷10號：臺北市中山區長安段1小段771-4地號\r\n（實際保存面積須以保存範圍實測數據為準）",
+    "selfCoverage": "2601.12平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中山區",
+            "id": 78276,
+            "caseId": 2075,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 103,
+            "address": "長安東路2段155號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中山區",
+            "id": 78277,
+            "caseId": 2075,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 103,
+            "address": "長安東路2段157號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中山區",
+            "id": 78278,
+            "caseId": 2075,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 103,
+            "address": "長安東路2段159號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中山區",
+            "id": 78279,
+            "caseId": 2075,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 103,
+            "address": "龍江路46巷6號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中山區",
+            "id": 78280,
+            "caseId": 2075,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 103,
+            "address": "龍江路46巷8號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中山區",
+            "id": 78281,
+            "caseId": 2075,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 103,
+            "address": "龍江路46巷10號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中山區",
+            "landNoName": "長安段一小段",
+            "id": 82753,
+            "caseId": 2075,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 103,
+            "landNoId": 227,
+            "landSerialNo": "771-5",
+            "landownership": 1,
+            "coverageId": 2,
+            "area": "1,219平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中山區",
+            "landNoName": "長安段一小段",
+            "id": 82754,
+            "caseId": 2075,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 103,
+            "landNoId": 227,
+            "landSerialNo": "771-6",
+            "landownership": 1,
+            "coverageId": 2,
+            "area": "1,224平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中山區",
+            "landNoName": "長安段一小段",
+            "id": 82755,
+            "caseId": 2075,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 103,
+            "landNoId": 227,
+            "landSerialNo": "771-7",
+            "landownership": 1,
+            "coverageId": 2,
+            "area": "1,218平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中山區",
+            "landNoName": "長安段一小段",
+            "id": 82756,
+            "caseId": 2075,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 103,
+            "landNoId": 227,
+            "landSerialNo": "771",
+            "landownership": 1,
+            "coverageId": 2,
+            "area": "1,093平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中山區",
+            "landNoName": "長安段一小段",
+            "id": 82757,
+            "caseId": 2075,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 103,
+            "landNoId": 227,
+            "landSerialNo": "771-3",
+            "landownership": 1,
+            "coverageId": 2,
+            "area": "1,101平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中山區",
+            "landNoName": "長安段一小段",
+            "id": 82758,
+            "caseId": 2075,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 103,
+            "landNoId": 227,
+            "landSerialNo": "771-4",
+            "landownership": 1,
+            "coverageId": 2,
+            "area": "1,098平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 83998,
+            "caseId": 2075,
+            "caseStatus": true,
+            "registerDate": 1440950400000,
+            "officialDocNo": "北市文化文資字第10430434100號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

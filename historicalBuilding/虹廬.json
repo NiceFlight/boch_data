@@ -1,0 +1,115 @@
+{
+    "id": 16931,
+    "caseId": "20190719000001",
+    "count": 4747,
+    "shareCount": 7,
+    "representImage": 169390,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/1ac617d6-d981-4300-97a8-43ed8c59cb87/代表圖像_虹廬_20220617_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/1ac617d6-d981-4300-97a8-43ed8c59cb87/代表圖像_虹廬_20220617.jpeg",
+        "name": "代表圖像_虹廬_20220617"
+    },
+    "caseName": "虹廬",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本建物約建於1964年，為四層樓之集合住宅，係建築師王大閎所設計，王大閎先生曾居住於四樓。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 60041,
+            "name": "虹廬公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-07-19/fd0b0b97-4a29-4cb5-9360-c6c9cbb6fee0/虹廬公告.pdf"
+        },
+        {
+            "fileid": 60042,
+            "name": "公告附件.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-07-19/424f9b76-b7df-4239-84af-3f1170c9d486/公告附件.pdf"
+        },
+        {
+            "fileid": 134929,
+            "name": "@虹廬公告_含附件.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/668ece4e-8d15-4ba4-a551-90438380f7ca/@虹廬公告_含附件.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1.本建物約建於1964年，為四層樓之集合住宅，係建築師王大閎所設計，王大閎先生曾居住於四樓。\n2.建物正立面為實牆，入口以天井進入，所有居室開窗皆位於側面及後面，以此與外街區區隔。設有月門，主樓梯與屋頂圍牆分離設計具特色。本建築為現代主義之構造手法，各建築元素簡單明確，是臺灣現代建築重要案例。\n3.符合歷史建築紀念建築登錄廢止審查及輔助辦法第2條第1項第2、3款登錄基準。\n",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第2、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 60044,
+            "name": "公告附件.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2019-07-19/218c1716-3993-4467-aaaf-e07219535e26/公告附件.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "大安區懷生段三小段488地號",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "longitude": 121.53416631551103,
+    "latitude": 25.040106550410215,
+    "representImageSource": "臺北市文化局",
+    "landScope": "坐落土地為大安區懷生段三小段488地號(251平方公尺)",
+    "selfCoverage": "建物總樓層面積651.48平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 82954,
+            "caseId": 16931,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "濟南路三段18號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "懷生段三小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 91972,
+            "caseId": 16931,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 757,
+            "landSerialNo": "488",
+            "landownership": 2,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "251平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 89084,
+            "caseId": 16931,
+            "caseStatus": true,
+            "registerDate": 1561910400000,
+            "officialDocNo": "北市文化文資字第10830261361號",
+            "classificationId": 1,
+            "note": "無"
+        }
+    ],
+    "openVisitType": ""
+}

@@ -1,0 +1,141 @@
+{
+    "id": 155,
+    "caseId": "19980901000002",
+    "count": 4931,
+    "shareCount": 6,
+    "representImage": 186347,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/3a416626-942a-4c5e-a23a-c40a5a0d3f55/代表圖像_士林公有市場_20220714_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/3a416626-942a-4c5e-a23a-c40a5a0d3f55/代表圖像_士林公有市場_20220714.jpg",
+        "name": "代表圖像_士林公有市場_20220714"
+    },
+    "caseName": "士林公有市場",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "士林公有市場位於慈諴宮之前，在清代士林建街時，慈諴宮位於市街中心，其前廟埕即為熱鬧的市集。到日治初期實施都市改正計畫，士林大南路廟口前闢建為公有市場，建築物大約在一九一０年代落成，當時臺北地區尚有西門町新起街市場、大稻埕市場及南門市場等，如今大多已改建，士林公有市場為年代僅次於西門市場者，且象徵傳統廟口與近代公共市場之結合，具有歷史與民俗之價值。它的兩端有磚砌的高大山牆，屋頂上闢有通氣窗，側牆有許多扶壁，窗子採弧形拱，表現出諸多建築設計上的特色。 ",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "市場",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 138172,
+            "name": "4._870901檢送市定古蹟與紀念性建築物公告文函.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/92199bb3-38a0-4067-bb99-69b9768b3283/4._870901檢送市定古蹟與紀念性建築物公告文函.pdf"
+        },
+        {
+            "fileid": 138173,
+            "name": "3._870901指定市定古蹟與紀念性建築物公告.tif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/c786ec79-d2e1-4543-924a-1ae6398112b9/3._870901指定市定古蹟與紀念性建築物公告.tif"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "各時代表現地方營造技術流派特色者",
+        "具稀少性，不易再現者",
+        "具其他古蹟價值者"
+    ],
+    "registerReason": "1.創建於1910年前後，為台北市所保存較為古老之傳統公有市場，近年又擴展為士林夜市，遠近馳名，在台灣近代史上具有重要地位。\r\n2.規模宏大，保存完好，使用紅磚與木椼架混合構造，屬日治時期典型之建築結構，它臨接士林慈諴宮，與傳統廟口廣場合為一體，確實少見，體現傳統與現代之融合。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 138174,
+            "name": "B022 台北市 士林公有市場 (直轄定)03.JPG",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/9f276950-b83b-4161-8205-a4333b2e83cf/B022 台北市 士林公有市場 (直轄定)03.JPG"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "市場用地",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "台北市光華段四小段508-4、508-5等地號",
+    "buildingFeatures": "建築物兩端有磚砌的高大山牆，屋頂上闢有通氣窗，側牆有許多扶壁，窗子採弧形拱。",
+    "inHouseFeatures": "內部屋頂為大跨距木椼架。",
+    "buildingUsage": "仍維持市場使用型態。",
+    "buildingActualState": "士林公有市場位於慈諴宮之前，在清代士林建街時，慈諴宮位於市街中心，其前廟埕即為熱鬧的市集。目前古蹟仍維持市場使用。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.524152,
+    "latitude": 25.0887173,
+    "representImageSource": "臺北市文化局",
+    "landScope": "台北市光華段四小段508-4、508-5等地號",
+    "selfCoverage": "士林公有市場兩側紅磚附騎樓之店舖",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 93175,
+            "caseId": 155,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "大南路89號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "光華段四小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 114506,
+            "caseId": 155,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 511,
+            "landSerialNo": "0508-0004",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "5262平方公尺",
+            "cityLandUseTypeOther": "市場用地",
+            "note": "分割自:508地號",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "光華段四小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 114507,
+            "caseId": 155,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 511,
+            "landSerialNo": "0508-0005",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "866平方公尺",
+            "cityLandUseTypeOther": "市場用地",
+            "note": "分割自:508地號",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 100570,
+            "caseId": 155,
+            "caseStatus": true,
+            "registerDate": 904579200000,
+            "officialDocNo": "府民三字第八七0四八0三七0一號",
+            "classificationId": 1,
+            "note": "無"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false,
+    "pastHistorySource": "台北市古蹟簡介，2003，台北市文化局"
+}

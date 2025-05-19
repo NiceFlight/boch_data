@@ -1,0 +1,100 @@
+{
+    "id": 17337,
+    "caseId": "20200206000008",
+    "count": 407,
+    "shareCount": 1,
+    "representImage": 65715,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-02-06/39fcd745-8ccc-4e27-9f46-ef9385f443c1/IMG_0605_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-02-06/39fcd745-8ccc-4e27-9f46-ef9385f443c1/IMG_0605.jpg",
+        "name": "IMG_0605"
+    },
+    "caseName": "澎湖天后宮「孝慈則忠」匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1570603041451,
+    "officialDocNo": "中華民國108年10月9日府授文博字第1083703353號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "1、具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：「孝慈則忠」語出《論語》季康子問政，其中「孝慈則忠」之意為敬老愛幼，能贏得忠誠。本匾讚揚媽祖孝順慈愛，獲信眾誠服；此匾於天后宮大正12年(1923)年孟冬落成所獻，見證天后宮修建的歷史。\n2、具有藝術造詣或科學成就：本匾書家將字體重心挪移: 「孝」字上緊下鬆；「慈」、「忠」二字走勢從左下往右下；「則」字左緊右鬆。文字大氣、具有律動。\n",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、4款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00646-P-106-0004",
+    "amount": 1,
+    "descAge": "大正癸亥年",
+    "descSize": "寬約195公分",
+    "descMaterial": "木",
+    "reserveStatusDesc": "橫長形木匾，匾面黑，無拼接、有二道橫向木裂痕，字皆笑竹（陰刻）填金漆並貼金，金箔多已脫落。中行「孝慈則忠」，字有破鋒，木裂處貼金較多，不排除為後來補上；上款「大正癸亥年冬月　吉旦」，下款「馬公北甲弟子黃兆宗／黃培林仝敬獻」，後有二方印「兆宗培林」與「頂生得泉」。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "時間：   大正癸亥年冬月　吉旦  捐贈者：馬公北甲弟子黃兆宗／黃培林仝敬獻",
+    "saveEnvironment": 2,
+    "reserveStatus": "澎湖天后宮第二進前落左次間後副點柱間",
+    "documents": [
+        {
+            "fileid": 106555,
+            "name": "澎湖天后宮「孝慈則忠」匾公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-04-20/f5e511d6-bc7b-441b-97f8-445dcefb6ae2/澎湖天后宮「孝慈則忠」匾公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.564038,
+    "latitude": 23.564693,
+    "representImageSource": "澎湖縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "澎湖天后宮",
+            "keepName": "蔡光明",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "澎湖天后宮",
+            "keepAddressNew": "澎湖縣馬公市中央里正義街1號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 127643,
+            "caseId": 17337,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "中央里正義街1號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 138565,
+            "caseId": 17337,
+            "caseStatus": true,
+            "registerDate": 1570603041451,
+            "officialDocNo": "府授文博字第1083703353號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

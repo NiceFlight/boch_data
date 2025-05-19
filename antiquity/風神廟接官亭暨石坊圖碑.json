@@ -1,0 +1,110 @@
+{
+    "id": 3279,
+    "caseId": "20150511000008",
+    "count": 375,
+    "shareCount": 0,
+    "representImage": 174510,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-07-20/475396b5-dab8-4b0a-93fd-917962ff1a7c/古物019風神廟接官亭暨石坊圖碑_P001_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-07-20/475396b5-dab8-4b0a-93fd-917962ff1a7c/古物019風神廟接官亭暨石坊圖碑_P001.jpg",
+        "name": "古物019風神廟接官亭暨石坊圖碑_P001"
+    },
+    "caseName": "風神廟接官亭暨石坊圖碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-其他",
+    "otherAssetsType": "圖書文獻",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1431273600000,
+    "officialDocNo": "府文資處字第1040415095B號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有珍貴及稀有性者"
+    ],
+    "registerReason": "乾隆四年（西元1739年）臺灣道鄂善倡於南河港（昔府城五條港之一）右側、安瀾橋（今已不存）旁建風神廟與接官亭，以利舟楫、迎送來臺仕宧官員。\n乾隆四十二（西元1777年）臺灣知府蔣元樞重修風神廟，新建石坊於碼頭之上，坊前砌以石階，以便登舟上岸；竣工後，蔣氏撰圖文勒石以記，碑記今已不存，圖碑即為本碑。從圖碑可見接官亭昔日水上風光，並見風神、官廳、公廨等建築格局，為臺灣傳統建築之珍貴史料。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第2條第1項第1、2、5款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "中西區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "reservationCode": "5040114-5015263",
+    "amount": 1,
+    "notes": "",
+    "descAge": "1777（清乾隆四十二年）",
+    "descCreator": "蔣元樞",
+    "descSize": "縱234公分*橫88公分*厚12公分",
+    "descMaterial": "花崗岩",
+    "reserveStatusDesc": "數量：1組1件。\n主要材質：花崗岩。\n尺寸：：縱234公分*橫88公分*厚12公分。\n特徵：額刻雙龍拱日、碑身陽刻建築圖。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 2,
+    "reserveStatus": "公告無資料",
+    "documents": [
+        {
+            "fileid": 174494,
+            "name": "風神廟接官亭暨石坊圖碑公告-104.05.11.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-20/56d17fd4-62b3-48da-b620-aeaf696d3c49/風神廟接官亭暨石坊圖碑公告-104.05.11.pdf"
+        },
+        {
+            "fileid": 174495,
+            "name": "風神廟接官亭暨石坊圖碑公告表-104.05.11.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-20/b68aca7f-c24e-461b-bb52-54269be6e367/風神廟接官亭暨石坊圖碑公告表-104.05.11.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.20295787302999,
+    "latitude": 22.986454185520678,
+    "representImageSource": "臺南市政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "臺南市政府",
+            "keepName": "臺南市政府",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "大南門碑林",
+            "keepAddressNew": "大南門碑林",
+            "saveSpaceOther": "大南門碑林",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺南市",
+            "keepNameDistName": "中西區",
+            "keepNameAddress": "南門路38號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "id": 92591,
+            "caseId": 3279,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601,
+            "address": "樹林街二段"
+        }
+    ],
+    "announces": [
+        {
+            "id": 99880,
+            "caseId": 3279,
+            "caseStatus": true,
+            "registerDate": 1431273600000,
+            "officialDocNo": "府文資處字第1040415095B號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

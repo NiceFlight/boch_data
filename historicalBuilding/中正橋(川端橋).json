@@ -1,0 +1,128 @@
+{
+    "id": 2105,
+    "caseId": "20150901000001",
+    "count": 3719,
+    "shareCount": 5,
+    "representImage": 186862,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/50d33ebc-d5bf-4a77-9abd-c6c39134fc92/代表圖像_中正橋(川端橋)_20220621_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/50d33ebc-d5bf-4a77-9abd-c6c39134fc92/代表圖像_中正橋(川端橋)_20220621.jpg",
+        "name": "代表圖像_中正橋(川端橋)_20220621"
+    },
+    "caseName": "中正橋(川端橋)",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "日據時期建物，始建於1935年，至1937年(民國26年)正式通車。",
+    "assetsTypeNames": "橋樑",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 162494,
+            "name": "104年公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/24bc1b93-b827-4da6-84af-9aa1f98bfba1/104年公告.pdf"
+        },
+        {
+            "fileid": 162495,
+            "name": "105年公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/231a4d9c-fce8-4d87-abc7-4e740c25f3aa/105年公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "1、中正橋，舊名川端橋，日據時期與臺北橋、昭和橋（光復橋）、明治橋（中山橋）並列臺北四大名橋，為日據時期留存至今僅存之臺北市聯外橋梁，堪稱為臺北市土木橋梁史之見證。\r\n2、中正橋主結構仍為日據時期初建型式，以鋼筋混凝土造聯合基腳之基礎結合雙柱式拱型橋墩及鋼板大梁為主結構。現存之基礎、橋墩與鉚釘接合鋼板大梁皆為日據時期之構件，保存狀況良好。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、3款評定基準。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 162496,
+            "name": "7b30f164-6fc2-492e-b54d-892cc80d7160.png",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/76487475-4ff5-40c7-9723-d6d58f31adc7/7b30f164-6fc2-492e-b54d-892cc80d7160.png"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 9,
+    "nonCityLandUseTypeName": "河川區",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "1、歷史建築範圍：以1937年日據時期興建之P1至P13橋墩及該橋墩上鋼版大梁為保存主體。\r\n2、定著土地之範圍：臺北市中正區河堤段6小段630地號毗鄰部分未登錄地(河川公有地)及新北市永和區文化段2、3、4、4-1、5地號部分土地(面積2642.64平方公尺，為A1橋台至P13橋墩距離之橋梁及沉箱範圍之投影)。（實際保存面積須以保存範圍實測數據為準）",
+    "buildingFeatures": "中正橋主結構仍為日據時期初建型式，以鋼筋混凝土造聯合基腳之基礎結合雙柱式拱型橋墩及鋼板大梁為主結構。現存之基礎、橋墩與鉚釘接合鋼板大梁皆為日據時期之構件。",
+    "inHouseFeatures": "",
+    "buildingUsage": "連結臺北市中正區重慶南路三段及新北市永和區永和路二段之運輸要道。",
+    "buildingActualState": "於民國50、60年代多次拓寬增建並加長橋面，通車使用中。",
+    "buildingKeyMaintainItem": "應以1937年日據時期興建之橋墩與鋼板大梁橋梁為保存主體原則。",
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isOpenDownload": false,
+    "longitude": 121.51661599049339,
+    "latitude": 25.021930719312515,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市中正區河堤段6小段630地號毗鄰未登錄土地。\r\n（實際保存面積須以保存範圍實測數據為準）",
+    "selfCoverage": "實際保存面積須以保存範圍實測數據為準",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 93636,
+            "caseId": 2105,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "本橋梁坐落於臺北市中正區重慶南路三段及新北市永和區永和路二段銜接之橋體"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "河堤段六小段",
+            "noncityLandUseTypeName": "河川區",
+            "noncityLandUseSubTypeName": "礦業",
+            "id": 115209,
+            "caseId": 2105,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 13,
+            "landSerialNo": "630",
+            "landownership": 1,
+            "noncityLandUseTypeId": 9,
+            "noncityLandUseSubTypeId": 9,
+            "coverageId": 1,
+            "note": "無",
+            "cityLandUseId": 2
+        }
+    ],
+    "announces": [
+        {
+            "id": 101044,
+            "caseId": 2105,
+            "caseStatus": true,
+            "registerDate": 1441036800000,
+            "officialDocNo": "北市文化文資字第10430434700號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        },
+        {
+            "id": 101045,
+            "caseId": 2105,
+            "caseStatus": true,
+            "registerDate": 1459094400000,
+            "officialDocNo": "北市文化文資字第10530356100號",
+            "classificationId": 2,
+            "note": "修正定著土地範圍"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

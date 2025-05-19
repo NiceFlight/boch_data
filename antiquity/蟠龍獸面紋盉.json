@@ -1,0 +1,103 @@
+{
+    "id": 3910,
+    "caseId": "20121112000034",
+    "count": 227,
+    "shareCount": 0,
+    "representImage": 6718,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32896/photo/8bb21afc-49f3-4dcd-a2b3-237a6478dabb_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32896/photo/8bb21afc-49f3-4dcd-a2b3-237a6478dabb.JPG",
+        "name": "8bb21afc-49f3-4dcd-a2b3-237a6478dabb"
+    },
+    "caseName": "蟠龍獸面紋盉",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1352649600000,
+    "officialDocNo": "文授字第10120135331號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本器蓋鈕作立體盤龍，器腹作四等分，鼓凸似袋狀。腹部左側有一管狀流嘴，右側是一牛頭把手。腹部作四幅有角的獸面，流嘴飾「夔龍紋」，頸部飾獸紋，足部作蟬紋。蓋內及器右側把手內的腹壁上，鑄有相同的銘文「逆」字。此器紋飾細密精緻，蓋鈕作立體盤龍為其特色。於研究古代青銅工藝及宗教文化，均具重要價值。為清宮舊藏之商周銅器精品。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第3、4、5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故銅002380",
+    "amount": 1,
+    "notes": "",
+    "descAge": "商",
+    "descSize": "高27.5cm。",
+    "descMaterial": "銅",
+    "reserveStatusDesc": "蓋鈕作立體盤龍，器腹作四等分，鼓凸似袋狀。腹部左側有一管狀流嘴，右側是一牛頭把手。腹部作四幅有角的獸面，流嘴飾「夔龍紋」，頸部飾獸紋，足部作蟬紋。蓋內及器右側把手內的腹壁上，鑄有相同的銘文「逆」字。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。足有裂傷。多處有舊傷。",
+    "documents": [
+        {
+            "fileid": 150838,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-20/b713890b-a98c-40c4-bd84-b558d19b715c/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院  ",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71206,
+            "caseId": 3910,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75572,
+            "caseId": 3910,
+            "caseStatus": true,
+            "registerDate": 1352649600000,
+            "officialDocNo": "文授字第10120135331號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

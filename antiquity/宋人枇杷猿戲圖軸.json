@@ -1,0 +1,107 @@
+{
+    "id": 4018,
+    "caseId": "20120326000073",
+    "count": 272,
+    "shareCount": 0,
+    "representImage": 6895,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/33004/photo/f980ebb8-3c2a-4ebf-b051-bc8a5ddfaaef_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/33004/photo/f980ebb8-3c2a-4ebf-b051-bc8a5ddfaaef.JPG",
+        "name": "f980ebb8-3c2a-4ebf-b051-bc8a5ddfaaef"
+    },
+    "caseName": "宋人枇杷猿戲圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本幅為一雙拼絹本大軸，所畫精湛，堪為宋畫中大幅猿畫之精品，學界據此推論是軸就出自北宋畫猿聖手易元吉﹙約活動於十一世紀後半葉﹚。具有品質精良且數量特別稀少。具有特殊藝術造詣。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第四條第一項第四、五、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000194",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descSize": "165 x 107.9（公分）",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "老樹擎空，突出畫幅，其枝垂掛，復返畫中。畫幅中的枝幹，筆不連而意連，足見畫家佈局之匠心。一猿攀枝搖盪；一猿則踞幹慵坐，四目凝望，情意相繫，得猿猴動息之情。畫者特善用墨，曲盡黑猿毛色之狀，可謂已超越狀物之生，達於寫物之理趣。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 151808,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-26/ff38057e-8329-494a-9fcf-48ed64b447aa/公告.pdf"
+        },
+        {
+            "fileid": 151809,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-26/9573fc66-dcff-4999-9dd5-5213f69a26cd/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71502,
+            "caseId": 4018,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75963,
+            "caseId": 4018,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

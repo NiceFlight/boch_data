@@ -1,0 +1,107 @@
+{
+    "id": 4244,
+    "caseId": "20120209000003",
+    "count": 1275,
+    "shareCount": 1,
+    "representImage": 52583,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-12-14/7a6f774d-6c71-4b58-8857-c10aec876d1f/1214_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-12-14/7a6f774d-6c71-4b58-8857-c10aec876d1f/1214.jpg",
+        "name": "1214"
+    },
+    "caseName": "阿美族太巴塱部落Kakitaan祖屋雕刻柱(O ma'ot'otay a sariri no Loma' no Kakitaan i niyaro' no Tafalong)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1328716800000,
+    "officialDocNo": "文資籌二字第10120009013號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "具有特殊之時代特色、技術及流派",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "祖祠是往昔阿美族太巴塱部落宗教信仰的核心所在，Kakitaan家原祖祠已不復存在，僅餘此批木雕刻屋柱，除了保存狀態尚佳之外，標本採集資料也清楚明確，益顯其珍貴，並富有研究價值。木柱雕刻型制特殊，圖紋所表現口傳故事、起源傳說具有豐富的內涵，亦成為該族群近年祖祠重建之依據。",
+    "lawsReference": "「文化資產保存法」第66條及「古物分級登錄指定及廢止審查辦法」第四條第一項第一、三、五、六款；第六條及第七條。第三條第一項第一、三、五、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "南港區",
+    "govInstitution": "文化資產局",
+    "govDeptName": "古物遺址組",
+    "govDeptPhone": "04-22295848#135",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "08447/20743、08448/20744、08449/20745、08450/20746、08452/20748、08451/20747、08453/20749",
+    "keepNameId": 8,
+    "keepName": "民族學研究所",
+    "keepNameNew": 8,
+    "keepAddressNew": "115台北市南港區研究院路二段128號",
+    "saveSpaceId": 11,
+    "saveSpaceIdentityId": 8,
+    "amount": 7,
+    "notes": "",
+    "descAge": "不明",
+    "descSize": "1.08447/20743:315X90X80X12.5；2.08448/20744:385X78X72X13.5；3.08449/20745:245X105X89X10；4.08450/20746:240X95X82X11.5；5.08452/20748:206X65X9.2；6.08453/20749:225X70X60X7；7.08451/20747:218X111X90X15cm",
+    "descMaterial": "木質",
+    "reserveStatusDesc": "保存狀態尚佳。",
+    "pastHistorySource": 5,
+    "pastHistorySourceNotes": "1958；劉斌雄；花蓮縣光復鄉太巴塱部落",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 47906,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-04-09/aab15b44-a1fd-47f0-865e-5a725a2aa52c/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "",
+    "keepNames": [
+        {
+            "keepNameIdStr": "中央研究院民族學研究所",
+            "keepName": "民族學研究所",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "中央研究院民族學研究所",
+            "keepAddressNew": "115台北市南港區研究院路二段128號",
+            "saveSpaceIdStr": "研究設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "南港區",
+            "keepNameAddress": "研究院路二段128號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "南港區",
+            "id": 4386,
+            "caseId": 4244,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 111
+        }
+    ],
+    "announces": [
+        {
+            "id": 4386,
+            "caseId": 4244,
+            "caseStatus": true,
+            "registerDate": 1328716800000,
+            "officialDocNo": "文資籌二字第10120009013號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

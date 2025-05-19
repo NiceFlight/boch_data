@@ -1,0 +1,118 @@
+{
+    "id": 23132,
+    "caseId": "20250213000003",
+    "count": 210,
+    "shareCount": 0,
+    "representImage": 279765,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2025-01-09/f1fe75a6-9242-421b-a912-a6319e560884/新坡國小宿舍_代表圖_c.png"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2025-01-09/f1fe75a6-9242-421b-a912-a6319e560884/新坡國小宿舍_代表圖.png",
+        "name": "新坡國小宿舍_代表圖"
+    },
+    "caseName": "新坡國小宿舍",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "戰後初期，新坡國小所在的觀音鄉新坡村，其聚落西側有新坡國中、觀音高中等校，農會在東側，發展規模可觀。\n為便利周邊地區子弟進學，大正12年（1923）設立觀音公學校新坡分教場，初期借用大堀莊李賜家屋作為教室及宿舍使用，部分教室則利用莊氏屋厝，於大正13年（1924）3月20日完成磚造校舍，於昭和3年（1928）升格為新坡公學校。\n戰後初為新竹縣立觀音鄉新坡國民學校，民國39年（1950）改為桃園縣觀音鄉新坡國民學校，民國57年（1968）改名為新坡國民小學至今。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 279764,
+            "name": "府文資字第11303598911號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2025-01-09/93a8302a-32e7-4c47-90bd-e29c6c5b1301/府文資字第11303598911號公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1.具建築史或技術史之價值者：建於戰後初期，為典型日式宿舍之構造與格局，見證戰後初期延續戰前日治時期日式宿舍構造工法，具戰後初期建築技術史保存之文資價值。\n2.具地區性建造物類型之特色者：本案宿舍之興建反映出觀音地區在戰後初期因應大量學生入學所進行之因應措施，為現存少見仍持續使用之建築，具地區性建造物類型之特色。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第2、3款",
+    "govInstitutionCode": "330",
+    "govInstitutionName": "桃園市政府",
+    "govInstitution": "桃園市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-3322592分機8616",
+    "govDeptAddress": "桃園市桃園區縣府路21號",
+    "cadasters": [
+        {
+            "fileid": 279769,
+            "name": "新坡國小宿舍_登錄面積示意圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2025-01-09/cc0414c2-106a-4ee1-af96-640516c4269f/新坡國小宿舍_登錄面積示意圖.pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 25.01428,
+    "latitude": 121.13787,
+    "representImageSource": "桃園市政府文化局",
+    "landScope": "新坡國小宿舍定著土地之地號為桃園市觀音區新張段1510-2(部分)、1481(部份)地號。",
+    "selfCoverage": "新坡國小宿舍（7號宿舍），面積為112.52平方公尺。",
+    "addresses": [
+        {
+            "cityName": "桃園市",
+            "distName": "觀音區",
+            "id": 147806,
+            "caseId": 23132,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 506,
+            "address": "張厝一鄰7號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "桃園市",
+            "distName": "觀音區",
+            "landNoName": "新張段",
+            "id": 203963,
+            "caseId": 23132,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 506,
+            "landNoId": 7526,
+            "landSerialNo": "1510-2",
+            "coverageId": 1,
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "桃園市",
+            "distName": "觀音區",
+            "landNoName": "新張段",
+            "id": 203964,
+            "caseId": 23132,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 506,
+            "landNoId": 7526,
+            "landSerialNo": "1481",
+            "coverageId": 1,
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 160531,
+            "caseId": 23132,
+            "caseStatus": true,
+            "registerDate": 1736230186185,
+            "officialDocNo": "府文資字第11303598911號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.13800089928512,25.014108046132595],[121.1376978127304,25.014213606669806],[121.13762208494734,25.014212746853886],[121.13765925299616,25.01447328864369],[121.13736762638922,25.014523214243653],[121.13749880480077,25.01451979765879],[121.13769737596778,25.014532714048386],[121.13772848131896,25.014536359779395],[121.13803853581337,25.01454765565236],[121.13822712925831,25.014513273857823],[121.13823316830066,25.01451159619399],[121.13823679256109,25.014511512472545],[121.13836626592798,25.014487908418445],[121.13843649598725,25.014516219151158],[121.13844697474994,25.014520672107842],[121.1380249956074,25.014099266270414],[121.13800089928512,25.014108046132595],[121.13800089928512,25.014108046132595]]]]},\"properties\":{\"envelope\":{\"left\":\"121.13736762638922\",\"top\":\"25.014099266270414\",\"right\":\"121.13844697474994\",\"bottom\":\"25.014547655652361\"},\"landLot\":\"桃園市觀音區新張段1510-2\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.13800089928512,25.014108046132595],[121.13776102070497,25.013880510396586],[121.13751531120246,25.01392343288317],[121.13753555051422,25.014018870898543],[121.13752825380433,25.01421058560451],[121.13762208494734,25.014212746853886],[121.1376978127304,25.014213606669806],[121.13800089928512,25.014108046132595],[121.13800089928512,25.014108046132595]]]]},\"properties\":{\"envelope\":{\"left\":\"121.13751531120246\",\"top\":\"25.013880510396586\",\"right\":\"121.13800089928512\",\"bottom\":\"25.014213606669806\"},\"landLot\":\"桃園市觀音區新張段1481\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": "觀音區新坡國小（西棟校舍、7號宿舍）暨楊梅區仁美國中（中棟大樓）文化資產價值整體評估報告"
+}

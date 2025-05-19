@@ -1,0 +1,105 @@
+{
+    "id": 3621,
+    "caseId": "20130813000076",
+    "count": 181,
+    "shareCount": 1,
+    "representImage": 6342,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7340/photo/金剛峰樓閣一切瑜珈瑜祇經(日本建久五年寫卷子本)_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7340/photo/金剛峰樓閣一切瑜珈瑜祇經(日本建久五年寫卷子本).png",
+        "name": "金剛峰樓閣一切瑜珈瑜祇經(日本建久五年寫卷子本)"
+    },
+    "caseName": "金剛峰樓閣一切瑜珈瑜祇經(日本建久五年寫卷子本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1376323200000,
+    "officialDocNo": "文資局物字第 10220091271號",
+    "judgeCriteria": [
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "日本建久五年(1194)（南宋紹熙五年）寫卷子本\r\n凡一卷，十二品，簡稱《瑜伽瑜祇經》，又略稱《瑜祇經》。此經為密教五部祕經之一，自古與《理趣經》並稱為祕經中之祕經，為金剛界之蘇悉地（Su-siddhi，意譯為妙成就，即成就勝妙之義），內容闡說成就一切世間、出世間作業之妙法。此本存第一至四品、六至十二品，缺第五品。卷端首行頂格題「金前峰樓閣一切瑜伽瑜祇經品第一」，卷末有題記「建久五年八月之比於高野山書寫并…」。卷首有「高山寺」(位於日本京都)朱文長方印、「星吾海外訪得秘笈」及「楊印守敬」藏書印，可知本卷係清楊守敬舊藏，蓋得之於東瀛，其《日本訪書志》著錄佛典甚多，唯未見言及此卷。\r\n日本寫卷，漢梵文兼具，罕見稀有，為研究當時文化歷史不可缺少之代表性證物，具特殊歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第4條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號08803",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "日本建久5年（1194）寫",
+    "descCreator": "唐釋金剛智譯",
+    "descSize": "捲軸裝；存27紙，首紙26行，其餘26紙每紙27行，全幅26×55.5公分",
+    "descMaterial": "紙質",
+    "reserveStatusDesc": "存第一至四品，六至十二品（缺第五品）；寫本。\n\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "前端有一\"3×5\"公分見方破孔，有虫蛀。經修裱，保存狀況良好。\n",
+    "documents": [
+        {
+            "fileid": 6343,
+            "name": "61dc8b86-b2d2-43ad-a586-c00c12ff42ec.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44212/file/61dc8b86-b2d2-43ad-a586-c00c12ff42ec.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3763,
+            "caseId": 3621,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3763,
+            "caseId": 3621,
+            "caseStatus": true,
+            "registerDate": 1376323200000,
+            "officialDocNo": "文資局物字第 10220091271號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

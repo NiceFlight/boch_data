@@ -1,0 +1,100 @@
+{
+    "id": 3530,
+    "caseId": "20130613000012",
+    "count": 354,
+    "shareCount": 1,
+    "representImage": 6171,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7480/photo/宋郭忠恕雪霽江行圖軸_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7480/photo/宋郭忠恕雪霽江行圖軸.jpg",
+        "name": "宋郭忠恕雪霽江行圖軸"
+    },
+    "caseName": "宋郭忠恕雪霽江行圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1371052800000,
+    "officialDocNo": "文資局物字第10220064921號",
+    "judgeCriteria": [
+        "具有特殊藝術造詣或科學成就",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "郭忠恕特別擅長界畫，作畫的時候會把建築按比例尺縮小，幾乎可以當做施工圖來使用，其界畫精細準確而不呆板，十分典雅。\r\n此圖無名款，上有宋徽宗（1082－1135）瘦金體「雪霽江行圖，郭忠恕真跡」款題，並鈐「御書之寶」印。本件作品是流傳下來被認為是郭忠恕畫作當中，時代最早、水準最高的一件。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第4條第四、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000041",
+    "amount": 1,
+    "descAge": "五代",
+    "descSize": "74.1 x 69.2（公分）",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "郭忠恕（？－977），字恕先，河南洛陽人。原為高頭大卷，後被裁切，前方船夫拉縴活動已不見。畫中兩艘單桅船，蓬頂下方作成軒房。船隻主桅有纜繩延伸至船沿，整幅船身、船艙、舵樓、桅桿等，皆描繪仔細，結構嚴謹合理。由船上載滿貨物可知為商船，是研究宋代船隻重要的參考資料。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 150607,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-18/5fc5f2cc-2df1-4dc1-bdd4-040f9cfd0f1d/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71047,
+            "caseId": 3530,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75367,
+            "caseId": 3530,
+            "caseStatus": true,
+            "registerDate": 1371052800000,
+            "officialDocNo": "文資局物字第10220064921號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

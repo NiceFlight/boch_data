@@ -1,0 +1,95 @@
+{
+    "id": 22997,
+    "caseId": "20240918000008",
+    "count": 63,
+    "shareCount": 0,
+    "representImage": 262332,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-09-18/dcb9f2ee-88b4-41c5-aacb-a05d9492fad9/K1D006013N000000000PAB_c.png"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-09-18/dcb9f2ee-88b4-41c5-aacb-a05d9492fad9/K1D006013N000000000PAB.png",
+        "name": "K1D006013N000000000PAB"
+    },
+    "caseName": "清 皇子夏朝冠冠後金龍",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "能表現傳統、族群或地方之風俗、記憶及傳說、信仰、技藝或生活文化之重要特色",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "此金龍金纍絲技法細膩，做工精良，為清代盛期十八世紀皇家用器與宮廷金工藝的典型。鑲東北特產珍珠，又稱為「東珠」。因東北是滿清的「龍興之地」，故東珠備受珍視，其使用受到嚴格控管。如《大清律例》〈戶律·市廛〉記載「凡應用東珠重不得過三分，如用三分以上即同違式」。除規範東珠尺寸，其使用的數量也需與身分、品秩對應。\n此為皇子夏朝冠背面中央綴飾。據《皇朝禮器圖式》〈皇子夏朝冠〉所用後綴金花飾東珠四顆，與本件相符。附黃籤：「乾隆五十五年(1790)八月初二日熱河帶來，帽後金龍一座嵌三等東珠四顆重一兩」，提供當時對物品的紀錄，為重要物質資料。 ",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第1、3、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故雜006013",
+    "amount": 1,
+    "descAge": "清",
+    "descSize": "長4.0 寬2.3 高4.8",
+    "descMaterial": "金、珍珠/錘鍱、纍絲、焊接",
+    "reserveStatusDesc": "此金龍通體以精微細膩的纍絲工藝製成，五爪行龍托承於祥雲、靈芝及三層金座之上。龍身細長矯健，龍首回轉鬃毛揚起，張口噴吐火珠。龍身周側四朵瑞花環繞，共四顆東珠分飾於花心。托座底部繞以蓮瓣紋，中層為行龍，上層為火燄紋與金珠。附黃籤：「乾隆五十五年八月初二日熱河帶來，帽後金龍一座嵌三等東珠四顆重一兩」。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": " ",
+    "documents": [
+        {
+            "fileid": 262289,
+            "name": "11330087931號公告用印後PDF.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-09-18/9909b4a7-d55a-47d7-8388-837dd49ad3fc/11330087931號公告用印後PDF.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 135984,
+            "caseId": 22997,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 148471,
+            "caseId": 22997,
+            "caseStatus": true,
+            "registerDate": 1725357988508,
+            "officialDocNo": "文授資局物字第11330087931號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

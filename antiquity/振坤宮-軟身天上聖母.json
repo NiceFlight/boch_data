@@ -1,0 +1,106 @@
+{
+    "id": 3253,
+    "caseId": "20160112000002",
+    "count": 512,
+    "shareCount": 0,
+    "representImage": 5700,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43361/photo/b2c06d92-6699-41ae-a0b5-a1b90c7d4088_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43361/photo/b2c06d92-6699-41ae-a0b5-a1b90c7d4088.jpg",
+        "name": "b2c06d92-6699-41ae-a0b5-a1b90c7d4088"
+    },
+    "caseName": "振坤宮-軟身天上聖母",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-其他",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1452528000000,
+    "officialDocNo": "府授文資遺字第10500042671號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有珍貴及稀有性者"
+    ],
+    "registerReason": "1.\t振坤宮軟身天上聖母曾誤傳為藤編，實為「藤製」之神像，材質實屬罕見；具有歷史意義或能表現傳統、族群或地方文化特色。\r\n2.\t神像所附弓鞋一雙，係手工針綉，為難得清代手工織物，納入本案附件保存。",
+    "lawsReference": "符合「古物分級登錄指定及廢止審查辦法」第2條第1項第1、2、3、5款評定基準，爰依據「古物分級登錄指定及廢止審查辦法」第5、7條登錄。",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "大里區",
+    "govInstitution": "臺中市文化資產處",
+    "govDeptName": "遺址傳藝課",
+    "govDeptPhone": "04-22290280#501",
+    "govDeptAddress": " 臺中市南區復興路三段362號R10",
+    "reservationCode": "府授文資遺字第10500042671號",
+    "keepNameId": 17,
+    "keepName": "振坤宮",
+    "keepNameNew": 17,
+    "keepAddressNew": "臺中市大里區 臺中市大里區仁化里仁化路518號",
+    "saveSpaceId": 1,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "清",
+    "descSize": "7吋",
+    "descMaterial": "木",
+    "reserveStatusDesc": "完整良好 ",
+    "pastHistorySource": 6,
+    "saveEnvironment": 2,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 5701,
+            "name": "8909ac3f-6384-448a-9c5e-78c738181ce3.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44446/file/8909ac3f-6384-448a-9c5e-78c738181ce3.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "振坤宮",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺中市大里區 臺中市大里區仁化里仁化路518號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "大里區",
+            "id": 3394,
+            "caseId": 3253,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1010
+        }
+    ],
+    "announces": [
+        {
+            "id": 3394,
+            "caseId": 3253,
+            "caseStatus": true,
+            "registerDate": 1452528000000,
+            "officialDocNo": "府授文資遺字第10500042671號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

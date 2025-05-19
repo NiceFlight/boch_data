@@ -1,0 +1,109 @@
+{
+    "id": 1088,
+    "caseId": "20040715000002",
+    "count": 3921,
+    "shareCount": 7,
+    "representImage": 185444,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/ae454759-b2a5-434f-9093-54f4f4210d43/代表圖像_五分吊橋_20220921_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/ae454759-b2a5-434f-9093-54f4f4210d43/代表圖像_五分吊橋_20220921.jpg",
+        "name": "代表圖像_五分吊橋_20220921"
+    },
+    "caseName": "五分吊橋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "為臺北市區基隆河少數現存之吊橋遺址。吊橋之設立係作為早期內湖地區運送煤礦之交通要道，其遺址乃地方產業發展之歷史見證。\r\n該吊橋為內湖區跨越基隆河最早的一座煤炭運輸專用吊橋，吊橋橋面已於民國60、70年間拆除，目前只殘留北河岸的橋柱。",
+    "assetsTypeNames": "橋樑",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 169647,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/7132f576-1a3f-487a-955b-a0f43f377b15/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "1.為臺北市區基隆河少數現存之吊橋遺址\r\n2.吊橋之設立係作為早期內湖地區運送煤礦之交通要道，其遺址乃地方產業發展之歷史見證。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 169648,
+            "name": "b6b54189-9445-45f3-b563-86e818bce3bd.png",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/d2175cc5-81ee-417e-b0fc-7a407b1bd55d/b6b54189-9445-45f3-b563-86e818bce3bd.png"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "河堤用地",
+    "locationLandNo": "台北市內湖區潭美段1小段35-3地號",
+    "buildingFeatures": "有半圓拱樑，柱之下端有扶壁（Buttress），結構及造型具有特色。",
+    "buildingActualState": "吊橋橋面已於民國60、70年間拆除，目前只殘留北河岸的橋柱。",
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.613593,
+    "latitude": 25.066098,
+    "representImageSource": "臺北市文化局",
+    "landScope": "台北市內湖區潭美段1小段35-3地號",
+    "selfCoverage": "實際保存面積需以保存範圍實測數據為準",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "內湖區",
+            "id": 92650,
+            "caseId": 1088,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 110,
+            "address": "安康路402號旁涵洞另一側"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "內湖區",
+            "landNoName": "潭美段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 113208,
+            "caseId": 1088,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 110,
+            "landNoId": 288,
+            "landSerialNo": "35-3",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "167.00平方公尺",
+            "cityLandUseTypeOther": "河堤用地",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 99947,
+            "caseId": 1088,
+            "caseStatus": true,
+            "registerDate": 1089820800000,
+            "officialDocNo": "府文化二字第09304442801號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

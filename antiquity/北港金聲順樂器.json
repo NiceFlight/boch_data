@@ -1,0 +1,118 @@
+{
+    "id": 3230,
+    "caseId": "20150915000004",
+    "count": 699,
+    "shareCount": 0,
+    "representImage": 147325,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-13/1eb1e949-e6f9-48b0-8ef6-da3150544210/DSC04052-hhy_銅鑼_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-13/1eb1e949-e6f9-48b0-8ef6-da3150544210/DSC04052-hhy_銅鑼.jpg",
+        "name": "DSC04052-hhy_銅鑼"
+    },
+    "caseName": "北港金聲順樂器",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1442246400000,
+    "officialDocNo": "府文資二字第1047408517B號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "(一)鑼鈸樂器製作時間歷史悠久，為北港地區重要開路鼓團體所使用。\r\n(二)大鑼留有金聲順字款，與百年團體金聲順有密切歷史淵源關係。\r\n(三)見證早期銅質樂器之製作技法，具歷史文化藝術價值。",
+    "lawsReference": "《文化資產保存法》第65條暨《古物分級登錄指定及廢止審查辦法》第2條第1項第1款至第6款及第7條規定。",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "belongCityId": 13,
+    "belongCityName": "雲林縣",
+    "belongDistName": "北港鎮",
+    "govInstitution": "雲林縣政府",
+    "govDeptName": "文化觀光處",
+    "govDeptPhone": "(05)5523218",
+    "govDeptAddress": "雲林縣斗六市大學路三段310號",
+    "reservationCode": "暫無",
+    "amount": 4,
+    "notes": "",
+    "descAge": "前清時期遺物，但無法確定其真正年代",
+    "descSize": "大鑼直徑81公分、厚10公分、重10.5公斤",
+    "descMaterial": "青銅",
+    "reserveStatusDesc": "北港金聲順樂器共有大鑼、中鑼、小鑼、鈸等四件，主要材質為青銅，特徵如下：\r\n(一)大鑼直徑81公分、厚10公分、重10.5公斤，為圓盤型，圓盤中間為圓突狀敲擊區。\r\n(二)中鑼直徑37公分、厚6公分、重1.7公斤，為平面圓盤型。\r\n(三)小鑼直徑24公分、厚5公分、重0.5公斤，為圓盤型，圓盤中間為圓突狀敲擊區。\r\n(四)鈸：一組兩件，直徑32公分、厚10公分、共重2.4公斤，為平面圓盤型，中間有圓突狀，留有孔洞用來綁以布條成為握把。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 142089,
+            "name": "中華民國104年03月10日 府文資二字第1047401913號 北港金聲順樂器.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-10-31/34102d49-22b1-4f69-ab75-91e69cee22ed/中華民國104年03月10日 府文資二字第1047401913號 北港金聲順樂器.pdf"
+        },
+        {
+            "fileid": 142090,
+            "name": "中華民國104年09月15日 府文資二字第1047408517號 北港金聲順樂器.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-10-31/b4d3b3a6-7809-4c1a-a8e1-057167b2d222/中華民國104年09月15日 府文資二字第1047408517號 北港金聲順樂器.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 23.5789379086257,
+    "latitude": 120.30149474541899,
+    "representImageSource": "雲林縣政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "社團法人雲林縣金聲順古樂協會",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "雲林縣北港文化中心",
+            "keepAddressNew": "雲林縣北港鎮東陽里14鄰中山南路24號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "雲林縣",
+            "keepNameDistName": "北港鎮",
+            "keepNameAddress": "公園路66號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "北港鎮",
+            "id": 76762,
+            "caseId": 3230,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1316,
+            "address": "公園路66號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 82442,
+            "caseId": 3230,
+            "caseStatus": true,
+            "registerDate": 1425916800000,
+            "officialDocNo": "府文資二字第1047401913B號",
+            "classificationId": 1
+        },
+        {
+            "id": 82443,
+            "caseId": 3230,
+            "caseStatus": true,
+            "registerDate": 1442246400000,
+            "officialDocNo": "府文資二字第1047408517B號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

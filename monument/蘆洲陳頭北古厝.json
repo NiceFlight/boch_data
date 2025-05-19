@@ -1,0 +1,132 @@
+{
+    "id": 5064,
+    "caseId": "20170926000003",
+    "count": 4308,
+    "shareCount": 9,
+    "representImage": 226517,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-07-03/a8245615-d131-45cf-bfeb-e262e9ef31ba/照片_市定古蹟_蘆洲陳頭北古厝_ (4)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-07-03/a8245615-d131-45cf-bfeb-e262e9ef31ba/照片_市定古蹟_蘆洲陳頭北古厝_ (4).jpg",
+        "name": "照片_市定古蹟_蘆洲陳頭北古厝_ (4)"
+    },
+    "caseName": "蘆洲陳頭北古厝",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "registerDate": 1501242882287,
+    "officialDocNo": "新北府文資字第1061434551號公告",
+    "documents": [
+        {
+            "fileid": 164801,
+            "name": "蘆洲陳頭北古厝公告-106.7.28.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-23/8e3f5b94-a749-4f71-8541-fb506bc8d123/蘆洲陳頭北古厝公告-106.7.28.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "各時代表現地方營造技術流派特色者",
+        "具稀少性，不易再現者"
+    ],
+    "registerReason": "一、建物約建於日治昭和初年，距今八十餘年，由陳頭北先生聘匠師興建落成，大廳具祭祀功能，見證陳姓家族在蘆洲地區開發，具有歷史價值。符合古蹟指定及廢止審查辦法第2條第1項第1、4款評定基準。\n二、古厝為紅磚砌凹壽型紅瓦厝，僅剩正身，結合傳統建築與洋式建築的折衷樣式作法，在建築史和技術史上具保存價值。屋脊上菊花混合西方橢圓飾之剪黏泥塑作工、屋簷之魚頭落水具特色，正身立面有立體浮雕門窗、灰泥塑、木雕、圓拱門洗石裝飾及文字、室內之彩繪等精美，呈現1930年代中西元素混合民宅特色，具藝術美學價值。符合古蹟指定及廢止審查辦法第2條第1項第1、3、4款評定基準。",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、3、4款。",
+    "govInstitutionCode": "220",
+    "govInstitutionName": "新北市政府",
+    "belongCityId": 3,
+    "belongCityName": "新北市",
+    "belongDistName": "蘆洲區",
+    "govInstitution": "新北市政府",
+    "govDeptName": "文化局",
+    "govDeptPhone": "(02)29603456",
+    "govDeptAddress": "新北市板橋區中山路一段161號28樓",
+    "cadasters": [
+        {
+            "fileid": 102267,
+            "name": "1060828土地複丈成果圖_市定古蹟_蘆洲陳頭北古厝.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-03-24/3314dffb-1e89-496d-87ab-ad9ac7b47da7/1060828土地複丈成果圖_市定古蹟_蘆洲陳頭北古厝.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "新北市蘆洲區保新段585、586地號(部分) 。\n",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "bulkTransfer": 0,
+    "belongAddress": "新北市蘆洲區中正路485號",
+    "isOpenDownload": false,
+    "longitude": 121.461977,
+    "latitude": 25.095897,
+    "representImageSource": "新北市政府文化局",
+    "landScope": "新北市蘆洲區保新段585、586地號（部分）。",
+    "selfCoverage": "建築物正身\n",
+    "addresses": [
+        {
+            "cityName": "新北市",
+            "distName": "蘆洲區",
+            "id": 131587,
+            "caseId": 5064,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 324,
+            "address": "中正路485號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "新北市",
+            "distName": "蘆洲區",
+            "landNoName": "保新段",
+            "cityLandUseTypeName": "農業區",
+            "id": 186645,
+            "caseId": 5064,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 324,
+            "landNoId": 6432,
+            "landSerialNo": "585地號",
+            "cityLandUseTypeId": 9,
+            "area": "",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "新北市",
+            "distName": "蘆洲區",
+            "landNoName": "保新段",
+            "cityLandUseTypeName": "農業區",
+            "id": 186646,
+            "caseId": 5064,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 324,
+            "landNoId": 6432,
+            "landSerialNo": "586地號",
+            "cityLandUseTypeId": 9,
+            "coverageId": 1,
+            "area": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 143459,
+            "caseId": 5064,
+            "caseStatus": true,
+            "registerDate": 1501242882287,
+            "officialDocNo": "新北府文資字第1061434551號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"新北市蘆洲區保新段585地號\"}}],\"notfound\":\"沒有地號資料\"},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"新北市蘆洲區保新段586地號\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": ""
+}

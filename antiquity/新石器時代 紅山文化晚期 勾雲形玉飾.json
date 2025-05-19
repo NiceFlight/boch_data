@@ -1,0 +1,102 @@
+{
+    "id": 3766,
+    "caseId": "20140421000010",
+    "count": 304,
+    "shareCount": 0,
+    "representImage": 6560,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7080/photo/新石器時代紅山文化晚期勾雲形玉飾_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7080/photo/新石器時代紅山文化晚期勾雲形玉飾.JPG",
+        "name": "新石器時代紅山文化晚期勾雲形玉飾"
+    },
+    "caseName": "新石器時代 紅山文化晚期 勾雲形玉飾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1398009600000,
+    "officialDocNo": "文資物字第10320043691號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就"
+    ],
+    "registerReason": "此件紅山文化勾雲形玉飾，黃綠色閃玉質。係由多組勾角構合而成，勾內琢有瓦溝紋，瓦溝雙邊的凸脊明顯，並在數處加刻粗陰線，加強立體的效果。器上有一圓孔。\r\n本器是已知紅山文化勾雲形玉飾中，尺寸最大、線條充滿韻律，兼具氣勢與美感的一件作品。而外形既不規則亦不對稱，但若穿繩懸掛，卻能保持平衡，展現出技術的成熟，完全展示出紅山文化最優越的部份。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第1、3、4款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "購玉000271",
+    "amount": 1,
+    "notes": "",
+    "descAge": "新石器時代",
+    "descSize": "長：19.1；寬：14.2；最厚：0.55（公分）",
+    "descMaterial": "閃玉",
+    "reserveStatusDesc": "質材：本器數個外圍的勾尖或牙尖處，帶有赭黃色斑，推估是以一塊有赭黃色玉皮的黃綠色清潤閃玉為原料製成。\r\n形制及紋飾：勾雲形玉飾係由多組勾角構合而成，本器即以一大單勾為中心，並從邊緣旋出大小不一的數個勾，勾的側邊或外緣有並連的雙牙。這樣的形式，目前解讀為飛翔於雲中之鷹鳥的抽象化。勾內琢有瓦溝紋，瓦溝雙邊的凸脊明顯，並在數處加刻粗陰線，加強立體的效果。器上有一圓孔。\r\n特徵：整體外形不規則、不對稱，但若穿繩懸掛，卻能保持平衡。",
+    "pastHistorySource": 2,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。右下方的一組並連雙牙尖端傷缺。器緣數處點狀微傷。",
+    "documents": [
+        {
+            "fileid": 150226,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-12/0e54e86d-8aeb-4890-af52-cd6feb2bfcdb/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70802,
+            "caseId": 3766,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 75069,
+            "caseId": 3766,
+            "caseStatus": true,
+            "registerDate": 1398009600000,
+            "officialDocNo": "文資物字第10320043691號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

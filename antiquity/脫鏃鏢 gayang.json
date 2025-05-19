@@ -1,0 +1,103 @@
+{
+    "id": 15975,
+    "caseId": "20180720000004",
+    "count": 375,
+    "shareCount": 0,
+    "representImage": 49188,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-07-20/feb12bef-f8f4-46c8-bd7e-5d4da750d052/脫鏃鏢gayang010-3.015_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-07-20/feb12bef-f8f4-46c8-bd7e-5d4da750d052/脫鏃鏢gayang010-3.015.jpg",
+        "name": "脫鏃鏢gayang010-3.015"
+    },
+    "caseName": "脫鏃鏢 gayang",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1456795476630,
+    "officialDocNo": "屏府文保字第10530074600號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "    本件為脫槍頭式狩獵用，桿身頂端有倒勾的鐵槍鏃與之相連，其用法為使用手擲方式射向獵物，當擲中目標時，鐵製倒勾槍頭讓狂奔的野獸無法脫離，槍頭與木桿成一直線，當野獸逃入森林時，藉由木桿卡在樹林的原理，使獵人順勢捕獲獵物。此脫鏃鏢由長木桿及鐵件組合而成，兩者間以麻繩串連之，鐵件以手工打造而成，成一魚叉狀。木桿有黑色塗裝，目前已脫落，為手工刨製而成，兩端略呈元尖稍形。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第1、2、3、4、5、6款",
+    "govInstitutionCode": "900",
+    "govInstitutionName": "屏東縣政府",
+    "belongCityId": 20,
+    "belongCityName": "屏東縣",
+    "belongDistName": "屏東市",
+    "govInstitution": "屏東縣政府",
+    "govDeptName": "屏東縣文化資產保護所",
+    "govDeptPhone": "08-7227001#19",
+    "govDeptAddress": "屏東縣屏東市瑞中街15號",
+    "reservationCode": "010/3.015",
+    "amount": 1,
+    "descAge": "不詳",
+    "descCreator": "不詳",
+    "descSize": "鐵：38×6.5cm、木：177×3cm",
+    "descMaterial": "木(闊葉木) /鐵",
+    "reserveStatusDesc": "脫鏃鏢融合排灣族與魯凱族的武器傳統技法。",
+    "pastHistorySource": 2,
+    "pastHistorySourceNotes": "陳俄安先生",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好",
+    "documents": [
+        {
+            "fileid": 49187,
+            "name": "古物公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-07-20/6aaeb455-1b6d-48e4-ab54-ebebd6019bd2/古物公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "1",
+    "keepNames": [
+        {
+            "keepNameIdStr": "屏東縣政府文化處",
+            "keepName": "聯絡人：陳建瑛",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "屏東縣政府文化處",
+            "keepAddressNew": "屏東市菸廠路1號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "屏東縣",
+            "keepNameDistName": "屏東市",
+            "keepNameAddress": "民生路4-17號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "屏東縣",
+            "distName": "屏東市",
+            "id": 114849,
+            "caseId": 15975,
+            "caseStatus": true,
+            "cityId": 20,
+            "distId": 2001
+        }
+    ],
+    "announces": [
+        {
+            "id": 125090,
+            "caseId": 15975,
+            "caseStatus": true,
+            "registerDate": 1456795476630,
+            "officialDocNo": "屏府文保字第10530074600號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

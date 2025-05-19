@@ -1,0 +1,103 @@
+{
+    "id": 3270,
+    "caseId": "20151225000007",
+    "count": 815,
+    "shareCount": 1,
+    "representImage": 117282,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-06-03/3d7455b8-012e-4c2e-b32b-a832ef361e62/「生民未有」匾-_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-06-03/3d7455b8-012e-4c2e-b32b-a832ef361e62/「生民未有」匾-.jpg",
+        "name": "「生民未有」匾-"
+    },
+    "caseName": "彰化聖廟「生民未有」匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1450972800000,
+    "officialDocNo": "府授文資字第1040431125E號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有一定之時代特色、技術及流派",
+        "具有珍貴及稀有性者"
+    ],
+    "registerReason": "1.具有歷史意義或能表現傳統、族群或地方文化特色：清代為強化統治之正統性，推崇孔子興建孔子廟，歷代皇帝皆御題匾額賜給各地孔子廟。\n2.具有一定之時代特色、技術及流派：為清代匾額工藝，額面有皇帝御璽，為清御匾標準形式。\n3.具有珍貴及稀有性者：目前臺灣僅存稀有之生民未有孔廟御匾之一",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第1、3、5款",
+    "govInstitutionCode": "500",
+    "govInstitutionName": "彰化縣政府",
+    "belongCityId": 11,
+    "belongCityName": "彰化縣",
+    "belongDistName": "彰化市",
+    "govInstitution": "彰化縣政府",
+    "govDeptName": "彰化縣文化局",
+    "govDeptPhone": "04-7510709",
+    "govDeptAddress": "彰化縣彰化市平和七街66號",
+    "reservationCode": "府授文資字第1040431125E號",
+    "amount": 1,
+    "notes": "",
+    "descAge": "雍正4年（西元1726年）",
+    "descCreator": "作者已不可考",
+    "descSize": "長232、寬91(cm)",
+    "descMaterial": "木製",
+    "reserveStatusDesc": "此一「生民未有」匾額，為一木製匾額，現今位於彰化孔廟大成殿的正門上方，清代君主為了強化其統治的正統性，故思想上推崇孔子，廣建孔廟，到19世紀中，中國大陸的孔子廟共有1730所。並且從康熙皇帝以後，新皇帝登基皆會御題匾額，並頒發給全國各所學校孔子廟。此匾額來到彰化孔子廟的年代為雍正4年（西元1726年），賜匾者為雍正皇帝，匾額的作者已經無從考證。「生民未有」的匾額表面有部分剝落，但保存尚為完整。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 2,
+    "reserveStatus": "表面雖有部分剝落，但整體保存尚可 ",
+    "documents": [
+        {
+            "fileid": 211201,
+            "name": "彰化聖廟「生民未有」匾1041225.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-04-12/06f07bd1-e006-4876-acd3-e985bdc4e6ad/彰化聖廟「生民未有」匾1041225.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 24.078856473340274,
+    "latitude": 120.54575195512545,
+    "representImageSource": "彰化縣文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "彰化孔子廟",
+            "keepName": "彰化孔子廟",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "彰化孔子廟",
+            "keepAddressNew": "彰化市孔門路30號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "彰化縣",
+            "keepNameDistName": "彰化市",
+            "keepNameAddress": "孔門路30號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "彰化縣",
+            "distName": "彰化市",
+            "id": 131211,
+            "caseId": 3270,
+            "caseStatus": true,
+            "cityId": 11,
+            "distId": 1101,
+            "address": "孔門路30號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 142997,
+            "caseId": 3270,
+            "caseStatus": true,
+            "registerDate": 1450972800000,
+            "officialDocNo": "府授文資字第1040431125E號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

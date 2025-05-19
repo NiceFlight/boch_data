@@ -1,0 +1,105 @@
+{
+    "id": 3380,
+    "caseId": "20131219000004",
+    "count": 30,
+    "shareCount": 0,
+    "representImage": 5884,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7147/photo/吳郡志（宋刊本）_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7147/photo/吳郡志（宋刊本）.jpg",
+        "name": "吳郡志（宋刊本）"
+    },
+    "caseName": "吳郡志（宋刊本）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1387382400000,
+    "officialDocNo": "文資局物字第 10220148851號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "宋紹定二年(1229)李壽朋平江府刊本。\n此書前趙汝談序稱吳郡舊圖經蕪漫失考，朱長文雖作續記亦略，故范大成撰此書，事與辭稱，且徵引浩博、敍述簡賅，為地志中之佳者。\n宋版古籍，罕見稀有，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號03252",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 16,
+    "notes": "",
+    "descAge": "宋紹定二年(1229)",
+    "descCreator": "宋范大成撰，汪泰亨等增補",
+    "descSize": "半葉9行，版匡22.3x16.5公分",
+    "descMaterial": "紙質刊本",
+    "reserveStatusDesc": "此書前趙汝談序稱吳郡舊圖經蕪漫失考，朱長文雖作續記亦略，故范大成撰此書，事與辭稱，且徵引浩博、敍述簡賅，為地志中之佳者。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "部分虫蛀，經修裱；每頁中間襯紙，保存情況良好",
+    "documents": [
+        {
+            "fileid": 5885,
+            "name": "7f33ee59-1a42-460c-b870-fc60855002a7.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43995/file/7f33ee59-1a42-460c-b870-fc60855002a7.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3522,
+            "caseId": 3380,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3522,
+            "caseId": 3380,
+            "caseStatus": true,
+            "registerDate": 1387382400000,
+            "officialDocNo": "文資局物字第 10220148851號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

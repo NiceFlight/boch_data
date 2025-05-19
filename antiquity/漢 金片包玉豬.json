@@ -1,0 +1,102 @@
+{
+    "id": 3815,
+    "caseId": "20140421000029",
+    "count": 1028,
+    "shareCount": 1,
+    "representImage": 6613,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39165/photo/pic050_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39165/photo/pic050.jpg",
+        "name": "pic050"
+    },
+    "caseName": "漢 金片包玉豬",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1398009600000,
+    "officialDocNo": "文資物字第10320043691號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要之時代特色、技術及流派",
+        "品質精良且數量稀少"
+    ],
+    "registerReason": "此組金片包玉豬，兩件一對，是漢代專為亡者製作的喪葬玉。\r\n玉豬為青綠玉質，兩端深沁成白色。圓柱狀，雕成縮頸蹲伏的豬。鼻下方與臀部上方各鑽一小孔，可能是供穿繩綁縛在亡者手中之用。器表以較寬的陰線勾勒豬的頭尾與四肢。軀幹中段包覆金片，金片在豬腹部處並未完全接合，在金片邊緣有數個小孔，可能用於固定。金片遮蓋部份還保持玉原有的青綠色澤及透潤質感。\r\n握豬是漢代高等級貴族專用的的喪葬用玉，左右手各置放一件。握豬雖不罕見，但包金片的握豬卻十分稀有。由包金片與否所見的玉質變化，可探討埋藏環境對玉質的影響，對玉器出土現象的研究具有重要價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第1、3、5款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "購玉000212、000213",
+    "amount": 2,
+    "notes": "",
+    "descAge": "漢",
+    "descSize": "長：10.9；高：2.8；厚：2.85（公分）",
+    "descMaterial": "閃玉",
+    "reserveStatusDesc": "質材：青綠玉，兩端深沁成白色。\r\n形制：圓柱狀，雕成縮頸蹲伏的豬。鼻下方與臀部上方各鑽一小孔，可能是供穿繩綁縛在亡者手中之用。器表以較寬的陰線勾勒豬的頭尾與四肢。\r\n特徵：軀幹中段包覆金片，金片在豬腹部處並未完全接合，在金片邊緣有數個小孔，可能用於固定。金片遮蓋部份還保持玉原有的青綠色澤及透潤質感。\r\n兩件配做一對，是漢代專為亡者製作的喪葬玉。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。兩端深沁而無明顯傷缺。",
+    "documents": [
+        {
+            "fileid": 150257,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-13/dae8e963-cb07-4ff7-a6b1-249cbedf604c/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70863,
+            "caseId": 3815,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 75132,
+            "caseId": 3815,
+            "caseStatus": true,
+            "registerDate": 1398009600000,
+            "officialDocNo": "文資物字第10320043691號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

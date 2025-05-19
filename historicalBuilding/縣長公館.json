@@ -1,0 +1,93 @@
+{
+    "id": 1826,
+    "caseId": "20021205000003",
+    "count": 1970,
+    "shareCount": 1,
+    "representImage": 125328,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-20/53a814b6-ca90-4367-9b55-59241ba85351/歷建43 - 縣長公館-永保_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-20/53a814b6-ca90-4367-9b55-59241ba85351/歷建43 - 縣長公館-永保.jpg",
+        "name": "歷建43 - 縣長公館-永保"
+    },
+    "caseName": "縣長公館",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "臺東縣長公館位於臺東縣政府左後方，右側是臺東縣警察局交通隊及電信所。縣長公館就是日治時期的臺東廳長官邸，興建於日治時期1915年（大正4年），占地寬廣。廳長官邸日式庭園建築，包括宿舍、庭園、圍牆等，形制完整。大門四柱三門，開在正面圍牆的右側。宿舍是木結構，地上一層，前院有大樹屏障。屋頂是四坡水寄棟造，鋪日本瓦、以鬼瓦收頭。牆身作雨淋板，用以隔熱及防水。靠近大門的門窗較為隱蔽，門楣、窗楣上皆有雨遮。庭園造景高低有緻、植栽多樣，還有小橋流水，整體高雅流暢。\n縣長公館初判為高等官第二種規格，但起造的時間較早，還沒有建築標準可以規範。所以無論是建築及敷地，都有如是高等官第一種的規格，這在臺灣是很少見的。 ",
+    "assetsTypeNames": "官邸",
+    "otherAssetsType": "建築物類",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1039077360000,
+    "officialDocNo": "府文資字第 0910114574 號",
+    "documents": [
+        {
+            "fileid": 114999,
+            "name": "43臺東縣歷史建築公告文-縣長公館.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-28/2e6f4ce2-0c46-48b8-873b-0d8a34ca82fc/43臺東縣歷史建築公告文-縣長公館.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "是臺東縣最完整的和式庭園建築。曾住過十位日據時期的臺東廳廳長，以及光復後的縣長，目前是現任縣長饒慶鈴的公館。",
+    "lawsReference": "1.文化資產保存法第27條之一\n2.歷史建築登錄及輔助辦法\n3.臺東縣91年11月15日歷史建築登錄審查會議決議辦理\n",
+    "govInstitutionCode": "950",
+    "govInstitutionName": "臺東縣政府",
+    "belongCityId": 22,
+    "belongCityName": "臺東縣",
+    "belongDistName": "臺東市",
+    "govInstitution": "臺東縣政府",
+    "govDeptName": "文化處文化資產科",
+    "govDeptPhone": "089-350129",
+    "govDeptAddress": "臺東市南京路25號",
+    "cadasters": [],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺東市臺東段0340-0009",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "更生路15 號",
+    "isOpenVisit": true,
+    "openUpTime": "",
+    "isCharge": false,
+    "isOpenDownload": true,
+    "longitude": 121.149940171871,
+    "latitude": 22.7566365049225,
+    "representImageSource": "臺東縣文化處文資科",
+    "landScope": "臺東市臺東段340-9地號",
+    "selfCoverage": "臺東市臺東段340-9地號",
+    "addresses": [
+        {
+            "cityName": "臺東縣",
+            "distName": "臺東市",
+            "id": 68860,
+            "caseId": 1826,
+            "caseStatus": true,
+            "cityId": 22,
+            "distId": 2201,
+            "address": "更生路15 號"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 72981,
+            "caseId": 1826,
+            "caseStatus": true,
+            "registerDate": 1039077360000,
+            "officialDocNo": "府文資字第 0910114574 號",
+            "classificationId": 1
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

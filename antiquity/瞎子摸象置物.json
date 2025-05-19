@@ -1,0 +1,96 @@
+{
+    "id": 18216,
+    "caseId": "20201217000026",
+    "count": 288,
+    "shareCount": 1,
+    "representImage": 90084,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-12-17/3319360e-08c8-4840-80f4-b4538fa4afeb/16_1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-12-17/3319360e-08c8-4840-80f4-b4538fa4afeb/16_1.jpg",
+        "name": "16_1"
+    },
+    "caseName": "瞎子摸象置物",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1606376246300,
+    "officialDocNo": "北市獻編字第1093004298號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "1. 瞎子摸象歷史出自佛經，中日皆有此主題作品，具日本受佛經衍生之傳說及族群風俗特色。\n2. 作工精緻藝術性，本件雕刻細膩，人物寫生與大象比例具有傳神特色，具藝術造詣。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174-1號",
+    "reservationCode": "16",
+    "amount": 1,
+    "descAge": "日本明治時期",
+    "descSize": "高 4 公分",
+    "descMaterial": "象牙",
+    "reserveStatusDesc": "作者以家喻戶曉的「瞎子摸象」寓言故事為主題，呈現人物在大象身上不同部位摸索的畫面。大象軀體極為壯碩，長鼻粗壯，象牙堅硬，四周數名人物，有的蹲臥於地，有的架著梯子攀爬而上，在大象的各個部位摸索，人物穿著日本傳統服飾，表情各異，五官與衣紋等等細節雕琢細膩生動。\n整體雕工精細，動物的形態、特徵及象與人的懸殊尺寸比例皆掌握準確，且畫面繽紛，毫不呆版。人物動作生動活潑，氣氛熱鬧，每個人物位置布局處理得恰到好處。除了有令人讚嘆的精湛雕琢工藝外，其主題意象更值得仔細回味。\n瞎子摸象的典故取自《涅槃經》、《長阿含經》。《涅槃經》卷三十載：「其觸牙者，即言象形如萊茯根（蘿蔔）；其觸耳者，言象如箕；其觸頭者，言象如石；其觸鼻者，言象如杵；其觸腳者，言象如木臼；其觸脊者，言象如床；其觸腹者，言象如甕；其觸尾者，言象如繩。」《長阿含經•卷十九•龍鳥品》、《百喻經》、《菩薩處胎經》亦載此一故事。在各種不同的版本中，一群盲人觸摸大象希望可以了解到他們正在摸什麼。每個人都只觸摸一部分，在觸摸到不同部位後得到完全不同的結論，因而產生爭執。衍生寓意為：事實往往由於各人角度不同，而被給予不同的解釋。作者生平不詳。",
+    "pastHistorySource": 1,
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定。",
+    "documents": [
+        {
+            "fileid": 90085,
+            "name": "臺北市公告指定一般古物1091126.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-17/e49de68c-c6c9-4869-bc4f-d42261e26bd6/臺北市公告指定一般古物1091126.pdf"
+        }
+    ],
+    "keepNames": [
+        {
+            "keepNameIdStr": "郭○穎",
+            "keepName": "郭○穎",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "郭○穎",
+            "keepAddressNew": "臺北市中正區重慶南路二段15號7樓",
+            "saveSpaceOther": "庫房",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "大安區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 7831,
+            "caseId": 18216,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 7831,
+            "caseId": 18216,
+            "caseStatus": true,
+            "registerDate": 1606376246300,
+            "officialDocNo": "北市獻編字第1093004298號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

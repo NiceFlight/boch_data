@@ -1,0 +1,145 @@
+{
+    "id": 1670,
+    "caseId": "20081110000002",
+    "count": 2643,
+    "shareCount": 1,
+    "representImage": 158577,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-04-08/17da56fe-0b7d-45ee-950b-179715d4237d/歷026曾文溪鐵道舊橋遺蹟_P003_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-04-08/17da56fe-0b7d-45ee-950b-179715d4237d/歷026曾文溪鐵道舊橋遺蹟_P003.jpg",
+        "name": "歷026曾文溪鐵道舊橋遺蹟_P003"
+    },
+    "caseName": "曾文溪鐵道舊橋遺蹟",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "歷史文化遺蹟",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1226301854000,
+    "officialDocNo": "府文資字第0970256496號",
+    "documents": [
+        {
+            "fileid": 158530,
+            "name": "曾文溪鐵道舊橋遺蹟公告97.11.10.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-08/6f3c7a1a-016b-409e-a70b-9002831a0a4c/曾文溪鐵道舊橋遺蹟公告97.11.10.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "1、臺鐵曾文溪鐵道橋，百年來三代橋墩緊鄰共存，誠實不易，除為鐵道更迭的見證者，鐵橋營造材料、施工方法亦是工程技術史上之重要教材。\n2、哨站與紀念碑雖於移動時略有損傷，但大體完整，結構造型皆上乘之作，應予保留。\n3、為進行歷史建築之活化與再利用，有必要將曾文溪第2代鐵道橋全部保存。",
+    "lawsReference": "文化資產保存法第14條、第15條。\n",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "官田區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "(06)2213569",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 142279,
+            "name": "曾文溪鐵道舊橋遺蹟地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-11-02/a80d299e-ea91-444a-bf40-4bdf872f7df3/曾文溪鐵道舊橋遺蹟地籍圖.jpg"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 9,
+    "nonCityLandUseTypeName": "河川區",
+    "nonCityLandUseSubTypeId": 12,
+    "nonCityLandUseSubTypeName": "水利",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "曾文溪河川圖籍地第148號(善化鎮東勢寮段1286地號之河川地)，曾文溪河川圖籍第153號(官田鄉拔子林段263-28地號之河川地)",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "belongAddress": "善化區東勢寮二段1286地號之河川地、官田區拔子林段263-28地號之河川地",
+    "isOpenVisit": false,
+    "isOpenDownload": false,
+    "longitude": 120.321195293356,
+    "latitude": 23.1715427168183,
+    "representImageSource": "臺南市政府",
+    "landScope": "曾文溪河川圖籍地第148號（善化區東勢寮段1286地號之河川地），曾文溪河川圖籍第153號（官田區拔子林段263-28地號之河川地）",
+    "selfCoverage": "第一代橋：橋墩 1 座、南岸橋臺1 座。\n第二代橋：橋臺南北各 1座、橋樑整座（含全部橋墩及鐵軌）、崗哨及紀念碑。",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "善化區",
+            "id": 114128,
+            "caseId": 1670,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1634,
+            "address": "東勢寮段"
+        },
+        {
+            "cityName": "臺南市",
+            "distName": "官田區",
+            "id": 114129,
+            "caseId": 1670,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1618,
+            "address": "拔子林段"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺南市",
+            "distName": "善化區",
+            "landNoName": "東勢寮段",
+            "id": 156930,
+            "caseId": 1670,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1634,
+            "landNoId": 3318,
+            "landSerialNo": "1286地號",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "臺南市",
+            "distName": "官田區",
+            "landNoName": "拔子林段",
+            "id": 156931,
+            "caseId": 1670,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1618,
+            "landNoId": 2993,
+            "landSerialNo": "263-28地號",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 124260,
+            "caseId": 1670,
+            "caseStatus": true,
+            "registerDate": 1226301854000,
+            "officialDocNo": "府文資字第0970256496號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"臺南市善化區東勢寮段1286地號\"}}],\"notfound\":\"沒有地號資料\"},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"臺南市官田區拔子林段263-28地號\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": ""
+}

@@ -1,0 +1,102 @@
+{
+    "id": 4475,
+    "caseId": "20160803000013",
+    "count": 306,
+    "shareCount": 0,
+    "representImage": 7525,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133324/photo/明董其昌書杜律冊-1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133324/photo/明董其昌書杜律冊-1.jpg",
+        "name": "明董其昌書杜律冊-1"
+    },
+    "caseName": "明董其昌書杜律冊",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1470153600000,
+    "officialDocNo": "文授資局物字第10530074283號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就"
+    ],
+    "registerReason": "董其昌（1555-1636），晚明書壇領袖，是影響明清兩代的重要書畫家，其提出的許多書論與畫論，至今仍是書畫史研究的重要課題。\n董其昌的草書主要受唐代狂草書家懷素的影響，他認為懷素的書法已經達到平淡天真與澹古的書學最高境界，是其畢生書法理論體系中重要典範。\n此冊書寫杜甫〈秋興〉詩，筆筆精到，多以中鋒用筆，線條的粗細、轉折與起伏都很有變化，圓潤處沉著而秀麗，枯墨飛白處飄逸而蒼勁。外觀雖看似恣意狂放，點畫間的用筆皆能合於法度，與其它傳世草書相較，無論在用筆、結字、章法上都相對精妙，達到極高的藝術成就，為董其昌草書代表作。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第3、4款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故書000212",
+    "amount": 12,
+    "descAge": "明",
+    "descCreator": "董其昌",
+    "descSize": "26.3公分x 14.7公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "此冊抄錄杜甫〈秋興〉詩中的五首，未紀年，據幅後所鈐的「宗伯學士」印，得知應作於天啟三年（1623）任禮部右侍郎兼翰林院侍讀學士之後。小行楷書用筆老辣，筆力沉著，點畫間仍具鋒芒，線條縱橫收放間，變化豐富自然，依稀可見智永、歐、虞之遺緒，為其集大成之風格。董其昌提到自己雖然以行草為名，但多數都非精意之作，只是不加思索的酬應作品，生平最得意的就是小楷書。由於數量上的稀少，這類不輕易書寫的小楷書反而較少受到矚目。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷需處理。封面：傷損、霉傷、空白。全冊：傷損。",
+    "documents": [
+        {
+            "fileid": 7526,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/132916/file/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69594,
+            "caseId": 4475,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73761,
+            "caseId": 4475,
+            "caseStatus": true,
+            "registerDate": 1470153600000,
+            "officialDocNo": "文授資局物字第10530074283號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

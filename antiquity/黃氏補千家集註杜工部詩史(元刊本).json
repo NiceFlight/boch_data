@@ -1,0 +1,91 @@
+{
+    "id": 3705,
+    "caseId": "20130610000058",
+    "count": 191,
+    "shareCount": 0,
+    "representImage": 6450,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32649/photo/efcb8e5f-3de4-41c1-be00-76133737ce92_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32649/photo/efcb8e5f-3de4-41c1-be00-76133737ce92.jpg",
+        "name": "efcb8e5f-3de4-41c1-be00-76133737ce92"
+    },
+    "caseName": "黃氏補千家集註杜工部詩史(元刊本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1370793600000,
+    "officialDocNo": "文資局物字第10220062581號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "元前至元壬午(十九年，1282)建刊本。\r\n此本紙墨俱潔，印面清晰。從字體觀察，似是精善之覆宋本。目錄末有刊記，稱「書肆所刊詩集甚多，而工部詩史尚缺，本堂因得公庫善本，詳加校正」云云，乃坊刻宣傳語。\r\n元版古籍，質精且數量稀少，具重要歷史、文化與版本學研究價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "reservationCode": "書號09524",
+    "keepNameId": 2,
+    "keepName": "",
+    "keepNameNew": 17,
+    "keepAddressNew": "臺北市中正區中山南路20號",
+    "amount": 8,
+    "notes": "",
+    "reserveStatusDesc": "唐杜甫撰，宋黃希、黃鶴同注\r\n存十二卷8冊\r\n紙本\r\n半葉11行，版匡19.4公分x13.2公分",
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 6451,
+            "name": "6c159076-ad79-4b3e-9870-4cb2a6142717.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44527/file/6c159076-ad79-4b3e-9870-4cb2a6142717.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺北市中正區中山南路20號",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3847,
+            "caseId": 3705,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3847,
+            "caseId": 3705,
+            "caseStatus": true,
+            "registerDate": 1370793600000,
+            "officialDocNo": "文資局物字第10220062581號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

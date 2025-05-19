@@ -1,0 +1,98 @@
+{
+    "id": 551,
+    "caseId": "19991119000001",
+    "count": 2892,
+    "shareCount": 0,
+    "representImage": 284254,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2025-04-24/a707b95c-5564-4447-b13e-db9c23f8d6ce/古062大井頭_P005_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2025-04-24/a707b95c-5564-4447-b13e-db9c23f8d6ce/古062大井頭_P005.jpg",
+        "name": "古062大井頭_P005"
+    },
+    "caseName": "大井頭",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "待修復或再利用計畫完成後填列。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "其他",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "registerDate": 942940800000,
+    "officialDocNo": "中華民國88年11月19日88南市民文字第037181號",
+    "documents": [
+        {
+            "fileid": 157256,
+            "name": "大井頭公告88.11.19.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-03-31/01a3d15d-2f01-4e59-a8c1-9cdbfd6d03be/大井頭公告88.11.19.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值"
+    ],
+    "registerReason": "公告無資料",
+    "lawsReference": "文化資產保存法第27條。",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "中西區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 142230,
+            "name": "大井頭.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-11-01/c152660e-18ff-4ba4-ade9-fc3b991be039/大井頭.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "locationLandNo": "中西區本段四小段123-1地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "wenSitename": "台南旅遊網",
+    "wenSiteaddress": "https://www.twtainan.net/zh-tw/Attractions/Detail/738/%E5%A4%A7%E4%BA%95%E9%A0%AD",
+    "belongAddress": "民權路二段225號前",
+    "isOpenDownload": false,
+    "longitude": 120.201664317913,
+    "latitude": 22.9954326303159,
+    "representImageSource": "臺南市政府",
+    "landScope": "公告無資料",
+    "selfCoverage": "古井結構本體全部為範圍",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "id": 148827,
+            "caseId": 551,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601,
+            "address": "民權路二段225號前"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 161832,
+            "caseId": 551,
+            "caseStatus": true,
+            "registerDate": 942940800000,
+            "officialDocNo": "八八南市民文字第037181號",
+            "classificationId": 1
+        }
+    ],
+    "openVisitType": "完全開放參觀",
+    "openUpTime": "全日",
+    "isCharge": false,
+    "pastHistorySource": "待修復或再利用計畫完成後填列。"
+}

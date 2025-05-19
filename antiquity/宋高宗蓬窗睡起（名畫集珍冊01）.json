@@ -1,0 +1,111 @@
+{
+    "id": 4133,
+    "caseId": "20110422000057",
+    "count": 276,
+    "shareCount": 0,
+    "representImage": 165776,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-05-27/ae7da877-e290-45ab-9600-a1a87f3093dc/K2A001291N000000001PAB_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-05-27/ae7da877-e290-45ab-9600-a1a87f3093dc/K2A001291N000000001PAB.jpg",
+        "name": "K2A001291N000000001PAB"
+    },
+    "caseName": "宋高宗蓬窗睡起（名畫集珍冊01）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1303401600000,
+    "officialDocNo": "會授資籌二字10020040353號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "歷史流傳已久或史事具有深厚淵源",
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1. 此件書畫均具時代特色，為南宋皇室書學傳承之重要代表，亦為南宋宮廷院畫的佳例。\n2. 是宋孝宗存世的少數書蹟之一。品質精良且數量稀少。",
+    "lawsReference": "1. 「文化資產保存法」第六十六條。\n2. 「古物分級登錄指定及廢止審查辦法」第四條第一項第一、二、三、四、五、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化資產局",
+    "govDeptName": "古物科",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故畫00129100001",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descSize": "24.8 x 52.3 公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "此幅畫柳岸篷舟，水波粼粼，遠山逶迤，初睡起的漁父欠臂伸腰，望向右方空闊處，予人渺無垠際之感。右幅空處題漁父詞一則，描寫漁父悠游自在之景，詞意與畫意契合無間。書末有宋孝宗（1127-1194）退位後鈐蓋於書作之「壽皇書寶」印，從書法風格來看，可推知出於孝宗。此書圓潤豐腴，捺筆厚重，線條提按、粗細，變化有致，牽絲引帶，輕盈流動，與高宗書風相近，都是從王羲之行書蛻變而來。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "本幅有舊霉傷，蟲蛀（柳樹上蛀洞明顯，露白）幅右邊絹露白一條，中央有舊折痕，船上方有刮痕，直橫細折很多，通幅有多處絹裂，幅右絹裂處露白，傷損傷補。有損傷但狀況穩定 ",
+    "documents": [
+        {
+            "fileid": 152145,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-28/3b430017-5341-4ac6-b7d6-fbbea16a6b2a/公告表.pdf"
+        },
+        {
+            "fileid": 152146,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-28/c46aa4af-dfe1-468b-a288-3ef47837b4b7/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 80384,
+            "caseId": 4133,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": " 至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 86352,
+            "caseId": 4133,
+            "caseStatus": true,
+            "registerDate": 1303401600000,
+            "officialDocNo": "會授資籌二字10020040353號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

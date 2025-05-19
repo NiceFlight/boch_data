@@ -1,0 +1,105 @@
+{
+    "id": 3554,
+    "caseId": "20130813000009",
+    "count": 33,
+    "shareCount": 0,
+    "representImage": 6211,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7267/photo/考古圖（元刊本）_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7267/photo/考古圖（元刊本）.jpg",
+        "name": "考古圖（元刊本）"
+    },
+    "caseName": "考古圖（元刊本）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1376323200000,
+    "officialDocNo": "文資局物字第 10220091271號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "元大德己亥(三年，1299)茶陵陳翼子刊明代修補本。\r\n此書作者呂大臨序稱非敢以器為玩，觀其器以追三代遺風，或探其制作之原，以補經傳之闕亡，正諸儒之謬誤。其後，元陳翼子偶閱呂氏舊輯考古圖，請友羅更翁臨本，且探諸君子辯證附其左。此書系統的著錄了當時宮廷和私家收藏的古代銅器、玉器，分類編排並摹繪圖形、款識，記錄尺寸、容量、重量等，並盡可能註明出土地和收藏處。\r\n元版古籍，罕見稀有，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號05029",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 6,
+    "notes": "",
+    "descAge": "元大德己亥(三年，1299)",
+    "descCreator": "宋呂大臨撰，元羅更翁考訂",
+    "descSize": "半葉8行，版匡18.2x13.4公分",
+    "descMaterial": "紙質刊本",
+    "reserveStatusDesc": "十卷。此書系統的著錄了當時宮廷和私家收藏的古代銅器、玉器，分類編排並摹繪圖形、款識，記錄尺寸、容量、重量等，並盡可能註明出土地和收藏處。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "無蟲蛀。第1冊部分斷版，第2、3冊有漫漶情形，經修裱。保存狀況良好。\n",
+    "documents": [
+        {
+            "fileid": 6212,
+            "name": "b535d7f5-b0e6-4ab3-9754-9419b951d3b4.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44148/file/b535d7f5-b0e6-4ab3-9754-9419b951d3b4.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3696,
+            "caseId": 3554,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3696,
+            "caseId": 3554,
+            "caseStatus": true,
+            "registerDate": 1376323200000,
+            "officialDocNo": "文資局物字第 10220091271號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

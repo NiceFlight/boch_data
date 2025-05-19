@@ -1,0 +1,107 @@
+{
+    "id": 17004,
+    "caseId": "20190731000018",
+    "count": 1114,
+    "shareCount": 0,
+    "representImage": 152526,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-02-11/77045e0e-7257-4935-ad06-4f9fff290ac9/K1B017851N000000000PAC_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-02-11/77045e0e-7257-4935-ad06-4f9fff290ac9/K1B017851N000000000PAC.jpg",
+        "name": "K1B017851N000000000PAC"
+    },
+    "caseName": "汝窯青瓷無紋水仙盆",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1564134497514,
+    "officialDocNo": "中華民國108年7月26日文授資局物字第10830078621號",
+    "judgeCriteria": [
+        "歷代著名人物、國家重大事件之代表性",
+        "具有獨特藝術造詣或科學成就",
+        "獨一無二或不可替代性",
+        "對知識、技術或流派發展具特殊影響或意義"
+    ],
+    "registerReason": "此器橢圓形，侈口，深壁，通體施天青色釉，周緣與稜角釉薄處現出淺粉色光澤。外底面留有六枚支燒痕。底面鐫刻乾隆皇帝〈猧食盆〉御製詩，詩末無紀年銘，僅署「乾隆御題」，並落「比德」、「朗潤」兩枚鈐印。由於汝窯在歷史上的燒造時間極為短暫，傳世品也甚為稀少且珍貴。傳世目前可見六件汝窯水仙盆，其中有五件典藏於國立故宮博物院，此件為傳世惟一一件無紋水仙盆，以天青純淨沒有開片的清朗釉色著名於世，益顯其珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第4條第2、4、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故瓷017851",
+    "amount": 1,
+    "descAge": "北宋",
+    "descSize": "高6.9公分、口徑23X16.4公分、足徑19.3X12.9公分",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "橢圓形，侈口，深壁，平底外緣多出一圈窄邊，下接四雲頭形足。週壁胎較薄，底足略厚，通體施天青色釉，周緣與稜角釉薄處現出淺粉色光澤。外底面留有六枚之燒痕，從支痕中可見土色胎土。底面雋刻乾隆皇帝〈猧食盆〉詩，詩末無紀年銘，僅署「乾隆御題」，並落「比德」、「朗潤」兩枚鈐印。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "良好",
+    "documents": [
+        {
+            "fileid": 145166,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-17/eb955c7d-a9da-4161-a313-2b42d5f9ec68/公告.pdf"
+        },
+        {
+            "fileid": 145167,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-17/50712b8f-501b-4f86-b15d-93f4083353e8/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 81955,
+            "caseId": 17004,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 88099,
+            "caseId": 17004,
+            "caseStatus": true,
+            "registerDate": 1564134497514,
+            "officialDocNo": "中華民國108年7月26日文授資局物字第10830078621號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

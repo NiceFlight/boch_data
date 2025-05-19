@@ -1,0 +1,120 @@
+{
+    "id": 71,
+    "caseId": "20070411000001",
+    "count": 3552,
+    "shareCount": 8,
+    "representImage": 185544,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/d0e1b425-5309-49ca-8817-8dbc0a23a9d6/代表圖像_牯嶺街高等官舍群_20220728_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/d0e1b425-5309-49ca-8817-8dbc0a23a9d6/代表圖像_牯嶺街高等官舍群_20220728.jpeg",
+        "name": "代表圖像_牯嶺街高等官舍群_20220728"
+    },
+    "caseName": "牯嶺街高等官舍群",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "本地區之日式宿舍之發展，主要以明治34年（1901年）公佈之「臺北城外南方市區計劃」為起始，屬於為開發新街區而規劃之計劃。日據初期為適應日本本土渡臺之內地人住宅之需，包含統治機關之公務員、眷屬及商人等，將臺北城南側的土地納入市區範圍；並往南邊發展，且針對南門及東門城外，進行改善衛生問題。因本區域屬於日據時期南門外的千歲町且附近有城南醫院提供較佳的醫療服務，而日本殖民政府各重要機關多闢建日本職工宿舍於此，其中以菸酒專賣局及臺北帝國大學宿舍為大宗，是日據晚期臺北都市計劃的重點發展區域之一。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 142964,
+            "name": "3.公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/69060326-c523-4059-ba95-35362db26bf4/3.公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "具建築史上之意義，有再利用之價值及潛力者"
+    ],
+    "registerReason": "1.日據中期臺北帝國大學所建之教授宿舍群，目前所有較為完整一處，在臺北市僅存之日式宿舍中殊為罕見。\r\n2.建築格局宏整，所用建材極為精緻，包括清水磚、石階、洗石子牆基、地磚舖面、檜木樑柱，其中2號內部設施仍多為1929年原物，深具稀有性價值。\r\n3.圍牆完整、整體環境優美，反映當時宿舍庭園之特徵。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 142965,
+            "name": "地籍地形圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/577f8eee-07e6-4812-aedb-b4ba9aa072a5/地籍地形圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "道路用地及第三種住宅區及第參種商業區",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市中正區南海段2小段0514-0000地號部分土地",
+    "buildingFeatures": "屬日式獨棟宿舍，屋頂四批落水，配置接近階梯型平面；屋身多用雨淋板，內部則採用編竹泥牆；屋瓦以由原日式黑瓦改用石綿瓦，並加設落水邊溝及落水管；入口玄關內凹，庭院多種植高大喬木，整體街廓環境優美寧靜。",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "臺灣大學高層主管之官邸，現況維護良好。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.51776222618345,
+    "latitude": 25.02763657109418,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市中正區南海段2小段0514-0000地號部分土地",
+    "selfCoverage": "牯嶺街60巷2、6號",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 92720,
+            "caseId": 71,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "牯嶺街60巷2號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 92721,
+            "caseId": 71,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "牯嶺街60巷6號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "南海段二小段",
+            "id": 113393,
+            "caseId": 71,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 15,
+            "landSerialNo": "514",
+            "landownership": 1,
+            "coverageId": 1,
+            "area": "1982",
+            "note": "道路用地及住三、商三\n面積：1982(1410+572)",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 100017,
+            "caseId": 71,
+            "caseStatus": true,
+            "registerDate": 1176220800000,
+            "officialDocNo": "府文化二字第09630239600 號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false,
+    "pastHistorySource": ""
+}

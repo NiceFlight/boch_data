@@ -1,0 +1,121 @@
+{
+    "id": 899,
+    "caseId": "20130207000005",
+    "count": 2964,
+    "shareCount": 0,
+    "representImage": 108239,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-04-30/bb2f903a-407a-4518-afdc-80930feeb8c8/1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-04-30/bb2f903a-407a-4518-afdc-80930feeb8c8/1.jpg",
+        "name": "1"
+    },
+    "caseName": "兒八公園碉堡",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "二次大戰末期(西元1943年)，在臺日軍為迎擊美軍機空襲及防禦美軍登陸，設置碉堡，同時責守衛機場安全。民國72年都市計畫規劃為兒八公園，當時整地才發現原碉堡是被樹木遮避，後將碉堡留下保存，並由新竹市康樂里管理維護。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "軍事設施",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1360197233000,
+    "officialDocNo": "府授文資字第1020208022號",
+    "documents": [
+        {
+            "fileid": 108238,
+            "name": "102.02.07府授文資字第1020208022號登錄兒八公園碉堡為歷史建築公告.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-04-30/3e3a18bb-4ae3-4357-82c4-b22176a30e9b/102.02.07府授文資字第1020208022號登錄兒八公園碉堡為歷史建築公告.jpg"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1.碉堡是軍事設施，為戰爭陰影對土地與生命財產的  \r\n威脅作有力之見證，對闡述人類和平理念具有正面   \r\n宣揚之積極意涵。\r\n2.顯現日治時期軍事防衛空間結構，表現地域風貌， \r\n保存完整，極具歷史文化價值。",
+    "lawsReference": "符合文化資產保存法第15條、歷史建築登\r\n錄廢止審查及輔助辦法第2條第1至4項登錄基準。",
+    "govInstitutionCode": "300",
+    "govInstitutionName": "新竹市政府",
+    "belongCityId": 6,
+    "belongCityName": "新竹市",
+    "belongDistName": "北區",
+    "govInstitution": "新竹市政府",
+    "govDeptName": "新竹市文化局文化資產科",
+    "govDeptPhone": "03-5425079",
+    "govDeptAddress": "300新竹市北區中央路109號",
+    "cadasters": [
+        {
+            "fileid": 1796,
+            "name": "78fb059e-98e4-4881-b5fb-8cf62d1a4eb3.JPG",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/74053/photo/78fb059e-98e4-4881-b5fb-8cf62d1a4eb3.JPG"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "公園兼兒童遊樂場用地",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "新竹市康樂段532地號，計1筆地號",
+    "buildingFeatures": "碉堡頂蓋為圓弧型及ㄇ字型混合，使用鋼筋混凝土建材，長約7公尺、寬約4.3公尺，高約2.4公尺，壁厚約1.1公尺，內、外有彩色迷彩塗裝，為一層碉堡並設有機槍口，後期為安全考量，碉堡周圍以鐵欄杆圍住，及方便管理維護，設有入口處並加上鐵門。",
+    "inHouseFeatures": "碉堡內有彩色迷彩塗裝，並設有機槍口。",
+    "buildingUsage": "軍方閒置，已無軍事機能，由康樂里林里長管理維護，保存良好。",
+    "buildingActualState": "為兒八公園乙部分，碉堡周圍以鐵欄杆圍住，入口處設有鐵門。",
+    "buildingKeyMaintainItem": "維持現況並加必要性安全設施。",
+    "bulkTransfer": 0,
+    "belongAddress": "新竹市康樂段532地號",
+    "isOpenVisit": false,
+    "isOpenDownload": true,
+    "longitude": 120.947474,
+    "latitude": 24.823867,
+    "representImageSource": "新竹市文化局",
+    "landScope": "新竹市康樂段532地號，計1筆地號新竹市康樂段532地號",
+    "selfCoverage": "康樂段兒八公園碉堡建築物本體一棟面積約72.24平方公尺",
+    "addresses": [
+        {
+            "cityName": "新竹市",
+            "distName": "北區",
+            "id": 92889,
+            "caseId": 899,
+            "caseStatus": true,
+            "cityId": 6,
+            "distId": 602,
+            "address": "新竹市康樂段532地號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "新竹市",
+            "distName": "北區",
+            "landNoName": "康樂段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 113678,
+            "caseId": 899,
+            "caseStatus": true,
+            "cityId": 6,
+            "distId": 602,
+            "landNoId": 11241,
+            "landSerialNo": "532",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "area": "1191.66平方公尺",
+            "cityLandUseTypeOther": "公園兼兒童遊樂場用地",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 100213,
+            "caseId": 899,
+            "caseStatus": true,
+            "registerDate": 1360197233000,
+            "officialDocNo": "府授文資字第1020208022號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.94333027179307,24.836151610204475],[120.94332602712774,24.8361347269597],[120.94330104722152,24.836043633577866],[120.94329363980229,24.836019618361096],[120.94329012120009,24.8359422547494],[120.94329063242614,24.835910297387013],[120.94322875251376,24.835811156358034],[120.9432057145441,24.835783704339327],[120.9431991795519,24.835790563576076],[120.94291950819941,24.836084830233126],[120.94291809841468,24.83612996536297],[120.94299937366924,24.836225594573555],[120.94309921440946,24.836207308209378],[120.94333027179307,24.836151610204475],[120.94333027179307,24.836151610204475]]]]},\"properties\":{\"envelope\":{\"left\":\"120.94291809841468\",\"top\":\"24.835783704339327\",\"right\":\"120.94333027179307\",\"bottom\":\"24.836225594573555\"},\"landLot\":\"新竹市北區康樂段532\"}}],\"notfound\":[]}]",
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

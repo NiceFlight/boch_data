@@ -1,0 +1,85 @@
+{
+    "id": 4435,
+    "caseId": "20130121000003",
+    "count": 524,
+    "shareCount": 0,
+    "representImage": 7452,
+    "representImageInfo": {
+        "ext": "gif",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43322/photo/fbaaf5b8-6e86-48eb-8da4-253498a6cf5d_c.gif"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43322/photo/fbaaf5b8-6e86-48eb-8da4-253498a6cf5d.gif",
+        "name": "fbaaf5b8-6e86-48eb-8da4-253498a6cf5d"
+    },
+    "caseName": "台灣關地界碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-其他",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1358697600000,
+    "officialDocNo": "文資局物字第10220005481號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事重要淵源",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1858-1860年臺灣開港對清際臺灣外貿之擴張影響甚大，海關設臺灣、淡水二關，但臺灣關兼轄安平、打狗，淡水關兼轄淡水、雞籠二關。此碑乃臺灣關打狗口之界碑，設置於同治8年(1869)，可見證清末天津、北京條約簽訂後海關的歷史，為清代臺灣海關的重要史證。\r\n目前臺灣能找到的清代海關界碑極其稀少，就清代的海關制度、臺灣海關歷史具有重要歷史意義與價值。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第1、2、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 18,
+    "belongCityName": "高雄市",
+    "belongDistName": "鹽埕區",
+    "keepNameId": 17,
+    "keepName": "高雄市立歷史博物館",
+    "keepNameNew": 17,
+    "keepAddressNew": "高雄市鹽埕區80347高雄市鹽埕區中正四路272號",
+    "amount": 1,
+    "descSize": "26 x11 x107公分",
+    "reserveStatus": "完整良好 ",
+    "documents": [],
+    "isOpenDownload": false,
+    "belongAddress": "80347高雄市鹽埕區中正四路272號",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "高雄市立歷史博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "高雄市鹽埕區80347高雄市鹽埕區中正四路272號",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "高雄市",
+            "distName": "鹽埕區",
+            "id": 4579,
+            "caseId": 4435,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1804,
+            "address": "80347高雄市鹽埕區中正四路272號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 4579,
+            "caseId": 4435,
+            "caseStatus": true,
+            "registerDate": 1358697600000,
+            "officialDocNo": "文資局物字第10220005481號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

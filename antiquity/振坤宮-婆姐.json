@@ -1,0 +1,93 @@
+{
+    "id": 3256,
+    "caseId": "20160112000005",
+    "count": 391,
+    "shareCount": 0,
+    "representImage": 5706,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43364/photo/2fee8449-a178-4439-9bee-90bea260f7d8_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43364/photo/2fee8449-a178-4439-9bee-90bea260f7d8.jpg",
+        "name": "2fee8449-a178-4439-9bee-90bea260f7d8"
+    },
+    "caseName": "振坤宮-婆姐",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1452528000000,
+    "officialDocNo": "府授文資遺字第10500042674號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有一定之時代特色、技術及流派",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.\t神像自清道光年間振坤宮祀奉之始即祀於宮內，依其形制推斷為清代文物，具有歷史性及藝術價值。\r\n2.\t本案雕造確係清代，屬註生娘娘信仰中的十二婆姐或三十六婆姐之一。",
+    "lawsReference": "符合「古物分級登錄指定及廢止審查辦法」第2條第1項第1、3、5、6款評定基準。",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "大里區",
+    "reservationCode": "",
+    "keepNameId": 17,
+    "keepName": "振坤宮",
+    "keepNameNew": 17,
+    "keepAddressNew": "臺中市大里區 仁化里仁化路518號",
+    "amount": 1,
+    "notes": "",
+    "reserveStatusDesc": "",
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 5707,
+            "name": "f0c15f51-2834-41ca-8e0e-3488e2a8a01b.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44555/file/f0c15f51-2834-41ca-8e0e-3488e2a8a01b.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "振坤宮",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺中市大里區 仁化里仁化路518號",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "大里區",
+            "id": 3397,
+            "caseId": 3256,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1010
+        }
+    ],
+    "announces": [
+        {
+            "id": 3397,
+            "caseId": 3256,
+            "caseStatus": true,
+            "registerDate": 1452528000000,
+            "officialDocNo": "府授文資遺字第10500042674號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,123 @@
+{
+    "id": 1105,
+    "caseId": "20030120000004",
+    "count": 5148,
+    "shareCount": 0,
+    "representImage": 235504,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-11-16/266748d9-1dc7-46ae-a87f-d29a9e0c8613/IMG_9892_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-11-16/266748d9-1dc7-46ae-a87f-d29a9e0c8613/IMG_9892.jpg",
+        "name": "IMG_9892"
+    },
+    "caseName": "基隆市政府大樓",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "基隆市政府現址於清領末期為通判署，大正13年（1924）基隆改廳為市，設市役所於旭町，昭和5年（1930）年7月25日開工，昭和7年（1932）3月23日完工，此建築本身為基隆少數保存完整的日本時代歷史建築。二戰後改為基隆市政府。民國58年（1969）開始規劃增建四樓，並新建後棟大樓，民國62年（1973）9月18日竣工。民國92年（2003）1月20日公告登錄為基隆市歷史建築。目前仍作為基隆市政府辦公大樓使用中。",
+    "assetsTypeNames": "衙署",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1043052015000,
+    "officialDocNo": "中一字第0921051039 號",
+    "documents": [
+        {
+            "fileid": 175047,
+            "name": "0920120-登錄公告-基隆市政府大樓.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-21/d345b0dd-2c3b-4b46-9c09-d4290accf52b/0920120-登錄公告-基隆市政府大樓.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "市府大樓為基隆少數保存完整的日本時代歷史建築，建築呈現著現代建築風味，值得加以保存維護。",
+    "lawsReference": "《歷史建築登錄廢止審查及輔助辦法》第2條第1項第1、2款",
+    "govInstitutionCode": "200",
+    "govInstitutionName": "基隆市政府",
+    "belongCityId": 2,
+    "belongCityName": "基隆市",
+    "belongDistName": "中正區",
+    "govInstitution": "基隆市文化觀光局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)24224170",
+    "govDeptAddress": "基隆市中正區信一路181號",
+    "cadasters": [
+        {
+            "fileid": 175049,
+            "name": "基隆市政府大樓 地籍資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-07-21/15538b46-f2a3-4484-9459-514d372c571f/基隆市政府大樓 地籍資料.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "機關用地",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "基隆市中正區日新段一小段1地號",
+    "buildingFeatures": "此建築本身為基隆少數保存完整的日本時代歷史建築，運用垂直與水平的線條詮釋現代建築的風味。",
+    "inHouseFeatures": "原建築物為三層樓，二戰後為因應空間需求而加建一層樓，但大體上保留原貌，後方另增建新大樓，分擔舊樓空間不足之需求。",
+    "buildingUsage": "為基隆市政府辦公大樓。",
+    "buildingActualState": "具有歷史文化意義，目前為基隆市政府辦公大樓。",
+    "buildingKeyMaintainItem": "日常維護管理以及週遭環境清潔。",
+    "bulkTransfer": 0,
+    "belongAddress": "義一路1號",
+    "isOpenVisit": true,
+    "openUpTime": "民眾洽公服務時間：08:00-12:00 / 13:30-17:30",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.744608309688,
+    "latitude": 25.131670721001,
+    "representImageSource": "基隆市文化觀光局",
+    "landScope": "基隆市中正區日新段一小段1地號，共計1區，土地面積總計7111平方公尺",
+    "selfCoverage": "基隆市中正區日新段一小段1地號",
+    "addresses": [
+        {
+            "cityName": "基隆市",
+            "distName": "中正區",
+            "id": 149777,
+            "caseId": 1105,
+            "caseStatus": true,
+            "cityId": 2,
+            "distId": 203,
+            "address": "義一路1號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "基隆市",
+            "distName": "中正區",
+            "landNoName": "日新段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 207582,
+            "caseId": 1105,
+            "caseStatus": true,
+            "cityId": 2,
+            "distId": 203,
+            "landNoId": 2176,
+            "landSerialNo": "1",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "7111",
+            "cityLandUseTypeOther": "機關用地",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 163016,
+            "caseId": 1105,
+            "caseStatus": true,
+            "registerDate": 1043052015000,
+            "officialDocNo": "基府教社壹字第0920006602號",
+            "classificationId": 1,
+            "note": "公告「基隆市政府大樓」登錄為本市歷史建築"
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.74475617202032,25.131777001964704],[121.74475633980057,25.13177637820801],[121.74476839892482,25.13173159421948],[121.74439172074065,25.131149946879088],[121.74434902050346,25.131085303423983],[121.74428815521767,25.131073128291206],[121.74367557294981,25.131407789659427],[121.74366148103829,25.131461671987807],[121.74408260762772,25.132102735223647],[121.74412872343522,25.132120725231392],[121.74475617202032,25.131777001964704],[121.74475617202032,25.131777001964704]]]]},\"properties\":{\"envelope\":{\"left\":\"121.74366148103829\",\"top\":\"25.131073128291206\",\"right\":\"121.74476839892482\",\"bottom\":\"25.132120725231392\"},\"landLot\":\"基隆市中正區日新段一小段1\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": "92年基隆市歷史建築保存再利用成果報告書"
+}

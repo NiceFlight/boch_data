@@ -1,0 +1,121 @@
+{
+    "id": 1795,
+    "caseId": "20021213000007",
+    "count": 2108,
+    "shareCount": 0,
+    "representImage": 48972,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-07-11/ee330af6-fdfe-4021-945b-dea91ccc1f38/DSCN4189_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-07-11/ee330af6-fdfe-4021-945b-dea91ccc1f38/DSCN4189.jpg",
+        "name": "DSCN4189"
+    },
+    "caseName": "馬公文石書院魁星樓",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "澎湖孔廟的前身是創建於乾隆31（1766）年的文石書院，於日治時期才變成孔廟。文石書院創建時就建有魁星樓，後來在道光9（1829）年改建魁星樓（即本建築物）於巽方（東南方），澎湖孔廟在民國52（1963）年重修時，魁星樓是唯一被保留原貌迄今的建築，也是台灣唯一留有魁星樓的書院。其建築平面為四角形，簷廊下四角各有一個拱形開口，建築色彩鮮豔，因為是書院中的建築，裝飾較樸實，目前建物狀況大致良好。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "建築物類",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1039708800000,
+    "officialDocNo": "府授文視字第0910070254 號 ",
+    "documents": [
+        {
+            "fileid": 140922,
+            "name": "公告公文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-10-15/8e6aa356-f971-4e6e-a63d-cdf4e7a6a665/公告公文.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "本歷史建築為創建於清乾隆年間的文石書院所附設，於道光年間改建，日治時期成為孔廟。創建年期久遠，具有歷史文化意義。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "06-9261141#138",
+    "govDeptAddress": "澎湖縣馬公市中華路230號",
+    "cadasters": [
+        {
+            "fileid": 140923,
+            "name": "地籍資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-10-15/42b78899-7f31-447c-8b50-9079a09dc3fa/地籍資料.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "馬公市文化段0393-0000地號",
+    "buildingFeatures": "為二層樓傳統木、磚造建築，建築平面呈四角形。澎湖孔廟在民國52（1963 年）重修時，魁星樓是唯一被保留原貌迄今的建築，也是台灣唯一留有魁星樓的書院。",
+    "inHouseFeatures": "一樓伺奉魁星爺神像；二樓伺奉文昌帝君神像。建物坐北朝南，東西側牆面設有左右式向內開窗，北側內有陡峭木造樓梯一座通往二樓；一、二樓室外皆有狹長廊道，及嵌有花磚樣式之矮牆。",
+    "buildingUsage": "澎湖孔廟的前身是創建於乾隆31（1766）年的文石書院，於日治時期才變成孔廟。\n文石書院創建時就建有魁星樓，後來在道光9（1829）年改建魁星樓（即本建築物）於巽方（東南方）。\n目前開放民眾及香客參拜中，二樓暫不對外開放。\n",
+    "buildingActualState": "建物為民國93（2014年）修復完成，整體現況保存良好。",
+    "buildingKeyMaintainItem": "建築外貌。",
+    "bulkTransfer": 0,
+    "belongAddress": "西文里104之7號",
+    "isOpenVisit": true,
+    "openUpTime": "9:00-16:00；星期一、二休館",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 119.58019334854332,
+    "latitude": 23.566690574115153,
+    "representImageSource": "澎湖縣政府文化局文化資產科",
+    "landScope": "澎湖縣馬公市文化段0393地號",
+    "selfCoverage": "孔廟位於新生路上，附近大多是住家及機關用地",
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 79134,
+            "caseId": 1795,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "西文里104之7號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "landNoName": "文化段",
+            "cityLandUseTypeName": "保存區",
+            "id": 83840,
+            "caseId": 1795,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "landNoId": 15665,
+            "landSerialNo": "0393",
+            "landownership": 1,
+            "cityLandUseTypeId": 7,
+            "area": "2408.25平方公尺",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 84930,
+            "caseId": 1795,
+            "caseStatus": true,
+            "registerDate": 1039968000000,
+            "officialDocNo": "府授文視字第0910070254 號 ",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[119.5801140081234,23.567307369301616],[119.58039171835124,23.56722240352803],[119.58022218134263,23.56674815711996],[119.58022491515744,23.566745799449908],[119.58024879647517,23.56673775345463],[119.58022871328374,23.566677137116397],[119.58018174671724,23.566526979751323],[119.57988008943063,23.566668881879256],[119.580014053445,23.567040276772747],[119.5801140081234,23.567307369301616],[119.5801140081234,23.567307369301616]]]]},\"properties\":{\"envelope\":{\"left\":\"119.57988008943063\",\"top\":\"23.566526979751323\",\"right\":\"119.58039171835124\",\"bottom\":\"23.567307369301616\"},\"landLot\":\"澎湖縣馬公市文化段0393\"}}],\"notfound\":[]}]",
+    "openVisitType": "",
+    "pastHistorySource": "文化局提供"
+}

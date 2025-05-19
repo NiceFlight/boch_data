@@ -1,0 +1,105 @@
+{
+    "id": 15718,
+    "caseId": "20180601000005",
+    "count": 448,
+    "shareCount": 1,
+    "representImage": 147328,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-13/0812725a-a884-4088-a559-e3dd7403b5c4/DSC09922-hhy_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-13/0812725a-a884-4088-a559-e3dd7403b5c4/DSC09922-hhy.jpg",
+        "name": "DSC09922-hhy"
+    },
+    "caseName": "土庫順天宮石香爐",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1507219200000,
+    "officialDocNo": "府文資二字第1063809916E號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就",
+        "數量稀少者",
+        "對地方或族群知識、技術或流派發展具影響或意義"
+    ],
+    "registerReason": "１、石爐兩側原為獅吞展耳，惟目前已遺失，正面為折枝梅花鳥禽紋，石爐唇口有朱書「天上聖母」，一側刻「道光甲午」即道光14年（1834）即順天宮創建年代，可印證建廟年代。\n２、外觀判斷屬於砂岩一類，由於清代青斗石、花崗岩多來自大陸，砂岩則就地取材，本件石爐反映順天宮就地取材的現象。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2、3、4、5、6款",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "belongCityId": 13,
+    "belongCityName": "雲林縣",
+    "belongDistName": "土庫鎮",
+    "govInstitution": "雲林縣政府",
+    "govDeptName": "文化處",
+    "govDeptPhone": "05-5523157",
+    "govDeptAddress": "雲林縣斗六市大學路三段310號",
+    "reservationCode": "暫無",
+    "amount": 1,
+    "descAge": "西元1834年(清道光14年)",
+    "descSize": "寬26.5公分、長21.5公分、高29.5公分",
+    "descMaterial": "石質（砂岩）",
+    "reserveStatusDesc": "清道光十四年重建廟宇，安座紀念之石雕香爐，目前存放於順天宮保險櫃中，香爐正面刻「道光甲午年」及「天上聖母」，也刻以花鳥等吉祥圖案，底部四腳刻有金猊圖飾。香爐兩側原有雙耳，但已脫落遺失，香爐上文字多已風化，部分文字難以辨識。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "西元1834年(清道光14年)",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定，仍須注意風化問題。",
+    "documents": [
+        {
+            "fileid": 48290,
+            "name": "「土庫順天宮石香爐」公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-06-01/fd0584f1-fa46-4053-9816-e28f81de696a/「土庫順天宮石香爐」公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 23.6767819253369,
+    "latitude": 120.39066367048768,
+    "representImageSource": "雲林縣政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "土庫順天宮管理委員會",
+            "keepName": "土庫順天宮管理委員會",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "土庫順天宮管理委員會",
+            "keepAddressNew": "雲林縣土庫鎮順天里中正路109號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "雲林縣",
+            "keepNameDistName": "土庫鎮",
+            "keepNameAddress": "順天里中正路109號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "土庫鎮",
+            "id": 68961,
+            "caseId": 15718,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1304,
+            "address": "中正路109號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73090,
+            "caseId": 15718,
+            "caseStatus": true,
+            "registerDate": 1507219200000,
+            "officialDocNo": "府文資二字第1063809916E號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

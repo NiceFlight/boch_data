@@ -1,0 +1,107 @@
+{
+    "id": 3102,
+    "caseId": "20141105000006",
+    "count": 353,
+    "shareCount": 0,
+    "representImage": 5520,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4795/photo/新建朱文公祠記碑_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4795/photo/新建朱文公祠記碑.png",
+        "name": "新建朱文公祠記碑"
+    },
+    "caseName": "新建朱文公祠記碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-其他",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1415116800000,
+    "officialDocNo": "府文資處字第1031018187B號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源"
+    ],
+    "registerReason": "本碑為清康熙五十二年(西元1713年)，臺廈道陳璸所立。陳璸於康熙五十一年呈報福建巡撫等，臺地宜建朱子專祠。該祠興建完成陳璸撰「新建朱文祠記」詳述始末，勒石紀念。本碑記錄孔廟新建朱文公祠之始末，對朱文公祠格局亦有相關描述，祠今已不存，此碑為臺南孔廟建築沿革之重要歷史紀錄。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第2條第1項第1、2款。",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "中西區",
+    "govInstitution": "臺南市文化資產管理處",
+    "govDeptName": "-文化資產研究組",
+    "govDeptPhone": "06-2213597",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "reservationCode": "-",
+    "amount": 1,
+    "notes": "",
+    "descAge": "康熙五十二年(西元1713年)",
+    "descCreator": "陳璸 撰文",
+    "descSize": "高300公分、寬118公分",
+    "descMaterial": "花崗石",
+    "reserveStatusDesc": "1.年代：康熙五十二年(西元1713年)\n2.作者：陳璸 撰文\n3.材質：花崗石\n4.尺寸：高300公分、寬118公分     \n5.技法：石刻\n6.重量：無法測量\n7.數量：1組1件\n8.其他特徵：碑頭有雙龍珠浮雕，龍之上、下方皆有雲紋為飾。中央為「皇清」二字，位於火焰龍珠下。碑名以陰刻方款刻於珠下，與雙龍搶珠融為一體。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "康熙五十二年(西元1713年)臺廈道陳璸立",
+    "saveEnvironment": 3,
+    "reserveStatus": "有損傷但狀況穩定 ",
+    "documents": [
+        {
+            "fileid": 109838,
+            "name": "一般古物登錄清冊103.11.6.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-12/ab001360-623f-496d-b667-54058843cf35/一般古物登錄清冊103.11.6.pdf"
+        },
+        {
+            "fileid": 142152,
+            "name": "孔廟古物公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-01/8b71ac81-8a49-4d62-889e-373d9fd1b00d/孔廟古物公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 22.990697864018713,
+    "latitude": 120.2115018128357,
+    "representImageSource": "臺南市政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "財團法人臺南市孔廟文化基金會",
+            "keepName": "財團法人臺南市孔廟文化基金會",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺南市中西區 南門路2號(臺南市孔廟)",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "id": 107127,
+            "caseId": 3102,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601
+        }
+    ],
+    "announces": [
+        {
+            "id": 115002,
+            "caseId": 3102,
+            "caseStatus": true,
+            "registerDate": 1415116800000,
+            "officialDocNo": "府文資處字第1031018187B號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

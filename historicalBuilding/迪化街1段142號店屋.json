@@ -1,0 +1,170 @@
+{
+    "id": 992,
+    "caseId": "20141017000001",
+    "count": 2766,
+    "shareCount": 4,
+    "representImage": 170186,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/644a77b3-e147-4c5e-a9c1-cdb9c5e1c501/代表圖像_迪化街1段142號店屋_20220623_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/644a77b3-e147-4c5e-a9c1-cdb9c5e1c501/代表圖像_迪化街1段142號店屋_20220623.jpeg",
+        "name": "代表圖像_迪化街1段142號店屋_20220623"
+    },
+    "caseName": "迪化街1段142號店屋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本案建物最早於大正8年(1919)由李氏家族擁有地產，於1940年轉賣給黃海，1941年由大稻埕醫師張文鉁買下開設小兒科醫院，再於1953年由郭國樑取得所有權開設南北貨商行。郭家接手此建物後，一進一樓作為店面，一進二、三樓作為居住空間，第二進作為倉庫使用，為一般家庭與產業結合之店屋型態。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 93864,
+            "name": "3._1031017登錄歷史建築公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/fb6b2366-db97-46e3-8865-6d9158cf4fd8/3._1031017登錄歷史建築公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1、本建物創建於日據大正8年（1919），為兩進兩過水街屋格局，現今仍保存許多原有建築結構及形貌，含地下排溝、斗砌牆、石牆、土角磚牆及地坪卵石層等構造特色，甚具建築學之價值。\r\n2、日據時期由張文鉁醫師經營永樂小兒科醫院，光復後轉手予郭氏家族開設長和貿易公司，經營南北貨販售，並曾代理當時著名的日本菊花奶粉，反映昔時大稻埕迪化街繁榮的批發貿易產業。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、4款評定基準。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 93870,
+            "name": "downloadfile.gif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/a45bc048-df94-4cb6-bbc4-7eeeb12d393c/downloadfile.gif"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "特定專用區（三）（供特定住宅使用）",
+    "locationLandNo": "臺北市大同區延平段3小段680、680-1、681、741-8地號等4筆土地",
+    "buildingFeatures": "正立面為1960年代所改建的現代主義式樣三層樓建築，一至三樓均為單開間，面材以淺黃色面磚及淺綠色馬賽克兩種搭配。第一進背立面臨天井設置陽台，牆身為清水磚牆砌造，後期表面作洗石子牆身及磨石子腰牆處理，二樓開門處上方設有專砌門額。第二進正立面亦鄰天井設置陽台，牆身為斗砌牆切造，後期表面洗石子處理，二樓窗頂設有柳條磚，並留有竹節落水管。過水廊立面頂部作連續亞字磚。",
+    "inHouseFeatures": "一進為磨石子地坪，二進一樓為卵石基礎後期鋪設混凝土地坪；二樓為尺磚地坪後期增鋪PVC地磚；二樓夾層則為杉木板地坪。\r\n一進二樓為簡約古典主義式紅木腰板隔牆及磨石子踢腳板、紅木門窗，甚為特殊。三樓為現代主義式木作隔間及屏風。二進一樓留有土造斗子砌部分內牆，面天井側面材為斗砌尺磚，面後院側為白灰粉刷。",
+    "buildingUsage": "計畫整修中",
+    "buildingActualState": "修復中",
+    "buildingKeyMaintainItem": "保存範圍：全棟保存",
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.5097033,
+    "latitude": 25.0575776,
+    "representImageSource": "臺北市文化局",
+    "landScope": "254平方公尺",
+    "selfCoverage": "以實際測量面積為準",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 83426,
+            "caseId": 992,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "迪化街1段142號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 93290,
+            "caseId": 992,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 189,
+            "landSerialNo": "680",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "cityLandUseTypeOther": "特定專用區（三）（供特定住宅使用）",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 93291,
+            "caseId": 992,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 189,
+            "landSerialNo": "680-1",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "cityLandUseTypeOther": "特定專用區（三）（供特定住宅使用）",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 93292,
+            "caseId": 992,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 189,
+            "landSerialNo": "681",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "cityLandUseTypeOther": "特定專用區（三）（供特定住宅使用）",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 93293,
+            "caseId": 992,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 189,
+            "landSerialNo": "741-8",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "cityLandUseTypeOther": "特定專用區（三）（供特定住宅使用）",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 89665,
+            "caseId": 992,
+            "caseStatus": true,
+            "registerDate": 1413475200000,
+            "officialDocNo": "北市文化文資字第10330454000號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "申請人所提供之報告書資料"
+}

@@ -1,0 +1,101 @@
+{
+    "id": 3757,
+    "caseId": "20140425000062",
+    "count": 59,
+    "shareCount": 0,
+    "representImage": 6542,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7057/photo/宋徽宗書詩(宋人法書冊一)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7057/photo/宋徽宗書詩(宋人法書冊一).jpg",
+        "name": "宋徽宗書詩(宋人法書冊一)"
+    },
+    "caseName": "宋徽宗書詩（宋人法書冊一）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1398355200000,
+    "officialDocNo": "10320044791",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "品質精良且數量稀少"
+    ],
+    "registerReason": "趙佶（1082－1135），即宋徽宗。性好書畫，稟賦極高，主導北宋晚期畫院，對中國繪畫發展影響至鉅。徽宗書法，別成一體，名「瘦金書」，風格遠源自唐代薛稷（649-713）。\r\n此幅結體瘦勁挺拔，轉折處特別強調筆鋒的運轉提頓，造型凝鍊而充滿張力，雖無作者款印，但充分展現宋徽宗的瘦金書，是他傳世的代表作之一。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條1項第3、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故書000243N000000008",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descSize": "33.2 x 63（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "趙佶（1082－1135），即宋徽宗。性好書畫，稟賦極高，主導北宋晚期畫院，對中國繪畫發展影響至鉅。徽宗書法，別成一體，名「瘦金書」，風格遠源自唐代薛稷（649-713）。本件選自《宋人法書》冊，寫七言及五言詩各一首，內容一則描寫宮苑奇石，另一則詠歎珍奇花卉。通幅結體瘦勁挺拔，轉折處特別強調筆鋒的運轉提頓，造型凝鍊而充滿張力。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。折痕、裂損、污漬褐斑。",
+    "documents": [
+        {
+            "fileid": 150216,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-12/14f67e96-7fc9-4aa0-8f1e-7d2aa374757d/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70768,
+            "caseId": 3757,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75030,
+            "caseId": 3757,
+            "caseStatus": true,
+            "registerDate": 1398355200000,
+            "officialDocNo": "10320044791",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

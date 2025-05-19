@@ -1,0 +1,84 @@
+{
+    "id": 3166,
+    "caseId": "20061019000001",
+    "count": 465,
+    "shareCount": 0,
+    "representImage": 5604,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/38078/photo/bd5bb62b-aabc-4d4e-b576-554d7d70995e_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/38078/photo/bd5bb62b-aabc-4d4e-b576-554d7d70995e.jpg",
+        "name": "bd5bb62b-aabc-4d4e-b576-554d7d70995e"
+    },
+    "caseName": "郊野",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1161187200000,
+    "officialDocNo": "屏府文博字第0950206725",
+    "judgeCriteria": [
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "任教於台北師範的石川欽一郎老師至屏東寫生完成，原藏於舊日的屏東介壽圖書館，1975年3月水彩畫家何文杞發現，移撥到本局典藏，經日本專責研究石川欽一郎的立花義彰先生，確認為真跡。據有資料所述，該具藝術價值。",
+    "lawsReference": "文化資產保存法第65條暨古物分級登錄指定及廢止審查辦法第5條、第7條及第8條辦理。",
+    "govInstitutionCode": "900",
+    "govInstitutionName": "屏東縣政府",
+    "belongCityId": 20,
+    "belongCityName": "屏東縣",
+    "belongDistName": "屏東市",
+    "reservationCode": "",
+    "keepNameId": 17,
+    "keepName": "屏東縣政府文化處",
+    "keepNameNew": 17,
+    "keepAddressNew": "屏東縣屏東市大連路69號",
+    "amount": 1,
+    "notes": "",
+    "reserveStatusDesc": "種類:繪畫 \r\n數量:1\r\n年代:1920 \r\n作者:石川欽一郎\r\n材質:紙、水彩 \r\n重量:5 kg\r\n形狀:長方 \r\n尺寸:62×76㎝\r\n技法:水彩",
+    "reserveStatus": "完整良好 ",
+    "documents": [],
+    "isOpenDownload": false,
+    "representImageSource": "",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "屏東縣政府文化處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "屏東縣屏東市大連路69號",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "屏東縣",
+            "distName": "屏東市",
+            "id": 3305,
+            "caseId": 3166,
+            "caseStatus": true,
+            "cityId": 20,
+            "distId": 2001
+        }
+    ],
+    "announces": [
+        {
+            "id": 3305,
+            "caseId": 3166,
+            "caseStatus": true,
+            "registerDate": 1161187200000,
+            "officialDocNo": "屏府文博字第0950206725",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,118 @@
+{
+    "id": 16308,
+    "caseId": "20181031000001",
+    "count": 576,
+    "shareCount": 1,
+    "representImage": 51089,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-10-31/81a3da6d-ea12-47a8-b440-3782f1cf81f9/08-028IMG_9779_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-10-31/81a3da6d-ea12-47a8-b440-3782f1cf81f9/08-028IMG_9779.jpg",
+        "name": "08-028IMG_9779"
+    },
+    "caseName": "馬公東甲北極殿-玄天上帝寶印",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1547049600000,
+    "officialDocNo": "府授文博字第1083700106號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "數量稀少者"
+    ],
+    "registerReason": "（1）具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：廟宇官印具有地方特色產物，且具製作特色。\n（2）具有地方重要人物或歷史事件之深厚淵源者：藍木家族具地方發展意義。\n（3）能反映政治、經濟、社會、人文、科學等歷史變遷或時代特色者：見證澎湖銅鑄產業與宗教信仰之關係。\n（4）數量稀少者：銅鑄技術為澎湖少見。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2、3、5款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00677-P-M013-028",
+    "amount": 3,
+    "descAge": "1922年",
+    "descCreator": "",
+    "descSize": "長 7公分/寬 7公分/高 7.5公分(寶印)",
+    "descMaterial": "銅",
+    "reserveStatusDesc": "本方形寶印為一組3件，分為上、下寶印盒及寶印。印背上有銘文「北極殿」、「大正壬戌春月吉旦」、「爐下弟子藍木敬獻」，印面陽刻方篆「北極玄天上帝寶印」。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "時間：1922年",
+    "saveEnvironment": 2,
+    "reserveStatus": "使用中，置於正殿神案。",
+    "documents": [
+        {
+            "fileid": 107236,
+            "name": "馬公東甲北極殿-玄天上帝寶印(107.9.3).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-04-26/4079e468-58a3-4d2a-958f-47234671ecbd/馬公東甲北極殿-玄天上帝寶印(107.9.3).pdf"
+        },
+        {
+            "fileid": 107237,
+            "name": "馬公東甲北極殿-玄天上帝寶印(108.1.10).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-04-26/bc9bf04f-ea87-43fa-bcad-89c523158c8e/馬公東甲北極殿-玄天上帝寶印(108.1.10).pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.566883,
+    "latitude": 23.564947,
+    "representImageSource": "澎湖縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "東甲北極殿",
+            "keepName": "蘇崑雄",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "東甲北極殿",
+            "keepAddressNew": "澎湖縣馬公市啟明里啟明街2號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 2,
+            "keepNameCityName": "澎湖縣",
+            "keepNameDistName": "馬公市",
+            "keepNameAddress": "啟明里啟明街2號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 27086,
+            "caseId": 16308,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "啟明里啟明街2號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 27320,
+            "caseId": 16308,
+            "caseStatus": true,
+            "registerDate": 1535904000000,
+            "officialDocNo": "府授文博字第1073702686號",
+            "classificationId": 1
+        },
+        {
+            "id": 27321,
+            "caseId": 16308,
+            "caseStatus": true,
+            "registerDate": 1547100884031,
+            "officialDocNo": "府授文博字第1083700106號",
+            "classificationId": 2,
+            "note": "公告修正清冊訛誤"
+        }
+    ],
+    "isPublic": false
+}

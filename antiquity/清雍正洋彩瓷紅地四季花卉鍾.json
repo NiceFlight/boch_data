@@ -1,0 +1,101 @@
+{
+    "id": 4516,
+    "caseId": "20170116000021",
+    "count": 205,
+    "shareCount": 0,
+    "representImage": 7607,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133924/photo/清雍正洋彩瓷紅地四季花卉鍾_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133924/photo/清雍正洋彩瓷紅地四季花卉鍾.jpg",
+        "name": "清雍正洋彩瓷紅地四季花卉鍾"
+    },
+    "caseName": "清雍正洋彩瓷紅地四季花卉鍾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1484496000000,
+    "officialDocNo": "中華民國106年1月16日文授資局物字第10630006011號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "洋彩瓷生產於景德鎮，風格類似清宮造辦處的琺瑯彩瓷，亦屬官窯名品。\n此作器內無紋，外壁以紅色為地，彩繪四季花卉，其中以錳呈色的透明紫彩，為景德鎮的傳統五彩釉料做法。器底帶「雍正御製」二行青花楷書雙方框款。本件可對照陳設檔案史料，益顯珍貴。\n",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第3、5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故瓷008663",
+    "amount": 1,
+    "descAge": "清　雍正",
+    "descSize": "高3.4公分、口徑7公分、 底徑2.7公分。",
+    "descMaterial": "洋彩瓷",
+    "reserveStatusDesc": "這件杯子斂口、深腹、矮圈足。器內無紋，外壁以紅色為地，彩繪四季花卉。花朵佈局與中瓷602、1264二件極為相同。器底帶「雍正御製」二行青花楷書雙方框款。 經顯微放大五十倍後，可觀測到紫彩延續景德鎮傳統五彩釉料的做法，屬以錳呈色的透明紫彩。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 148428,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-22/3fda459c-343b-4342-a839-f1789ff7c592/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69494,
+            "caseId": 4516,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73656,
+            "caseId": 4516,
+            "caseStatus": true,
+            "registerDate": 1484496000000,
+            "officialDocNo": "中華民國106年1月16日文授資局物字第10630006011號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

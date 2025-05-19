@@ -1,0 +1,133 @@
+{
+    "id": 1369,
+    "caseId": "20020917000001",
+    "count": 3608,
+    "shareCount": 3,
+    "representImage": 179671,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-08-12/7772301e-9ccd-40fa-b891-bdee18f87d3c/歷01-三義建中國小奉安殿_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-08-12/7772301e-9ccd-40fa-b891-bdee18f87d3c/歷01-三義建中國小奉安殿.jpg",
+        "name": "歷01-三義建中國小奉安殿"
+    },
+    "caseName": "三義建中國小奉安所",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "其他歷史遺蹟",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1032241065000,
+    "officialDocNo": "府文資字第0910500186號公告",
+    "documents": [
+        {
+            "fileid": 138552,
+            "name": "歷01-三義建中國小奉安所-公告(91.9.17).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-09-15/59b8cddc-d82f-4980-9f91-a139bf95b358/歷01-三義建中國小奉安所-公告(91.9.17).pdf"
+        },
+        {
+            "fileid": 138553,
+            "name": "歷01-三義建中國小奉安所-更名公告(102.9.27).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-09-15/9db00e94-f313-438e-a92a-414544369d00/歷01-三義建中國小奉安所-更名公告(102.9.27).pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "本座「奉安所」是日式亭閣為存放日本天皇親頒的「敕語」，乃全縣唯一留存的一座，為意識型態史之空間見證，富歷史文化意義具登錄本縣歷史建築之價值。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>",
+    "govInstitutionCode": "360",
+    "govInstitutionName": "苗栗縣政府",
+    "belongCityId": 8,
+    "belongCityName": "苗栗縣",
+    "belongDistName": "三義鄉",
+    "govInstitution": "苗栗縣政府文化觀光局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "037-352961#716",
+    "govDeptAddress": "苗栗縣苗栗市自治路50號",
+    "cadasters": [
+        {
+            "fileid": 139819,
+            "name": "歷01-三義建中國小奉安所-地籍資料.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-09-29/e5b1372d-4570-4d63-830c-ca86dcc8ab3b/歷01-三義建中國小奉安所-地籍資料.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "三義鄉五穀段1104地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "wenSitename": "苗栗文化觀光旅遊網",
+    "wenSiteaddress": "http://miaolitravel.net/index.php",
+    "belongAddress": "苗栗縣三義鄉廣盛村80 號",
+    "isOpenVisit": true,
+    "openUpTime": "開放參觀計畫：\n(一)\t開放時間：\n1.\t奉安殿：目前不對外開放。\n2.\t周遭環境：屬開放空間，週一至週日9：00至14：00。\n(二)\t開放範圍：本歷史建築管理範圍。\n(三)\t收費方式：不收費。\n(四)\t導覽活動：由本校具有解說員資格者或邀請專家學者擔任。\n(五)\t圖文刊物及紀念品：現場設置解說牌。\n",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.769405962389,
+    "latitude": 24.4131487572722,
+    "representImageSource": "苗栗縣政府文化觀光局",
+    "landScope": "三義鄉五穀段1104地號。",
+    "selfCoverage": "建築面積29.44平方公尺",
+    "addresses": [
+        {
+            "cityName": "苗栗縣",
+            "distName": "三義鄉",
+            "id": 113521,
+            "caseId": 1369,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 816,
+            "address": "廣盛村80號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "苗栗縣",
+            "distName": "三義鄉",
+            "landNoName": "五穀段",
+            "id": 155202,
+            "caseId": 1369,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 816,
+            "landNoId": 9498,
+            "landSerialNo": "1104",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 123524,
+            "caseId": 1369,
+            "caseStatus": true,
+            "registerDate": 1032241065000,
+            "officialDocNo": "府文資字第0910500186號公告",
+            "classificationId": 1
+        },
+        {
+            "id": 123525,
+            "caseId": 1369,
+            "caseStatus": true,
+            "registerDate": 1380211200000,
+            "officialDocNo": "府文資字第1020009447號",
+            "classificationId": 2
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.76990497427913,24.414125067218187],[120.76991014413757,24.414002155539638],[120.76997293695335,24.41397510515719],[120.7699600328561,24.413928077660763],[120.76983104004172,24.41396661346529],[120.76975675548005,24.413766010681325],[120.77002980056297,24.413677029182274],[120.76981670336014,24.413384478636424],[120.76963904407212,24.413109707524868],[120.76961464276903,24.413104554538773],[120.76956017748394,24.413142479389347],[120.76954292832107,24.413164848764012],[120.76949421918579,24.413174739959416],[120.76947270835751,24.413136807809114],[120.76967015542235,24.41379794016447],[120.76968465395338,24.413797089114585],[120.76982548239518,24.41415325151084],[120.76990497427913,24.414125067218187],[120.76990497427913,24.414125067218187]]]]},\"properties\":{\"envelope\":{\"left\":\"120.76947270835751\",\"top\":\"24.413104554538773\",\"right\":\"120.77002980056297\",\"bottom\":\"24.414153251510839\"},\"landLot\":\"苗栗縣三義鄉五穀段1104\"}}],\"notfound\":[]}]",
+    "selfCoverageJson": "{\"type\": \"FeatureCollection\",\"features\": [{\"type\": \"Feature\",\"properties\": \"{}\",\"geometry\": {\"type\": \"Polygon\",\"coordinates\": [[[120.76955617686484,24.413163318552126],[120.76946234109607,24.41317552509345],[120.7694757462059,24.413124257611948],[120.7695508148209,24.4131218163028],[120.76955617686484,24.413163318552126]]]}}]}",
+    "openVisitType": "",
+    "pastHistorySource": "資料來源：劉榮春等編著，苗栗縣文化資產資料手冊，苗栗市：苗栗縣文化局，民94。"
+}

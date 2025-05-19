@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "新北市瑞芳區三爪子段坪林小段54-21地號"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

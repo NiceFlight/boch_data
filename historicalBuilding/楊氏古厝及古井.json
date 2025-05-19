@@ -1,0 +1,110 @@
+{
+    "id": 2106,
+    "caseId": "20150922000003",
+    "count": 4280,
+    "shareCount": 6,
+    "representImage": 187227,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/806fe963-1237-4817-858d-1bdfa80be7d8/代表圖像＿楊氏古厝及古井_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/806fe963-1237-4817-858d-1bdfa80be7d8/代表圖像＿楊氏古厝及古井.jpg",
+        "name": "代表圖像＿楊氏古厝及古井"
+    },
+    "caseName": "楊氏古厝及古井",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "楊氏古厝位於臺北盆地開拓較早之萬華地區，為楊姓宗族聚落於萬華地區之發源地，且建物已有百年歷史，具地方開發史及宗族歷史之象徵意義。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 162491,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/9cdbd7b9-edd3-4022-9f0e-4a7aa44beef3/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1.楊氏古厝位於臺北盆地開拓較早之萬華地區，為楊姓宗族聚落於萬華地區之發源地，且建物已有百年歷史，具地方開發史及宗族歷史之象徵意義。\r\n2.現存於楊氏古厝之古井，其材料及多邊形構築工法，富構造美學之特色，並見證過去居民使用井水之生活歷史。",
+    "lawsReference": "1.依據文化資產保存法第15條、歷史建築登錄廢止審查及輔助辦法第4條暨臺北市歷史建築登錄及廢止審查作業要點相關規定。\r\n2.符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、4款評定基準。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 162492,
+            "name": "a8d8fc0c-5850-4eba-b5aa-6b007ba4f850.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/6d454e48-1cea-4acf-9661-9334ee7e00a0/a8d8fc0c-5850-4eba-b5aa-6b007ba4f850.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "locationLandNo": "萬華區華中段一小段355地號（部分）",
+    "buildingFeatures": "建物為磚構造傳統民居形態",
+    "inHouseFeatures": "內部為傳統民居空間形態",
+    "buildingUsage": "建物目前大多為閒置狀態",
+    "buildingActualState": "部分空間已嚴重坍塌",
+    "buildingKeyMaintainItem": "歷史建築公告其他事項：未來研擬「楊氏古厝」及「古井」異地保存方案時，須併同提出妥適之遷移工法",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.4966096,
+    "latitude": 25.021694,
+    "representImageSource": "臺北市文化局",
+    "landScope": "萬華區華中段一小段355地號（部分）　",
+    "selfCoverage": "  ",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "id": 93858,
+            "caseId": 2106,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "address": "長泰街179巷5弄5號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "landNoName": "華中段一小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 115467,
+            "caseId": 2106,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "landNoId": 158,
+            "landSerialNo": "355",
+            "landownership": 2,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "2,144平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 101277,
+            "caseId": 2106,
+            "caseStatus": true,
+            "registerDate": 1442851200000,
+            "officialDocNo": "北市文化文資字第10430442000號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": ""
+}

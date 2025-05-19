@@ -1,0 +1,100 @@
+{
+    "id": 4488,
+    "caseId": "20170203000005",
+    "count": 255,
+    "shareCount": 0,
+    "representImage": 7551,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133829/photo/5元人嘉禾圖軸_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133829/photo/5元人嘉禾圖軸.jpg",
+        "name": "5元人嘉禾圖軸"
+    },
+    "caseName": "元人嘉禾圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1486051200000,
+    "officialDocNo": "中華民國106年2月3日文授資局物字第10630011521號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "品質精良且數量稀少"
+    ],
+    "registerReason": "史上歷朝，以農立國，糧食之生產，至關民生。嘉禾指一莖多穗之稻，為祥瑞與昌盛的象徵。中國帝王重視祥瑞徵兆，認為凡有嘉禾出，標誌民安物阜太平盛世；宮廷畫家奉承上意，繪製此類主題，藉以歌頌皇帝聖德。\n此畫中央高大一叢稻穀，稻穗飽滿沉重，莖梗以花青、赭石沒骨繪成，直挺修長伸展，生長茂盛，顯現出豐收的預兆。構圖、技法、色彩，皆從寫生而來。描繪物象精準，畫面呈現立體逼真、設色細緻的藝術效果。畫風為元初結合文人雅淡又能充份寫實之大幅代表作。此畫無論就其象徵內容或寫實風格，藝術題材和技法表現，難得且珍罕。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第3、5款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000374",
+    "amount": 1,
+    "descAge": "元",
+    "descSize": "190.2公分 x 67.9公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "中央高大一叢稻穀，稻穗飽滿沉重，莖梗以花青、赭石沒骨繪成，直挺修長伸展，垂下的稻穗飽滿碩大，生長茂盛，顯現出豐收的預兆。水稻所在平面實為一片水際，層層水紋，隱約可見水面下生長的水藻。嘉禾（指一莖多穗之稻），以此主題為描寫對象，作為祥瑞與昌盛的象徵。中軸鼎立的嘉禾佔滿畫幅中央，下方兩組稻穀分列左右，彷如君臣關係。中國帝王重視祥瑞徵兆，認為凡有嘉禾出，標誌民安物阜太平盛世；宮廷畫家奉承上意，繪製此類主題，藉以歌頌皇帝聖德。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。本幅有部分霉傷、磨損、摺痕、傷補、汙漬。",
+    "documents": [
+        {
+            "fileid": 148327,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-22/0928aaa0-d794-48c9-9821-b0822b7148b2/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69430,
+            "caseId": 4488,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73592,
+            "caseId": 4488,
+            "caseStatus": true,
+            "registerDate": 1486051200000,
+            "officialDocNo": "中華民國106年2月3日文授資局物字第10630011521號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

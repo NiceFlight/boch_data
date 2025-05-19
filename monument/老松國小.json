@@ -1,0 +1,120 @@
+{
+    "id": 135,
+    "caseId": "19990629000004",
+    "count": 4742,
+    "shareCount": 4,
+    "representImage": 187205,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/6c1bfb4f-831b-48c5-9767-e3bb699aea09/ 代表圖像_老松國小_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/6c1bfb4f-831b-48c5-9767-e3bb699aea09/ 代表圖像_老松國小.jpg",
+        "name": " 代表圖像_老松國小"
+    },
+    "caseName": "老松國小",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "老松國民小學位於臺北市萬華區桂林路六十四號，其前身為艋舺公學校，創立於西元一八九六年，為日據初期台灣最早的一批小學。當時利用寺廟作為臨時校舍，至一九０七年才遷至現址，建造木結構校舍。據當時校舍平面圖看，校園三面有教室，中央留設操場，此為日據時期最常見的小學規劃形態。後至一九二０年代末，因木造校舍毀損過鉅，乃易以鋼筋混凝土構造，校舍仍為三面式佈局。\r\n老松國民小學的校舍雖屬對稱式的佈局，但教室空間高敞，光線明亮。走廊設計為半圓栱，帶有一絲古典趣味，它是日據中期台灣的小學校舍之典型例，值得保存。老松國小從西元一八九六年創建以來，培育造就了無數艋舺地區的優秀人才，對社會貢獻良多，在台北市教育史上具有深遠的意義。 ",
+    "assetsTypeNames": "學校,其他設施",
+    "otherAssetsType": "其他",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 139153,
+            "name": "4._880629六處市定古蹟公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/9cb4b255-4602-46ed-a7e0-e5d46d5bb0f3/4._880629六處市定古蹟公告.pdf"
+        },
+        {
+            "fileid": 139154,
+            "name": "3._880629指定古蹟公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/3953b236-6711-4db9-b3df-82c38749a365/3._880629指定古蹟公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值"
+    ],
+    "registerReason": "具有保存價值",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 139155,
+            "name": "3_地形圖.gif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/32ac078b-26e2-45bc-81fa-ab53e4f683a9/3_地形圖.gif"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "國小用地",
+    "locationLandNo": "台北市萬華段二小段1地號",
+    "buildingFeatures": "老松國民小學位於臺北市萬華區桂林路六十四號，其前身為艋舺公學校，創立於西元一八九六年，為日據初期台灣最早的一批小學。\r\n\r\n老松國民小學的校舍雖屬對稱式的佈局，但教室空間高敞，光線明亮。走廊設計為半圓栱，帶有一絲古典趣味，它是日據中期台灣的小學校舍之典型例，值得保存。",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "老松國小從西元一八九六年創建以來，培育造就了無數艋舺地區的優秀人才，對社會貢獻良多，在台北市教育史上具有深遠的意義。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenDownload": false,
+    "longitude": 121.502725,
+    "latitude": 25.038046,
+    "representImageSource": "臺北市文化局",
+    "landScope": "台北市萬華段二小段1地號",
+    "selfCoverage": "老松國小北棟建築物本體",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "id": 93842,
+            "caseId": 135,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "address": "臺北市萬華區桂林路64號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "萬華區",
+            "landNoName": "萬華段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 115456,
+            "caseId": 135,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 106,
+            "landNoId": 171,
+            "landSerialNo": "0001-0000",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "24983平方公尺",
+            "cityLandUseTypeOther": "公共設施用地(國小用地)",
+            "note": "重測前:新富段2小段1號",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 101266,
+            "caseId": 135,
+            "caseStatus": true,
+            "registerDate": 930585600000,
+            "officialDocNo": "府民三字第8801816500號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "openVisitType": "",
+    "openUpTime": "8:30~1700",
+    "isCharge": false,
+    "pastHistorySource": ""
+}

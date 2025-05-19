@@ -1,0 +1,101 @@
+{
+    "id": 16867,
+    "caseId": "20190628000002",
+    "count": 115,
+    "shareCount": 0,
+    "representImage": 59602,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-06-28/b7031cc5-0407-4a1f-83ae-24e3b5bd3dd9/c11.宋人竹樹馴雀_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-06-28/b7031cc5-0407-4a1f-83ae-24e3b5bd3dd9/c11.宋人竹樹馴雀.jpg",
+        "name": "c11.宋人竹樹馴雀"
+    },
+    "caseName": "宋人竹樹馴雀",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1561516563031,
+    "officialDocNo": "文授資局物字第10830067501號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "具有重要藝術造詣或科學成就",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "〈竹樹馴雀〉收於《宋人集繪》冊第三開，無作者名款。著錄見《石渠寶笈三編》，原為紈扇，後改冊頁形式。\n本幅畫三隻麻雀，一母二子，母鳥正銜蟲餵食小鳥；竹樹和荊枝線描極見挺勁，因被鳥踏駐，顯搖曳不定。整體傳達出麻雀親密互動及細膩竹枝彈性。\n畫中充分展現出宋代花鳥畫家對翎毛縝密觀察，不僅形象逼真，尤其充滿鮮活情態，為宋代翎毛小品中精彩傑作。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第3、4、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫001252-3",
+    "amount": 1,
+    "descAge": "宋",
+    "descSize": "本幅 24.8x24.8 公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "〈竹樹馴雀〉收在《宋人集繪》冊第三開，無作者名款。著錄見《石渠寶笈三編》。原本為紈扇，後來改裝成冊頁形式。畫三隻麻雀，一母二子。母鳥口中銜著剛捕獲的小蟲，將將飛至，兩隻幼雀則張口振翅，嗷嗷待哺。竹樹和荊枝的線描極見挺勁，並由於鳥兒的停駐，彷彿隨之上下擺盪。\n宋代的花鳥畫家，對形象的觀察入微，不僅形象細膩逼真，尤其充滿了鮮活的情態。就如同這幀小品，能夠傳達出竹枝的彈性，以及三隻鳥的親密互動，讓欣賞者的目光，深深為其所吸引。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "絹裂、舊傷補。",
+    "documents": [
+        {
+            "fileid": 146063,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-24/99afc85e-a64c-4c5c-ac59-00b5261d0d70/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 68175,
+            "caseId": 16867,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 72256,
+            "caseId": 16867,
+            "caseStatus": true,
+            "registerDate": 1561516563031,
+            "officialDocNo": "文授資局物字第10830067501號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

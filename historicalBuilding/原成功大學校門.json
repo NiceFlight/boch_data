@@ -1,0 +1,135 @@
+{
+    "id": 19563,
+    "caseId": "20210714000003",
+    "count": 2390,
+    "shareCount": 2,
+    "representImage": 124298,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-14/57c20611-7c25-4ae4-bf37-832a3cf0c645/_DSC5037_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-14/57c20611-7c25-4ae4-bf37-832a3cf0c645/_DSC5037.jpg",
+        "name": "_DSC5037"
+    },
+    "caseName": "原成功大學校門",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "其他設施",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 165640,
+            "name": "原成功大學校門公告-110.06.04.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-26/3e83566b-91f7-460e-9719-ec3eafc0e455/原成功大學校門公告-110.06.04.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "具地區性建造物類型之特色者：\n1.本案建築物屬中國傳統紋飾修飾之現代建築。門洞類似西方凱旋門意象，頂部以傳統如意形的雲朵紋裝飾，底部以須彌座為其基座，設計中具有中西融合之意象，為賀陳詞戰後初期的代表作品。\n2.成功大學為慶祝由工學院升格為大學，爰建造本座校門以茲紀念，此建物亦為該校取得光復校區之前，用以界定校園內外之範圍，在城市發展變遷過程中具有其歷史意義。",
+    "lawsReference": "歷史建築紀念建築登錄廢止審查及輔助辦法第2條第1項第3款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 165641,
+            "name": "原成功大學校門地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-05-26/b16835d9-d7ab-45ae-b896-abcba1c453cf/原成功大學校門地籍圖.jpg"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isOpenDownload": false,
+    "longitude": 120.218389,
+    "latitude": 22.996252,
+    "representImageSource": "文資處拍攝",
+    "landScope": "東區東寧段61部分、62部分、73部分地號土地",
+    "selfCoverage": "校門本體",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "東區",
+            "id": 80327,
+            "caseId": 19563,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1602,
+            "address": "大學路1號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺南市",
+            "distName": "東區",
+            "landNoName": "東寧段",
+            "id": 86695,
+            "caseId": 19563,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1602,
+            "landNoId": 2519,
+            "landSerialNo": "61",
+            "landownership": 1,
+            "coverageId": 1,
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "臺南市",
+            "distName": "東區",
+            "landNoName": "東寧段",
+            "id": 86696,
+            "caseId": 19563,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1602,
+            "landNoId": 2519,
+            "landSerialNo": "62",
+            "landownership": 1,
+            "coverageId": 1,
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "臺南市",
+            "distName": "東區",
+            "landNoName": "東寧段",
+            "id": 86697,
+            "caseId": 19563,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1602,
+            "landNoId": 2519,
+            "landSerialNo": "73",
+            "landownership": 1,
+            "coverageId": 1,
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 86294,
+            "caseId": 19563,
+            "caseStatus": true,
+            "registerDate": 1622772448000,
+            "officialDocNo": "南市文資字第1100693943A",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.21840255017707,22.996317150125975],[120.21840919230458,22.996267419500942],[120.21827200675583,22.99627681494687],[120.2182415706795,22.9962787778785],[120.21824750972587,22.996326347218556],[120.21840255017707,22.996317150125975],[120.21840255017707,22.996317150125975]]]]},\"properties\":{\"envelope\":{\"left\":\"120.2182415706795\",\"top\":\"22.996267419500942\",\"right\":\"120.21840919230458\",\"bottom\":\"22.996326347218556\"},\"landLot\":\"臺南市東區東寧段61\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.21840919230458,22.996267419500942],[120.21842148884033,22.99618368394244],[120.21831075058296,22.996191544867848],[120.21827318250561,22.996194208957103],[120.21826910932356,22.996194498055154],[120.21827200675583,22.99627681494687],[120.21840919230458,22.996267419500942],[120.21840919230458,22.996267419500942]]]]},\"properties\":{\"envelope\":{\"left\":\"120.21826910932356\",\"top\":\"22.996183683942441\",\"right\":\"120.21842148884033\",\"bottom\":\"22.996276814946871\"},\"landLot\":\"臺南市東區東寧段62\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.21955762683973,22.996234945611736],[120.219543776499,22.996104935512328],[120.21842148884033,22.99618368394244],[120.21840919230458,22.996267419500942],[120.21840255017707,22.996317150125975],[120.21955762683973,22.996234945611736],[120.21955762683973,22.996234945611736]]]]},\"properties\":{\"envelope\":{\"left\":\"120.21840255017707\",\"top\":\"22.996104935512328\",\"right\":\"120.21955762683973\",\"bottom\":\"22.996317150125975\"},\"landLot\":\"臺南市東區東寧段73\"}}],\"notfound\":[]}]",
+    "openVisitType": "完全開放參觀"
+}

@@ -1,0 +1,93 @@
+{
+    "id": 1864,
+    "caseId": "20031231000015",
+    "count": 2559,
+    "shareCount": 2,
+    "representImage": 183089,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-08-31/c26de106-40c8-4bf4-96f8-1b2187dbb071/D72_4530_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-08-31/c26de106-40c8-4bf4-96f8-1b2187dbb071/D72_4530.jpg",
+        "name": "D72_4530"
+    },
+    "caseName": "新港教會會館(菅宮勝太郎宅)",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "新港教會會館位於成功鎮忠仁里（原稱新港），原為菅宮勝太郎宅第。日治時期昭和7年（1932），時任新港支廳長的菅宮勝太郎（1883-1943）接獲上級調職命令，因不願離開新港（今成功鎮忠仁里）而辭職，為永居新港，乃興建此宅。宅第為二層樓日式建築，整體造型為東部罕見。 \n臺灣光復後，該宅第被國民政府列為日產接收，後來由高端立醫師（1915-1995，基督教長老教會長老）價購，設置高安醫院，並增建候診室。民國35年（1946）高端立醫師的父親高篤行牧師來到新港，召集信徒，利用醫院候診室做禮拜，重建新港教會（前身為石雨傘教會，花東地區第一所教會）。民國84年高安醫院休業，民國86年由新港教會購得此一宅第，與新港教會連為一體。改設為新港教會紀念館，作為信徒集會、講習、住宿之用。\n",
+    "assetsTypeNames": "教堂",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1072851449000,
+    "officialDocNo": "府文資字第 0923028169 號",
+    "documents": [
+        {
+            "fileid": 114954,
+            "name": "31臺東縣歷史建築公告文- 新港教會會館.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-28/8180512c-18a8-4a3e-86c4-ba3ab8620971/31臺東縣歷史建築公告文- 新港教會會館.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "1.菅宮勝太郎曾任新港支廳長、庄長，臺東廳協議員等職，視新港為第二\n故鄉，終老在新港，終身致力於漁港與道路修築，為成功鎮發展關鍵重\n要人物。\n2.新港重要醫療處所、新港教會重建起源地，成功鎮居民生活之歷史見證。\n",
+    "lawsReference": "1.文化資產保存法第27條之一規定\n2.歷史建築登錄及輔助辦法\n3.臺東縣92年12月16日歷史建築登錄審查會議決議辦理\n",
+    "govInstitutionCode": "950",
+    "govInstitutionName": "臺東縣政府",
+    "belongCityId": 22,
+    "belongCityName": "臺東縣",
+    "belongDistName": "成功鎮",
+    "govInstitution": "臺東縣政府",
+    "govDeptName": "文化處文化資產科",
+    "govDeptPhone": "089-350129",
+    "govDeptAddress": "臺東市南京路25號",
+    "cadasters": [],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "成功鎮忠仁段0804-0000地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "臺東縣成功鎮忠仁里中山東路59號",
+    "isOpenVisit": true,
+    "openUpTime": "",
+    "isCharge": false,
+    "isOpenDownload": true,
+    "longitude": 121.37870866846,
+    "latitude": 23.0998995628483,
+    "representImageSource": "111年度臺東縣文化資產個案資料同步更新維護計畫",
+    "landScope": "成功鎮忠仁段0804地號",
+    "selfCoverage": "成功鎮忠仁段0804地號",
+    "addresses": [
+        {
+            "cityName": "臺東縣",
+            "distName": "成功鎮",
+            "id": 136609,
+            "caseId": 1864,
+            "caseStatus": true,
+            "cityId": 22,
+            "distId": 2211,
+            "address": "臺東縣成功鎮忠仁里中山東路59號"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 149198,
+            "caseId": 1864,
+            "caseStatus": true,
+            "registerDate": 1072851449000,
+            "officialDocNo": "府文資字第 0923028169 號",
+            "classificationId": 1
+        }
+    ],
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": ""
+}

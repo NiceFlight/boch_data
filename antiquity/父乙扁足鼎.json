@@ -1,0 +1,101 @@
+{
+    "id": 4067,
+    "caseId": "20121112000046",
+    "count": 647,
+    "shareCount": 2,
+    "representImage": 6985,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/33194/photo/37a0dcf5-f9fa-48da-af4f-73e7c3ad4aad_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/33194/photo/37a0dcf5-f9fa-48da-af4f-73e7c3ad4aad.JPG",
+        "name": "37a0dcf5-f9fa-48da-af4f-73e7c3ad4aad"
+    },
+    "caseName": "父乙扁足鼎",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1352649600000,
+    "officialDocNo": "文授字第10120135331號",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "淺腹高足扁足鼎。腹飾獸面紋，扁足飾直立的鳥紋。銘文「析子孫父乙」在器壁。此類鳥紋扁足是扁足鼎中最精美的典型。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第4、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "中銅001514",
+    "amount": 1,
+    "notes": "",
+    "descAge": "商",
+    "descSize": "帶耳高23.1cm，器高19cm，口徑18.3cm，腹深7.5cm",
+    "descMaterial": "銅",
+    "reserveStatusDesc": "淺腹高足扁足鼎。腹飾獸面紋，扁足飾直立的鳥紋。銘文「析子孫父乙」在器壁。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "底有裂痕。",
+    "documents": [
+        {
+            "fileid": 150753,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-19/fd872520-e9e9-4f16-9988-91295c17d39c/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71142,
+            "caseId": 4067,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 75485,
+            "caseId": 4067,
+            "caseStatus": true,
+            "registerDate": 1352649600000,
+            "officialDocNo": "文授字第10120135331號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

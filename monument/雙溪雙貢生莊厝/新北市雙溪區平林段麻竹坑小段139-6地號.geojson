@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "新北市雙溪區平林段麻竹坑小段139-6地號"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

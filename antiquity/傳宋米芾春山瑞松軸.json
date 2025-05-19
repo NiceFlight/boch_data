@@ -1,0 +1,101 @@
+{
+    "id": 3932,
+    "caseId": "20130128000013",
+    "count": 339,
+    "shareCount": 1,
+    "representImage": 6740,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32918/photo/1f081e7a-6366-46e5-92d7-7e064a8a40e4_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32918/photo/1f081e7a-6366-46e5-92d7-7e064a8a40e4.JPG",
+        "name": "1f081e7a-6366-46e5-92d7-7e064a8a40e4"
+    },
+    "caseName": "傳宋米芾春山瑞松軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1359302400000,
+    "officialDocNo": "文授字第10230006433號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本幅畫雲山間，孤亭一座，蒼松數株，景致簡約而清雅。山頭以橫筆「米點」鋪疊而成，並加濕筆暈染，表現雲煙變幻之趣，深得米家雲山的韻致。上方詩塘為宋高宗題詩。左下角石隙間暗藏「米芾」二字，疑似後人所添附。米芾存世畫作不多，本幅雖有暗款，但應出自後人所加。畫中雲山，簡約清雅，近似米氏風格的典型，可列為詮釋米芾畫法的重要參考。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第3、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000137",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descSize": "35 x 44.1（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "米芾(西元一○五一~一一○七年)，字元章，號海嶽外史。原籍山西太原，後移居襄陽。善書法，又精鑑別，宣和間曾任書畫博士。作畫則以簡淡的米家雲山而蔚為典型。\n本幅畫雲山間，孤亭一座，蒼松數株，景致簡約而清雅。山頭以橫筆「米點」鋪疊而成，並加濕筆暈染，表現雲煙變幻之趣，深得米家雲山的韻致。上方詩塘為宋高宗題詩。左下角石隙間暗藏「米芾」二字，疑似後人所添附。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 150726,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-19/b1efb39c-097e-4d8c-a36b-448a2d4729f0/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71109,
+            "caseId": 3932,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75449,
+            "caseId": 3932,
+            "caseStatus": true,
+            "registerDate": 1359302400000,
+            "officialDocNo": "文授字第10230006433號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

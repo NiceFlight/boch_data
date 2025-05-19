@@ -1,0 +1,108 @@
+{
+    "id": 4027,
+    "caseId": "20120326000082",
+    "count": 287,
+    "shareCount": 0,
+    "representImage": 6912,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/33013/photo/1c733b3a-9aa3-45a9-bbf5-76135a49e185_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/33013/photo/1c733b3a-9aa3-45a9-bbf5-76135a49e185.JPG",
+        "name": "1c733b3a-9aa3-45a9-bbf5-76135a49e185"
+    },
+    "caseName": "宋黃居寀山鷓棘雀圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊藝術造詣或科學成就",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本幅為目前傳世最早的中國花鳥畫之一，一方面保存了唐人古拙而華美的遺風；另一方面又反映了宋代花鳥畫的寫生精神，在中國花鳥畫的發展上居承先啟的地位。而且本幅保存宣和裝格式，自北宋以來便流傳有緒，是中國花鳥畫史上一件重要作品。具有特殊之時代特色、技術及流派。具有特殊藝術造詣與藝術價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第四條第一項第三、四、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000039",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descCreator": "黃居寀",
+    "descSize": "97 x 53.6（公分）",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "黃居寀（933－993以後），字伯鸞，四川成都人，是西蜀花鳥畫名家黃筌的季子，擅繪畫，尤精花竹、翎毛。西蜀亡後，隨蜀主降宋，深得太祖、太宗的恩寵眷遇。本幅設色淳厚，描法穩健。畫中荊棘和鳳尾厥的枝葉裝飾意趣濃厚，保存了唐代古樸而華美的遺風。不過山鷓全神貫注的神情、麻雀向背俯仰的動態，又都描繪得維妙維肖。全作在唐畫所重視的「形似」之外，又反映了宋代花鳥畫的寫生精神。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 151860,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-26/52278aee-bdb0-466e-9343-efbeb0582796/公告.pdf"
+        },
+        {
+            "fileid": 151861,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-26/f4c202c4-f262-4986-a48d-5a59a07bb0aa/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71518,
+            "caseId": 4027,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 75981,
+            "caseId": 4027,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

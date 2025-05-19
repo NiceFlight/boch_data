@@ -1,0 +1,107 @@
+{
+    "id": 3275,
+    "caseId": "20150511000004",
+    "count": 964,
+    "shareCount": 4,
+    "representImage": 5736,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/38223/photo/0088d790-0c8b-4b38-8fb4-6cb90b987589_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/38223/photo/0088d790-0c8b-4b38-8fb4-6cb90b987589.jpg",
+        "name": "0088d790-0c8b-4b38-8fb4-6cb90b987589"
+    },
+    "caseName": "鄭其仁墓前石馬",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-其他",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1431273600000,
+    "officialDocNo": "府文資處字第1040415095B號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本件石馬為鄭其仁墓前石馬，民國六十五年(西元1976年)出土於永康洲仔尾一帶。鄭其仁，府城西定坊武生，在林爽文事件率義軍協助清軍作戰，後於乾隆五十三年(西元1788年)殉難於屏東放索(林邊)，鄭氏死後受賜都司銜，為四品官，依照「大清會典」規定，墓前石象生可安置石望柱、石馬、石虎各一對，此一石馬乃因此而設；其墓址位於「府治小北門之洲仔尾」；據其墓碑落款「嘉慶丁卯花月」，可知其墓築於嘉慶十二年(西元1807年)二月，此一墓前石馬應置於同時。 \r\n本件石馬乃林爽文事件重要義首鄭其仁墓前石象生，為見證重要歷史事件之文物。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第2條第1項第1、2、6款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "永康區",
+    "govInstitution": "鹽行天后宮管理委員會",
+    "govDeptName": "鹽行天后宮管理委員會",
+    "govDeptPhone": "06-2532323",
+    "govDeptAddress": "臺南市永康區鹽行里中正南路 690 號",
+    "reservationCode": "-",
+    "amount": 1,
+    "notes": "",
+    "descAge": "嘉慶十二年 (西元 1807 年)",
+    "descSize": "(長)124 公分 *(寬)35 公分 * (高)125 公分",
+    "descMaterial": "花崗岩",
+    "reserveStatusDesc": "整體為傳統古拙的戰馬立體雕，並刻有轡頭(絡頭、銜、鑣和韁繩)、胸帶、鞍具(馬鞍、障泥)、馬鐙和鞧帶等。",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "民國 65 年(西元 1976 年)出土於永康洲仔尾一帶。",
+    "saveEnvironment": 2,
+    "reserveStatus": "有損傷但狀況穩定 ",
+    "documents": [
+        {
+            "fileid": 109826,
+            "name": "一般古物登錄公告表(第3屆第1次).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-12/10941985-c77b-4bfc-a39f-06b4c16d7f48/一般古物登錄公告表(第3屆第1次).pdf"
+        },
+        {
+            "fileid": 141861,
+            "name": "鄭其仁墓前石馬公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-10-27/c6fdbd2c-19b7-4bf5-be29-c493cd071e3a/鄭其仁墓前石馬公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 23.039491261641313,
+    "latitude": 120.2355655244148,
+    "representImageSource": "台南市政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "鹽行天后宮管理委員會",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺南市永康區鹽行里中正南路 690 號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "永康區",
+            "id": 65738,
+            "caseId": 3275,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1608
+        }
+    ],
+    "announces": [
+        {
+            "id": 69820,
+            "caseId": 3275,
+            "caseStatus": true,
+            "registerDate": 1431273600000,
+            "officialDocNo": "府文資處字第1040415095B號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

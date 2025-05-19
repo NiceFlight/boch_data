@@ -1,0 +1,99 @@
+{
+    "id": 1750,
+    "caseId": "20031215000007",
+    "count": 2685,
+    "shareCount": 1,
+    "representImage": 154250,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-03-07/2f07be37-5d3d-46d9-a807-888446894328/光復紀念碑照片_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-03-07/2f07be37-5d3d-46d9-a807-888446894328/光復紀念碑照片.jpg",
+        "name": "光復紀念碑照片"
+    },
+    "caseName": "光復紀念碑",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "原為日本時代之忠魂碑，忠魂碑的碑體原貌不詳，於日大正5年(1916)所建，主要是悼念在霧台抗日事件及四鄰格事件中戰死的日籍軍警官吏。現今之基座為石砌樣式應屬於原貌，戰後僅保留基座，其上之碑體於民國36年改為光復紀念碑。光復紀念碑的基座為矩形，高度有200多公分，立面分為4段，最底部為最大的矩形，以岩石作磚砌狀斜上收分，中段為較小的矩形體，由石板及較粗糙的岩石兩部分構成，上段也是岩石材質，但質地較為細緻，並由多層西方樣式之線腳裝飾而成。基座上碑文為當時屏東市長龔履瑞所撰。光復紀念碑應視為日本時代忠魂碑類之紀念碑碣，基座為典型西式古典碑碣基座式樣，就忠魂碑及光復紀念碑之歷史紋理而言，極具有文化資產保存之價值。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "其他歷史遺蹟",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1071467426000,
+    "officialDocNo": "府文資字第0920133622 號",
+    "documents": [
+        {
+            "fileid": 154248,
+            "name": "公告函-屏府文資字第0920133622號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-03-07/33a4f18c-878d-47c3-ac2f-6ba48932016c/公告函-屏府文資字第0920133622號.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "日治時期碑碣建築之紀念碑，基座為典型的西式碑碣基座。\t\t\t\t\t\n\t\t\t\t\t\n",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "900",
+    "govInstitutionName": "屏東縣政府",
+    "belongCityId": 20,
+    "belongCityName": "屏東縣",
+    "belongDistName": "屏東市",
+    "govInstitution": "屏東縣政府",
+    "govDeptName": "屏東縣文化資產保護所\t",
+    "govDeptPhone": "08-7210234",
+    "govDeptAddress": "屏東縣屏東市菸廠路1號\t",
+    "cadasters": [
+        {
+            "fileid": 154249,
+            "name": "光復紀念碑照片.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-03-07/81cc75fb-d8b8-408c-b608-af1b6d4ade5f/光復紀念碑照片.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "屏東市公園段三小段0017-0000",
+    "buildingFeatures": "光復紀念碑為日本時代碑碣建築的紀念碑，基座為典型西式碑碣形式，極富保存價值。基座上碑文為當時屏東市長龔履瑞所撰。",
+    "inHouseFeatures": "為碑體構造物，無其他附屬之空間設施。\t\t\t\t\n",
+    "buildingUsage": "開放，供民眾參觀。\t",
+    "buildingActualState": "光復後碑體改為光復紀念碑，基座仍保存原貌。在此碑的西方20公尺左右，另有一無名石碑，但碑文均已被毀，僅留基座部分。\t\t\t\t\t\n",
+    "buildingKeyMaintainItem": "1.可美化周圍植栽，加強紀念碑之歷史神聖意義，亦避免其他人為之損害。\n2.石縫中小植物應清除，避免破壞碑體結構。\n3.破損處應做修補。",
+    "bulkTransfer": 0,
+    "belongAddress": "中山公園",
+    "isOpenVisit": true,
+    "openUpTime": "全日開放\t\t\t\t\t\n",
+    "isCharge": false,
+    "isOpenDownload": true,
+    "longitude": 120.492611,
+    "latitude": 22.675639,
+    "representImageSource": "屏東縣政府\t\t\t\t\t",
+    "landScope": "屏東縣屏東市公園段三小段0017-0000號，面積2,115平方公尺",
+    "selfCoverage": "屏東縣屏東市中山公園內\t\t\t\t\t\n",
+    "addresses": [
+        {
+            "cityName": "屏東縣",
+            "distName": "屏東市",
+            "id": 78669,
+            "caseId": 1750,
+            "caseStatus": true,
+            "cityId": 20,
+            "distId": 2001,
+            "address": "中山公園"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 84404,
+            "caseId": 1750,
+            "caseStatus": true,
+            "registerDate": 1060099200000,
+            "officialDocNo": "屏府文資字第0920133622號",
+            "classificationId": 1
+        }
+    ],
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": ""
+}

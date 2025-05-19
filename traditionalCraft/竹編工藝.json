@@ -1,0 +1,212 @@
+{
+    "id": 2694,
+    "caseId": "20100618000006",
+    "count": 467,
+    "shareCount": 1,
+    "representImage": 131231,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-08-11/4eb587ef-f861-46c0-88e9-619862657017/黃塗山藝師_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-08-11/4eb587ef-f861-46c0-88e9-619862657017/黃塗山藝師.jpg",
+        "name": "黃塗山藝師"
+    },
+    "caseName": "竹編工藝",
+    "classifyCode": "4.2",
+    "classifyName": "傳統工藝",
+    "assetsTypeNames": "其他",
+    "otherAssetsType": "竹編工藝",
+    "assetsClassifyCode": "4.2.2",
+    "assetsClassifyName": "重要傳統工藝\r\n",
+    "registerDate": 1276832572000,
+    "officialDocNo": "會授資籌三字第09920061931號",
+    "documents": [
+        {
+            "fileid": 131229,
+            "name": "2010保存者黃塗山藝師公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-08-11/cbd679cb-9225-4452-9375-919b4f30c9c5/2010保存者黃塗山藝師公告.pdf"
+        },
+        {
+            "fileid": 131230,
+            "name": "2018重新登錄文化資產類別名稱公告(工藝).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-08-11/24ecacaf-7668-4aa5-b170-55876716accd/2018重新登錄文化資產類別名稱公告(工藝).pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "反映古昔常民生活形態或娛樂類型，並在藝術或藝術史上具有重要價值者",
+        "地方色彩或流派特色顯著，並在藝術或藝術史上具有價值且瀕臨失傳者",
+        "傳統技藝或藝能，其結構技法，表現特別優秀，並在全國具有領先地位者"
+    ],
+    "registerReason": "一、竹編工藝反映古昔常民生活型態，黃塗山先生之竹工技藝多元，影響台灣竹工藝文化與產業發展。\n二、傳統工藝不易大量生產，且精緻竹編工藝製作耗時，其藝能有瀕臨失傳之虞。\n三、黃塗山先生從事竹編五十年，竹編工藝精緻高雅，從徒無數，對竹藝之傳承、創新立下典範。",
+    "lawsReference": "文化資產保存法第91條\n傳統工藝登錄認定及廢止審查辦法第4條、第5條及第6條",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 12,
+    "belongCityName": "南投縣",
+    "govInstitution": "文化部文化資產局",
+    "govDeptName": "傳藝民俗組",
+    "govDeptPhone": "0422177766",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "belongAddress": "",
+    "historyDevelopment": "竹編工藝反映古昔常民生活型態，黃塗山先生之竹工技藝多元，影響台灣竹工藝文化與產業發展。",
+    "preservers": [
+        {
+            "id": 15564,
+            "type": "個人",
+            "caseName": "黃塗山(歿)",
+            "cityName": "南投縣",
+            "distName": "草屯鎮",
+            "caseArtistEntities": [
+                {
+                    "id": 110,
+                    "caseId": 15564,
+                    "sex": 1,
+                    "name": "黃啟祥",
+                    "bornYear": "1951",
+                    "closingYear": "2013",
+                    "customYear": "2010-2013",
+                    "contactCityId": 10,
+                    "contactDistId": 1011,
+                    "contactAddress": "中正路 828 巷 52  號",
+                    "files": [],
+                    "videoFiles": [
+                        {
+                            "fileid": 172845,
+                            "name": "黃啟祥老師-小檔.jpg",
+                            "thumbnailUrl": "https://data.boch.gov.tw/upload/representImageFile/2022-07-12/8602473a-a868-406e-aa72-9634fa7e090c/黃啟祥老師-小檔.jpg",
+                            "represent": false
+                        },
+                        {
+                            "fileid": 173566,
+                            "name": "黃啟祥-1.png",
+                            "thumbnailUrl": "https://data.boch.gov.tw/upload/representImageFile/2022-07-18/e9cf0c3c-1bae-4cb5-8021-237a228d9157/黃啟祥-1.png",
+                            "represent": true
+                        }
+                    ],
+                    "delete": false,
+                    "publishStatus": true,
+                    "createDate": 1657592870040,
+                    "createOrg": 25,
+                    "createId": 10987,
+                    "note": "圖像來源: 南投縣政府文化局",
+                    "type": 2
+                },
+                {
+                    "id": 111,
+                    "caseId": 15564,
+                    "sex": 1,
+                    "name": "劉興澤",
+                    "bornYear": "1960",
+                    "closingYear": "2013",
+                    "customYear": "2010-2013",
+                    "contactCityId": 12,
+                    "contactDistId": 1212,
+                    "contactAddress": "大仁路 38 號",
+                    "files": [],
+                    "videoFiles": [
+                        {
+                            "fileid": 172846,
+                            "name": "劉興澤老師.jpg",
+                            "thumbnailUrl": "https://data.boch.gov.tw/upload/representImageFile/2022-07-12/974405e2-f659-4c4b-8ff9-497cbe19af00/劉興澤老師.jpg",
+                            "represent": false
+                        },
+                        {
+                            "fileid": 173565,
+                            "name": "劉興澤-2.jpg.jpg",
+                            "thumbnailUrl": "https://data.boch.gov.tw/upload/representImageFile/2022-07-18/ecebc25e-4b5b-4ff2-b3e6-5b9febc6363b/劉興澤-2.jpg.jpg",
+                            "represent": true
+                        }
+                    ],
+                    "delete": false,
+                    "publishStatus": true,
+                    "createDate": 1657592938405,
+                    "createOrg": 25,
+                    "createId": 10987,
+                    "note": "圖像來源: 南投縣政府文化局",
+                    "type": 2
+                },
+                {
+                    "id": 113,
+                    "caseId": 15564,
+                    "sex": 0,
+                    "name": "涂素英",
+                    "bornYear": "1953",
+                    "closingYear": "2013",
+                    "customYear": "2010-2013",
+                    "contactCityId": 10,
+                    "contactDistId": 1003,
+                    "contactAddress": "工學一街 197 巷 20  號 6F 之 3",
+                    "files": [],
+                    "videoFiles": [
+                        {
+                            "fileid": 172848,
+                            "name": "涂素英老師.jpg",
+                            "thumbnailUrl": "https://data.boch.gov.tw/upload/representImageFile/2022-07-12/29758593-7f63-405f-94e7-2bb3f54637cf/涂素英老師.jpg",
+                            "represent": false
+                        },
+                        {
+                            "fileid": 173564,
+                            "name": "涂素英-1.bmp",
+                            "thumbnailUrl": "https://data.boch.gov.tw/upload/representImageFile/2022-07-18/39c58eca-f7f7-40e0-bbfa-49294b37aa8f/涂素英-1.bmp",
+                            "represent": true
+                        }
+                    ],
+                    "delete": false,
+                    "publishStatus": true,
+                    "createDate": 1657593032602,
+                    "createOrg": 25,
+                    "createId": 10987,
+                    "note": "圖像來源: 南投縣政府文化局",
+                    "type": 2
+                }
+            ],
+            "representImage": 131228,
+            "patentNo": "第柒-001號",
+            "judgeCriteria": [
+                "熟知並能正確體現該登錄項目之知識、技藝與文化表現形式",
+                "具該登錄項目之傳習能力與意願",
+                "在文化脈絡下為適當者"
+            ],
+            "registerReason": "一、竹編工藝反映古昔常民生活型態，黃塗山先生之竹工技藝多元，影響台灣竹工藝文化與產業發展。\n二、傳統工藝不易大量生產，且精緻竹編工藝製作耗時，其藝能有瀕臨失傳之虞。\n三、黃塗山先生從事竹編五十年，竹編工藝精緻高雅，從徒無數，對竹藝之傳承、創新立下典範。",
+            "lawsReference": "傳統工藝登錄認定及廢止審查辦法第4條、第5條及第6條",
+            "isOpenDownload": false,
+            "representImageSource": "文化部文化資產局",
+            "contactorIsOpen": false
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "文化部文化資產局",
+    "addresses": [
+        {
+            "cityName": "南投縣",
+            "distName": "草屯鎮",
+            "id": 48357,
+            "caseId": 2694,
+            "caseStatus": true,
+            "cityId": 12,
+            "distId": 1203,
+            "address": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 50686,
+            "caseId": 2694,
+            "caseStatus": true,
+            "registerDate": 1276832572000,
+            "officialDocNo": "會授資籌三字第09920061931號",
+            "classificationId": 1,
+            "note": "登錄竹編工藝暨認定保存者黃塗山藝師"
+        },
+        {
+            "id": 50687,
+            "caseId": 2694,
+            "caseStatus": true,
+            "registerDate": 1515513600000,
+            "officialDocNo": "文授資局傳字第10730004691號",
+            "classificationId": 2,
+            "note": "重新登錄文化資產類別名稱"
+        }
+    ]
+}

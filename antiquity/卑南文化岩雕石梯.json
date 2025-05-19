@@ -1,0 +1,98 @@
+{
+    "id": 4354,
+    "caseId": "20140421000057",
+    "count": 352,
+    "shareCount": 0,
+    "representImage": 7303,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7113/photo/卑南文化岩雕石梯_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7113/photo/卑南文化岩雕石梯.jpg",
+        "name": "卑南文化岩雕石梯"
+    },
+    "caseName": "卑南文化岩雕石梯",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1398009600000,
+    "officialDocNo": "文資局物字第10320043651號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要之時代特色、技術及流派",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本件石梯以整塊石英雲母片岩加工雕鑿而成，底部明顯殘斷，頂部大致完整，共有5個階面與6個梯槽，第一階槽破損，階面上帶有因使用而產生之軟耗痕跡。\r\n為卑南遺址卑南文化史前建築之附屬設施，顯示卑南文化居民之史前雕鑿工藝，及住居形式。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第1、3、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 22,
+    "belongCityName": "臺東縣",
+    "belongDistName": "臺東市",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "200310-00199",
+    "amount": 1,
+    "descAge": "卑南文化3500-2300 BP",
+    "descSize": "長2155(mm)；寬680(mm)；厚123(mm)",
+    "descMaterial": "石英雲母片岩",
+    "reserveStatusDesc": "石梯以整塊石英雲母片岩加工而成，底部明顯殘斷，頂部大致完整，共有5個階面與6個梯槽，第一階槽破損，階面上帶有因使用而產生之軟耗痕跡。",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "1980-1982年「保護台東縣卑南史前遺址探勘發掘計劃」出土（卑南遺址第1-8梯次發掘）",
+    "saveEnvironment": 1,
+    "reserveStatus": "標本保存良好，展示於本館史前廳。",
+    "documents": [
+        {
+            "fileid": 7304,
+            "name": "18dd5f24-f36a-4df2-945a-52573051a12a.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44635/file/18dd5f24-f36a-4df2-945a-52573051a12a.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立臺灣史前文化博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立臺灣史前文化博物館",
+            "keepName": "國立臺灣史前文化博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立臺灣史前文化博物館",
+            "keepAddressNew": "950台東縣台東市博物館路1號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "文化景觀",
+            "type": 1,
+            "keepNameCityName": "臺東縣",
+            "keepNameAddress": "豐田里博物館路1號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺東縣",
+            "distName": "臺東市",
+            "id": 148552,
+            "caseId": 4354,
+            "caseStatus": true,
+            "cityId": 22,
+            "distId": 2201
+        }
+    ],
+    "announces": [
+        {
+            "id": 161473,
+            "caseId": 4354,
+            "caseStatus": true,
+            "registerDate": 1398009600000,
+            "officialDocNo": "文資局物字第10320043651號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

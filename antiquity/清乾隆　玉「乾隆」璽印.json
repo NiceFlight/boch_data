@@ -1,0 +1,101 @@
+{
+    "id": 3829,
+    "caseId": "20140421000043",
+    "count": 438,
+    "shareCount": 0,
+    "representImage": 6634,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39173/photo/pic057_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39173/photo/pic057.jpg",
+        "name": "pic057"
+    },
+    "caseName": "清乾隆　玉「乾隆」璽印",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1398009600000,
+    "officialDocNo": "文資物字第10320043691號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本件璽印為閃玉質，白色面上為圓形，寓意天圓，刻陽文「乾」字；下為方形，寓意地方，刻陰文「隆」字，二字的兩側均飾簡化的龍紋。印鈕的紋樣則分為兩層：底層作尖圭形，以細陰線由上而下刻雲氣、七星、山嶽、水潮紋；上層則高浮雕五隻異獸。\r\n此璽印在質地方面，體積厚實且白淨，刻意留下些許褐黃色玉皮，以活潑玉器的色彩；技術方面，線條流暢、器表起伏有致、質感光潤，即使是複層紋樣的底層亦琢磨得一絲不茍，可謂質美工精。\r\n乾隆品味重雋永可思，而作為帝王賞玩之印，以三代以來「天圓地方」的宇宙觀為造形基礎，層疊出人世禮制、自然運行、萬物生機的概念，不僅意象豐沛圓滿，更充份展現了天子的權威與氣度，是平衡傳統與創新的佳作。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第1、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故玉003475",
+    "amount": 1,
+    "notes": "",
+    "descAge": "清　乾隆",
+    "descSize": "寬：11.5；高：16.7（公分）",
+    "descMaterial": "閃玉",
+    "reserveStatusDesc": "質材：閃玉質。\r\n形制、紋樣：印面上為圓形，寓意天圓，刻陽文「乾」字；下為方形，寓意地方， 刻陰文「隆」字，二字的兩側均飾簡化的龍紋。\r\n印鈕的紋樣則分為兩層：底層作尖圭形，以細陰線由上而下刻雲氣、七星、山嶽、水潮紋；上層則高浮雕五隻異獸。\r\n特徵：質地方面，體積厚實且白淨，刻意留下些許褐黃色玉皮，以活潑玉器的色彩；技術方面，線條流暢、器表起伏有致、質感光潤，即使是複層紋樣的底層亦琢磨的一絲不茍，可謂質美工精。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。有玉璺。",
+    "documents": [
+        {
+            "fileid": 150297,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-13/7d1d4697-0b68-4043-a35a-46cf54a14d80/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 73177,
+            "caseId": 3829,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 78112,
+            "caseId": 3829,
+            "caseStatus": true,
+            "registerDate": 1398009600000,
+            "officialDocNo": "文資物字第10320043691號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

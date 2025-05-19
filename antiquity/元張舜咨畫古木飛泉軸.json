@@ -1,0 +1,101 @@
+{
+    "id": 3938,
+    "caseId": "20130128000019",
+    "count": 256,
+    "shareCount": 0,
+    "representImage": 6746,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32924/photo/1eb0456d-3487-4d4a-9b7f-efa7aa15665e_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32924/photo/1eb0456d-3487-4d4a-9b7f-efa7aa15665e.JPG",
+        "name": "1eb0456d-3487-4d4a-9b7f-efa7aa15665e"
+    },
+    "caseName": "元張舜咨畫古木飛泉軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1359302400000,
+    "officialDocNo": "文授字第10230006433號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "張舜咨是元代末期兼工詩、書、畫的三絕畫家，本幅作於至正七年（1347），描繪幾株老樹挺立於土坡石傍，遠山、飛泉之外別無他物。空山溪谷寂靜幽深，只有潺潺的泉聲不斷傳來。畫樹枝，彷彿寫書法般一筆一筆寫成。皴法的用筆扭轉交錯，極為活潑靈動。本幅用筆沉著穩健，是研究元代文人繪畫發展的重要參考。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第3、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局 ",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000248",
+    "amount": 1,
+    "notes": "",
+    "descAge": "元",
+    "descSize": "146.3 x 89.6（公分）",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "張舜咨（活動於西元十四世紀中期），又作張義上，字師夔，號櫟里子，浙江人。 \r\n本幅作於至正七年（西元一三四七年），描繪幾株老樹挺立於土坡石傍，遠山、飛泉之外別無他物。空山溪谷寂靜幽深，只有潺潺的泉聲不斷傳來。畫樹枝，彷彿寫書法般一筆一筆寫成。皴法的用筆扭轉交錯，極為活潑靈動。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 150736,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-19/b96fe0cc-dca0-4872-b3f7-dec0a527bd37/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71117,
+            "caseId": 3938,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75460,
+            "caseId": 3938,
+            "caseStatus": true,
+            "registerDate": 1359302400000,
+            "officialDocNo": "文授字第10230006433號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

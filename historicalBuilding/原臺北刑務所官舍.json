@@ -1,0 +1,400 @@
+{
+    "id": 1034,
+    "caseId": "20131203000001",
+    "count": 6952,
+    "shareCount": 8,
+    "representImage": 200728,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/bef7b1d4-e78c-46e6-a044-68e3fba4ce51/_代表圖像_原臺北刑務所官舍_管區提供_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/bef7b1d4-e78c-46e6-a044-68e3fba4ce51/_代表圖像_原臺北刑務所官舍_管區提供.jpg",
+        "name": "_代表圖像_原臺北刑務所官舍_管區提供"
+    },
+    "caseName": "原臺北刑務所官舍",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本案所留存之官舍為『原臺北刑務所』周邊配置相關獄政管理宿舍，屬同時期建物，具有『原臺北刑務所』獄政空間歷史之見證作用。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 163050,
+            "name": "102年公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/c32692b9-6ed1-4b85-8473-0c7a791b3917/102年公告.pdf"
+        },
+        {
+            "fileid": 163051,
+            "name": "107年公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/3b5413ca-c25d-4e72-97f3-b14269f5cb58/107年公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1、「原臺北刑務所」為日人在臺殖民時期所興建的現代化監獄之一，其規模為全臺最大，光復後做為「臺北監獄」使用，近代史上曾有著名政治犯於此遭受拘禁、槍殺或喪失生命，為臺灣獄政歷史及人物事件之重要場域。\r\n2、其原始建築平面為長方形，主入口設在西側，北邊三角形圍牆為刑場及運屍門，建物現已遭拆除並改建。\r\n3、至南側所留存之官舍為『原臺北刑務所』周邊配置相關獄政管理宿舍，屬同時期建物，具有『原臺北刑務所』獄政空間歷史之見證作用。\r\n4、符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、2、4款評定基準。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、2、4款評定基準。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 48941,
+            "name": "@原臺北刑務所官舍-範圍示意圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2018-07-09/1d187a6b-aba2-415f-bd03-350b67de24cc/@原臺北刑務所官舍-範圍示意圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "特定專用區",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市大安區金華段三小段146-4（部分）、146-6（部分）、146-7、145-1及564-3地號。",
+    "buildingFeatures": "金華街135號為磚構造為主之建物，其它建物皆為日式宿舍。",
+    "inHouseFeatures": "金華街135號為磚構造為主之建物，其它建物皆為日式宿舍之空間形態。",
+    "buildingUsage": "",
+    "buildingActualState": "建物部分損壞。",
+    "buildingKeyMaintainItem": "保存範圍：以全棟保存為原則（不含後期增建部分）。\r\n附帶決議：有關「愛國東路3號」建物，未來配合所在街廓之空間規劃，得彈性調整坐落位置，惟應提出妥適保存方案並經本市文化資產審議委員會核可後辦理。",
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.52465289918636,
+    "latitude": 25.030618063056675,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市大安區金華段三小段146-4（部分）、146-6（部分）、146-7、145-1及564-3地號。",
+    "selfCoverage": "建築物為臺北市大安區金華段三小段191建號、192 建號、193 建號、194 建號、195建號、196建號、198 建號、455 建號、愛國東路3號(無建號登記)。\n",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 105833,
+            "caseId": 1034,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "金華街135號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 105834,
+            "caseId": 1034,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "金華街137號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 105835,
+            "caseId": 1034,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "金華街139號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 105836,
+            "caseId": 1034,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "金華街141號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 105837,
+            "caseId": 1034,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "金華街143號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 105838,
+            "caseId": 1034,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "金華街145號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 105839,
+            "caseId": 1034,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "金華街147號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 105840,
+            "caseId": 1034,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "金華街149號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 105841,
+            "caseId": 1034,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "金華街151號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 105842,
+            "caseId": 1034,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "金華街153號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 105843,
+            "caseId": 1034,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "金華街155號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 105844,
+            "caseId": 1034,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "金華街157號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 105845,
+            "caseId": 1034,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "金華街159號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 105846,
+            "caseId": 1034,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "金華街161號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 105847,
+            "caseId": 1034,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "金華街163號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 105848,
+            "caseId": 1034,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "金華街167號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 105849,
+            "caseId": 1034,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "金華街169號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 105850,
+            "caseId": 1034,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "金華街171號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 105851,
+            "caseId": 1034,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "金華街177號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 105852,
+            "caseId": 1034,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "愛國東路3號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "金華段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 130089,
+            "caseId": 1034,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 722,
+            "landSerialNo": "145-1",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "14平方公尺",
+            "cityLandUseTypeOther": "特定專用區(五)",
+            "note": "分割自：145地號",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "金華段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 130090,
+            "caseId": 1034,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 722,
+            "landSerialNo": "146-4",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "815平方公尺",
+            "cityLandUseTypeOther": "公園用地(公共設施用地)",
+            "note": "分割自：146地號",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "金華段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 130091,
+            "caseId": 1034,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 722,
+            "landSerialNo": "146-6",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "206平方公尺",
+            "cityLandUseTypeOther": "公園用地(公共設施用地)",
+            "note": "分割自：146-2地號",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "金華段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 130092,
+            "caseId": 1034,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 722,
+            "landSerialNo": "146-7",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "4360平方公尺",
+            "cityLandUseTypeOther": "特定專用區(五)",
+            "note": "分割自：146地號",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "金華段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 130093,
+            "caseId": 1034,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 722,
+            "landSerialNo": "564-3",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "282平方公尺",
+            "cityLandUseTypeOther": "特定專用區(二)",
+            "note": "分割自：564地號",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 113440,
+            "caseId": 1034,
+            "caseStatus": true,
+            "registerDate": 1386000000000,
+            "officialDocNo": "北市文化二字第10230434804號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        },
+        {
+            "id": 113441,
+            "caseId": 1034,
+            "caseStatus": true,
+            "registerDate": 1527523200000,
+            "officialDocNo": "北市文化文資字第10760118811號",
+            "classificationId": 2,
+            "note": "調整公告"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "提報人提供"
+}

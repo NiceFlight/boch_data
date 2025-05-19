@@ -1,0 +1,110 @@
+{
+    "id": 1391,
+    "caseId": "20020416000004",
+    "count": 2276,
+    "shareCount": 2,
+    "representImage": 2813,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/37376/photo/a225d198-f50c-4b21-a557-5b3cd3656a08_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/37376/photo/a225d198-f50c-4b21-a557-5b3cd3656a08.JPG",
+        "name": "a225d198-f50c-4b21-a557-5b3cd3656a08"
+    },
+    "caseName": "金門橋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "金門橋位於東勢下城里原和興庄「月恆門」（歷史建築）前，落成於日治昭和16年（1941），架設於大甲溪流域的排水圳溝上，以便庄民通行；橋旁圳邊即為庄民洗衣場。當時適逢太平洋戰爭爆發，水泥等戰略物資匱乏，庄民便以石塊疊砌，再以糯米、石灰加上黑糖等材料膠和，即所謂的「糯米橋」。\n\n民國91年（2002）臺中縣政府以本橋建於日治末，與道路、水圳、洗衣場等歷史空間完整，能顯現傳統村落居住生活空間，具有稀少地域風貌性與文化價值，公告登錄為歷史建築。\n",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "其他歷史遺蹟",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1018929538000,
+    "officialDocNo": "91府文資字第105434 號",
+    "documents": [
+        {
+            "fileid": 180918,
+            "name": "0910416_金門橋_登錄公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-08-19/4f2edc21-224c-49d3-bba8-3cc7a8eded73/0910416_金門橋_登錄公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "小橋興築於日治時期昭和一六年（西元一九四一），與道路、水圳、洗衣場等歷史空間完整，顯現傳統村落住居生活空間，整體文化價值極高，且反映移民開發歷程並富稀少地域風貌特質，足以為文化表徵。",
+    "lawsReference": "文化資產保存法暨歷史建築登錄及輔助辦法第七條規定。",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "東勢區",
+    "govInstitution": "臺中市政府文化局",
+    "govDeptName": "臺中市文化資產處",
+    "govDeptPhone": "04-22290280",
+    "govDeptAddress": "臺中市西區市府路41巷19號",
+    "cadasters": [],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "locationLandNo": "新伯公段羊崎小段1018地號",
+    "buildingFeatures": "為單拱形石造糯米橋，長310公分，寬230公分，橋上立有短柱與矮欄，並刻有「金門橋」、「昭和十六年十二月竣工」等字樣。",
+    "inHouseFeatures": "無室內空間",
+    "buildingUsage": "橋梁使用",
+    "buildingActualState": "橋樑短小，以石塊砌組而成，現仍供居民通過水圳使用。",
+    "buildingKeyMaintainItem": "防止改建及景觀大幅變異。",
+    "bulkTransfer": 0,
+    "belongAddress": "下城里東關路和興巷31 號旁",
+    "isOpenVisit": true,
+    "openUpTime": "全天候開放",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.835170412881,
+    "latitude": 24.2202113958317,
+    "representImageSource": "臺中市文化資產處",
+    "landScope": "羊崎段1018地號",
+    "selfCoverage": "6平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "東勢區",
+            "id": 112776,
+            "caseId": 1391,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1016,
+            "address": "下城里東關路和興巷31號旁"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺中市",
+            "distName": "東勢區",
+            "landNoName": "羊崎段",
+            "id": 152934,
+            "caseId": 1391,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1016,
+            "landNoId": 1598,
+            "landSerialNo": "1018",
+            "landownership": 1,
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 122428,
+            "caseId": 1391,
+            "caseStatus": true,
+            "registerDate": 1018929538000,
+            "officialDocNo": "91府文資字第10543-4 號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.83529785431698,24.218920562386575],[120.83515877534036,24.21947355924981],[120.83524214950926,24.220107290436825],[120.83526817033851,24.22030504450853],[120.83526848404247,24.22030514231001],[120.83534604157119,24.22027352942011],[120.83534695967134,24.22027315511072],[120.83533471565784,24.22024704157156],[120.83532349101337,24.220109542131787],[120.83529571380447,24.22000945138558],[120.83527377351317,24.21989762842434],[120.83525072052691,24.21979547338058],[120.83522270636817,24.219677404785873],[120.83516217642178,24.21948862351138],[120.83516173530907,24.219487248579625],[120.83522548420746,24.219345467708948],[120.83526292557501,24.219315922726576],[120.8353588326993,24.218967056663125],[120.83535901269492,24.218765775888176],[120.83537698128022,24.218622847088973],[120.83537892827522,24.21859712308724],[120.83529785431698,24.218920562386575],[120.83529785431698,24.218920562386575]]]]},\"properties\":{\"envelope\":{\"left\":\"120.83515877534036\",\"top\":\"24.218597123087239\",\"right\":\"120.83537892827522\",\"bottom\":\"24.220305142310011\"},\"landLot\":\"臺中市東勢區羊崎段1018\"}}],\"notfound\":[]}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": ""
+}

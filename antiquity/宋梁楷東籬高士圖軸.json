@@ -1,0 +1,101 @@
+{
+    "id": 3934,
+    "caseId": "20130128000015",
+    "count": 327,
+    "shareCount": 0,
+    "representImage": 6742,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32920/photo/80f23c3f-c7cc-425e-bb98-646844b1a77a_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32920/photo/80f23c3f-c7cc-425e-bb98-646844b1a77a.JPG",
+        "name": "80f23c3f-c7cc-425e-bb98-646844b1a77a"
+    },
+    "caseName": "宋梁楷東籬高士圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1359302400000,
+    "officialDocNo": "文授字第10230006433號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本幅畫溪旁喬松楓葉，一高士身披鹿皮，把菊曳杖而行，右邊坡腳有梁楷款。人物神情生動，樹石亦蒼勁。背景用淡墨烘染，祇覺晨霧未消，曉風吹拂，宛如置身仙境。本幅款雖係託名梁楷之作，但畫法極為精妙，與梁楷早期的工緻風格相近，應出自南宋院體畫家之手，可供作研究宋代繪畫史的重要參考。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第3、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000127",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descSize": "71.5 x 36.7（公分）",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "梁楷（西元十三世紀），原籍山東東平，居浙江錢塘。善畫人物、山水、道釋、鬼神。曾從賈師古學畫，人物描寫飄逸，帝賜予金帶，不受，掛於院中自去。又嗜酒自樂，人稱「梁風子」。傳世作品以「減筆人物」最稱精妙。 \r\n本幅畫溪旁喬松楓葉，一高士身披鹿皮，把菊曳杖而行，右邊坡腳有梁楷款。人物神情生動，樹石亦蒼勁。背景用淡墨烘染，祇覺晨霧未消，曉風吹拂，宛如置身仙境。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "全幅舊絹裂露白較重，折痕，霉傷，傷損傷補，本幅上方天綾除了折痕上有兩條明顯直痕，邊綾四周邊緣細碎折痕嚴重，不平。",
+    "documents": [
+        {
+            "fileid": 150732,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-19/6899c786-319a-44e2-b9a0-f7624624bd08/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71113,
+            "caseId": 3934,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75456,
+            "caseId": 3934,
+            "caseStatus": true,
+            "registerDate": 1359302400000,
+            "officialDocNo": "文授字第10230006433號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

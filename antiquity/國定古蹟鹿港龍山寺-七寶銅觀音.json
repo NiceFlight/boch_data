@@ -1,0 +1,129 @@
+{
+    "id": 15508,
+    "caseId": "20180227000001",
+    "count": 1681,
+    "shareCount": 4,
+    "representImage": 211123,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-04-11/5f469b38-e2de-4be4-80be-fb3c49b53089/國定古蹟鹿港龍山寺-七寶銅觀音_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-04-11/5f469b38-e2de-4be4-80be-fb3c49b53089/國定古蹟鹿港龍山寺-七寶銅觀音.jpg",
+        "name": "國定古蹟鹿港龍山寺-七寶銅觀音"
+    },
+    "caseName": "國定古蹟鹿港龍山寺-七寶銅觀音",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1479896749929,
+    "officialDocNo": "府授文資字第1050392646J號、修正公告：府授文演字第1070020541B號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "1.此神像頂上之五佛冠及胸前的瓔珞花紋圖案為清代西藏密教式樣造型，衣服褶紋為中原顯教風格，為顯密合流式樣特色代表。\n2.此尊銅觀音像為鹿港龍山寺的鎮寺之寶，具重要信仰意義。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1項第1、3、4款",
+    "govInstitutionCode": "500",
+    "govInstitutionName": "彰化縣政府",
+    "belongCityId": 11,
+    "belongCityName": "彰化縣",
+    "belongDistName": "鹿港鎮",
+    "govInstitution": "彰化縣政府",
+    "govDeptName": "彰化縣文化局",
+    "govDeptPhone": "04-7510709",
+    "govDeptAddress": "彰化縣彰化市平和七街66號",
+    "reservationCode": " 府授文演字第1070140294E號",
+    "amount": 1,
+    "descAge": " ",
+    "descSize": "高41公分、寬23公分、深15公分",
+    "descMaterial": "銅製",
+    "reserveStatusDesc": "觀音坐姿，盤腿於臺坐上，手結「定印」（密教稱此手印是胎藏界大日如來所用，為「法界定印」），置於雙盤腿上，衣襬垂於臺座前。頭戴冠飾，雙目微閉呈現入禪定狀。胸前飾有瓔珞，身上配掛有如意雲頭狀之玉佩。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 2,
+    "reserveStatus": "保存狀況良好，外觀則呈現青銅氧化後之黝黑顏色。",
+    "documents": [
+        {
+            "fileid": 211120,
+            "name": "國定古蹟鹿港龍山寺-七寶銅觀音1051123.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-04-11/57a73873-43d0-4566-916f-866e5bfae568/國定古蹟鹿港龍山寺-七寶銅觀音1051123.pdf"
+        },
+        {
+            "fileid": 211121,
+            "name": "國定古蹟鹿港龍山寺-七寶銅觀音1070511.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-04-11/f1c94bc8-e5ba-45f0-abf7-de1aaa08ae9e/國定古蹟鹿港龍山寺-七寶銅觀音1070511.pdf"
+        },
+        {
+            "fileid": 211122,
+            "name": "國定古蹟鹿港龍山寺-七寶銅觀音1070124.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-04-11/f31166ba-913f-4a58-aac4-1e76cc740d41/國定古蹟鹿港龍山寺-七寶銅觀音1070124.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.42639096250504,
+    "latitude": 24.08413466318793,
+    "representImageSource": "彰化縣文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "鹿港龍山寺管理委員會",
+            "keepName": "鹿港龍山寺管理委員會",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "鹿港龍山寺管理委員會",
+            "keepAddressNew": "彰化縣鹿港鎮龍山街100號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "彰化縣",
+            "keepNameDistName": "鹿港鎮",
+            "keepNameAddress": "龍山街100號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "彰化縣",
+            "distName": "鹿港鎮",
+            "id": 113190,
+            "caseId": 15508,
+            "caseStatus": true,
+            "cityId": 11,
+            "distId": 1105,
+            "address": "龍山街100號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 123015,
+            "caseId": 15508,
+            "caseStatus": true,
+            "registerDate": 1479896749929,
+            "officialDocNo": "府授文資字第1050392646J號",
+            "classificationId": 1
+        },
+        {
+            "id": 123016,
+            "caseId": 15508,
+            "caseStatus": true,
+            "registerDate": 1516764600193,
+            "officialDocNo": "府授文演字第1070020541B號",
+            "classificationId": 2,
+            "note": "修正指定為彰化縣一般古物"
+        },
+        {
+            "id": 123017,
+            "caseId": 15508,
+            "caseStatus": true,
+            "registerDate": 1525968000000,
+            "officialDocNo": "府授文演字第1070140294E號",
+            "classificationId": 2,
+            "note": "修正指定為彰化縣一般古物"
+        }
+    ],
+    "isPublic": false
+}

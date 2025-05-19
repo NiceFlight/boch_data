@@ -1,0 +1,106 @@
+{
+    "id": 16946,
+    "caseId": "20190730000028",
+    "count": 144,
+    "shareCount": 0,
+    "representImage": 60446,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-07-30/e1e81355-8797-46f9-b50a-e7cbefd0e6b9/官窯青瓷弦紋瓶_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-07-30/e1e81355-8797-46f9-b50a-e7cbefd0e6b9/官窯青瓷弦紋瓶.jpg",
+        "name": "官窯青瓷弦紋瓶"
+    },
+    "caseName": "官窯青瓷弦紋瓶",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1564134160660,
+    "officialDocNo": "文授資局物字第10830078621號",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "數量特別稀少或具完整性保存意義者",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此器圓口窄唇邊，長頸，碩腹，平底，矮圈足。頸腹間共飾弦紋七道，罩施青瓷濃釉，釉色粉青。底面鐫刻乾隆皇帝〈題宋官窯瓶〉御製詩，詩末署「乾隆癸巳仲春御題」紀年銘（1773），並落「會心不遠」、「德充符」兩枚鈐印。\n河南省寶豐縣清涼寺窯址和浙江省杭州市老虎洞窯窯址都出土有長頸弦紋瓶形標本，雖然兩窯器式彼此略有差異，並且也和這件作品不同，但從中可一窺此一器式流行情形。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故瓷017379",
+    "amount": 1,
+    "descAge": "南宋",
+    "descSize": "高21.2公分、口徑6.2公分、足徑10公分",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "圓口窄唇邊，長頸，碩腹，平底，矮圈足。頸腹間共飾弦紋七道，胎體厚重，罩施青瓷濃釉，釉色粉青，弦紋及邊棱釉薄處，現出灰色邊。施釉至足際，足緣無釉露黑灰色胎。此一胎色，有以為塗有護胎汁，也有認為係燒造後自然形成的胎色。整體造型近似玻璃器，但也有以為是同時混融青銅器的風格。底面鐫刻乾隆皇帝〈題宋官窯瓶〉詩，詩末署「乾隆癸巳仲春御題」紀年銘（乾隆三十八年：1773），並落「會心不遠」、「德充符」兩枚鈐印。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "口沿舊傷缺。",
+    "documents": [
+        {
+            "fileid": 145212,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-17/90180d2d-a75e-4d17-85ed-581aea9ba871/公告.pdf"
+        },
+        {
+            "fileid": 145213,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-17/f221f59e-50b6-4836-aef4-0809e672a775/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 67648,
+            "caseId": 16946,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 71899,
+            "caseId": 16946,
+            "caseStatus": true,
+            "registerDate": 1564134160660,
+            "officialDocNo": "文授資局物字第10830078621號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

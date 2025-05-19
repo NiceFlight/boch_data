@@ -1,0 +1,102 @@
+{
+    "id": 3930,
+    "caseId": "20130128000011",
+    "count": 131,
+    "shareCount": 0,
+    "representImage": 6738,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32916/photo/35118961-3933-41b6-bede-be7ecca6ab0e_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32916/photo/35118961-3933-41b6-bede-be7ecca6ab0e.JPG",
+        "name": "35118961-3933-41b6-bede-be7ecca6ab0e"
+    },
+    "caseName": "婁堅書五言古詩卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1359302400000,
+    "officialDocNo": "文授字第10230006433號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "婁堅（1567-1631），字子柔，嘉定人。與明末程嘉燧、唐時升、李流芳以詩文、書畫蜚聲海內，人稱「嘉定四先生」。清人推許婁堅詩文的成就為「四先生」之冠，本幅長卷行書古詩，可以得見詩文和書法兩方面才華，誠屬難得。本幅行書五言古詩作於萬曆三十九年（1611），筋骨振動，時有俊氣，饒有蘇軾、米芾的意趣。此外，本詩卷反映明人書法受宋人影響，但傾向自由抒發的時代風尚。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第3、4、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故書000131",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descSize": "27.7 x 272.6（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "婁堅（西元一五六七－一六三一年），字子柔，嘉定（今屬上海市）人。與明末程嘉燧、唐時升、李流芳以詩文、書畫蜚聲海內，人稱「嘉定四先生」。婁堅早年學習鍾繇、王羲之書法，後學蘇軾，始悟古人用筆。本幅行書五言古詩作於萬曆三十九年（一六一一），筋骨振動，時有俊氣，饒有蘇軾、米芾的意趣。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 150704,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-19/71cece67-c96e-4681-bbc5-7d675e56e9c3/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71101,
+            "caseId": 3930,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75434,
+            "caseId": 3930,
+            "caseStatus": true,
+            "registerDate": 1359302400000,
+            "officialDocNo": "文授字第10230006433號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

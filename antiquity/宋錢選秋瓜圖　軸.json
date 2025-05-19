@@ -1,0 +1,100 @@
+{
+    "id": 18581,
+    "caseId": "20210304000006",
+    "count": 143,
+    "shareCount": 0,
+    "representImage": 99166,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-03-04/81af66a4-5c0a-4d33-a3d0-9611d2a91f77/PK2A000132N000000000PAA (1)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-03-04/81af66a4-5c0a-4d33-a3d0-9611d2a91f77/PK2A000132N000000000PAA (1).jpg",
+        "name": "PK2A000132N000000000PAA (1)"
+    },
+    "caseName": "宋錢選秋瓜圖　軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "能表現傳統、族群或地方之風俗、記憶及傳說、信仰、技藝或生活文化之重要特色",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "具有重要藝術造詣或科學成就"
+    ],
+    "registerReason": "此軸經營布局、構圖俱有新意，顏色渲染巧妙，勾勒葉片逼真，各極其態，寫生技巧成熟。畫面融入詩、書、畫結合的文學內涵，使本作成為表達錢選個人心志的作品。\n瓜果多子，瓜葉、瓜鬚為蔓生植物，能綿延生長，選擇畫瓜果主題，具有祝福子孫繁榮之吉祥寓意。此類雅俗共賞題材深受繪畫市場歡迎，更將元代花鳥畫帶入文人畫新境界。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第1、3、4款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故畫000132",
+    "amount": 1,
+    "descAge": " 宋",
+    "descCreator": "錢選",
+    "descSize": "本幅63.1x30公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "錢選（約1235-1301之後），字舜舉，浙江吳興人，南宋理宗景定年間鄉貢進士。不願在異族朝廷中出仕，選擇以儒士身分歸隱故鄉，以繪畫為業，後人視為南宋遺民畫家。山水師趙令穰（約活動於1070-1100）、趙伯駒(1120-1183)，花木翎毛師趙昌（10-11世紀間），元初與趙孟頫等人並稱為「吳興八俊」。\n錢選以花鳥畫聞名於元、明代，趙孟頫（1254-1322）評「妙處正在生意浮動耳」。此畫中瓜葉、草鬚深淺濃淡不同層次的色彩，或俯或仰具備多種姿態，筆觸細膩，設色清麗雅致，連蟲蛀處都一絲不茍。\n畫幅上提及「東陵瓜」典故，秦朝東陵侯召平，秦亡後降為平民，種瓜於長安城東，被稱為東陵瓜。錢選宋亡後摒棄儒士身分，以職業畫家謀生，或許亦有共感之慨。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "",
+    "saveEnvironment": 1,
+    "reserveStatus": "舊傷補、舊折痕、污漬。",
+    "documents": [
+        {
+            "fileid": 143633,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-08/01df398f-9271-483f-83bd-d8e4e23764d9/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.549499,
+    "latitude": 25.10037,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "至善路2段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 67360,
+            "caseId": 18581,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路2段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 71570,
+            "caseId": 18581,
+            "caseStatus": true,
+            "registerDate": 1614848219147,
+            "officialDocNo": "文授資局物字第11030020551號",
+            "classificationId": 1,
+            "note": ""
+        }
+    ],
+    "isPublic": false
+}

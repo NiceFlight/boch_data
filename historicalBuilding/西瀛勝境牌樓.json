@@ -1,0 +1,121 @@
+{
+    "id": 1796,
+    "caseId": "20021213000008",
+    "count": 1704,
+    "shareCount": 0,
+    "representImage": 76090,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-11-23/2b8bb49f-aa40-41a5-9d2e-1e7961cfe04a/西瀛勝境牌樓_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-11-23/2b8bb49f-aa40-41a5-9d2e-1e7961cfe04a/西瀛勝境牌樓.jpg",
+        "name": "西瀛勝境牌樓"
+    },
+    "caseName": "西瀛勝境牌樓",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本建築創建於1947年，於牌樓兩側碑文記載台灣228事件，具有歷史文化之重大意義。其外觀為牙白色，正反面頂端有金黃色的「西瀛勝境」四字及兩個國民黨黨徽，目前保存完整。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "其他歷史遺蹟",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1039741705000,
+    "officialDocNo": "府授文視字第0910070254 號",
+    "documents": [
+        {
+            "fileid": 76308,
+            "name": "公告公文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-11-24/70347900-bc81-48fb-bcc3-14598b69e0bb/公告公文.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "本牌樓兩側碑文記載台灣史上之重大事件，具有歷史文化之重大意義。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "06-9261141#138",
+    "govDeptAddress": "澎湖縣馬公市中華路230號",
+    "cadasters": [
+        {
+            "fileid": 140915,
+            "name": "地籍資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-10-15/8088d12c-bdef-4ba7-b847-38b794d3d48c/地籍資料.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "道路",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "馬公市馬公段1957-0000地號",
+    "buildingFeatures": "於牌樓坊題有｢西瀛勝境｣金黃色四字；兩側上方嵌有國民黨黨徽圖樣；下方碑文記載台灣228 事件，具有歷史文化之重大意義。",
+    "inHouseFeatures": "無",
+    "buildingUsage": "全天開放",
+    "buildingActualState": "標的為2005年修復完成，整體現況尚可。",
+    "buildingKeyMaintainItem": "整個牌樓外貌。",
+    "bulkTransfer": 0,
+    "belongAddress": "民生路和介壽路交叉口",
+    "isOpenVisit": true,
+    "openUpTime": "全天開放",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 119.56298,
+    "latitude": 23.567702,
+    "representImageSource": "澎湖縣政府文化局文化資產科",
+    "landScope": "澎湖縣馬公市馬公段1957地號",
+    "selfCoverage": "坐落在馬公市民生路和介壽路交叉口，是馬公舊市區出入觀音亭必經之處，為明顯的城市歷史地標。",
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 73752,
+            "caseId": 1796,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "民生路和介壽路交叉口"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "landNoName": "馬公段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 71913,
+            "caseId": 1796,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "landNoId": 15467,
+            "landSerialNo": "1957",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "area": "2108平方公尺",
+            "cityLandUseTypeOther": "道路用地",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 78769,
+            "caseId": 1796,
+            "caseStatus": true,
+            "registerDate": 1039968000000,
+            "officialDocNo": "府授文視字第0910070254 號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[119.56305940471205,23.567765397490266],[119.5640580182738,23.56774602601749],[119.56410359677508,23.567745139987768],[119.56411331107789,23.5677450856721],[119.56419385367893,23.567719180709584],[119.56413935131992,23.567609411986698],[119.56305863465633,23.56763041924303],[119.5629316789728,23.56763195952803],[119.56291225148628,23.567632113489953],[119.56276994729132,23.567634759241997],[119.56274465865982,23.567635228943168],[119.5627157353515,23.56763570838373],[119.56269182988763,23.567635928681756],[119.56296811052542,23.567807082608418],[119.56298275776606,23.567767067792488],[119.56300665954328,23.567765502029495],[119.56305940471205,23.567765397490266],[119.56305940471205,23.567765397490266]]]]},\"properties\":{\"envelope\":{\"left\":\"119.56269182988763\",\"top\":\"23.567609411986698\",\"right\":\"119.56419385367893\",\"bottom\":\"23.567807082608418\"},\"landLot\":\"澎湖縣馬公市馬公段1957\"}}],\"notfound\":[]}]",
+    "openVisitType": "",
+    "pastHistorySource": "文化局提供"
+}

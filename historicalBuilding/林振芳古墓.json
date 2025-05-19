@@ -1,0 +1,120 @@
+{
+    "id": 1402,
+    "caseId": "20040413000001",
+    "count": 2218,
+    "shareCount": 1,
+    "representImage": 179919,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-08-15/3de5b401-b65a-49ba-a4ac-21411c033191/1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-08-15/3de5b401-b65a-49ba-a4ac-21411c033191/1.jpg",
+        "name": "1"
+    },
+    "caseName": "林振芳古墓",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "林振芳祖籍廣東省惠州府陸豐縣，幼名火生，字喣齋，號蘭圃，今神岡社口人。生於清道光12年（1832），咸豐5年（1855），開設「義春鋪」，經商漸成富戶。同治2年（1863），林振芳以地方甲頭身分，協助清廷平定戴潮春抗清事件，成為擠身社會領導士紳之關鍵。同治9年（1870），因黔賑樂輸軍援清廷貴州苗變，得授「中書科中書」職銜；光緒4年（1878），也因賑捐得授「同知」官職銜，同時其住宅整建落成，即為今市定古蹟「社口林宅」。\n\n日治初，其地方領袖地位不變，被委任為保良局局長，並獲總督府紳章。明治38年（1905），林振芳逝世，因而起造墓園，當時臺灣總督府民政長官後藤新平，親致慰問書文題字，並刻於墓前牌坊。\n\n民國93年（2004），臺中縣政府以本古墓創建年代久遠，保存大致良好，且林振芳對當地發展具特殊貢獻，整體具有歷史文化意義，裝飾手法能表現地域風貌及民間藝術，故公告登錄為歷史建築。\n",
+    "assetsTypeNames": "墓葬",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1081785600000,
+    "officialDocNo": "府授文資字第0930010920-4號",
+    "documents": [
+        {
+            "fileid": 180975,
+            "name": "0930413_林振芳古墓_登錄公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-08-19/fe230902-f449-4447-8ed0-6c5ecbc96993/0930413_林振芳古墓_登錄公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者"
+    ],
+    "registerReason": "創建年代久遠，且建物大體保存良好，林振芳對當地發展具有特殊貢獻，因此具有歷史文化意義，裝飾手法表現地域風貌及民間藝術。",
+    "lawsReference": "文化資產保存法暨歷史建築登錄及輔助辦法第七條規定。",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "神岡區",
+    "govInstitution": "臺中市政府文化局",
+    "govDeptName": "臺中市文化資產處",
+    "govDeptPhone": "04-22290280",
+    "govDeptAddress": "臺中市西區市府路41巷19號",
+    "cadasters": [
+        {
+            "fileid": 2838,
+            "name": "e6f8d691-189c-404a-957e-96015ff4f105.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/74657/photo/e6f8d691-189c-404a-957e-96015ff4f105.jpg"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 10,
+    "nonCityLandUseTypeName": "特定專用區",
+    "nonCityLandUseSubTypeId": 17,
+    "nonCityLandUseSubTypeName": "墳墓",
+    "locationLandNo": "臺中市神岡區大社段565-1地號",
+    "buildingFeatures": "墓前有一牌坊，雕刻精細，落款興築年代為日治明治39年（1909），正面刻「長留遺愛」。左側立有「榮恩下逮圖記碑」，為大正8年（1919）所立，由鹿港知名書法家鄭鴻猷撰文，鄭貽林隸書，記述大正4年（1915）時民政長官內田嘉吉來巡弔祭於此。",
+    "inHouseFeatures": "無室內空間",
+    "buildingUsage": "墳墓使用",
+    "buildingActualState": "墳墓使用",
+    "buildingKeyMaintainItem": "牌坊防止偷竊",
+    "bulkTransfer": 0,
+    "belongAddress": "神岡區大豐路五段295巷旁",
+    "isOpenVisit": true,
+    "openUpTime": "全天候開放",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.695031057988,
+    "latitude": 24.2457408002116,
+    "representImageSource": "臺中市文化資產處",
+    "landScope": "臺中市神岡區大社段565-1地號同地號，保存面積1,348平方公尺。",
+    "selfCoverage": "神岡區大社段565-1地號",
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "神岡區",
+            "id": 112829,
+            "caseId": 1402,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1021,
+            "address": "大豐路五段295巷旁"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺中市",
+            "distName": "神岡區",
+            "landNoName": "大富段",
+            "id": 153071,
+            "caseId": 1402,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1021,
+            "landNoId": 1294,
+            "landSerialNo": "897",
+            "landownership": 2,
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 122471,
+            "caseId": 1402,
+            "caseStatus": true,
+            "registerDate": 1081785600000,
+            "officialDocNo": "府授文資字第0930010920-4號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.69512589375519,24.245769926154782],[120.6951879489006,24.2457657886885],[120.69527970735093,24.24574253536389],[120.69534706389378,24.245700559836806],[120.69537738950221,24.245668224671597],[120.69539261431737,24.245643588269985],[120.69539316471226,24.24553898695943],[120.69537629607612,24.2455178384003],[120.69534589109638,24.245479725760184],[120.69526747716051,24.245441395085034],[120.69519829368112,24.245429367771692],[120.69510029425332,24.245436855294713],[120.69500521346465,24.245452252768565],[120.69498559264997,24.245455422419713],[120.69497305885217,24.245475620001404],[120.69498244827871,24.24562231099679],[120.69503764592335,24.245775819653943],[120.69512589375519,24.245769926154782],[120.69512589375519,24.245769926154782]]]]},\"properties\":{\"envelope\":{\"left\":\"120.69497305885217\",\"top\":\"24.245429367771692\",\"right\":\"120.69539316471226\",\"bottom\":\"24.245775819653943\"},\"landLot\":\"臺中市神岡區大富段897\"}}],\"notfound\":[]}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": "社口林宅專輯"
+}

@@ -1,0 +1,112 @@
+{
+    "id": 1038,
+    "caseId": "20031224000002",
+    "count": 4813,
+    "shareCount": 4,
+    "representImage": 168499,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/a05de1ae-c590-4c90-b660-abe144cf0aae/代表圖像_梁實秋故居_20220614_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/a05de1ae-c590-4c90-b660-abe144cf0aae/代表圖像_梁實秋故居_20220614.jpeg",
+        "name": "代表圖像_梁實秋故居_20220614"
+    },
+    "caseName": "梁實秋故居",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "原為國立臺灣師範大學經濟管理系老師宿舍，後為梁實秋擔任國立臺灣師範大學英語系系主任時的住所，建於1920（大正9）年至1932（昭和7）年間，至1951年，管理者才變更為臺灣師範大學。建築為1層樓木造獨棟建築，屬於日據時代高等官舍第三種。梁實秋作育英才無數，主編英漢辭典與中學英文課本，引進KK音標，影響深遠，其散文集亦膾炙人口，所居故居具有紀念價值。\r\n一樓木造獨棟建築.屬於日據時期高等官舍第三種.梁實秋於擔任國立臺灣師範大學英語系系主任之住所.(41.08.02遷入-48.01.10遷出)",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 169664,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-06-26/1a17221e-741b-4235-8d0a-fc108ad8d87f/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "1. 梁實秋教授作育英才無數，尤其主編英漢辭典與中學英文課本，引進KK音標，影響深遠。其散文集膾炙人口，所譯莎士比亞全集更提升國人對西洋文學之鑑賞水準。\r\n2. 本建物以日式木構夾處於鬧市中，獨具風味，具保存價值。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 168502,
+            "name": "地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/d9dbbf40-9d10-45fd-84fe-1d19410d680a/地籍圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "locationLandNo": "臺北市大安區龍泉段三小段491地號",
+    "buildingFeatures": "一樓木造獨棟建築.屬於日據時期高等官舍第三種.梁實秋於擔任國立臺灣師範大學英語系系主任之住所.  (41.08.02遷入-48.01.10遷出)",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "已修復完成，目前定時開放收費參觀。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenVisit": true,
+    "isCharge": true,
+    "isOpenDownload": false,
+    "longitude": 121.527861,
+    "latitude": 25.0237659,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市大安區龍泉段三小段491地號",
+    "selfCoverage": "臺北市大安區龍泉段三小段85建號",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 83165,
+            "caseId": 1038,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "雲和街11號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "龍泉段三小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 92536,
+            "caseId": 1038,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 719,
+            "landSerialNo": "491",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 89370,
+            "caseId": 1038,
+            "caseStatus": true,
+            "registerDate": 1072195200000,
+            "officialDocNo": "府文化二字第09200525500 號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

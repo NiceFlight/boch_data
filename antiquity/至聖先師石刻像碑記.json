@@ -1,0 +1,106 @@
+{
+    "id": 3118,
+    "caseId": "20141105000022",
+    "count": 472,
+    "shareCount": 0,
+    "representImage": 5552,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/5084/photo/至聖先師石刻像碑記_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/5084/photo/至聖先師石刻像碑記.png",
+        "name": "至聖先師石刻像碑記"
+    },
+    "caseName": "至聖先師石刻像碑記",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-其他",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1415116800000,
+    "officialDocNo": "府文資處字第1031018187B號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源"
+    ],
+    "registerReason": "道光二十八年(西元1848年)，分巡臺灣兵備道徐宗幹重鐫自山東曲阜一幅孔子聖像，即本件石碑。石碑正面刻孔子任魯司寇時佩劍像，傳為唐吳道子手筆。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第2條第1項第1、2款。",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "中西區",
+    "govInstitution": "臺南市文化資產管理處",
+    "govDeptName": "-",
+    "govDeptPhone": " 06-2213597",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "reservationCode": "-",
+    "amount": 1,
+    "notes": "",
+    "descAge": "道光二十八年（西元1848年）",
+    "descSize": "高94.3公分、寬48公分",
+    "descMaterial": "烏石",
+    "reserveStatusDesc": "1.年代：道光二十八年（西元1848年）\n2.作者：石耀祖 鐫\n3.材質：烏石\n4.尺寸：高94.3公分、寬48公分     \n5.技法：石刻\n6.重量：無法測量\n7.數量：1組1件\n8.其他特徵：碑之最上方橫書有「至聖先師像」之篆體字",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "道光二十八年分巡臺灣兵備道徐宗幹立",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定 ",
+    "documents": [
+        {
+            "fileid": 109869,
+            "name": "一般古物登錄清冊103.11.6.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-12/65fba7c4-54c7-4798-99a8-8bebf7aaf70f/一般古物登錄清冊103.11.6.pdf"
+        },
+        {
+            "fileid": 142172,
+            "name": "孔廟古物公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-01/49bbae3a-8a8b-4f22-9a06-4a8aca8128da/孔廟古物公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 22.990697864018713,
+    "latitude": 120.20424391283163,
+    "representImageSource": "台南市政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "財團法人臺南市孔廟文化基金會",
+            "keepName": "財團法人臺南市孔廟文化基金會",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺南市中西區 南門路2號(臺南市孔廟)",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "id": 107110,
+            "caseId": 3118,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601
+        }
+    ],
+    "announces": [
+        {
+            "id": 114985,
+            "caseId": 3118,
+            "caseStatus": true,
+            "registerDate": 1415116800000,
+            "officialDocNo": "府文資處字第1031018187B號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

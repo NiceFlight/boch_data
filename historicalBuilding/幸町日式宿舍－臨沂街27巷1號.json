@@ -1,0 +1,112 @@
+{
+    "id": 934,
+    "caseId": "20070530000001",
+    "count": 3557,
+    "shareCount": 3,
+    "representImage": 167792,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/aa4f4902-d59c-40de-8b56-c9cbb959a9d0/幸町日式宿舍－臨沂街27巷1號(文房)-1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/aa4f4902-d59c-40de-8b56-c9cbb959a9d0/幸町日式宿舍－臨沂街27巷1號(文房)-1.jpg",
+        "name": "幸町日式宿舍－臨沂街27巷1號(文房)-1"
+    },
+    "caseName": "幸町日式宿舍－臨沂街27巷1號",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本棟建物為日據末期日式住宅，其格局特殊，東面應接室、露台為洋式，西邊為和式，為和洋折衷式樣建築。\r\n國民政府來台後，作為員工眷舍使用，於97年間收回。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 167401,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-06-10/81895a11-b51a-4bc3-9956-3534359fbf08/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1.本棟建物為日據末期日式住宅，其格局特殊，東面應接室、露台為洋式，西邊為和式，為和洋折衷式樣建築\r\n2.入口露台、門廳仿萊特風格，為其他日式宿舍少見",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第3款評定基準",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 109699,
+            "name": "66085d72-c3b0-4ca9-8f1a-c117f6062ad1.gif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/397de6f2-9b54-49c6-9df2-6c6dda85a78e/66085d72-c3b0-4ca9-8f1a-c117f6062ad1.gif"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "locationLandNo": "臺北市中正區臨沂段一小段334地號",
+    "buildingFeatures": "為和洋折衷式樣建築",
+    "inHouseFeatures": "東面應接室、露台為洋式，西邊為和式",
+    "buildingUsage": "",
+    "buildingActualState": "對外開放",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.5304087,
+    "latitude": 25.0412049,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市中正區臨沂段一小段334地號",
+    "selfCoverage": "214.79平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 88661,
+            "caseId": 934,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "臨沂街27巷1號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "臨沂段一小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 105722,
+            "caseId": 934,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 136,
+            "landSerialNo": "334",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "559平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 95639,
+            "caseId": 934,
+            "caseStatus": true,
+            "registerDate": 1180454400000,
+            "officialDocNo": "府文化二字第09630228000號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

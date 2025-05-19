@@ -1,0 +1,113 @@
+{
+    "id": 4555,
+    "caseId": "20110526000001",
+    "count": 1274,
+    "shareCount": 3,
+    "representImage": 7617,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/reserve_skill/530/photo/古典布袋戲偶衣飾、盔帽、道具製作技術_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/reserve_skill/530/photo/古典布袋戲偶衣飾、盔帽、道具製作技術.jpg",
+        "name": "古典布袋戲偶衣飾、盔帽、道具製作技術"
+    },
+    "caseName": "古典布袋戲偶衣飾盔帽道具製作技術",
+    "classifyCode": "7.1",
+    "classifyName": "保存技術及保存者",
+    "assetsClassifyCode": "7.1.2",
+    "assetsClassifyName": "重要保存技術及保存者",
+    "registerDate": 1306339200000,
+    "officialDocNo": "會授資籌三字第10020052981號",
+    "documents": [
+        {
+            "fileid": 7618,
+            "name": "downloadfile.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/reserve_skill/114132/file/downloadfile.pdf"
+        },
+        {
+            "fileid": 92690,
+            "name": "106-修法公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-01-25/49d63fe1-ec93-4d17-a7c8-5ab78fa663e3/106-修法公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "特殊性對文化資產保存、修復具有全國性之重大影響"
+    ],
+    "registerReason": "陳錫煌身為重要傳統藝術布袋戲保存者，深黯布袋戲齣與戲偶角色扮相之傳統，對布袋戲偶的內外衣飾、盔帽、頭戴、道具製作，講究角色造型、尺寸，尤擅材料組合與繡工，手法技術細膩精湛，並依操偶動作需求，改良盔帽、戲服穿戴方式及構造，自製輔助工具，益增演出時人偶一體之境界。",
+    "lawsReference": "文化資產保存法第九十六條第二項及第三項、行政程序法第一百二十二條",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "govInstitution": "文化部文化資產局",
+    "govDeptName": "傳藝民俗組保存技術科",
+    "govDeptPhone": "04-22177783",
+    "govDeptAddress": "臺中市南區復興路3段362號",
+    "preservers": [
+        {
+            "id": 4583,
+            "type": "個人",
+            "caseName": "陳錫煌",
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "caseArtistEntities": [],
+            "representImage": 160014,
+            "registrationDate": 1512662400000,
+            "judgeCriteria": [
+                "充分掌握該項保存技術所需相關知識與執行程序",
+                "正確體現、執行該項保存技術之能力"
+            ],
+            "registerReason": "陳錫煌身為重要傳統藝術布袋戲保存者，深黯布袋戲齣與戲偶角色扮相之傳統，對布袋戲偶的內外衣飾、盔帽、頭戴、道具製作，講究角色造型、尺寸，尤擅材料組合與繡工，手法技術細膩精湛，並依操偶動作需求，改良盔帽、戲服穿戴方式及構造，自製輔助工具，益增演出時人偶一體之境界。",
+            "lawsReference": "<<文化資產保存技術及保存者登錄認定廢止審查辦法>>第4條第1項第1、2款",
+            "isOpenDownload": true,
+            "representImageSource": "文化部文化資產局",
+            "contactorIsOpen": false
+        }
+    ],
+    "skillNote": "古典布袋戲偶藉戲偶服飾（尪仔衫）、盔帽、手足等裝扮穿戴特徵，以彰顯劇中角色，藉由特定造型規範，明確演繹主角個性；並配合操偶動作需求，設計衣飾、盔帽、道具等輔助演出，為布袋戲演出不可或缺之專門技術。",
+    "visitsDate": 1301587200000,
+    "classify": [
+        "4.1"
+    ],
+    "skillType": [
+        {
+            "id": 1
+        },
+        {
+            "id": 2,
+            "other": ""
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "文化部文化資產局",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 8805,
+            "caseId": 4555,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102
+        }
+    ],
+    "announces": [
+        {
+            "id": 8819,
+            "caseId": 4555,
+            "caseStatus": true,
+            "registerDate": 1306339200000,
+            "officialDocNo": "會授資籌三字第10020052981號",
+            "classificationId": 1
+        },
+        {
+            "id": 8820,
+            "caseId": 4555,
+            "caseStatus": true,
+            "registerDate": 1512714591670,
+            "officialDocNo": "文授資局傳字第10630139792號",
+            "classificationId": 1
+        }
+    ]
+}

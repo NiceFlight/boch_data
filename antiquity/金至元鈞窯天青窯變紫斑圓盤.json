@@ -1,0 +1,107 @@
+{
+    "id": 17288,
+    "caseId": "20200108000017",
+    "count": 150,
+    "shareCount": 0,
+    "representImage": 64826,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-01-08/b1ba3984-0a81-4f25-b007-121badd8420b/14-故-瓷-006543_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-01-08/b1ba3984-0a81-4f25-b007-121badd8420b/14-故-瓷-006543.jpg",
+        "name": "14-故-瓷-006543"
+    },
+    "caseName": "金至元鈞窯天青窯變紫斑圓盤",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1577168585290,
+    "officialDocNo": "中華民國108年12月24日文授資局物字第10830139531號",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "數量特別稀少或具完整性保存意義者",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此器侈口出窄邊，週壁極淺，淺圈足，厚胎濃釉，天青色窯變藍、紫色大小斑點多片。邊稜現米黃色骨，釉面多椶眼。\n底週有三支釘痕，均露灰白色胎。作品之器形與滿釉支燒的特徵，與北京海淀區出土品雷同，而釉中暈現的彩斑，因也見於十三世紀墓葬出土品。據此，可了解此類作品產燒於金元之際。此類作品傳世稀少，益顯珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777#6722",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故瓷006543",
+    "amount": 1,
+    "descAge": "金至元",
+    "descSize": "高2.8、口徑18.6、底徑12公分",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "侈口，折沿，周壁極淺，平底，淺圈足。通體罩施天藍色釉，藍釉泛青，釉面揮灑自如的紫紅色斑紋，頗具畫意。釉質均勻，釉表開細紋片，底緣及口部沿邊皆成米黃色。全器滿釉支燒，外底留有圓點狀支痕三枚，底心畫一圓圈。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "器身有舊裂璺。",
+    "documents": [
+        {
+            "fileid": 144778,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-15/dac46f84-a66e-4f10-8658-1612ce899631/公告.pdf"
+        },
+        {
+            "fileid": 144779,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-15/83fddee0-1acd-4f55-aba9-6fdf76071aa5/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "11143臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 67391,
+            "caseId": 17288,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 71591,
+            "caseId": 17288,
+            "caseStatus": true,
+            "registerDate": 1577168585290,
+            "officialDocNo": "中華民國108年12月24日文授資局物字第10830139531號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

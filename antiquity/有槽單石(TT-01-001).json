@@ -1,0 +1,105 @@
+{
+    "id": 3290,
+    "caseId": "20160318000003",
+    "count": 400,
+    "shareCount": 0,
+    "representImage": 125491,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-20/3a82a513-3bee-467b-b6bd-60abf16dbb69/古物_TT-01-001_有槽單石-永保_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-20/3a82a513-3bee-467b-b6bd-60abf16dbb69/古物_TT-01-001_有槽單石-永保.jpg",
+        "name": "古物_TT-01-001_有槽單石-永保"
+    },
+    "caseName": "有槽單石(TT-01-001)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-其他",
+    "otherAssetsType": "生活及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1458230400000,
+    "officialDocNo": "府文資字第1050051577號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "韓國大力推動巨石文物保存，近年辦理巨石文化節，值得參考；經調查研究顯示東部有大量的巨石文物，是十分珍貴的資產，更應努力推動保存及管理維護。",
+    "lawsReference": "1.文化資產保存法第65條\n2.古物分級登錄指定及廢止審查辦法第2、5、7條\n3.105年3月8日臺東縣文化資產審議委員會決議辦理。\n",
+    "govInstitutionCode": "950",
+    "govInstitutionName": "臺東縣政府",
+    "belongCityId": 22,
+    "belongCityName": "臺東縣",
+    "belongDistName": "臺東市",
+    "govInstitution": " 臺東縣政府",
+    "govDeptName": " 文化處文化資產科",
+    "govDeptPhone": "089-350129",
+    "govDeptAddress": "臺東市南京路25號",
+    "reservationCode": "-",
+    "amount": 1,
+    "descAge": "3000B.P/新石器時代晚期",
+    "descSize": "長: 53.5公分 寬: 33公分 厚: 14公分 徑圍: 86.5公分",
+    "descMaterial": "疑似凝灰岩",
+    "reserveStatusDesc": "有槽單石是以一塊橢圓形的單石，一端的兩面都修整出明顯的凹槽，又稱陰石。本件單石長53.5公分、寬33公分、厚14公分、徑圍86.5公分，是來自麒麟文化（或稱巨石文化）的大型單石。麒麟文化（或稱巨石文化）是臺灣新石器時代晚期的文化之一，距今約3,500年到2,000年之間，分布於花蓮縣新社到臺東縣都蘭之間。其代表性遺物有人形石像、單石、石輪、岩棺、石壁等石造物。這些大型石造物有可能是房舍建築的一部分，或與儀式行為有關，但尚無定論。",
+    "pastHistorySource": 7,
+    "saveEnvironment": 1,
+    "reserveStatus": "現狀完整良好",
+    "documents": [
+        {
+            "fileid": 112587,
+            "name": "臺東縣古物文化資產公告文-01有槽單石(TT-01-001).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-21/352d8de2-bccb-4ca2-a211-7b40f8300f43/臺東縣古物文化資產公告文-01有槽單石(TT-01-001).pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 121.146092,
+    "latitude": 22.756577,
+    "representImageSource": "109-110年度臺東縣文化資產個案資料同步更新維護計畫-姜柷山提供",
+    "keepNames": [
+        {
+            "keepNameIdStr": "臺東縣政府(文化處)",
+            "keepName": "臺東縣政府(文化處)",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "臺東縣政府(文化處)",
+            "keepAddressNew": "臺東縣臺東市南京路25號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺東縣",
+            "keepNameDistName": "臺東市",
+            "keepNameAddress": "南京路25號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺東縣",
+            "distName": "臺東市",
+            "id": 45442,
+            "caseId": 3290,
+            "caseStatus": true,
+            "cityId": 22,
+            "distId": 2201,
+            "address": "南京路25號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 46980,
+            "caseId": 3290,
+            "caseStatus": true,
+            "registerDate": 1458057600000,
+            "officialDocNo": "府文資字第1050051577號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

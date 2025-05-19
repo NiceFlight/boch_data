@@ -1,0 +1,120 @@
+{
+    "id": 1790,
+    "caseId": "20021213000002",
+    "count": 2983,
+    "shareCount": 3,
+    "representImage": 76096,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-11-23/9abf3eb1-39f5-4fe4-ab13-928dfa373ec0/澎湖郵便局_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-11-23/9abf3eb1-39f5-4fe4-ab13-928dfa373ec0/澎湖郵便局.jpg",
+        "name": "澎湖郵便局"
+    },
+    "caseName": "澎湖郵便局",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本建築創建於大正13(1924)年，為日治時期的郵電所，在澎湖通信資訊史上具有歷史價值，且具有建築史上之意義。其入口屋頂的形式為切角頂，屋頂的出簷較大，下方有三角木架支撐。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "建築物類",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1039741310000,
+    "officialDocNo": "府授文視字第0910070254 號",
+    "documents": [
+        {
+            "fileid": 76311,
+            "name": "公告公文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-11-24/b1fe027d-15d5-4bb8-82d2-a9c07cc45602/公告公文.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "本歷史建築的前身為日治時期的郵電所，在澎湖通信資訊史上具有歷史價值，且具有建築史上之意義。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "06-9261141#138",
+    "govDeptAddress": "澎湖縣馬公市中華路230號",
+    "cadasters": [
+        {
+            "fileid": 75028,
+            "name": "地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2020-11-17/ea3a140d-175e-4d39-a854-8725181ba31b/地籍圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "馬公市馬公段2495-0000地號",
+    "buildingFeatures": "屋頂構造採用「兩坡頂」設計，大門入口處屋頂採用「切角頂」形式，並鋪設水泥製日式文化瓦，窗戶形狀皆為方形，外牆壁面採用水泥漿打毛的施工法，基座粉刷成像是方石砌的構造。",
+    "inHouseFeatures": "內部裝修上，地坪為磨石子，部分空間並於磨石子地坪上方鋪貼塑膠地磚；牆面為水泥粉刷。",
+    "buildingUsage": "良好",
+    "buildingActualState": "整修完成後，目前做為「澎湖水下文化資產多媒體展覽」空間，建築主體現況良好。\n",
+    "buildingKeyMaintainItem": "定期確認管理維護作業。",
+    "bulkTransfer": 0,
+    "belongAddress": "中山路75號之1",
+    "isOpenVisit": true,
+    "openUpTime": "每週三至週一上午9時至下午5時\n每週二休館",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 119.563903,
+    "latitude": 23.563428,
+    "representImageSource": "澎湖縣政府文化局文化資產科",
+    "landScope": "澎湖縣馬公市馬公段2495地號",
+    "selfCoverage": "位於馬公市中山路，北側緊鄰人行道與中山路，中山路東側為街屋；西側緊鄰民族路，民族路另側為馬公水上警察官吏派出所(澎湖警察文物館)；東側緊臨電信局宿舍；南側為拆除郵局後新建之建物，臨臨海路側東端為馬公港港埠大樓。",
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 114965,
+            "caseId": 1790,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "中山路75號之1"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "landNoName": "馬公段",
+            "cityLandUseTypeName": "商業區",
+            "id": 159436,
+            "caseId": 1790,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "landNoId": 15467,
+            "landSerialNo": "2495",
+            "landownership": 3,
+            "cityLandUseTypeId": 2,
+            "area": "1026平方公尺",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 125221,
+            "caseId": 1790,
+            "caseStatus": true,
+            "registerDate": 1039968000000,
+            "officialDocNo": "府授文視字第0910070254 號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[119.56418315891715,23.563274569608826],[119.56418178280299,23.563233949796857],[119.56381178631418,23.56323135100376],[119.56381187213016,23.563442014635452],[119.56384166300735,23.56347785707735],[119.56418779024378,23.56347973201037],[119.56418518506557,23.563348236371382],[119.56418315891715,23.563274569608826],[119.56418315891715,23.563274569608826]]]]},\"properties\":{\"envelope\":{\"left\":\"119.56381178631418\",\"top\":\"23.563231351003761\",\"right\":\"119.56418779024378\",\"bottom\":\"23.563479732010371\"},\"landLot\":\"澎湖縣馬公市馬公段2495\"}}],\"notfound\":[]}]",
+    "openVisitType": "",
+    "pastHistorySource": "資料尚未填寫"
+}

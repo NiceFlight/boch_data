@@ -1,0 +1,101 @@
+{
+    "id": 16869,
+    "caseId": "20190628000004",
+    "count": 226,
+    "shareCount": 0,
+    "representImage": 59606,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-06-28/130bb790-b935-4d43-8b29-fc5054fb0d81/c13.明陳洪綬仙人獻壽圖_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-06-28/130bb790-b935-4d43-8b29-fc5054fb0d81/c13.明陳洪綬仙人獻壽圖.jpg",
+        "name": "c13.明陳洪綬仙人獻壽圖"
+    },
+    "caseName": "明陳洪綬仙人獻壽圖　軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1561517362953,
+    "officialDocNo": "文授資局物字第10830067501號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "具有重要藝術造詣或科學成就",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "陳洪綬（1599－1652）為晚明重要畫家，擅長於山水、人物、花鳥等題材，畫中追求與古人精神交合情感，創出「高古」與「變形」風格，為晚明變形主義獨樹一格的畫家。\n此軸繪「麻姑獻壽」，為傳統民間繪畫常見題材。傳說西王母壽誕舉辦蟠桃盛會，麻姑以靈芝釀酒祝壽，花仙受邀同往，手捧碩大梅瓶插紅艷柿果，備鮮花美酒前來祝壽。畫中人物面相端莊美麗，衣紋圖案描繪工細，新穎別緻，通過線條提頓轉折表現誇張造型。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第3、4、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫001366",
+    "amount": 1,
+    "descAge": "明",
+    "descSize": "本幅 182.1x98.1 公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "傳說西王母壽誕舉辦蟠桃盛會，諸仙齊來祝壽。麻姑以靈芝釀酒祝壽，花仙受邀同往，手捧碩大梅瓶插紅艷柿果，備鮮花美酒前來祝壽。畫中人物面相端莊美麗，衣紋圖案描繪工細，新穎別緻，通過線條提頓轉折表現誇張造型。陳洪綬（1599－1652）擅長處理織品質材、紋樣，青銅花器銅鏽色彩細緻描寫，呈現晚明文人崇尚「復古」心理。古松、奇石均為長壽的象徵，寓有平安長壽之意。松樹刻畫精細入微，針葉彷如華蓋罩頂，具有獨特的視覺效果。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "包首：傷補，霉傷，折裂。本幅：霉傷，水漬，絹裂，折痕。污漬霉斑翮斑傷磨損。",
+    "documents": [
+        {
+            "fileid": 146061,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-24/d1ccad5d-0bf8-45cc-bf7c-93d29b7585db/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 68173,
+            "caseId": 16869,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 72254,
+            "caseId": 16869,
+            "caseStatus": true,
+            "registerDate": 1561517362953,
+            "officialDocNo": "文授資局物字第10830067501號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

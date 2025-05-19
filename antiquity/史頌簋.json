@@ -1,0 +1,106 @@
+{
+    "id": 16568,
+    "caseId": "20190215000007",
+    "count": 337,
+    "shareCount": 0,
+    "representImage": 55445,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-02-15/bddc795c-292e-426f-90a1-9bdc406026e6/9-故銅002387-1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-02-15/bddc795c-292e-426f-90a1-9bdc406026e6/9-故銅002387-1.jpg",
+        "name": "9-故銅002387-1"
+    },
+    "caseName": "史頌簋",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1550123278389,
+    "officialDocNo": "文授資局物字第10830016641號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此簋器身飾竊曲紋及瓦溝紋，圈足飾垂鱗紋和三個小獸首，其下有一象鼻狀足，為西周晚期器物。器內銘文記載周王因名為頌的史官圓滿達成巡視蘇國的任務，賜予他馬車、玉器、銅料等獎賞。見證西周晚期中央與地方維繫機制的運作方式。\n史頌器為西周晚期重要器群。經著錄之〈史頌簋〉有七件，除本器外，現知部分器物分藏於上海博物館、日本東京書道博物館及出光美術館。七件形制、紋飾、銘文相同的列簋說明器主在西周晚期顯赫的身份地位。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第3、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故銅002387",
+    "amount": 1,
+    "descAge": "西周晚期(西元前9-8世紀) ",
+    "descSize": "通高19.5公分/腹深11.8公分/口徑24.2公分/底徑23.2公分/腹圍87.7公分",
+    "descMaterial": "銅/鑄造",
+    "reserveStatusDesc": "斂口鼓腹，雙耳飾獸首，下有垂珥。口沿下飾竊曲紋，器腹飾瓦溝紋，圈足沿外侈，圈足飾垂鱗紋和三個小獸首，其下有一象鼻狀足。蓋已失。\n銘文六行六十字，重文二，合文一：\n唯三年五月丁巳，王在宗周，令史頌省蘇、 友里君、百姓，帥堣盩于成周，休有成事。蘇賓璋、馬四匹、吉金，用作 彝。頌其萬年無疆，日將天子 令，子子孫孫永寶用。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏。",
+    "saveEnvironment": 1,
+    "reserveStatus": "良好。",
+    "documents": [
+        {
+            "fileid": 146876,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-02/be080ad7-11a8-4f3f-8c12-62642a609e5e/公告.pdf"
+        },
+        {
+            "fileid": 146877,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-02/f1552ecf-a6c3-41cf-af97-6386ff11e7fb/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 68723,
+            "caseId": 16568,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 72823,
+            "caseId": 16568,
+            "caseStatus": true,
+            "registerDate": 1550123278389,
+            "officialDocNo": "文授資局物字第10830016641號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

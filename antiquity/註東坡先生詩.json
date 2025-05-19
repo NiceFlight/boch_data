@@ -1,0 +1,101 @@
+{
+    "id": 3716,
+    "caseId": "20091123000011",
+    "count": 272,
+    "shareCount": 0,
+    "representImage": 6465,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32660/photo/4f1ab5d3-0a9b-4c53-a720-97d947848ae1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32660/photo/4f1ab5d3-0a9b-4c53-a720-97d947848ae1.jpg",
+        "name": "4f1ab5d3-0a9b-4c53-a720-97d947848ae1"
+    },
+    "caseName": "註東坡先生詩",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1258905600000,
+    "officialDocNo": "會授資籌二字第0982118268-2號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "歷史流傳已久或史事具有深厚淵源",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "為宋代孤本，有火燒本之稱，且為全世界唯一的蘇東坡註解，具有重要歷史、文化、學術價值",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第4條第1項第1、2、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "10204",
+    "amount": 20,
+    "notes": "",
+    "descAge": "宋嘉定癸酉6年（1213）",
+    "descCreator": "宋蘇軾撰　施元之、施宿、顧禧注",
+    "descSize": "半葉9行，版匡21x15.2公分",
+    "descMaterial": "紙",
+    "reserveStatusDesc": "   ",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "無虫蛀，但全套因燒毀損嚴重，俗稱火燒本，經修裱後保存狀況良好。",
+    "documents": [
+        {
+            "fileid": 56649,
+            "name": "981123公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-04-08/a8365d20-5b6f-48dd-a733-7e35878ffb97/981123公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 116439,
+            "caseId": 3716,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 127140,
+            "caseId": 3716,
+            "caseStatus": true,
+            "registerDate": 1258905600000,
+            "officialDocNo": "會授資籌二字第0982118268-2號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

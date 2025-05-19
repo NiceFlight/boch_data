@@ -1,0 +1,100 @@
+{
+    "id": 15436,
+    "caseId": "20180102000007",
+    "count": 2536,
+    "shareCount": 3,
+    "representImage": 97580,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-02-23/151be53c-160e-4ae3-a2e9-6f8b0041e006/新竹神社石燈籠_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-02-23/151be53c-160e-4ae3-a2e9-6f8b0041e006/新竹神社石燈籠.jpg",
+        "name": "新竹神社石燈籠"
+    },
+    "caseName": "新竹神社石燈籠(黃鼎三奉獻)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1514476800000,
+    "officialDocNo": "府授文資字第1060185113號函",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者"
+    ],
+    "registerReason": "1.\t具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：原陳列於新竹神社參道上，呈現信仰特色。\n2.\t具有地方重要人物或歷史事件之深厚淵源者：落款人黃鼎三為新竹地方士紳。\n",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1項第1、2款",
+    "govInstitutionCode": "300",
+    "govInstitutionName": "新竹市政府",
+    "belongCityId": 6,
+    "belongCityName": "新竹市",
+    "belongDistName": "東區",
+    "govInstitution": "新竹市文化局",
+    "govDeptName": "新竹市文化局文化資產科",
+    "govDeptPhone": "3-5425079",
+    "govDeptAddress": "新竹市北區中央路109號",
+    "reservationCode": "Z1061226001",
+    "amount": 2,
+    "notes": "位置說明：位於新竹市立動物園內，座落於二號入口處噴水池廣場\n動線兩側。\n鄰近文化資產：新竹動物園―舊大門、噴水池、黃魚鴞欄舍。",
+    "descAge": "1895-1945",
+    "descSize": "最長106.2公分、最寬106.2公分、最高280公分",
+    "descMaterial": "石質",
+    "reserveStatusDesc": "新竹市立動物園內有許多石燈籠構件，因年代久遠多數已不能組成完整石燈籠。此案之2座石燈籠為其中保存完整之石燈籠。其組件目前保持完整，置於新竹市立動物園門口正前石階兩側。石燈籠竿上陰刻「奉獻黃鼎三」，其餘他處未見有銘文。其燈室之窗口原有裝飾物已佚失。黃鼎三（1863-1930）號雲程，為新竹仕紳，於1902年獲紳章。祖父為黃芬（廷勳），黃朝品（鏡堂）之四男，家業黃珍香，代理度量衡及亞片別賣。其名同樣可見於新竹法源寺後方覺園內「皇恩山重」碑之碑陰所刻29位贊助者之中。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 3,
+    "reserveStatus": "狀況穩定。",
+    "documents": [
+        {
+            "fileid": 47353,
+            "name": "府授文資第1060185113號函.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-01-02/3938ac54-bdc8-446b-a038-d30e432e16b8/府授文資第1060185113號函.jpg"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.97978,
+    "latitude": 24.80122,
+    "representImageSource": "新竹市文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "新竹市立動物園",
+            "keepName": "楊家民",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "新竹市立動物園",
+            "keepAddressNew": "新竹市東區博愛街111號",
+            "saveSpaceIdStr": "公務設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "新竹市",
+            "keepNameAddress": "公園路279號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "新竹市",
+            "distName": "東區",
+            "id": 69713,
+            "caseId": 15436,
+            "caseStatus": true,
+            "cityId": 6,
+            "distId": 601,
+            "address": "食品路66號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73892,
+            "caseId": 15436,
+            "caseStatus": true,
+            "registerDate": 1514476800000,
+            "officialDocNo": "府授文資字第1060185113號函",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

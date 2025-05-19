@@ -1,0 +1,118 @@
+{
+    "id": 48,
+    "caseId": "19980504000001",
+    "count": 3173,
+    "shareCount": 6,
+    "representImage": 167971,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/07cbde41-78b1-45c5-9d0f-60e297c5af61/代表圖像_建國中學紅樓_20220602_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/07cbde41-78b1-45c5-9d0f-60e297c5af61/代表圖像_建國中學紅樓_20220602.jpeg",
+        "name": "代表圖像_建國中學紅樓_20220602"
+    },
+    "caseName": "建國中學紅樓",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "建國中學原為臺灣總督府中學校，創建於一九０八年，後來改制為臺北州立第一中學，供日人子弟就讀，此即為日人在臺差別教育之象徵。初建時由著名的營繕課技師近藤十郎設計，全校皆為當時盛行的紅磚洋式風格，尤其是入口主樓，外觀帶有仿後期文藝復興式樣之特色，正面中央突出大山牆，兩側更有高聳的衛塔，比例雄偉而莊嚴。門廳內有拱形柱列，空間富節奏感。\r\n建中紅樓的外牆近年曾被貼上紅色瓷磚，未能直接露出原有的紅磚，殊原可惜。近數十年來，建中為臺灣培養許多人才，而歷屆諸多校友頗以擁有紅樓為榮。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "其他",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 138052,
+            "name": "3._870504指定古蹟公告.tif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/bbfaf347-a57c-4005-b358-a8ff8ed77539/3._870504指定古蹟公告.tif"
+        },
+        {
+            "fileid": 138053,
+            "name": "4._870504檢送十四處市定古蹟公告函.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/ac92ca1d-0ffa-44de-8de8-53468245790a/4._870504檢送十四處市定古蹟公告函.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "具其他古蹟價值者"
+    ],
+    "registerReason": "1.建國中學紅樓創建於1908年左右，為日治時期台灣總督府中學校，其後改制為台北州立第一中學校供日人子弟就讀，是為日人在台差別教育之象徵，但亦為臺灣設立中學校之濫觴。\r\n2.該樓為以紅磚為主的二層建築，外觀帶有仿文藝復興式樣的裝飾趣味，比例優雅，整體作法簡潔明快。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 138054,
+            "name": "地籍.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/9a93252d-4106-40f8-b9b3-da23ff8a4959/地籍.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市中正區南海段五小段384地號",
+    "buildingFeatures": "近數十年來，建中為臺灣培養許多人才，而歷屆諸多校友頗以擁有紅樓為榮。",
+    "inHouseFeatures": "",
+    "buildingUsage": "學校",
+    "buildingActualState": "學校使用。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenDownload": false,
+    "longitude": 121.512235,
+    "latitude": 25.030936,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市中正區南海段五小段384地號",
+    "selfCoverage": "紅樓建築本體",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 81954,
+            "caseId": 48,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "南海路56號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "南海段五小段",
+            "id": 90498,
+            "caseId": 48,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 18,
+            "landSerialNo": "0384-0000",
+            "landownership": 1,
+            "coverageId": 2,
+            "area": "57487平方公尺",
+            "note": "重測前:龍口段1小段12地號\n因分割增加地號:384-1\n合併自:384-1地號",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 88098,
+            "caseId": 48,
+            "caseStatus": true,
+            "registerDate": 894211200000,
+            "officialDocNo": "府民三字第8702427101號",
+            "classificationId": 1,
+            "note": "無"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false,
+    "pastHistorySource": ""
+}

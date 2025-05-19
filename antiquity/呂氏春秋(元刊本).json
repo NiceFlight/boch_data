@@ -1,0 +1,105 @@
+{
+    "id": 3589,
+    "caseId": "20130813000044",
+    "count": 62,
+    "shareCount": 0,
+    "representImage": 6280,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7292/photo/呂氏春秋(元刊本)_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7292/photo/呂氏春秋(元刊本).png",
+        "name": "呂氏春秋(元刊本)"
+    },
+    "caseName": "呂氏春秋(元刊本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1376323200000,
+    "officialDocNo": "文資局物字第 10220091271號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "元至正間(1341-1367)嘉興路總管劉貞刊明修補本。\r\n此書為戰國末年秦國丞相呂不韋撰，其內容涵括儒、法、道、墨等雜家著作思想。《四庫全書總目》云：「不韋固小人，而是書較諸子之言獨為醇正。大抵以儒為主，而參以道家、墨家。故多引六籍之文典與孔子、曾子之言，……而縱橫之術、刑名之說，一無及焉，其持論頗為不苟」。內文旁及書眉處有清惠士奇、惠棟、沈大成朱墨筆批校。\r\n元版古籍，罕見稀有，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號06944",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 10,
+    "notes": "",
+    "descAge": "元至正間(1341-1367)",
+    "descCreator": "秦呂不韋撰、漢高誘注",
+    "descSize": "半葉10行，版匡21.9x15.6公分",
+    "descMaterial": "紙質刊本",
+    "reserveStatusDesc": "二十六卷。此書為戰國末年秦國丞相呂不韋撰，其內容涵括儒、法、道、墨等雜家著作思想。《四庫全書總目》云：「不韋固小人，而是書較諸子之言獨為醇正。大抵以儒為主，而參以道家、墨家。故多引六籍之文典與孔子、曾子之言，……而縱橫之術、刑名之說，一無及焉，其持論頗為不苟」。內文旁及書眉處有清惠士奇、惠棟、沈大成朱墨筆批校。\n\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "無虫蛀。經修裱，內文有部分漫漶情形，保存情況良好。\n",
+    "documents": [
+        {
+            "fileid": 6281,
+            "name": "1a998b89-0bff-4b32-88f9-2fba27ed094c.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44182/file/1a998b89-0bff-4b32-88f9-2fba27ed094c.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3731,
+            "caseId": 3589,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3731,
+            "caseId": 3589,
+            "caseStatus": true,
+            "registerDate": 1376323200000,
+            "officialDocNo": "文資局物字第 10220091271號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

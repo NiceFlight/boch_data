@@ -1,0 +1,94 @@
+{
+    "id": 1860,
+    "caseId": "20021205000010",
+    "count": 1878,
+    "shareCount": 5,
+    "representImage": 125334,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-20/43b8fd2d-5339-4637-8399-a7be26a9450b/歷建50-東河舊橋(吉田橋)-永保_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-20/43b8fd2d-5339-4637-8399-a7be26a9450b/歷建50-東河舊橋(吉田橋)-永保.jpg",
+        "name": "歷建50-東河舊橋(吉田橋)-永保"
+    },
+    "caseName": "東河舊橋(吉田橋)",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "東河舊橋位於臺東縣成功鎮與東河鄉交界之馬武窟溪上，最早修建於1921年（大正10年），是寬3尺（0.9公尺），長444公尺（134.5公尺）之狹長吊橋。1925年時該橋被暴風吹毀墜落，於是自該年12月起動工重建，1926年7月完工。新建之橋寬9尺5吋（2.86公尺），長420尺（127.3公尺），橋身材料全為檜木，橋體本身的重量達67噸，橋之北側塔高60尺（18.2公尺），南側塔高40尺（12公尺），由8對長達555尺（168.2公尺）的鐵索將橋身懸吊起來，橋上可以承受百噸以上的重量。當時由臺東廳土木課技師吉田設計監造，完工後命名為吉田橋。\n該橋雄偉的姿態配合絕佳的景緻，迅速成為臺東的著名景觀。臺灣光復後改稱東河橋，1952年（民國41年）改建為鋼筋水泥橋，1953年完工。1992年為因應臺11線拓寬，另行興建新東河橋，東河舊橋轉為替代道路。2002年東河鄉公所考慮東河舊橋年代久遠，不堪負荷，決定封橋，僅供行人使用。稍後又在橋面上安裝木板，並美化橋身，專供觀光休憩使用。交通部觀光局東海岸國家風景區管理處，並在橋北設置東河橋休憩區，以利遊客駐足。\n",
+    "assetsTypeNames": "橋樑",
+    "otherAssetsType": "其他歷史遺蹟",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1039054997000,
+    "officialDocNo": "府文資字第 0910114574 號",
+    "documents": [
+        {
+            "fileid": 115323,
+            "name": "50臺東縣歷史建築公告文-東河舊橋.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-28/3dc4bb3e-5c3d-408a-86de-a585e1f612d2/50臺東縣歷史建築公告文-東河舊橋.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "1.造型與結構特殊。\n2.東海岸公路日治時代所建尚存最長之橋。",
+    "lawsReference": "1.文化資產保存法第27條之一\n2.歷史建築登錄及輔助辦法\n3.臺東縣91年11月15日歷史建築登錄審查會議決議辦理\n",
+    "govInstitutionCode": "950",
+    "govInstitutionName": "臺東縣政府",
+    "belongCityId": 22,
+    "belongCityName": "臺東縣",
+    "belongDistName": "東河鄉",
+    "govInstitution": "臺東縣政府",
+    "govDeptName": "文化處文化資產科",
+    "govDeptPhone": "089-350129",
+    "govDeptAddress": "臺東市南京路25號",
+    "cadasters": [],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "東河舊橋",
+    "buildingFeatures": "",
+    "inHouseFeatures": "無室內",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "wenSitename": "",
+    "belongAddress": "東河村和成功鎮信義里小馬交界處",
+    "isOpenVisit": true,
+    "openUpTime": "全年",
+    "isCharge": false,
+    "isOpenDownload": true,
+    "longitude": 121.304927,
+    "latitude": 22.976036,
+    "representImageSource": "109-110年度臺東縣文化資產個案資料同步更新維護計畫",
+    "landScope": "臺東縣成功鎮小馬東段1440，\n臺東縣東河鄉東河段903、902地號\n",
+    "selfCoverage": "臺東縣成功鎮小馬東段1440，\n臺東縣東河鄉東河段903、902地號\n",
+    "addresses": [
+        {
+            "cityName": "臺東縣",
+            "distName": "東河鄉",
+            "id": 68866,
+            "caseId": 1860,
+            "caseStatus": true,
+            "cityId": 22,
+            "distId": 2210,
+            "address": "東河村"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 72987,
+            "caseId": 1860,
+            "caseStatus": true,
+            "registerDate": 1039054997000,
+            "officialDocNo": "府文資字第 0910114574 號",
+            "classificationId": 1
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

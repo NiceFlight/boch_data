@@ -1,0 +1,95 @@
+{
+    "id": 22982,
+    "caseId": "20240913000002",
+    "count": 18,
+    "shareCount": 0,
+    "representImage": 262179,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-09-13/fc544ecd-c346-4ae7-ad61-f022a826332e/PK1B017753N000000000PAB_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-09-13/fc544ecd-c346-4ae7-ad61-f022a826332e/PK1B017753N000000000PAB.jpg",
+        "name": "PK1B017753N000000000PAB"
+    },
+    "caseName": "清 雍正 琺瑯彩青山水把壺",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "具有重要藝術造詣或科學成就",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "此件青山水把壺短圓身、曲把、管形流，帶平頂寶珠形蓋。壺腹部兩面開光，各畫不同的藍料山水圖畫。生產於宮中造辦處的琺瑯彩瓷，是盛清代表工藝之一。製作精美，傳世數量稀少，紋飾、題材縱有成對，亦無一相同，乾隆朝時便曾降旨分批珍藏。\n雍正朝是琺瑯彩瓷發展的關鍵階段，此器品質精美，繪製細膩，紋樣結合詩書畫印，有墨書題「樹接南山近」、「煙含北渚遙」，下描紅「山高」、「水長」印。百花地青山水把壺充分展現雍正皇帝內廷恭造之式，傳世僅有此件，且見於道光十五年(1835)乾清宮《琺瑯玻璃宜興磁胎陳設檔案》，益顯珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、4、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故瓷017753",
+    "amount": 1,
+    "descAge": "清 雍正",
+    "descSize": "通高9.2口徑7.5 足徑7.3",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "此件青山水把壺短圓身、曲把、管形流、臥足。平頂寶珠形蓋，鈕側設一氣孔。壺腹部兩面開光，各畫不同的藍料山水圖畫。一面有墨書題「樹接南山近」，下描紅「山高」一印；另一面題「煙含北渚遙」，下亦有紅料描繪「水長」一印。隙地及蓋面彩繪百花紋飾。胎薄透光，質地細膩，山水畫工精美，釉彩富麗脫俗。壺底藍料書「雍正年製」二行四字仿宋體款字，外加雙方框。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": " ",
+    "documents": [
+        {
+            "fileid": 262178,
+            "name": "11330087931號公告用印後PDF.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-09-13/f1ec0aff-730e-4d49-97fb-639ad4568bd8/11330087931號公告用印後PDF.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 135909,
+            "caseId": 22982,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 148387,
+            "caseId": 22982,
+            "caseStatus": true,
+            "registerDate": 1725343519523,
+            "officialDocNo": "文授資局物字第11330087931號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

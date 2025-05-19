@@ -1,0 +1,107 @@
+{
+    "id": 3117,
+    "caseId": "20141105000021",
+    "count": 328,
+    "shareCount": 0,
+    "representImage": 5550,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/5083/photo/臺灣府學重修夫子廟並祭器樂器記碑_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/5083/photo/臺灣府學重修夫子廟並祭器樂器記碑.png",
+        "name": "臺灣府學重修夫子廟並祭器樂器記碑"
+    },
+    "caseName": "臺灣府學重修夫子廟並祭器樂器記碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-其他",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1415116800000,
+    "officialDocNo": "府文資處字第1031018187B號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源"
+    ],
+    "registerReason": "本件碑記為臺澎兵備道劉鴻翱重修臺灣府學的紀錄，此次修建始於清道光十五年(西元1836年)六月，次年三月竣工。劉氏並修祭器、樂器，悉遵古制，更請樂工教童生佾舞、雅樂。爾後，釋奠完備，春秋二祀肅清雍和，海隅更具鄒魯闕里之風。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第2條第1項第1、2款。",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "中西區",
+    "govInstitution": "臺南市文化資產管理處",
+    "govDeptName": "文化資產研究組",
+    "govDeptPhone": "06-2213597",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "reservationCode": "-",
+    "amount": 1,
+    "notes": "",
+    "descAge": "道光十六年(西元1836年）",
+    "descCreator": "劉鴻翱 撰文",
+    "descSize": "高244公分、寬86公分",
+    "descMaterial": "花崗石",
+    "reserveStatusDesc": "1.年代：道光十六年(西元1836年）\n2.作者：劉鴻翱 撰文\n3.材質：花崗石\n4.尺寸：高244公分、寬86公分     \n5.技法：石刻\n6.重量：無法測量\n7.數量：1組1件\n8.其他特徵：碑頭有雙龍搶珠浮雕，火焰龍珠下有「皇清」二字。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "道光十六年(西元1836年）劉鴻翱立",
+    "saveEnvironment": 3,
+    "reserveStatus": "有損傷但狀況穩定 ",
+    "documents": [
+        {
+            "fileid": 109868,
+            "name": "一般古物登錄清冊103.11.6.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-12/bb6e84e1-14bd-410f-a73d-66023b93f89b/一般古物登錄清冊103.11.6.pdf"
+        },
+        {
+            "fileid": 142171,
+            "name": "孔廟古物公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-01/c9a242c3-8cb2-4f5e-a8bc-ad34ef913e67/孔廟古物公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 22.990697864018713,
+    "latitude": 120.20424391283163,
+    "representImageSource": "台南市政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "財團法人臺南市孔廟文化基金會",
+            "keepName": "財團法人臺南市孔廟文化基金會",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺南市中西區 南門路2號(臺南市孔廟)",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "id": 107111,
+            "caseId": 3117,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601
+        }
+    ],
+    "announces": [
+        {
+            "id": 114986,
+            "caseId": 3117,
+            "caseStatus": true,
+            "registerDate": 1415116800000,
+            "officialDocNo": "府文資處字第1031018187B號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

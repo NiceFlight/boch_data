@@ -1,0 +1,107 @@
+{
+    "id": 4214,
+    "caseId": "20090630000005",
+    "count": 195,
+    "shareCount": 0,
+    "representImage": 7134,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36631/photo/288bac37-4d37-4fc0-9233-88da0960e959_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36631/photo/288bac37-4d37-4fc0-9233-88da0960e959.jpg",
+        "name": "288bac37-4d37-4fc0-9233-88da0960e959"
+    },
+    "caseName": "帶蓋白陶罐",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1246291200000,
+    "officialDocNo": "會授資籌二字第0982108065號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "商代出土的白陶器甚為少見，完整的更少，且出土於殷墟第一期或第二期的大、中型墓中。本件出土於小屯331號墓，外形似罍，但形體較小，有圓蓋，蓋上有蕈狀紐，飾渦紋，蓋面飾一蟠龍，頸飾三道凸弦紋，肩飾目雷紋，肩下飾一周獸面紋，腹飾曲折雲雷紋。本件蓋內和圈足內側，各陰刻「五」字，具有重要歷史、文化價值。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第3條第1項第1、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "南港區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "R000167",
+    "keepNameId": 5,
+    "keepName": "中央研究院歷史語言研究所",
+    "keepNameNew": 5,
+    "keepAddressNew": "115台北市南港區研究院路二段130號",
+    "saveSpaceId": 11,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "商（後期）",
+    "descCreator": "",
+    "descSize": "通蓋高23.2公分、徑10.6公分",
+    "descMaterial": "白陶",
+    "reserveStatusDesc": "出土於商代的白陶器甚為少見，完整的更少，多數都出土於殷虛第一期或第二期的大、中型墓中。本件外形似罍，但形體較小，有圓蓋，蓋上有蕈狀紐。器身主體花紋為褶曲紋，紋上再填以雲雷紋。紐有渦紋，蓋為蟠龍紋。蓋內及圈足內各有銘文「五」一字。\n",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "1937年；河南安陽小屯墓331出土",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 （破片粘成。）",
+    "documents": [
+        {
+            "fileid": 54002,
+            "name": "20090630公告.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-01-10/fa5f1de1-7152-4389-bd56-9504197a8c2a/20090630公告.jpg"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "中央研究院歷史語言研究所",
+    "keepNames": [
+        {
+            "keepNameIdStr": "中央研究院歷史語言研究所",
+            "keepName": "中央研究院歷史語言研究所",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "中央研究院歷史語言研究所",
+            "keepAddressNew": "115台北市南港區研究院路二段130號",
+            "saveSpaceIdStr": "研究設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "南港區",
+            "keepNameAddress": "研究院路二段130號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "南港區",
+            "id": 4356,
+            "caseId": 4214,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 111
+        }
+    ],
+    "announces": [
+        {
+            "id": 4356,
+            "caseId": 4214,
+            "caseStatus": true,
+            "registerDate": 1246291200000,
+            "officialDocNo": "會授資籌二字第0982108065號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

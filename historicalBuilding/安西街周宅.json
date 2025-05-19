@@ -1,0 +1,115 @@
+{
+    "id": 967,
+    "caseId": "20080808000001",
+    "count": 3255,
+    "shareCount": 4,
+    "representImage": 186193,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/b20e42fe-0c7c-4264-af69-0c161c8273d5/代表圖像_安西街周宅_20220718_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/b20e42fe-0c7c-4264-af69-0c161c8273d5/代表圖像_安西街周宅_20220718.jpeg",
+        "name": "代表圖像_安西街周宅_20220718"
+    },
+    "caseName": "安西街周宅",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "由地政資料得知該建物登錄於大正11年，但以建築物的樣式推測該建物創建年代可能更早。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 118727,
+            "name": "3._970808登錄歷史建築公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/1fe54db1-5a4b-4d4a-bc6f-bdc41c78d3b7/3._970808登錄歷史建築公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1.建築立面及外觀仍大致維持原貌，正立面為一門二窗之形式，全係紅磚斗砌，比例優美，開口大小尺寸合宜，反映清代典型的無亭仔腳之店屋模式。\r\n2、在大稻埕朝南的店屋，正面無騎樓（亭仔腳），進深較淺，為少見的形式，具保存價值。",
+    "lawsReference": "符合歷史建築紀念建築登錄廢止審查及輔助辦法第2條第1項第3款、第4款登錄評定基準。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 118731,
+            "name": "downloadfile.png",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/796df975-6df7-4b1e-a94a-4022a88142f1/downloadfile.png"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "特定專用區（二）（供ㄧ般商業使用）",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市大同區延平段三小段97地號",
+    "buildingFeatures": "為大稻埕朝南的店屋，正立面為一門二窗之形式，全係紅磚斗砌，正面無騎樓（亭仔腳），進深較淺，為少見的形式建築，反映清代典型的無亭仔腳之店屋模式。其立面及外觀仍大致維持原貌，屋頂太子窗尚存，內部格局仍可辨識，惟隔間已經拆除。",
+    "inHouseFeatures": "",
+    "buildingUsage": "住宅使用",
+    "buildingActualState": "為大稻埕朝南的店屋，正立面為一門二窗之形式，全係紅磚斗砌，正面無騎樓（亭仔腳），進深較淺，為少見的形式建築，反映清代典型的無亭仔腳之店屋模式。其立面及外觀仍大致維持原貌，屋頂太子窗尚存，內部格局仍可辨識，惟隔間已經拆除。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.510279,
+    "latitude": 25.0592018,
+    "representImageSource": "臺北市文化局",
+    "landScope": "本基地屬臺北市大同區「大稻埕歷史風貌特定專用區細部計畫」範圍內之歷史街區範圍內。",
+    "selfCoverage": "以實際保存面積為準",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 95044,
+            "caseId": 967,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "安西街1巷5號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 117431,
+            "caseId": 967,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 189,
+            "landSerialNo": "97",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "60",
+            "cityLandUseTypeOther": "特定專用區（二）（供一般商業使用）",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 102542,
+            "caseId": 967,
+            "caseStatus": true,
+            "registerDate": 1218124800000,
+            "officialDocNo": "北市文化二字第09730183500號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "政府機關"
+}

@@ -1,0 +1,104 @@
+{
+    "id": 16311,
+    "caseId": "20181031000004",
+    "count": 404,
+    "shareCount": 0,
+    "representImage": 51096,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-10-31/0b182b90-49b8-4085-903f-215a286da9c7/10-034IMG_8659_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-10-31/0b182b90-49b8-4085-903f-215a286da9c7/10-034IMG_8659.jpg",
+        "name": "10-034IMG_8659"
+    },
+    "caseName": "馬公城隍廟-石香爐",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1535964416526,
+    "officialDocNo": "府授文博字第1073702662號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就",
+        "對地方或族群知識、技術或流派發展具影響或意義"
+    ],
+    "registerReason": "（1）具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：表現傳統地方文化特色。\n（2）能反映政治、經濟、社會、人文、科學等歷史變遷或時代特色者：具歷史性。\n（3）具有藝術造詣或科學成就：製作工法細膩，形制與雕飾完整、厚重，具藝術價值。\n（4）對地方或族群知識、技術或流派發展具影響或意義：具地方石雕工藝技術意義。 ",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、3、4、6款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00679-P-M015-034",
+    "amount": 1,
+    "notes": "1933（昭和8）年，地方仕紳花費一萬二千圓重建成今日廟貌基礎，本件為該次重建時之文物。",
+    "descAge": "1936年",
+    "descSize": "高39公分/寬70公分/深35公分",
+    "descMaterial": "石",
+    "reserveStatusDesc": "長八角石香爐，平直口，束頸，折肩直斜腹，下座有八足，足間飾牙子，兩側有耳為攀於口沿之螭龍。正面口沿處陰刻題字「靈應侯」，左款「丙子年吉旦敬謝」，右為「東甲弟子陳餘三」，正面三面如意開光，中浮雕奔足回首麒麟紋，左右為花朵圖案，背面無飾。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "時間：1936年     捐贈者：東甲弟子陳餘三",
+    "saveEnvironment": 2,
+    "reserveStatus": "置於正殿神案之下",
+    "documents": [
+        {
+            "fileid": 51095,
+            "name": "馬公城隍廟-石香爐.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-10-31/70f4dd7b-6cbb-438a-ae19-3eef59f76d9f/馬公城隍廟-石香爐.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.566317,
+    "latitude": 23.566223,
+    "representImageSource": "澎湖縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "馬公城隍廟",
+            "keepName": "顏敏雄",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "馬公城隍廟",
+            "keepAddressNew": "澎湖縣馬公市重慶里光明路20 號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "澎湖縣",
+            "keepNameDistName": "馬公市",
+            "keepNameAddress": "重慶里光明路8鄰20號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 26912,
+            "caseId": 16311,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "重慶里光明路20 號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 27143,
+            "caseId": 16311,
+            "caseStatus": true,
+            "registerDate": 1535964416526,
+            "officialDocNo": "府授文博字第1073702662號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

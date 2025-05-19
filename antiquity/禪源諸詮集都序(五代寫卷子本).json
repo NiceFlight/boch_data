@@ -1,0 +1,106 @@
+{
+    "id": 3626,
+    "caseId": "20130813000081",
+    "count": 118,
+    "shareCount": 0,
+    "representImage": 6352,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7335/photo/景德傳燈錄(元刊本)_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7335/photo/景德傳燈錄(元刊本).png",
+        "name": "景德傳燈錄(元刊本)"
+    },
+    "caseName": "禪源諸詮集都序(五代寫卷子本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1376323200000,
+    "officialDocNo": "文資局物字第 10220091271號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "五代後周廣順二年(952)傳鈔釋智清寫卷子本。\r\n凡上下二卷，此本存卷下。《禪源諸詮集》收錄禪宗諸家之語句偈頌凡百卷，後佚失，現僅流傳其「都序」。 \r\n卷尾題作「禪源諸詮集都序下」，隨後鈔錄「圭峯大師(釋宗密)所纂集著經律論疏鈔集注解文義及圖等件」，計著錄其著作有《圓覺大疏三卷》等三十五種，為現存最完備之宗密著作清單。\r\n敦煌遺書寫卷，為研究當時文化歷史不可缺少之代表性證物，罕見稀有，具特殊歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第4條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號08916",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "五代後周廣順二年(952)",
+    "descCreator": "唐釋宗密述",
+    "descSize": "捲軸裝；存9紙，每紙行數不定，全幅30x42.8公分",
+    "descMaterial": "紙質",
+    "reserveStatusDesc": "存一卷(卷下)；寫本。\n凡上下二卷，此本存卷下。《禪源諸詮集》收錄禪宗諸家之語句偈頌凡百卷，後佚失，現僅流傳其「都序」。 \n卷尾題作「禪源諸詮集都序下」，隨後鈔錄「圭峯大師(釋宗密)所纂集著經律論疏鈔集注解文義及圖等件」，計著錄其著作有《圓覺大疏三卷》等三十五種，為現存最完備之宗密著作清單。\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "前端輕微破損，無虫蛀，有污漬。未修裱，書況尚稱良好。\n",
+    "documents": [
+        {
+            "fileid": 6353,
+            "name": "2afca0da-77b5-4e8d-ad72-50d11a96376f.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43955/file/2afca0da-77b5-4e8d-ad72-50d11a96376f.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3768,
+            "caseId": 3626,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3768,
+            "caseId": 3626,
+            "caseStatus": true,
+            "registerDate": 1376323200000,
+            "officialDocNo": "文資局物字第 10220091271號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

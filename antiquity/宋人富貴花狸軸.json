@@ -1,0 +1,107 @@
+{
+    "id": 4007,
+    "caseId": "20120326000062",
+    "count": 429,
+    "shareCount": 1,
+    "representImage": 6874,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32993/photo/0af5614c-cb6b-4333-ae2a-ecb60832b922_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32993/photo/0af5614c-cb6b-4333-ae2a-ecb60832b922.JPG",
+        "name": "0af5614c-cb6b-4333-ae2a-ecb60832b922"
+    },
+    "caseName": "宋人富貴花狸軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊藝術造詣或科學成就"
+    ],
+    "registerReason": "本幅無作者款印。畫幅左下角有宋理宗（1255-1264）「緝熙殿寶」印，右下角有明初內府「司印」半印。此軸畫風工整，雙鈎畫花葉，用筆細謹，設色精雅，形神俱全，乃出自於北宋後期畫院畫家之手，為北宋花鳥畫的重要代表畫作。具有特殊之時代特色、技術及流派，具有重要藝術造詣成就。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第四條第一項第三、四款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000862",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descSize": "141 × 107.5 公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "花蔭底下貓兒身體微拱，明亮眼睛直瞪著宮苑裏盛開的牡丹。牡丹花形巨大，居畫中央，枝葉鮮麗，葉片花瓣組合妥切，兼顧前後、正反轉折。「花貍」指有花色斑紋的貓，貓諧音「耄」，泛指七十以上老年人；牡丹為富貴花王，具有「長壽富貴」之寓意。畫家以工筆寫生技法描寫貍貓神態與毛髮質感，結合富麗堂皇的花卉，此類題材頗符合宮廷貴族的精緻品味。本幅無作者款印。畫幅左下角有宋理宗（1255-1264）「緝熙殿寶」印，右下角有明初內府「司印」半印。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 151734,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-26/99aace90-af16-49dc-bebe-e372cba24076/公告表.pdf"
+        },
+        {
+            "fileid": 151735,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-26/042d1ab4-1070-404e-adb7-c37db7498fd9/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71480,
+            "caseId": 4007,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75933,
+            "caseId": 4007,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

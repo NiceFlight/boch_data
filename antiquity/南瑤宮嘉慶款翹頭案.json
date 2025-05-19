@@ -1,0 +1,97 @@
+{
+    "id": 20706,
+    "caseId": "20220929000001",
+    "count": 233,
+    "shareCount": 0,
+    "representImage": 185051,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-09-23/0ce79368-fa3e-4651-9bad-fdbb31d66eb9/案1-南瑤宮嘉慶款翹頭案_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-09-23/0ce79368-fa3e-4651-9bad-fdbb31d66eb9/案1-南瑤宮嘉慶款翹頭案.jpg",
+        "name": "案1-南瑤宮嘉慶款翹頭案"
+    },
+    "caseName": "南瑤宮嘉慶款翹頭案",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者"
+    ],
+    "registerReason": "1.具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：桌面兩側做翹頭狀，具有明確年款，保存當時漢式家具製作案桌傳統技術。\n2.具有地方重要人物或歷史事件之深厚淵源者：贊助人「西門口磚仔磘何開基 贈」字樣，以木片嵌入。南瑤宮的老大媽會成立於嘉慶 21 年（西元1816年），其中第七角角頭有西門口、第八角有磚仔磘。從年代與地點來看，與老大媽會成立時間關係密切，具歷史價值。",
+    "lawsReference": "<<文化資產保存法>>第67條暨<<古物分級指定及廢止審查辦法>>第2條第1、2款",
+    "govInstitutionCode": "500",
+    "govInstitutionName": "彰化縣政府",
+    "govInstitution": "彰化縣政府",
+    "govDeptName": "彰化縣文化局",
+    "govDeptPhone": "04-7510709",
+    "govDeptAddress": "500彰化縣彰化市平和七街66號",
+    "reservationCode": "府授文戲字第 1110216915A 號",
+    "amount": 1,
+    "descAge": "嘉慶 21 年（西元1816年）",
+    "descSize": "長276 公分、寬 68.5 公分、高128公分",
+    "descMaterial": "木",
+    "reserveStatusDesc": "橫長方形，通體深褐色，桌面由三片木板拼接，桌面兩側書卷，四足。兩側平 肩榫、捲螺紋，邊角陰刻己字紋。兩側亞字形檔板，正面無檔板、牙子。足下無托子，以磚頭墊高。正面桌板左側有陰刻年款「嘉慶弍拾壹年」，右側陰刻有贊助人「西門口磚仔磘何開 基贈」黃字，以木片嵌入。桌面墊玻璃片。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "嘉慶 21 年（西元1816年）捐贈者：何開基",
+    "saveEnvironment": 2,
+    "reserveStatus": "狀況穩定，四隻桌腳被鋸短",
+    "documents": [
+        {
+            "fileid": 211219,
+            "name": "南瑤宮嘉慶款翹頭案1110620.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-04-12/87f917b3-5155-4942-91a1-07ff5d454b1c/南瑤宮嘉慶款翹頭案1110620.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.53856676185,
+    "latitude": 24.0676783000564,
+    "representImageSource": "彰化縣文化局 ",
+    "keepNames": [
+        {
+            "keepNameIdStr": "彰化縣彰化市公所",
+            "keepName": "彰化縣彰化市公所",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "南瑤宮",
+            "keepAddressNew": "彰化縣彰化市南瑤路43號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "彰化縣",
+            "keepNameDistName": "彰化市",
+            "keepNameAddress": "南瑶路43號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "彰化縣",
+            "distName": "彰化市",
+            "id": 148833,
+            "caseId": 20706,
+            "caseStatus": true,
+            "cityId": 11,
+            "distId": 1101,
+            "address": "南瑤里南瑤路43號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 161841,
+            "caseId": 20706,
+            "caseStatus": true,
+            "registerDate": 1655690697233,
+            "officialDocNo": "府授文戲字第 1110216915A 號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

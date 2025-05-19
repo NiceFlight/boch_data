@@ -1,0 +1,99 @@
+{
+    "id": 4318,
+    "caseId": "20120716000001",
+    "count": 2021,
+    "shareCount": 2,
+    "representImage": 55461,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-02-15/dd0918e1-4a1b-4f72-b152-fb6d3394e3cb/中堂_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-02-15/dd0918e1-4a1b-4f72-b152-fb6d3394e3cb/中堂.jpg",
+        "name": "中堂"
+    },
+    "caseName": "刑期無刑匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1342368000000,
+    "officialDocNo": "文資物字第10120077942號",
+    "judgeCriteria": [
+        "具有史事重要淵源",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "「刑期無刑」匾與台灣重要的歷史事件「戴潮春（戴萬生）事件」有關，係同治3年(西元1864年)福建臺澎兵備道兼提督學政（丁曰健）於草屯攻破盤據北勢湳反清之洪欉，認為乃保生大帝暗中神助，故贈此匾予龍德廟，表示雖草屯人抗清，但政府不再追究，讓民眾感覺刑期無刑，以示皇恩浩蕩。此匾以臺灣發展史而言具有意義，可資作為臺灣歷史與社會發展的證據，是重要歷史事件之證物，且匾額上款字數眾多，在台灣甚為少見，非常特殊，具有重要歷史價值。",
+    "lawsReference": "1.《文化資產保存法》第六十六條。\r\n2.〈古物分級登錄指定及廢止審查辦法〉第三條第一項第二、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 12,
+    "belongCityName": "南投縣",
+    "belongDistName": "草屯鎮",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "無",
+    "amount": 1,
+    "notes": "",
+    "descAge": "西元1864年",
+    "descSize": "長約192公分、寬約66公分、厚約4公分",
+    "descMaterial": "木質",
+    "reserveStatusDesc": "現安置於龍德廟管理委員會辦公室內，保存狀況尚佳。\r\n此匾係木質長方形匾額採陰雕技法，與台灣重要的歷史事件有關，且匾額上款字數眾多，在台灣甚為少見，非常特殊。\r\n上款：同治三年秋九月曰健奉天子命統軍剿北勢湳巨逆親冒矢石備極危險屢荷神靈顯佑搗穴擒渠施生戮死従此莠艸除而嘉禾斯植尚望神威永著使有儆畏而免於刑則曰健與茲土人士並受無疆之福矣\r\n中堂：刑期無刑\r\n下款：欽加二品頂戴台澎督學使者皖江丁曰健敬立\r\n匾額中央有滿漢文合璧之臺灣兵備道關防",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "丁曰健；同治3年(西元1864年)",
+    "saveEnvironment": 2,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 55462,
+            "name": "公告(用印).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-02-15/edea5e41-e03c-480e-963f-b6feb26c1295/公告(用印).pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "南投縣月眉厝龍德廟",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "月眉厝龍德廟",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "南投縣草屯鎮碧山路1158號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "南投縣",
+            "distName": "草屯鎮",
+            "id": 128626,
+            "caseId": 4318,
+            "caseStatus": true,
+            "cityId": 12,
+            "distId": 1203
+        }
+    ],
+    "announces": [
+        {
+            "id": 139807,
+            "caseId": 4318,
+            "caseStatus": true,
+            "registerDate": 1342368000000,
+            "officialDocNo": "文資物字第10120077942號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

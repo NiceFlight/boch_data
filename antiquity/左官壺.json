@@ -1,0 +1,85 @@
+{
+    "id": 3884,
+    "caseId": "20120613000001",
+    "count": 260,
+    "shareCount": 0,
+    "representImage": 6692,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32870/photo/fd6fc6ee-a333-44df-85b1-48640fbb36df_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32870/photo/fd6fc6ee-a333-44df-85b1-48640fbb36df.JPG",
+        "name": "fd6fc6ee-a333-44df-85b1-48640fbb36df"
+    },
+    "caseName": "左官壺",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1339516800000,
+    "officialDocNo": "文授字第10120135331號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "圓形大腹壺，兩獸面銜環耳，器腹花紋為鏽掩，未經剔除，是生坑現象。1928年洛陽金村出土。根據頸上13字銘文：「廿九年十二月為東周左  (官)□(飲)壺」，此器為東周顯王29年(公元前340年)左師作，是東周極少數遺存的銅禮器。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "reservationCode": "",
+    "keepNameId": 1,
+    "keepName": "",
+    "keepNameNew": 17,
+    "keepAddressNew": "臺北市士林區至善路二段221號",
+    "amount": 1,
+    "notes": "",
+    "reserveStatusDesc": "腹徑24cm、口徑12.3cm、高37.8cm。\r\n材質：銅。\r\n花紋為鏽所掩，兩獸面銜環，頸上有銘文13字。",
+    "reserveStatus": "完整良好 ",
+    "documents": [],
+    "isOpenDownload": false,
+    "representImageSource": "",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 4026,
+            "caseId": 3884,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108
+        }
+    ],
+    "announces": [
+        {
+            "id": 4026,
+            "caseId": 3884,
+            "caseStatus": true,
+            "registerDate": 1339516800000,
+            "officialDocNo": "文授字第10120135331號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,107 @@
+{
+    "id": 3966,
+    "caseId": "20120326000021",
+    "count": 233,
+    "shareCount": 0,
+    "representImage": 6794,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32952/photo/e2f9faa4-5d40-4b93-aee7-d2237d7e550c_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32952/photo/e2f9faa4-5d40-4b93-aee7-d2237d7e550c.JPG",
+        "name": "e2f9faa4-5d40-4b93-aee7-d2237d7e550c"
+    },
+    "caseName": "清王時敏仿王維江山雪霽軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "王時敏自幼受學於董其昌，受董氏南北宗論影響深遠，自然對南宗始祖王維傾心嚮往。此軸乃王氏晚年鉅作，一改董其昌畫中王維雪圖中平遠開展的江南景致，轉化成巨岩竦峙，氣勢磅礡的北方山水之樣貌，展現王時敏自身對傳統再造的個人選擇。具有重要之時代與流派特色、藝術價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第三、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000683",
+    "amount": 1,
+    "notes": "",
+    "descAge": "清",
+    "descCreator": "王時敏",
+    "descSize": "133.7 x 60（公分）",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "王時敏（西元一五九二至一六八０），江蘇太倉人。字遜之，號煙客，又號西廬老人、西田主人、偶諧道人、歸村老農。性資穎異，淹雅博物，為清四王之首。跋中自云：曾見王維江山雪霽圖，及江干雪意長卷。其後屏跡村居，追憶其意以為此圖。作時七十七歲。通幅構景用筆皆甚穩厚，色用重綠，於雪景中其法甚古。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。",
+    "documents": [
+        {
+            "fileid": 151278,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-25/f77c995b-09e9-4ddb-9233-7032c9646b1f/公告表.pdf"
+        },
+        {
+            "fileid": 151279,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-25/18cf976c-2ac4-4bed-ab5d-5a0925300f43/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71401,
+            "caseId": 3966,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75831,
+            "caseId": 3966,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

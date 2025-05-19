@@ -1,0 +1,160 @@
+{
+    "id": 293,
+    "caseId": "20050406000002",
+    "count": 2697,
+    "shareCount": 2,
+    "representImage": 127135,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-29/5ecdf488-86c2-431e-b94d-588d856edd58/利生醫院代表圖_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-29/5ecdf488-86c2-431e-b94d-588d856edd58/利生醫院代表圖.jpg",
+        "name": "利生醫院代表圖"
+    },
+    "caseName": "五結鄉利生醫院",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "林姓祖先在西元1835年從中國漳州來，是從利澤簡這裡上岸，祖父曾務農，後來去唸總督府醫術專門學校，大正三年畢業後，回到利澤簡派出所後面開業，大正13、14年蓋了診所(即利生醫院旁較矮的一間)，利生醫院是大正9年（西元1920年）蓋的，已有一百多年歷史，原為「利澤簡信用組合」，後於昭和十年(西元1935年)改建為現在二層樓建築，曾作為日治時期輕便車車站，後羅東火車站開通，利澤簡便沒落，輕便車站停止使用，此棟樓便為「五結鄉農業會」所利用，繼之為「五結鄉農會利澤簡分會」，利生醫院於民國六十二年將其買下，重修為現今的規模，在當時由利澤簡港進來，利生醫院是很明顯的地標。",
+    "assetsTypeNames": "醫院",
+    "otherAssetsType": "醫院",
+    "assetsClassifyCode": "1.1.3",
+    "assetsClassifyName": "縣(市)定古蹟",
+    "registerDate": 1112716800000,
+    "officialDocNo": "府文資字第0940001630號",
+    "documents": [
+        {
+            "fileid": 73168,
+            "name": "利生醫院及游氏家廟公告公文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-10-19/b57c735d-cc16-4776-b0bf-5745dde38eeb/利生醫院及游氏家廟公告公文.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "具建築史上之意義，有再利用之價值及潛力者"
+    ],
+    "registerReason": "建築型式優美，且創建年代久遠，為宜蘭地區重要醫療史見證，具歷史保存價值。",
+    "lawsReference": "文化資產保存法第十四條暨古蹟指定審查處理要點第八點",
+    "govInstitutionCode": "260",
+    "govInstitutionName": "宜蘭縣政府",
+    "belongCityId": 4,
+    "belongCityName": "宜蘭縣",
+    "belongDistName": "五結鄉",
+    "govInstitution": "宜蘭縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-9322440*652",
+    "govDeptAddress": "宜蘭縣五結鄉中正路二段6之8號",
+    "cadasters": [
+        {
+            "fileid": 163616,
+            "name": "M16五結鄉利生醫院地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-05-12/3530c1fe-db36-44e2-83c5-ed33ad8e8a9a/M16五結鄉利生醫院地籍圖.jpg"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 4,
+    "nonCityLandUseTypeName": "鄉村區",
+    "nonCityLandUseSubTypeId": 2,
+    "nonCityLandUseSubTypeName": "乙種建築",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "五結鄉利福段80、86、87、88號",
+    "buildingFeatures": "建築樣式屬折衷主義，山牆有著古典主義對稱式的立面，簡化的山牆、開窗、入口柱式線條簡單俐落，受到現代主義影響，醫院外牆為RC造，壁貼磁磚，樓版及屋頂為木構架。",
+    "inHouseFeatures": "",
+    "buildingUsage": "做為牙醫診所使用。",
+    "buildingActualState": "做為牙醫診所再利用。",
+    "buildingKeyMaintainItem": "定期管理維護，附生植物須清理。\n利生醫院未做過詳細的調查，可進行研究案。",
+    "bulkTransfer": 0,
+    "belongAddress": "利澤路66、68號",
+    "isOpenDownload": true,
+    "longitude": 121.8227456926301,
+    "latitude": 24.667631013518726,
+    "representImageSource": "宜蘭縣政府文化局",
+    "landScope": "",
+    "selfCoverage": "建物本體",
+    "addresses": [
+        {
+            "cityName": "宜蘭縣",
+            "distName": "五結鄉",
+            "id": 148372,
+            "caseId": 293,
+            "caseStatus": true,
+            "cityId": 4,
+            "distId": 409,
+            "address": "利澤路66、68號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "宜蘭縣",
+            "distName": "五結鄉",
+            "landNoName": "利福段",
+            "noncityLandUseTypeName": "鄉村區",
+            "id": 205088,
+            "caseId": 293,
+            "caseStatus": true,
+            "cityId": 4,
+            "distId": 409,
+            "landNoId": 6938,
+            "landSerialNo": "86",
+            "landownership": 2,
+            "noncityLandUseTypeId": 4,
+            "area": "378.74平方公尺",
+            "noncityLandUseTypeOther": "乙種建築用地",
+            "note": "",
+            "cityLandUseId": 2
+        },
+        {
+            "cityName": "宜蘭縣",
+            "distName": "五結鄉",
+            "landNoName": "利福段",
+            "noncityLandUseTypeName": "鄉村區",
+            "id": 205089,
+            "caseId": 293,
+            "caseStatus": true,
+            "cityId": 4,
+            "distId": 409,
+            "landNoId": 6938,
+            "landSerialNo": "87",
+            "landownership": 2,
+            "noncityLandUseTypeId": 4,
+            "area": "324.1平方公尺",
+            "noncityLandUseTypeOther": "乙種建築用地",
+            "note": "",
+            "cityLandUseId": 2
+        },
+        {
+            "cityName": "宜蘭縣",
+            "distName": "五結鄉",
+            "landNoName": "利福段",
+            "noncityLandUseTypeName": "鄉村區",
+            "id": 205090,
+            "caseId": 293,
+            "caseStatus": true,
+            "cityId": 4,
+            "distId": 409,
+            "landNoId": 6938,
+            "landSerialNo": "88",
+            "landownership": 2,
+            "noncityLandUseTypeId": 4,
+            "area": "349.23平方公尺",
+            "noncityLandUseTypeOther": "乙種建築用地",
+            "note": "",
+            "cityLandUseId": 2
+        }
+    ],
+    "announces": [
+        {
+            "id": 161260,
+            "caseId": 293,
+            "caseStatus": true,
+            "registerDate": 1112716800000,
+            "officialDocNo": "府文資字第0940001630號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.82292747504539,24.6677580097622],[121.82296883447614,24.667659731672625],[121.82266757361351,24.667558034939525],[121.82262659027398,24.667656437321604],[121.82280990583462,24.66771832285649],[121.82292747504539,24.6677580097622],[121.82292747504539,24.6677580097622]]]]},\"properties\":{\"envelope\":{\"left\":\"121.82262659027398\",\"top\":\"24.667558034939525\",\"right\":\"121.82296883447614\",\"bottom\":\"24.6677580097622\"},\"landLot\":\"宜蘭縣五結鄉利福段86\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.82268601219327,24.667513761560507],[121.82266757361351,24.667558034939525],[121.82296883447614,24.667659731672625],[121.82323848517267,24.667750755204004],[121.8232520562337,24.667704079272095],[121.82268601219327,24.667513761560507],[121.82268601219327,24.667513761560507]]]]},\"properties\":{\"envelope\":{\"left\":\"121.82266757361351\",\"top\":\"24.667513761560507\",\"right\":\"121.8232520562337\",\"bottom\":\"24.667750755204004\"},\"landLot\":\"宜蘭縣五結鄉利福段87\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.82270624121786,24.667465207412],[121.82268601219327,24.667513761560507],[121.8232520562337,24.667704079272095],[121.82326670021138,24.66765371339841],[121.82301981883236,24.66757068369536],[121.82270624121786,24.667465207412],[121.82270624121786,24.667465207412]]]]},\"properties\":{\"envelope\":{\"left\":\"121.82268601219327\",\"top\":\"24.667465207412\",\"right\":\"121.82326670021138\",\"bottom\":\"24.667704079272095\"},\"landLot\":\"宜蘭縣五結鄉利福段88\"}}],\"notfound\":[]}]",
+    "openVisitType": "預約開放參觀",
+    "openUpTime": "利生牙醫診所營業時間。",
+    "isCharge": false,
+    "pastHistorySource": "宜蘭縣古蹟歷史調查表"
+}

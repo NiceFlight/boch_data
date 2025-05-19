@@ -1,0 +1,103 @@
+{
+    "id": 16312,
+    "caseId": "20181031000005",
+    "count": 442,
+    "shareCount": 0,
+    "representImage": 51098,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-10-31/1e093041-dea4-4bb2-935e-c78bb6abf000/10-032IMG_0609_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-10-31/1e093041-dea4-4bb2-935e-c78bb6abf000/10-032IMG_0609.jpg",
+        "name": "10-032IMG_0609"
+    },
+    "caseName": "馬公城隍廟-悔者遲匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1535965641735,
+    "officialDocNo": "府授文博字第1073702663號",
+    "judgeCriteria": [
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "（1）具有地方重要人物或歷史事件之深厚淵源者：具史事淵源。\n（2）能反映政治、經濟、社會、人文、科學等歷史變遷或時代特色者：具歷史價值。\n（3）具有藝術造詣或科學成就：語氣磅礡，形式完整，具藝術價值。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第2、3、4款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00679-P-M015-032",
+    "amount": 1,
+    "notes": "1885（光緒11）年，清法戰爭澎湖戰役爆發。戰後，通判程邦基進行重修，此匾為其所獻。",
+    "descAge": "1886年",
+    "descSize": "寬約200公分",
+    "descMaterial": "木",
+    "reserveStatusDesc": "橫長形木匾，匾面（三片）拼接，綠底墨綠框，底有顆粒狀，框之弦紋施金漆，最外框為褐色。中行覆竹題行楷「悔者遲」，筆畫多破鋒，上下款為劍帶形開光嵌板，紅底陽文，上款「光緒丙戌春月　吉旦」，下款「署通判事程邦基敬立」。字皆貼金。\n",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": " 時間：1886年       捐贈者：署通判事程邦基敬立",
+    "saveEnvironment": 2,
+    "reserveStatus": "狀況穩定，懸掛於三川殿中。",
+    "documents": [
+        {
+            "fileid": 51097,
+            "name": "馬公城隍廟-悔者遲匾.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-10-31/5a38e923-5552-46ef-a839-3468ccd347b3/馬公城隍廟-悔者遲匾.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.566317,
+    "latitude": 23.566223,
+    "representImageSource": "澎湖縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "馬公城隍廟",
+            "keepName": "顏敏雄",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "馬公城隍廟",
+            "keepAddressNew": "澎湖縣馬公市重慶里光明路20 號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "澎湖縣",
+            "keepNameDistName": "馬公市",
+            "keepNameAddress": "重慶里光明路8鄰20號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 26901,
+            "caseId": 16312,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "重慶里光明路20 號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 27132,
+            "caseId": 16312,
+            "caseStatus": true,
+            "registerDate": 1535965641735,
+            "officialDocNo": "府授文博字第1073702663號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,101 @@
+{
+    "id": 4544,
+    "caseId": "20170523000022",
+    "count": 419,
+    "shareCount": 0,
+    "representImage": 165626,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-05-26/abe833cb-221d-4a0d-aecb-b49481974f27/K2A000149N000000000PAA_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-05-26/abe833cb-221d-4a0d-aecb-b49481974f27/K2A000149N000000000PAA.jpg",
+        "name": "K2A000149N000000000PAA"
+    },
+    "caseName": "小寒林圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1495468800000,
+    "officialDocNo": "中華民國106年5月23日文授資局物字第1063005353號",
+    "judgeCriteria": [
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少"
+    ],
+    "registerReason": "本幅無名款，畫中描繪坡岸上有林木叢生，儼然是採李成平遠山水樣式。林木造型有蟹爪狀枝梢，坡岸石塊構成平遠構圖，與郭熙畫風似有聯繫。畫幅上有「宣文閣圖書印」、「司印」半印，可見歷經元明宮廷收藏。\r\n此作畫境蕭疏，寒意逼人，將北國一望無際之遼闊平原，秋冬之景，表露無遺，堪謂宋畫佳作。畫面絹質曾經過修補，部分筆墨或為後人所補，此為古畫常態，不影響整體山水特徵。小軸反映出李郭派山水的平遠構圖樣貌，為有別於郭熙〈早春圖〉的高遠景像之外的重要例證。\r\n李成、郭熙畫派影響及於宋、元，此作為李郭派存世典型作品之一，具藝術史重要價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第4條第1項第3、4、5款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000149",
+    "amount": 1,
+    "descAge": "宋",
+    "descSize": "42.2公分x 49.2公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "本幅正中畫林木聳立於坡岸上，畫面左下小徑有二人相談前行，一位挑擔僮僕跟隨在後，刻畫簡潔，卻生動傳神。此軸無畫家題款，畫中林木樹梢外張布列型態，與北宋李成、郭熙傳統畫風中被稱為蟹爪狀樹梢特色相近。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "本幅絹裂，剝落，污漬，霉傷，傷補。驚燕浮開。",
+    "documents": [
+        {
+            "fileid": 148201,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-21/501e0730-7baf-4937-af1f-21aed184c3c3/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 84081,
+            "caseId": 4544,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 90313,
+            "caseId": 4544,
+            "caseStatus": true,
+            "registerDate": 1495468800000,
+            "officialDocNo": "中華民國106年5月23日文授資局物字第1063005353號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,105 @@
+{
+    "id": 16134,
+    "caseId": "20180912000003",
+    "count": 589,
+    "shareCount": 0,
+    "representImage": 50001,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-09-12/371f29de-cb6a-4b86-b139-70d4561e3ce2/7 福興宮-五媽軟身神像_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-09-12/371f29de-cb6a-4b86-b139-70d4561e3ce2/7 福興宮-五媽軟身神像.jpg",
+        "name": "7 福興宮-五媽軟身神像"
+    },
+    "caseName": "福興宮-五媽軟身神像",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1473044183097,
+    "officialDocNo": "府授文資遺字第10501860573號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.在工法、造型深具時代特色，且為大里杙媽祖信仰緊密結合，具文化資產價值。\n2.頸部頂端雕成螺髻，後頸為垂髻，雙耳厚大，側看鼻部山根較高，上唇外突，造型古樸。\n3.椅座左右附鐵圈，可穿杆抬扛，供出巡繞境，不須另搭神轎，可見證古時農村樸實無華之媽祖保境安民文化。\n",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第1、2、3、4、5、6款",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "大里區",
+    "govInstitution": "臺中市文化資產處",
+    "govDeptName": "遺址傳藝課",
+    "govDeptPhone": "04-22290280#501",
+    "govDeptAddress": " 台中市南區復興路三段362號R10",
+    "reservationCode": "府授文資遺字第10501860573號",
+    "keepNameId": 68,
+    "keepName": "財團法人臺中市大里杙福興宮",
+    "keepNameNew": 68,
+    "keepAddressNew": "臺中市大里區福興街1號",
+    "saveSpaceId": 1,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "descAge": "清",
+    "descSize": "含椅高90公分，含椅寬49公分，含椅深44.5公分",
+    "descMaterial": "木",
+    "reserveStatusDesc": "完整良好",
+    "pastHistorySource": 6,
+    "saveEnvironment": 2,
+    "reserveStatus": "完整良好",
+    "documents": [
+        {
+            "fileid": 50002,
+            "name": "7 福興宮-五媽軟身神像(公告-掃描).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-09-12/2af4fb92-fc8b-41b0-b249-9d7788ce14a9/7 福興宮-五媽軟身神像(公告-掃描).pdf"
+        }
+    ],
+    "keepNames": [
+        {
+            "keepNameIdStr": "財團法人臺中市大里杙福興宮",
+            "keepName": "財團法人臺中市大里杙福興宮",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "財團法人臺中市大里杙福興宮",
+            "keepAddressNew": "臺中市大里區福興街1號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2,
+            "keepNameCityName": "臺中市",
+            "keepNameDistName": "大里區",
+            "keepNameAddress": "福興街1號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "大里區",
+            "id": 5871,
+            "caseId": 16134,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1010
+        }
+    ],
+    "announces": [
+        {
+            "id": 5871,
+            "caseId": 16134,
+            "caseStatus": true,
+            "registerDate": 1473044183097,
+            "officialDocNo": "府授文資遺字第10501860573號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

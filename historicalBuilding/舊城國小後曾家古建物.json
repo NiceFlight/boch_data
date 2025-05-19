@@ -1,0 +1,146 @@
+{
+    "id": 1721,
+    "caseId": "20030815000001",
+    "count": 2706,
+    "shareCount": 5,
+    "representImage": 259697,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-07-07/17174d3f-2984-40f6-8bef-4fd221ba25a1/IMG_1961_0_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-07-07/17174d3f-2984-40f6-8bef-4fd221ba25a1/IMG_1961_0.jpg",
+        "name": "IMG_1961_0"
+    },
+    "caseName": "舊城國小後曾家古建物",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "約建於清光緒3年(1877)，為閩南式三合院建築群，材料為閩南紅磚、紅瓦、石灰、硓石古石等，建物形式特殊，建材使用可呈現聚落發展的歷史。\r\n曾家古厝可作為空間的歷史建築，與新的城市風貌共存。\r\n ",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1180454400000,
+    "officialDocNo": "高市府文二字第0960027987 號",
+    "documents": [
+        {
+            "fileid": 76632,
+            "name": "8.920815-舊城國小後曾家古建物.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-11-27/84b0c6a1-f17a-4db7-a74e-a750a900c4e7/8.920815-舊城國小後曾家古建物.pdf"
+        },
+        {
+            "fileid": 76633,
+            "name": "8.960530-舊城國小後曾家古建物變更公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-11-27/de9d31e6-527c-4073-a3cb-82d7168d757b/8.960530-舊城國小後曾家古建物變更公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "本建築物建築形式及建材使用，可呈現聚落發展的歷史。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1款",
+    "govInstitutionCode": "800",
+    "govInstitutionName": "高雄市政府",
+    "belongCityId": 18,
+    "belongCityName": "高雄市",
+    "belongDistName": "左營區",
+    "govInstitution": "高雄市政府文化局",
+    "govDeptName": "文化資產中心",
+    "govDeptPhone": "(07)222-5136分機8326",
+    "govDeptAddress": "高雄市苓雅區 五福一路67號",
+    "cadasters": [
+        {
+            "fileid": 76635,
+            "name": "8.舊城國小後曾家古建物.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2020-11-27/86750871-56b5-47ef-9089-dacfc46de363/8.舊城國小後曾家古建物.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 5,
+    "cityLandUseTypeName": "文教區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "高雄市左營區左南段1468、1469地號",
+    "buildingFeatures": "建物形式特殊，建材使用可呈現聚落發展的歷史。\r\n曾家古厝可作為空間的歷史建築，與新的城市風貌共存。",
+    "inHouseFeatures": "無資料",
+    "buildingUsage": "開放參觀",
+    "buildingActualState": "四鄰舊建物均已被拆除，僅保留右護龍(長屋)，從正身起算到第二落山牆的部分。",
+    "buildingKeyMaintainItem": "一、保留右護龍(長屋)，從正身起算到第二落山牆的部分，亦即局部保留。\r\n二、以豎立牆面的方式保留長屋牆面。",
+    "bulkTransfer": 0,
+    "wenSitename": "高雄文化資產網",
+    "wenSiteaddress": "http://heritage.khcc.gov.tw/home02.aspx?ID=$2900&IDK=2&AP=$2900_SK-28^$2901_PN-1",
+    "belongAddress": "左營下路1 巷22 弄1、3、5 號，30 弄1、3、5、7、9、11 號",
+    "isOpenVisit": true,
+    "openUpTime": "全天候開放，開放外觀(內部為民眾住宅請勿入內，因所有權人仍居住其中，參觀外觀時請輕聲細語)",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.292120312334,
+    "latitude": 22.6837887994813,
+    "representImageSource": "高雄市政府文化局",
+    "landScope": "高雄市左營區左南段1468、1469地號",
+    "selfCoverage": "高雄市左營區左南段1468、1469地號",
+    "addresses": [
+        {
+            "cityName": "高雄市",
+            "distName": "左營區",
+            "id": 131730,
+            "caseId": 1721,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1811,
+            "address": "左營下路1 巷22 弄1、3、5 號，30 弄1、3、5、7、9、11 號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "高雄市",
+            "distName": "左營區",
+            "landNoName": "左南段",
+            "cityLandUseTypeName": "文教區",
+            "id": 187145,
+            "caseId": 1721,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1811,
+            "landNoId": 4122,
+            "landSerialNo": "1468",
+            "landownership": 2,
+            "cityLandUseTypeId": 5,
+            "area": "",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "高雄市",
+            "distName": "左營區",
+            "landNoName": "左南段",
+            "cityLandUseTypeName": "文教區",
+            "id": 187146,
+            "caseId": 1721,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1811,
+            "landNoId": 4122,
+            "landSerialNo": "1469",
+            "landownership": 2,
+            "cityLandUseTypeId": 5,
+            "area": "",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 143594,
+            "caseId": 1721,
+            "caseStatus": true,
+            "registerDate": 1180454400000,
+            "officialDocNo": "高市府文二字第0960027987 號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.29189162938034,22.68414425042772],[120.29176219831379,22.684065946958263],[120.29175714099198,22.684073077729607],[120.29165807228087,22.684212837803535],[120.29181065587083,22.684307768881297],[120.29180166642684,22.68428580822151],[120.29189162938034,22.68414425042772],[120.29189162938034,22.68414425042772]]]]},\"properties\":{\"envelope\":{\"left\":\"120.29165807228087\",\"top\":\"22.684065946958263\",\"right\":\"120.29189162938034\",\"bottom\":\"22.684307768881297\"},\"landLot\":\"高雄市左營區左南段1468\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.29193086263899,22.684091945285765],[120.29199335114437,22.684006681923268],[120.2920331230538,22.683962227636723],[120.29190415547261,22.68385206183362],[120.29176219831379,22.684065946958263],[120.29189162938034,22.68414425042772],[120.29193086263899,22.684091945285765],[120.29193086263899,22.684091945285765]]]]},\"properties\":{\"envelope\":{\"left\":\"120.29176219831379\",\"top\":\"22.683852061833619\",\"right\":\"120.2920331230538\",\"bottom\":\"22.684144250427721\"},\"landLot\":\"高雄市左營區左南段1469\"}}],\"notfound\":[]}]",
+    "openVisitType": "",
+    "pastHistorySource": "高雄市政府文化局提供"
+}

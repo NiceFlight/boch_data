@@ -1,0 +1,107 @@
+{
+    "id": 3968,
+    "caseId": "20120326000023",
+    "count": 215,
+    "shareCount": 0,
+    "representImage": 6798,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32954/photo/7626fbdd-5e73-4033-80b5-f51f7a2a93f0_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32954/photo/7626fbdd-5e73-4033-80b5-f51f7a2a93f0.JPG",
+        "name": "7626fbdd-5e73-4033-80b5-f51f7a2a93f0"
+    },
+    "caseName": "陳璧書五言古詩軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "明代書家往往兼能各體書，陳璧亦復如此，篆隸之外，狂草書亦有可觀，此作足為代表。明初草書的發展蔚為盛況，此作上承懷素，用筆圓轉瘦勁，頗得懷素狂草筆勢的要訣。具有重要之時代與流派特色及特殊藝術價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第三、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故書000009",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descCreator": "陳璧",
+    "descSize": "93 x 35.6（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "陳璧（活動於十四世紀後期），字文東，華亭（今上海）人。曾從學楊維楨，以詩文、書法著稱於世。這件立軸書錄東晉詩人陶潛「擬古詩」，頗得懷素飛動的體勢。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 151313,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-25/9267b189-39e9-4bfe-ac50-3ab2c42d3a96/公告.pdf"
+        },
+        {
+            "fileid": 151314,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-25/e5622c3f-a275-4ee0-8f59-5f6cc4915597/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71408,
+            "caseId": 3968,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75840,
+            "caseId": 3968,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

@@ -1,0 +1,114 @@
+{
+    "id": 925,
+    "caseId": "20070327000001",
+    "count": 3456,
+    "shareCount": 1,
+    "representImage": 184433,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/bb309955-0756-4ba3-9aeb-3c84547d90b2/代表圖像_國立臺灣大學日式宿舍－銅山街4號_20220728_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/bb309955-0756-4ba3-9aeb-3c84547d90b2/代表圖像_國立臺灣大學日式宿舍－銅山街4號_20220728.jpeg",
+        "name": "代表圖像_國立臺灣大學日式宿舍－銅山街4號_20220728"
+    },
+    "caseName": "國立臺灣大學日式宿舍－銅山街4號",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "1.建物品質良好，具日式建築若多特色，包括入門玄觀及紙拉門等。\n2.環境良好，庭院有老樹，環境清幽。目前為陳前校長維昭居住，門廳木刻花柱有特色，具歷史建築價值。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 109688,
+            "name": "3._960327八棟建物登錄歷史建築公告與公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/3fbfbae7-0da6-4eda-8114-278cf384905d/3._960327八棟建物登錄歷史建築公告與公告表.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者"
+    ],
+    "registerReason": "1.建物品質良好，具日式建築若多特色，包括入門玄觀及紙拉門等。\r\n2.環境良好，庭院有老樹，環境清幽。目前為陳前校長維昭居住，門廳木刻花柱有特色，具歷史建築價值。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、2款評定基準",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 109690,
+            "name": "77a53698-2fd9-42b2-80f5-fc7df7955521.gif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/d230db35-d737-4032-b63c-4e4c4b4b276a/77a53698-2fd9-42b2-80f5-fc7df7955521.gif"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市中正區中正段1小段0030-0000地號",
+    "buildingFeatures": "環境良好，庭院有老樹，環境清幽。",
+    "inHouseFeatures": "門廳木刻花柱有特色，入門玄觀及紙拉門",
+    "buildingUsage": "",
+    "buildingActualState": "建物保存狀況良好",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.52627161613094,
+    "latitude": 25.03997049782317,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市中正區中正段1小段0030-0000地號",
+    "selfCoverage": "210.19平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 92125,
+            "caseId": 925,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "銅山街4號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "中正段一小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 112341,
+            "caseId": 925,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 133,
+            "landSerialNo": "0030-0000",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "667.5平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 99223,
+            "caseId": 925,
+            "caseStatus": true,
+            "registerDate": 1174924800000,
+            "officialDocNo": "府文化二字第09630231800號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

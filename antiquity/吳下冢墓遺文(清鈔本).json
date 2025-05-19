@@ -1,0 +1,105 @@
+{
+    "id": 3409,
+    "caseId": "20131219000033",
+    "count": 36,
+    "shareCount": 0,
+    "representImage": 5942,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7179/photo/吳下冢墓遺文(清鈔本)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7179/photo/吳下冢墓遺文(清鈔本).jpg",
+        "name": "吳下冢墓遺文(清鈔本)"
+    },
+    "caseName": "吳下冢墓遺文(清鈔本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1387382400000,
+    "officialDocNo": "文資局物字第 10220148851號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "清康熙間(1662-1722)東吳王氏龍池山房鈔本。\n編者都穆（1459-1525），字玄敬，吳縣人，弘治十二年（1499）進士，明代大臣、金石學家、藏書家。續編者葉恭煥（生卒年不詳）字伯寅，昆山人，嘉靖二十五年（1546）舉人，為明藏書家葉盛之孫，喜刻書。\n此書為明藏書家葉盛所藏，清時王聞遠請人傳鈔。蓋此書流布絕少，得此足以考見吳中碑刻文字，不致與荒煙蔓草同零落於墟墓間。書後歸黃丕烈所有。正文中有王、黃二氏朱墨筆批校，書末俱有手校及跋。\n清代罕見鈔本，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "042台中市南區復興路三段362號",
+    "reservationCode": "書號02444",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 2,
+    "notes": "",
+    "descAge": "清康熙間(1662-1722)",
+    "descCreator": "明都穆編、葉恭煥續編",
+    "descSize": "半葉10行，版匡18.x13.2公分",
+    "descMaterial": "紙質鈔本",
+    "reserveStatusDesc": "三卷，續編一卷。此書為明藏書家葉盛所藏，清時王聞遠請人傳鈔。蓋此書流布絕少，得此足以考見吳中碑刻文字，不致與荒煙蔓草同零落於墟墓間。書後歸黃丕烈所有。正文中有王、黃二氏朱墨筆批校，書末俱有手校及跋。\n",
+    "pastHistorySource": 7,
+    "saveEnvironment": 1,
+    "reserveStatus": "部分虫蛀，未經修裱。（第1冊正文前及第2冊書末部分頁面有污漬，曾換新封面）保存狀況良好\n",
+    "documents": [
+        {
+            "fileid": 5943,
+            "name": "382a633d-5d75-40a5-9e5e-624a2c07b6fa.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44024/file/382a633d-5d75-40a5-9e5e-624a2c07b6fa.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3551,
+            "caseId": 3409,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3551,
+            "caseId": 3409,
+            "caseStatus": true,
+            "registerDate": 1387382400000,
+            "officialDocNo": "文資局物字第 10220148851號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

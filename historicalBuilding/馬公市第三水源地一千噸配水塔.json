@@ -1,0 +1,121 @@
+{
+    "id": 1792,
+    "caseId": "20021213000004",
+    "count": 1687,
+    "shareCount": 1,
+    "representImage": 76091,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-11-23/46b84b87-93c8-40c7-968a-f9b33b8f600a/馬公市第三水源地一千噸配水塔_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-11-23/46b84b87-93c8-40c7-968a-f9b33b8f600a/馬公市第三水源地一千噸配水塔.jpg",
+        "name": "馬公市第三水源地一千噸配水塔"
+    },
+    "caseName": "馬公市第三水源地一千噸配水塔",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "民國49 (1960)年自來水廠於第一賓館附近另鑿新深水井，並於介壽路和民族路交叉口處構建第三水源地，並配置直徑10公尺、高17公尺可貯水一千噸(1000立方)配水塔一座，利用馬達加壓抽送各深水井的水源至17公尺高的配水塔貯水槽中貯存。再運用地勢的高低差及水壓將水塔內的水配送到馬公市區各用戶。\n現今第三水源地深水井大都已經停止使用，只剩下一口位於第一賓館庭園內北側的16號深水井，配水塔也已不再貯存深水井水源，而是以管道直接連結自來水公司水源，做為貯存調節供水功能。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "其他歷史遺蹟",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1039741535000,
+    "officialDocNo": "府授文視字第0910070254 號",
+    "documents": [
+        {
+            "fileid": 76310,
+            "name": "公告公文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-11-24/13bd3a51-a89f-4a2b-b9ea-c41621360239/公告公文.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "本歷史建築與馬公市民的生命歷程產生互動，具有重要的歷史意義及地標作用，且具稀少性，不易再現。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "06-9261141#138",
+    "govDeptAddress": "澎湖縣馬公市中華路230號",
+    "cadasters": [
+        {
+            "fileid": 140917,
+            "name": "地籍資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-10-15/6d2a5c08-b876-44db-bdc7-f49d86d12f8b/地籍資料.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 4,
+    "cityLandUseTypeName": "行政區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "馬公市馬公段1944地號",
+    "buildingFeatures": "為儲水建物，其基部圓周6.6平方公尺，蓄水塔圓周112平方公尺，水塔高度17公尺。",
+    "inHouseFeatures": "無",
+    "buildingUsage": "目前水塔仍在儲水使用中。",
+    "buildingActualState": "目前水塔仍在使用中，水塔機房處周遭銀合歡生長。",
+    "buildingKeyMaintainItem": "定期派人員清理水塔周遭雜草。",
+    "bulkTransfer": 0,
+    "belongAddress": "中正堂後方介壽路和民族路交叉口處",
+    "isOpenVisit": true,
+    "openUpTime": "全天開放",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 119.564509,
+    "latitude": 23.568649,
+    "representImageSource": "澎湖縣政府文化局文化資產科",
+    "landScope": "澎湖縣馬公市馬公段1944地號",
+    "selfCoverage": "基部圓周6.6平方公尺，蓄水塔圓周112平方公尺，蓄水高度17平方公尺，實際高度18.5平方公尺。",
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 73754,
+            "caseId": 1792,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "中正堂後方介壽路和民族路交叉口處"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "landNoName": "馬公段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 71915,
+            "caseId": 1792,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "landNoId": 15467,
+            "landSerialNo": "1944",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "area": "322平方公尺",
+            "cityLandUseTypeOther": "機關用地",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 78771,
+            "caseId": 1792,
+            "caseStatus": true,
+            "registerDate": 1039968000000,
+            "officialDocNo": "府授文視字第0910070254 號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[119.56439727080024,23.568677576856935],[119.56459161141719,23.568796034644123],[119.56463547243338,23.568759308276103],[119.56459669602997,23.568657077211178],[119.56452130519924,23.568555754993444],[119.5644810804939,23.568576636317527],[119.56445218835498,23.568616706865427],[119.56439727080024,23.568677576856935],[119.56439727080024,23.568677576856935]]]]},\"properties\":{\"envelope\":{\"left\":\"119.56439727080024\",\"top\":\"23.568555754993444\",\"right\":\"119.56463547243338\",\"bottom\":\"23.568796034644123\"},\"landLot\":\"澎湖縣馬公市馬公段1944\"}}],\"notfound\":[]}]",
+    "openVisitType": "",
+    "pastHistorySource": "文化局提供"
+}

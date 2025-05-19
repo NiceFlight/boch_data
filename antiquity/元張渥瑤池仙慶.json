@@ -1,0 +1,101 @@
+{
+    "id": 3859,
+    "caseId": "20121029000010",
+    "count": 235,
+    "shareCount": 0,
+    "representImage": 6667,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32845/photo/1af056c2-4ac1-4795-958e-469f052c265a_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32845/photo/1af056c2-4ac1-4795-958e-469f052c265a.JPG",
+        "name": "1af056c2-4ac1-4795-958e-469f052c265a"
+    },
+    "caseName": "元張渥瑤池仙慶",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1351440000000,
+    "officialDocNo": "文資局物字第10120134511號",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "張渥（活動於十四世紀中葉），擅長人物，法李公麟白描得其清麗流暢之風。元代蒙古人崇信道教，瑤池乃西王母之寓所，本幅筆墨設色淡雅秀麗，作者熟練地運用長短、曲直等極富變化的線條，流暢自如地描寫人物的衣紋，充分顯示作者的筆法個性，而人物神態又極為生動，是張氏傳世的代表之作。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第4、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000319",
+    "amount": 1,
+    "notes": "",
+    "descAge": "元",
+    "descSize": "116.1 x 56.3（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "張渥（活動於十四世紀中葉），擅長人物，法李公麟白描得其清麗流暢之風。元代蒙古人崇信道教，瑤池乃西王母之寓所，畫中所見女仙為西王母，頭戴華冠、乘風駕雲而來、侍女手捧仙桃，二人俯視商山四皓，其旁童子歡欣鼓舞，取長壽吉祥之意。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 151172,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-24/4e178ce7-c7f3-4c6a-90d2-3a4157eba3b6/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71319,
+            "caseId": 3859,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 75727,
+            "caseId": 3859,
+            "caseStatus": true,
+            "registerDate": 1351440000000,
+            "officialDocNo": "文資局物字第10120134511號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

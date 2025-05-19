@@ -1,0 +1,132 @@
+{
+    "id": 16693,
+    "caseId": "20190403000001",
+    "count": 2553,
+    "shareCount": 1,
+    "representImage": 56527,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-04-03/7830dc67-f0ac-4d52-97ce-8558d69764d9/八角塔台 (1)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-04-03/7830dc67-f0ac-4d52-97ce-8558d69764d9/八角塔台 (1).jpg",
+        "name": "八角塔台 (1)"
+    },
+    "caseName": "南機場八角塔台",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "塔台之確實興建年代不詳，但可推測應於1943（昭和18）年日軍在宜蘭建築軍用機場（南機場）以因應太平洋戰事之時，在南機場興築塔台做為引導軍機起降之用。鋼筋混凝土加強磚造之八角塔台外觀為三層樓高之建築，但實際室內樓層僅有二層，第三層為僅具屋頂之半開放式觀測台。後期於塔台旁增建之附屬物破壞了原有的八角形平面，現已廢棄無人使用。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "建築物類",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1024645618000,
+    "officialDocNo": "府文資字第0910003171 號",
+    "documents": [
+        {
+            "fileid": 74219,
+            "name": "南機場八角塔台修正公文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-11-06/d8c9b96e-fd4c-4078-94ea-4a00f5846ba2/南機場八角塔台修正公文.pdf"
+        },
+        {
+            "fileid": 233432,
+            "name": "南機場風向帶公告公文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-10-18/ff0d1c26-0341-4d26-be63-855c21454be3/南機場風向帶公告公文.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者"
+    ],
+    "registerReason": "本歷史建築為引導軍機起降之用，其建築特色為鋼筋混泥土加強磚造之八角塔台，造型特殊，且見證日治時期留下之南機場歷史遺跡，就歷史文化意義、建築特色，稀少不易再現，實有保存意義。",
+    "lawsReference": "文化資產保存法第廿七條之一暨歷史建築登錄及補助辦法第七條。",
+    "govInstitutionCode": "260",
+    "govInstitutionName": "宜蘭縣政府",
+    "belongCityId": 4,
+    "belongCityName": "宜蘭縣",
+    "belongDistName": "宜蘭市",
+    "govInstitution": "宜蘭縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-9322440*652",
+    "govDeptAddress": "宜蘭縣五結鄉中正路二段6之8號",
+    "cadasters": [
+        {
+            "fileid": 169353,
+            "name": "H17南機場八角塔台地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-06-24/ffd745e7-3a9c-4587-b110-efee3e6ba321/H17南機場八角塔台地籍圖.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 3,
+    "cityLandUseTypeName": "工業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "宜蘭市珍珠段870號",
+    "buildingFeatures": "1.鋼筋混凝土加強磚造之八角塔台外觀為3層樓高之建築，但實際室內樓層僅有2層，第3層為僅具屋頂之半開放式觀測台。\r\n2.後期於塔台旁增建之附屬物破壞了原有的八角形平面。",
+    "inHouseFeatures": "",
+    "buildingUsage": "使用分區為工業區，用地編定為特定目的事業用地。",
+    "buildingActualState": "修復完成後，恢復日治時代時期之外觀風貌，開放民眾親近休憩。",
+    "buildingKeyMaintainItem": "本體坐落範圍地勢較底，需注意大雨積水情形。",
+    "bulkTransfer": 0,
+    "belongAddress": "南橋里南機場北處",
+    "isOpenVisit": false,
+    "openUpTime": "全天外部開放參觀",
+    "isCharge": false,
+    "isOpenDownload": true,
+    "longitude": 121.7511014839805,
+    "latitude": 24.7321583650848,
+    "representImageSource": "宜蘭縣政府文化局",
+    "landScope": "宜蘭市建蘭段1282地號(原)",
+    "selfCoverage": "早期公告無此資料",
+    "addresses": [
+        {
+            "cityName": "宜蘭縣",
+            "distName": "宜蘭市",
+            "id": 134902,
+            "caseId": 16693,
+            "caseStatus": true,
+            "cityId": 4,
+            "distId": 401,
+            "address": "南橋里南機場北處"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "宜蘭縣",
+            "distName": "宜蘭市",
+            "landNoName": "宜科段",
+            "id": 196724,
+            "caseId": 16693,
+            "caseStatus": true,
+            "cityId": 4,
+            "distId": 401,
+            "landNoId": 7295,
+            "landSerialNo": "26",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 147267,
+            "caseId": 16693,
+            "caseStatus": true,
+            "registerDate": 1024645618000,
+            "officialDocNo": "府文資字第0910003171號",
+            "classificationId": 1
+        },
+        {
+            "id": 147268,
+            "caseId": 16693,
+            "caseStatus": true,
+            "registerDate": 1130221308321,
+            "officialDocNo": "府文資字第0940005535號",
+            "classificationId": 2,
+            "note": "修正歷史建築名稱"
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.75121669598514,24.732099187816434],[121.75109137419571,24.73202678655693],[121.75098199167722,24.73218891213476],[121.75110682367306,24.732262038191845],[121.75121669598514,24.732099187816434],[121.75121669598514,24.732099187816434]]]]},\"properties\":{\"envelope\":{\"left\":\"121.75098199167722\",\"top\":\"24.732026786556929\",\"right\":\"121.75121669598514\",\"bottom\":\"24.732262038191845\"},\"landLot\":\"宜蘭縣宜蘭市宜科段26\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": "宜蘭縣歷史建築登錄南機場八角塔台表"
+}

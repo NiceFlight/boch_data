@@ -1,0 +1,120 @@
+{
+    "id": 1962,
+    "caseId": "20031201000025",
+    "count": 1347,
+    "shareCount": 0,
+    "representImage": 258750,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-06-18/2648d791-b250-4aab-883b-990756b05f4e/陳篤欽古厝_封面_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-06-18/2648d791-b250-4aab-883b-990756b05f4e/陳篤欽古厝_封面.jpg",
+        "name": "陳篤欽古厝_封面"
+    },
+    "caseName": "陳篤欽古厝",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "建於民國前11年（1900）以前，為陳篤欽聘請福建籍司傅興建，國軍於民國38年至民國48年（1949-1959）駐紮。民國106年（2017）依《金門縣私有歷史建築修復獎助辦法》補助完成修復。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1070238457000,
+    "officialDocNo": "府教社字第0920057150 號",
+    "documents": [
+        {
+            "fileid": 257506,
+            "name": "2003-2007歷史建築登錄公告一覽表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-05-23/d157fce3-f58c-400f-9744-f7ad418f5873/2003-2007歷史建築登錄公告一覽表.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者"
+    ],
+    "registerReason": "表現地域風貌或民間藝術特色者",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "890",
+    "govInstitutionName": "金門縣政府",
+    "belongCityId": 24,
+    "belongCityName": "金門縣",
+    "belongDistName": "金沙鎮",
+    "govInstitution": "金門縣文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "082-325643#812",
+    "govDeptAddress": "金門縣金城鎮環島北路一段66號",
+    "cadasters": [
+        {
+            "fileid": 168391,
+            "name": "陳篤欽古厝-地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-06-20/8bfa1ae5-4706-4705-8390-861fc62b3040/陳篤欽古厝-地籍圖.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "金沙鎮陽翟段1086-0000地號",
+    "buildingFeatures": "建築整體格局為二落大厝，屋頂為傳統閩南式雙坡採翹脊型式，屋面兩側皆則有三條筒瓦。本體牆身材料腰堵以下為石條平砌，以上為磚斗砌，轉角則做煙炙磚柱。正立面直櫺窗及榻受對看堵上方皆有橫批，入口大門上方則有「穎川世澤」匾額。建築於屋脊、脊墜、水車堵、壁堵及墀頭等，皆運用大量交趾陶、泥塑及彩繪裝飾，是為本棟最大特色。",
+    "inHouseFeatures": "本棟構造為硬山擱楹承重牆系統。內部空間上，中軸線從入口往內為前廳、寮向、深井、巷頭、大廳，前廳與大廳兩側為房，深井兩側為攑頭，廳兩側為房，深井兩側為攑頭，巷頭兩側各有一半樓；二落正廳內牆牆體上堵抹灰，下堵牆身採紅磚斗砌。前落正廳有一輪錢門，廳內門扇雕花精美；後落鏡面牆牆頂堵會有萬字不斷紋，中堵以煙炙磚砌，下堵為封堵石砌。大門兩側設有一聯對，門左右配以馬鼻窗，窗楣亦有聯對。",
+    "buildingUsage": "目前為居住使用。",
+    "buildingActualState": "建築構造大致良好，僅局部磚體風化及牆面水漬痕跡，其餘無明顯損壞。",
+    "buildingKeyMaintainItem": "日常管理維護大致良好，請繼續保持。唯有炊事之用火，建議增添滅火器。",
+    "bulkTransfer": 0,
+    "belongAddress": "光前里陽翟24 號",
+    "isOpenVisit": false,
+    "openUpTime": "",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 118.42766,
+    "latitude": 24.48018,
+    "representImageSource": "曾逸仁",
+    "landScope": "金沙鎮陽宅段1086地號",
+    "selfCoverage": "公告未指明歷史建築本體",
+    "addresses": [
+        {
+            "cityName": "金門縣",
+            "distName": "金沙鎮",
+            "id": 137087,
+            "caseId": 1962,
+            "caseStatus": true,
+            "cityId": 24,
+            "distId": 2401,
+            "address": "陽翟24號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "金門縣",
+            "distName": "金沙鎮",
+            "landNoName": "陽宅段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 202204,
+            "caseId": 1962,
+            "caseStatus": true,
+            "cityId": 24,
+            "distId": 2401,
+            "landNoId": 15293,
+            "landSerialNo": "1086",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "area": "",
+            "cityLandUseTypeOther": "自然村專用區",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 149789,
+            "caseId": 1962,
+            "caseStatus": true,
+            "registerDate": 1070238457000,
+            "officialDocNo": "府教社字第0920057150號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[118.42769037259248,24.480026472594226],[118.42768562420301,24.480033245978316],[118.42753105573695,24.480253681927078],[118.42763549634965,24.480312760402718],[118.42765269826744,24.48028600505499],[118.42769138095905,24.480230613783405],[118.42774227466452,24.48015772107136],[118.42776809746478,24.48011789394759],[118.42779074870163,24.480084609770028],[118.42769037259248,24.480026472594226],[118.42769037259248,24.480026472594226]]]]},\"properties\":{\"envelope\":{\"left\":\"118.42753105573695\",\"top\":\"24.480026472594226\",\"right\":\"118.42779074870163\",\"bottom\":\"24.480312760402718\"},\"landLot\":\"金門縣金沙鎮陽宅段1086\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": "曾逸仁主持，2022，《110年度金門縣文資防護專業服務中心成果報告書》，國立金門大學，金門縣文化局委託。"
+}

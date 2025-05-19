@@ -1,0 +1,245 @@
+{
+    "id": 838,
+    "caseId": "20160130000001",
+    "count": 5324,
+    "shareCount": 6,
+    "representImage": 145111,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/10ea17bf-d145-43d7-b7d1-f6f7d4043f4b/9ae93c6d-4cdd-44db-b59a-f9a58d54b670_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/10ea17bf-d145-43d7-b7d1-f6f7d4043f4b/9ae93c6d-4cdd-44db-b59a-f9a58d54b670.jpg",
+        "name": "9ae93c6d-4cdd-44db-b59a-f9a58d54b670"
+    },
+    "caseName": "士林神農宮(芝蘭廟)",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "創建於清康熙年間，清乾隆6年（西元1741年）遷建於現址。原名芝蘭廟創建於清康熙年間，清乾隆6年因水災遷建至現址，為漳州移民所建，是漳泉械鬥、士林地區發展的重要載體。西元1789年第1次修建；1927至1929年正殿修成一殿帶兩護室格局；1969年增建RC造前殿、鐘鼓樓；1993年正殿修建為二樓RC建築。",
+    "assetsTypeNames": "寺廟",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 145112,
+            "name": "94年登錄歷史建築.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/ba032129-74cf-4667-b2ae-45c531c09499/94年登錄歷史建築.pdf"
+        },
+        {
+            "fileid": 145113,
+            "name": "105年指定古蹟.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/b105beea-aa02-46bd-acf3-cb2e8cc914e4/105年指定古蹟.pdf"
+        },
+        {
+            "fileid": 145114,
+            "name": "105年廢止歷史建築.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/43590cf5-a9b6-4965-8ebc-543dc274f9c6/105年廢止歷史建築.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "重要歷史事件或人物之關係",
+        "具其他古蹟價值者"
+    ],
+    "registerReason": "1、士林神農宮原名芝蘭廟創建於清康熙年間，清乾隆6年因水災遷建至現址，為漳州移民所建，位於臺北盆地發展史上重要的早期漳州移民聚落，亦是漳泉械鬥、士林地區發展的重要載體。\r\n2、士林神農宮、慈諴宮、惠濟宮為士林三大古廟，三廟歷史淵源關係亦不可分割，士林神農宮為創建年代最早者，係士林地區最早形成之祭祀圈，且位處士林舊街，見證士林早期的街市發展。\r\n3、本廟雖經多次改建，但仍留有龍柱、石樑、石雕窗等舊物，且保有眾多石碑、文物等古物，為廟宇歷史的重要證物。",
+    "lawsReference": "古蹟指定及廢止審查辦法第2條第1項第1、2、6款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 145115,
+            "name": "附件3_地形地籍都計圖.doc",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/7f490025-9d9b-4472-8c73-4a9b9f3139f3/附件3_地形地籍都計圖.doc"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "locationLandNo": "士林區陽明段一小段516、516-1、519、520、520-1、523、525 地號等7筆土地",
+    "buildingFeatures": "四合院式，建築外觀多運用石材並以精緻雕鑿呈現，華麗且色彩繽紛。",
+    "inHouseFeatures": "有二殿（三川殿、正殿），中間以天井連接，前殿左右兩廊之2樓為鐘、鼓樓各一座。",
+    "buildingUsage": "廟宇（祭祀使用）",
+    "buildingKeyMaintainItem": "保存範圍：以三川殿、護室、鐘鼓樓、正殿為古蹟本體，並保留廟埕。",
+    "bulkTransfer": 2,
+    "isOpenDownload": false,
+    "longitude": 121.5262387,
+    "latitude": 25.0979097,
+    "representImageSource": "文化局",
+    "landScope": "位於前街與中山北路五段交叉口，鄰近福林橋與捷運淡水線士林站",
+    "selfCoverage": "陽明段一小段10914建號",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 67591,
+            "caseId": 838,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "臺北市士林區前街74號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "陽明段一小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 62734,
+            "caseId": 838,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 512,
+            "landSerialNo": "516",
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "40平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "陽明段一小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 62735,
+            "caseId": 838,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 512,
+            "landSerialNo": "516-1",
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "245平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "陽明段一小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 62736,
+            "caseId": 838,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 512,
+            "landSerialNo": "519",
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "35平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "陽明段一小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 62737,
+            "caseId": 838,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 512,
+            "landSerialNo": "520",
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "856平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "陽明段一小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 62738,
+            "caseId": 838,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 512,
+            "landSerialNo": "520-1",
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "108平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "陽明段一小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 62739,
+            "caseId": 838,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 512,
+            "landSerialNo": "523",
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "158平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "陽明段一小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 62740,
+            "caseId": 838,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 512,
+            "landSerialNo": "525",
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "188平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 71808,
+            "caseId": 838,
+            "caseStatus": true,
+            "registerDate": 1106496000000,
+            "officialDocNo": "府文化二字第09406150200號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        },
+        {
+            "id": 71809,
+            "caseId": 838,
+            "caseStatus": true,
+            "registerDate": 1454083200000,
+            "officialDocNo": "北市文化文資字第10530352400號",
+            "classificationId": 1,
+            "note": "指定古蹟"
+        },
+        {
+            "id": 71810,
+            "caseId": 838,
+            "caseStatus": true,
+            "registerDate": 1454083200000,
+            "officialDocNo": "北市文化文資字第10530352404號",
+            "classificationId": 3,
+            "note": "廢止歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false,
+    "pastHistorySource": "財團法人台北市士林神農宮提送《士林神農宮古蹟指定申請案》"
+}

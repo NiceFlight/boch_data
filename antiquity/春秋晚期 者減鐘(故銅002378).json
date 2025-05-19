@@ -1,0 +1,98 @@
+{
+    "id": 18937,
+    "caseId": "20210426000004",
+    "count": 188,
+    "shareCount": 0,
+    "representImage": 107463,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-04-26/b359a992-df52-4282-ab08-9e33e34e7de3/重要古物01_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-04-26/b359a992-df52-4282-ab08-9e33e34e7de3/重要古物01.jpg",
+        "name": "重要古物01"
+    },
+    "caseName": "春秋晚期 者減鐘(故銅002378)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "者減鐘為目前所知春秋時期吳國較早的具銘青銅器，銘文有吳王和其子之名，說明此器來自吳國的高級貴族。見證吳國禮樂文化及漢字在長江下游的發展。是呈現春秋時期吳國歷史、文化的重要作品。\n據《西清續鑑‧甲編》，此鐘為乾隆二十六年（1761）江西農民耕地得古鐘十一件中之一，由巡撫進呈宮中。現此十一器多已佚失，僅存四件，包括國立故宮博物院兩件，北京故宮博物院和上海博物館各一件。\n者減鐘出土時，恰逢乾隆皇帝平定回部，因此被視為祥瑞之徵。據《西清續鑑‧甲編》，乾隆皇帝將十一件古鐘視為一套，並補鑄一件以合於古代十二律。十二件鐘以相配的古律名之，此鐘即為「蕤賓」。《皇朝禮器圖式》中和韶樂所用之編鐘，即據此組編鐘形制設計，可見其對乾隆朝樂器改革的重要影響。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、3、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故銅002378",
+    "amount": 1,
+    "descAge": "春秋晚期",
+    "descSize": "高41.5、兩銑相距22.6公分",
+    "descMaterial": "青銅",
+    "reserveStatusDesc": "甬鐘，枚為長錐形。甬上飾蟬紋和蟠虺紋，舞部和篆間作蟠虺紋。鼓部由蟠螭紋交錯盤繞而成，左右兩側各伸展出三個龍首，正面鼓部的紋飾局部作淺浮雕。\n銘文位於兩欒和鉦間，總計可見字數為七十七字，另有重文四字，合文兩字，總計八十三字。銘文如下：「唯正月初吉丁亥，工 王皮 之子者減擇其吉金，自作 鐘，不白不 ，不濼不淍，協于我霝籥，卑龢卑□，用祈眉壽釐，于其皇祖皇考，若參壽，卑汝  音音，龢龢倉倉，其登于上下，聞于四方，子子孫孫永保是尚。」\n依銘文第二句，器主「者減」是春秋晚期吳王「皮 」之子，兩人名號皆為記音形式。全篇銘文內容主要為祈福語和形容此器的樂音悠揚美妙。\n清宮舊藏，原儲於西苑韻古堂。錄於《西清續鑑‧甲編》卷17頁14。\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "1.前鼓舊裂傷。\n2.一銑舊補。\n",
+    "documents": [
+        {
+            "fileid": 143338,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-08/24f7efdc-1807-4a67-9cb5-10edc36477a1/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "國立故宮博物院",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 66909,
+            "caseId": 18937,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 71081,
+            "caseId": 18937,
+            "caseStatus": true,
+            "registerDate": 1617788829879,
+            "officialDocNo": "文授資局物字第11030033241號",
+            "classificationId": 1,
+            "note": ""
+        }
+    ],
+    "isPublic": false
+}

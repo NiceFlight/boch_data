@@ -1,0 +1,101 @@
+{
+    "id": 3768,
+    "caseId": "20140421000012",
+    "count": 326,
+    "shareCount": 0,
+    "representImage": 6563,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39157/photo/pic043_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39157/photo/pic043.jpg",
+        "name": "pic043"
+    },
+    "caseName": "新石器時代良渚文化 玉刀",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1398009600000,
+    "officialDocNo": "文資物字第10320043691號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "品質精良且數量稀少"
+    ],
+    "registerReason": "此件玉刀，經拉曼光譜測試，確知為閃玉。圓弧形刃，中央上方突起「介」字形冠，有大而圓之中孔。器表兩面都有線切割遺痕。\r\n此類器用原為具有切割刮磨功能之工具，此件玉器不但選用美玉製成，且形制中央上方突起「介」字形冠，應該是當時用於特殊場合或彰顯高貴身份的的禮器。造形端莊雅緻，且極為稀有。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第3、5款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "購玉000298",
+    "amount": 1,
+    "notes": "",
+    "descAge": "新石器時代",
+    "descSize": "寬：15.5；高：8.1；最厚：0.55；孔徑：1.03（公分）",
+    "descMaterial": "閃玉",
+    "reserveStatusDesc": "質材：經拉曼光譜測試，確知為閃玉。已深沁為不透明乳白色外觀。\r\n形制：圓弧形刃，中央上方突起「介」字形冠，有大而圓之中孔。\r\n其他：器表兩面都有線切割遺痕。\r\n特徵：此類石器俗稱「耘田器」，經考證應是用以切割刮磨的工具，有刀的功能性。",
+    "pastHistorySource": 2,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。全器曾斷為多塊，經拼接，圓刃最下端還曾修補。",
+    "documents": [
+        {
+            "fileid": 150228,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-12/2810ac58-4003-4e3f-b06c-5970071218e3/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70804,
+            "caseId": 3768,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75071,
+            "caseId": 3768,
+            "caseStatus": true,
+            "registerDate": 1398009600000,
+            "officialDocNo": "文資物字第10320043691號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

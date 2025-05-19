@@ -1,0 +1,97 @@
+{
+    "id": 20272,
+    "caseId": "20211215000013",
+    "count": 105,
+    "shareCount": 0,
+    "representImage": 147606,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-15/5e9c6a6f-2a26-4eb9-b543-ce352850f765/022_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-15/5e9c6a6f-2a26-4eb9-b543-ce352850f765/022.jpg",
+        "name": "022"
+    },
+    "caseName": "清乾隆御筆賦得蓬瀛不可望楊大章仿仇英筆意樓閣",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "此件為金箋畫青綠山水樓閣，製作清巧，有乾隆御筆親題。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第3、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174之1號",
+    "reservationCode": "故扇001223",
+    "amount": 1,
+    "descAge": "清",
+    "descSize": "36.3x59公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "楊大章，乾隆時供奉內廷，作品見於乾隆三十一年（1766）至乾隆五十六年（1791）間，工人物、花鳥畫。根據《活計檔》，楊大章於乾隆三十三年（1768）即有畫扇記錄。此柄畫扇為楊大章奉敕仿明代仇英（約1494-1552）筆意畫宮殿樓閣，工筆細膩，山石用青綠重彩畫於金箋上，倍顯華麗。摺扇另一面為乾隆五十一年（1786）御題。書扇金箋夾貼於扇骨之下，突顯扇骨鑲嵌花草、人物等紋樣，亦作為行間隔欄，設計製作極為精巧。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "清宮舊藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "扇柄為漆畫，有鑲嵌。鑲件脫落不全。",
+    "documents": [
+        {
+            "fileid": 147605,
+            "name": "110年12月9日北市獻編字第1103004564號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-15/17e6296b-4155-4b46-9d7b-26a74c491802/110年12月9日北市獻編字第1103004564號公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.549499,
+    "latitude": 25.10037,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69153,
+            "caseId": 20272,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73277,
+            "caseId": 20272,
+            "caseStatus": true,
+            "registerDate": 1639022282224,
+            "officialDocNo": "北市獻編字第1103004564號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

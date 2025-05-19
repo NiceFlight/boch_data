@@ -1,0 +1,107 @@
+{
+    "id": 3969,
+    "caseId": "20120326000024",
+    "count": 296,
+    "shareCount": 0,
+    "representImage": 6800,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32955/photo/6acd24d8-31d9-4a84-a636-8f9ff9d8e93b_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32955/photo/6acd24d8-31d9-4a84-a636-8f9ff9d8e93b.JPG",
+        "name": "6acd24d8-31d9-4a84-a636-8f9ff9d8e93b"
+    },
+    "caseName": "唐李思訓江帆樓閣軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "此幅無作者款印，依據舊籤定名。雖然構圖與畫樹的筆法與唐畫有所出入，可是全作設色穠麗古雅，山石用墨線鈎勒輪廓，青綠渲染，古意盎然，保存了唐代青綠山水的遺風，是研究李氏父子青綠山水的一件重要作品。具有重要之時代與流派特色、重要藝術價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第三、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000003",
+    "amount": 1,
+    "notes": "",
+    "descAge": "北宋",
+    "descCreator": "",
+    "descSize": "101.9 x 54.7（公分）",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "江天濶渺，風帆溯流，山嶺間長松、翠竹掩映，山徑層疊，文人雅士悠游其間。全作設色穠麗古雅，山石用墨線鈎勒輪廓，青綠渲染，不見皴筆。圖案化的夾葉饒富裝飾意趣。此幅無作者款印，依據舊籤定名。李思訓（約653－718年），唐宗室，善畫青綠山水，風格工巧繁缛。雖然此幀的構圖與畫樹竹的筆法，皆與唐畫不類，但保存了唐代青綠山水的遺風，是研究李思訓山水的一件重要作品。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 151315,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-25/587152d1-e099-4d70-8253-e1b7c9cafb30/公告.pdf"
+        },
+        {
+            "fileid": 151316,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-25/32831758-600f-4506-9cda-9a01c5f1b425/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71410,
+            "caseId": 3969,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 75842,
+            "caseId": 3969,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

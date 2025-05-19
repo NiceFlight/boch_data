@@ -1,0 +1,101 @@
+{
+    "id": 4542,
+    "caseId": "20170523000021",
+    "count": 871,
+    "shareCount": 2,
+    "representImage": 165632,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-05-26/4d39573d-a924-4975-8cf2-059f9705b8c1/K2D000001N000000000PAC_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-05-26/4d39573d-a924-4975-8cf2-059f9705b8c1/K2D000001N000000000PAC.jpg",
+        "name": "K2D000001N000000000PAC"
+    },
+    "caseName": "定武蘭亭真本卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1495468800000,
+    "officialDocNo": "中華民國106年5月23日文授資局物字第1063005353號",
+    "judgeCriteria": [
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少"
+    ],
+    "registerReason": "永和九年（353） 王羲之所作〈蘭亭序〉，原蹟失傳，僅見臨摹本、石刻拓本等流傳於世。〈定武蘭亭〉拓本即屬其中一種。原石是據唐代歐陽詢之摹本上石，又因刻石在河北定武發現，故有此名。\n此件拓本從摹拓特徵與題跋、鈐印等看來是十一世紀的拓本，也是目前僅存的完整最善拓本。此卷同時有元文宗「天曆之寶」藏印，另元大長公主祥吉剌哥藏品中也有稱「定武蘭亭」者，均能說明元代皇室對蘭亭刻帖之重視。蘭亭書學，此件必舉，且為標準作品之珍，為學者必曉之名品。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第4條第1項第3、4、5款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局 ",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故帖000001",
+    "amount": 1,
+    "descAge": "十一世紀",
+    "descSize": "25公分x 66.9公分",
+    "descMaterial": "紙",
+    "reserveStatusDesc": "永和九年（353）三月王羲之與友人在浙江會稽山陰蘭亭修褉雅集，王羲之為此作序，即〈蘭亭序〉。原蹟失傳，但有臨摹本、石刻拓本等流傳於世，〈定武蘭亭〉拓本即屬其中一種。原石是據唐代歐陽詢之摹本上石，又因刻石在河北定武發現，故有此名。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "蛀傷、補痕、污漬。",
+    "documents": [
+        {
+            "fileid": 148319,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-21/79b8fbbf-8209-4522-b795-6b874fc434dd/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 80316,
+            "caseId": 4542,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 86282,
+            "caseId": 4542,
+            "caseStatus": true,
+            "registerDate": 1495468800000,
+            "officialDocNo": "中華民國106年5月23日文授資局物字第1063005353號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

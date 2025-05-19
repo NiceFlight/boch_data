@@ -1,0 +1,105 @@
+{
+    "id": 4440,
+    "caseId": "20151221000006",
+    "count": 663,
+    "shareCount": 0,
+    "representImage": 7460,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43577/photo/10d8db07-7059-41af-af31-e681cc833334_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43577/photo/10d8db07-7059-41af-af31-e681cc833334.jpg",
+        "name": "10d8db07-7059-41af-af31-e681cc833334"
+    },
+    "caseName": "臺灣地輿總圖",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1450627200000,
+    "officialDocNo": "文授資局物字第10430113451號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "此本係清代光緒年間臺灣建省後，官方編製之行政區圖集，有全臺前後山總圖、臺北府全圖、淡水縣圖、新竹縣圖、宜蘭縣圖、基隆廳圖、臺灣府全圖、臺灣縣圖、彰化縣圖、雲林縣圖、苗栗縣圖、埔裏廳圖、臺南府全圖、嘉義縣圖、安平縣圖、恆春縣圖、鳳山縣圖、臺東直隸州後山全圖、澎湖廳圖等地圖共十九幅，每圖附有「說略」。\r\n1887年清朝為編修《大清會典》，令各省重新測繪行政區圖，本圖集即為臺灣官方奉命新編之地圖集寫本。所繪內容為臺灣省各級行政區圖。臺灣省圖標出經緯線，其餘各圖則按「計里畫方」之法繪製。\r\n此圖集反映清代臺灣建省後之行政區界、聚落、道路系統、自然地理等，為研究臺灣建省時期之重要史料，具珍稀性及重要歷史價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第1、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 3,
+    "belongCityName": "新北市",
+    "belongDistName": "中和區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "074623",
+    "keepNameId": 20,
+    "keepName": "國立臺灣圖書館",
+    "keepNameNew": 20,
+    "keepAddressNew": "235新北市中和區中安街85號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "清光緒13年至光緒21年間(1887-1895)",
+    "descSize": "長26公分；寬35公分；高1公分",
+    "descMaterial": "紙質",
+    "reserveStatusDesc": "本書未署編製者姓名，且無序跋或「凡例」一類說明。全編共有地圖十九幅，計為「全臺前後山總圖」、「臺北府全圖」、「淡水縣圖」、「新竹縣圖」、「宜蘭縣圖」、「基隆廳圖」、「臺灣府全圖」、「臺灣縣圖」、「彰化縣圖」、「雲林縣圖」、「苗栗縣圖」、「埔裏廳圖」、「臺南府全圖」、「嘉義縣圖」、「安平縣圖」、「恆春縣圖」、「鳳山縣圖」、「臺東直隸州後山全圖」及「澎湖廳圖」。每圖並附有「說略」。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "於日據時期由臺灣總督府圖書館購置典藏，並於戰後由國立臺灣圖書館接收典藏。",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 52261,
+            "name": "已用印公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-12-11/dd463d97-c7fb-4c1f-b563-81306c3f1fda/已用印公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立臺灣圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立臺灣圖書館",
+            "keepName": "國立臺灣圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立臺灣圖書館",
+            "keepAddressNew": "235新北市中和區中安街85號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "新北市",
+            "keepNameDistName": "中和區",
+            "keepNameAddress": "中安街85號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "新北市",
+            "distName": "中和區",
+            "id": 4584,
+            "caseId": 4440,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 315
+        }
+    ],
+    "announces": [
+        {
+            "id": 4584,
+            "caseId": 4440,
+            "caseStatus": true,
+            "registerDate": 1450627200000,
+            "officialDocNo": "文授資局物字第10430113451號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

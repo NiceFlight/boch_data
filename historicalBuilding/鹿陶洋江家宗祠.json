@@ -1,0 +1,121 @@
+{
+    "id": 1669,
+    "caseId": "20090716000001",
+    "count": 2364,
+    "shareCount": 1,
+    "representImage": 164343,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-05-19/ec63c627-1f48-4d94-a204-66eff162d272/鹿陶洋江家宗祠1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-05-19/ec63c627-1f48-4d94-a204-66eff162d272/鹿陶洋江家宗祠1.jpg",
+        "name": "鹿陶洋江家宗祠1"
+    },
+    "caseName": "鹿陶洋江家宗祠",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列。",
+    "assetsTypeNames": "祠堂",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1247706746000,
+    "officialDocNo": "府文資字第0980169730號",
+    "documents": [
+        {
+            "fileid": 164285,
+            "name": "鹿陶洋江家宗祠公告-98.07.16.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-19/50990207-cdea-49d1-b6cc-eeff858d974d/鹿陶洋江家宗祠公告-98.07.16.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1.鹿陶洋江家古厝為全台保存良好的古厝群之一，具稀有性，而且宗祠是宗親共同的祭祀中心，也是全聚落之空間核心。\n2.江家宗祠表徵江家聚落的歷史傳承與文化風貌，應予保存。\n3.祖祠四進空間清楚，歲時祭祀食公及宋江陣召集演訓，均以宗祠為江家精神象徵，具有其文化意涵。",
+    "lawsReference": "文化資產保存法第15條、第16條，歷史建築登錄廢止審查及輔助辦法第4條、聚落登錄廢止審查及輔助辦理第6條。",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "楠西區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569 ",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 142283,
+            "name": "鹿陶洋江家宗祠地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-11-02/9c19fb4f-1ccc-4ed3-b044-cd5c9600c0ec/鹿陶洋江家宗祠地籍圖.jpg"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 4,
+    "nonCityLandUseTypeName": "鄉村區",
+    "nonCityLandUseSubTypeId": 2,
+    "nonCityLandUseSubTypeName": "乙種建築",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "楠西區鹿陶洋段354地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "wenSitename": "西拉雅國家風景區管理處",
+    "wenSiteaddress": "https://www.siraya-nsa.gov.tw/zh-tw/attractions/detail/25",
+    "belongAddress": "臺南市楠西區鹿田里鹿陶洋101號",
+    "isOpenVisit": true,
+    "openUpTime": "星期一~日：24 小時營業",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.490144825125,
+    "latitude": 23.1555175361831,
+    "representImageSource": "臺南市政府",
+    "landScope": "",
+    "selfCoverage": "拜亭、公廳、神明廳、祖祠堂。",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "楠西區",
+            "id": 80334,
+            "caseId": 1669,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1613,
+            "address": "鹿陶洋"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺南市",
+            "distName": "楠西區",
+            "landNoName": "鹿陶洋段",
+            "id": 86715,
+            "caseId": 1669,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1613,
+            "landNoId": 3622,
+            "landSerialNo": "354",
+            "landownership": 2,
+            "area": "10652",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 86301,
+            "caseId": 1669,
+            "caseStatus": true,
+            "registerDate": 1247706746000,
+            "officialDocNo": "府文資字第0980169730號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"臺南市楠西區鹿陶洋段354\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": ""
+}

@@ -1,0 +1,103 @@
+{
+    "id": 20488,
+    "caseId": "20220315000006",
+    "count": 76,
+    "shareCount": 1,
+    "representImage": 155078,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-03-15/3f0b31d2-f706-48c1-9eb9-ca9126615880/PK2A000933N000000000PAA (3)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-03-15/3f0b31d2-f706-48c1-9eb9-ca9126615880/PK2A000933N000000000PAA (3).jpg",
+        "name": "PK2A000933N000000000PAA (3)"
+    },
+    "caseName": "明戴進畫山水 軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "數量特別稀少或具完整性保存意義者",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "戴進山水畫強調筆墨精妙，不追求空間深度之營造，此點也影響後來「浙派」追隨者繪畫風格呈現較強之裝飾性。\n此幅山水風格以北宋李、郭為主，南宋馬、夏為輔，全景山水結合人物活動，面貌多樣，反應畫家師承諸家的特色，亦為現存少數具戴進落款及鈐印之精品。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第4、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": " 04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故畫000933",
+    "amount": 1,
+    "descAge": "明",
+    "descCreator": "戴進",
+    "descSize": "184.5x109.4公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "戴進（1388－1462），字文進，號靜庵，浙江錢塘人。繪全景式山水，遠景主山和近景水閣居中，人物點綴，配以江上釣艇。主山宏偉由郭熙（活動於11世紀）蛻化而出，運筆採斧劈皴，餘以水份皴染，快速揮灑，並以濃墨點叢樹，運筆自由，呈現水墨蒼勁，氣勢磅礡的山水風格。\n戴進山水得諸家之妙，師承淵源相當寬廣。擅以精妙筆墨表達主觀意念，著重紙面上的處理，不追求空間深度，此種風格導致後來「浙派」追隨者呈現裝飾性較強作風。\n本軸直幅大作，雄偉氣象，構圖、筆墨則與其中年風格作品有共同之處。戴進中年旅羈北京十一、二年，其藝術創作進入一個新階段，即泛宗諸家，相容並蓄，技藝日趨全面，但風格多變尚未定型。畫上款署「錢唐戴文進寫」，並鈐「靜菴」一印。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "舊傷補。",
+    "documents": [
+        {
+            "fileid": 155006,
+            "name": "公告用印後PDF(彩色).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-03-15/5efaf2ab-3fd7-4fb8-bfe8-d95c1bea118d/公告用印後PDF(彩色).pdf"
+        },
+        {
+            "fileid": 155008,
+            "name": "公告表5.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-03-15/d243a800-446a-4803-aca6-770cb2dd8a25/公告表5.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.549499,
+    "latitude": 25.10037,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 73620,
+            "caseId": 20488,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 78634,
+            "caseId": 20488,
+            "caseStatus": true,
+            "registerDate": 1647326636748,
+            "officialDocNo": "文授資局物字第11130027241號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

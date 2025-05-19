@@ -1,0 +1,107 @@
+{
+    "id": 3967,
+    "caseId": "20120326000022",
+    "count": 224,
+    "shareCount": 0,
+    "representImage": 6796,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32953/photo/b3f28e6a-e554-4529-959b-366eae6ec11f_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32953/photo/b3f28e6a-e554-4529-959b-366eae6ec11f.JPG",
+        "name": "b3f28e6a-e554-4529-959b-366eae6ec11f"
+    },
+    "caseName": "明孫龍寫生冊",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "品質精良且數量稀少"
+    ],
+    "registerReason": "孫龍綜合宋元各家設色寫意法之趣，風格獨具，為明代寫生高手。本冊充分展現其在上礬之絹上，用溼筆作畫所呈現的墨與色相暈染的特殊效果，為其重要代表作。具有特殊之時代特色與技術，品質精良且數量稀少。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第三、五款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫001125",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descCreator": "孫龍",
+    "descSize": "左右均 23.5 x 22（公分）",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "孫隆（西元十五世紀），一名龍，字廷振，號都痴（或曰小痴），江蘇毘陵人。宣德間入值內廷，曾為金門侍御，後知新安府。作翎毛草蟲，得北宋徐崇嗣沒骨法、及趙昌設色法之趣，又能兼融南宋梁楷之水墨寫意法，及元代王淵之設色寫意法，為明代寫生高手。此冊畫絹已上礬，故筆雖溼而色不暈開，在將乾未乾時，層加墨筆，頗有墨色淋漓之趣。孫隆能充份發揮墨與色融合的特殊效果，使得花鳥畫有了更豐富的表現技巧。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 151280,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-25/33b3ab1c-5a54-49a7-b04a-f5faca5f4793/公告表.pdf"
+        },
+        {
+            "fileid": 151281,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-25/c1c33568-6146-42de-a18b-ce564877d414/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71402,
+            "caseId": 3967,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75832,
+            "caseId": 3967,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

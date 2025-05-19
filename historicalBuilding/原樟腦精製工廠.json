@@ -1,0 +1,113 @@
+{
+    "id": 923,
+    "caseId": "20071012000001",
+    "count": 4465,
+    "shareCount": 7,
+    "representImage": 186830,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/0878846f-8213-4689-bd80-2e1a0737cfe2/代表圖像_原樟腦精製工廠_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/0878846f-8213-4689-bd80-2e1a0737cfe2/代表圖像_原樟腦精製工廠.jpg",
+        "name": "代表圖像_原樟腦精製工廠"
+    },
+    "caseName": "原樟腦精製工廠",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "日治時代，樟腦為專賣局的專賣品之一，1918（大正7）年，在台北酒場旁設昇華工場從事精製樟腦的工作，此即為後來的精製工廠。日治時期樟腦乃為專賣品，1947年台灣省專賣局為加強生產起見，調整生產機構，增設樟腦、火柴、菸葉、酒業五公司，南門工場與昇華工場均納入該公司管理。民國41年，樟腦滯銷，該年12月即裁撤樟腦局以及分支機構，改設樟腦煉製廠，再度改隸當時的菸酒公賣局管理。精製工廠位於台北酒廠廠區西側，除了精製工廠外還有數棟的倉庫，其結構均為紅磚造建築。1919年由臺灣製腦株式會社設置，其使用目的為精製樟腦。民國56年隨著台灣天然樟腦數量減少，再加上當時民意機關要求開放民營的聲浪日漸升高，當時的公賣局遂結束樟腦煉製廠的業務。台北酒廠旁的樟腦精製工廠即在此時交給台北酒廠使用。民國77年，此工廠部分建築物因審計部大樓的興建而拆除。",
+    "assetsTypeNames": "產業",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 167159,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-06-08/4a426e94-ea8d-44dc-99d7-4896a8484707/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "1.樟腦與茶葉為臺北市清朝、日據初期兩大重要輸出產品建物為樟腦產業發展的見證，具歷史建物文化價值。\r\n2.煙道為樟腦工廠最重要的建築特徵反映整個樟腦工廠的運作設備之一，為過去工業化生產系統的一部份，為了解1920年代製腦過程相當重要的線索，具有保存價值。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1、3款評定基準",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 109703,
+            "name": "52a9eaef-d8a2-4478-ba51-c5c439fd09ec.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/011a659a-e15c-4408-aa53-0facd30690f4/52a9eaef-d8a2-4478-ba51-c5c439fd09ec.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "創意文化專用區",
+    "locationLandNo": "臺北市中正區成功段一小段63-26地號",
+    "buildingFeatures": "特色為紅磚建築樣式、磚砌弧拱窗、磚砌平拱窗、牆面開口部邊框裝飾、具有結構作用的拱頂石、山牆托架裝飾等，且仍保留原始儲酒之架高木棧板，極具保存再利用價值。",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "對外開放",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "isOpenVisit": true,
+    "isCharge": true,
+    "isOpenDownload": false,
+    "longitude": 121.52764704193545,
+    "latitude": 25.045173011291,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市中正區成功段一小段63-26地號",
+    "selfCoverage": "1860.5平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 93616,
+            "caseId": 923,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "八德路1段1號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "成功段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 115168,
+            "caseId": 923,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 140,
+            "landSerialNo": "63-26",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "4,292平方公尺",
+            "cityLandUseTypeOther": "創意文化專用區",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 101024,
+            "caseId": 923,
+            "caseStatus": true,
+            "registerDate": 1192118400000,
+            "officialDocNo": "北市文化二字第09630337700號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "黃筠舒  2006.7《1945年以後的臺北酒廠--華山文化園區的形成與變遷》台灣科技大學碩士論文"
+}

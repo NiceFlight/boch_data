@@ -1,0 +1,110 @@
+{
+    "id": 1031,
+    "caseId": "20110830000001",
+    "count": 4812,
+    "shareCount": 2,
+    "representImage": 200680,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/cf181841-64f1-4a9d-b9af-ffcee6dba86a/原代表圖像_明石元二郎鳥居及鎌田正威鳥居_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/cf181841-64f1-4a9d-b9af-ffcee6dba86a/原代表圖像_明石元二郎鳥居及鎌田正威鳥居.jpg",
+        "name": "原代表圖像_明石元二郎鳥居及鎌田正威鳥居"
+    },
+    "caseName": "明石元二郎鳥居及鎌田正威鳥居",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "明石元二郎塋墓與鳥居於西元1919年興建完成，翌年(1920)，為盛大準備當年10月26日明石總督一週年祭典，第八任總督田健治郎還特別命人整修墓地，新注墓碑，使墓地煥然一新。",
+    "assetsTypeNames": "牌坊",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 163813,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/d67a8cda-6e19-478f-8e6e-043cd1f3b282/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1.日治時期三板橋墓地的二座鳥居，民國86年因公園拆遷整建而暫移至二二八公園，民國99年底移置回原所在區域，見證城市歷史發展。\r\n2.大鳥居為日治時期唯一埋葬於臺灣之第七任臺灣總督明石元二郎墓塚所屬，小鳥居經各項資料推測應為明石總督秘書官鎌田正威墓塚所屬，具歷史文化意義。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、4款評定基準",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 163814,
+            "name": "downloadfile.gif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/465ec8fc-4b3f-48fa-a8f1-d434e06184dc/downloadfile.gif"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "公園",
+    "locationLandNo": "臺北市中山區吉林段五小段355地號土地（部分土地）",
+    "buildingFeatures": "禮制建物之神明鳥居形式。上橫柱為圓柱形式，下橫柱為扁長柱形式；兩側直柱皆為圓柱形式，整體造型莊重簡潔。另鎌田正威鳥居左側圓柱刻有文字。",
+    "inHouseFeatures": "",
+    "buildingUsage": "現設置於林森公園內供民眾參觀。",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "環境可再予以詳細規劃，局部調整其環境及鋪面與鳥居之關係，以強化鳥居之意象，如：小植栽，設石燈及鳥居台基小鋪面。",
+    "bulkTransfer": 0,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.525906640114,
+    "latitude": 25.053368243675152,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市中山區林森公園內",
+    "selfCoverage": "臺北市中山區林森公園內",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中山區",
+            "id": 105799,
+            "caseId": 1031,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 103,
+            "address": "林森公園內"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中山區",
+            "landNoName": "吉林段五小段",
+            "id": 130012,
+            "caseId": 1031,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 103,
+            "landNoId": 226,
+            "landSerialNo": "355",
+            "coverageId": 1,
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 113397,
+            "caseId": 1031,
+            "caseStatus": true,
+            "registerDate": 1314633600000,
+            "officialDocNo": "北市文化二字第10030366400號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "臺北市政府工務局公園路燈工程管理處提供資料"
+}

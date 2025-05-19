@@ -1,0 +1,92 @@
+{
+    "id": 2574,
+    "caseId": "20130226000004",
+    "count": 487,
+    "shareCount": 0,
+    "representImage": 4889,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/traditional_art/416/photo/d753c550-c1df-4642-9acb-ca2e422b4033_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/traditional_art/416/photo/d753c550-c1df-4642-9acb-ca2e422b4033.JPG",
+        "name": "d753c550-c1df-4642-9acb-ca2e422b4033"
+    },
+    "caseName": "漆線-顏金益",
+    "classifyCode": "4.2",
+    "classifyName": "傳統工藝",
+    "assetsTypeNames": "髹漆",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "4.2.1",
+    "assetsClassifyName": "傳統工藝",
+    "registerDate": 1361844113000,
+    "officialDocNo": "府文化三字第10230123300號",
+    "documents": [
+        {
+            "fileid": 144968,
+            "name": "20211116200732.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-16/ed5b0882-da3f-4e61-ac48-e0052de048e1/20211116200732.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "藝術性:具有藝術價值者",
+        "特殊性:構成傳統藝術之特殊藝能表現,其技法優秀者",
+        "地方性:傳統藝術領域有價值與地位,並具有地方色彩或流派特色顯著者"
+    ],
+    "registerReason": "一、藝術性：在構圖、佈局、造形等方面，能就神像之身分，靈活運用，表現手法精湛。符合「傳統藝術民俗及有關文物登錄指定及廢止審查辦法」第二條第一項第一款第一目，具藝術性。\r\n二、特殊性：神佛像表面裝飾部分，以黏貼漆線為底，其上再塗上油漆或貼金箔，為罕見技藝。符合「傳統藝術民俗及有關文物登錄指定及廢止審查辦法」第二條第一項第一款第二目，具特殊性。\r\n三、地方性：為臺北地區所少見，不同於大陸製品。符合「傳統藝術民俗及有關文物登錄指定及廢止審查辦法」第二條第一項第一款第三目，具地方性。",
+    "lawsReference": "一、「文化資產保存法」。 二、「傳統藝術民俗及有關文物登錄指定及廢止審查辦法」。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "藝術發展科",
+    "govDeptPhone": "1999分機3542",
+    "govDeptAddress": "臺北市市府路1號東北區4樓",
+    "belongAddress": "",
+    "historyDevelopment": "漆線工藝為於雕像素胚表面增加立體花紋，隨後在上漆或貼金箔的一種傳統而罕見的技術。漆線工藝，無論漆料調和、堆塑、或揉線、圖案規劃、黏貼漆線，均相當特殊，非其他類別師傅所能完成。",
+    "preservers": [
+        {
+            "id": 19941,
+            "type": "個人",
+            "caseName": "顏金益",
+            "cityName": "臺北市",
+            "distName": "北投區",
+            "caseArtistEntities": [],
+            "representImage": 135766,
+            "patentNo": "*",
+            "judgeCriteria": [
+                "熟知並能正確體現該登錄項目之知識、技藝與文化表現形式"
+            ],
+            "registerReason": "*",
+            "lawsReference": "<<傳統工藝登錄認定及廢止審查辦法>>第4條第1款",
+            "isOpenDownload": false,
+            "representImageSource": "*",
+            "contactorIsOpen": false
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "*",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 67535,
+            "caseId": 2574,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 71722,
+            "caseId": 2574,
+            "caseStatus": true,
+            "registerDate": 1361844113000,
+            "officialDocNo": "府文化三字第10230123300號",
+            "classificationId": 1
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "id": 2894,
+    "caseId": "20140815000001",
+    "count": 449,
+    "shareCount": 0,
+    "representImage": 5263,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39126/photo/pic018_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39126/photo/pic018.jpg",
+        "name": "pic018"
+    },
+    "caseName": "臺湾野球史",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1408032000000,
+    "officialDocNo": "府授文資字第1035102952號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.見證臺灣野球西元1906年至西元1932年間（日治明治39年至日治昭和7年）發展史，具備歷史意義、史事淵源。\n2.目前所知可能為孤本，詳述西元1906年至西元1932年間（日治明治39年至日治昭和7年）臺灣棒球史，具保存意義。\n3.具棒球史實記載，亦具備嘉義市棒球發展史。\n4.具有珍貴性及稀有性。",
+    "lawsReference": "《文化資產保存法》第65條暨《古物分級指定及廢止審查辦法》第2條、第7條。",
+    "govInstitutionCode": "600",
+    "govInstitutionName": "嘉義市政府",
+    "belongCityId": 14,
+    "belongCityName": "嘉義市",
+    "belongDistName": "西區",
+    "govInstitution": "嘉義市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "05-2788225#508",
+    "govDeptAddress": "600嘉義市東區忠孝路275號",
+    "reservationCode": "府授文資字第1035102952號",
+    "amount": 1,
+    "notes": "",
+    "descAge": "西元1932年（日治昭和7年）",
+    "descSize": "長18.6公分  寬12.8公分  厚4.2公分",
+    "descMaterial": "紙質",
+    "reserveStatusDesc": "「臺灣野球史」為日治時期1932年（昭和7年）出版的棒球專書，作者為湯川充雄。書中詳述1906年（明治39年）至1932年（昭和7年）間臺灣各地棒球運動發展的狀況，內容包含各級學校球隊及社會球隊的球賽戰績、隊員名單與其表現、賽況等，以及介紹臺灣棒球運動的推手、各地球場、啦啦隊等資料 。\n「臺灣野球史」長18.6公分、寬12.8公分、厚4.2公分，印刷文字採直書，裝幀方式為膠裝，書籍外皮為牛皮紙。封面文字採由右至左橫書，上行為「臺灣野球史」，下行為「湯川充雄編」。封面有幾何線條裝飾，封面文字及裝飾線條皆為咖啡色；書籍背面沒有文字與圖樣。\n",
+    "pastHistorySource": 2,
+    "saveEnvironment": 1,
+    "reserveStatus": "「臺灣野球史」目前存放於嘉義市立博物館典藏庫，書籍封面及內頁表面附有黃化髒污及斑駁磨損痕跡，因書背脫落使用膠帶黏貼，保存狀況尚可。",
+    "documents": [
+        {
+            "fileid": 108759,
+            "name": "103.8.15  公告一般古物：台灣野球史.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-05/0380fdac-8493-46c1-b060-cdfba638d2a3/103.8.15  公告一般古物：台灣野球史.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 120.45253,
+    "latitude": 23.48768,
+    "representImageSource": "嘉義市政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "財團法人嘉義市文化基金會",
+            "keepName": "財團法人嘉義市文化基金會",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "財團法人嘉義市文化基金會",
+            "keepAddressNew": "嘉義市東區忠孝路275號",
+            "saveSpaceOther": "嘉義市東區忠孝路275號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2,
+            "keepNameCityName": "嘉義市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": "忠孝路275號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "嘉義市",
+            "distName": "東區",
+            "id": 105872,
+            "caseId": 2894,
+            "caseStatus": true,
+            "cityId": 14,
+            "distId": 1401,
+            "address": "忠孝路275號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 113456,
+            "caseId": 2894,
+            "caseStatus": true,
+            "registerDate": 1408032000000,
+            "officialDocNo": "府授文資字第1035102952號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

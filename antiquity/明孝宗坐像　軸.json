@@ -1,0 +1,101 @@
+{
+    "id": 16874,
+    "caseId": "20190628000008",
+    "count": 408,
+    "shareCount": 0,
+    "representImage": 59616,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-06-28/73217525-7d7f-4a96-966b-1bf59659061b/c17.明孝宗坐像_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-06-28/73217525-7d7f-4a96-966b-1bf59659061b/c17.明孝宗坐像.jpg",
+        "name": "c17.明孝宗坐像"
+    },
+    "caseName": "明孝宗坐像　軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1561519625307,
+    "officialDocNo": "文授資局物字第10830067501號",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "具有重要藝術造詣或科學成就",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "此作為存世極少數之明孝宗弘治帝朱祐樘（1470－1505）肖像，且為其中最為華麗精緻者。上書「明朝孝宗敬皇帝年號弘治」十一字。此作圖像精緻華麗，布置刻意對稱，營造出輝煌莊重之皇家氣象。\n由此作籤題標注「乾隆戊辰年重裝」及《南薰殿圖像考》等文獻資料可知，承自明代宮廷一批歷代帝后像於宮中茶庫發現，清高宗乾隆十三年（1748）下令將其檢修裝裱。故該作流傳有續，可與宮廷奉祀儀典相參照，深具歷史意義與研究價值。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、4、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "中畫000316",
+    "amount": 1,
+    "descAge": "明",
+    "descSize": "本幅 209.8x115 公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "本幅畫明孝宗弘治帝朱祐樘（1470－1505）像，孝宗頭戴翼善冠，身著龍袞袍，坐於龍椅上，後圍以屏風。畫幅無作者款印。左側屏風外緣空白處，以小紙浮貼，上書「明朝孝宗敬皇帝年號弘治」十一字。此作圖像精緻華麗，布置刻意對稱，營造出輝煌莊重之皇家氣象。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "天杆：磨損、污漬、破洞，天綾：摺痕、水漬、多處破洞、磨損、脫線，本幅：多處傷補、開裂、磨損、脫絲，裱綾：污漬，地綾：磨損、脫絲、黃化，地杆：污漬、水漬，軸頭：磨損。",
+    "documents": [
+        {
+            "fileid": 146056,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-24/6f9d411b-72b6-4561-90a0-5c87dd44059c/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 68012,
+            "caseId": 16874,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 72225,
+            "caseId": 16874,
+            "caseStatus": true,
+            "registerDate": 1561519625307,
+            "officialDocNo": "文授資局物字第10830067501號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

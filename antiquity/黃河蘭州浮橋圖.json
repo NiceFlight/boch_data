@@ -1,0 +1,101 @@
+{
+    "id": 20517,
+    "caseId": "20220318000006",
+    "count": 633,
+    "shareCount": 3,
+    "representImage": 155495,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-03-18/29c1b251-371c-4ca7-815d-0256559f41de/P3K021515N00A_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-03-18/29c1b251-371c-4ca7-815d-0256559f41de/P3K021515N00A.jpg",
+        "name": "P3K021515N00A"
+    },
+    "caseName": "黃河蘭州浮橋圖",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖繪",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "能表現傳統、族群或地方之風俗、記憶及傳說、信仰、技藝或生活文化之重要特色",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色"
+    ],
+    "registerReason": "繪者以全景式的構圖，細緻的筆法，具體而微地反映19世紀中葉蘭州府城一帶黃河岸邊的生活景象，與現今所知甘肅博物館藏，稱保存最完好，也最能完整反映19世紀中後期蘭州風情之1874─1883年間繪製的《金城攬勝圖》相比，時間更早，而所反映的蘭州一帶風土民情，更是有過之而無不及。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第1、3款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "平圖021515",
+    "amount": 1,
+    "descAge": "清",
+    "descSize": "畫心120x213公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "本圖工筆彩繪清同治元年至6年（1862-1867）間蘭州城垣形勢、名山名剎、黃河水車、鐵索浮橋以及皮筏競奔、舟車川流的生活景象。\n圖中央處即為浮橋，由24條大船搭建而成，左右各立牌坊「第一橋」及「九曲安瀾」，畫面左下方為白馬浪，橋左岸為金城關、金山寺及北塔山，塔寺觀庵沿山而建。橋右岸為蘭州城、金天觀、崇慶寺及龍尾山。山上有四座墩堡，自下向上為頭墩、二墩、三墩、四墩，與建築在華林山的城堡形成犄角之勢。\n《黃河蘭州浮橋圖》圖內崇慶寺完好，至少可推繪於1867年以前（1781年燬，1791年重建，1867年又毀），而從蘭州城內城城門已見甕城，可證晚於1862年（該年護理陝甘總督恩麟於內城城門增築甕城）。若假設圖右雷壇河旁太清宮，往北上階梯可達那座不知名屋宇為蘭州人稱「土城子」，則《黃河蘭州浮橋圖》年代可再往後推一年，因1863年時，清政府為防禦回民犯亂，在雷壇河進入市區要衝處築設土堡一座，稱「土城子」，故圖繪上限可再往後推一年。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "一、 本圖狀況大致良好。\n二、 全圖間有裂痕、霉斑、污漬、水漬及蟲蛀等痕跡。\n三、 圖中有部分地方脫色，並沾有墨漬。",
+    "documents": [
+        {
+            "fileid": 155491,
+            "name": "公告用印後PDF.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-03-18/a3791dd5-d378-41eb-afc6-4cfb41c7dcd8/公告用印後PDF.pdf"
+        },
+        {
+            "fileid": 155492,
+            "name": "06公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-03-18/f913231f-d5ca-401d-89ba-212ac348ae5f/06公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.549499,
+    "latitude": 25.10037,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 84445,
+            "caseId": 20517,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 90730,
+            "caseId": 20517,
+            "caseStatus": true,
+            "registerDate": 1647589880923,
+            "officialDocNo": "文授資局物字第11130027321號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

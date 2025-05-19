@@ -1,0 +1,99 @@
+{
+    "id": 15443,
+    "caseId": "20180104000002",
+    "count": 1601,
+    "shareCount": 0,
+    "representImage": 98052,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-02-24/536005b2-0943-4316-8077-c59e7f2d5129/C1清道光22年前膛鑄鐵砲上視圖_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-02-24/536005b2-0943-4316-8077-c59e7f2d5129/C1清道光22年前膛鑄鐵砲上視圖.jpg",
+        "name": "C1清道光22年前膛鑄鐵砲上視圖"
+    },
+    "caseName": "清道光22年前膛鑄鐵砲",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-軍事設備,生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1514525484066,
+    "officialDocNo": "府授文資第1060185113號函",
+    "judgeCriteria": [
+        "具有史事淵源",
+        "具有珍貴及稀有性者"
+    ],
+    "registerReason": "1.\t具有地方重要人物或歷史事件之深厚淵源者：為清代海防的重要軍事物證，呈現清代火砲發展不同面貌。\n2.\t數量稀少者：福州生產的火砲在臺灣留存數量不多。\n",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第2、5款",
+    "govInstitutionCode": "300",
+    "govInstitutionName": "新竹市政府",
+    "belongCityId": 6,
+    "belongCityName": "新竹市",
+    "belongDistName": "東區",
+    "govInstitution": "新竹市文化局",
+    "govDeptName": "新竹市文化局文化資產科",
+    "govDeptPhone": "03-5425079",
+    "govDeptAddress": "300新竹市北區中央路109號",
+    "reservationCode": "C1061226002",
+    "amount": 1,
+    "descAge": "西元1842年",
+    "descSize": "砲身總長273公分、外徑31.8公分",
+    "descMaterial": "金屬(鑄鐵)",
+    "reserveStatusDesc": "1.\t古砲砲身有凸鑄文字，為清道光22年鑄造。\n2.\t砲口形式：壺口。\n3.\t裝砲方式：前膛；砲膛形式：滑膛。\n4.\t砲耳為錐式、無砲耳座子。\n5.\t砲尾形式：覆鐘形、無砲架。\n6.\t現有支撐：磚墩。\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 3,
+    "reserveStatus": "砲身銹蝕部分銘文不清。",
+    "documents": [
+        {
+            "fileid": 47375,
+            "name": "府授文資第1060185113號函.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-01-04/4f77350d-76e1-4faf-b444-d7e3eebe1e57/府授文資第1060185113號函.jpg"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.97727132411939,
+    "latitude": 24.800307519684115,
+    "representImageSource": "喆作設計有限公司",
+    "keepNames": [
+        {
+            "keepNameIdStr": "新竹市政府城市行銷處",
+            "keepName": "萬怡君",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "新竹市新竹公園",
+            "keepAddressNew": "新竹市東區",
+            "saveSpaceIdStr": "公務設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "新竹市",
+            "keepNameDistName": "北區",
+            "keepNameAddress": "中正路120號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "新竹市",
+            "distName": "東區",
+            "id": 66730,
+            "caseId": 15443,
+            "caseStatus": true,
+            "cityId": 6,
+            "distId": 601
+        }
+    ],
+    "announces": [
+        {
+            "id": 70907,
+            "caseId": 15443,
+            "caseStatus": true,
+            "registerDate": 1514525484066,
+            "officialDocNo": "府授文資第1060185113號函",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

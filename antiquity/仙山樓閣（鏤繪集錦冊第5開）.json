@@ -1,0 +1,102 @@
+{
+    "id": 4389,
+    "caseId": "20151019000016",
+    "count": 353,
+    "shareCount": 0,
+    "representImage": 7370,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39101/photo/pic002_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39101/photo/pic002.jpg",
+        "name": "pic002"
+    },
+    "caseName": "仙山樓閣（鏤繪集錦冊第5開）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-織繡",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1445184000000,
+    "officialDocNo": "文授資局物字10430092323",
+    "judgeCriteria": [
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少"
+    ],
+    "registerReason": "緙絲中的建築不僅較難表現，作品也很罕見，相當珍貴。\r\n本幅緙織精工，織紋緊密，建築部分宛如界畫。山鳥、人物神韻亦皆具備，線條的轉折和色彩的濃淡，變化靈活，為宋代緙絲工藝的極致表現。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第4條第1項第3、4、5款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局 ",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故絲00005100005",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descSize": "25.5公分 x 40.8公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "淺褐地設色織，藍、綠、紅為主色，前景山石層層疊疊，奇花異樹穿插掩映，猴群、禽鳥活躍。樓臺殿閣華美富麗，天空佈滿各式紅、藍雲彩，白鶴、彩鳳飛翔，營造遺世仙境。採對稱式的構圖，人物、花鳥、動物雖圖案化，但不失生動。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。本幅霉傷。",
+    "documents": [
+        {
+            "fileid": 148998,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-29/18afd8d0-2e39-4291-be7f-9552b3aa1ceb/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69776,
+            "caseId": 4389,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73961,
+            "caseId": 4389,
+            "caseStatus": true,
+            "registerDate": 1445184000000,
+            "officialDocNo": "文授資局物字10430092323",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

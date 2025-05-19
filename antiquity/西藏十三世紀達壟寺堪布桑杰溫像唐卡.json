@@ -1,0 +1,102 @@
+{
+    "id": 4482,
+    "caseId": "20160803000020",
+    "count": 318,
+    "shareCount": 0,
+    "representImage": 7539,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133387/photo/4.西藏十三世紀達壟寺堪布桑杰溫像唐卡_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133387/photo/4.西藏十三世紀達壟寺堪布桑杰溫像唐卡.jpg",
+        "name": "4.西藏十三世紀達壟寺堪布桑杰溫像唐卡"
+    },
+    "caseName": "西藏十三世紀達壟寺堪布桑杰溫像唐卡",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1470153600000,
+    "officialDocNo": "文授資局物字第10530074283號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要之時代特色、技術及流派",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "達壟寺屬藏傳佛教達隆噶舉派，亦為該派祖寺。此幅唐卡描繪達壟寺第四任堪布（角色類似漢傳佛教中的住持）桑杰溫（1251－1296）的肖像，可代表藏族文化中一種獨具特色的佛教繪畫藝術形式。題材內容涉及藏族的歷史、文化和社會生活等諸多領域，不僅具有藝術價值，也具有重要歷史意義。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第1、3、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "購畫000145",
+    "amount": 1,
+    "descAge": "十三世紀",
+    "descSize": "50公分x 38公分",
+    "descMaterial": "布本",
+    "reserveStatusDesc": "本件唐卡畫主尊桑杰溫（西元1251－1296年）結跏趺坐於馬蹄型龕內的法座上，法座裝飾華麗，除了各式寶石外，尚有象、人騎羊以及摩羯魚等裝飾。桑杰溫頂有短髮，額頭方闊，顴骨較高，唇上有鬚，身著無袖露臂袈裟，外罩色彩華麗的僧袍。全幅構圖以歷代上師高像坐頂欄，菩薩護法居下，反映出藏傳佛教對於「寺譜」傳承與上師的重視。此外，關於位置佈置則採尼泊爾式主尊的對稱構圖，類似之法座在尼泊爾的唐卡上也時有發現，可見西藏佛教藝術的多元風貌。",
+    "pastHistorySource": 2,
+    "pastHistorySourceNotes": "無",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。傷損。",
+    "documents": [
+        {
+            "fileid": 7540,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/133386/file/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69607,
+            "caseId": 4482,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73780,
+            "caseId": 4482,
+            "caseStatus": true,
+            "registerDate": 1470153600000,
+            "officialDocNo": "文授資局物字第10530074283號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

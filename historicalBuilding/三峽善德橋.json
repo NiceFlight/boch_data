@@ -1,0 +1,118 @@
+{
+    "id": 1150,
+    "caseId": "20140924000002",
+    "count": 2269,
+    "shareCount": 1,
+    "representImage": 2311,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/5192/photo/C124三峽善德橋(1)_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/5192/photo/C124三峽善德橋(1).JPG",
+        "name": "C124三峽善德橋(1)"
+    },
+    "caseName": "三峽善德橋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "橋樑",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1411525865000,
+    "officialDocNo": "北府文資字第1031771776號",
+    "documents": [
+        {
+            "fileid": 164083,
+            "name": "三峽善德橋公告-103.9.24.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-18/eebae108-fcf2-4d92-bd18-b957a4db80dd/三峽善德橋公告-103.9.24.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "一、善德橋為日據時期熱心仕紳捐資所建，橫跨阿四坑溪，為重要的交通便道，見證地方開發歷史。\n二、橋體始建原貌完整，底部以煤礦運輸之輕便車道鐵軌做兩緣加強樑構造材料。橋中央略呈拱形，增加橋樑承載能力，其材料之運用充分見證當地礦業的發展。\n三、「善德橋」石碑立於昭和七年（1932），碑文鐫刻捐資紀錄，字體清晰，具地方鄉土史價值。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、3款",
+    "govInstitutionCode": "220",
+    "govInstitutionName": "新北市政府",
+    "belongCityId": 3,
+    "belongCityName": "新北市",
+    "belongDistName": "三峽區",
+    "govInstitution": "新北市政府",
+    "govDeptName": "文化局",
+    "govDeptPhone": "(02)29603456",
+    "govDeptAddress": "新北市板橋區中山路一段161號28樓",
+    "cadasters": [
+        {
+            "fileid": 164084,
+            "name": "三峽善德橋地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-05-18/061b8e47-c703-48bd-88cd-e419216ad6c8/三峽善德橋地籍圖.jpg"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 11,
+    "nonCityLandUseTypeName": "其他使用區",
+    "nonLandUseOtherType": "未登錄土地",
+    "locationLandNo": "新北市三峽區礁溪段31地號毗鄰未登錄地號土地",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "介壽路1段276巷內第四公墓前留芳橋旁",
+    "isOpenVisit": true,
+    "openUpTime": "全天開放",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.38010363137576,
+    "latitude": 24.92630719819671,
+    "representImageSource": "新北市政府文化局",
+    "landScope": "新北市三峽區礁溪段31地號毗鄰未登錄地號土地",
+    "selfCoverage": "橋體及碑體",
+    "addresses": [
+        {
+            "cityName": "新北市",
+            "distName": "三峽區",
+            "id": 110814,
+            "caseId": 1150,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 317,
+            "address": "介壽路1段276巷內第四公墓前留芳橋旁"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "新北市",
+            "distName": "三峽區",
+            "landNoName": "礁溪段",
+            "id": 144732,
+            "caseId": 1150,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 317,
+            "landNoId": 6579,
+            "landSerialNo": "31",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 119883,
+            "caseId": 1150,
+            "caseStatus": true,
+            "registerDate": 1411525865000,
+            "officialDocNo": "北府文資字第1031771776號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.37991422066462,24.92652628271271],[121.37994065398637,24.92652596616712],[121.37995556969834,24.926499502193824],[121.37989528829083,24.92641031043025],[121.37991676256402,24.926369712127723],[121.37993404541572,24.926363878207688],[121.37992450762074,24.926335346767598],[121.379899384958,24.926338488550012],[121.37982932842738,24.926316783252073],[121.37975643809757,24.926220028909814],[121.37967701030156,24.926127455050892],[121.37964698183276,24.926032320415555],[121.379585485438,24.92596718041036],[121.37957895445399,24.925891381521136],[121.37950074054831,24.925799358810725],[121.37943833807994,24.925755455712945],[121.37933843495622,24.925807821544232],[121.37938138168921,24.92590068705371],[121.37944886468024,24.925936622369463],[121.37946858728404,24.92599911150887],[121.37950359261364,24.92600299758523],[121.37949811936515,24.926045016789868],[121.37953036713105,24.926097670157912],[121.37952676207676,24.92615679783244],[121.37956286148517,24.926176202637436],[121.37960636227126,24.926273691884525],[121.37965034759226,24.926296927176317],[121.3797026604808,24.92635311907515],[121.37970548453602,24.926393310580774],[121.37974288177591,24.926437838817],[121.37983301169692,24.92645481272034],[121.37987870716525,24.926516872683536],[121.37991422066462,24.92652628271271],[121.37991422066462,24.92652628271271]]]]},\"properties\":{\"envelope\":{\"left\":\"121.37933843495622\",\"top\":\"24.925755455712945\",\"right\":\"121.37995556969834\",\"bottom\":\"24.926526282712711\"},\"landLot\":\"新北市三峽區礁溪段31\"}}],\"notfound\":[]}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": ""
+}

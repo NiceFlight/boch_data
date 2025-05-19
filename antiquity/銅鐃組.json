@@ -1,0 +1,99 @@
+{
+    "id": 4218,
+    "caseId": "20090508000018",
+    "count": 210,
+    "shareCount": 0,
+    "representImage": 7138,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36635/photo/291c52ca-83b8-4f1a-9419-48cc11b0eaa7_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36635/photo/291c52ca-83b8-4f1a-9419-48cc11b0eaa7.jpg",
+        "name": "291c52ca-83b8-4f1a-9419-48cc11b0eaa7"
+    },
+    "caseName": "銅鐃組",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1241712000000,
+    "officialDocNo": "會授資籌二字第0982105246號",
+    "judgeCriteria": [
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "鐃是一種擊奏樂器，開口朝上，下端套入木柄以便手執。此組四鐃大小有序，兩面均飾以淺浮雕獸面紋。相較於其他考古出土多為三件或五件一組的銅鐃，此套四件一組是另一實例，且製作精美，保存良好，具有重要歷史、文化、科學價值",
+    "lawsReference": "「文化資產保存法」第66條。「古物分級登錄指定及廢止審查辦法」第3條第1項第1、5、6款、第6、7條",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "南港區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "R001085－R001088",
+    "amount": 4,
+    "notes": "",
+    "descAge": "商（後期）",
+    "descCreator": "",
+    "descSize": "高12.4公分、口徑7.2-9.9公分",
+    "descMaterial": "青銅",
+    "reserveStatusDesc": "口曲，兩端斜上，柄在下，中空，持而擊之，其聲清越，共四器為一組，形制文飾均同，僅大小有異，同一墓坑出土，未擾亂，腹兩面飾獸面紋一。",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "西北岡墓1083 ",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 53985,
+            "name": "20090508公告.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-01-09/add7a320-e451-4496-ac34-fa11bd00815c/20090508公告.jpg"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "中央研究院歷史語言研究所",
+    "keepNames": [
+        {
+            "keepNameIdStr": "中央研究院歷史語言研究所",
+            "keepName": "中央研究院歷史語言研究所",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "中央研究院歷史語言研究所",
+            "keepAddressNew": "115台北市南港區研究院路二段130號",
+            "saveSpaceIdStr": "研究設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "南港區",
+            "keepNameAddress": "研究院路二段130號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "南港區",
+            "id": 116471,
+            "caseId": 4218,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 111
+        }
+    ],
+    "announces": [
+        {
+            "id": 127174,
+            "caseId": 4218,
+            "caseStatus": true,
+            "registerDate": 1241712000000,
+            "officialDocNo": "會授資籌二字第0982105246號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

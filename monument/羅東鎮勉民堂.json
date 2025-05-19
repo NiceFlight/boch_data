@@ -1,0 +1,167 @@
+{
+    "id": 288,
+    "caseId": "20060817000001",
+    "count": 2782,
+    "shareCount": 1,
+    "representImage": 107089,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-04-23/23aed209-45ea-44be-bdf4-ee61c5123616/M22勉民堂1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-04-23/23aed209-45ea-44be-bdf4-ee61c5123616/M22勉民堂1.jpg",
+        "name": "M22勉民堂1"
+    },
+    "caseName": "羅東鎮勉民堂",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "民國70年代將原有泥土地板改換為洗石子地板，1983年將屋頂改為翹脊。\n勉民堂由本地紳藍新倡建，為羅東地區最有歷史的鸞堂。\n主祀關聖帝君、呂仙祖、司命灶君，從祀有「勉民堂效勞生死先賢祿位」等。",
+    "assetsTypeNames": "寺廟",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.3",
+    "assetsClassifyName": "縣(市)定古蹟",
+    "registerDate": 1155779973000,
+    "officialDocNo": "府文資字第0950004326號",
+    "documents": [
+        {
+            "fileid": 73528,
+            "name": "勉民堂公告公文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-10-21/fe4c7ca0-5c4f-496a-a322-878a533e1bd6/勉民堂公告公文.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "具稀少性，不易再現者",
+        "具建築史上之意義，有再利用之價值及潛力者",
+        "具其他古蹟價值者"
+    ],
+    "registerReason": "廟宇建築本體保存良好、展現鸞堂建築之地方特色，依據『古蹟指定及審查辦法』第二條規定指定為縣定古蹟。",
+    "lawsReference": "「文化資產保存法」第14條暨「古蹟指定及廢止審查辦法」第4條",
+    "govInstitutionCode": "260",
+    "govInstitutionName": "宜蘭縣政府",
+    "belongCityId": 4,
+    "belongCityName": "宜蘭縣",
+    "belongDistName": "羅東鎮",
+    "govInstitution": "宜蘭縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-9322440*652",
+    "govDeptAddress": "宜蘭縣五結鄉中正路二段6之8號",
+    "cadasters": [
+        {
+            "fileid": 163631,
+            "name": "M22羅東鎮勉民堂地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-05-12/6bbed9fc-555c-4200-8f5c-da5190948e16/M22羅東鎮勉民堂地籍圖.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "羅東鎮興東段770、771、772、775地號",
+    "buildingFeatures": "1.勉民堂建築以「九門三窗」之形式著稱，其中九門為前檐牆開三門、左右山牆各開兩門，後檐牆之神龕兩側各一門。三窗為左右山牆之兩門中各開一窗，後檐牆神龕後方開一窗。\n2.神龕前方地面抬高，其上原放置三張竹椅 是為三恩主(由龍邊至虎邊分別為灶君、關公、呂洞賓)所設。",
+    "inHouseFeatures": "內部以疊斗屋架支撐，屋頂為傳統紅色仰合瓦，外觀樸實典雅。",
+    "buildingUsage": "廟宇建築物本體保存良好，且用途亦未變更。",
+    "buildingActualState": "廟方於前臨中山路處搭設2層樓之鐵皮屋，作為堆置神將及雜物之所，從沿街外觀上難以辨識廟宇本體建築。",
+    "buildingKeyMaintainItem": "將廟內古物(如古鐘、竹椅、乩筆等)列冊管理。",
+    "bulkTransfer": 0,
+    "belongAddress": "羅東鎮中山路3段190號",
+    "isOpenDownload": true,
+    "longitude": 121.77026838993945,
+    "latitude": 24.674966595652297,
+    "representImageSource": "宜蘭縣政府文化局",
+    "landScope": "",
+    "selfCoverage": "早期公告無此資料",
+    "addresses": [
+        {
+            "cityName": "宜蘭縣",
+            "distName": "羅東鎮",
+            "id": 134327,
+            "caseId": 288,
+            "caseStatus": true,
+            "cityId": 4,
+            "distId": 406,
+            "address": "中山路3段190號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "宜蘭縣",
+            "distName": "羅東鎮",
+            "landNoName": "興東段",
+            "id": 195178,
+            "caseId": 288,
+            "caseStatus": true,
+            "cityId": 4,
+            "distId": 406,
+            "landNoId": 6730,
+            "landSerialNo": "770",
+            "landownership": 2,
+            "area": "20平方公尺",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "宜蘭縣",
+            "distName": "羅東鎮",
+            "landNoName": "興東段",
+            "id": 195179,
+            "caseId": 288,
+            "caseStatus": true,
+            "cityId": 4,
+            "distId": 406,
+            "landNoId": 6730,
+            "landSerialNo": "771",
+            "landownership": 2,
+            "area": "34平方公尺",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "宜蘭縣",
+            "distName": "羅東鎮",
+            "landNoName": "興東段",
+            "id": 195180,
+            "caseId": 288,
+            "caseStatus": true,
+            "cityId": 4,
+            "distId": 406,
+            "landNoId": 6730,
+            "landSerialNo": "772",
+            "landownership": 2,
+            "area": "176平方公尺",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "宜蘭縣",
+            "distName": "羅東鎮",
+            "landNoName": "興東段",
+            "id": 195181,
+            "caseId": 288,
+            "caseStatus": true,
+            "cityId": 4,
+            "distId": 406,
+            "landNoId": 6730,
+            "landSerialNo": "775",
+            "landownership": 1,
+            "area": "30平方公尺",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 146628,
+            "caseId": 288,
+            "caseStatus": true,
+            "registerDate": 1155779973000,
+            "officialDocNo": "府文資字第0950004326號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.77028825619442,24.674977227741273],[121.77027276783052,24.674919996168413],[121.77024108633739,24.674927263839017],[121.77025684112978,24.67498283286036],[121.77028825619442,24.674977227741273],[121.77028825619442,24.674977227741273]]]]},\"properties\":{\"envelope\":{\"left\":\"121.77024108633739\",\"top\":\"24.674919996168413\",\"right\":\"121.77028825619442\",\"bottom\":\"24.674982832860358\"},\"landLot\":\"宜蘭縣羅東鎮興東段770\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.77031181600722,24.675058441951755],[121.77029527334997,24.674980775947212],[121.77028956089737,24.674982132390056],[121.77028825619442,24.674977227741273],[121.77025684112978,24.67498283286036],[121.77028053041902,24.675064217947817],[121.77031181600722,24.675058441951755],[121.77031181600722,24.675058441951755]]]]},\"properties\":{\"envelope\":{\"left\":\"121.77025684112978\",\"top\":\"24.674977227741273\",\"right\":\"121.77031181600722\",\"bottom\":\"24.675064217947817\"},\"landLot\":\"宜蘭縣羅東鎮興東段771\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.77034208573107,24.67517199686192],[121.77033684173696,24.675146672576904],[121.77032635713547,24.67510622585315],[121.77031378219908,24.675069699059506],[121.77031181600722,24.675058441951755],[121.77028053041902,24.675064217947817],[121.77025684112978,24.67498283286036],[121.77024108633739,24.674927263839017],[121.77021609437232,24.674932998516784],[121.77024768679688,24.67504797312241],[121.77021168308669,24.675056129660618],[121.77022345888521,24.67507354786461],[121.770220974588,24.67510502387793],[121.7702162922379,24.675167929295203],[121.77034208573107,24.67517199686192],[121.77034208573107,24.67517199686192]]]]},\"properties\":{\"envelope\":{\"left\":\"121.77021168308669\",\"top\":\"24.674927263839017\",\"right\":\"121.77034208573107\",\"bottom\":\"24.67517199686192\"},\"landLot\":\"宜蘭縣羅東鎮興東段772\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.77017253958476,24.675111303094784],[121.77017145309223,24.67516606469265],[121.7702162922379,24.675167929295203],[121.770220974588,24.67510502387793],[121.77017253958476,24.675111303094784],[121.77017253958476,24.675111303094784]]]]},\"properties\":{\"envelope\":{\"left\":\"121.77017145309223\",\"top\":\"24.675105023877929\",\"right\":\"121.770220974588\",\"bottom\":\"24.675167929295203\"},\"landLot\":\"宜蘭縣羅東鎮興東段775\"}}],\"notfound\":[]}]",
+    "openVisitType": "完全開放參觀",
+    "openUpTime": "週一至週日8:00~20:00",
+    "isCharge": false,
+    "pastHistorySource": "羅東鎮公所-日治時期「羅東鄉土資料」"
+}

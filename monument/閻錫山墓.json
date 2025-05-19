@@ -1,0 +1,134 @@
+{
+    "id": 145,
+    "caseId": "20100316000001",
+    "count": 5383,
+    "shareCount": 3,
+    "representImage": 145256,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/59e76a79-e434-448b-8a9b-46159d516912/B025 台北市 閻錫山墓 (直轄定)01_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/59e76a79-e434-448b-8a9b-46159d516912/B025 台北市 閻錫山墓 (直轄定)01.JPG",
+        "name": "B025 台北市 閻錫山墓 (直轄定)01"
+    },
+    "caseName": "閻錫山墓",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "閻錫山，字伯川，號龍池，晚號還中，山西省五臺縣人，先世以務農經商為業。祖青雲公，字龍雨，創大堡義塾，喜讀經史，平日以孝悌忠義等有關故事，及歷代興衰，課教子弟。 民國38年（1949）12月8日，時蔣總統已引退，代總統李宗仁遠赴美國，閻氏乃於行政院長任內，率政府由成都遷臺，穩定大局，政府統緒賴以不墜。閻氏率政府遷臺以至於卸任閣揆，時僅三月餘（民國38年12月8日至民國39年3月6日請辭，3月15日交接。）民國39年8月12日，遷居陽明山菁山。民國49年（1960）5月23日病逝。",
+    "assetsTypeNames": "墓葬",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 145257,
+            "name": "3._990316市定古蹟公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/781036bf-8244-478c-95bb-c939aee1493f/3._990316市定古蹟公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "重要歷史事件或人物之關係",
+        "具稀少性，不易再現者",
+        "具其他古蹟價值者"
+    ],
+    "registerReason": "一、閻氏為國民政府重要政治人物，曾高任行政院長兼國防部長，為當年相當重要之歷史人物，墓園為其重要的代表性建築之一。二、墓園內之墓碑、寶頂，前方層級而上的墓道及後方背山，形成一完整墓園風水形式，設計具特色、石碑保存完整、風格明顯，具歷史及建物之特殊價值。",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、2、4、6款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 145258,
+            "name": "B025 台北市 閻錫山墓 (直轄定)03.JPG",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/4a3c50b3-74cc-4980-af6f-5eb217040968/B025 台北市 閻錫山墓 (直轄定)03.JPG"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 11,
+    "nonCityLandUseTypeName": "其他使用區",
+    "nonLandUseOtherType": "綠地",
+    "locationLandNo": "臺北市士林區新安段6小段300地號（部分）、301地號（部分）",
+    "buildingFeatures": "墓園內之墓碑、寶頂，前方層級而上的墓道及後方背山，形成一完整墓園風水形式，設計具特色、石碑保存完整、風格明顯，具歷史及建物之特殊價值。",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "保存良好",
+    "buildingKeyMaintainItem": "墓園內之墓碑、寶頂，前方層級而上的墓道及後方背山，形成一完整墓園風水形式，設計具特色、石碑保存完整、風格明顯，具歷史及建物之特殊價值。",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.5607684,
+    "latitude": 25.1331932,
+    "representImageSource": "文化局",
+    "landScope": "臺北市士林區新安段6小段300地號（部分）、301地號（部分）",
+    "selfCoverage": "閻錫山墓",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 67673,
+            "caseId": 145,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "臺北市士林區永公路245巷34弄"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "新安段六小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 62848,
+            "caseId": 145,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 626,
+            "landSerialNo": "300",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "cityLandUseTypeOther": "綠地用地(公共設施用地)",
+            "note": "綠地用地(公共設施用地)",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "新安段六小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 62849,
+            "caseId": 145,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 626,
+            "landSerialNo": "301",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "cityLandUseTypeOther": "綠地用地(公共設施用地)",
+            "note": "綠地用地(公共設施用地)",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 71936,
+            "caseId": 145,
+            "caseStatus": true,
+            "registerDate": 1268668800000,
+            "officialDocNo": "北市文化二字第09931751300號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false,
+    "pastHistorySource": "市定古蹟閻錫山故居調查研究"
+}

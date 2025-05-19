@@ -1,0 +1,97 @@
+{
+    "id": 19620,
+    "caseId": "20210719000011",
+    "count": 311,
+    "shareCount": 1,
+    "representImage": 125194,
+    "representImageInfo": {
+        "ext": "bmp",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-19/db3062d0-0dd0-48e1-ac49-cc4f71ce1c94/圖片11_c.bmp"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-19/db3062d0-0dd0-48e1-ac49-cc4f71ce1c94/圖片11.bmp",
+        "name": "圖片11"
+    },
+    "caseName": "法國十八世紀賽佛爾窯白瓷金彩花卉蓋罐",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "數量特別稀少或具完整性保存意義者",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此器罐身呈圓口筒形，矮圈足，蓋面呈弧形平折沿，頂飾帶葉櫻桃。通體彩繪金彩西式卷草紋。器底繪皇冠、書雙「L」、雙「f」及「LF」等金彩標記。透過器底的款識和原始販售標籤，能追溯其產燒於1783年法國賽佛爾瓷廠。法國直至1770年代才燒出硬質胎瓷器，器底的金彩皇冠，便是紀念賽佛爾瓷廠達成此重要里程碑的記號。從傳世隨附的木匣，可推知乾隆皇帝將賽佛爾瓷看成是和清宮畫琺瑯一樣的器類。此件法國官窯瓷器，推測可能是當時法國首相Henry Leonard Jean-Baptiste Bertin向乾隆皇帝表達友好所贈之禮，反映了18世紀中法之間的密切交流，益顯珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "0422177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故瓷015560",
+    "amount": 1,
+    "descAge": " 西元 1783年",
+    "descSize": "高9.3公分 口徑9.1公分 底徑5.9公分",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "此蓋罐分為蓋與身兩部份，身作筒形、圓口，近底處內收接圈足。蓋面弧形，頂飾帶葉櫻桃，平折沿，筒形子口。通體彩繪金彩紋樣，口沿及足壁各繪寬、窄雙圈，上下加飾西式卷草紋。周壁描畫朵花和折枝花卉，器蓋紋飾與器身相同。器底繪皇冠、書雙「L」、雙「f」及「LF」等金彩標記。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "蓋內沿舊傷缺及金彩脫落；罐身口沿金彩脫落、罐身釉表舊刮痕、圈足舊傷缺及金彩脫落。",
+    "documents": [
+        {
+            "fileid": 142664,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-04/a603971c-2d83-4b3f-906e-469ebc3aecf6/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.5484322510235,
+    "latitude": 121.5484322510235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": " ",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 66413,
+            "caseId": 19620,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 70602,
+            "caseId": 19620,
+            "caseStatus": true,
+            "registerDate": 1624433033826,
+            "officialDocNo": "文授資局物字第11030062561號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

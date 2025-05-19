@@ -1,0 +1,113 @@
+{
+    "id": 17923,
+    "caseId": "20201027000001",
+    "count": 2594,
+    "shareCount": 1,
+    "representImage": 73723,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-10-27/cafa1255-441b-43cc-98c8-39c32ade327b/新化回生院_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-10-27/cafa1255-441b-43cc-98c8-39c32ade327b/新化回生院.jpg",
+        "name": "新化回生院"
+    },
+    "caseName": "原新化回生院",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "醫院",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1588573315080,
+    "officialDocNo": "南市文資字第1090482534A號",
+    "documents": [
+        {
+            "fileid": 164953,
+            "name": "原新化回生院公告-109.05.04.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-23/1c45ac2c-fccc-4112-b6d6-3bde9896e424/原新化回生院公告-109.05.04.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "具地區性建造物類型之特色者：\n1.新化衛生所前身為日治時期之新化回生院，建於昭和2年（1927），由當時臺南州廳所設，專供新化街及鄰近地區傳染病發生時收容病患之用。二戰末期，臺南市區遭盟軍轟炸，臺南病院曾遷至新化回生院從事醫療，至戰後始遷回。\n2.二戰後，政府於各鄉鎮成立衛生所，俾便辦理地方衛生行政及醫療業務，民國40年（1951）2月21日在原回生院成立新化鎮衛生所。後隨縣市政府組織變遷，現隸屬臺南市政府衛生局。新化衛生所為臺南少數自日治時期起具有醫療功能使用迄今之建築物。\n3.建築物採類辰野式紅磚白石紋帶風格，雖於民國86年（1997）因空間不敷使用，進行整修擴建，但擴建建物外觀仍仿照原建築風格。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第3款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "新化區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 73725,
+            "name": "本體及定著土地範圍示意圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2020-10-27/03b82708-56b5-4174-898e-2301226956ea/本體及定著土地範圍示意圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "機關用地",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺南市新化區新豐段529地號",
+    "bulkTransfer": 0,
+    "wenSitename": "臺南市新化區衛生所",
+    "wenSiteaddress": "https://web.tainan.gov.tw/tnshhhs/",
+    "belongAddress": "臺南市新化區健康路143號",
+    "isOpenVisit": true,
+    "openUpTime": "星期一至星期五8:00-12:00、14:00-17:00",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.3050429,
+    "latitude": 23.034393,
+    "representImageSource": "業務單位拍攝",
+    "landScope": "",
+    "selfCoverage": "原建築構造物乙棟",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "新化區",
+            "id": 93431,
+            "caseId": 17923,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1610,
+            "address": "健康路143號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺南市",
+            "distName": "新化區",
+            "landNoName": "新豐段",
+            "id": 115014,
+            "caseId": 17923,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1610,
+            "landNoId": 3430,
+            "landSerialNo": "529",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 100855,
+            "caseId": 17923,
+            "caseStatus": true,
+            "registerDate": 1588573315080,
+            "officialDocNo": "南市文資字第1090482534A號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.30502197807955,23.034298915814542],[120.30492927433609,23.034278277610763],[120.30469644763535,23.034242876368587],[120.30451833965147,23.03422119399971],[120.30452726536952,23.03447018414963],[120.30489021790557,23.034477560412522],[120.30502197807955,23.034298915814542],[120.30502197807955,23.034298915814542]]]]},\"properties\":{\"envelope\":{\"left\":\"120.30451833965147\",\"top\":\"23.034221193999709\",\"right\":\"120.30502197807955\",\"bottom\":\"23.034477560412522\"},\"landLot\":\"臺南市新化區新豐段529\"}}],\"notfound\":[]}]",
+    "openVisitType": "部分開放參觀"
+}

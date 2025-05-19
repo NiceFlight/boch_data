@@ -1,0 +1,95 @@
+{
+    "id": 22986,
+    "caseId": "20240913000004",
+    "count": 74,
+    "shareCount": 1,
+    "representImage": 262188,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-09-13/6a3ad800-fa46-4a3e-a2a5-744c3547e210/PC1A000363N000000000PAD_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-09-13/6a3ad800-fa46-4a3e-a2a5-744c3547e210/PC1A000363N000000000PAD.jpg",
+        "name": "PC1A000363N000000000PAD"
+    },
+    "caseName": "盛至中唐 雲龍紋菱花鏡",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "具有重要藝術造詣或科學成就",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "此鏡為唐代盛行的雲龍紋鏡，使用淺浮雕表現紋飾內容，龍身線條流暢，勾勒細緻，氣韻躍然，鑄造精美，工藝及紋飾內容皆呈現著大唐(西元8-9世紀)的盛世氣象。尤其是龍紋銜珠(鏡鈕)之造型，是目前出土品及傳世品所見唯一的一件，為獨特且珍稀之處。\n據《清宮內務府造辦處各作成作活計檔》，〈西清續鑑‧乙編〉鏡匣共五十四冊，匣盒裝禎成書冊形式，每一面銅鏡皆配有木蓋與錦托，華美繁複。全套完成於乾隆四十八年（1784），為《西清續鑑‧乙編》載錄銅鏡之集結。此鏡即收儲於其中第三十六冊，明確屬於乾隆時期的清宮舊藏品。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第3、4、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "中銅000363",
+    "amount": 1,
+    "descAge": "盛至中唐",
+    "descSize": "徑17.9",
+    "descMaterial": "銅",
+    "reserveStatusDesc": "此八瓣菱花形鏡，半球鈕。鏡背內區飾一浮雕騰龍紋。龍首帶有聳立分叉的雙角，身上滿佈鱗甲。龍身翻轉迴旋，四肢伸展強而有力。龍騰於雲霧間氣勢威武，張口啣住球形鏡鈕，極具戲劇張力。四周環繞朵朵流雲，有飛龍在天之象。外區略高，鏡緣菱瓣內為唐鏡習見之折枝花及蜂蝶紋。此類雲龍紋鏡曾出土於陝西、浙江、廣東等地唐墓中。約出現於盛唐晚期唐玄宗開元年間，極盛於中唐時期。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": " ",
+    "documents": [
+        {
+            "fileid": 262187,
+            "name": "11330087931號公告用印後PDF.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-09-13/64645aa2-5813-4739-928e-acc0cd6505f5/11330087931號公告用印後PDF.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 135916,
+            "caseId": 22986,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 148394,
+            "caseId": 22986,
+            "caseStatus": true,
+            "registerDate": 1725344993380,
+            "officialDocNo": "文授資局物字第11330087931號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

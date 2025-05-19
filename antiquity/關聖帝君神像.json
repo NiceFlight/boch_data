@@ -1,0 +1,92 @@
+{
+    "id": 3009,
+    "caseId": "20130801000002",
+    "count": 1287,
+    "shareCount": 4,
+    "representImage": 5401,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7380/photo/關聖帝君神像_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7380/photo/關聖帝君神像.JPG",
+        "name": "關聖帝君神像"
+    },
+    "caseName": "關聖帝君神像",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-其他",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1375286400000,
+    "officialDocNo": "1020147827",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有一定之時代特色、技術及流派",
+        "具有珍貴及稀有性者"
+    ],
+    "registerReason": "1.此關聖帝君像的神態莊嚴，相傳出自林起鳳等名家之手，深具保存及工藝價值。\r\n2.林起鳳是日據知名雕塑家，黃土水的啟蒙老師及業師之ㄧ，泥塑技法極為傳神、精湛，為難得之作品。\r\n3.目前狀況能窺見原作之面貌，具有一定之時代特色、技術及流派。",
+    "lawsReference": "符合「古物分級登錄指定及廢止審查辦法」第2條第1項第1、3、4、5款評定基準，爰依據「古物分級登錄指定及廢止審查辦法」第5、7條登錄。",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "豐原區",
+    "reservationCode": "",
+    "keepNameId": 17,
+    "keepName": "豐原慈濟宮",
+    "keepNameNew": 17,
+    "keepAddressNew": "臺中市豐原區中山里中正路179號",
+    "amount": 1,
+    "notes": "",
+    "reserveStatusDesc": "",
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 5402,
+            "name": "09a5348f-d7c5-4701-86c9-64924256f651.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44345/file/09a5348f-d7c5-4701-86c9-64924256f651.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "豐原慈濟宮",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺中市豐原區中山里中正路179號",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "豐原區",
+            "id": 3146,
+            "caseId": 3009,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1013
+        }
+    ],
+    "announces": [
+        {
+            "id": 3146,
+            "caseId": 3009,
+            "caseStatus": true,
+            "registerDate": 1375286400000,
+            "officialDocNo": "1020147827",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

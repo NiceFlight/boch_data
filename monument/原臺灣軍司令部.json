@@ -1,0 +1,110 @@
+{
+    "id": 65,
+    "caseId": "20040115000001",
+    "count": 3686,
+    "shareCount": 6,
+    "representImage": 169447,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/94adb26b-251b-4b1d-9d78-cc33ce04b9ce/代表圖像_原臺灣軍司令部_20220621_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/94adb26b-251b-4b1d-9d78-cc33ce04b9ce/代表圖像_原臺灣軍司令部_20220621.jpg",
+        "name": "代表圖像_原臺灣軍司令部_20220621"
+    },
+    "caseName": "原臺灣軍司令部",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "大正八年(1919)依臺灣軍司令部條例設置之機構，興建於大正九年(1920)，日治時期位於本市三線道書院町(今屬中正區建國里)。建地有七千兩百餘坪，包括軍事幕僚、武器、經理、軍醫、獸醫、法務等各部門。",
+    "assetsTypeNames": "衙署",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 109366,
+            "name": "3.公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/767d0202-bec7-419f-ba6a-33854c14ba17/3.公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值"
+    ],
+    "registerReason": "1.臺灣是日本第一個殖民地，1930年後更成為南進基地，駐有重兵，設有臺灣軍司令部，以鎮壓人民與對外擴張，故此建築物具重要歷史見證。\r\n2.本建築物係國民政府來台後戒嚴時期之最高執行機關警備總部所在，乃戰後臺灣政治發展史的重要史證。\r\n3.建築物之設計出自日治時期建築師森山松之助，其結構與外觀完整，具建築史之價值，可作為台灣地區軍事建築見證。",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 116762,
+            "name": "ca_20100722_10584932.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/49924160-9684-41ae-8b32-4904f5b70d62/ca_20100722_10584932.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "尚未填寫",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市中正區城中段三小段66地號部分土地",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "日據時期總督府設置軍司令部，指揮在臺的日本駐軍。後來，臺灣總督由文官擔任，不再兼管軍務，軍部司令官改由日本天皇直接派任，隨後興建這棟建築。\r\n戰後，國民政府接收改為警備總司令部，臺灣解嚴後，警總也因而裁撤，目前建物由國防部接管使用中。",
+    "buildingActualState": "辦公空間使用。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.510806,
+    "latitude": 25.036895,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市中正區城中段三小段66地號部分土地",
+    "selfCoverage": "博愛路172號部本部大樓（紅樓）",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 93984,
+            "caseId": 65,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "博愛路172號部本部大樓(紅樓)"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "城中段三小段",
+            "cityLandUseTypeName": "行政區",
+            "id": 115673,
+            "caseId": 65,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 148,
+            "landSerialNo": "0066-0000",
+            "landownership": 1,
+            "cityLandUseTypeId": 4,
+            "coverageId": 1,
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 101444,
+            "caseId": 65,
+            "caseStatus": true,
+            "registerDate": 1074096000000,
+            "officialDocNo": "府文化二字第09304425500號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false,
+    "pastHistorySource": ""
+}

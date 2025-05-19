@@ -1,0 +1,90 @@
+{
+    "id": 3263,
+    "caseId": "20160112000012",
+    "count": 458,
+    "shareCount": 0,
+    "representImage": 5720,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43371/photo/3a81cf39-49b6-4df3-85cd-0002e35005b2_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43371/photo/3a81cf39-49b6-4df3-85cd-0002e35005b2.jpg",
+        "name": "3a81cf39-49b6-4df3-85cd-0002e35005b2"
+    },
+    "caseName": "元保宮-澤潤生民匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1452528000000,
+    "officialDocNo": "府授文資遺字第10500045404號",
+    "judgeCriteria": [
+        "具有一定之時代特色、技術及流派"
+    ],
+    "registerReason": "本案落款人賴廷彰為光緒乙亥年舉人，祖籍廣東，定居於苗栗縣銅鑼鄉，雖與賴厝廍大多數同姓賴，卻並非同源自福建，既非同源也非居住於此；故可由此來源推測當時元保宮信仰範圍可能擴及鄰近的苗栗地區。",
+    "lawsReference": "符合「古物分級登錄指定及廢止審查辦法」第2條第1項第3款評定基準。",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "北區",
+    "reservationCode": "",
+    "keepNameId": 17,
+    "keepName": "元保宮",
+    "keepNameNew": 17,
+    "keepAddressNew": "臺中市北區梅川西路三段109號",
+    "amount": 1,
+    "notes": "",
+    "reserveStatusDesc": "",
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 5721,
+            "name": "0300c65a-0a80-4d5d-b2fa-d909833f9b10.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44428/file/0300c65a-0a80-4d5d-b2fa-d909833f9b10.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "元保宮",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺中市北區梅川西路三段109號",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "北區",
+            "id": 3404,
+            "caseId": 3263,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1005
+        }
+    ],
+    "announces": [
+        {
+            "id": 3404,
+            "caseId": 3263,
+            "caseStatus": true,
+            "registerDate": 1452528000000,
+            "officialDocNo": "府授文資遺字第10500045404號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

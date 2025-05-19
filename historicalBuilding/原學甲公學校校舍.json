@@ -1,0 +1,111 @@
+{
+    "id": 16472,
+    "caseId": "20190107000004",
+    "count": 2563,
+    "shareCount": 1,
+    "representImage": 122679,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-06/5d11aa0c-1907-4793-83e5-ba08f3be1b62/歷063原學甲公學校校舍_P001_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-06/5d11aa0c-1907-4793-83e5-ba08f3be1b62/歷063原學甲公學校校舍_P001.jpg",
+        "name": "歷063原學甲公學校校舍_P001"
+    },
+    "caseName": "原學甲公學校校舍",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "學校",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1545981700054,
+    "officialDocNo": "府文資處字第1071388380A號",
+    "documents": [
+        {
+            "fileid": 164783,
+            "name": "原學甲公學校校舍公告-107.12.28.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-23/e267eb8a-e4ea-415e-9a02-92a16d5cd884/原學甲公學校校舍公告-107.12.28.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "具建築史或技術史之價值者：學甲公學校校舍建於大正7年（1918），為日治時期典型紅磚拱圈教室，代表當時公學校建築之案例，具臺南地區初等教育史意義。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第2款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "學甲區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 124327,
+            "name": "歷史建築原學甲學校校舍定著圖.doc",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-07-14/29a85b2f-c547-4894-9d7c-16a317ac7805/歷史建築原學甲學校校舍定著圖.doc"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺南市學甲區慈濟段259地號",
+    "buildingFeatures": "",
+    "buildingActualState": "",
+    "bulkTransfer": 0,
+    "belongAddress": "臺南市學甲區天水路30號",
+    "isOpenVisit": false,
+    "openUpTime": "",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.17969,
+    "latitude": 23.23725,
+    "representImageSource": "臺南市政府",
+    "landScope": "",
+    "selfCoverage": "校舍建物1棟",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "學甲區",
+            "id": 82719,
+            "caseId": 16472,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1624,
+            "address": "天水路30號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺南市",
+            "distName": "學甲區",
+            "landNoName": "慈濟段",
+            "id": 91705,
+            "caseId": 16472,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1624,
+            "landNoId": 3269,
+            "landSerialNo": "259地號",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 88853,
+            "caseId": 16472,
+            "caseStatus": true,
+            "registerDate": 1545981700054,
+            "officialDocNo": "府文資處字第1071388380A號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"臺南市學甲區慈濟段259地號\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "openVisitType": "不開放參觀"
+}

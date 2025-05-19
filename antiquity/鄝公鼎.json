@@ -1,0 +1,106 @@
+{
+    "id": 16576,
+    "caseId": "20190215000015",
+    "count": 312,
+    "shareCount": 0,
+    "representImage": 55476,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-02-15/3aa62df5-bfca-4afd-b96a-be0ba4a5ade0/17-購銅000087_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-02-15/3aa62df5-bfca-4afd-b96a-be0ba4a5ade0/17-購銅000087.jpg",
+        "name": "17-購銅000087"
+    },
+    "caseName": "鄝公鼎",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1550125181760,
+    "officialDocNo": "文授資局物字第10830016641號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "數量特別稀少或具完整性保存意義者",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此附蓋小口鼎為直沿口，雙立耳，球形鼓腹，三蹄足。自名為湯鼎，為煮水之用。在春秋時期南方楚系青銅器中，通常與浴缶相配，可做為成套的盥洗器具，同類器出土於河南淅川下寺楚墓及南陽彭射墓。鼎、缶的組合奠定於春秋中晚期，主要集中於南陽盆地一帶，此器即為這一奠定階段的重要代表。\n由銘文可知此器為鄝國君長「鄝公」所作。鄝國器另有銘曰「鄝子」「鄝叔」所作的銅戈。據《左傳》等傳世文獻記載，古鄝國為春秋時期楚國的附庸。此器對認識鄝國於東周時期的發展及歷史地理，以及楚系青銅器區域風格的形成，均具有重要意義。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第3、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777　",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "購銅000087",
+    "amount": 1,
+    "descAge": "春秋晚期(西元前6世紀) ",
+    "descSize": "通耳39.6公分/口徑19公分",
+    "descMaterial": "銅/鑄造",
+    "reserveStatusDesc": "附蓋小口鼎，直沿，雙立耳，球形鼓腹，三蹄足。平頂式器蓋上附四環形鈕，鈕上飾V形紋。器腹上半部以兩道綯索紋為界，區隔帶狀環繞器身的細密蟠虺紋，最下層接飾一周垂葉三角紋。蹄足上飾浮雕獸首。\n器蓋對銘，字體皆為反書。銘文位於器蓋頂面及器身肩部，十二字呈環形排列：「鄝公（并殳）之 （湯）鼎，子孫永保用之。」",
+    "pastHistorySource": 2,
+    "saveEnvironment": 1,
+    "reserveStatus": "器蓋經修補，現況良好。經X光檢視，方能辨識器蓋頂面鏽層下的銘文及紋飾，並且可見蓋沿的破損情形和修補痕跡。",
+    "documents": [
+        {
+            "fileid": 146822,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-02/cd5da8a3-48af-49e4-9e4d-50a54b3a4775/公告.pdf"
+        },
+        {
+            "fileid": 146823,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-02/935f78e4-7f6e-40a0-9fe6-e2c4cb75790a/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 68712,
+            "caseId": 16576,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 72812,
+            "caseId": 16576,
+            "caseStatus": true,
+            "registerDate": 1550125181760,
+            "officialDocNo": "文授資局物字第10830016641號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

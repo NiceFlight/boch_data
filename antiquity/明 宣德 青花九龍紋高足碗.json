@@ -1,0 +1,95 @@
+{
+    "id": 22979,
+    "caseId": "20240911000003",
+    "count": 15,
+    "shareCount": 0,
+    "representImage": 262327,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-09-18/0f568cc1-3b84-4010-be56-5fd95b5d2776/K1B016656N000000000PAB_c.png"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-09-18/0f568cc1-3b84-4010-be56-5fd95b5d2776/K1B016656N000000000PAB.png",
+        "name": "K1B016656N000000000PAB"
+    },
+    "caseName": "明 宣德 青花九龍紋高足碗",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "具有重要藝術造詣或科學成就",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "本件高足碗的胎體緻密，釉面瑩潤，全器以柔筆波濤烘托龍紋及海水薑牙(亦寫為海水江崖)主題，是明代宣德時期繪製最為精巧，最能展現時代工藝技術的作品。宣德時期的九龍紋高足碗數量稀少，本件作品品相上佳，益顯珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第3、4、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故瓷016656",
+    "amount": 1,
+    "descAge": " 明 宣德",
+    "descSize": "高10.6 口徑15.3 底徑4.3",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "本件高足碗碗口外侈、深壁。通體以青花為飾，淡描海水為地，碗外壁繪九條矯健的五爪龍。九龍張牙舞爪、互相追逐，姿態生動，高足脛部畫海水薑牙紋。碗內壁暗花飾兩條五爪龍，碗心書「大明宣德年製」青花楷書款。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": " ",
+    "documents": [
+        {
+            "fileid": 262120,
+            "name": "11330087931號公告用印後PDF.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-09-12/4afb36b0-2f85-47fd-af07-3de775091ccb/11330087931號公告用印後PDF.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "  ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 135979,
+            "caseId": 22979,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 148466,
+            "caseId": 22979,
+            "caseStatus": true,
+            "registerDate": 1725342260644,
+            "officialDocNo": "文授資局物字第11330087931號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

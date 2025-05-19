@@ -1,0 +1,105 @@
+{
+    "id": 16598,
+    "caseId": "20190219000004",
+    "count": 152,
+    "shareCount": 0,
+    "representImage": 55592,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-02-19/c9515480-22be-4847-b212-fad806822d6c/4-故畫000657_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-02-19/c9515480-22be-4847-b212-fad806822d6c/4-故畫000657.jpg",
+        "name": "4-故畫000657"
+    },
+    "caseName": "明崔子忠雲中雞犬 軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1550111003829,
+    "officialDocNo": "文授資局物字第10830016291號",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "崔子忠（？-1644）山東省萊陽人，寓順天府（今北京），擅畫人物，與晚明陳洪綬（1598-1652）齊名，併稱「南陳北崔」，為晚明人物畫大家，存世畫蹟稀少。\n本幅描繪東晉道教淨明道派教祖許遜的故事，人物描寫傳神，用筆設色雅秀，雋逸高古，為崔氏精品。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第4、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故畫000657",
+    "amount": 1,
+    "descAge": "明",
+    "descSize": "本幅191.4公分x84公分/全幅328公分，86公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "崔子忠（？-1644），初名丹，字開予，改名子忠，字道母，號青蚓（一作青引）。山東省萊陽人，寓順天府（今北京）。曾遊董其昌之門，李自成攻克北京後，絕食而死。擅畫人物，與晚明陳洪綬（1598-1652）齊名，併稱「南陳北崔」。 \n本幅描繪東晉道教淨明道派教祖許遜的故事。道教傳說許真人一百三十六歲時，天仙奉玉皇命，授他九州都仙太史高明大使之職，並告知成仙之日。當日許真人與弟子家眷，連同雞犬，一齊飛昇而去。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "包首：傷補，霉傷，水漬，傷補。本幅：霉傷，水漬，蟲蛀，傷補，折痕。畫本幅有折痕裂紋。傷磨損刮痕。",
+    "documents": [
+        {
+            "fileid": 146916,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-03/2b77fa0c-b51f-450b-a13a-a5262221c3ca/公告.pdf"
+        },
+        {
+            "fileid": 146917,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-03/076b59e0-a3ad-40b9-a1b1-86ec2e358b57/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 68744,
+            "caseId": 16598,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 72844,
+            "caseId": 16598,
+            "caseStatus": true,
+            "registerDate": 1550111003829,
+            "officialDocNo": "文授資局物字第10830016291號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

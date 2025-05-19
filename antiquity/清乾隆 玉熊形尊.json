@@ -1,0 +1,101 @@
+{
+    "id": 3828,
+    "caseId": "20140421000042",
+    "count": 554,
+    "shareCount": 2,
+    "representImage": 6632,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39172/photo/pic056_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39172/photo/pic056.jpg",
+        "name": "pic056"
+    },
+    "caseName": "清乾隆 玉熊形尊",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1398009600000,
+    "officialDocNo": "文資物字第10320043691號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要之時代特色、技術及流派"
+    ],
+    "registerReason": "此件玉熊形尊，青白色閃玉質，有白、黃斑。器成像生熊形，張口翹舌、左肢前伸、右肢向側後拉展、掌上執一丸，似正蓄勢擲出。頸背之處突出一管。管背陰刻三行隸款「大清乾隆倣古」。\r\n此玉熊以《西清古鑑》38卷34頁之「唐飛熊表座」（即為院藏故銅002429，依考古資料訂年為漢之銅熊尊）為藍本仿作。係銅熊原典、《西清古鑑》圖錄、時玉仿作及造辦處活計清檔檔案資料均完整齊備之作品，除可清楚解釋清宮玉作流程之作，亦是瞭解乾隆皇帝品鑑與仿古的最佳組合。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第1、3款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故玉002842",
+    "amount": 1,
+    "notes": "",
+    "descAge": "清　乾隆",
+    "descSize": "長：9.1；寬：6；高：9.1（公分）",
+    "descMaterial": "閃玉",
+    "reserveStatusDesc": "質材：青白色閃玉質，有白、黃斑。\n形制：器成像生熊形：張口翹舌、左肢前伸、右肢向側後拉展、掌上執一丸，似正蓄勢擲出。頸背之處突出一管。\n其他：管背陰刻三行隸款「大清乾隆倣古」。\n附木座，座上刻「乾隆御賞」、「唐飛熊表座」。\n特徵：係以《西清古鑑》38 卷34 頁之「唐飛熊表座」為藍本仿做，該銅器現亦藏於國立故宮博物院（故銅2429），依考古資料訂年為漢。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。有玉璺。",
+    "documents": [
+        {
+            "fileid": 150296,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-13/e84ff0b3-17d2-4505-af5d-205be5bed679/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70899,
+            "caseId": 3828,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75175,
+            "caseId": 3828,
+            "caseStatus": true,
+            "registerDate": 1398009600000,
+            "officialDocNo": "文資物字第10320043691號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

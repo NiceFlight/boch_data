@@ -1,0 +1,102 @@
+{
+    "id": 4519,
+    "caseId": "20170523000002",
+    "count": 355,
+    "shareCount": 0,
+    "representImage": 7612,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/134638/photo/02_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/134638/photo/02.jpg",
+        "name": "02"
+    },
+    "caseName": "宋郭熙山莊高逸軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1495468800000,
+    "officialDocNo": "文授資局物字第1063005353號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本作右下角有款書「河陽郭熙寫」，故舊傳為北宋人郭熙之作，然比對風格、技法、特徵等方面，推斷當屬明初宮廷畫家李在（約活動於15世紀前半葉）的作品。\n李在出身福建地區，宣德年間進宮任職，與戴進、謝環、石銳、周文靖等同值仁智殿，於明代宮廷擔任畫師約達三十年之久，歷經宣德、正統、景泰、天順、成化五朝，對後世影響甚重。\n此幅受到風靡明初之北宋郭熙畫風影響，技法純熟老練，為典型明代宮廷山水風格，不但具有承先啟後的歷史意義，也堪稱李在的典型代表傑作。\n",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第3、5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000829",
+    "amount": 1,
+    "descAge": "明",
+    "descCreator": "李在",
+    "descSize": "188.8公分x109.1公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "通幅呈現恬淡安適的鄉村景致，敘事情節十分豐富。構圖以中央主峰為中心，呈現出堆疊的山峰造型；畫山石以習自郭熙之「雲頭皴」為主，輔以董源、巨然之「短披麻皴」，描繪變幻莫測的山體走勢；樹木與分枝部分，則以「蟹爪樹法」表現。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "包首有部分霉傷、磨損、水漬。本幅為雙拼絹，畫心有部分污漬、霉傷、蟲蛀、傷補、折裂。天綾有部分折裂。",
+    "documents": [
+        {
+            "fileid": 148237,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-21/705ce6fe-a0e5-4608-beab-f8737cbefb5b/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69356,
+            "caseId": 4519,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73513,
+            "caseId": 4519,
+            "caseStatus": true,
+            "registerDate": 1495468800000,
+            "officialDocNo": "文授資局物字第1063005353號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

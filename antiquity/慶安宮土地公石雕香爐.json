@@ -1,0 +1,114 @@
+{
+    "id": 3042,
+    "caseId": "20141017000008",
+    "count": 480,
+    "shareCount": 0,
+    "representImage": 5457,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/5357/photo/慶安宮土地公石雕香爐_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/5357/photo/慶安宮土地公石雕香爐.JPG",
+        "name": "慶安宮土地公石雕香爐"
+    },
+    "caseName": "慶安宮土地公石雕香爐",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1413475200000,
+    "officialDocNo": "府授文資字第10301991187號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色"
+    ],
+    "registerReason": "此香爐為祭土地公之香爐，方形、以石頭雕成、有麒麟紋飾，象徵祥瑞。爐上有「道光辛丑，蕭英敬」銘文，即道光21年（1841）製品，為目前已知縣內石香爐中具有年款較早者，具歷史價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第2條第1項第1款",
+    "govInstitutionCode": "540",
+    "govInstitutionName": "南投縣政府",
+    "belongCityId": 12,
+    "belongCityName": "南投縣",
+    "belongDistName": "草屯鎮",
+    "govInstitution": "南投縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "049-2231191",
+    "govDeptAddress": "540南投市建國路135號",
+    "reservationCode": "無",
+    "amount": 1,
+    "notes": "",
+    "descAge": "清道光21年(1841)",
+    "descSize": "寬44 深33 高43.5公分",
+    "descMaterial": "石質",
+    "reserveStatusDesc": "石雕，特徵為長耳長方形香爐、爐身正面麒麟浮雕，爐耳為花草紋浮雕。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "1841年",
+    "saveEnvironment": 2,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 177131,
+            "name": "慶安宮土地公石雕香爐 修正公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-29/2d88dc10-d44f-418b-a97a-e848fb52032f/慶安宮土地公石雕香爐 修正公告.pdf"
+        },
+        {
+            "fileid": 177132,
+            "name": "慶安宮土地公石雕香爐 原公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-29/57f352a3-59c0-4427-9135-55d2605819f3/慶安宮土地公石雕香爐 原公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 120.6602,
+    "latitude": 23.98441,
+    "representImageSource": "文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "慶安宮管理委員會",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "南投縣草屯鎮北投里4鄰北投路416號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "南投縣",
+            "distName": "草屯鎮",
+            "id": 87855,
+            "caseId": 3042,
+            "caseStatus": true,
+            "cityId": 12,
+            "distId": 1203,
+            "address": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 94614,
+            "caseId": 3042,
+            "caseStatus": true,
+            "registerDate": 1405047314543,
+            "officialDocNo": "府授文資字第10301338207號",
+            "classificationId": 1
+        },
+        {
+            "id": 94613,
+            "caseId": 3042,
+            "caseStatus": true,
+            "registerDate": 1413475200000,
+            "officialDocNo": "府授文資字第10301991187號",
+            "classificationId": 2
+        }
+    ],
+    "isPublic": false
+}

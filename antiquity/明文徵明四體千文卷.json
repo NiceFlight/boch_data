@@ -1,0 +1,101 @@
+{
+    "id": 3838,
+    "caseId": "20140915000008",
+    "count": 269,
+    "shareCount": 0,
+    "representImage": 6646,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/5531/photo/明文徵明四體千文卷_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/5531/photo/明文徵明四體千文卷.jpg",
+        "name": "明文徵明四體千文卷"
+    },
+    "caseName": "明文徵明四體千文卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1410710400000,
+    "officialDocNo": "10320112241",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "文徵明（1470－1559）明四大家之一，能書善畫。書法初學宋元，後法晉唐，各體書均擅。\n此卷分別以楷、草、隸、篆四體書寫，楷、草筆鋒挺秀，法度嚴謹純熟，至於隸、篆則多顯楷法，用筆銳利勁挺，反映出當時的時代風格。傳世文徵明千文以四體並具者最為珍稀。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條1項第3、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故書000104",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descSize": "27.9 x 53；27.9 x 52.8；27.9 x 52.5；27.9 x 52.8（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "文徵明此卷始作於嘉靖乙未（1535）六十六歲，費時年餘乃成。文氏自言，年輕時以臨寫千字文為日課，故所流傳千文作品甚多。全卷分別以楷、草、隸、篆四體書寫，楷、草筆鋒挺秀，法度嚴謹純熟，至於隸、篆則多顯楷法，用筆銳利勁挺，反映出當時的時代風格。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。包首：霉傷，磨損，傷補。本幅：霉傷，水漬，蟲蛀嚴重，傷補，折痕。",
+    "documents": [
+        {
+            "fileid": 150127,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-11/715b2ea3-372a-4ec2-ad04-218159768cec/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70639,
+            "caseId": 3838,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 74898,
+            "caseId": 3838,
+            "caseStatus": true,
+            "registerDate": 1410710400000,
+            "officialDocNo": "10320112241",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

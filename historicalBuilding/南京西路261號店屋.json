@@ -1,0 +1,102 @@
+{
+    "id": 20080,
+    "caseId": "20210923000001",
+    "count": 1717,
+    "shareCount": 1,
+    "representImage": 173341,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/7c30ac6c-f83d-4d9f-9bf6-cefd531ab560/代表圖像_南京西路261號店屋_20220707_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/7c30ac6c-f83d-4d9f-9bf6-cefd531ab560/代表圖像_南京西路261號店屋_20220707.jpeg",
+        "name": "代表圖像_南京西路261號店屋_20220707"
+    },
+    "caseName": "南京西路261號店屋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本案建物坐落土地曾為大稻埕著名洋行「高馬士商會」所在範圍，為六館街一帶少數僅存的店屋，現況建物為有「臺灣瘧疾之父」之稱仁濟醫院院長張暮年建造，見證大稻程地區發展。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 139347,
+            "name": "公告+地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/99a983ed-8641-41bc-9fe7-079d97464204/公告+地籍圖.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者"
+    ],
+    "registerReason": "1、\t南京西路261號約建於1930~1935年間、南京西路239 巷9號約建於1955年，為一坎二進一過水，建築物以承重山牆磚石混合構造及杉木桁為主，為典型迪化街店屋形式。\n2、\t本案建物坐落土地曾為大稻埕著名洋行「高馬士商會」所在範圍，為六館街一帶少數僅存的店屋，現況建物為有「臺灣瘧疾之父」之稱仁濟醫院院長張暮年建造，見證大稻程地區發展。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 139348,
+            "name": "地籍地形圖(虛線).jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/2de461ab-7a66-4600-90f7-8cd4176002fe/地籍地形圖(虛線).jpg"
+        }
+    ],
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": true,
+    "longitude": 121.50970936079362,
+    "latitude": 25.053385955450857,
+    "representImageSource": "臺北市文化局",
+    "landScope": "大同區迪化段三小段496地號(208平方公尺）1筆土地。(實際保存面積須以保存範圍實測數據為準)",
+    "selfCoverage": "大同區迪化段三小段524建號（建物總面積522.29平方公尺）（實際保存面積須以保存範圍實測數據為準）",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 107941,
+            "caseId": 20080,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "南京西路261號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 135093,
+            "caseId": 20080,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 194,
+            "landSerialNo": "496",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "208",
+            "cityLandUseTypeOther": "特定專用區(二)(供一般商業使用)。",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 116178,
+            "caseId": 20080,
+            "caseStatus": true,
+            "registerDate": 1631030400000,
+            "officialDocNo": "北市文化文資字第11030362881 號",
+            "classificationId": 1,
+            "note": "歷史建築"
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.50971540464425,25.053740187909327],[121.50976306943274,25.05373614224973],[121.50975403254716,25.05360959948874],[121.50973839188373,25.053405618401747],[121.50973636712166,25.05337375620304],[121.5096832446256,25.05337854282786],[121.5096938192876,25.0535558181699],[121.50970137130382,25.053555792254148],[121.50971540464425,25.053740187909327],[121.50971540464425,25.053740187909327]]]]},\"properties\":{\"xcenter\":121.50972371650928,\"ycenter\":25.053551985792414,\"query\":\"台北市大同區-地號496號\",\"content\":\"1. 個案名稱: 南京西路261號店屋 <br />\\n      2. 地號: 台北市大同區-地號496號 <br />\\n      3. 種類: 宅第 <br />\\n      4. 指定登錄理由: 1、\\t南京西路261號約建於1930~1935年間、南京西路239 巷9號約建於1955年，為一坎二進一過水，建築物以承重山牆磚石混合構造及杉木桁為主，為典型迪化街店屋形式。\\n2、\\t本案建物坐落土地曾為大稻埕著名洋行「高馬士商會」所在範圍，為六館街一帶少數僅存的店屋，現況建物為有「臺灣瘧疾之父」之稱仁濟醫院院長張暮年建造，見證大稻程地區發展。 <br />\\n      5. 最後一筆公告日期: 2021-09-08 <br />\\n      6. 最後一筆公告文號: 北市文化文資字第11030362881 號 <br />\\n      7. 管理單位: 李世仲、李建興 <br />\\n      8. 使用單位: 光暉服飾 <br />\\n      9. 建物狀態: 現況良好 <br />\"}}],\"address\":[{\"address\":\"1. 個案名稱: 南京西路261號店屋 <br />\\n      2. 地址: 南京西路261號 <br />\\n      3. 種類: 宅第 <br />\\n      4. 指定登錄理由: 1、\\t南京西路261號約建於1930~1935年間、南京西路239 巷9號約建於1955年，為一坎二進一過水，建築物以承重山牆磚石混合構造及杉木桁為主，為典型迪化街店屋形式。\\n2、\\t本案建物坐落土地曾為大稻埕著名洋行「高馬士商會」所在範圍，為六館街一帶少數僅存的店屋，現況建物為有「臺灣瘧疾之父」之稱仁濟醫院院長張暮年建造，見證大稻程地區發展。 <br />\\n      5. 最後一筆公告日期: 2021-09-08 <br />\\n      6. 最後一筆公告文號: 北市文化文資字第11030362881 號 <br />\\n      7. 管理單位: 李世仲、李建興 <br />\\n      8. 使用單位: 光暉服飾 <br />\\n      9. 建物狀態: 現況良好 <br />\",\"lat\":25.053385955450857,\"lng\":121.50970936079362}]}]",
+    "openVisitType": "",
+    "pastHistorySource": "申請歷建計劃書"
+}

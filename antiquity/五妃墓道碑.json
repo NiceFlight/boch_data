@@ -1,0 +1,109 @@
+{
+    "id": 3248,
+    "caseId": "20150511000001",
+    "count": 824,
+    "shareCount": 0,
+    "representImage": 174553,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-07-20/3002bfb9-1002-4ac0-8389-0a24bbb1f66b/古物021五妃墓道碑_P001_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-07-20/3002bfb9-1002-4ac0-8389-0a24bbb1f66b/古物021五妃墓道碑_P001.jpg",
+        "name": "古物021五妃墓道碑_P001"
+    },
+    "caseName": "五妃墓道碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-其他",
+    "otherAssetsType": "圖書文獻",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1431273600000,
+    "officialDocNo": "府文資處字第1040415095B號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有珍貴及稀有性者"
+    ],
+    "registerReason": "清乾隆十一年（西元 1746 年），巡臺滿御史六十七、漢御史范咸崇仰明寧靖王從死五位姬妾的貞烈，命臺灣海防同知方邦基就原有「五烈墓」修繕，並於墓前建廟，即今日國定古蹟「五妃廟」。六十七更作「弔妃墓十絕句」，闡貞表烈，鐫為「五妃墓道」碑，而由臺灣道莊年跋其後，即本碑記。 \n本碑見證五妃廟建廟歷史，及當時社會知識份子對五妃貞烈事件之表態，具珍貴歷史文獻價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第2條第1項第1、2、5款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "中西區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "reservationCode": "公告無資料",
+    "amount": 1,
+    "descAge": "1746（清乾隆十一年）",
+    "descCreator": "",
+    "descSize": "縱 241公分*橫82公分*厚11公分",
+    "descMaterial": "花崗岩",
+    "reserveStatusDesc": "數量：1組1件。\n主要材質：花崗岩。\n尺寸：縱234公分*橫88公分*厚12公分。\n特徵：全碑無紋飾，額刻「五妃墓道」四字。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 2,
+    "reserveStatus": "公告無資料",
+    "documents": [
+        {
+            "fileid": 174545,
+            "name": "五妃墓道碑公告-104.05.11.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-20/fe9e1a8e-f9a9-4ea6-9df9-d931561e2b4d/五妃墓道碑公告-104.05.11.pdf"
+        },
+        {
+            "fileid": 174546,
+            "name": "五妃墓道碑公告表-104.05.11.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-20/3da11718-4e1f-406a-9ac3-b32697557084/五妃墓道碑公告表-104.05.11.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.20295787302999,
+    "latitude": 22.986454185520678,
+    "representImageSource": " 臺南市政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "臺南市政府",
+            "keepName": "臺南市政府",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "大南門碑林",
+            "keepAddressNew": "臺南市中西區樹林街二段",
+            "saveSpaceOther": "大南門碑林",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺南市",
+            "keepNameDistName": "中西區",
+            "keepNameAddress": "南門路38號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "id": 92597,
+            "caseId": 3248,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601,
+            "address": "樹林街二段"
+        }
+    ],
+    "announces": [
+        {
+            "id": 99886,
+            "caseId": 3248,
+            "caseStatus": true,
+            "registerDate": 1431273600000,
+            "officialDocNo": "府文資處字第1040415095B號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

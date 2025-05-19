@@ -1,0 +1,106 @@
+{
+    "id": 4271,
+    "caseId": "20080402000023",
+    "count": 255,
+    "shareCount": 0,
+    "representImage": 7197,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36685/photo/3c1389a0-ec5b-478b-8e2c-e0387023ef88_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36685/photo/3c1389a0-ec5b-478b-8e2c-e0387023ef88.jpg",
+        "name": "3c1389a0-ec5b-478b-8e2c-e0387023ef88"
+    },
+    "caseName": "永光二年予候長鄭赦寧冊",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-公文書",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1207065600000,
+    "officialDocNo": "文資籌二字第0972102147號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "「永光二年予候長鄭赦寧冊」內容為漢宣帝永光二年（西元前42年），甲渠士吏向上級報告候長鄭赦因父死，准予喪假的報告。本件「永光二年予候長鄭赦寧冊」具有重要歷史、文化價值，符合「古物分級登錄指定及廢止審查辦法」第三條第一、六款，指定為重要古物。",
+    "lawsReference": "文化資產保存法第六十六條、古物分級登錄指定及廢止審查辦法",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "南港區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "H01637",
+    "keepNameId": 5,
+    "keepName": "中央研究院歷史語言研究所",
+    "keepNameNew": 8,
+    "keepAddressNew": "115台北市南港區研究院路二段128號",
+    "saveSpaceId": 11,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "相關研究資料：史語所展品圖錄製作小組編輯製作《來自碧落與黃泉：中央研究院歷史語言研究所歷史文物陳列館展品圖錄》，臺北市：中研院史語所，2002年。",
+    "descAge": "漢宣帝永光二年（西元前42年）",
+    "descCreator": "不詳",
+    "descSize": "長23.2cm，寬3cm，厚0.34cm",
+    "descMaterial": "木質",
+    "reserveStatusDesc": "漢宣帝永光二年(西元前42年)，甲渠士吏向上級報告候長鄭赦因父死，准予喪假的報告。本冊簡及編繩皆為原狀。",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "1930年；破城子A08",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 53837,
+            "name": "20080402公告函.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-01-08/995796c2-35d2-47b3-97d1-e822e9055f32/20080402公告函.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "中央研究院歷史語言研究所",
+    "keepNames": [
+        {
+            "keepNameIdStr": "中央研究院歷史語言研究所",
+            "keepName": "中央研究院歷史語言研究所",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "中央研究院民族學研究所",
+            "keepAddressNew": "115台北市南港區研究院路二段128號",
+            "saveSpaceIdStr": "研究設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "南港區",
+            "keepNameAddress": "研究院路二段128號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "南港區",
+            "id": 4413,
+            "caseId": 4271,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 111
+        }
+    ],
+    "announces": [
+        {
+            "id": 4413,
+            "caseId": 4271,
+            "caseStatus": true,
+            "registerDate": 1207065600000,
+            "officialDocNo": "文資籌二字第0972102147號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

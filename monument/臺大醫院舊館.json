@@ -1,0 +1,133 @@
+{
+    "id": 20214,
+    "caseId": "20211110000001",
+    "count": 5445,
+    "shareCount": 6,
+    "representImage": 187193,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/f7c660f3-4a36-4607-8c30-eba00b0e121a/代表圖像_臺大醫院舊館_20220616_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/f7c660f3-4a36-4607-8c30-eba00b0e121a/代表圖像_臺大醫院舊館_20220616.jpeg",
+        "name": "代表圖像_臺大醫院舊館_20220616"
+    },
+    "caseName": "臺大醫院舊館",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "臺大醫院原稱臺北病院，最初為木造建築，1912 年 由臺灣總督府土木局營繕科近藤十郎設計，現址開始建造以紅磚與鋼筋混凝土為主的醫院（西址第一棟至第\n四棟建築物），至 1916 年大體完工。",
+    "assetsTypeNames": "醫院",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 144267,
+            "name": "87年公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/4e86af13-e6b3-40dd-afcb-6c5476a050d3/87年公告.pdf"
+        },
+        {
+            "fileid": 144268,
+            "name": "108年變更公告(含地形圖).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/bce6ed82-7d15-42d7-92fe-d66e95037c0d/108年變更公告(含地形圖).pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具高度歷史、藝術或科學價值者",
+        "表現各時代營造技術流派特色者",
+        "具稀少性，不易再現者"
+    ],
+    "registerReason": "1.臺大醫院初創建於1912年，本館落成於1916年為當時遠東對大醫院之一，建築宏偉，設備先進，是臺灣醫學史上之重要歷史見證。\n2.建築風格採後文藝復興式，外觀造型美麗，細部極為優美，為日籍建築師近藤十郎在臺灣之代表作品。\n3.主館廳建材極為考究，多使用石材及瓷磚，屋架為木製桁架，技術水準很高，為臺灣近代建築之里程碑。\n4.九西建物日治時期為傳染病棟，故另設面西之玄關，戰後美國海軍研究院（NAMRU2）曾進駐，整體建物保存良好。",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 144269,
+            "name": "地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/baafe94a-1044-4322-aa58-e290cebf773e/地籍圖.jpg"
+        }
+    ],
+    "bulkTransfer": 1,
+    "longitude": 121.51723215332294,
+    "latitude": 25.041600217056406,
+    "representImageSource": "臺北市文化局",
+    "landScope": "中正區公園段三小段33（部分）、 33-1 地號",
+    "selfCoverage": "主館、一至四東西及九西建物本體",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 93834,
+            "caseId": 20214,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "常德街1號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "公園段三小段",
+            "cityLandUseTypeName": "行政區",
+            "id": 115444,
+            "caseId": 20214,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 145,
+            "landSerialNo": "33",
+            "landownership": 1,
+            "cityLandUseTypeId": 4,
+            "coverageId": 1,
+            "area": "39,399.88平方公尺",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "公園段三小段",
+            "cityLandUseTypeName": "行政區",
+            "id": 115445,
+            "caseId": 20214,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 145,
+            "landSerialNo": "33-1",
+            "landownership": 1,
+            "cityLandUseTypeId": 4,
+            "coverageId": 1,
+            "area": "38,530.12平方公尺",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 101256,
+            "caseId": 20214,
+            "caseStatus": true,
+            "registerDate": 890755200000,
+            "officialDocNo": "府民三字第8701538601號",
+            "classificationId": 1,
+            "note": "指定"
+        },
+        {
+            "id": 101257,
+            "caseId": 20214,
+            "caseStatus": true,
+            "registerDate": 1557158400000,
+            "officialDocNo": "北市文化文資字第10830170871號",
+            "classificationId": 2,
+            "note": "新增古蹟範圍"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false,
+    "pastHistorySource": "1. 「臺大醫院西址古蹟 一、二東、西建築 」修復計畫先期調查規畫書 。 (93 年漢光建築師事務所 2. 「臺大醫院舊館」管理維護計畫 (107.09.28 備查)"
+}

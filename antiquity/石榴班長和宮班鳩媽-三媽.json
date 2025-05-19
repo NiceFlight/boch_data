@@ -1,0 +1,105 @@
+{
+    "id": 15832,
+    "caseId": "20180627000005",
+    "count": 993,
+    "shareCount": 3,
+    "representImage": 147357,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-13/4c946576-9284-459b-967c-f2d557438eb7/DSC03297-hhy_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-13/4c946576-9284-459b-967c-f2d557438eb7/DSC03297-hhy.jpg",
+        "name": "DSC03297-hhy"
+    },
+    "caseName": "石榴班長和宮班鳩媽-三媽",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1520563636737,
+    "officialDocNo": "雲林縣政府 府文資二字1073802258C號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就",
+        "數量稀少者",
+        "對地方或族群知識、技術或流派發展具影響或意義"
+    ],
+    "registerReason": "(一)三媽神像入神孔內有班鳩、綿線、銅錢，以及入神命書等，命書上有乙未年，疑為清道光十五年（西元1835年），可作為台灣類似神像風格的對比。\n(二)神像風格為泉州派，屬清領中後期風格與命書年代一致。\n(三)入神班鳩相當罕見，可能是其稱呼來源。\n",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2、3、4、5、6款",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "belongCityId": 13,
+    "belongCityName": "雲林縣",
+    "belongDistName": "斗六市",
+    "govInstitution": "雲林縣政府",
+    "govDeptName": "文化處文化資產科",
+    "govDeptPhone": "(05)5523157",
+    "govDeptAddress": "雲林縣斗六市大學路三段310號",
+    "reservationCode": "暫無",
+    "amount": 1,
+    "descAge": "清領時期",
+    "descSize": "高約36公分",
+    "descMaterial": "木質",
+    "reserveStatusDesc": "長和宮是石榴班信仰中心，主要信奉主神媽祖，又稱「斑鳩媽」。\n傳說石榴班長和宮廟的落成典禮當天，在奉迎天上聖母行列的途中，有一隻斑鳩飛到神轎上面來就不走了。後來，更鑽進媽祖神像的懷裡不見了。庄民們對這件事情覺得不可思議，終於將長和宮媽祖，稱呼為「斑鳩媽」。\n石榴班地名於康熙五十六年諸羅知縣周鍾瑄所編撰的諸羅縣志。諸羅縣志中記載：「石榴班陂在柴里社東北，源由阿拔泉溪出。康熙四十九年(西元1710年)，庄民合築。」\n長和宮斑鳩媽見證了石榴班三百多年來的興衰與發展。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "斗六市石榴班長和宮",
+    "saveEnvironment": 2,
+    "reserveStatus": "有損傷但狀況穩定。",
+    "documents": [
+        {
+            "fileid": 49425,
+            "name": "石榴班長和宮班鳩媽-三媽.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-08-08/324c355b-de6c-43e2-a2ee-1fe0fe132451/石榴班長和宮班鳩媽-三媽.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 23.72487324929831,
+    "latitude": 120.57689874161282,
+    "representImageSource": "雲林縣政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "斗六市石榴班長和宮",
+            "keepName": "斗六市石榴班長和宮",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "斗六市石榴班長和宮",
+            "keepAddressNew": "雲林縣斗六市長和路15號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2,
+            "keepNameCityName": "雲林縣",
+            "keepNameDistName": "斗六市",
+            "keepNameAddress": "長和路15號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "斗六市",
+            "id": 68986,
+            "caseId": 15832,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1310,
+            "address": "長和路15號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73116,
+            "caseId": 15832,
+            "caseStatus": true,
+            "registerDate": 1520563636737,
+            "officialDocNo": "府文資二字1073802258C號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

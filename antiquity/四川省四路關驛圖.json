@@ -1,0 +1,101 @@
+{
+    "id": 20514,
+    "caseId": "20220318000003",
+    "count": 252,
+    "shareCount": 0,
+    "representImage": 155481,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-03-18/ef6b06e9-e3bd-4ac2-871c-52086f6da594/map3_c.png"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-03-18/ef6b06e9-e3bd-4ac2-871c-52086f6da594/map3.png",
+        "name": "map3"
+    },
+    "caseName": "四川省四路關驛圖",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖繪",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "本圖卷以四川都司為中心，以分繪連卷方式繪製成都府往正北、西北、西南，「威茂、疊溪、松潘」、「雅州、碉門、天全、大渡河」、「青千戶所」、「保寧千戶所」等四處邊陲交通路線，舉凡明代驛站路線，關津布防、城池分布等皆有具象之展現。\n據考證，此圖可能繪製時間在1514-1566年之間，然其所依循之母本則可能是明代早期繪製之圖（1393-1396），未見複本。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第3、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "平圖020801",
+    "amount": 1,
+    "descAge": "明",
+    "descSize": "畫心55x1085公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "本圖為明代關驛圖，由成都府（四川都司）出發，共分四路： \n一路正北四川都司至保寧千戶所接陜西沔縣界：正北路（實際東北）設關九座，渡涪江潼川州、嘉陵江保寧府，抵夔州府、漢中府（沔縣）界。\n一路西北四川都司至青州千戶所接陜西文縣界：西北路（實際正北）設關十五座，渡雒水漢州、涪江綿州、青川千戶所、接陜西文縣。 \n一路西北四川都司至威茂疊溪松潘等處西番界：西北路（實際西北）設關三十六座，經都江堰灌縣、汶江茂州、岷江松潘衛。 \n一路西南四川都司至雅州碉門天全大渡河等處西番界：西南路（實際西南）設關二十六座，經崇慶州、雅州千戶所、碉門百戶所、天全六番招討司，臨大渡河。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "一、 本圖為卷裝，簽條題名：紙本彩畫諸司山川地理手卷。\n二、 卷末有二張簽條，一是明黃色簽條記『四川地理圖』，另一簽條記『四川地理圖一卷』。\n三、 狀況稍殘，全圖水漬嚴重，破損、霉斑、污漬、折痕多，有蟲蛀痕跡。",
+    "documents": [
+        {
+            "fileid": 155479,
+            "name": "公告用印後PDF.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-03-18/e645959d-71de-4ee8-ac3d-49b57a2c8525/公告用印後PDF.pdf"
+        },
+        {
+            "fileid": 155480,
+            "name": "03公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-03-18/8bcd9e24-41a0-4566-bd85-f92c20c8f6ff/03公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.549499,
+    "latitude": 25.10037,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 73637,
+            "caseId": 20514,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 78651,
+            "caseId": 20514,
+            "caseStatus": true,
+            "registerDate": 1647588368083,
+            "officialDocNo": "文授資局物字第11130027321號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

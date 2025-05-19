@@ -1,0 +1,103 @@
+{
+    "id": 20369,
+    "caseId": "20211230000009",
+    "count": 245,
+    "shareCount": 0,
+    "representImage": 152493,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-02-11/4b3f470c-dd7c-42fd-b8c2-716e32c99e9f/S1323KST0177688BCWA_1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-02-11/4b3f470c-dd7c-42fd-b8c2-716e32c99e9f/S1323KST0177688BCWA_1.jpg",
+        "name": "S1323KST0177688BCWA_1"
+    },
+    "caseName": "牙雕飾品",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "能表現傳統、族群或地方之風俗、記憶及傳說、信仰、技藝或生活文化之重要特色",
+        "具有重要藝術造詣或科學成就",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "屬於鐵器時代龜山文化之裝飾品，距今約1500-1300年間。利用貓科動物犬齒雕出動物的造型，齒根上刻劃出耳朵、眼睛、鼻子、牙齒，以及獠牙，其側邊穿有一孔，方便繫繩。此牙雕飾品在龜山文化遺址中目前僅發現一件，十分珍稀，雕工相當精細，展現成熟的工藝技術及藝術風格。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第1、4、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部文化資產局",
+    "govDeptName": "古物遺址組",
+    "govDeptPhone": "04-22177621",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "T0177688 ",
+    "amount": 1,
+    "descAge": "龜山文化",
+    "descSize": "長4.8公分、寬0.75公分、厚1.08公分、1孔徑:0.2公分、2孔徑:0.2公分、3孔徑:0.13公分、4孔徑:0.17公分、5孔徑:0.17公分、6孔徑:0.18公分",
+    "descMaterial": "動物牙齒 ",
+    "reserveStatusDesc": "貓科動物犬齒雕製而成；齒根上刻有耳朵、眼睛，似動物的造型。齒根端處刻磨出一突起，似動物鼻。兩側邊留有明顯的磨銼痕，雕出口齒及獠牙狀。底部刻一凹槽，為口唇。側邊另鑽有一孔，可穿繩。",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "西元1993年   遺址名稱/地點：龜山遺址。",
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定。",
+    "documents": [
+        {
+            "fileid": 149480,
+            "name": "公告用印後PDF.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-30/66daf7d2-b1cf-4193-be34-5666d14df843/公告用印後PDF.pdf"
+        },
+        {
+            "fileid": 149481,
+            "name": "牙雕飾品重要古物指定公告表.odt",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-30/adde935f-2789-407a-8bcc-5a360d28b897/牙雕飾品重要古物指定公告表.odt"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 25.04043,
+    "latitude": 121.61593,
+    "representImageSource": "中央研究院歷史語言研究所",
+    "keepNames": [
+        {
+            "keepNameIdStr": "中央研究院歷史語言研究所",
+            "keepName": "中央研究院歷史語言研究所",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "中央研究院歷史語言研究所",
+            "keepAddressNew": "115台北市南港區研究院路二段130號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "南港區",
+            "keepNameAddress": "研究院路二段130號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "南港區",
+            "id": 71817,
+            "caseId": 20369,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 111,
+            "address": "研究院路二段130號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 76311,
+            "caseId": 20369,
+            "caseStatus": true,
+            "registerDate": 1639043140096,
+            "officialDocNo": "文授資局物字第11030134991號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

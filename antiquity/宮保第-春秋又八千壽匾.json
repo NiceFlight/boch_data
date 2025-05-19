@@ -1,0 +1,101 @@
+{
+    "id": 15598,
+    "caseId": "20180330000001",
+    "count": 547,
+    "shareCount": 1,
+    "representImage": 47828,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-03-30/35da0d02-cc86-4abc-87e3-26f6d8c5affa/春秋又八千_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-03-30/35da0d02-cc86-4abc-87e3-26f6d8c5affa/春秋又八千.jpg",
+        "name": "春秋又八千"
+    },
+    "caseName": "宮保第-春秋又八千壽匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-其他",
+    "otherAssetsType": "碑碣",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1506995990082,
+    "officialDocNo": "府授文資遺字第10602102093號",
+    "judgeCriteria": [
+        "數量稀少者",
+        "對地方或族群知識、技術或流派發展具影響或意義"
+    ],
+    "registerReason": "1.\t日治時期臺中中華會館商請遊臺之四川籍名書法家楊草仙為年高八十一歲之林朝棟夫人楊水萍女士賀壽之作，見證林家交誼廣遠與特殊歷史情境下在臺華人的祖國意識。\n2.\t匾面具有書法藝術性，為灰泥堆疊之狂草字體，打破傳統格律，且全匾貼金箔為飾，工藝水準甚高。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1項第5、6款",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "霧峰區",
+    "govInstitution": "臺中市文化資產處",
+    "govDeptName": "遺址傳藝課",
+    "govDeptPhone": "04-22290280#501",
+    "govDeptAddress": "台中市南區復興路三段362號R10",
+    "reservationCode": "106-03",
+    "amount": 1,
+    "descAge": "1928",
+    "descSize": "193*87",
+    "descMaterial": "木",
+    "reserveStatusDesc": "匾面為灰泥堆疊之狂草字體，且全匾貼金箔為飾，",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "1928 ",
+    "saveEnvironment": 2,
+    "reserveStatus": "刻正懸掛於第二進門上，位於半開放空間。",
+    "documents": [
+        {
+            "fileid": 47827,
+            "name": "10602102093-春秋又八千.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-03-30/ea5954a9-c968-4594-b242-1a81010b4518/10602102093-春秋又八千.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 120.700801,
+    "latitude": 24.063057,
+    "representImageSource": "臺中市文化資產處",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國定古蹟霧峰林家下厝管理委員會/林本堂股份有限公司",
+            "keepName": "國定古蹟霧峰林家下厝管理委員會/林本堂股份有限公司",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國定古蹟霧峰林家下厝管理委員會",
+            "keepAddressNew": "霧峰林家宮保第",
+            "saveSpaceIdStr": "宅第",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "臺中市",
+            "keepNameDistName": "霧峰區",
+            "keepNameAddress": "本堂里民生路26號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "霧峰區",
+            "id": 86777,
+            "caseId": 15598,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1011
+        }
+    ],
+    "announces": [
+        {
+            "id": 93411,
+            "caseId": 15598,
+            "caseStatus": true,
+            "registerDate": 1506995990082,
+            "officialDocNo": "府授文資遺字第10602102093號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

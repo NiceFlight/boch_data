@@ -1,0 +1,91 @@
+{
+    "id": 4216,
+    "caseId": "20090914000006",
+    "count": 129,
+    "shareCount": 0,
+    "representImage": 7136,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36633/photo/a98f9a14-39c3-4f13-87c1-d6e38867b9dc_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36633/photo/a98f9a14-39c3-4f13-87c1-d6e38867b9dc.jpg",
+        "name": "a98f9a14-39c3-4f13-87c1-d6e38867b9dc"
+    },
+    "caseName": "侈口縮頸圓腹凹底罐",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1252857600000,
+    "officialDocNo": "會授資籌二字第0982113661號函",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "品質精良且數量稀少"
+    ],
+    "registerReason": "1.此件雖嚴重殘破，多處經粘合修補，惟其工藝技術特殊，十分重要，具文化代表性。2.紋飾極為精緻，為臺灣史前文化僅見。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。2.符合「古物分級登錄指定及廢止審查辦法」第三條第一、三、四、五、",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "南港區",
+    "reservationCode": "T0030039",
+    "keepNameId": 5,
+    "keepName": "",
+    "keepNameNew": 17,
+    "keepAddressNew": "臺北市南港區南港研究院路2段128號",
+    "amount": 1,
+    "notes": "",
+    "descAge": "",
+    "descCreator": "",
+    "descSize": "高約13.2公分，口徑約10.7公分，腹",
+    "descMaterial": "",
+    "reserveStatusDesc": "出土時斷成數片，現已復原。;",
+    "reserveStatus": "有損傷但狀況穩定 ",
+    "documents": [],
+    "isOpenDownload": true,
+    "belongAddress": "南港研究院路2段128號",
+    "representImageSource": "中央研究院歷史語言研究所",
+    "keepNames": [
+        {
+            "keepNameIdStr": "中央研究院歷史語言研究所",
+            "keepName": "",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺北市南港區南港研究院路2段128號",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "南港區",
+            "id": 4358,
+            "caseId": 4216,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 111,
+            "address": "南港研究院路2段128號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 4358,
+            "caseId": 4216,
+            "caseStatus": true,
+            "registerDate": 1252857600000,
+            "officialDocNo": "會授資籌二字第0982113661號函",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

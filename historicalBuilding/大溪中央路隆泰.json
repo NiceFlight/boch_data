@@ -1,0 +1,163 @@
+{
+    "id": 17052,
+    "caseId": "20190827000006",
+    "count": 1416,
+    "shareCount": 0,
+    "representImage": 185079,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-09-23/8f1f5d4b-146d-4414-a468-b855bddf8e92/IMG_E2090_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-09-23/8f1f5d4b-146d-4414-a468-b855bddf8e92/IMG_E2090.jpg",
+        "name": "IMG_E2090"
+    },
+    "caseName": "大溪中央路隆泰",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "隆泰為大溪蕭家產業，蕭家居住在此有數代之久，曾經營雜貨、布行等生意，其建築格局為四落二過水，頭落為辦公室，二落大廳後的房間由當家夫婦居住，其餘都是住家空間。牌樓立面以清水紅磚砌成三段式圓拱，圓形間柱上為仿多立克柱式，山牆兩側各有一隻小獅口啣綵帶，有「祥獅獻瑞」之意，屬於融合巴洛克、中國傳統動物、花草紋樣的折衷樣式，充分展現西風東漸的時代風格。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "古市街類",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1073965048000,
+    "officialDocNo": "府文資字第0930534224號",
+    "documents": [
+        {
+            "fileid": 185061,
+            "name": "府文資字第0930534224號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-09-23/bf4af40d-19c1-4e08-abf6-3972aa3f0ff7/府文資字第0930534224號.pdf"
+        },
+        {
+            "fileid": 185062,
+            "name": "府文資字第10303236382號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-09-23/5577e232-efef-4556-abbb-0bb93b94f3bc/府文資字第10303236382號.pdf"
+        },
+        {
+            "fileid": 185064,
+            "name": "府文資字第1040169971號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-09-23/a23c6400-051e-4d43-ab4d-77861ec027b2/府文資字第1040169971號.pdf"
+        },
+        {
+            "fileid": 185068,
+            "name": "府文資字第1060241138號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-09-23/d1db16b6-b465-46fb-aa54-21ebe25f56c6/府文資字第1060241138號.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "一、磚拱騎樓及立面為中央老街之特色。\n二、充分表現西風東漸的時代風格，有技術及藝術史保存價值。\n三、建築物立面及騎樓完整。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "330",
+    "govInstitutionName": "桃園市政府",
+    "belongCityId": 5,
+    "belongCityName": "桃園市",
+    "belongDistName": "大溪區",
+    "govInstitution": "桃園市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-3322592分機8612",
+    "govDeptAddress": "桃園市桃園區縣府路21號",
+    "cadasters": [
+        {
+            "fileid": 185065,
+            "name": "地籍資料.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-09-23/741d67b6-40f4-4c6d-bcb5-1b6f75b699b0/地籍資料.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "桃園市大溪區武嶺段467、467-2地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "中央路84-1號",
+    "isOpenVisit": true,
+    "openUpTime": "",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.287789517772,
+    "latitude": 24.8806165642237,
+    "representImageSource": "桃園市政府文化局",
+    "landScope": "桃園市大溪區武嶺段467-2地號，面積13平方公尺。",
+    "selfCoverage": "桃園市大溪區中央路84-1號騎樓",
+    "addresses": [
+        {
+            "cityName": "桃園市",
+            "distName": "大溪區",
+            "id": 149686,
+            "caseId": 17052,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 510,
+            "address": "中央路84-1號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "桃園市",
+            "distName": "大溪區",
+            "landNoName": "武嶺段",
+            "cityLandUseTypeName": "商業區",
+            "id": 207530,
+            "caseId": 17052,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 510,
+            "landNoId": 7663,
+            "landSerialNo": "467-2",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "area": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 162913,
+            "caseId": 17052,
+            "caseStatus": true,
+            "registerDate": 1073965048000,
+            "officialDocNo": "府文資字第0930534224號",
+            "classificationId": 1
+        },
+        {
+            "id": 162914,
+            "caseId": 17052,
+            "caseStatus": true,
+            "registerDate": 1421078400000,
+            "officialDocNo": "府文資字第10303236382號",
+            "classificationId": 2,
+            "note": "行政改制"
+        },
+        {
+            "id": 162915,
+            "caseId": 17052,
+            "caseStatus": true,
+            "registerDate": 1436112000000,
+            "officialDocNo": "府文資字第1040169971號",
+            "classificationId": 2,
+            "note": "變更登錄範圍"
+        },
+        {
+            "id": 162916,
+            "caseId": 17052,
+            "caseStatus": true,
+            "registerDate": 1508083200000,
+            "officialDocNo": "府文資字第1060241138號",
+            "classificationId": 2,
+            "note": "變更地號與面積"
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.28806511036849,24.88060296085992],[121.2877941812803,24.880591962196064],[121.28779354545975,24.880636212774025],[121.288066897732,24.880651582853634],[121.28806511036849,24.88060296085992],[121.28806511036849,24.88060296085992]]]]},\"properties\":{\"envelope\":{\"left\":\"121.28779354545975\",\"top\":\"24.880591962196064\",\"right\":\"121.288066897732\",\"bottom\":\"24.880651582853634\"},\"landLot\":\"桃園市大溪區武嶺段467-2\"}}],\"notfound\":[]}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": "桃園市文化資產導覽手冊"
+}

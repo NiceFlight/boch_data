@@ -1,0 +1,115 @@
+{
+    "id": 1145,
+    "caseId": "20060822000001",
+    "count": 2750,
+    "shareCount": 0,
+    "representImage": 161559,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-04-27/168a17fc-f4c9-4cf5-ab03-ffc8e68ab5bf/屈尺道碣_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-04-27/168a17fc-f4c9-4cf5-ab03-ffc8e68ab5bf/屈尺道碣.jpg",
+        "name": "屈尺道碣"
+    },
+    "caseName": "新店區屈尺道碣",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用報告完成後填列",
+    "assetsTypeNames": "碑碣",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1156241013000,
+    "officialDocNo": "北府文資字第0950007305號",
+    "documents": [
+        {
+            "fileid": 161551,
+            "name": "新店區屈尺道碣公告-95.08.22.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-27/f85f1c68-3b89-4720-b071-a68fabef37a6/新店區屈尺道碣公告-95.08.22.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "1、本碣見證日治時期從臺北新店越溪進入灣潭通往屈尺，深入烏來山區發展的歷史。\r\n2、本碣與日治初期的撫綏原住民政策有關，其留下的史料與遺蹟具歷史意義與學術價值。",
+    "lawsReference": "<<文化資產保存法>>第15條暨<<歷史建築登錄廢止審查及輔助辦法>>第3條\n",
+    "govInstitutionCode": "220",
+    "govInstitutionName": "新北市政府",
+    "belongCityId": 3,
+    "belongCityName": "新北市",
+    "belongDistName": "新店區",
+    "govInstitution": "新北市政府",
+    "govDeptName": "文化局",
+    "govDeptPhone": "(02)29603456",
+    "govDeptAddress": "新北市板橋區中山路一段161號 28樓",
+    "cadasters": [
+        {
+            "fileid": 133174,
+            "name": "新店區屈尺道碣.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-08-19/41cdaa9a-3ea5-496c-a3cb-68216e1ee1f5/新店區屈尺道碣.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "新店區直潭段灣潭小段8-25地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "新店區灣潭路2-9號後方",
+    "isOpenVisit": false,
+    "isOpenDownload": false,
+    "longitude": 121.536283863026,
+    "latitude": 24.9501662267213,
+    "representImageSource": "新北市政府文化局",
+    "landScope": "新店區直潭段灣潭小段8-25地號",
+    "selfCoverage": "屈尺道碣本體\n",
+    "addresses": [
+        {
+            "cityName": "新北市",
+            "distName": "新店區",
+            "id": 108531,
+            "caseId": 1145,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 311,
+            "address": "灣潭路2-9號後方"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "新北市",
+            "distName": "新店區",
+            "landNoName": "直潭段灣潭小段",
+            "id": 136620,
+            "caseId": 1145,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 311,
+            "landNoId": 5522,
+            "landSerialNo": "8-25地號",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 116941,
+            "caseId": 1145,
+            "caseStatus": true,
+            "registerDate": 1156241013000,
+            "officialDocNo": "北府文資字第0950007305號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"新北市新店區直潭段灣潭小段8-25地號\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": ""
+}

@@ -1,0 +1,94 @@
+{
+    "id": 1868,
+    "caseId": "20031231000017",
+    "count": 1717,
+    "shareCount": 0,
+    "representImage": 125314,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-20/32201093-e138-4956-b2bf-21ddb20bf67f/力建29-樟原橋-永保_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-20/32201093-e138-4956-b2bf-21ddb20bf67f/力建29-樟原橋-永保.jpg",
+        "name": "力建29-樟原橋-永保"
+    },
+    "caseName": "樟原橋(舊)",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "第一代樟原橋建於日治時期昭和12年（1937），以三個拱形橋墩架在水母丁溪的巨石上。橋寬4.1公尺，長51公尺，鋼筋混凝土結構，外砌卵石。欄杆為砂岩，造形優雅。\n民國75年（1986）東海岸省道臺11線改善，同年5月在樟原橋東方另建雙向二線道新橋，是為第二代樟原橋。民國87年（1998）省道臺11線拓寬，同年8月在東方再建雙向四線道（二快二慢）新橋，是為第三代樟原橋。之後交通被新橋取代，舊橋乃作為景觀橋。\n目前三橋並立於水母丁溪上，是罕見的三代同堂。交通部觀光局東管處在舊橋北側設置樟原橋休憩區，以利遊客駐足觀賞。",
+    "assetsTypeNames": "橋樑",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1072852634000,
+    "officialDocNo": "府文資字第 0923028169 號",
+    "documents": [
+        {
+            "fileid": 114941,
+            "name": "29臺東縣歷史建築公告文- 樟原橋.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-28/cdf901e2-f0c4-4331-8f90-0ec78097f4da/29臺東縣歷史建築公告文- 樟原橋.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "臺東縣東海岸建於日治時代現存最完整的橋樑。",
+    "lawsReference": "1.文化資產保存法第27條之一規定\n2.歷史建築登錄及輔助辦法\n3.臺東縣92年12月16日歷史建築登錄審查會議決議辦理\n",
+    "govInstitutionCode": "950",
+    "govInstitutionName": "臺東縣政府",
+    "belongCityId": 22,
+    "belongCityName": "臺東縣",
+    "belongDistName": "長濱鄉",
+    "govInstitution": "臺東縣政府",
+    "govDeptName": " 文化處文化資產科",
+    "govDeptPhone": "089-350129",
+    "govDeptAddress": "臺東市南京路25號",
+    "cadasters": [],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "以北：樟原段-姑仔律小段以南：三間段-大來小段       （因樟原橋跨越河道所以沒有地號）",
+    "buildingFeatures": "",
+    "inHouseFeatures": "無室內特徵",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "每年至少檢測外觀及結構一次，檢視橋樑結構有無受損，但遇重大災害增加次數。",
+    "bulkTransfer": 0,
+    "wenSitename": "",
+    "belongAddress": "樟原村與三間村交界處(八仙洞遊客服務中心北側)",
+    "isOpenVisit": true,
+    "openUpTime": "全年",
+    "isCharge": false,
+    "isOpenDownload": true,
+    "longitude": 121.47938017789637,
+    "latitude": 23.400740231924534,
+    "representImageSource": "109-110年度臺東縣文化資產個案資料同步更新維護計畫",
+    "landScope": "臺東縣長濱鄉樟原村，因樟原橋跨越河道所以沒有地段號資料",
+    "selfCoverage": "臺東縣長濱鄉樟原村，因樟原橋(舊)跨越河道所以沒有地段號資料",
+    "addresses": [
+        {
+            "cityName": "臺東縣",
+            "distName": "長濱鄉",
+            "id": 147908,
+            "caseId": 1868,
+            "caseStatus": true,
+            "cityId": 22,
+            "distId": 2212,
+            "address": "臺東縣長濱鄉樟原村"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 160653,
+            "caseId": 1868,
+            "caseStatus": true,
+            "registerDate": 1072852634000,
+            "officialDocNo": "府文資字第 0923028169 號",
+            "classificationId": 1
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "109至110年臺東縣文化資產資料數位整合計畫"
+}

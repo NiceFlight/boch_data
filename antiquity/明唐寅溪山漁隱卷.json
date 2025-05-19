@@ -1,0 +1,102 @@
+{
+    "id": 4315,
+    "caseId": "20150121000018",
+    "count": 426,
+    "shareCount": 0,
+    "representImage": 7241,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4649/photo/明唐寅溪山漁隱卷_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4649/photo/明唐寅溪山漁隱卷.jpg",
+        "name": "明唐寅溪山漁隱卷"
+    },
+    "caseName": "明唐寅溪山漁隱卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1421769600000,
+    "officialDocNo": "文資局物字第10420004333號",
+    "judgeCriteria": [
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "此作主題為唐寅喜愛的「漁隱」圖式，沿承元代文人畫漁隱文化傳統，但更多藉由筆墨皴染變化，表現物象的視覺性與空間立體感。皴山以披麻融合側鋒用筆，以深淺墨色作斧鑿痕，又以石青加淡墨暈染，表現凹凸明暗，富有立體感。山石受陽面露白，具有斧劈反白效果，這是唐寅獨門技法。後題跋詩文亦佳，與畫卷主題相扣合，包括王寵、程大倫、陸治、顧德育、居節等人，皆為唐寅好友或文徵明門生。\r\n此卷設色明艷，筆墨極精，意境亦好，具備形、聲、色之美感，堪稱唐寅繪畫藝術最具有代表性的經典珍品。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第4條1項第4、5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000973",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descSize": "29.4 x 351（公分）",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "主題為唐寅喜愛的「漁隱」圖式，沿承元代文人畫漁隱文化傳統，但更多藉由筆墨皴染變化，表現物象的視覺性與空間立體感。卷中水榭茅舍座落於溪岸，平緩山坡露根叢樹側倚，松樹、丹楓、黃葉，呈現秋景的豐富內涵。高士或促膝對酌，或曳杖閒步，或憑欄觀釣。舟上人物或垂竿放釣，或吹笛濯足，或擊節相和。皴山以披麻融合側鋒用筆，以深淺墨色作斧鑿痕，又以石青加淡墨暈染，表現凹凸明暗，富有立體感。山石受陽面露白，具有斧劈反白效果，這是唐寅獨門技法。後題跋詩文亦佳，與畫卷主題相扣合，包括王寵、程大倫、陸治、顧德育、居節等人，皆為唐寅好友或文徵明門生。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。霉傷、折痕。引首墨跡磨損，本幅撞邊傷損拖尾摺痕輕汙。",
+    "documents": [
+        {
+            "fileid": 150075,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-10/cb64463a-59bc-40fd-af06-10660850fd51/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫文獻處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70544,
+            "caseId": 4315,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 74796,
+            "caseId": 4315,
+            "caseStatus": true,
+            "registerDate": 1421769600000,
+            "officialDocNo": "文資局物字第10420004333號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

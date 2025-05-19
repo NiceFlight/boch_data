@@ -1,0 +1,99 @@
+{
+    "id": 17958,
+    "caseId": "20201127000005",
+    "count": 127,
+    "shareCount": 0,
+    "representImage": 74357,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-11-12/069e5f65-3357-4ed5-858f-97f0a92a714f/03010002-0001_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-11-12/069e5f65-3357-4ed5-858f-97f0a92a714f/03010002-0001.jpg",
+        "name": "03010002-0001"
+    },
+    "caseName": "北平景山萬春亭下：綺望樓",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1606373003388,
+    "officialDocNo": "北市獻編字第1093004298號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者"
+    ],
+    "registerReason": "1.整批作品為1930-1948年間北京建築物寫景，對於建築史研究極具價值。\n2.景山萬春亭綺望樓反映政治經濟、社會、人文、藝術科學等歷史變遷及時代特色；作品細膩描繪時代建築特色，且其典藏因緣亦見證歷史變遷之轉折脈絡；作品來源及收藏源流確定，代表一個時代流傳敘述，有歷史性的意義。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174-1號",
+    "reservationCode": "3.01/2",
+    "amount": 1,
+    "notes": "",
+    "descAge": "1930-1948年間",
+    "descCreator": "N.pickulevitch",
+    "descSize": "長75 公分寬60公分",
+    "descMaterial": "油彩、布",
+    "reserveStatusDesc": "此作品為俄羅斯畫家N.pickulevitch所繪北京景山公園內綺望樓之景。此幅作品中央為綺望樓，其前方為一空地，兩側皆有樹木，整體色調偏暖，用色鮮明，顯現天色昏黃。畫面右下角的文字，應為作者的俄文署名（H.Пикулевич）。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "時間：1960年代       捐贈者：游彌堅",
+    "saveEnvironment": 1,
+    "reserveStatus": "傷損嚴重，急需修護。表層凡尼斯白霧化且皺縮，顏料有裂痕。",
+    "documents": [
+        {
+            "fileid": 76688,
+            "name": "臺北市公告指定一般古物1091126.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-11-27/b0b5fbba-20f2-4656-b1d5-22b383e610db/臺北市公告指定一般古物1091126.pdf"
+        }
+    ],
+    "keepNames": [
+        {
+            "keepNameIdStr": "中國文化大學華岡博物館",
+            "keepName": "典藏組",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "中國文化大學華岡博物館",
+            "keepAddressNew": "臺北市士林區陽明山華岡路55號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "華岡路55號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 7578,
+            "caseId": 17958,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108
+        }
+    ],
+    "announces": [
+        {
+            "id": 7578,
+            "caseId": 17958,
+            "caseStatus": true,
+            "registerDate": 1606373003388,
+            "officialDocNo": "北市獻編字第1093004298號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

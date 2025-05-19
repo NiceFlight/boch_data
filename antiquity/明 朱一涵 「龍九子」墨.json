@@ -1,0 +1,95 @@
+{
+    "id": 22992,
+    "caseId": "20240918000003",
+    "count": 34,
+    "shareCount": 0,
+    "representImage": 262275,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-09-18/6f9638ee-83a9-4a8d-aac4-e5ab8ceac04f/PK1F001624N000000000PAC_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-09-18/6f9638ee-83a9-4a8d-aac4-e5ab8ceac04f/PK1F001624N000000000PAC.jpg",
+        "name": "PK1F001624N000000000PAC"
+    },
+    "caseName": "明 朱一涵 「龍九子」墨",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "具有重要藝術造詣或科學成就",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "此墨墨色深沈而光澤，龍紋刻畫生動，佈局協調，品質精巧優良。墨側有「朱一涵監製」款。朱一涵為明天啟崇禎年間（1621-1644）安徽休寧製墨名家，其傳世作品甚少。此墨是院藏唯一刻有朱一涵款的作品。 ",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第3、4、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故文001624",
+    "amount": 1,
+    "descAge": "明",
+    "descSize": "長12.2",
+    "descMaterial": "墨/模製",
+    "reserveStatusDesc": "此圓形墨一面模印十龍，一成龍居中，一小龍斜置其下，八小龍環繞於外。成龍龍首回望，鬚髮飄揚，尖爪密鱗。小龍或下降仰首，或側身回首，身形活躍，體態各異，氣勢威儀而不失活潑。另一面長方框內直行陽文行書「龍九子」。墨側有陽文款「太紫重玄」與「朱一涵監製」。微傷缺，狀況尚屬良好。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": " ",
+    "documents": [
+        {
+            "fileid": 262273,
+            "name": "11330087931號公告用印後PDF.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-09-18/2a7f4b78-29e5-4aa9-9568-83d33986e534/11330087931號公告用印後PDF.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 135940,
+            "caseId": 22992,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 148427,
+            "caseId": 22992,
+            "caseStatus": true,
+            "registerDate": 1725346437472,
+            "officialDocNo": "文授資局物字第11330087931號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

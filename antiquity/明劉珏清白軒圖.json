@@ -1,0 +1,101 @@
+{
+    "id": 3725,
+    "caseId": "20140425000038",
+    "count": 293,
+    "shareCount": 2,
+    "representImage": 6479,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39133/photo/pic022_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39133/photo/pic022.jpg",
+        "name": "pic022"
+    },
+    "caseName": "明劉珏清白軒圖",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1398355200000,
+    "officialDocNo": "10320044791",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "劉珏（1410－1472），字廷美，號完庵，是明初甚具影響的山水畫家。\r\n清白軒為劉珏居室，此為其贈予友人西田上人之畫，畫成於1458年。畫面結構緊密，筆墨溫厚，披麻長皴，濕筆點苔。\r\n劉珏與沈周（1427-1509）亦師亦友，亦為姻親，兩人往來密切，經常互贈題畫詩。沈周畫學深受其影響。此幅畫風學王蒙而又有新意，全幅呈現清閑靜逸的意境，幅間並有其諸多友人題詩，尤以沈澄（1376－1463）、沈恒吉、沈周三代祖孫墨蹟俱見，甚是珍貴難得。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條1項第5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000416",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descSize": "97.2 x 35.4（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "劉珏（1410－1472），字廷美，號完庵，江蘇長洲人。能詩工書，善山水，得元代文人畫家吳鎮諸人遺意，是明初甚具影響的山水畫家。清白軒為劉珏居室，此為其贈予友人西田上人之畫，畫成於1458 年。畫面結構緊密，筆墨溫厚，披麻長皴，濕筆點苔。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。天綾貼補處有傷損，包首絹破裂。",
+    "documents": [
+        {
+            "fileid": 150169,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-11/2ba19cfc-8af6-4bda-a8b2-c6eaa431a030/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70697,
+            "caseId": 3725,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 74956,
+            "caseId": 3725,
+            "caseStatus": true,
+            "registerDate": 1398355200000,
+            "officialDocNo": "10320044791",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

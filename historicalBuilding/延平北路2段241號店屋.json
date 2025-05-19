@@ -1,0 +1,134 @@
+{
+    "id": 996,
+    "caseId": "20140428000001",
+    "count": 2908,
+    "shareCount": 3,
+    "representImage": 50437,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-10-03/4d625113-baa1-436b-8038-c68145dade8f/擷取1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-10-03/4d625113-baa1-436b-8038-c68145dade8f/擷取1.jpg",
+        "name": "擷取1"
+    },
+    "caseName": "延平北路2段241號店屋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "建物位置為延平北路二段與涼州街交叉口東北側，南與太平國小為鄰，地區為昔日太平通（太平町6丁目），亦是地區通往大龍峒及三重之重要通道。由於地區為昔日醫師聚集開業之區域，包括醫學博士葉貓貓、張時聰、林維新等人相繼於該地開業，同時本處亦是西元1935年日據時期「始政四十週年紀念臺灣博覽會」大稻埕分場所在，見證過去超過一甲子以來大稻埕太平通之興衰，極具歷史保存價值。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 163026,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/a0a6e01b-4e61-486d-acbd-ed9416025155/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1、\t本建物坐落於臺北大橋與太平、永樂國小及仁安醫院附近，為日據時期大橋町聚集人氣興旺之證據，且具有說明大稻埕特專區北段歷史之重要性。\n2、\t本建築始建於昭和9年(1934) ，為加強磚造三樓之店仔厝，民國38年(1949)由林維新醫師全家居住並經營耳鼻喉科診所，一樓為診間、消毒室及手術室使用，至今仍留有當時診所掛號及看診之設備。\n",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、4款評定基準。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 163027,
+            "name": "downloadfile.gif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/2200ab0b-c30a-4184-9ee1-c9a794e460b3/downloadfile.gif"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "特定專用區（二）（供一般商業使用）",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市大同區延平段1小段88、89地號",
+    "buildingFeatures": "本案結構系統為兩側山牆支撐樓板及屋頂方式，山牆做為與鄰房共同壁使用，為傳統街屋常見作法。\r\n正立面採四柱三窗現代主義式樣，原始外牆材料為淺色二丁掛磁磚橫貼，柱頭為灰色洗石子材質，後期因滲漏水問題，於牆面直接鋪貼白色二丁掛磁磚。側立面各層均有開窗，窗型為上下拉窗，頂部雨遮兩側設有牛腿造型裝飾，山牆頂部菱形馬背收頭。",
+    "inHouseFeatures": "一樓空間長期做為耳鼻喉科診所，診間與候診處以木作隔間分隔，後側為手術室、消毒室及廁所。二、三樓為住宅使用。",
+    "buildingUsage": "屋主自用",
+    "buildingActualState": "現狀尚可，屋主自用。",
+    "buildingKeyMaintainItem": "保存範圍：全棟保存(一至三樓，扣除後期增建範圍)",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isOpenDownload": false,
+    "longitude": 121.511392,
+    "latitude": 25.0620649,
+    "representImageSource": "文化局",
+    "landScope": "臺北市大同區延平段1小段88、89地號，106平方公尺",
+    "selfCoverage": "272.91平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 78719,
+            "caseId": 996,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "延平北路2段241號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 83173,
+            "caseId": 996,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 187,
+            "landSerialNo": "88",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "88、89地號(面積約106平方公尺)",
+            "cityLandUseTypeOther": "特定專用區（二）（供一般商業使用）",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 83174,
+            "caseId": 996,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 187,
+            "landSerialNo": "89",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "88、89地號(面積約106平方公尺)",
+            "cityLandUseTypeOther": "特定專用區（二）（供一般商業使用）",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 84500,
+            "caseId": 996,
+            "caseStatus": true,
+            "registerDate": 1398614400000,
+            "officialDocNo": "北市文化文資字第10330377900號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "申請人所提供之報告書資料"
+}

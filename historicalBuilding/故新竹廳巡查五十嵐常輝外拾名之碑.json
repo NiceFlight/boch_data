@@ -1,0 +1,122 @@
+{
+    "id": 17566,
+    "caseId": "20200427000001",
+    "count": 2847,
+    "shareCount": 4,
+    "representImage": 136659,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-09-02/1623e3e2-01d3-463e-9227-807c0f5004cf/IMG_9118_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-09-02/1623e3e2-01d3-463e-9227-807c0f5004cf/IMG_9118.jpg",
+        "name": "IMG_9118"
+    },
+    "caseName": "故新竹廳巡查五十嵐常輝外拾名之碑",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "碑碣",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1577341568718,
+    "officialDocNo": "中華民國108年12月26日府文資字1080016208B號",
+    "documents": [
+        {
+            "fileid": 138489,
+            "name": "歷52-故新竹廳巡查五十嵐常輝外拾名之碑-公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-09-15/7d75169f-102e-4b93-901a-1b6e645bb790/歷52-故新竹廳巡查五十嵐常輝外拾名之碑-公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1.建於1935（昭和10）年5月30日由新竹州竹南郡警察課長警部內田清志所立，主要紀念戰死之11名巡查及隘勇。\n2.具備南庄地區歷史、族群互動的重要過程。\n3.本案發生年代為日本治台「五年理蕃計畫」及「隘勇線推進」時期，突顯當時的日本政府之原住民政策。\n4. 碑文中四位原住民隘勇為賽夏族籍，可納入賽夏族史。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第3款",
+    "govInstitutionCode": "360",
+    "govInstitutionName": "苗栗縣政府",
+    "belongCityId": 8,
+    "belongCityName": "苗栗縣",
+    "belongDistName": "南庄鄉",
+    "govInstitution": "苗栗縣政府文化觀光局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "037-352961#712",
+    "govDeptAddress": "苗栗縣苗栗市自治路50號",
+    "cadasters": [
+        {
+            "fileid": 139909,
+            "name": "歷52-故新竹廳巡查五十嵐長輝外拾名之碑-地籍資料.docx",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-09-29/3e4e8173-6a3c-47d6-848f-49b89208e326/歷52-故新竹廳巡查五十嵐長輝外拾名之碑-地籍資料.docx"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 6,
+    "nonCityLandUseTypeName": "山坡地保育區",
+    "nonCityLandUseSubTypeId": 5,
+    "nonCityLandUseSubTypeName": "農牧",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "苗栗縣南庄鄉風美段0346-0000地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "24.536654,121.026852",
+    "isOpenVisit": true,
+    "isOpenDownload": false,
+    "longitude": 121.02684852219173,
+    "latitude": 24.536498266908882,
+    "representImageSource": "苗栗縣政府文化觀光局",
+    "landScope": "苗栗縣南庄鄉風美段0346-0000地號地號面積：6,060平方公尺",
+    "selfCoverage": "歷史建築本體面積約15平方公尺",
+    "addresses": [
+        {
+            "cityName": "苗栗縣",
+            "distName": "南庄鄉",
+            "id": 113529,
+            "caseId": 17566,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 804,
+            "address": "風美段0346-000地號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "苗栗縣",
+            "distName": "南庄鄉",
+            "landNoName": "風美段",
+            "noncityLandUseTypeName": "山坡地保育區",
+            "id": 155234,
+            "caseId": 17566,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 804,
+            "landNoId": 9571,
+            "landSerialNo": "0346-0000",
+            "landownership": 1,
+            "noncityLandUseTypeId": 6,
+            "area": "6060",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 2
+        }
+    ],
+    "announces": [
+        {
+            "id": 123535,
+            "caseId": 17566,
+            "caseStatus": true,
+            "registerDate": 1577341568718,
+            "officialDocNo": "府文資字1080016208B號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.02731562286789,24.5366912471874],[121.02724799119926,24.53661285191191],[121.02717191438691,24.53661375453322],[121.02709621075546,24.53662718150785],[121.02694584699152,24.536629304765096],[121.02683122568088,24.536542652549635],[121.02654312699538,24.536586839196456],[121.0264436834537,24.53661759110315],[121.02667609268867,24.536898653649562],[121.02667896959552,24.53690295599503],[121.0267511742056,24.537135279701175],[121.02677633376555,24.537340943728747],[121.02683094841727,24.53749410085739],[121.0272428984519,24.53751792691655],[121.0272685446216,24.53735075849758],[121.02721814503624,24.53709296943622],[121.02726500156473,24.536979142542783],[121.0273800171821,24.536858565186105],[121.02731562286789,24.5366912471874],[121.02731562286789,24.5366912471874]]]]},\"properties\":{\"envelope\":{\"left\":\"121.02644368345371\",\"top\":\"24.536542652549635\",\"right\":\"121.0273800171821\",\"bottom\":\"24.53751792691655\"},\"landLot\":\"苗栗縣南庄鄉風美段0346-0000\"}}],\"notfound\":[]}]",
+    "landScopeJson": "{\"type\": \"FeatureCollection\",\"features\": [{\"type\": \"Feature\",\"properties\": \"{}\",\"geometry\": {\"type\": \"Polygon\",\"coordinates\": [[[121.02693217485736,24.536447339968547],[121.02682488644292,24.53646685996299],[121.02683561528437,24.53654493991043],[121.0269643613817,24.536535179919653],[121.02693217485736,24.536447339968547]]]}}]}",
+    "selfCoverageJson": "{\"type\": \"FeatureCollection\",\"features\": [{\"type\": \"Feature\",\"properties\": \"{}\",\"geometry\": {\"type\": \"Polygon\",\"coordinates\": [[[121.02690688815072,24.536447388006575],[121.02682105741914,24.53645714800417],[121.0268103285777,24.53652546796613],[121.02693907467506,24.53651570797385],[121.02690688815072,24.536447388006575]]]}}]}",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": "故新竹廳巡查五十嵐常輝外拾名之碑-清冊"
+}

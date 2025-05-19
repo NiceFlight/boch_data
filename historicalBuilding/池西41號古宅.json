@@ -1,0 +1,118 @@
+{
+    "id": 17677,
+    "caseId": "20200717000003",
+    "count": 1754,
+    "shareCount": 0,
+    "representImage": 70193,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-07-17/6595e016-4c42-48e4-8e79-e463f9213d7a/IMGP4928_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-07-17/6595e016-4c42-48e4-8e79-e463f9213d7a/IMGP4928.jpg",
+        "name": "IMGP4928"
+    },
+    "caseName": "池西41號古宅",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待後續調查研究",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1581391430527,
+    "officialDocNo": "府授文資字第10937004372號",
+    "documents": [
+        {
+            "fileid": 70192,
+            "name": "池西41號古宅公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-07-17/02d9c0ea-4829-4320-a9af-fd24533f6fe5/池西41號古宅公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "(1) 表現地域風貌或民間藝術特色者：門樓石雕對聯，大廳正面匾額「陋巷堂」、左右牆水墨畫、門柱、燕子磚砌，門窗石作框及花格磚等，尚保存完整，具民間藝術特色與風貌。\n(2) 具地區性建造物類型之特色者：為澎湖傳統一落四櫸頭形式，採用地區建材（玄武岩、硓𥑮石）混建，入口型式，前磚坪式，深井水缸、彩繪、花磚、花窗，具地方特色。\n",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、3款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "西嶼鄉",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "06-9261141#138",
+    "govDeptAddress": "澎湖縣馬公市中華路230號",
+    "cadasters": [
+        {
+            "fileid": 70194,
+            "name": "西嶼鄉池西段1785地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2020-07-17/e4f46e25-dcfa-491b-9840-a69c55b7f59e/西嶼鄉池西段1785地籍圖.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "西嶼鄉池西段1785地號",
+    "buildingFeatures": "傳統四櫸頭建築，牆基為玄武岩，入口形式為前磚坪式，門樓門豎為石雕聯對，橫批為「五福盈門」。",
+    "inHouseFeatures": "大廳正面壁匾額堵「陋巷堂」，左堵為「竹鹿」水墨畫，右堵為「松鶴」水墨畫，門柱為清水紅磚。",
+    "buildingUsage": "閒置",
+    "buildingActualState": "閒置",
+    "buildingKeyMaintainItem": "依原樣保存維護",
+    "bulkTransfer": 0,
+    "belongAddress": "池西村41號",
+    "isOpenVisit": false,
+    "openUpTime": "不開放",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 119.506484,
+    "latitude": 23.603483,
+    "representImageSource": "澎湖縣政府文化局文化資產科",
+    "landScope": "澎湖縣西嶼鄉池西段1785地號",
+    "selfCoverage": "澎湖縣西嶼鄉池西段1785地號，西嶼鄉池西段57建號；定著土地面積為186.62平方公尺，建物面積113.29平方公尺。",
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "西嶼鄉",
+            "id": 106267,
+            "caseId": 17677,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2102,
+            "address": "池西村41號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "西嶼鄉",
+            "landNoName": "池西段",
+            "noncityLandUseTypeName": "鄉村區",
+            "id": 130902,
+            "caseId": 17677,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2102,
+            "landNoId": 15639,
+            "landSerialNo": "1785",
+            "landownership": 2,
+            "noncityLandUseTypeId": 4,
+            "area": "186.62平方公尺",
+            "noncityLandUseTypeOther": "乙種建築用地",
+            "note": "",
+            "cityLandUseId": 2
+        }
+    ],
+    "announces": [
+        {
+            "id": 113938,
+            "caseId": 17677,
+            "caseStatus": true,
+            "registerDate": 1581391430527,
+            "officialDocNo": "府授文資字第10937004372號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[119.50651499302103,23.60357870005786],[119.50656373071799,23.603435632540833],[119.50647095432791,23.60341160163763],[119.50639436594315,23.60354122067065],[119.50651499302103,23.60357870005786],[119.50651499302103,23.60357870005786]]]]},\"properties\":{\"envelope\":{\"left\":\"119.50639436594315\",\"top\":\"23.603411601637632\",\"right\":\"119.50656373071799\",\"bottom\":\"23.603578700057859\"},\"landLot\":\"澎湖縣西嶼鄉池西段1785\"}}],\"notfound\":[]}]",
+    "openVisitType": ""
+}

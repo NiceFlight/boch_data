@@ -1,0 +1,106 @@
+{
+    "id": 3217,
+    "caseId": "20150730000003",
+    "count": 1171,
+    "shareCount": 0,
+    "representImage": 208292,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-03-08/02cba39b-a516-4792-8026-5d38ec168a32/邵族印鑑8件1組_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-03-08/02cba39b-a516-4792-8026-5d38ec168a32/邵族印鑑8件1組.jpg",
+        "name": "邵族印鑑8件1組"
+    },
+    "caseName": "邵族印鑑8件1組",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1438185600000,
+    "officialDocNo": "府授文資字10401505603 號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本批印鑑保管者白先生為大坪林（今水里鄉頂崁村）邵族後裔，據白先生轉述前所有者毛熊山先生之言，本批印鑑為毛家家傳，其祖先為六社總頭目，其下管理各社頭目。邵族在清代水沙連地區扮演舉足輕重的角色，包括引介平埔族入墾埔里盆地、招漢人入墾邵族土地，對清代台灣史上族群與土地的變遷具有深遠影響，本批印鑑可與文獻史事相互佐證，為邵族歷史傳承的重要信物。",
+    "lawsReference": "1.文化資產保存法第65條\r\n2.古物分級登錄指定及廢止審查辦法第2條",
+    "govInstitutionCode": "540",
+    "govInstitutionName": "南投縣政府",
+    "belongCityId": 12,
+    "belongCityName": "南投縣",
+    "belongDistName": "水里鄉",
+    "govInstitution": "南投縣政府",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "049-2231191",
+    "govDeptAddress": "540南投市建國路135號",
+    "reservationCode": "20200013748",
+    "amount": 8,
+    "notes": "所有權人為水里鄉邵族白潔先生，於生前108年11月14日委託本局代為保管。",
+    "descAge": "清代",
+    "descSize": "寬5.5高4.8長8.8(公分）、寬3.2高3.4長4.6（公分）、寬4高5.8長8（公分）、寬3.3高3.1長4.8（公分）、寬4.3高2.2長5.8（公分）、寬4高3.8長5.7（公分）、寬2高6長2（公分）、寬1.8高2.7長2.9（公分）",
+    "descMaterial": "石質、木質",
+    "reserveStatusDesc": "本批印鑑保管者白先生為大坪林（今水里鄉頂崁村）邵族後裔，據白先生轉述前所有者毛熊山先生之言，本批印鑑為毛家家傳，其祖先為六社總頭目，其下管理各社頭目。邵族在清代水沙連地區扮演舉足輕重的角色，包括引介平埔族入墾埔里盆地、招漢人入墾邵族土地，對清代台灣史上族群與土地的變遷具有深遠影響，本批印鑑可與文獻史事相互佐證，為邵族歷史傳承的重要信物。",
+    "pastHistorySource": 7,
+    "pastHistorySourceNotes": "白潔先生生前委託本局保管",
+    "saveEnvironment": 1,
+    "saveEnvironmentNotes": "南投縣政府文化局庫房",
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 147257,
+            "name": "邵族印鑑公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-10/85b0a8ed-6227-4866-9dbf-81f7695510ff/邵族印鑑公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.68182,
+    "latitude": 23.90827,
+    "representImageSource": "南投縣政府文化局(攝影者：巷弄文旅有限公司-謝顯林)",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "南投縣政府文化局",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "南投縣政府文化局",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "公務設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "南投縣",
+            "distName": "南投市",
+            "id": 114228,
+            "caseId": 3217,
+            "caseStatus": true,
+            "cityId": 12,
+            "distId": 1201,
+            "address": "建國路135號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 124393,
+            "caseId": 3217,
+            "caseStatus": true,
+            "registerDate": 1438185600000,
+            "officialDocNo": "府授文資字10401505603 號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

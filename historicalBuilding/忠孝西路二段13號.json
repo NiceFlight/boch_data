@@ -1,0 +1,119 @@
+{
+    "id": 17681,
+    "caseId": "20200720000003",
+    "count": 2628,
+    "shareCount": 1,
+    "representImage": 184522,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/b76bd883-b652-4acb-a596-ccf0f1330277/代表圖像_忠孝西路二段13號_20220726_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/b76bd883-b652-4acb-a596-ccf0f1330277/代表圖像_忠孝西路二段13號_20220726.jpeg",
+        "name": "代表圖像_忠孝西路二段13號_20220726"
+    },
+    "caseName": "忠孝西路二段13號",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "日治時期為鐵道部慰安宿泊所，戰後為鐵道部官舍建築群之一（臺鐵第3公共宿舍）",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 70209,
+            "name": "1090601北市文化文資字第10930212081號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/c9412196-626d-4282-8cfc-49e648d6e24c/1090601北市文化文資字第10930212081號公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1.\t建築形式為日式1層樓木構桁架屋瓦，建物規模較大，其屋頂三重、太子樓及整體型態均具特色。\n2.\t日治時期為鐵道部慰安宿泊所，戰後為鐵道部官舍建築群之一（臺鐵第3公共宿舍），具歷史意義及整體性價值。\n3.\t臺北北門外鄭州路、延平北路、忠孝西路、西寧北路所圍合之區域，歷經清朝機器局，及日治時期砲兵工廠、鐵道部等時期，見證臺北城現代化之歷程。\n",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 70210,
+            "name": "1090601公告_地形地籍示意圖（奉核）.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/10ca79be-c31b-46fa-a4cc-2d77ae9635fb/1090601公告_地形地籍示意圖（奉核）.pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.50938900933531,
+    "latitude": 25.048455017701457,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市大同區玉泉段二小段371-20、371-21地號等2筆土地。",
+    "selfCoverage": "大同區玉泉段二小段371-20（部分，該筆土地面積為3,210平方公尺）、371-21（部分，該筆土地面積為529平方公尺）地號等2筆土地。（實際保存面積須以保存範圍實測數據為準）",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 92705,
+            "caseId": 17681,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "忠孝西路二段13號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "玉泉段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 113372,
+            "caseId": 17681,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 191,
+            "landSerialNo": "371-20",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "area": "3210",
+            "cityLandUseTypeOther": "交通廣場用地",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "玉泉段二小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 113373,
+            "caseId": 17681,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 191,
+            "landSerialNo": "371-21",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "area": "529",
+            "cityLandUseTypeOther": "道路用地",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 100008,
+            "caseId": 17681,
+            "caseStatus": true,
+            "registerDate": 1590940800000,
+            "officialDocNo": "北市文化文資字第10930212081號",
+            "classificationId": 1
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

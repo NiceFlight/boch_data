@@ -1,0 +1,107 @@
+{
+    "id": 4278,
+    "caseId": "20090630000015",
+    "count": 297,
+    "shareCount": 0,
+    "representImage": 7204,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36692/photo/1cb01ceb-883b-4cea-adf8-4d238c61bac1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36692/photo/1cb01ceb-883b-4cea-adf8-4d238c61bac1.jpg",
+        "name": "1cb01ceb-883b-4cea-adf8-4d238c61bac1"
+    },
+    "caseName": "大理石梟形立雕",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1246291200000,
+    "officialDocNo": "會授資籌二字第0982108065號",
+    "judgeCriteria": [
+        "歷史流傳已久或史事具有深厚淵源",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "出土於西北岡1001號大墓，與「大理石虎首人身立雕」最常被引用及代表殷墟時期大理石工藝的高度水平。製作精美，背後凹槽的設計，學界多推論為建築的構件。具有重要歷史、文化價值。",
+    "lawsReference": "1.文化資產保存法第66條。2.符合古物分級登錄指定及廢止審查辦法第4條第1、4、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "南港區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "R001756",
+    "keepNameId": 5,
+    "keepName": "中央研究院歷史語言研究所",
+    "keepNameNew": 5,
+    "keepAddressNew": "115台北市南港區研究院路二段130號",
+    "saveSpaceId": 11,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "商",
+    "descCreator": "",
+    "descSize": "高34.1、長25.2、寬24.8公分",
+    "descMaterial": "大理岩",
+    "reserveStatusDesc": "立體雕刻，保存尚佳，左角中部及左上角損缺小部，右耳右角表面微風化，胸下部兩足爪，右尾下部，喙上面亦微風化。\n",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "1935年；河南安陽西北崗墓1001出土",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 54348,
+            "name": "20090630公告.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-01-18/ad9d9524-1e1d-4c23-b189-f66866a44bcd/20090630公告.jpg"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "中央研究院歷史語言研究所",
+    "keepNames": [
+        {
+            "keepNameIdStr": "中央研究院歷史語言研究所",
+            "keepName": "中央研究院歷史語言研究所",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "中央研究院歷史語言研究所",
+            "keepAddressNew": "115台北市南港區研究院路二段130號",
+            "saveSpaceIdStr": "研究設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "南港區",
+            "keepNameAddress": "研究院路二段130號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "南港區",
+            "id": 4420,
+            "caseId": 4278,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 111
+        }
+    ],
+    "announces": [
+        {
+            "id": 4420,
+            "caseId": 4278,
+            "caseStatus": true,
+            "registerDate": 1246291200000,
+            "officialDocNo": "會授資籌二字第0982108065號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

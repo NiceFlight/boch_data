@@ -1,0 +1,105 @@
+{
+    "id": 3563,
+    "caseId": "20130813000018",
+    "count": 42,
+    "shareCount": 0,
+    "representImage": 6229,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7278/photo/真西山讀書記（宋刊本）_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7278/photo/真西山讀書記（宋刊本）.png",
+        "name": "真西山讀書記（宋刊本）"
+    },
+    "caseName": "真西山讀書記（宋刊本）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1376323200000,
+    "officialDocNo": "文資局物字第 10220091271號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "宋開慶元年(1259)湯漢等福州刊本。\r\n真德秀，號西山，後世稱西山先生。宋福州刊本讀書記，今所見多為甲集、乙集下、丁集。\r\n此乙集上即《大學衍義》，全四十三卷較罕見。西山先生始讀《大學》，見其自格物、致知、誠意、正心、修身、齊家至於治國、平天下，歎曰為人君者不可不知。後，理宗親躬大政，以是書進。聖賢理義之訓、古今成敗之跡，大略具是。\r\n宋版古籍，罕見稀有，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號05510",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 30,
+    "notes": "",
+    "descAge": "宋開慶元年(1259)",
+    "descCreator": "宋真德秀撰",
+    "descSize": "半葉10行，版匡24.1x17.1公分",
+    "descMaterial": "紙質刊本",
+    "reserveStatusDesc": "乙集上大學衍義四十三卷。\n真德秀，號西山，後世稱西山先生。宋福州刊本讀書記，今所見多為甲集、乙集下、丁集。\n此乙集上即《大學衍義》，全四十三卷較罕見。西山先生始讀《大學》，見其自格物、致知、誠意、正心、修身、齊家至於治國、平天下，歎曰為人君者不可不知。後，理宗親躬大政，以是書進。聖賢理義之訓、古今成敗之跡，大略具是。\n\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "無虫蛀。經修裱，書中有漫漶及斷版情形，保存狀況良好。\n",
+    "documents": [
+        {
+            "fileid": 6230,
+            "name": "aa73559d-8693-4269-920e-5c849c7045fb.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44157/file/aa73559d-8693-4269-920e-5c849c7045fb.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3705,
+            "caseId": 3563,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3705,
+            "caseId": 3563,
+            "caseStatus": true,
+            "registerDate": 1376323200000,
+            "officialDocNo": "文資局物字第 10220091271號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

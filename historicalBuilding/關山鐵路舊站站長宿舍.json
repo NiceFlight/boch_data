@@ -1,0 +1,93 @@
+{
+    "id": 1853,
+    "caseId": "20031231000011",
+    "count": 2445,
+    "shareCount": 0,
+    "representImage": 176719,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-07-27/fece3536-036a-4378-9758-bbb574d76223/D72_3640_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-07-27/fece3536-036a-4378-9758-bbb574d76223/D72_3640.jpg",
+        "name": "D72_3640"
+    },
+    "caseName": "關山鐵路舊站站長宿舍",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "關山鐵路舊站宿舍位於關山舊火車站（舊稱里壠驛或關山驛）西北側，大約與里壠驛同時，興建於大正11年（1922）臺東線鐵道全線開通時。其中關山站長宿舍為地上一層木構建築，連續基礎為磚砌。牆體是編竹灰泥牆，外覆雨淋板，北側立面有出窗設計。屋頂為四坡水寄棟屋根，屬於日治時期官舍建築樣式。\n臺灣光復後，關山鐵路宿舍仍作為職務宿舍之用。民國86年（1997）之後，宿舍住宿人員陸續搬出，閒置後日漸損壞。民國98年經臺東縣政府爭取經費，翌年年修復完成。一度出租給民宿業者使用。關山鐵路舊站宿舍群，為花東線鐵道中，僅存完整保留的鐵道宿舍群。\n",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "建築物類",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1072863061000,
+    "officialDocNo": "府文資字第 0923028169 號",
+    "documents": [
+        {
+            "fileid": 114931,
+            "name": "24臺東縣歷史建築公告文- 關山鐵路舊站宿舍.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-28/09fb10f7-5773-4bf6-9dc5-2bbe363901c9/24臺東縣歷史建築公告文- 關山鐵路舊站宿舍.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "花東線鐵道中，僅存完整保留之鐵道站長宿舍。",
+    "lawsReference": "1.文化資產保存法第27條之一規定\n2.歷史建築登錄及輔助辦法\n3.臺東縣92年12月16日歷史建築登錄審查會議決議辦理\n",
+    "govInstitutionCode": "950",
+    "govInstitutionName": "臺東縣政府",
+    "belongCityId": 22,
+    "belongCityName": "臺東縣",
+    "belongDistName": "關山鎮",
+    "govInstitution": "臺東縣政府",
+    "govDeptName": "文化處文化資產科",
+    "govDeptPhone": "089-350129",
+    "govDeptAddress": "臺東市南京路25號",
+    "cadasters": [],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "關山鎮里壠段0207-0000地號  關山鎮里壠段0208-0000地號關山鎮里壠段0209-0000地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "新福里博愛路21 號",
+    "isOpenVisit": true,
+    "openUpTime": "僅外部空間可參觀",
+    "isCharge": false,
+    "isOpenDownload": true,
+    "longitude": 121.16465689635142,
+    "latitude": 23.047297944896666,
+    "representImageSource": "111年度臺東縣文化資產個案資料同步更新維護計畫",
+    "landScope": "臺東縣關山鎮里壠段 207、208、209 地號\n",
+    "selfCoverage": "臺東縣關山鎮里壠段 207、208、209 地號\n",
+    "addresses": [
+        {
+            "cityName": "臺東縣",
+            "distName": "關山鎮",
+            "id": 147819,
+            "caseId": 1853,
+            "caseStatus": true,
+            "cityId": 22,
+            "distId": 2207,
+            "address": "臺東縣關山鎮博愛路21號"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 160547,
+            "caseId": 1853,
+            "caseStatus": true,
+            "registerDate": 1072863061000,
+            "officialDocNo": "府文資字第 0923028169 號",
+            "classificationId": 1
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

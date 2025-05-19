@@ -1,0 +1,114 @@
+{
+    "id": 2108,
+    "caseId": "20160130000002",
+    "count": 2964,
+    "shareCount": 1,
+    "representImage": 162438,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/4429ade1-40ac-4fd7-a76e-88c284eebf77/cc7dcab0-b3f8-4505-b224-ac8c3e7cd12b_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/4429ade1-40ac-4fd7-a76e-88c284eebf77/cc7dcab0-b3f8-4505-b224-ac8c3e7cd12b.JPG",
+        "name": "cc7dcab0-b3f8-4505-b224-ac8c3e7cd12b"
+    },
+    "caseName": "迪化街一段46巷16號店屋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本建築基地原為吳文秀所有之 「良德茶行」舊址，前方為小運河，日治時期臨側為永樂座，見證大稻埕茶業商務活動及庶民娛樂生活的歷史。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 162439,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/2a815c91-5e2e-473c-9f6d-dec61799e427/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "1、本建築基地原為吳文秀所有之 「良德茶行」舊址，前方為小運河，日治時期臨側為永樂座，見證大稻埕茶業商務活動及庶民娛樂生活的歷史。\r\n2、本建物仍保存原有外牆、構造體及木樓板，保存狀況尚為完整，且位於巷口轉角位置，可呈現街角建築與十字路口街景之歷史意象特色。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、4款評定基準。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 162440,
+            "name": "7be2d46a-a14a-40fc-abb2-c4b6306e90aa.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/443bb0e2-93eb-4073-988d-73ac7450a1f4/7be2d46a-a14a-40fc-abb2-c4b6306e90aa.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "特專",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "大同區迪化段三小段205地號",
+    "buildingFeatures": "磚木R.C混合構造",
+    "inHouseFeatures": "木椼樓板、磨石子地",
+    "buildingUsage": "使用中(社區服務工作坊)",
+    "buildingActualState": "尚可",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.509569,
+    "latitude": 25.0549199,
+    "representImageSource": "文化局",
+    "landScope": "鄰近市定古蹟台北霞海城隍廟約200公尺處，建築物坐落土地為大同區迪化段三小段205地號（土地面積63平方公尺）",
+    "selfCoverage": "建物為大同區迪化段三小段492建號（建物總面積114.38平方公尺）。（實際保存面積須以保存範圍實測數據為準）",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 78225,
+            "caseId": 2108,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "迪化街1段46巷16號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 82647,
+            "caseId": 2108,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 194,
+            "landSerialNo": "205",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "63平方公尺",
+            "cityLandUseTypeOther": "大稻埕特定專用區",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 83942,
+            "caseId": 2108,
+            "caseStatus": true,
+            "registerDate": 1454083200000,
+            "officialDocNo": "北市文化文資字第10530352000號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

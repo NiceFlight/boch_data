@@ -1,0 +1,108 @@
+{
+    "id": 3652,
+    "caseId": "20110211000003",
+    "count": 223,
+    "shareCount": 0,
+    "representImage": 6393,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32600/photo/7c72cd4e-3401-4863-a289-4580b4aad0bf_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32600/photo/7c72cd4e-3401-4863-a289-4580b4aad0bf.jpg",
+        "name": "7c72cd4e-3401-4863-a289-4580b4aad0bf"
+    },
+    "caseName": "珩（璜）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1297353600000,
+    "officialDocNo": "會授資籌二字第10020006991號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "從紋飾風格可知，本件玉器為出土於春秋墓葬中的西周舊器，其紋飾構圖雖無特殊之處，然自器身兩端沿著扁薄器身斜入的\"Λ\"字形長穿孔工藝則基本不見於其他考古出土兩周時期玉器，此一穿孔工藝不僅極具難度，也極可能反映本件玉器在春秋時代功能之改變，相當具有意義。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第一、三、四、五、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "玉186（h0000247）",
+    "keepNameId": 7,
+    "keepName": "國立歷史博物館",
+    "keepNameNew": 7,
+    "keepAddressNew": "100台北市中正區南海路49號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "春秋",
+    "descSize": "縱2.2～4.5公分、橫長9～6.5公分",
+    "descMaterial": "軟玉青白",
+    "reserveStatusDesc": "珩，為珮上飾玉，形似磬而小，此器成青蒼色。簡化變體螭龍雲紋，呈尖尾形，相互交錯，以複線雙鈎減地陰刻陽紋雕成，刀法簡潔有力，頭部目紋、穿透成孔，用以繫組，以連下飾；青白玉質，器約為璧的三分之一呈窄扇形，兩側龍首外緣出脊呈魚尾狀，兩端各開一圓孔，以雙線陰刻紋刻交錯的尖尾，二龍首部位縱穿深邃細直小孔相接，工藝獨特、精良與難得，龍身作平行雙陰刻線卷雲紋飾，對稱而特殊，乃春秋時新創紋飾，玉質絕佳乃難得的精品，兩端略見沁痕。",
+    "pastHistorySource": 7,
+    "pastHistorySourceNotes": "發掘河南博物館（代管）；1941年河南輝縣甲墓出土",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 53552,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-12-27/d9dc9444-9bb5-4262-8a39-740ccd7bcadb/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立歷史博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立歷史博物館",
+            "keepName": "國立歷史博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立歷史博物館",
+            "keepAddressNew": "100台北市中正區南海路49號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "徐州路21號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3794,
+            "caseId": 3652,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3794,
+            "caseId": 3652,
+            "caseStatus": true,
+            "registerDate": 1297353600000,
+            "officialDocNo": "會授資籌二字第10020006991號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

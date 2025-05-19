@@ -1,0 +1,141 @@
+{
+    "id": 1806,
+    "caseId": "20031211000005",
+    "count": 1778,
+    "shareCount": 0,
+    "representImage": 73733,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-10-27/4a0f48d5-c2aa-4b9b-9677-f4cc87208bc1/外垵餌砲_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-10-27/4a0f48d5-c2aa-4b9b-9677-f4cc87208bc1/外垵餌砲.jpg",
+        "name": "外垵餌砲"
+    },
+    "caseName": "外垵餌砲",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "建造於大正12年（1923），為日軍在美、英、日、法、義五國簽署《華盛頓海軍條約》限武條約下的欺騙假砲。砲身由八角形的砲座和雙砲管構成，體積龐大，砲座上每邊寬度為2公尺，底座每邊寬約4.4公尺，砲管長度為12.3公尺，砲管間距為1.93公尺；假餌砲是頗為稀少、特殊的軍事設施，為因應戰爭的產物，也反映外垵戰略地理位置的重要性。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "其他歷史遺蹟",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1071105009000,
+    "officialDocNo": "府授文視第09200726228 號",
+    "documents": [
+        {
+            "fileid": 76315,
+            "name": "公告公文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-11-24/6eb0d722-69b2-4562-be9b-7631a8af258e/公告公文.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "(一)創建年期久遠。\n(二)具有歷史文化意義，足以作為時代的代表。\n(三)具稀有性，不易再現的建築。\n(四)具有建築史上的意義，有再利用的價值及潛力。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "西嶼鄉",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "06-9261141#138",
+    "govDeptAddress": "澎湖縣馬公市中華路230號",
+    "cadasters": [
+        {
+            "fileid": 3627,
+            "name": "98c2de62-3ba0-4c89-a8e3-98497e6d67e3.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/75323/photo/98c2de62-3ba0-4c89-a8e3-98497e6d67e3.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 7,
+    "nonCityLandUseTypeName": "風景區",
+    "nonCityLandUseSubTypeId": 13,
+    "nonCityLandUseSubTypeName": "遊憩",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "外垵段1532、1533地號\n重測後：外垵一段0596 - 0000、0598 - 0000地號",
+    "buildingFeatures": "砲身體積龐大，砲座每邊寬度為4.4公尺，砲管長度為12.3公尺，砲管間距為1.93公尺。",
+    "inHouseFeatures": "無",
+    "buildingUsage": "目前閒置中，為一處觀光景點。",
+    "buildingActualState": "閒置。",
+    "buildingKeyMaintainItem": "定期派人周遭環境維護、清理。",
+    "bulkTransfer": 0,
+    "belongAddress": "外垵村西埔頂",
+    "isOpenVisit": true,
+    "openUpTime": "全天開放",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 119.475733,
+    "latitude": 23.56466,
+    "representImageSource": "澎湖縣政府文化局文化資產科",
+    "landScope": "澎湖縣西嶼鄉外垵一段596 、598地號，共計2區，土地面積總計2362.61平方公尺。",
+    "selfCoverage": "外垵餌砲位於外垵村西側西埔頂，砲塔位於台地處，向下挖掘約3公尺深度，並將挖掘土石置於四周形成一土垣。構成形式是由八角砲塔與雙砲管組合，體積甚為龐大，其砲塔底座每邊寬度為4.4公尺，砲管長度為12.3公尺，砲管間距為1.93公尺。",
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "西嶼鄉",
+            "id": 107524,
+            "caseId": 1806,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2102,
+            "address": "外垵村西埔頂"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "西嶼鄉",
+            "landNoName": "外垵一段",
+            "noncityLandUseTypeName": "風景區",
+            "id": 134117,
+            "caseId": 1806,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2102,
+            "landNoId": 15528,
+            "landSerialNo": "596",
+            "landownership": 1,
+            "noncityLandUseTypeId": 7,
+            "area": "1221.01平方公尺",
+            "noncityLandUseTypeOther": "特定目的事業用地",
+            "note": "重測前: 澎湖縣西嶼鄉外垵段1532、1533地號",
+            "cityLandUseId": 2
+        },
+        {
+            "cityName": "澎湖縣",
+            "distName": "西嶼鄉",
+            "landNoName": "外垵一段",
+            "noncityLandUseTypeName": "風景區",
+            "id": 134118,
+            "caseId": 1806,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2102,
+            "landNoId": 15528,
+            "landSerialNo": "598",
+            "landownership": 1,
+            "noncityLandUseTypeId": 7,
+            "area": "1141.6平方公尺",
+            "noncityLandUseTypeOther": "特定目的事業用地",
+            "note": "重測前: 澎湖縣西嶼鄉外垵段1532、1533地號",
+            "cityLandUseId": 2
+        }
+    ],
+    "announces": [
+        {
+            "id": 115518,
+            "caseId": 1806,
+            "caseStatus": true,
+            "registerDate": 1071105009000,
+            "officialDocNo": "府授文視字第09200726228 號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[119.47498236011083,23.56476175351561],[119.4755011624826,23.56464349745184],[119.47599410999204,23.56454795580532],[119.47598228492565,23.564453170786887],[119.475493862206,23.564533984986895],[119.47495421867909,23.564665485092476],[119.47498236011083,23.56476175351561],[119.47498236011083,23.56476175351561]]]]},\"properties\":{\"envelope\":{\"left\":\"119.47495421867909\",\"top\":\"23.564453170786887\",\"right\":\"119.47599410999204\",\"bottom\":\"23.564761753515612\"},\"landLot\":\"澎湖縣西嶼鄉外垵一段596\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[119.475493862206,23.564533984986895],[119.47598228492565,23.564453170786887],[119.47594292112638,23.564280698137125],[119.47593489502206,23.564251346818615],[119.47542426317015,23.564355050417884],[119.47545490604165,23.5644344201459],[119.475493862206,23.564533984986895],[119.475493862206,23.564533984986895]]]]},\"properties\":{\"envelope\":{\"left\":\"119.47542426317015\",\"top\":\"23.564251346818615\",\"right\":\"119.47598228492565\",\"bottom\":\"23.564533984986895\"},\"landLot\":\"澎湖縣西嶼鄉外垵一段598\"}}],\"notfound\":[]}]",
+    "openVisitType": "",
+    "pastHistorySource": "文化局提供"
+}

@@ -1,0 +1,105 @@
+{
+    "id": 15681,
+    "caseId": "20180503000003",
+    "count": 413,
+    "shareCount": 0,
+    "representImage": 48132,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-05-03/ad8f7bd5-c921-485c-8660-a2a43a5c2b96/S__80461832_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-05-03/ad8f7bd5-c921-485c-8660-a2a43a5c2b96/S__80461832.jpg",
+        "name": "S__80461832"
+    },
+    "caseName": "南協遊府丁公去思碑記",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1520411840622,
+    "officialDocNo": "高市府文資字第10730387800號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源"
+    ],
+    "registerReason": "碑文由文武官員數十人共同題銘，足見「去思碑」傳統已融入清代臺灣的政治環境與歷史脈絡之中，見證清代台灣地方軍備，且題立者多鳳山縣官紳耆老，紀錄地方的科舉功名。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第1、2款",
+    "govInstitutionCode": "800",
+    "govInstitutionName": "高雄市政府",
+    "belongCityId": 18,
+    "belongCityName": "高雄市",
+    "belongDistName": "左營區",
+    "govInstitution": "高雄市政府",
+    "govDeptName": "高雄市立歷史博物館",
+    "govDeptPhone": "07-5312560#236",
+    "govDeptAddress": "高雄市鹽埕區中正四路272號",
+    "reservationCode": "無",
+    "amount": 1,
+    "descAge": "1765年",
+    "descSize": "長196.5cm、寬92cm、厚14cm",
+    "descMaterial": "花崗岩",
+    "reserveStatusDesc": "本碑紀錄南路營守備丁玉清乾隆27年10月至乾隆30年9月（1762~1765）任職臺灣南路營守備，秩滿調任建寧鎮左營都司。丁氏離臺之際，軍民同傷，因立去思碑，紀其深得軍民之心的事功。碑體文字為陰刻，碑體上方裝飾為淺浮雕的鳥獸形紋飾，碑體底座則雕有獸形浮雕。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 3,
+    "reserveStatus": "本府於民國七十二年重修鳳山舊城孔廟崇聖祠時，將散置附近的十方石碑蒐集起來，重新立於祠後，成為碑林，石碑目前狀態穩定，日後會持續在原地保存。",
+    "documents": [
+        {
+            "fileid": 48133,
+            "name": "24749248_10730387800.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-05-03/d04f5dd6-5cb5-49aa-8654-0ec087ab271c/24749248_10730387800.pdf"
+        },
+        {
+            "fileid": 48134,
+            "name": "一般古物指定公告表-106大會指定 (公告版).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-05-03/5c31b90d-4e06-4821-84b4-d7f9205fb99d/一般古物指定公告表-106大會指定 (公告版).pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.2930037,
+    "latitude": 22.6831769,
+    "representImageSource": "高雄市立歷史博物館拍攝",
+    "keepNames": [
+        {
+            "keepNameIdStr": "高雄市立舊城國民小學",
+            "keepName": "舊城國小／賴南宏主任",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "高雄市立舊城國民小學",
+            "keepAddressNew": "高雄市左營區蓮潭路47號",
+            "saveSpaceIdStr": "學校",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "高雄市",
+            "keepNameDistName": "左營區",
+            "keepNameAddress": "蓮潭路47號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "高雄市",
+            "distName": "左營區",
+            "id": 148678,
+            "caseId": 15681,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1811,
+            "address": "蓮潭路47號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 161645,
+            "caseId": 15681,
+            "caseStatus": true,
+            "registerDate": 1520411840622,
+            "officialDocNo": "高市府文資字第10730387800號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

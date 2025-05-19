@@ -1,0 +1,105 @@
+{
+    "id": 15720,
+    "caseId": "20180601000007",
+    "count": 452,
+    "shareCount": 0,
+    "representImage": 147332,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-13/85bef37b-e244-4a92-b789-3fef0fe1811b/DSC09900-hhy_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-13/85bef37b-e244-4a92-b789-3fef0fe1811b/DSC09900-hhy.jpg",
+        "name": "DSC09900-hhy"
+    },
+    "caseName": "興建順天宮碑記",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1507219200000,
+    "officialDocNo": "府文資二字第1063809916G號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就",
+        "數量稀少者",
+        "對地方或族群知識、技術或流派發展具影響或意義"
+    ],
+    "registerReason": "此塊碑記紀錄順天宮興建從道光十四年至咸豐二年修建完成，以怡德號許際昌為總理，董事為德茂號、陳世澎、林洽源、許光地，歷經18年修築，同時上面也記錄了當時候土庫商號及周邊的村庄所捐獻的金額，捐資的村庄位於現在土庫、虎尾、元長、斗南、溪口，最遠到臺南安平鎮募資，是本宮相當重要的歷史紀錄。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2、3、4、5、6款",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "belongCityId": 13,
+    "belongCityName": "雲林縣",
+    "belongDistName": "土庫鎮",
+    "govInstitution": "雲林縣政府",
+    "govDeptName": "文化處",
+    "govDeptPhone": "05-5523157",
+    "govDeptAddress": "雲林縣斗六市大學路三段310號",
+    "reservationCode": "暫無",
+    "amount": 1,
+    "descAge": "西元1852年（清咸豐2年）",
+    "descSize": "寬78公分，高166公分",
+    "descMaterial": "石質",
+    "reserveStatusDesc": "此塊碑記紀錄順天宮興建從道光十四年至咸豐二年修建完成，以怡德號許際昌為總理，董事為德茂號、陳世澎、林洽源、許光地，歷經18年修築，同時上面也記錄了當時候土庫商號及周邊的村庄所捐獻的金額，捐資的村庄位於現在土庫、虎尾、元長、斗南、溪口，最遠到臺南安平鎮募資，是本宮相當重要的歷史紀錄。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "西元1834~1852年（清道光14年~咸豐2年），地點；土庫順天宮",
+    "saveEnvironment": 2,
+    "reserveStatus": "保存良好",
+    "documents": [
+        {
+            "fileid": 48294,
+            "name": "「興建順天宮碑記」公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-06-01/b7c932b9-56bc-4d43-ad27-0db57bb271c4/「興建順天宮碑記」公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 23.6767819253369,
+    "latitude": 120.3906100262543,
+    "representImageSource": "雲林縣政府",
+    "keepNames": [
+        {
+            "keepNameIdStr": "土庫順天宮管理委員會",
+            "keepName": "土庫順天宮管理委員會",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "土庫順天宮管理委員會",
+            "keepAddressNew": "雲林縣土庫鎮順天里中正路109號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "雲林縣",
+            "keepNameDistName": "土庫鎮",
+            "keepNameAddress": "順天里中正路109號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "土庫鎮",
+            "id": 68964,
+            "caseId": 15720,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1304,
+            "address": "中正路109號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73093,
+            "caseId": 15720,
+            "caseStatus": true,
+            "registerDate": 1507219200000,
+            "officialDocNo": "府文資二字第1063809916G號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

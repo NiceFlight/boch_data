@@ -1,0 +1,114 @@
+{
+    "id": 15497,
+    "caseId": "20180226000003",
+    "count": 5439,
+    "shareCount": 14,
+    "representImage": 189562,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/bf478a83-3dc4-4b98-b673-03d959520c25/代表圖像_延平基督教會_20220718 _c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/bf478a83-3dc4-4b98-b673-03d959520c25/代表圖像_延平基督教會_20220718 .jpeg",
+        "name": "代表圖像_延平基督教會_20220718 "
+    },
+    "caseName": "延平基督教會",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "延平教會於1925年原為日本「聖教會」宣教場所，建物創建於1937年，李幫助牧師曾於1947年籌資重新修建，於1957年改稱「延平基督教會」，具見證聖教會宣教之歷史價值。\n",
+    "assetsTypeNames": "教堂",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 47636,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-02-26/7c6a679d-e37b-4d96-9fc7-5805cf2b4309/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具高度歷史、藝術或科學價值者",
+        "表現各時代營造技術流派特色者"
+    ],
+    "registerReason": "1. 延平教會原為日本聖教會宣教場所，建物創建於1937年，李幫助牧師曾於1947年籌資重新修建，於1957年改稱「延平基督教會」，具見證聖教會宣教之歷史價值。本教堂位於大橋頭附近之太平市場內，與地方發展亦有密切關係。\n2. 建築為紅磚造，後外加洗石子裝修，入口設有塔樓，屋頂原有小尖頂，後改設十字架，入口設尖拱門，上層前後設牛眼窗，並保留磚牆體、扶壁、尖拱窗等，整體建築仍維持優美的量體與和諧的比例；教會內部保存磨石子講臺、西式木屋架與鋼柱桿，尖塔內閣樓等，具建築史價值。\n",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、2款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 47639,
+            "name": "地籍圖.png",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2018-02-26/6ec19478-5190-4232-a99b-e13482f752d9/地籍圖.png"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "landUseOtherType": "",
+    "locationLandNo": "大同區延平段一小段21地號土地",
+    "buildingFeatures": "建物外有圍墻，由兩側出入，平面簡單；屋頂十字架，入口設尖拱門，上層前後設牛眼窗，並保留磚牆體、扶壁、尖拱窗等，整體建築仍維持優美的量體與和諧的比例。",
+    "inHouseFeatures": "教會內部保存磨石子講臺、西式木屋架與鋼柱桿，尖塔內閣樓等。",
+    "buildingUsage": "教會目前除做為傳道場所外，並與大同社大合作人文歷史調查與社區營造，從事老人關懷及弱勢學童課後輔導等工作與志工培訓。",
+    "buildingActualState": "教會使用",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "wenSitename": "",
+    "isOpenDownload": false,
+    "longitude": 121.512667,
+    "latitude": 25.0624664,
+    "representImageSource": "臺北市文化局",
+    "landScope": "大同區延平段一小段21地號1筆土地，土地面積259平方公尺（實際保存面積須以保存範圍實測數據為準）",
+    "selfCoverage": "延平基督教會建造物本體",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 95064,
+            "caseId": 15497,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "臺北市大同區延平北路二段247巷5號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "延平段一小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 117470,
+            "caseId": 15497,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 187,
+            "landSerialNo": "21",
+            "landownership": 1,
+            "cityLandUseTypeId": 2,
+            "coverageId": 2,
+            "area": "259",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 102563,
+            "caseId": 15497,
+            "caseStatus": true,
+            "registerDate": 1517500800000,
+            "officialDocNo": "北市文化文資字第10730191700號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "openVisitType": "",
+    "openUpTime": "主日崇拜開放：每禮拜日上午10時10分開始\n\n",
+    "isCharge": false,
+    "pastHistorySource": "延平基督教會歷史文獻"
+}

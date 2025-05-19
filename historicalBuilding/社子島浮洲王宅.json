@@ -1,0 +1,157 @@
+{
+    "id": 2161,
+    "caseId": "20160624000001",
+    "count": 2595,
+    "shareCount": 2,
+    "representImage": 162401,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/0769c7d1-0023-4fc6-afff-326481ea3eda/社子島浮洲王宅_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/0769c7d1-0023-4fc6-afff-326481ea3eda/社子島浮洲王宅.jpg",
+        "name": "社子島浮洲王宅"
+    },
+    "caseName": "社子島浮洲王宅",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "浮洲王宅由王孝（1852至1939）於清末所興建。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 162402,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/fc2b17e7-02bc-4541-a53d-ba70dd6cfd94/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者"
+    ],
+    "registerReason": "一、本建物位於社子島地勢較高地區，主體分為前後兩部分，格局特殊，前部孝得堂為二層樓三合院格局，紅磚造建築，部分構造曾整修(鋼筋混凝土樑、地板及門扇)；後部為街屋式加強磚造建物(具騎樓)，以兩座樓梯連接樓上空間，建物內裝木板隔間仍保存舊貌。 \n二、周圍鄰房多已改建，環境已遭破壞，惟以建物構造而言，仍具保存價值。 ",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、2款評定基準。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 162403,
+            "name": "社子島浮洲王宅地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/6ea6f006-a929-4f60-bebd-747964e3cef0/社子島浮洲王宅地籍圖.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "公園用地",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.49004469584116,
+    "latitude": 25.110196293932727,
+    "representImageSource": "文化局",
+    "landScope": "位於社子島北方近基隆河處的村落 ",
+    "selfCoverage": "實際保存面積須以保存範圍實測數據為準",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 78189,
+            "caseId": 2161,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "延平北路八段2巷206弄1號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 78190,
+            "caseId": 2161,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "延平北路八段2巷200弄11號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 78191,
+            "caseId": 2161,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "平北路八段2巷200弄13號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 78192,
+            "caseId": 2161,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "延平北路八段2巷200弄14號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 78193,
+            "caseId": 2161,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "延平北路八段2巷200弄15號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "富安段一小段",
+            "id": 82606,
+            "caseId": 2161,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 541,
+            "landSerialNo": "46",
+            "coverageId": 1,
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "富安段一小段",
+            "id": 82607,
+            "caseId": 2161,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 541,
+            "landSerialNo": "150",
+            "coverageId": 1,
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 83916,
+            "caseId": 2161,
+            "caseStatus": true,
+            "registerDate": 1466697600000,
+            "officialDocNo": "北市文化文資字第10530413600號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "提報表與審議資料"
+}

@@ -1,0 +1,103 @@
+{
+    "id": 16755,
+    "caseId": "20190506000004",
+    "count": 522,
+    "shareCount": 1,
+    "representImage": 260648,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-08-05/76034f5f-d95c-4008-a711-1311cc56214b/1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-08-05/76034f5f-d95c-4008-a711-1311cc56214b/1.jpg",
+        "name": "1"
+    },
+    "caseName": "水上苦竹寺葉王狻狔爐頂",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1538496000000,
+    "officialDocNo": "府授文資字第1070195286號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就",
+        "數量稀少者",
+        "對地方或族群知識、技術或流派發展具影響或意義"
+    ],
+    "registerReason": "1.水上苦竹寺葉王狻猊盧鼎為清咸豐年間(1850-1861)間葉王的泥質金爐作品。\n2.以狻猊喜好吐煙神話傳說作為創作題材，再於獅口內置紅磚瓦片，防止高溫破壞石灰塑形結構，可以開口土煙，深具傳統龍生九子中可以吐煙作為大爐的象徵造像。\n3.葉王的狻猊爐頂作品技法，獅身碩大飽滿，面容表情生動，雙眼炯炯有神。獅首造型的臉部特徵，肌肉塑造觀念及線條表現皆具個人特色。\n",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1項第1、2、3、4、5、6款",
+    "govInstitutionCode": "612",
+    "govInstitutionName": "嘉義縣政府",
+    "belongCityId": 15,
+    "belongCityName": "嘉義縣",
+    "belongDistName": "水上鄉",
+    "govInstitution": "嘉義縣文化觀光局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "05-3628123分機318",
+    "govDeptAddress": "61248嘉義縣太保市東勢里太子大道158號",
+    "reservationCode": "無",
+    "amount": 1,
+    "descAge": "1850-1861",
+    "descSize": "高104、寬113(由前腳至尾巴)、深65(2隻後腿總寬度) 臉部尺寸：耳朵27*9*13、臉寬42、兩眼距離外側28、兩眼距離外側16。（單位：公分）",
+    "descMaterial": "泥質",
+    "reserveStatusDesc": "坐式狻猊金爐作品造型如同大型獅子一般，材質為白灰。獅首額頭渾圓凸起飽滿；眉毛螺髻向上捲曲；眼睛圓凸，炯炯有神。鼻子寬大朝天，鼻頭珠圓厚實。下垂蕉葉型大耳，耳朵內廓線捲曲。頭部、頸部及背部下垂螺髻排列；下層作鬃毛整齊排列。背部脊椎中佈滿螺髻(多顆螺髻已破損)，由兩側順勢排列下垂式鬃毛至尾部。前後腳側邊有向上凸起螺髻排列。左腳踩圓球。尾巴由眾多螺髻聚集成圓形團狀，微微朝上，下方並帶有下垂長條鬃毛，為早期金爐爐頂之裝飾，煙會由獅子之口中排放而出。",
+    "pastHistorySource": 7,
+    "saveEnvironment": 3,
+    "reserveStatus": "尚可",
+    "documents": [
+        {
+            "fileid": 178824,
+            "name": "水上苦竹寺葉王狻猊爐頂--公告1071003.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-08-08/68aff1f6-2ea9-4809-b3d9-529fb0e60975/水上苦竹寺葉王狻猊爐頂--公告1071003.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 23.43613,
+    "latitude": 120.41715,
+    "representImageSource": "李建緯先生",
+    "keepNames": [
+        {
+            "keepNameIdStr": "苦竹寺",
+            "keepName": "苦竹寺",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "苦竹寺",
+            "keepAddressNew": "嘉義縣水上鄉柳林村 5 鄰 45 號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2,
+            "keepNameCityName": "嘉義縣",
+            "keepNameDistName": "水上鄉",
+            "keepNameAddress": "柳子林45號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "嘉義縣",
+            "distName": "水上鄉",
+            "id": 149433,
+            "caseId": 16755,
+            "caseStatus": true,
+            "cityId": 15,
+            "distId": 1507
+        }
+    ],
+    "announces": [
+        {
+            "id": 162549,
+            "caseId": 16755,
+            "caseStatus": true,
+            "registerDate": 1538496000000,
+            "officialDocNo": "府授文資字第1070195286號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

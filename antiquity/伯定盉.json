@@ -1,0 +1,102 @@
+{
+    "id": 3914,
+    "caseId": "20121112000038",
+    "count": 227,
+    "shareCount": 0,
+    "representImage": 6722,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32900/photo/a73063e7-d72b-4cd7-befa-f02a30ac923a_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32900/photo/a73063e7-d72b-4cd7-befa-f02a30ac923a.JPG",
+        "name": "a73063e7-d72b-4cd7-befa-f02a30ac923a"
+    },
+    "caseName": "伯定盉",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1352649600000,
+    "officialDocNo": "文授字第10120135331號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本器口沿下及蓋各飾鳳紋一道，流飾蟬紋及竊曲紋，犧首作鋬，上有龜形環與蓋相連，四柱足。蓋器有對銘各5字「白（伯）定作寶彝」。無論紋飾、器型、銘文皆為西周中期盉形器中之典型精美之作。永和宮舊藏。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第3、5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局 ",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故銅002389",
+    "amount": 1,
+    "notes": "",
+    "descAge": "西周",
+    "descSize": "通蓋高24.9cm，腹深11.7cm，口徑14.1×13.3cm，腹圍53.2cm。",
+    "descMaterial": "銅",
+    "reserveStatusDesc": "口沿下及蓋各飾鳳紋一道，流飾蟬紋及竊曲紋，犧首作鋬，上有龜形環與蓋相連，四柱足。蓋器有對銘各5字。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。鍊斷。",
+    "documents": [
+        {
+            "fileid": 150845,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-20/ff072ff5-dfec-4e82-bd1a-414c1d6b8451/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "25.102350 書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71210,
+            "caseId": 3914,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": " 至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75576,
+            "caseId": 3914,
+            "caseStatus": true,
+            "registerDate": 1352649600000,
+            "officialDocNo": "文授字第10120135331號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

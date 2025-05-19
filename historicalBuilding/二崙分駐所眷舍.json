@@ -1,0 +1,110 @@
+{
+    "id": 19474,
+    "caseId": "20210702000004",
+    "count": 1489,
+    "shareCount": 2,
+    "representImage": 122466,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-02/e716dcc9-69df-41d7-99f6-2291c013a492/IMG_2005_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-02/e716dcc9-69df-41d7-99f6-2291c013a492/IMG_2005.jpg",
+        "name": "IMG_2005"
+    },
+    "caseName": "二崙分駐所眷舍",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "日治時期為二崙建設最多的時期，日人為了方便治理台灣，率先著手地方治安與警察制度的改革。明治32年（1899年）二崙派出所建立，也是台灣歷史最悠久的派出所。從建立到民國39年（1950年）期間，雲林縣轄區共經歷五次行政區劃分更改，二崙派出所之上級單位也隨之頻繁變更，在民國40年（1951年）則轉為西螺警察分局所管轄，時至（1956年）升格為二崙分駐所。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 122610,
+            "name": "中華民國104年03月30日府文資二字第1047403151號 二崙分駐所眷舍 .pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-07-05/f3766d06-4b39-4bf8-9d19-457223f685fb/中華民國104年03月30日府文資二字第1047403151號 二崙分駐所眷舍 .pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "(一)呈現日治時期木造建築之營造技術與工法\n(二)為二崙派出所整體設施之部分，具歷史配製紋理之見證\n(三)可結合分駐所使用，具再利用潛力",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、2、3、4款",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "govInstitution": "雲林縣政府",
+    "govDeptName": "文化觀光處",
+    "govDeptPhone": "(05)5523218",
+    "govDeptAddress": "雲林縣斗六市大學路三段310號",
+    "cadasters": [
+        {
+            "fileid": 122464,
+            "name": "57.二崙分駐所眷舍地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-07-02/a2be00dd-47c5-4a08-8dbc-7406d6926f23/57.二崙分駐所眷舍地籍圖.pdf"
+        },
+        {
+            "fileid": 122465,
+            "name": "57.二崙分駐所眷舍地籍資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-07-02/2c758344-8c2a-44d1-a89b-5d0be5db9b1b/57.二崙分駐所眷舍地籍資料.pdf"
+        }
+    ],
+    "buildingFeatures": "建築類型：單體建築\n建築樓層：一樓1棟\n建築構造：磚木造1棟\n屋頂形式：日式屋架",
+    "buildingActualState": "閒置中",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.412966,
+    "latitude": 23.77109,
+    "representImageSource": "雲林縣政府",
+    "landScope": "雲林縣二崙鄉崙北段1197地號，土地面積632.02平方公尺",
+    "selfCoverage": "本體建築約為49.5平方公尺",
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "二崙鄉",
+            "id": 147882,
+            "caseId": 19474,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1315,
+            "address": "崙西村1鄰中興路5號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "雲林縣",
+            "distName": "二崙鄉",
+            "landNoName": "崙北段",
+            "id": 204038,
+            "caseId": 19474,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1315,
+            "landNoId": 11703,
+            "landSerialNo": "1197",
+            "landownership": 1,
+            "area": "632.02",
+            "noncityLandUseTypeOther": "",
+            "note": "重測前：二崙段０３０５－０００５地號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 160617,
+            "caseId": 19474,
+            "caseStatus": true,
+            "registerDate": 1427699420234,
+            "officialDocNo": "府文資二字第1047403151B號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.41292937792946,23.77087278802543],[120.41316562307996,23.77094281228687],[120.41323939192937,23.770731834181266],[120.41300593446392,23.770657656214272],[120.41301888535988,23.77061782473156],[120.41300895449255,23.770615203641135],[120.41298362573404,23.770685448277828],[120.41299722706403,23.7706902332503],[120.41292937792946,23.77087278802543],[120.41292937792946,23.77087278802543]]]]},\"properties\":{\"envelope\":{\"left\":\"120.41292937792946\",\"top\":\"23.770615203641135\",\"right\":\"120.41323939192937\",\"bottom\":\"23.770942812286869\"},\"landLot\":\"雲林縣二崙鄉崙北段1197\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": "《舊愛雲林 26則雲林ㄟ故事》，雲林縣政府"
+}

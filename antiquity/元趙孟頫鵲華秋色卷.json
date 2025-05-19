@@ -1,0 +1,111 @@
+{
+    "id": 3789,
+    "caseId": "20110919000006",
+    "count": 594,
+    "shareCount": 1,
+    "representImage": 6585,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32826/photo/19586a15-5bad-47ed-945f-c7badf24d72e_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32826/photo/19586a15-5bad-47ed-945f-c7badf24d72e.jpg",
+        "name": "19586a15-5bad-47ed-945f-c7badf24d72e"
+    },
+    "caseName": "元趙孟頫鵲華秋色卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1316361600000,
+    "officialDocNo": "會授資籌二字10020100351號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "歷史流傳已久或史事具有深厚淵源",
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "此畫為趙孟頫重要代表作品。畫風對於掌握元代文人畫傳統具關鍵作用，畫上又有諸多題跋，亦能重整畫史發展脈絡。具畫史意義，也具重要歷史價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第四條第一項第一、二、三、四、五、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫001011",
+    "amount": 1,
+    "notes": "",
+    "descAge": "元",
+    "descCreator": "趙孟頫",
+    "descSize": "28.4 x 93.2 公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "趙孟頫（1254-1322）字子昂，號松雪道人，南宋宗室，後北上大都任官。此畫是元貞元年（1295）他自濟南路職位南返後，為友人周密（1232-1298）描繪其祖籍地貌景色之作。畫卷構圖簡潔，在一廣闊水澤坡岸間，右為尖聳的華不注山，左側是渾圓鵲山。畫中坡岸林木，與董源山水母題十分接近，然經趙孟頫的筆墨與設色後更具生趣，成一秀麗可人的自然佳景。黃公望從趙孟頫此類復古創新手法，得以掌握筆墨新活力。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "本幅：前端有一舊折痕，有蟲蛀、淡墨跡，字有磨損。包首：磨損傷補。有損傷但狀況穩定 。",
+    "documents": [
+        {
+            "fileid": 152004,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-27/f0e85fef-ad8c-476f-a729-2cdb8d8c34a1/公告.pdf"
+        },
+        {
+            "fileid": 152005,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-27/7ccd7fbf-7839-45c8-ad1d-cf23446f9265/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71598,
+            "caseId": 3789,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 76071,
+            "caseId": 3789,
+            "caseStatus": true,
+            "registerDate": 1316361600000,
+            "officialDocNo": "會授資籌二字10020100351號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

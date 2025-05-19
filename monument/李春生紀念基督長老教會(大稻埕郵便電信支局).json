@@ -1,0 +1,127 @@
+{
+    "id": 15790,
+    "caseId": "20180619000001",
+    "count": 4430,
+    "shareCount": 6,
+    "representImage": 177902,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/258d3402-3ed3-4202-86bd-87dbd9852832/代表圖像_李春生紀念基督長老教會(大稻埕郵便電信支局)_20220718_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/258d3402-3ed3-4202-86bd-87dbd9852832/代表圖像_李春生紀念基督長老教會(大稻埕郵便電信支局)_20220718.jpeg",
+        "name": "代表圖像_李春生紀念基督長老教會(大稻埕郵便電信支局)_20220718"
+    },
+    "caseName": "李春生紀念基督長老教會(大稻埕郵便電信支局)",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "本教堂所在地原為大稻埕郵便電信支局，該支局原設於建昌街（今貴德街）東側，於1903年遷至現址，大正年間支局移出，改為教會使用至今。",
+    "assetsTypeNames": "教堂",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 49561,
+            "name": "市定古蹟-李春生紀念基督長老教會公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-08-20/32158e3e-11ec-4b19-9ee5-a35832e299ae/市定古蹟-李春生紀念基督長老教會公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具高度歷史、藝術或科學價值者",
+        "表現各時代營造技術流派特色者",
+        "具稀少性，不易再現者"
+    ],
+    "registerReason": "1.本教堂所在地原為大稻埕郵便電信支局，該支局原設於建昌街（今貴德街）東側，於1903年遷至現址，大正年間支局移出，改為教會使用至今，該建物見證大稻埕公共建築及宗教建築之歷史。\n2.教堂所在區域為清代劉銘傳建設臺灣，發展近代交通、郵電、商務的重要場所，及洋人活動重要居留地區，見證貴德街自清末至日治初期的發展，具歷史意義。\n3.本建物為明治初期的洋風建築形式，為磚造二層建築，屋架、樓板及外貌雖已重新裝飾，惟建物空間、牆體及正立面入口門面仍為原貌，具建築史價值。\n",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 48496,
+            "name": "李春生紀念基督長老教會-地籍地形圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2018-06-19/0121ac73-4ee9-4f8c-bcf9-765716a078d1/李春生紀念基督長老教會-地籍地形圖.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "大稻埕特定專用區",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "迪化街三小段694地號（特定專用區-供河濱住宅使用）、迪化街三小段694-2地號（特定專用區-供特定住宅使用）",
+    "bulkTransfer": 1,
+    "longitude": 121.508252,
+    "latitude": 25.055108,
+    "representImageSource": "臺北市文化局",
+    "landScope": "大同區迪化段三小段694、694-2地號等共2筆地號，土地面積 為338 平方公尺",
+    "selfCoverage": "李春生紀念基督長老教會建築本體",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 88149,
+            "caseId": 15790,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "貴德街44號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 104352,
+            "caseId": 15790,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 194,
+            "landSerialNo": "694",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "area": "155平方公尺",
+            "cityLandUseTypeOther": "特定專用區-供特定住宅用",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 104353,
+            "caseId": 15790,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 194,
+            "landSerialNo": "694-2",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "area": "183平方公尺",
+            "cityLandUseTypeOther": "特定專用區-供特定住宅用",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 95050,
+            "caseId": 15790,
+            "caseStatus": true,
+            "registerDate": 1526400000000,
+            "officialDocNo": "北市文化文資字第10760109441號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false,
+    "pastHistorySource": "財團法人台北市李春生紀念基督長老教會、國史館台灣文獻館相關典藏文件"
+}

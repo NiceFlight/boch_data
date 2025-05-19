@@ -1,0 +1,105 @@
+{
+    "id": 16596,
+    "caseId": "20190219000002",
+    "count": 105,
+    "shareCount": 0,
+    "representImage": 55586,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-02-19/8e03c19a-4136-4607-9658-788508065026/2-故畫001346_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-02-19/8e03c19a-4136-4607-9658-788508065026/2-故畫001346.jpg",
+        "name": "2-故畫001346"
+    },
+    "caseName": "明陸治仙山玉洞圖 軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1550110546696,
+    "officialDocNo": "文授資局物字第10830016291號",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "陸治（1496-1576）畫山水折衷元四大家，並受沈周（1427-1509）、文徵明（1470-1559）影響，晚年用墨趨枯淡方勁，自成一格。本幅為一紀遊寫景之作，繪相傳漢張道陵曾居住之江蘇宜興縣東南張公山張公洞，畫面山石結體方勁峭利，巖石皴法線條細瘦，為陸治自成風貌的成熟期作品，吳派後期山水畫發展的代表作，亦是吳派當時盛行紀遊圖當中的佳作。隱居生活以晉人桃花源為標的。本幅題材可視為後代將桃花源主題轉換為仙山石洞而另有面目。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第4、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故畫001346",
+    "amount": 1,
+    "descAge": "明",
+    "descSize": "本幅150公分x80公分 全幅311公分x105.5公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "陸治（1496-1576），江蘇吳縣人。字叔平，號包山子。畫山水折衷元四大家，並受沈周（1427-1509）、文徵明（1470-1559）影響。\n江蘇宜興縣東南有張公山，山中有張公洞。相傳漢張道陵曾居住於此，山洞怪石參差羅列，神祕幽深。本幅所繪正是此洞，為一紀遊寫景之作。山石結體方勁峭利，巖石皴法線條細瘦，已脫去文氏的格局，自成一家風貌，是陸治成熟期的作品。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "包首墨汙、傷補、霉傷、折裂、本幅絹裂、霉傷、剝落、蟲蛀、傷補。",
+    "documents": [
+        {
+            "fileid": 146920,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-03/97984daa-7021-4fb1-8683-44eb6a490476/公告表.pdf"
+        },
+        {
+            "fileid": 146921,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-03/abd830ab-6f77-42ff-8e5f-84857b2a6056/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 68746,
+            "caseId": 16596,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 72846,
+            "caseId": 16596,
+            "caseStatus": true,
+            "registerDate": 1550110546696,
+            "officialDocNo": "文授資局物字第10830016291號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

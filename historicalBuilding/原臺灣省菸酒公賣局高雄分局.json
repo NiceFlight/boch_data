@@ -1,0 +1,143 @@
+{
+    "id": 18084,
+    "caseId": "20201202000009",
+    "count": 2410,
+    "shareCount": 0,
+    "representImage": 77305,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-12-02/236c2a5e-c348-4975-8869-ddfce8811fe3/原臺灣省菸酒公賣局高雄分局_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-12-02/236c2a5e-c348-4975-8869-ddfce8811fe3/原臺灣省菸酒公賣局高雄分局.jpg",
+        "name": "原臺灣省菸酒公賣局高雄分局"
+    },
+    "caseName": "原臺灣省菸酒公賣局高雄分局",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待調查研究。",
+    "assetsTypeNames": "辦公廳舍",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1592476068984,
+    "officialDocNo": "高市府文資字第10931568900號",
+    "documents": [
+        {
+            "fileid": 77303,
+            "name": "高市府文資字第10931568900號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-02/69382c2f-5102-42a8-b9a3-c93e434fc17e/高市府文資字第10931568900號.pdf"
+        },
+        {
+            "fileid": 77304,
+            "name": "登錄「原臺灣省菸酒公賣局高雄分局」為本市歷史建築.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-02/aa1aae78-9b9b-4bef-9bff-b5dd6e1bec13/登錄「原臺灣省菸酒公賣局高雄分局」為本市歷史建築.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "１、營業所位址為日治時期專賣局出張所舊址，亦為舊港區指標性建築之一，其位址具有見證高雄港市發展及戰後商港發展興衰變遷之歷史意義。\n２、營業所本體建築設計風格為戰後現代主義式樣，採用細小口馬賽克瓷磚貼面裝飾，具有戰後初期時代建築特色。\n３、營業所為台酒員工設計監造，見證戰後初期急缺建築專業人才，短暫開放非科班人員透過考試取得建築師同等資格之發展歷程。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "800",
+    "govInstitutionName": "高雄市政府",
+    "belongCityId": 18,
+    "belongCityName": "高雄市",
+    "belongDistName": "鹽埕區",
+    "govInstitution": "高雄市政府文化局",
+    "govDeptName": "文化資產中心",
+    "govDeptPhone": "07-2225136",
+    "govDeptAddress": "高雄市苓雅區五福一路67號",
+    "cadasters": [
+        {
+            "fileid": 77306,
+            "name": "高市府文資字第10931568900號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2020-12-02/0f4d0b53-ce31-42fe-8605-f4a3d0c12de1/高市府文資字第10931568900號.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "鹽埕區大東段770(部分)、770-1(部分)地號，辦公廳舍及延伸至東南側輸送帶邊界，面積1,143平方公尺。",
+    "buildingFeatures": "營業所本體建築設計風格為戰後現代主義式樣，採用細小口馬賽克瓷磚貼面裝飾，具有戰後初期時代建築特色。",
+    "buildingUsage": "未開放",
+    "buildingActualState": "未開放",
+    "bulkTransfer": 0,
+    "belongAddress": "高雄市鹽埕區七賢三路2號",
+    "isOpenVisit": false,
+    "openUpTime": "目前未開放",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.2796634,
+    "latitude": 22.6209569,
+    "representImageSource": "高雄市政府文化局",
+    "landScope": "鹽埕區大東段770(部分)、770-1(部分)地號，辦公廳舍及延伸至東南側輸送帶邊界，面積1,143平方公尺。",
+    "selfCoverage": "辦公聽舍，鹽埕區大東段770(部分)、770-1(部分)地號，面積938.60平方公尺。",
+    "addresses": [
+        {
+            "cityName": "高雄市",
+            "distName": "鹽埕區",
+            "id": 106347,
+            "caseId": 18084,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1804,
+            "address": "高雄市鹽埕區七賢三路2號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "高雄市",
+            "distName": "鹽埕區",
+            "landNoName": "大東段",
+            "cityLandUseTypeName": "商業區",
+            "id": 130986,
+            "caseId": 18084,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1804,
+            "landNoId": 3786,
+            "landSerialNo": "770",
+            "landownership": 1,
+            "cityLandUseTypeId": 2,
+            "coverageId": 1,
+            "area": "",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "高雄市",
+            "distName": "鹽埕區",
+            "landNoName": "大東段",
+            "cityLandUseTypeName": "商業區",
+            "id": 130987,
+            "caseId": 18084,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1804,
+            "landNoId": 3786,
+            "landSerialNo": "770-1",
+            "landownership": 1,
+            "cityLandUseTypeId": 2,
+            "coverageId": 1,
+            "area": "",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 114076,
+            "caseId": 18084,
+            "caseStatus": true,
+            "registerDate": 1592476068984,
+            "officialDocNo": "高市府文資字第10931568900號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.27988858111792,22.62105749452406],[120.27967760608881,22.620671021383888],[120.27941697718045,22.62079262111417],[120.27962634140763,22.621179534365133],[120.27988858111792,22.62105749452406],[120.27988858111792,22.62105749452406]]]]},\"properties\":{\"envelope\":{\"left\":\"120.27941697718045\",\"top\":\"22.620671021383888\",\"right\":\"120.27988858111792\",\"bottom\":\"22.621179534365133\"},\"landLot\":\"高雄市鹽埕區大東段770\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.2799146710627,22.621045357012022],[120.27970367665921,22.62065885762853],[120.27967760608881,22.620671021383888],[120.27988858111792,22.62105749452406],[120.2799146710627,22.621045357012022],[120.2799146710627,22.621045357012022]]]]},\"properties\":{\"envelope\":{\"left\":\"120.27967760608881\",\"top\":\"22.620658857628531\",\"right\":\"120.2799146710627\",\"bottom\":\"22.621057494524059\"},\"landLot\":\"高雄市鹽埕區大東段770-1\"}}],\"notfound\":[]}]",
+    "openVisitType": ""
+}

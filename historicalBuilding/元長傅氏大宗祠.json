@@ -1,0 +1,156 @@
+{
+    "id": 19495,
+    "caseId": "20210703000005",
+    "count": 1663,
+    "shareCount": 3,
+    "representImage": 147410,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-13/ee3565a1-a60b-4881-83ba-6544872b54e6/DSC09994-hhy_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-13/ee3565a1-a60b-4881-83ba-6544872b54e6/DSC09994-hhy.jpg",
+        "name": "DSC09994-hhy"
+    },
+    "caseName": "元長傅氏大宗祠",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "傅氏大宗祠創建於昭和10年（1935年），為雲林唯一的傅姓宗祠。民國75年（1986年）韋恩颱風肆虐，導致宗祠因風雨而建築有所破損，因此經過宗親會議決議以原貌進行重修，終於在民國78年（1989年）中秋節竣工入火安座。",
+    "assetsTypeNames": "祠堂",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 122639,
+            "name": "中華民國108年01月08日 府文二資字第1083800035號 雲林縣歷史建築元長傅氏大宗祠.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-07-05/69b29abf-50e1-4416-bd12-10f704550518/中華民國108年01月08日 府文二資字第1083800035號 雲林縣歷史建築元長傅氏大宗祠.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "(一)表現地域風貌或民間藝術特色者：宗祠格局 、 彩繪 、 洗石子仿作等具民間藝術特色。\n(二)具建築史或技術史之價值者：該宗祠仍保存原有構造及形貌，且有傅氏家族在地傳承的地域特質。\n(三)具地區性建造物類型之特色者：雲林縣唯一的傅姓宗祠，為傳統姓氏宗祠的典型代表之一。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "640",
+    "govInstitutionName": "雲林縣政府",
+    "govInstitution": "雲林縣政府",
+    "govDeptName": "文化觀光處",
+    "govDeptPhone": "05-5523218",
+    "govDeptAddress": "雲林縣斗六巿雲林路二段310號",
+    "cadasters": [
+        {
+            "fileid": 122558,
+            "name": "72.元長傅氏大宗祠地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-07-03/f8e0cd09-249a-4f86-a599-b67924759386/72.元長傅氏大宗祠地籍圖.pdf"
+        },
+        {
+            "fileid": 122559,
+            "name": "72.元長傅氏大宗祠地籍資料.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-07-03/90561e08-27d1-43d8-ac21-6eef68ad1074/72.元長傅氏大宗祠地籍資料.pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.31547,
+    "latitude": 23.65041,
+    "representImageSource": "雲林縣政府",
+    "landScope": "定著土地為雲林縣元長鄉長興段617地號 、 640地號 、 641地號及642地號，建物定著土地為雲林縣元長鄉長興段641地號 、 642地號，建物主體面積為116. 46平方公尺，保存範圍共839平方公尺。",
+    "selfCoverage": "建物主體面積為116. 46平方公尺，保存範圍共839平方公尺、（既有圍牆內之面積，含歷史建築本髖）。",
+    "addresses": [
+        {
+            "cityName": "雲林縣",
+            "distName": "元長鄉",
+            "id": 94637,
+            "caseId": 19495,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1320,
+            "address": "中興街18巷8號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "雲林縣",
+            "distName": "元長鄉",
+            "landNoName": "長興段",
+            "id": 116448,
+            "caseId": 19495,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1320,
+            "landNoId": 11919,
+            "landSerialNo": "640",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "雲林縣",
+            "distName": "元長鄉",
+            "landNoName": "長興段",
+            "id": 116449,
+            "caseId": 19495,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1320,
+            "landNoId": 11919,
+            "landSerialNo": "641",
+            "landownership": 2,
+            "area": "67",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": "重測前：元長段８１"
+        },
+        {
+            "cityName": "雲林縣",
+            "distName": "元長鄉",
+            "landNoName": "長興段",
+            "id": 116450,
+            "caseId": 19495,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1320,
+            "landNoId": 11919,
+            "landSerialNo": "642",
+            "landownership": 2,
+            "area": "173",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": "重測前：元長段８０－１"
+        },
+        {
+            "cityName": "雲林縣",
+            "distName": "元長鄉",
+            "landNoName": "長興段",
+            "id": 116451,
+            "caseId": 19495,
+            "caseStatus": true,
+            "cityId": 13,
+            "distId": 1320,
+            "landNoId": 11919,
+            "landSerialNo": "617",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 102089,
+            "caseId": 19495,
+            "caseStatus": true,
+            "registerDate": 1546959757986,
+            "officialDocNo": "府文二資字第1083800035B號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.31519838013797,23.650439338613335],[120.31541411274385,23.650419873736546],[120.31548249264799,23.650250346121066],[120.31557265697155,23.650280621148745],[120.31552013831285,23.65041030823169],[120.31559896025195,23.65040319237831],[120.31561768571102,23.650343341415443],[120.31561436827401,23.650343423387536],[120.31563459101424,23.650271034280404],[120.31557964282618,23.65025104951834],[120.31556334454574,23.650183302913593],[120.31561630718475,23.650061513206456],[120.31533545698387,23.650062792459227],[120.31519838013797,23.650439338613335],[120.31519838013797,23.650439338613335]]]]},\"properties\":{\"envelope\":{\"left\":\"120.31519838013797\",\"top\":\"23.650061513206456\",\"right\":\"120.31563459101424\",\"bottom\":\"23.650439338613335\"},\"landLot\":\"雲林縣元長鄉長興段640\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.3153984350265,23.65045874082081],[120.31548867428319,23.650488013046996],[120.31552013831285,23.65041030823169],[120.31541411274385,23.650419873736546],[120.3153984350265,23.65045874082081],[120.3153984350265,23.65045874082081]]]]},\"properties\":{\"envelope\":{\"left\":\"120.31539843502649\",\"top\":\"23.650410308231692\",\"right\":\"120.31552013831285\",\"bottom\":\"23.650488013046996\"},\"landLot\":\"雲林縣元長鄉長興段641\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.31541411274385,23.650419873736546],[120.31552013831285,23.65041030823169],[120.31557265697155,23.650280621148745],[120.31548249264799,23.650250346121066],[120.31541411274385,23.650419873736546],[120.31541411274385,23.650419873736546]]]]},\"properties\":{\"envelope\":{\"left\":\"120.31541411274385\",\"top\":\"23.650250346121066\",\"right\":\"120.31557265697155\",\"bottom\":\"23.650419873736546\"},\"landLot\":\"雲林縣元長鄉長興段642\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.31502563090287,23.650792513853688],[120.31521248815253,23.65078962725617],[120.31547932103075,23.650785511586747],[120.31559896025195,23.65040319237831],[120.31552013831285,23.65041030823169],[120.31548867428319,23.650488013046996],[120.3153984350265,23.65045874082081],[120.31541411274385,23.650419873736546],[120.31519838013797,23.650439338613335],[120.31492465981009,23.650575084101995],[120.31500881589558,23.65063070954704],[120.31501937889487,23.650732316042085],[120.31502154348759,23.650753156769525],[120.31502563090287,23.650792513853688],[120.31502563090287,23.650792513853688]]]]},\"properties\":{\"envelope\":{\"left\":\"120.31492465981009\",\"top\":\"23.65040319237831\",\"right\":\"120.31559896025195\",\"bottom\":\"23.650792513853688\"},\"landLot\":\"雲林縣元長鄉長興段617\"}}],\"notfound\":[]}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": "《元長傅氏大宗祠》，文化部國家文化記憶庫"
+}

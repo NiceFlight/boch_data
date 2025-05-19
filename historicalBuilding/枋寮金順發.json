@@ -1,0 +1,100 @@
+{
+    "id": 2146,
+    "caseId": "20151120000002",
+    "count": 3037,
+    "shareCount": 6,
+    "representImage": 153442,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-02-25/630968c2-e782-4f21-87c5-50ac1dc179e3/枋寮金順發照片_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-02-25/630968c2-e782-4f21-87c5-50ac1dc179e3/枋寮金順發照片.jpg",
+        "name": "枋寮金順發照片"
+    },
+    "caseName": "枋寮金順發",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "興建於日明治39年(1906)，是枋寮北勢寮老街極經典的日治時期建築，原屋主江姓人家為枋寮富商，據傳為枋寮江家聘請澎湖工匠建造此屋。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1447989351000,
+    "officialDocNo": "屏府文保字第10430499500號",
+    "documents": [
+        {
+            "fileid": 153440,
+            "name": "公告函-屏府文保字第10430499500號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-02-25/9dc56d72-cc73-4498-a150-0e96659bf03c/公告函-屏府文保字第10430499500號.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "一、本宅保留許多傳統建築裝飾，包括綠釉花瓶欄，磚雕、露空花磚等，且彩繪融合時代之背景，表現地域風貌及民間藝術特色。\r\n二、本宅合院格局小而精緻，且形制完整，表現臨海聚落合院的型式，具建築史或技術史之價值。",
+    "lawsReference": "文化資產保存法第15條暨歷史建築登錄廢止審查及輔助辦法第2條第1項第2、3款登錄評定基準。",
+    "govInstitutionCode": "900",
+    "govInstitutionName": "屏東縣政府",
+    "belongCityId": 20,
+    "belongCityName": "屏東縣",
+    "belongDistName": "枋寮鄉",
+    "govInstitution": "屏東縣政府\t",
+    "govDeptName": "屏東縣文化資產保護所",
+    "govDeptPhone": "08-7210234",
+    "govDeptAddress": "屏東縣屏東市菸廠路1號\t",
+    "cadasters": [
+        {
+            "fileid": 153441,
+            "name": "枋寮金順發地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-02-25/c92921b6-1cbf-4578-97ad-f47025cac65a/枋寮金順發地籍圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "屏東縣枋寮鄉保生段0605、0607地號。",
+    "buildingFeatures": "建築為典型具二樓格局之合院建築，含門樓、伸手井、正廳，且具二樓陽台之構造；壁體為石造，呈現枋寮當地特有之風格；入口拱圈磚造門廊與內之牆堵磚造技藝精美；彩繪融合時代之背景。",
+    "inHouseFeatures": "屋架為傳統木質圓柱，擱置於紅磚承重牆上，其承重牆及隔間牆皆以紅磚組砌而成，臺度以灰漿粉刷裝飾。",
+    "buildingUsage": "無人居住。",
+    "buildingActualState": "目前閒置，待修復。",
+    "buildingKeyMaintainItem": "待修復。",
+    "bulkTransfer": 0,
+    "belongAddress": "屏東縣枋寮鄉中寮村保安路121號",
+    "isOpenVisit": false,
+    "openUpTime": "不開放。",
+    "isCharge": false,
+    "isOpenDownload": true,
+    "longitude": 120.59825,
+    "latitude": 22.36025,
+    "representImageSource": "屏東縣政府\t\t\t\t\t",
+    "landScope": "屏東縣枋寮鄉保生段0605、0607地號，地號面積共378.13平方公尺。",
+    "selfCoverage": "屏東縣枋寮鄉中寮村保安路121號歷史建築本體",
+    "addresses": [
+        {
+            "cityName": "屏東縣",
+            "distName": "枋寮鄉",
+            "id": 78631,
+            "caseId": 2146,
+            "caseStatus": true,
+            "cityId": 20,
+            "distId": 2026,
+            "address": "中寮村保安路121號"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 84356,
+            "caseId": 2146,
+            "caseStatus": true,
+            "registerDate": 1448294400000,
+            "officialDocNo": "屏府文保字第10430499500號",
+            "classificationId": 1
+        }
+    ],
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": "屏東縣歷史建築枋寮金順發修復及再利用計畫期末修正報告"
+}

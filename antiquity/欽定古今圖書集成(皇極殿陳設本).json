@@ -1,0 +1,102 @@
+{
+    "id": 4548,
+    "caseId": "20170526000003",
+    "count": 372,
+    "shareCount": 0,
+    "representImage": 15634,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/134861/photo/《欽定古今圖書集成》皇極殿陳設本全函_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/134861/photo/《欽定古今圖書集成》皇極殿陳設本全函.jpg",
+        "name": "《欽定古今圖書集成》皇極殿陳設本全函"
+    },
+    "caseName": "欽定古今圖書集成(皇極殿陳設本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1495728000000,
+    "officialDocNo": "中華民國106年5月26日文授資局物字第10630055051號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要之時代特色、技術及流派",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "《古今圖書集成》為清康熙年間陳夢雷編纂，雍正朝蔣廷錫奉敕校正，並由武英殿以銅活字印製。全書共10,000卷、目錄40卷，引書逾3,400種，是一部綜合性類書鉅帙，具重要歷史、學術價值。\n此部書也是中國古代規模最大的銅活字印刷書籍，銅活字印製技術及開化紙之使用，皆精且數量龐大，具有當時代印刷工藝代表性。\n《古今圖書集成》清宮共刷印64部，存世完整者罕見。此帙為皇極殿陳設本，共5,020冊、576夾，保存完整且裝幀精美，具重要文化、藝術及科學價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第1、3、5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故殿048185-053204",
+    "amount": 5020,
+    "descAge": "清",
+    "descSize": "版框：21.4X14公分、書冊：27X17.6公分。",
+    "descMaterial": "紙本，絹、木",
+    "reserveStatusDesc": "《古今圖書集成》為清康熙年間陳夢雷編纂，雍正朝蔣廷錫奉敕校正，並由武英殿以銅活字印製。全書共10,000卷、目錄40卷，引書逾3,400種，是一部綜合性類書鉅帙，也是中國古代規模最大的銅活字印刷書籍。清宮共刷印64部，存世完整者罕見。\n此帙為皇極殿陳設本，共5,020冊、576夾。石青絹書衣，白紙書簽，黃雲龍紋緞包角線裝，開化紙印本，楠木夾板，板面刻書名、部類、函次，字面填藍色。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "保存狀況大致完好。",
+    "documents": [
+        {
+            "fileid": 148172,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-21/8288daa6-92ea-4035-9a1f-b3e03e73d6c1/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫文獻處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69331,
+            "caseId": 4548,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73486,
+            "caseId": 4548,
+            "caseStatus": true,
+            "registerDate": 1495728000000,
+            "officialDocNo": "中華民國106年5月26日文授資局物字第10630055051號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

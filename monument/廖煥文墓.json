@@ -1,0 +1,117 @@
+{
+    "id": 400,
+    "caseId": "20060426000001",
+    "count": 2352,
+    "shareCount": 0,
+    "representImage": 140474,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-10-08/f6b432d1-f788-4bf1-920f-213591a9bc50/H109 臺中市 廖煥文墓 (直轄市定)01_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-10-08/f6b432d1-f788-4bf1-920f-213591a9bc50/H109 臺中市 廖煥文墓 (直轄市定)01.jpg",
+        "name": "H109 臺中市 廖煥文墓 (直轄市定)01"
+    },
+    "caseName": "廖煥文墓",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "廖煥文祖籍福建省漳州府詔安縣官陂，屬「活廖死張」系統之「詔安客」，生於清同治9年（1870），卒於日治昭和9年（1934）。日治時因經營蔗業與土地開發而致富，並熱心地方事務，曾任山仔腳庄保正，並倡議捐建「知高橋」與「新庄橋」，以利庄民橫越筏子溪之交通。\n\n廖氏辭世其墓葬由地方仕紳多人參與，墓園之營造擇大肚山東麓緩坡為墓址，投以三甲八分水田價額之鉅資，石材之採購暨石匠，俱求之於泉州，歷時六月方成。當時名人有櫟社社長傅錫祺與烏日學田詩人陳若時等亦為之題銘。本墓具有之建築文化價值，及對南屯地區拓墾史之意義，可作為本市本土教學之教材。\n",
+    "assetsTypeNames": "墓葬",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "registerDate": 1145980800000,
+    "officialDocNo": "府授文資字0950076738號",
+    "documents": [
+        {
+            "fileid": 150493,
+            "name": "0950426_廖煥文墓_指定公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-18/3c452e60-9055-42e3-be65-0b1dc9fedc04/0950426_廖煥文墓_指定公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "各時代表現地方營造技術流派特色者",
+        "具稀少性，不易再現者",
+        "具建築史上之意義，有再利用之價值及潛力者"
+    ],
+    "registerReason": "㈠具歷史、文化、藝術價值。\r\n㈡各時代表現地方營造技術流派特色者。\r\n㈢具稀少性，不易再現。\r\n㈣具建築史上之意義，有再利用之價值及潛力。\r\n",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1、3、4、5款",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "南屯區",
+    "govInstitution": "臺中市政府文化局",
+    "govDeptName": "臺中市文化資產處",
+    "govDeptPhone": "04-22290280",
+    "govDeptAddress": "臺中市西區市府路41巷19號",
+    "cadasters": [
+        {
+            "fileid": 138460,
+            "name": "地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-09-15/bf732726-3544-4dc1-894e-752d8d6f5377/地籍圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "locationLandNo": "南屯區寶文段94地號",
+    "buildingFeatures": "廖煥文墓建於昭和9年(1934），仍恪遵中國傳統「天圓地方」規制，墓龜成圓，前後墓埕成方，並有半月形前庭，墓園以花崗岩與青斗石二色石材為主要構材，其后土基座、石獅形貌、印度門衛造型石翁仲、臥姿裸女等石雕，均為其重要特色。\n\n「蔗界尊元」、「蔗境白眉」與「佳蔗境安」等石雕銘刻，為其事業見證；而墓碑上「考煥文張公塋」，為證明其出身「生當姓廖，死後歸張」的張廖派。\n",
+    "inHouseFeatures": "無室內空間",
+    "buildingUsage": "維持原始用途",
+    "buildingActualState": "民國96(2007)年完成修復及再利用計畫，民國99(2010)年完成修復。",
+    "buildingKeyMaintainItem": "本墓具有之建築文化價值，及對南屯地區拓墾史之意義，可作為本土教學之教材。",
+    "bulkTransfer": 0,
+    "belongAddress": "20號公墓74號墓",
+    "isOpenDownload": false,
+    "longitude": 120.607924150494,
+    "latitude": 24.1448158418273,
+    "representImageSource": "臺中市文化資產處",
+    "landScope": "南屯區寶文段94地號墓圍籬範圍內",
+    "selfCoverage": "墓本體",
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "南屯區",
+            "id": 85241,
+            "caseId": 400,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1008,
+            "address": "20號公墓74號墓"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺中市",
+            "distName": "南屯區",
+            "landNoName": "寶文段",
+            "id": 98031,
+            "caseId": 400,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1008,
+            "landNoId": 1145,
+            "landSerialNo": "94",
+            "landownership": 1,
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 91568,
+            "caseId": 400,
+            "caseStatus": true,
+            "registerDate": 1145980800000,
+            "officialDocNo": "府授文資字0950076738號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"臺中市南屯區寶文段94\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "openVisitType": "",
+    "openUpTime": "目前暫無開放",
+    "isCharge": false,
+    "pastHistorySource": "古蹟公告資料"
+}

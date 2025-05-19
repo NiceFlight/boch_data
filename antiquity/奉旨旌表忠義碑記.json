@@ -1,0 +1,107 @@
+{
+    "id": 15684,
+    "caseId": "20180504000001",
+    "count": 596,
+    "shareCount": 0,
+    "representImage": 48138,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-05-04/c07ffbe8-ae54-4965-9b8e-8abd60c586db/DSCN6097_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-05-04/c07ffbe8-ae54-4965-9b8e-8abd60c586db/DSCN6097.jpg",
+        "name": "DSCN6097"
+    },
+    "caseName": "奉旨旌表忠義碑記",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1520387833666,
+    "officialDocNo": "高市府文資字第10730387800號",
+    "judgeCriteria": [
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "數量稀少者"
+    ],
+    "registerReason": "鳳山縣忠義孝悌祠建於清雍正元年（1684），原在鳳山縣學左側，日治時期傾圮，僅餘此碑以證補府志及方志之記載與四官將之忠義事蹟，亦可見證朱一貴事件以及清代台灣的軍備。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第2、3、5款",
+    "govInstitutionCode": "800",
+    "govInstitutionName": "高雄市政府",
+    "belongCityId": 18,
+    "belongCityName": "高雄市",
+    "belongDistName": "左營區",
+    "govInstitution": "高雄市政府文化局",
+    "govDeptName": "高雄市立歷史博物館",
+    "govDeptPhone": "07-5312560#236",
+    "govDeptAddress": "高雄市鹽埕區中正四路272號",
+    "reservationCode": "無",
+    "amount": 1,
+    "descAge": "1725年",
+    "descCreator": "待考",
+    "descSize": "長168cm、寬70cm、厚13.5cm",
+    "descMaterial": "花崗岩",
+    "reserveStatusDesc": "原立於忠義孝悌祠，文字內容用於旌表平定清康熙60年（1721）朱一貴事件中殉難四人的忠義與軍功。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 3,
+    "reserveStatus": "本府於民國七十二年重修鳳山舊城孔廟崇聖祠時，將散置附近的十方石碑蒐集起來，重新立於祠後，成為碑林，石碑目前狀態穩定，日後會持續在原地保存。",
+    "documents": [
+        {
+            "fileid": 48139,
+            "name": "24749248_10730387800.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-05-04/7eb6a57f-1793-4d85-b921-858e355d8df4/24749248_10730387800.pdf"
+        },
+        {
+            "fileid": 48140,
+            "name": "一般古物指定公告表-106大會指定 (公告版).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-05-04/88082e5d-4aa7-4924-9c4d-d267cdc1dc95/一般古物指定公告表-106大會指定 (公告版).pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.2930037,
+    "latitude": 22.6831769,
+    "representImageSource": "高雄市立歷史博物館拍攝",
+    "keepNames": [
+        {
+            "keepNameIdStr": "高雄市立舊城國民小學",
+            "keepName": "舊城國小／賴南宏主任",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "高雄市立舊城國民小學",
+            "keepAddressNew": "高雄市左營區蓮潭路47號",
+            "saveSpaceIdStr": "學校",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "高雄市",
+            "keepNameDistName": "左營區",
+            "keepNameAddress": "蓮潭路47號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "高雄市",
+            "distName": "左營區",
+            "id": 148686,
+            "caseId": 15684,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1811,
+            "address": "蓮潭路47號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 161653,
+            "caseId": 15684,
+            "caseStatus": true,
+            "registerDate": 1520387833666,
+            "officialDocNo": "高市府文資字第10730387800號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

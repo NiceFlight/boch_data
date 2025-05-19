@@ -1,0 +1,120 @@
+{
+    "id": 1873,
+    "caseId": "20050329000001",
+    "count": 1765,
+    "shareCount": 0,
+    "representImage": 3764,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/1197/photo/郭子究故居1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/1197/photo/郭子究故居1.jpg",
+        "name": "郭子究故居1"
+    },
+    "caseName": "郭子究故居",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本建築物為戰後早期木構造建築，屬日式雨淋板建築，年代久遠，具歷史價值，且郭子究為花蓮音樂之父，其音樂及住居皆有歷史文化之意義，在音樂上的貢獻足為後人感念與追思，為文化資產的代表性。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1112061524000,
+    "officialDocNo": "府文藝字第09405800590號",
+    "documents": [
+        {
+            "fileid": 152704,
+            "name": "郭子究故居指定為歷史建築公告940329.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-02-17/6555c1bb-831b-4439-b3c3-ac15ea025725/郭子究故居指定為歷史建築公告940329.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "本建築為光復早期木構造建築,屬日式雨淋板建築,年代久遠,具歷史價值,且郭子究為花蓮音樂之父,其音樂及住居皆有歷史文化之意義，在音樂上的貢獻足為後人感念與追思，為文化資產的代表性，應予保存並登錄歷史建築。",
+    "lawsReference": "文化資產保存法第27條之1暨歷史建築登錄及輔導辦法第7條及第8條；以及93年10月13日花蓮縣歷史建築登錄審查會議決議辦理。",
+    "govInstitutionCode": "970",
+    "govInstitutionName": "花蓮縣政府",
+    "belongCityId": 23,
+    "belongCityName": "花蓮縣",
+    "belongDistName": "花蓮市",
+    "govInstitution": "花蓮縣文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-8227121-316",
+    "govDeptAddress": "花蓮縣花蓮市文復路6號",
+    "cadasters": [
+        {
+            "fileid": 160514,
+            "name": "郭子究故居_花蓮市_民德段_36號地籍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-04-15/931275c4-e1e8-41f2-8db3-1e77b31070b5/郭子究故居_花蓮市_民德段_36號地籍圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "花蓮市民德段36地號",
+    "buildingFeatures": "為日本傳統木構造建築，切妻與寄棟屋根形式，外牆為雨淋板。",
+    "inHouseFeatures": "郭子究故居原為「花蓮港廳立花蓮港中學校」教職員宿舍第15號 ，非歷史建築區1、2、3館整修完成作為音樂文化館使用機能為展覽館、小型會議室、小型表演場，歷史建物本身郭子究故居使用機能為文物展、郭老師生前住家房舍展示，於郭老師生前有整修擴建行為，目前維持現狀，僅做白蟻防治工程。",
+    "buildingUsage": "就地保存。",
+    "buildingActualState": "郭子究故居位於民權七街與民權七街1巷街角處第二棟，其民權七街1巷兩側皆為花蓮高級中學教師宿舍群。為同一筆地號。",
+    "buildingKeyMaintainItem": "1.應針對其建築的老化及頹圮進行修繕的提案，需要花中基金會提出完整的計劃，才能對歷史建築的永續保存有實質的意義。\r\n2.配合紀念郭子究音樂文化館的功能，形成一個完整的郭子究音樂特區，以推廣花蓮的合唱藝術。",
+    "bulkTransfer": 0,
+    "wenSitename": "郭子究音樂文化館",
+    "wenSiteaddress": "https://www.facebook.com/kuotzuchiu/",
+    "belongAddress": "花蓮縣花蓮市民權7街1巷3號",
+    "isOpenVisit": true,
+    "openUpTime": "週一至週五10:00-12:00、14:00-16:00 開放參觀。",
+    "isCharge": false,
+    "isOpenDownload": true,
+    "longitude": 121.624592564998,
+    "latitude": 23.9873126568577,
+    "representImageSource": "花蓮縣文化局",
+    "landScope": "花蓮縣花蓮市民德段36地號，花蓮縣花蓮市民權七街1巷3號。",
+    "selfCoverage": "花蓮市民權七街1巷3號(故居本體)。",
+    "addresses": [
+        {
+            "cityName": "花蓮縣",
+            "distName": "花蓮市",
+            "id": 82202,
+            "caseId": 1873,
+            "caseStatus": true,
+            "cityId": 23,
+            "distId": 2301,
+            "address": "花蓮縣花蓮市民權7街1巷3號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "花蓮縣",
+            "distName": "花蓮市",
+            "landNoName": "民德段",
+            "id": 91150,
+            "caseId": 1873,
+            "caseStatus": true,
+            "cityId": 23,
+            "distId": 2301,
+            "landNoId": 14020,
+            "landSerialNo": "36",
+            "landownership": 1,
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 88338,
+            "caseId": 1873,
+            "caseStatus": true,
+            "registerDate": 1112061524000,
+            "officialDocNo": "府文藝字第09405800590號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.62511971060981,23.987333586107425],[121.62512517944303,23.987333554790688],[121.62471632963602,23.986854929450597],[121.62465578720655,23.98678351460436],[121.6246053858178,23.986777103222064],[121.62419949051336,23.98707085293552],[121.62419090114969,23.98711811348155],[121.62454496540205,23.987535371302883],[121.62488366803484,23.987931944365965],[121.62508687351291,23.98817033501159],[121.62513527825855,23.988174861835958],[121.62554223913067,23.98788437119221],[121.62554816795982,23.987830240256706],[121.62511971060981,23.987333586107425],[121.62511971060981,23.987333586107425]]]]},\"properties\":{\"envelope\":{\"left\":\"121.62419090114969\",\"top\":\"23.986777103222064\",\"right\":\"121.62554816795982\",\"bottom\":\"23.988174861835958\"},\"landLot\":\"花蓮縣花蓮市民德段36\"}}],\"notfound\":[]}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": "郭子究故居管理維護計畫"
+}

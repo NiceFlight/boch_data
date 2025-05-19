@@ -1,0 +1,163 @@
+{
+    "id": 1294,
+    "caseId": "20090819000001",
+    "count": 2405,
+    "shareCount": 1,
+    "representImage": 224413,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-05-29/4d9cc48c-473f-45c8-9423-bf0f036a5081/大溪_201202_208_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-05-29/4d9cc48c-473f-45c8-9423-bf0f036a5081/大溪_201202_208.jpg",
+        "name": "大溪_201202_208"
+    },
+    "caseName": "大溪和平路48、48-1號",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "和平路 48、48-1 號建於清末，日治昭和年間古家從江氏購得，經營雜貨及糕餅。此處為大溪典型的街屋代表，室內空間為二坎三落二過水格局，二樓夾層、閣樓與一樓之間挑空。現今 48 號店面為古家自行經營藝品店，48-1 號店面及後方街屋空間則經營餐飲。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1251216000000,
+    "officialDocNo": "府文資字0981061967號",
+    "documents": [
+        {
+            "fileid": 187586,
+            "name": "府文資字0981061967號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-10-24/be8905ec-36ac-4d89-b483-39b07ca6065d/府文資字0981061967號.pdf"
+        },
+        {
+            "fileid": 187587,
+            "name": "府文資字第10303236382號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-10-24/20911f51-441e-4f19-b476-953385054af9/府文資字第10303236382號.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "具有歷史文化價值、表現地域風貌及建築史、技術使價值。",
+    "lawsReference": "文化資產保存法、歷史建築登錄廢止審查及輔助辦法、桃園縣98年度第4次文化資產審議委員會",
+    "govInstitutionCode": "330",
+    "govInstitutionName": "桃園市政府",
+    "belongCityId": 5,
+    "belongCityName": "桃園市",
+    "belongDistName": "大溪區",
+    "govInstitution": "桃園市政府文化局",
+    "govDeptName": "文化局文化資產科",
+    "govDeptPhone": "03-3322592分機8612",
+    "govDeptAddress": "桃園市桃園區縣府路21號",
+    "cadasters": [
+        {
+            "fileid": 187590,
+            "name": "地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-10-24/a6e00707-dee3-4d60-b7f1-fc6543c9e553/地籍圖.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "住宅區、商業區",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "桃園市大溪區和平段171、172地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "現今48號店面為古家自行經營藝品商店，48-1號店面及後方街屋空間，則經營餐飲。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "桃園市大溪區和平路48、48-1號",
+    "isOpenVisit": true,
+    "openUpTime": "每週三至週日開放（每週一、二公休）\n目前僅開放騎樓、立面牌樓及第一進常態開放參觀，後方空間為文化餐飲場所。",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.28778489810986,
+    "latitude": 24.885053207766767,
+    "representImageSource": "桃園市政府文化局",
+    "landScope": "桃園市大溪區和平段171、172地號，面積482平方公尺。",
+    "selfCoverage": "牌樓立面",
+    "addresses": [
+        {
+            "cityName": "桃園市",
+            "distName": "大溪區",
+            "id": 149695,
+            "caseId": 1294,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 510,
+            "address": "和平路48號"
+        },
+        {
+            "cityName": "桃園市",
+            "distName": "大溪區",
+            "id": 149696,
+            "caseId": 1294,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 510,
+            "address": "和平路48-1號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "桃園市",
+            "distName": "大溪區",
+            "landNoName": "和平段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 207543,
+            "caseId": 1294,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 510,
+            "landNoId": 7662,
+            "landSerialNo": "171",
+            "landownership": 2,
+            "cityLandUseTypeId": 1,
+            "area": "",
+            "note": "住宅區與商業區",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "桃園市",
+            "distName": "大溪區",
+            "landNoName": "和平段",
+            "cityLandUseTypeName": "商業區",
+            "id": 207544,
+            "caseId": 1294,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 510,
+            "landNoId": 7662,
+            "landSerialNo": "172",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "area": "",
+            "note": "住宅區與商業區",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 162935,
+            "caseId": 1294,
+            "caseStatus": true,
+            "registerDate": 1251216000000,
+            "officialDocNo": "府文資字0981061967號",
+            "classificationId": 1
+        },
+        {
+            "id": 162936,
+            "caseId": 1294,
+            "caseStatus": true,
+            "registerDate": 1421078400000,
+            "officialDocNo": "府文資字10303236382號",
+            "classificationId": 2,
+            "note": "行政改制"
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.28804912035451,24.885353667444818],[121.28796621578769,24.88522900009452],[121.28788775095563,24.88527321027447],[121.28792848317026,24.885334489038016],[121.28788532424763,24.885362109049197],[121.2878670209955,24.885373827160414],[121.28791932542774,24.885444446107083],[121.28805525850444,24.88536290072949],[121.28804912035451,24.885353667444818],[121.28804912035451,24.885353667444818]]]]},\"properties\":{\"envelope\":{\"left\":\"121.28786702099551\",\"top\":\"24.885229000094519\",\"right\":\"121.28805525850444\",\"bottom\":\"24.885444446107083\"},\"landLot\":\"桃園市大溪區和平段171\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.28796621578769,24.88522900009452],[121.28782694602891,24.88501957398373],[121.28774892798604,24.885064352022024],[121.28788775095563,24.88527321027447],[121.28796621578769,24.88522900009452],[121.28796621578769,24.88522900009452]]]]},\"properties\":{\"envelope\":{\"left\":\"121.28774892798604\",\"top\":\"24.88501957398373\",\"right\":\"121.28796621578769\",\"bottom\":\"24.88527321027447\"},\"landLot\":\"桃園市大溪區和平段172\"}}],\"notfound\":[]}]",
+    "openVisitType": "部分開放參觀",
+    "pastHistorySource": "桃園市文化資產導覽手冊"
+}

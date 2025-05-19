@@ -1,0 +1,100 @@
+{
+    "id": 18172,
+    "caseId": "20201215000003",
+    "count": 164,
+    "shareCount": 0,
+    "representImage": 89842,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-12-15/f58efa9a-b90f-43bd-bd9c-b8061c07b9b0/案012-1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-12-15/f58efa9a-b90f-43bd-bd9c-b8061c07b9b0/案012-1.jpg",
+        "name": "案012-1"
+    },
+    "caseName": "象牙觀音佛像",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1606378099068,
+    "officialDocNo": "北市獻編字第1093004298號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "1.\t具地方傳統信仰形像之特色。\n2.\t雕像具藝術性，有一定藝術造詣。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "內湖區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174-1號",
+    "reservationCode": "典藏 I012",
+    "amount": 1,
+    "descAge": "清",
+    "descSize": "高14公分，長6公分，寬5公分 木座高3公分，長7.5公分，寬 6.5 公分",
+    "descMaterial": "象牙",
+    "reserveStatusDesc": "象牙雕菩薩半跏思惟菩薩以一手托腮、頭略低 垂的姿勢來表示思惟，稱為「思惟相」；而一足躬踞，一足屈盤其上，表現人物的輕閒悠然、灑脫自在的坐姿，則稱為「半跏坐」，兩者結合起來稱為「半跏思惟」以有別於佛陀結跏趺坐來表示其已達究竟解脫；以凡聖兼具的雙重面向，顯示一個在世俗與涅槃間努力精進以及慈悲與智慧並行兼修的菩薩特性。此造像在中國固有文化的激發下，揉和了全新的創意，發展出更豐富深遠的精神風貌，展現不同於原始半跏思惟像的面向。\n不論從「形式」或「節奏」來看，思惟菩薩像所表現的是生命內部最深的動，是至動而有條理的生命情調。此佛像雕刻面容五官 細緻玲瓏，身軀圓健形似［男相］雕工精緻而寫實；衣襬下方層層流暢的衣褶，再加上象牙特有的網格紋與布紋，雖是象牙雕刻，似乎讓人感受到紡織品般的柔軟質地。佛像背後刻有一輪橢圓形 背光帶有火焰紋飾。\n佛像底部，銘刻乾隆二字。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定。",
+    "documents": [
+        {
+            "fileid": 89841,
+            "name": "臺北市公告指定一般古物1091126.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-15/7ba4fcaa-c130-4f13-aae4-71e1c4892641/臺北市公告指定一般古物1091126.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.51984879730222,
+    "latitude": 25.032456306173696,
+    "representImageSource": "嚴○泰/嚴○隆",
+    "keepNames": [
+        {
+            "keepNameIdStr": "嚴○泰/嚴○隆",
+            "keepName": "嚴○泰/嚴○隆",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "嚴○泰/嚴○隆",
+            "keepAddressNew": "臺北市內湖區行忠路2號2樓",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "宅第",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "內湖區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 68648,
+            "caseId": 18172,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 72748,
+            "caseId": 18172,
+            "caseStatus": true,
+            "registerDate": 1606378099068,
+            "officialDocNo": "北市獻編字第1093004298號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

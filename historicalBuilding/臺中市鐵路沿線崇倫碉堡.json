@@ -1,0 +1,121 @@
+{
+    "id": 1419,
+    "caseId": "20100210000001",
+    "count": 2573,
+    "shareCount": 2,
+    "representImage": 158076,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-04-06/93301e21-ac6c-4a9f-bc19-4c15e8032303/s_台中市鐵路沿線崇倫碉堡_調整大小_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-04-06/93301e21-ac6c-4a9f-bc19-4c15e8032303/s_台中市鐵路沿線崇倫碉堡_調整大小.jpg",
+        "name": "s_台中市鐵路沿線崇倫碉堡_調整大小"
+    },
+    "caseName": "臺中市鐵路沿線崇倫碉堡",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "民國38年（1949）國民政府撤遷來臺，隔年（1950）韓戰爆發，臺海兩岸情勢更為緊張，國府因此更加重視防空疏散之防務，也在重要交通道路、橋樑與鐵路沿線設置衛哨、機槍碉堡與防空掩體等防衛避難設施。\n\n崇倫碉堡即在此背景下興建，為帶有射擊口之方形碉堡，屬於都市防禦及防空避難設施。民國99年（2010）臺中市政府以其具有國共內戰的歷史背景與教育意義，公告登錄為歷史建築。\n",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "軍事設施",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1265731200000,
+    "officialDocNo": "府授文資字第0990038884號",
+    "documents": [
+        {
+            "fileid": 180589,
+            "name": "0990210_臺中市鐵路沿線崇倫碉堡_登錄公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-08-18/049d7be8-1ccd-40bb-8166-a6b30d2d342d/0990210_臺中市鐵路沿線崇倫碉堡_登錄公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "1.具歷史文化價值\r\n2.表現地域風貌\r\n3.具建築史或技術史之價值",
+    "lawsReference": "〈文化資產保存法〉第15條、〈歷史建築登錄廢止審查及輔助辦法〉第4條。",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "南區",
+    "govInstitution": "臺中市政府文化局",
+    "govDeptName": "臺中市文化資產處",
+    "govDeptPhone": "04-22290280轉205",
+    "govDeptAddress": "403420 臺中市西區市府路41巷19號",
+    "cadasters": [
+        {
+            "fileid": 180590,
+            "name": "0990210_臺中市鐵路沿線崇倫碉堡_地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-08-18/81986769-ecc9-4d0e-bf4e-adc872790702/0990210_臺中市鐵路沿線崇倫碉堡_地籍圖.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "鐵路用地",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺中市南區半平厝段1995-0000地號",
+    "buildingFeatures": "碉堡為方形鋼筋混凝土結構體，牆體為柱樑框架內填卵石構造，上方支撐鋼筋混凝土板與覆土重量。牆體厚度約45公分，。南側為出入口，其他有兩處矩形槍口",
+    "inHouseFeatures": "內牆一面為卵石牆面，其餘皆為水泥牆面，地坪則為水泥粉光地坪，上方頂板中央留有垂直通氣孔，內埋陶管，外側上端以斗笠狀之混凝土覆蓋物防水。",
+    "buildingUsage": "為崇倫社區發展協會守護。",
+    "buildingActualState": "民國107(2018)年完成修復及再利用計畫，再利用為崇倫社區碉堡公園。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "belongAddress": "建國南路198號對面鐵道邊號",
+    "isOpenVisit": false,
+    "openUpTime": "不開放",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.65475867233,
+    "latitude": 24.1230613997308,
+    "representImageSource": "臺中市文化資產管理中心",
+    "landScope": "臺中市南區半平厝段1995-0000地號",
+    "selfCoverage": "臺中市南區半平厝段1995-0000地號",
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "南區",
+            "id": 112664,
+            "caseId": 1419,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1003,
+            "address": "建國南路198號對面鐵道邊號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺中市",
+            "distName": "南區",
+            "landNoName": "半平厝段",
+            "id": 152596,
+            "caseId": 1419,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1003,
+            "landNoId": 871,
+            "landSerialNo": "1995--0000",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 122266,
+            "caseId": 1419,
+            "caseStatus": true,
+            "registerDate": 1265731200000,
+            "officialDocNo": "府授文資字第0990038884號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"臺中市南區半平厝段1995--0000\"}}],\"notfound\":\"地號輸入錯誤\"}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": "歷史建築公告"
+}

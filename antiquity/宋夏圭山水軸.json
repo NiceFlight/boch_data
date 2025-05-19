@@ -1,0 +1,106 @@
+{
+    "id": 3955,
+    "caseId": "20120326000010",
+    "count": 259,
+    "shareCount": 0,
+    "representImage": 6772,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32941/photo/23742252-9144-4377-a2ec-c0b587395f24_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32941/photo/23742252-9144-4377-a2ec-c0b587395f24.jpg",
+        "name": "23742252-9144-4377-a2ec-c0b587395f24"
+    },
+    "caseName": "宋夏圭山水軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派"
+    ],
+    "registerReason": "本幅無款印，右緣小字書：夏圭。王鐸鑑定。詩塘王鐸跋（1646）定為夏珪。現代學者據畫風及王鐸所鑑，定為夏圭之作，呈現由北宋范寬，至北宋末李唐之影響，南宋馬夏山水轉變之間重要作品。具有重要之時代特色、技術及流派。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第三款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000124",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descCreator": "夏圭",
+    "descSize": "47.6 x 32.5（公分）",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "畫山居悠然閒靜之狀，遠山巒峰高聳，瀑泉直瀉而下，軒舍散落，雅士、樵者步行其中。無款印，右緣小字書：夏圭。王鐸鑑定。詩塘王鐸跋（1646）定為夏珪。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 151242,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-24/bdc1b653-bd16-46d4-bf53-a9fb3e0f9526/公告.pdf"
+        },
+        {
+            "fileid": 151243,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-24/6dc788d4-1fa4-4c81-99be-bc503c62bce9/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71368,
+            "caseId": 3955,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 75783,
+            "caseId": 3955,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

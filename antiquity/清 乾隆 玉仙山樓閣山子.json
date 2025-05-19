@@ -1,0 +1,97 @@
+{
+    "id": 18978,
+    "caseId": "20210429000006",
+    "count": 206,
+    "shareCount": 0,
+    "representImage": 108050,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-04-29/a2b315e5-0527-47ba-a839-ffc9a567206b/08清 乾隆 玉仙山樓閣山子_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-04-29/a2b315e5-0527-47ba-a839-ffc9a567206b/08清 乾隆 玉仙山樓閣山子.jpg",
+        "name": "08清 乾隆 玉仙山樓閣山子"
+    },
+    "caseName": "清 乾隆 玉仙山樓閣山子",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "具有重要藝術造詣或科學成就"
+    ],
+    "registerReason": "此器為乾隆朝流行製作的玉山子。器表有乾隆皇帝御製詩，詩題明確指出此玉原材來自新疆和闐。詩中讚賞工匠巧妙運用玉料天然顏色，利用了玉料原有的形狀及顏色，建構出仙山樓閣的景致。全器雕工細緻，引人入勝。為乾隆朝內府製作玉山子中的佳構。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、3、4款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "0422177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故玉000955",
+    "amount": 1,
+    "descAge": "清　乾隆",
+    "descSize": "高16.4、寬21.7公分",
+    "descMaterial": "玉石",
+    "reserveStatusDesc": "白玉質，薄留黃褐色玉皮。原材呈三角形。作山形，溪水斜穿成澗，拾階而上有樓閣之景。底有水波紋。\n面上有乾隆五十八年（1793）御製詩〈詠和闐玉山水圖口號〉：「留其黃浸為山色，就其白垂作水流。事半自然得功倍，子輿氏語有根由。」末署「乾隆癸丑御題」及「比德」、「朗潤」兩印。詩錄於〈御製詩餘集〉卷4頁11。清宮舊藏，原儲於紫禁城永壽宮。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": " 良好",
+    "documents": [
+        {
+            "fileid": 143160,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-05/e5a26a41-887b-4cf7-8ec6-7440559aa8d6/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 121.548432,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "國立故宮博物院",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 66553,
+            "caseId": 18978,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 70739,
+            "caseId": 18978,
+            "caseStatus": true,
+            "registerDate": 1617791917260,
+            "officialDocNo": "文授資局物字第11030033241號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

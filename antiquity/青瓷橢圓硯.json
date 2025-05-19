@@ -1,0 +1,106 @@
+{
+    "id": 16975,
+    "caseId": "20190730000031",
+    "count": 113,
+    "shareCount": 0,
+    "representImage": 60455,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-07-30/6c99800a-6338-4c7b-b715-cac17d305e60/青瓷橢圓硯_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-07-30/6c99800a-6338-4c7b-b715-cac17d305e60/青瓷橢圓硯.jpg",
+        "name": "青瓷橢圓硯"
+    },
+    "caseName": "青瓷橢圓硯",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1564135124985,
+    "officialDocNo": "文授資局物字第10830078621號",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "數量特別稀少或具完整性保存意義者",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此器米黃色，釉色局部泛青。底刻乾隆皇帝〈題均窯硯〉詩，詩末無紀年銘，僅署「乾隆御題」，並落「比德」一枚鈐印。\n透過此器的詩文可推知乾隆皇帝知道器面原有施釉，並且親自操作試驗，想要借以探索澄泥硯的經過，展現他對陶瓷的鑑別與鑑賞觀，益顯珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故瓷017414",
+    "amount": 1,
+    "descAge": "南宋至元",
+    "descSize": "高5.2公分、寬10.4公分、長13.7公分",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "此器上下出折沿，中腰較細，底有四矮足。胎骨厚重，上施米黃色釉，釉色局部泛青。釉表開細紋片，邊緣釉薄處，現出褐色邊。從器表周緣的磨痕看來，此器器表原有施釉，後被磨除改製成硯面。經過使用後，沾染有墨汁。底刻乾隆皇帝〈題均窯硯〉詩，詩末無紀年銘，僅署「乾隆御題」，並落「比德」一枚鈐印。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "四足舊修補。",
+    "documents": [
+        {
+            "fileid": 145144,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-17/d428a485-a437-4445-9b38-14b9cd19d68b/公告.pdf"
+        },
+        {
+            "fileid": 145145,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-17/50c035d3-f35b-420f-a75b-12313a68e51e/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71939,
+            "caseId": 16975,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 76461,
+            "caseId": 16975,
+            "caseStatus": true,
+            "registerDate": 1564135124985,
+            "officialDocNo": "文授資局物字第10830078621號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

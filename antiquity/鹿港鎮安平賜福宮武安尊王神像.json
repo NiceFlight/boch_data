@@ -1,0 +1,100 @@
+{
+    "id": 16513,
+    "caseId": "20190221000001",
+    "count": 1907,
+    "shareCount": 5,
+    "representImage": 55680,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-02-21/48db96f6-2f7d-47d8-afec-013693883e9f/武安尊王_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-02-21/48db96f6-2f7d-47d8-afec-013693883e9f/武安尊王.jpg",
+        "name": "武安尊王"
+    },
+    "caseName": "鹿港鎮安平賜福宮武安尊王神像",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1550029534414,
+    "officialDocNo": "府授文演字第1080035723A號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：賜福宮為鹿港地區特殊的角頭廟，乃一定範圍內居住的居民所共同建立的廟宇，權利義務分明、界線清楚，神像與爐主間有一定的脈絡關係。且安平賜福宮是鹿港地區唯一尊祀文武尊王的廟宇，充分表現角頭廟的文化特色。神像、爐主、角頭廟三者間具有傳統和地方特色。\n2.對地方或族群知識、技術或流派發展具影響或意義：神像以泉州系統作法雕製，其製作技法特徵，尤以塗裝、裱紙、髹漆（朱漆貼金）等工序，見證泉州工藝技藝與鹿港粧佛工藝的歷史脈絡，在比例、漆線工藝以及神像雕刻上，具有一定的水準與價值。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1、6款",
+    "govInstitutionCode": "500",
+    "govInstitutionName": "彰化縣政府",
+    "belongCityId": 11,
+    "belongCityName": "彰化縣",
+    "belongDistName": "鹿港鎮",
+    "govInstitution": "彰化縣政府",
+    "govDeptName": "彰化縣文化局",
+    "govDeptPhone": "04-7510709",
+    "govDeptAddress": "彰化縣彰化市平和七街66號",
+    "reservationCode": " 府授文演字第1080035723A號",
+    "amount": 1,
+    "descAge": "清末至日治時期",
+    "descSize": "長16公分、寬14.5公分、高30公分",
+    "descMaterial": "木",
+    "reserveStatusDesc": "木雕安金連座硬身神像，神像坐姿、文武腳，腳踏小獅，小獅形象模糊，下有虎皮紋踏墊，圈椅椅背繪有黃底黑虎紋、虎尾，貼有一張紅紙書寫「武王」。頭戴二郎盔，臉孔呈黑色，打光後呈墨綠色，面有7個小凸點，左手平舉胸前做劍指，右手持九節鞭，雙手均呈黑色，身上刻有蟒袍，以漆線為飾，但線條較模糊，似是重修時上金油所致。底座為方形，有四足，底面有刀鑿痕，原有紋飾已不清晰。\n\n神像多處漆層起甲、脫落，出現隙縫。此神像廟方稱為鹿港安平賜福宮之開基祖，由爐主供奉，信徒稱為「老王」（臺語）。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 2,
+    "reserveStatus": "神像漆層有多處開裂紋、彩繪層脫落",
+    "documents": [
+        {
+            "fileid": 211033,
+            "name": "鹿港鎮安平賜福宮武安尊王神像1080213.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-04-11/4e6fd5bc-28c8-49f1-aeb6-5dc542619b11/鹿港鎮安平賜福宮武安尊王神像1080213.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.438036,
+    "latitude": 24.052695,
+    "representImageSource": "彰化縣文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "鹿港鎮安平賜福宮",
+            "keepName": "鹿港鎮安平賜福宮  ",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "鹿港鎮安平賜福宮",
+            "keepAddressNew": "彰化縣鹿港鎮復興路安平巷32號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2,
+            "keepNameCityName": "彰化縣",
+            "keepNameDistName": "鹿港鎮",
+            "keepNameAddress": "復國街安平巷32號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "彰化縣",
+            "distName": "鹿港鎮",
+            "id": 113228,
+            "caseId": 16513,
+            "caseStatus": true,
+            "cityId": 11,
+            "distId": 1105,
+            "address": "復興路安平巷32號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 123064,
+            "caseId": 16513,
+            "caseStatus": true,
+            "registerDate": 1550029534414,
+            "officialDocNo": "府授文演字第1080035723A號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

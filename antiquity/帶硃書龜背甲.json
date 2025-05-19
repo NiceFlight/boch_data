@@ -1,0 +1,107 @@
+{
+    "id": 4217,
+    "caseId": "20080402000011",
+    "count": 236,
+    "shareCount": 0,
+    "representImage": 7137,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36634/photo/d53c6eb4-7312-46ae-af4e-1011ac7a7f2f_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36634/photo/d53c6eb4-7312-46ae-af4e-1011ac7a7f2f.jpg",
+        "name": "d53c6eb4-7312-46ae-af4e-1011ac7a7f2f"
+    },
+    "caseName": "帶硃書龜背甲",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-古代文字、各族群語言紀錄",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1207065600000,
+    "officialDocNo": "文資籌二字第0972102147號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "「帶硃書龜背甲」為1936年殷墟第13次發掘所得，屬武丁時代卜辭。是大龜背甲的右半邊。一般卜用的龜背甲，都是從中央剖成兩半再使用，本件為所藏最大且完整的背甲，背面有許多寫而未刻的硃書字跡，還有一些書而後刻的卜辭，刻過之後，還看得見硃書的痕跡，筆畫中間且填上墨色。本件「帶硃書龜背甲」具有重要歷史、文化價值，符合「古物分級登錄指定及廢止審查辦法」第三條第一、五、六款，指定為重要古物。",
+    "lawsReference": "文化資產保存法第六十六條、古物分級登錄指定及廢止審查辦法",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "南港區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "R041291",
+    "keepNameId": 5,
+    "keepName": "中央研究院歷史語言研究所",
+    "keepNameNew": 5,
+    "keepAddressNew": "115台北市南港區研究院路二段130號",
+    "saveSpaceId": 11,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "相關研究資料：\r\n張秉權，《中國考古報告集2‧小屯‧第二本‧殷虛文字丙編》，1992年12月。",
+    "descAge": "商",
+    "descCreator": "不詳",
+    "descSize": "長35公分，寬15公分。",
+    "descMaterial": "龜背甲",
+    "reserveStatusDesc": "1936年殷墟第13次發掘所得，屬武丁時代卜辭。是大龜背甲的右半邊，一般卜用的龜背甲，都是從中央剖成兩半再使用。本件為所藏最大且完整的背甲，背面有許多寫而未刻的硃書字跡，還有一些書而後的卜辭，刻過之後，還看得見硃書的痕跡，筆畫中間且填上墨色。\n",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "1936年殷墟第13次發掘；小屯灰坑127",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定 （左緣缺損二處，餘完整。）",
+    "documents": [
+        {
+            "fileid": 53817,
+            "name": "20080402公告函.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-01-07/aae9415f-0e0a-4854-8324-82ebc767178e/20080402公告函.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "中央研究院歷史語言研究所",
+    "keepNames": [
+        {
+            "keepNameIdStr": "中央研究院歷史語言研究所",
+            "keepName": "中央研究院歷史語言研究所",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "中央研究院歷史語言研究所",
+            "keepAddressNew": "115台北市南港區研究院路二段130號",
+            "saveSpaceIdStr": "研究設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "南港區",
+            "keepNameAddress": "研究院路二段130號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "南港區",
+            "id": 4359,
+            "caseId": 4217,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 111
+        }
+    ],
+    "announces": [
+        {
+            "id": 4359,
+            "caseId": 4217,
+            "caseStatus": true,
+            "registerDate": 1207065600000,
+            "officialDocNo": "文資籌二字第0972102147號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

@@ -1,0 +1,106 @@
+{
+    "id": 4042,
+    "caseId": "20120326000097",
+    "count": 319,
+    "shareCount": 0,
+    "representImage": 6942,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/33028/photo/26da2601-2738-47b8-9fa3-b483980e24db_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/33028/photo/26da2601-2738-47b8-9fa3-b483980e24db.JPG",
+        "name": "26da2601-2738-47b8-9fa3-b483980e24db"
+    },
+    "caseName": "宋人畫秋塘雙雁軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有特殊之時代特色、技術及流派",
+        "品質精良且數量特別稀少"
+    ],
+    "registerReason": "在故宮博物院藏品中，如此巨幅、品質又佳的花鳥畫，並不多見，是現存北宋汀渚水鳥罕見之代表作品。\r\n具有特殊之時代特色，品質精良且數量特別稀少。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第四條第一項第三、五款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫003748",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descSize": "170 x 167（公分）",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "畫秋天寧靜的池塘一隅，黃蘆、紅蓼、枯荷於灘頭相映成趣，一對白鵝休憩其中，突然飛來兩隻翠鳥，驚擾了白鵝，打破原本靜謐氣氛，四隻禽鳥的眼神動態構成交相呼應的關係。畫家對鵝、翠鳥、枯荷、水草皆觀察詳實，綜觀此幅的構景與用筆，近似崔白秋渚水鳥之風格。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 154358,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-03-08/9d0f6339-05a1-445d-8ebd-d1eeed533606/公告.pdf"
+        },
+        {
+            "fileid": 154359,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-03-08/a4278a22-85b2-49de-a0a4-a648dfc4be9d/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 73191,
+            "caseId": 4042,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 78126,
+            "caseId": 4042,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

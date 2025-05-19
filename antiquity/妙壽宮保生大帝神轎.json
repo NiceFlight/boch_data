@@ -1,0 +1,107 @@
+{
+    "id": 3123,
+    "caseId": "20090109000005",
+    "count": 1150,
+    "shareCount": 0,
+    "representImage": 175337,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-07-22/0e530c42-a694-446e-b86b-30809bccbdfc/古物032妙壽宮保生大帝神轎_P001_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-07-22/0e530c42-a694-446e-b86b-30809bccbdfc/古物032妙壽宮保生大帝神轎_P001.jpg",
+        "name": "古物032妙壽宮保生大帝神轎_P001"
+    },
+    "caseName": "妙壽宮保生大帝神轎",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-其他",
+    "otherAssetsType": "生活及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1231430400000,
+    "officialDocNo": "南市文資字第09718543330號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "（一）具有歷史意義或能表現傳統、族群或地方文化特色\n（二）具有一定之時代特色、技術及流派\n（三）具有藝術造詣或科學成就\n（四）具有珍貴及稀有性者\n（五）具有歷史、文化、藝術或科學價值",
+    "lawsReference": "依據「文化資產保存法」第六十五條、「古物指定及廢止審查辦法」以及97年12月11日本市遺址古物審議委員會97年度會議決議",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "安平區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "reservationCode": "公告無資料",
+    "amount": 1,
+    "notes": "",
+    "descAge": "1867年（清同治6年）",
+    "descCreator": "唐山師傅（名不詳）",
+    "descSize": "高128公分、寬100公分、深116公分",
+    "descMaterial": "木質彩繪貼金",
+    "reserveStatusDesc": "數量：1件\n年代：1867年（清同治6年）\n作者：唐山師傅（名不詳）\n尺寸：高128公分、寬100公分、深116公分\n材質：木質彩繪貼金",
+    "pastHistorySource": 7,
+    "pastHistorySourceNotes": "其他：廟方訂製收藏",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 175186,
+            "name": "妙壽宮保生大帝神轎公告-98.01.09.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-22/152edbb4-755c-44db-a4e6-0962adee72a4/妙壽宮保生大帝神轎公告-98.01.09.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 120.16144464206835,
+    "latitude": 22.999945850347533,
+    "representImageSource": " ",
+    "keepNames": [
+        {
+            "keepNameIdStr": "臺南市妙壽宮",
+            "keepName": "妙壽宮",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "臺南市妙壽宮",
+            "keepAddressNew": "臺南市安平區古堡街1號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2,
+            "keepNameCityName": "臺南市",
+            "keepNameDistName": "安平區",
+            "keepNameAddress": "古堡街1號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "安平區",
+            "id": 132704,
+            "caseId": 3123,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1606,
+            "address": "古堡街1號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 144689,
+            "caseId": 3123,
+            "caseStatus": true,
+            "registerDate": 1231430400000,
+            "officialDocNo": "南市文資字第09718543330號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,103 @@
+{
+    "id": 3298,
+    "caseId": "20160301000002",
+    "count": 346,
+    "shareCount": 0,
+    "representImage": 267900,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-12-12/0f462e19-08c0-4d5c-946e-ed8f176c4faf/ljata木盾_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-12-12/0f462e19-08c0-4d5c-946e-ed8f176c4faf/ljata木盾.jpg",
+        "name": "ljata木盾"
+    },
+    "caseName": "木盾 ljata",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-軍事設備",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1456761600000,
+    "officialDocNo": "屏府文保字第10530074600號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "    本件作品乃使用一整塊木頭挖製而成，四周邊框使用牙型紋刻飾，主體結構紋飾分成三個層次，紋飾尺寸由下而上逐漸縮小，最下層雕刻人頭紋。 \n    中間層紋飾為兩個人頭紋，中間刻飾重圓紋；最上層刻劃狩獵的情景，兩獵人手持長矛隨同一狗，追捕外族的緊張畫面。整體紋飾，為淺浮雕，刻度不深，畫面相當豐富，動靜融入同一盾面中，栩栩如生。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第2條第1項第1-6款",
+    "govInstitutionCode": "900",
+    "govInstitutionName": "屏東縣政府",
+    "belongCityId": 20,
+    "belongCityName": "屏東縣",
+    "belongDistName": "屏東市",
+    "govInstitution": "屏東縣政府",
+    "govDeptName": "屏東縣文化資產保護所",
+    "govDeptPhone": "08-7227001",
+    "govDeptAddress": "屏東縣屏東市瑞中街15號",
+    "reservationCode": "011/3.030",
+    "amount": 1,
+    "descAge": "1980年",
+    "descCreator": "Lridaku(蔡旺)",
+    "descSize": "68 x 45 x 2 cm",
+    "descMaterial": "木(楠木)",
+    "reserveStatusDesc": "木盾之雕刻風格為魯凱族西魯凱群傳統技法",
+    "pastHistorySource": 2,
+    "pastHistorySourceNotes": "陳俄安",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 49158,
+            "name": "古物公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-07-19/7dca0849-eeb5-4d3f-8129-3fa80f44a774/古物公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "屏東縣政府文化處",
+    "keepNames": [
+        {
+            "keepNameIdStr": "屏東縣政府文化處",
+            "keepName": "屏東縣政府文化處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "屏東縣政府文化處",
+            "keepAddressNew": "屏東市菸廠路1號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "屏東縣",
+            "keepNameDistName": "屏東市",
+            "keepNameAddress": "民生路4-17號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "屏東縣",
+            "distName": "屏東市",
+            "id": 137335,
+            "caseId": 3298,
+            "caseStatus": true,
+            "cityId": 20,
+            "distId": 2001
+        }
+    ],
+    "announces": [
+        {
+            "id": 150075,
+            "caseId": 3298,
+            "caseStatus": true,
+            "registerDate": 1456761600000,
+            "officialDocNo": "屏府文保字第10530074600號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

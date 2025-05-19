@@ -1,0 +1,101 @@
+{
+    "id": 20317,
+    "caseId": "20211221000004",
+    "count": 177,
+    "shareCount": 0,
+    "representImage": 148210,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-21/e931b859-9927-4c78-98d3-10a25ef4625a/PC2A000294N000000000PAA_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-21/e931b859-9927-4c78-98d3-10a25ef4625a/PC2A000294N000000000PAA.jpg",
+        "name": "PC2A000294N000000000PAA"
+    },
+    "caseName": "明仁宗坐像　軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "judgeCriteria": [
+        "歷代著名人物、國家重大事件之代表性",
+        "具有獨特藝術造詣或科學成就"
+    ],
+    "registerReason": "此作為存世唯一之明仁宗朱高熾（1378-1425）全身像。由此作籤題標注「乾隆戊辰年重裝」及《南薰殿圖像考》等文獻資料可知，此像承自明代宮廷，並於乾隆十三年（1748）修復重裝後，貯存於南薰殿。畫作流傳有緒，且在明代帝王坐像中尺寸特別小，可與宮廷奉祀儀典交互參照，深具歷史意義與研究價值。\n本作描繪袍服上的織金團龍紋，地毯圖案複雜細膩，為少見折枝花紋，繽紛悅目，代表宮廷畫家的高度成就。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第4條第2、4款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "中畫000294",
+    "amount": 1,
+    "descAge": "明",
+    "descSize": "本幅 111.2 x 76.7 公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "明仁宗朱高熾（1378-1425）為宣宗之父，在位一年即病故。此作線條及敷色處理較為粗疏，推測應是稍晚摹本。畫中仁宗坐的應是鎏金交腳圈椅，披有織錦，加上金腳踏以及折枝花遊龍地毯，大大增添華麗效果。\n題籤標明於乾隆十三年重裝，但該作裱綾並非金色纏枝花卉紋，已改為粉紅、粉白五爪龍紋綾，與〈明宣宗馬上像〉同為南薰殿帝后像裝裱特例。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "舊傷補。",
+    "documents": [
+        {
+            "fileid": 152308,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-02-08/84a5da37-dc4a-4cab-8066-62664a60a431/公告.pdf"
+        },
+        {
+            "fileid": 152309,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-02-08/e835a266-58d4-42eb-9756-61e66acad631/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.549499,
+    "latitude": 25.10037,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "士林區至善路2段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71764,
+            "caseId": 20317,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路2段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 76244,
+            "caseId": 20317,
+            "caseStatus": true,
+            "registerDate": 1639969717165,
+            "officialDocNo": "文授資局物字第11030139521號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

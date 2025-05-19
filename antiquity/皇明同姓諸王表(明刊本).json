@@ -1,0 +1,105 @@
+{
+    "id": 3411,
+    "caseId": "20131219000035",
+    "count": 27,
+    "shareCount": 0,
+    "representImage": 5946,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7176/photo/皇明同姓諸王表(明刊本)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7176/photo/皇明同姓諸王表(明刊本).jpg",
+        "name": "皇明同姓諸王表(明刊本)"
+    },
+    "caseName": "皇明同姓諸王表(明刊本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1387382400000,
+    "officialDocNo": "文資局物字第 10220148851號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "明萬曆間(1573-1620)刊本。\r\n撰者鄭汝璧(1546-1607)，字邦章，號昆巖，縉雲人。明隆慶二年(1568)進士。\r\n此書收各王府郡王共二百四十三人，將軍中尉等二萬三千五百四十九人，可補正史之不足。\r\n明代罕見之版本，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號02477",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 4,
+    "notes": "",
+    "descAge": "明萬曆間(1573-1620)",
+    "descCreator": "明鄭汝璧撰",
+    "descSize": "半葉10行，版匡25.8x19.2公分",
+    "descMaterial": "紙質刊本",
+    "reserveStatusDesc": "不分卷。此書收各王府郡王共二百四十三人，將軍中尉等二萬三千五百四十九人，可補正史之不足。",
+    "pastHistorySource": 7,
+    "saveEnvironment": 1,
+    "reserveStatus": "無虫蛀，未經修裱。書況良好。\n",
+    "documents": [
+        {
+            "fileid": 5947,
+            "name": "d2b70c7b-3121-42c1-b42b-937e0a676899.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44026/file/d2b70c7b-3121-42c1-b42b-937e0a676899.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3553,
+            "caseId": 3411,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3553,
+            "caseId": 3411,
+            "caseStatus": true,
+            "registerDate": 1387382400000,
+            "officialDocNo": "文資局物字第 10220148851號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

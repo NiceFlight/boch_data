@@ -1,0 +1,101 @@
+{
+    "id": 3864,
+    "caseId": "20121029000015",
+    "count": 260,
+    "shareCount": 0,
+    "representImage": 6672,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32850/photo/1b09a6e0-368d-4977-9143-af2eefd4322c_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32850/photo/1b09a6e0-368d-4977-9143-af2eefd4322c.JPG",
+        "name": "1b09a6e0-368d-4977-9143-af2eefd4322c"
+    },
+    "caseName": "明趙文俶畫春蠶食葉",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1351440000000,
+    "officialDocNo": "文資局物字第10120134511號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "文俶，字端容。江蘇長洲人。文從簡的女兒，善繪畫，尤長花卉，為明代閨閣畫家的代表人物。錢謙益評其「點染寫生，自出新意，畫家以為本朝獨絕」。此作選材特殊，構圖具巧思，筆墨精麗細緻，是不可多見的傳世女性畫家的重要代表作品。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000673",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descSize": "78.5 x 32.7（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "趙文俶（1595-？），字端容。江蘇長洲人。文從簡的女兒，嫁吳中高士趙靈筠為妻，生性聰慧，善繪畫，尤長花卉。畫幅呈現清新可人的小景，桑樹枝葉一角，三隻春蠶蠕動緩行，葉片上的啃食痕跡，點出作品的主題。全幅鈎畫細謹，景物清晰勻整，雖本幅尺寸不大，但描繪綠葉、紅果以及白蠶，筆墨設色呈現閨秀畫家清雅之風，亦極具寫生功力。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 151183,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-24/e2324925-1aa3-4f7f-ad3d-8bc3d44a598f/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71329,
+            "caseId": 3864,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75737,
+            "caseId": 3864,
+            "caseStatus": true,
+            "registerDate": 1351440000000,
+            "officialDocNo": "文資局物字第10120134511號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

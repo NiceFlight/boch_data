@@ -1,0 +1,106 @@
+{
+    "id": 15597,
+    "caseId": "20180329000003",
+    "count": 3725,
+    "shareCount": 4,
+    "representImage": 185452,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/d5e5c8ba-f735-4bc5-a360-f37f31609b84/代表圖像_松山療養所宿舍_20220922_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/d5e5c8ba-f735-4bc5-a360-f37f31609b84/代表圖像_松山療養所宿舍_20220922.jpg",
+        "name": "代表圖像_松山療養所宿舍_20220922"
+    },
+    "caseName": "松山療養所宿舍",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "建物建於日治時期，與對側建物應同為松山療養所時期宿舍",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 71831,
+            "name": "松山療養所宿舍公告_掃描檔.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/40ed8790-ef64-49cf-b8a9-79fc6cabcd21/松山療養所宿舍公告_掃描檔.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1.建築為獨棟1層樓日式宿舍，主入口屬洋式風格，雨庇木柱略具Art Deco風格，建物形貌大致保留完整，具1930年代之風格，具建築史之價值。\n2.建物建於日治時期，與對側建物應同為松山療養所時期宿舍，且與松山療養所所長宿舍形成完整之宿舍群，具文資保存價值。\n",
+    "lawsReference": "歷史建築紀念建築登錄廢止審查及輔助辦法第2條第1項第2、3款評定基準",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 47826,
+            "name": "地籍地形圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2018-03-29/d7b900fb-9166-454d-9cd7-c0957669d1fb/地籍地形圖.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市南港區玉成段四小段294地號",
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "longitude": 121.5936798,
+    "latitude": 25.048169,
+    "representImageSource": "臺北市政府文化局",
+    "landScope": "臺北市南港區玉成段四小段294地號，共計1筆地號，面積531㎡。",
+    "selfCoverage": "151.79㎡",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "南港區",
+            "id": 92652,
+            "caseId": 15597,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 111,
+            "address": "臺北市南港區昆陽街185號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "南港區",
+            "landNoName": "玉成段四小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 113211,
+            "caseId": 15597,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 111,
+            "landNoId": 429,
+            "landSerialNo": "294",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "531平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 99950,
+            "caseId": 15597,
+            "caseStatus": true,
+            "registerDate": 1519142400000,
+            "officialDocNo": "北市文化文資字10730208500號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": ""
+}

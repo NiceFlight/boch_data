@@ -1,0 +1,102 @@
+{
+    "id": 3730,
+    "caseId": "20140425000043",
+    "count": 115,
+    "shareCount": 0,
+    "representImage": 6489,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39135/photo/pic023_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39135/photo/pic023.jpg",
+        "name": "pic023"
+    },
+    "caseName": "明沈周寫生",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1398355200000,
+    "officialDocNo": "10320044791",
+    "judgeCriteria": [
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少"
+    ],
+    "registerReason": "沈周（1427-1509）字啟南，號石田、白石翁，是明代中期蘇州的重要畫家。\r\n畫冊十六開中，沈周將日常所見物象的生趣，以獨特的方式加以描繪。在構圖、造型、描繪手法等，都有別出心裁的創意巧思。其題材雖是日常可見花果、蝦蟹、雞鴨、貓驢等，但造型簡樸中卻流露自然情態。此畫冊水墨技法變化多端，筆墨酣暢，是沈周的寫意花鳥畫的代表作。沈周的這種寫意畫風影響後世深遠。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第4條1項第3、4、5款。建議指定國寶。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫001128",
+    "amount": 20,
+    "notes": "",
+    "descAge": "明",
+    "descSize": "34.6 x 57.2（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "沈周（1427-1509）是明代中期蘇州的重要畫家。此冊分別描繪花果、家禽、貓、驢等日常所見之物，計十六開。前有「觀物之生」篆題，雖無款識，推測出自沈周友人李應禎之手。冊後有沈周六十八歲（1494）自題，說明其對物寫生的繪畫態度。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 150187,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-11/3217d338-8502-4176-bdfd-8f530438a26b/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70731,
+            "caseId": 3730,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 74990,
+            "caseId": 3730,
+            "caseStatus": true,
+            "registerDate": 1398355200000,
+            "officialDocNo": "10320044791",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

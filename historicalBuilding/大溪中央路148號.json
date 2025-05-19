@@ -1,0 +1,148 @@
+{
+    "id": 1298,
+    "caseId": "20081204000002",
+    "count": 1886,
+    "shareCount": 0,
+    "representImage": 224411,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-05-29/94b06827-406c-4f73-a396-0e5f788a8a3e/2105_210610_945_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-05-29/94b06827-406c-4f73-a396-0e5f788a8a3e/2105_210610_945.jpg",
+        "name": "2105_210610_945"
+    },
+    "caseName": "大溪中央路148號",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "這是大溪老街中少見的兩層樓街屋。大溪老街街屋多往後頭發展，一落、二落、三落地往後加，兩層樓的少見，因台語「樓」、「流」同音，老一輩的說：「財產是靠水流的，樓仔厝驚乎水流去。」或許也因為都是一樓厝，老闆們便花了許多心思在牌樓面上較勁，相較之下這兩層樓的店屋倒顯得樸素許多，然而其紅磚砌的牌樓面仍展現了日治時期大溪街屋的特色。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "騎樓、牌樓",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1228358620000,
+    "officialDocNo": "府文資字第0971062431號",
+    "documents": [
+        {
+            "fileid": 187223,
+            "name": "府文資字第0991060622號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-10-19/871948ce-f049-424e-bd76-50688a0e6520/府文資字第0991060622號.pdf"
+        },
+        {
+            "fileid": 187224,
+            "name": "府文資字第0971062431號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-10-19/858169d5-f492-4e24-8f02-4ab7986da022/府文資字第0971062431號.pdf"
+        },
+        {
+            "fileid": 187225,
+            "name": "府文資字第10303236382號.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-10-19/e5165dec-253f-43de-af8d-23f131770015/府文資字第10303236382號.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "1、建築工法與裝飾說明是日治時期大溪老街之產物。\n2、呈現大溪街鎮聚落發展過程主要空間結構之代表性歷史意義。\n3、表現日據時期大溪街屋紅磚砌牌樓面之地域風貌。\n\n",
+    "lawsReference": "依據文化資產保存法、歷史建築登錄廢止審查及補助辦法，以及桃園縣97年度第5次文化資產審議委員會決議辦理。",
+    "govInstitutionCode": "330",
+    "govInstitutionName": "桃園市政府",
+    "belongCityId": 5,
+    "belongCityName": "桃園市",
+    "belongDistName": "大溪區",
+    "govInstitution": "桃園市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-3322592分機8612",
+    "govDeptAddress": "桃園市桃園區縣府路21號",
+    "cadasters": [
+        {
+            "fileid": 187230,
+            "name": "地籍資料.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-10-19/c52e6dc2-2892-467d-a3f6-7d16b6f6f65d/地籍資料.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "桃園市大溪區武嶺段91地號",
+    "buildingFeatures": "紅磚砌牌樓面及二樓尚遺留代表日治時期大溪老街風格。",
+    "inHouseFeatures": "已改裝為現代店鋪使用。",
+    "buildingUsage": "",
+    "buildingActualState": "牌樓立面保持尚且良好，頭落一樓室內經營鞋店，二樓原屋頂拆除後，現作為露臺使用。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "桃園市大溪區中央路148號",
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.28761,
+    "latitude": 24.88269,
+    "representImageSource": "桃園市政府文化局",
+    "landScope": "桃園市大溪區武嶺段91地號（部分），面積共計14.66平方公尺。",
+    "selfCoverage": "牌樓立面、騎樓、柱子。",
+    "addresses": [
+        {
+            "cityName": "桃園市",
+            "distName": "大溪區",
+            "id": 149692,
+            "caseId": 1298,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 510,
+            "address": "桃園市大溪區中央路148號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "桃園市",
+            "distName": "大溪區",
+            "landNoName": "武嶺段",
+            "cityLandUseTypeName": "商業區",
+            "id": 207540,
+            "caseId": 1298,
+            "caseStatus": true,
+            "cityId": 5,
+            "distId": 510,
+            "landNoId": 7663,
+            "landSerialNo": "91",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "coverageId": 1,
+            "area": "14.66",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 162928,
+            "caseId": 1298,
+            "caseStatus": true,
+            "registerDate": 1228358620000,
+            "officialDocNo": "府文資字第0971062431號",
+            "classificationId": 1
+        },
+        {
+            "id": 162929,
+            "caseId": 1298,
+            "caseStatus": true,
+            "registerDate": 1271260800000,
+            "officialDocNo": "府文資字第0991060622號",
+            "classificationId": 2,
+            "note": "更正地號及登錄面積"
+        },
+        {
+            "id": 162930,
+            "caseId": 1298,
+            "caseStatus": true,
+            "registerDate": 1421078400000,
+            "officialDocNo": "府文資字第10303236382號",
+            "classificationId": 2,
+            "note": "行政改制"
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.28773075348396,24.882703529714213],[121.28772826573433,24.88265886444337],[121.28761384126953,24.882660809384962],[121.28761586449758,24.882705776200417],[121.28773075348396,24.882703529714213],[121.28773075348396,24.882703529714213]]]]},\"properties\":{\"envelope\":{\"left\":\"121.28761384126953\",\"top\":\"24.882658864443371\",\"right\":\"121.28773075348396\",\"bottom\":\"24.882705776200417\"},\"landLot\":\"桃園市大溪區武嶺段91\"}}],\"notfound\":[]}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": "桃園市文化資產導覽手冊"
+}

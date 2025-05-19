@@ -1,0 +1,93 @@
+{
+    "id": 1852,
+    "caseId": "20031231000010",
+    "count": 2263,
+    "shareCount": 5,
+    "representImage": 125310,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-20/ca257e1c-427b-48a0-b8d4-a5566578e236/歷建27-龍田邱宅-永保_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-20/ca257e1c-427b-48a0-b8d4-a5566578e236/歷建27-龍田邱宅-永保.jpg",
+        "name": "歷建27-龍田邱宅-永保"
+    },
+    "caseName": "龍田邱仁銘宅",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "龍田村位於鹿野溪的高位河階，清代時是未開發的原野。1915年（大正4年）臺東製糖株式會社設立日本人移民村，範圍涵蓋今日的龍田村和鹿野村，以日本新瀉縣農業移民為主。 \n1916年日本新瀉縣移民大瀧藤吉移入鹿野村，起造日式傳統建築家屋。臺灣光復後，大瀧藤吉被遣返日本，行前將家屋出售給邱雲海（1917-1995，曾任鹿野鄉鄉長、鹿野地區農會總幹事、臺東縣縣議員等職）。\n邱宅為四坡水日式木造住宅。屋頂原鋪茅草，後來改鋪黑瓦。內部有玄關、長廊、客廳、起居室、臥室等。邱宅是龍田村現存最完整的日式建築，也是僅存的日治時期日本移民村家屋。 ",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1072862846000,
+    "officialDocNo": "府文資字第 0923028169 號",
+    "documents": [
+        {
+            "fileid": 114937,
+            "name": "27臺東縣歷史建築公告文-龍田邱仁銘宅.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-28/647d21ca-dd48-4ff2-8028-9f856f89ad05/27臺東縣歷史建築公告文-龍田邱仁銘宅.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "臺東縣鹿野鄉移民村現存最完整之移民家屋。",
+    "lawsReference": "1.文化資產保存法第27條之一規定\n2.歷史建築登錄及輔助辦法\n3.臺東縣92年12月16日歷史建築登錄審查會議決議辦理\n",
+    "govInstitutionCode": "950",
+    "govInstitutionName": "臺東縣政府",
+    "belongCityId": 22,
+    "belongCityName": "臺東縣",
+    "belongDistName": "鹿野鄉",
+    "govInstitution": "臺東縣政府",
+    "govDeptName": "文化處文化資產科",
+    "govDeptPhone": "089-350129",
+    "govDeptAddress": "臺東市南京路25號",
+    "cadasters": [],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "鹿野鄉中華段1256-0000地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "龍田村3 鄰光榮路186 號",
+    "isOpenVisit": true,
+    "openUpTime": "",
+    "isCharge": false,
+    "isOpenDownload": true,
+    "longitude": 121.127311252958,
+    "latitude": 22.9038630482566,
+    "representImageSource": "109-110年度臺東縣文化資產個案資料同步更新維護計畫",
+    "landScope": "鹿野鄉中華段1256地號",
+    "selfCoverage": "鹿野鄉中華段1256地號",
+    "addresses": [
+        {
+            "cityName": "臺東縣",
+            "distName": "鹿野鄉",
+            "id": 116587,
+            "caseId": 1852,
+            "caseStatus": true,
+            "cityId": 22,
+            "distId": 2206,
+            "address": "臺東縣鹿野鄉龍田村3鄰光榮路186號"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 127288,
+            "caseId": 1852,
+            "caseStatus": true,
+            "registerDate": 1072862846000,
+            "officialDocNo": "府文資字第 0923028169 號",
+            "classificationId": 1
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

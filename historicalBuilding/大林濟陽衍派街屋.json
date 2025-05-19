@@ -1,0 +1,109 @@
+{
+    "id": 18053,
+    "caseId": "20201125000001",
+    "count": 2255,
+    "shareCount": 3,
+    "representImage": 260642,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-08-05/6423fd8c-8a82-42a0-b67e-b811c5c5f827/大林濟陽衍派街屋_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-08-05/6423fd8c-8a82-42a0-b67e-b811c5c5f827/大林濟陽衍派街屋.jpg",
+        "name": "大林濟陽衍派街屋"
+    },
+    "caseName": "大林濟陽衍派街屋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "為大林地區少見之日治時期傳統街屋。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1595898501630,
+    "officialDocNo": "府授文資字第1090156824號",
+    "documents": [
+        {
+            "fileid": 177499,
+            "name": "大林濟陽衍派街屋-公告1090728.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-08-01/a7b0de3d-0e1f-4484-adca-87fe6791701f/大林濟陽衍派街屋-公告1090728.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "１、表現地域風貌或民間藝術特色者：保存傳統漢式木棟架，三進屋、天井、水井具當年商住混合之建築特色，漢式店屋與洋樓民居並存，呈現大林鎮傳統街屋的歷史風貌。\n２、具建築史或技術史之價值者：具日治時代洋風建築式樣與技法，包含豐富的建物構造與裝飾式樣，街屋的空間格局與相關構件具有建築與技術史價值。\n３、具地區性建造物類型之特色者：為大林地區少見之日治時期傳統街屋。",
+    "lawsReference": "《歷史建築紀念建築登錄廢止審查及輔助辦法》第2條第1項第1、2、3款登錄基準。",
+    "govInstitutionCode": "612",
+    "govInstitutionName": "嘉義縣政府",
+    "belongCityId": 15,
+    "belongCityName": "嘉義縣",
+    "belongDistName": "大林鎮",
+    "govInstitution": "嘉義縣政府",
+    "govDeptName": "文化觀光局",
+    "govDeptPhone": "05-3628123*310",
+    "govDeptAddress": "嘉義縣太保市太子大道158號",
+    "cadasters": [
+        {
+            "fileid": 76382,
+            "name": "1090526 測繪圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2020-11-25/c35e2e3d-73dd-4dd8-bd4f-4dd37616f654/1090526 測繪圖.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "嘉義縣大林鎮吉林段706地號",
+    "bulkTransfer": 0,
+    "belongAddress": "嘉義縣大林鎮中山路70號",
+    "isOpenVisit": false,
+    "isOpenDownload": false,
+    "longitude": 120.44663942883605,
+    "latitude": 23.596049472799372,
+    "representImageSource": "采義科技有限公司",
+    "landScope": "嘉義縣大林鎮吉林段706地號內部分土地",
+    "selfCoverage": "113平方公尺",
+    "addresses": [
+        {
+            "cityName": "嘉義縣",
+            "distName": "大林鎮",
+            "id": 132523,
+            "caseId": 18053,
+            "caseStatus": true,
+            "cityId": 15,
+            "distId": 1515,
+            "address": "中山路70號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "嘉義縣",
+            "distName": "大林鎮",
+            "landNoName": "吉林段",
+            "id": 189152,
+            "caseId": 18053,
+            "caseStatus": true,
+            "cityId": 15,
+            "distId": 1515,
+            "landNoId": 12670,
+            "landSerialNo": "706",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": "嘉義縣大林鎮吉林段706地號內部分土地"
+        }
+    ],
+    "announces": [
+        {
+            "id": 144500,
+            "caseId": 18053,
+            "caseStatus": true,
+            "registerDate": 1595898501630,
+            "officialDocNo": "府授文資字第1090156824號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.45554140139312,23.602350279164497],[120.45533671007583,23.602325507839982],[120.45516833796184,23.602305131149517],[120.4551602638587,23.602343082008346],[120.4555285218386,23.60238925161745],[120.45552937823008,23.602385931666902],[120.45553181585828,23.602386472970174],[120.45554140139312,23.602350279164497],[120.45554140139312,23.602350279164497]]]]},\"properties\":{\"envelope\":{\"left\":\"120.4551602638587\",\"top\":\"23.602305131149517\",\"right\":\"120.45554140139312\",\"bottom\":\"23.602389251617449\"},\"landLot\":\"嘉義縣大林鎮吉林段706\"}}],\"notfound\":[]}]",
+    "openVisitType": ""
+}

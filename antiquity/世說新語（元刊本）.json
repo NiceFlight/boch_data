@@ -1,0 +1,105 @@
+{
+    "id": 3605,
+    "caseId": "20130813000060",
+    "count": 81,
+    "shareCount": 0,
+    "representImage": 6312,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7316/photo/世說新語（元刊本）_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7316/photo/世說新語（元刊本）.png",
+        "name": "世說新語（元刊本）"
+    },
+    "caseName": "世說新語（元刊本）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1376323200000,
+    "officialDocNo": "文資局物字第 10220091271號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "元至元二十四年(1287)劉應登原刊元坊肆增刊評語本。\n魏晉南北朝「志人小說」代表作，記載漢末到魏晉時期，特有的名士人文風尚，紀錄當時的社群生活。首冊扉頁有清葉昌熾手書題記，對本書版本考訂頗詳。阿部隆一《中國訪書志》依據字樣、雕法，判定為元建刊元修本。\n元版古籍，罕見稀有，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號08235",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 8,
+    "notes": "",
+    "descAge": "元至元二十四年(1287)",
+    "descCreator": "宋劉義慶撰，梁劉孝標注，宋劉辰翁批點",
+    "descSize": "半葉10行，版匡17.7x12.1公分",
+    "descMaterial": "紙質",
+    "reserveStatusDesc": "八卷；刊本。\n魏晉南北朝「志人小說」代表作，記載漢末到魏晉時期，特有的名士人文風尚，紀錄當時的社群生活。首冊扉頁有清葉昌熾手書題記，對本書版本考訂頗詳。阿部隆一《中國訪書志》依據字樣、雕法，判定為元建刊元修本。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有虫蛀，經修裱。第3、4冊有斷板情形，第4冊內容多處漫漶。保存情況良好。\n",
+    "documents": [
+        {
+            "fileid": 6313,
+            "name": "4f676fd3-8159-4f7b-af72-f2a12b38221f.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44198/file/4f676fd3-8159-4f7b-af72-f2a12b38221f.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3747,
+            "caseId": 3605,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3747,
+            "caseId": 3605,
+            "caseStatus": true,
+            "registerDate": 1376323200000,
+            "officialDocNo": "文資局物字第 10220091271號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

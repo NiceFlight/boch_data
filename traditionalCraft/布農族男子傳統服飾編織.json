@@ -1,0 +1,95 @@
+{
+    "id": 16924,
+    "caseId": "20190715000002",
+    "count": 240,
+    "shareCount": 1,
+    "representImage": 60007,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-07-15/4317b6e7-3917-48d6-b0c1-44777629a25e/s_intro_img3525787162868_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-07-15/4317b6e7-3917-48d6-b0c1-44777629a25e/s_intro_img3525787162868.jpg",
+        "name": "s_intro_img3525787162868"
+    },
+    "caseName": "布農族男子傳統服飾編織",
+    "classifyCode": "4.2",
+    "classifyName": "傳統工藝",
+    "assetsTypeNames": "其他",
+    "otherAssetsType": "服飾",
+    "assetsClassifyCode": "4.2.1",
+    "assetsClassifyName": "傳統工藝",
+    "registerDate": 1306743020402,
+    "officialDocNo": "府文資字第1000091492A號",
+    "documents": [
+        {
+            "fileid": 163195,
+            "name": "布農族男子傳統服飾編織登錄為傳統工藝公告1000530.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-10/cbf875bb-f768-4872-a432-4068bab75b37/布農族男子傳統服飾編織登錄為傳統工藝公告1000530.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "藝術性:具有藝術價值者",
+        "特殊性:構成傳統藝術之特殊藝能表現,其技法優秀者",
+        "地方性:傳統藝術領域有價值與地位,並具有地方色彩或流派特色顯著者"
+    ],
+    "registerReason": "1、傳統服飾是布農族男子身分與認同的表徵，該布農族織布技藝在物質文化及技法（水平織法）均有其價值，深具藝術性、特殊性及地方性。\n2、施菊花君(Muia Sunavan)使用傳統工具，其織物圖案除保留舊有圖樣外，同時具備加以變化的創造力。\n",
+    "lawsReference": "文化資產保存法第59條及傳統藝術民俗及有關文物登錄指定及廢止審查辦法第2、4、6條。",
+    "govInstitutionCode": "970",
+    "govInstitutionName": "花蓮縣政府",
+    "belongCityId": 23,
+    "belongCityName": "花蓮縣",
+    "govInstitution": "花蓮文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-8227121#325",
+    "govDeptAddress": "花蓮市文復路6號",
+    "belongAddress": "花蓮縣卓溪鄉",
+    "historyDevelopment": "傳統服飾是布農族男子身分與認同的表徵，該布農族織布技藝在物質文化及技法（水平織法）均有其價值，深具藝術性、特殊性及地方性。\n\n施菊花君(Muia Sunavan)使用傳統工具，其織物圖案除保留舊有圖樣外，同時具備加以變化的創造力。",
+    "preservers": [
+        {
+            "id": 16925,
+            "type": "個人",
+            "caseName": "施菊花(歿)",
+            "cityName": "花蓮縣",
+            "distName": "卓溪鄉",
+            "caseArtistEntities": [],
+            "representImage": 232067,
+            "registrationDate": 1306684800000,
+            "judgeCriteria": [
+                "熟知並能正確體現該登錄項目之知識、技藝與文化表現形式",
+                "具該登錄項目之傳習能力與意願",
+                "在文化脈絡下為適當者"
+            ],
+            "registerReason": " 1、傳統服飾是布農族男子身份與認同的表徵，該布農族織布技藝在物質文化及技法（水平織法）均有其價值，深具藝術性、特殊性及地方性。 \n2、施菊花君(Muia Sunavan)使用傳統工具，其織物圖案除保留舊有圖樣外，同時具備加以變化的創造力。\n",
+            "lawsReference": "<<傳統工藝登錄認定及廢止審查辦法>>第4條第1、2、3款",
+            "isOpenDownload": false,
+            "representImageSource": "花蓮縣文化局",
+            "contactorIsOpen": false,
+            "caseAliasName": "Muia Sunavan"
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "花蓮縣文化局",
+    "addresses": [
+        {
+            "cityName": "花蓮縣",
+            "distName": "卓溪鄉",
+            "id": 116038,
+            "caseId": 16924,
+            "caseStatus": true,
+            "cityId": 23,
+            "distId": 2312,
+            "address": "花蓮縣卓溪鄉"
+        }
+    ],
+    "announces": [
+        {
+            "id": 126592,
+            "caseId": 16924,
+            "caseStatus": true,
+            "registerDate": 1306743020402,
+            "officialDocNo": "府文資字第1000091492A號",
+            "classificationId": 1
+        }
+    ]
+}

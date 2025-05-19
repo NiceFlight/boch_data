@@ -1,0 +1,104 @@
+{
+    "id": 3233,
+    "caseId": "20150824000002",
+    "count": 696,
+    "shareCount": 0,
+    "representImage": 5676,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4276/photo/新港奉天宮天上聖母往郡進香大旗_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4276/photo/新港奉天宮天上聖母往郡進香大旗.JPG",
+        "name": "新港奉天宮天上聖母往郡進香大旗"
+    },
+    "caseName": "新港奉天宮天上聖母往郡進香大旗",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-其他",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1440345600000,
+    "officialDocNo": "府授文資字第1040152404",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.\t為奉天宮日治時期往郡進香重要物件，得以印證百年前的宗教文化特色，具歷史意義及史事淵源。\n2.\t繡工細緻，配色優美，人物及動物形象生動，藝術價值極高。\n3.\t符合古物分級登錄指定及廢止審查辦法第2條第1項第1、2、3、4、6款登錄基準。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第1、2、3、4、6款",
+    "govInstitutionCode": "612",
+    "govInstitutionName": "嘉義縣政府",
+    "belongCityId": 15,
+    "belongCityName": "嘉義縣",
+    "belongDistName": "新港鄉",
+    "govInstitution": "嘉義縣文化觀光局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "05-3628123*311",
+    "govDeptAddress": "嘉義縣太保市太子大道158號",
+    "reservationCode": "   ",
+    "amount": 1,
+    "notes": "",
+    "descAge": "約1901~1920年",
+    "descSize": "長352.3cm，寬113.2cm",
+    "descMaterial": "羊毛、蠶絲、棉、金屬、鏡面",
+    "reserveStatusDesc": "新港奉天宮天上聖母往郡進香大旗為毛質、紅色地的直幅大旗，，一面刺繡八仙紋樣、笨南港、往郡進香金字，另一面為龍鳳圖文與奉天宮天上聖母。紋樣周邊飾有「捲雲」、「暗八仙」、「八吉祥」、「獅」、「蝙蝠」、「海水江牙」等吉祥紋。其使用多種材料及技法呈現，屬於日治時期較早、多鋪針繡成立體似的紋樣。\n從旗甬上墨書「笨南港奉天宮天上聖母 嘉義廳打貓西堡新港街林東義記號 敬奉」，可推測本件作品製作、敬奉年代約為1901年至1920年間。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定 ",
+    "documents": [
+        {
+            "fileid": 165936,
+            "name": "新港奉天宮天上聖母往郡進香大旗登錄公告-104.08.24.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-27/1e567323-0fb9-479c-97fa-8595f10202de/新港奉天宮天上聖母往郡進香大旗登錄公告-104.08.24.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.347879,
+    "latitude": 23.556618,
+    "representImageSource": "新港奉天宮提供",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "財團法人臺灣省嘉義縣新港奉天宮",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "新港奉天宮",
+            "keepAddressNew": "嘉義縣新港鄉嘉義縣新港鄉大興村新民路53號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "嘉義縣",
+            "keepNameDistName": "新港鄉",
+            "keepNameAddress": "新民路53號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "嘉義縣",
+            "distName": "新港鄉",
+            "id": 88491,
+            "caseId": 3233,
+            "caseStatus": true,
+            "cityId": 15,
+            "distId": 1513,
+            "address": "新民路53號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 95476,
+            "caseId": 3233,
+            "caseStatus": true,
+            "registerDate": 1440345600000,
+            "officialDocNo": "府授文資字第1040152404號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

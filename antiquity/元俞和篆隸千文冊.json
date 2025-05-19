@@ -1,0 +1,106 @@
+{
+    "id": 3948,
+    "caseId": "20120326000003",
+    "count": 264,
+    "shareCount": 0,
+    "representImage": 6758,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32934/photo/e47c93c6-8ef6-42dd-a986-9a4b4f2c97c2_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32934/photo/e47c93c6-8ef6-42dd-a986-9a4b4f2c97c2.JPG",
+        "name": "e47c93c6-8ef6-42dd-a986-9a4b4f2c97c2"
+    },
+    "caseName": "元俞和篆隸千文冊",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "元代書法尚復古，除了晉唐古法，書家更上追篆、隸、章草與古體，此冊清代王澍評論：「元時篆（書）趙吳興為首，紫芝生蓋從趙出者，格韻遒勁處不及吳興，而氣格淵雅則已具體矣。」可視為元代趙孟頫影響之重要作品。具有重要之藝術價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故書000175",
+    "amount": 37,
+    "notes": "",
+    "descAge": "元",
+    "descCreator": "俞和",
+    "descSize": "21 x 24.7（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "俞和（1307－1382），字子中，號紫芝生，浙江杭州人。能詩善書法，遍臨晉、唐諸家，功力極深。早年得趙孟頫（1254－1322）親授，得趙氏運筆之法，行草書逼似趙字。本幅〈篆隸千字文〉，共計三十七幅，凡二百九十五行，正文每行七字，以篆、隸隔行分體書成。除了方便識讀外，也呈現不同書體美感，篆書結體修長堅實，線條瘦硬挺拔，隸書結字方闊，用筆嚴謹整飭，風格優雅。與世流行之六體千字文比較，自有書卷氣。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。包首霉傷，水漬。本幅霉傷，水漬，傷損，傷補，蟲蛀，折裂。",
+    "documents": [
+        {
+            "fileid": 151228,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-24/ef17d8c9-eafb-4f7d-a0cc-d4de1283ad92/公告.pdf"
+        },
+        {
+            "fileid": 151229,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-24/e6279905-8001-448b-bce9-977b74042c87/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71358,
+            "caseId": 3948,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75773,
+            "caseId": 3948,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

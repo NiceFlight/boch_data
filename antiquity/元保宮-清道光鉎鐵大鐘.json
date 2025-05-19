@@ -1,0 +1,91 @@
+{
+    "id": 3260,
+    "caseId": "20160112000009",
+    "count": 491,
+    "shareCount": 0,
+    "representImage": 5714,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43368/photo/c3fdea43-e126-469d-bd53-a693c694b3f6_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43368/photo/c3fdea43-e126-469d-bd53-a693c694b3f6.jpg",
+        "name": "c3fdea43-e126-469d-bd53-a693c694b3f6"
+    },
+    "caseName": "元保宮-清道光鉎鐵大鐘",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1452528000000,
+    "officialDocNo": "府授文資遺字第10500045401號",
+    "judgeCriteria": [
+        "具有一定之時代特色、技術及流派",
+        "具有珍貴及稀有性者"
+    ],
+    "registerReason": "1.\t大鐘上載「道光拾叁年歲次癸巳年臘月穀旦」、捐贈者「弟子首事大學生賴(長瀛、時敏)、劉靈、賴(文學、添力、芳觀、茂官、再觀、授紹、七德、岸官、周治、惠賓、子觀、弟觀、蘭官、梓隆、君眾、就官)仝叩」、使用對象「賴厝廍庄　保生大帝」，見證此地早期的人口結構與信仰，具歷史與文化價值。\r\n2.\t可體現鑄造工藝技術的時代風格，年代明確，深具文物價值。",
+    "lawsReference": "符合「古物分級登錄指定及廢止審查辦法」第2條第1項第3、5款評定基準。",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "北區",
+    "reservationCode": "",
+    "keepNameId": 17,
+    "keepName": "元保宮",
+    "keepNameNew": 17,
+    "keepAddressNew": "臺中市北區梅川西路三段109號",
+    "amount": 1,
+    "notes": "",
+    "reserveStatusDesc": "",
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 5715,
+            "name": "a4cdbacb-f72d-4e3b-bdad-bb058f06a888.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44494/file/a4cdbacb-f72d-4e3b-bdad-bb058f06a888.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "元保宮",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺中市北區梅川西路三段109號",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "北區",
+            "id": 3401,
+            "caseId": 3260,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1005
+        }
+    ],
+    "announces": [
+        {
+            "id": 3401,
+            "caseId": 3260,
+            "caseStatus": true,
+            "registerDate": 1452528000000,
+            "officialDocNo": "府授文資遺字第10500045401號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

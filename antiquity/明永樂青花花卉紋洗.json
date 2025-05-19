@@ -1,0 +1,107 @@
+{
+    "id": 17289,
+    "caseId": "20200108000018",
+    "count": 243,
+    "shareCount": 0,
+    "representImage": 64830,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-01-08/34f2b771-ad9d-4433-ab75-0d08b568686a/15-故-瓷-016863_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-01-08/34f2b771-ad9d-4433-ab75-0d08b568686a/15-故-瓷-016863.jpg",
+        "name": "15-故-瓷-016863"
+    },
+    "caseName": "明永樂青花花卉紋洗",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1577168986847,
+    "officialDocNo": "中華民國108年12月24日文授資局物字第10830139531號",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "數量特別稀少或具完整性保存意義者",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此器折沿洗敞口、口沿外侈，深壁，平底無足。全器除器底露胎外，皆以青花為飾。第一件折沿洗內底心畫幾何圖形式花紋，筆法纖細勁挺，內外壁為纏枝各色花卉，口沿內繪海水波濤紋四組。\n青花折沿洗是十五世紀早期中國陶瓷器在伊斯蘭文化影響下所製作的新器形，特殊的造形源自於西亞和北非一帶的黃銅及加彩玻璃折沿洗，可以視為文化交流下的具體產物。此類作品傳世稀少，益顯珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故瓷016863",
+    "amount": 1,
+    "descAge": "明　永樂",
+    "descSize": "高11.9，口徑26.5，底徑18.5公分",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "侈口寬唇，深壁，平底無足。口唇上畫波濤紋，唇下畫各種花卉八枝。週壁內外均畫纏枝四季花卉。底心畫六瓣花形圖案，邊飾水波紋一週，青線三道。器底未施釉，全部露白胎。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "器表多處舊刮傷，底沾窯渣。",
+    "documents": [
+        {
+            "fileid": 144776,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-15/285a63ad-042f-4566-98be-dad187651e50/公告.pdf"
+        },
+        {
+            "fileid": 144777,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-15/d29f136b-80cb-460b-9706-37a20b70f638/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "11143臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71924,
+            "caseId": 17289,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 76442,
+            "caseId": 17289,
+            "caseStatus": true,
+            "registerDate": 1577168986847,
+            "officialDocNo": "中華民國108年12月24日文授資局物字第10830139531號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

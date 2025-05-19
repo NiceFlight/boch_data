@@ -1,0 +1,101 @@
+{
+    "id": 16873,
+    "caseId": "20190628000007",
+    "count": 171,
+    "shareCount": 0,
+    "representImage": 59614,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-06-28/956e96c8-5313-4922-bf75-c59ef95a8a39/c16.紈扇畫冊_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-06-28/956e96c8-5313-4922-bf75-c59ef95a8a39/c16.紈扇畫冊.jpg",
+        "name": "c16.紈扇畫冊"
+    },
+    "caseName": "紈扇畫冊　冊　無款松陰庭院",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1561519301559,
+    "officialDocNo": "文授資局物字第10830067501號",
+    "judgeCriteria": [
+        "能表現傳統、族群或地方之風俗、記憶及傳說、信仰、技藝或生活文化之重要特色",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "具有重要藝術造詣或科學成就"
+    ],
+    "registerReason": "界畫類似於今日專門繪製之透視圖，可比喻為古代建築圖樣。現今存留宋代木造古建物極少，此件畫作詳繪出南宋高級官員宅院建築各部件如：屋頂、斗栱、門窗、須彌座花臺等，並將優美庭園建築形象，融入人物活動之中，內容豐富，正可補足南宋宅院園林資料的缺乏。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第1、3、4款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫001262- 017",
+    "amount": 1,
+    "descAge": "宋",
+    "descSize": "本幅 24x25.7 公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "南宋繪畫常出現江南一帶的屋舍形象，優美的自然環境，既是住宅又有園林風趣。此冊頁為民居合院建築的標準形式，沿用「前堂後寢」的傳統布局，當心間為廳堂，左右次間有挾屋與之並列。屋檐下隱約可見斗栱，側邊山面搏風版、垂魚、月梁繪法簡略。懸山式屋頂正脊端飾有獸頭，屋面瓦隴平行排列規律。宋代一般平民百姓不得建斗栱，或加瓦獸裝飾，此棟應屬於較高級的官員宅院。廊廡外隱約可見攢尖頂方亭，上有寶頂裝飾。此圖雖只繪局部之景，頗得庭園豐富景緻層次。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "霉傷，蟲蛀，傷補，傷損，絹裂。",
+    "documents": [
+        {
+            "fileid": 146057,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-24/9b2eecfa-abd5-4b01-b31c-b3e7b28d3e28/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 68013,
+            "caseId": 16873,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 72226,
+            "caseId": 16873,
+            "caseStatus": true,
+            "registerDate": 1561519301559,
+            "officialDocNo": "文授資局物字第10830067501號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

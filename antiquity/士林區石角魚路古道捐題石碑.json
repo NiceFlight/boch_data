@@ -1,0 +1,95 @@
+{
+    "id": 21493,
+    "caseId": "20230118000005",
+    "count": 363,
+    "shareCount": 0,
+    "representImage": 206075,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-01-18/21451f70-55bb-4d59-8521-4850b9f9c591/岩山里石碑_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-01-18/21451f70-55bb-4d59-8521-4850b9f9c591/岩山里石碑.jpg",
+        "name": "岩山里石碑"
+    },
+    "caseName": "士林區石角魚路古道捐題石碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "對地方或族群知識、技術或流派發展具影響或意義"
+    ],
+    "registerReason": "1.具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：與士林當地居民生活、地方經濟變遷與人流、物流發展有密切關係。\n2.具有地方重要人物或歷史事件之深厚淵源者：石碑上捐獻人名為士林至草山名望人士，可考證過去住民的人際網路。\n3.能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者：此碑位於清代經日治至戰後初年魚路之最後一段路的地標，反映金包里與士林之商業關係。\n4.對地方或族群知識、技術或流派發展具影響或意義：石碑石材取自當地，反映過去士林山區採石歷史。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2、3、6款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "萬華區中華路一段174-1號",
+    "reservationCode": "無",
+    "amount": 1,
+    "descAge": "約 1936-1949 年。",
+    "descSize": "石碑一長 198 公分，寬 67 公分，厚 27 公分；石碑二，長 196 公分， 寬 66 公分，厚 26 公分。",
+    "descMaterial": "火成岩（十八份石） ",
+    "reserveStatusDesc": "根據目前辨識石碑上的人名，部分為士林區的仕紳與頭人，包含曾任第二屆士林鎮長的丁雲霖（1900-1967）、成立於1936年的「株式會社林瑞記商行」名稱林瑞記與多位1946-1950年間的士林鎮在地里長。這對石碑不僅極可能恰好敘說日本時代後期、二戰結束到國民政府初來乍到的歷史時空，更是當代士林區（芝蘭一堡）在地文史、產業發展歷程的歷史佐證。\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 3,
+    "reserveStatus": "傷損嚴重，急需修護",
+    "documents": [
+        {
+            "fileid": 206074,
+            "name": "111年10月31日北市獻編字第1113003847號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-01-18/89137da6-d19b-4c27-aa1c-a0dfda0f2f0b/111年10月31日北市獻編字第1113003847號公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.5377,
+    "latitude": 25.101,
+    "representImageSource": "士林區岩山里辦公處",
+    "keepNames": [
+        {
+            "keepNameIdStr": "臺北市士林區岩山里辦公處",
+            "keepName": "臺北市士林區岩山里辦公處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "臺北市士林區岩山里辦公處",
+            "keepAddressNew": "臺北市士林區岩山里辦公處",
+            "saveSpaceOther": "戶外",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 106791,
+            "caseId": 21493,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "仰德大道一段12巷"
+        }
+    ],
+    "announces": [
+        {
+            "id": 114586,
+            "caseId": 21493,
+            "caseStatus": true,
+            "registerDate": 1667145600000,
+            "officialDocNo": "北市獻編字第1113003847號公告",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

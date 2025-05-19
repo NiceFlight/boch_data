@@ -1,0 +1,132 @@
+{
+    "id": 75,
+    "caseId": "20111124000001",
+    "count": 3206,
+    "shareCount": 8,
+    "representImage": 170190,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/c183c5eb-eeda-4eb3-8b9e-84d36856afd5/代表圖像_福州街11號日式宿舍_20220620 (1)_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/c183c5eb-eeda-4eb3-8b9e-84d36856afd5/代表圖像_福州街11號日式宿舍_20220620 (1).jpeg",
+        "name": "代表圖像_福州街11號日式宿舍_20220620 (1)"
+    },
+    "caseName": "福州街11號日式宿舍",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "創建年代約為1920～1930年由臺灣總督府尾辻國吉技師所設計興建之自宅，後由台灣省政府所有、歷經國立台灣師範大學劉真校長宿舍、民國95年由國家安全局向國有財產局撥用使用。目前則由國立臺灣師範大學撥用管理。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 145215,
+            "name": "3._1001124指定市定古蹟公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/c6abcf96-d2a9-4a7b-8919-109d31fd6dcc/3._1001124指定市定古蹟公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "各時代表現地方營造技術流派特色者",
+        "具稀少性，不易再現者",
+        "具建築史上之意義，有再利用之價值及潛力者"
+    ],
+    "registerReason": "１、本棟建物為日本殖民時期總督府技師尾辻國吉以其熱帶氣候家屋構造的專業知識，考量臺北地方氣候及基地條件所營造之自宅，具建築史上之意義。\r\n２、為臺北市少見的二樓日式住宅，具有獨特的建築形式。\r\n３、入口門柱型式特殊精緻。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 145216,
+            "name": "福州街11號日式宿舍.gif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/ac473fb5-9e15-43b7-b475-1e52dd4ddc49/福州街11號日式宿舍.gif"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市中正區南海段三小段439及442地號土地",
+    "buildingFeatures": "二層木構造，屋頂改為黑色彩紋鋼板，部分門窗為鋁門窗。",
+    "inHouseFeatures": "國家安全局於民國98年初重新整修。",
+    "buildingUsage": "規劃設計及修復中",
+    "buildingActualState": "規劃設計及修復中",
+    "buildingKeyMaintainItem": "古蹟主體及圍牆。",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.519745,
+    "latitude": 25.0297239,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市中正區南海段三小段439及442地號土地",
+    "selfCoverage": "南海段三小段440建號",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 83432,
+            "caseId": 75,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "福州街11號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "南海段三小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 93301,
+            "caseId": 75,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 16,
+            "landSerialNo": "439",
+            "landownership": 1,
+            "cityLandUseTypeId": 2,
+            "coverageId": 2,
+            "area": "469平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "南海段三小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 93302,
+            "caseId": 75,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 16,
+            "landSerialNo": "442",
+            "landownership": 1,
+            "cityLandUseTypeId": 2,
+            "coverageId": 2,
+            "area": "73平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 89671,
+            "caseId": 75,
+            "caseStatus": true,
+            "registerDate": 1322064000000,
+            "officialDocNo": "北市文化二字第10030399900號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false,
+    "pastHistorySource": ""
+}

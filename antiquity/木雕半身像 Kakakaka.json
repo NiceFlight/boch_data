@@ -1,0 +1,100 @@
+{
+    "id": 15987,
+    "caseId": "20180723000002",
+    "count": 483,
+    "shareCount": 1,
+    "representImage": 49210,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-07-23/c20c6c5e-47f0-4254-93a0-4822c8a2475a/木雕半身像（警鈴拍板）Kakakaka（tjakiljis）020-5.038_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-07-23/c20c6c5e-47f0-4254-93a0-4822c8a2475a/木雕半身像（警鈴拍板）Kakakaka（tjakiljis）020-5.038.jpg",
+        "name": "木雕半身像（警鈴拍板）Kakakaka（tjakiljis）020-5.038"
+    },
+    "caseName": "木雕半身像 Kakakaka",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1456792672133,
+    "officialDocNo": "屏府文保字第10530074600號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": " 雙眼略凸有神，張口露白齒，明顯鬍鬚狀，眼球和雙耳略點綴紅色彩繪；臉頰圓滿，頸部裝飾紅白相間魯凱族服飾；雙手平舉至胸前，雕刻魯凱族傳統女性服飾，木材表面點綴以紅漆，使用白漆為鈕扣裝飾，胸部刻有排扣。此類木雕作品，年代久遠，通常僅見於屏東霧台鄉，充分表現民族區域性的工藝技術，同時採用南部地區特有的民族植物-刺桐，以當地木材雕刻具有魯凱族傳統的文化的木雕作品，足以表現魯凱族敬天愛物的精神。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第1、2、3、4、5、6款",
+    "govInstitutionCode": "900",
+    "govInstitutionName": "屏東縣政府",
+    "belongCityId": 20,
+    "belongCityName": "屏東縣",
+    "belongDistName": "屏東市",
+    "govInstitution": "屏東縣政府",
+    "govDeptName": "屏東縣文化資產保護所",
+    "govDeptPhone": "08-7227001#19",
+    "govDeptAddress": " ",
+    "reservationCode": "020/5.038",
+    "keepNameId": 51,
+    "keepName": "聯絡人：陳建瑛",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "descAge": "1945年",
+    "descCreator": "不詳",
+    "descSize": "22 × 13 × 2.7 cm",
+    "descMaterial": "木(刺桐) ",
+    "reserveStatusDesc": "木雕半身像作品為一平民階級的半身像淺浮雕，為一女性雕刻題材，採淺浮雕，施以紅色、黑色和白色顏料點綴裝飾。雕刻風格為魯凱族傳統技法",
+    "pastHistorySource": 2,
+    "pastHistorySourceNotes": "曾燿堂先生",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好",
+    "documents": [
+        {
+            "fileid": 49209,
+            "name": "古物公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-07-23/3fe8ccaa-18e4-4c50-b4cb-2553d14baf60/古物公告.pdf"
+        }
+    ],
+    "keepNames": [
+        {
+            "keepNameIdStr": "屏東縣政府文化處",
+            "keepName": "聯絡人：陳建瑛",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "屏東縣",
+            "distName": "屏東市",
+            "id": 5745,
+            "caseId": 15987,
+            "caseStatus": true,
+            "cityId": 20,
+            "distId": 2001
+        }
+    ],
+    "announces": [
+        {
+            "id": 5745,
+            "caseId": 15987,
+            "caseStatus": true,
+            "registerDate": 1456792672133,
+            "officialDocNo": "屏府文保字第10530074600號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

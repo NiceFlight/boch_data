@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "新竹縣竹東鎮雞油林段205-717"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

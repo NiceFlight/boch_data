@@ -1,0 +1,98 @@
+{
+    "id": 20285,
+    "caseId": "20211215000026",
+    "count": 203,
+    "shareCount": 0,
+    "representImage": 147691,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-15/3a39f7c9-297e-4723-847e-7d0177ef7a4a/002_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-15/3a39f7c9-297e-4723-847e-7d0177ef7a4a/002.jpg",
+        "name": "002"
+    },
+    "caseName": "牙雕扇子",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "雕刻細緻，保存良好，展現清代南派牙雕工藝特色及成就。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第3、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174之1號",
+    "reservationCode": "No.17",
+    "amount": 1,
+    "descAge": "清",
+    "descSize": "長32.5公分，寬0.3公分，高20公分",
+    "descMaterial": "象牙",
+    "reserveStatusDesc": "本件以象牙為材質之摺扇文物，共有內頁24片網狀雕花鳥紋飾薄片之扇頁，外加扇面及扇背總計26片，展開之扇面佈滿精緻細密之簍雕，縱線細如絲綢，其上三處鋪陳有庭園景緻及佛塔廟宇以及環繞之花鳥雕飾，扇面及扇背運用浮雕之手法精雕花鳥紋飾，可見其工藝精細、美妙。",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "2016年",
+    "saveEnvironment": 4,
+    "saveEnvironmentNotes": "居所室內",
+    "reserveStatus": "狀況穩定。",
+    "documents": [
+        {
+            "fileid": 147690,
+            "name": "110年12月9日北市獻編字第1103004564號公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-15/0a42dd51-2477-4004-8440-f60f6990ff8c/110年12月9日北市獻編字第1103004564號公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.528881,
+    "latitude": 25.10519,
+    "representImageSource": "中國古代生活博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "高○樹",
+            "keepName": "高○樹",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "高○樹",
+            "keepAddressNew": "臺北市士林區忠誠路一段117號1樓",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "宅第",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69177,
+            "caseId": 20285,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "忠誠路一段117號1樓"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73292,
+            "caseId": 20285,
+            "caseStatus": true,
+            "registerDate": 1639031454907,
+            "officialDocNo": "北市獻編字第1103004564號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

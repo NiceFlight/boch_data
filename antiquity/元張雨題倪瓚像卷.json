@@ -1,0 +1,110 @@
+{
+    "id": 3790,
+    "caseId": "20110919000007",
+    "count": 501,
+    "shareCount": 0,
+    "representImage": 6586,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32827/photo/e3c640fe-eb11-4fa5-ba6d-2667e5abe0e5_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32827/photo/e3c640fe-eb11-4fa5-ba6d-2667e5abe0e5.jpg",
+        "name": "e3c640fe-eb11-4fa5-ba6d-2667e5abe0e5"
+    },
+    "caseName": "元張雨題倪瓚像卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1316361600000,
+    "officialDocNo": "會授資籌二字10020100351號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "歷史流傳已久或史事具有深厚淵源",
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "畫卷人像的表現十分具代表性，可用以掌握文人肖像畫傳統之發展，為倪瓚畫像之最佳者，並對倪瓚潔癖之習性，幽默表達而附張雨跋，具有無可替代之價值，具畫史意義與歷史價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第四條第一項第一、二、三、四、五、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "0422177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫001103",
+    "amount": 1,
+    "notes": "",
+    "descAge": "元",
+    "descSize": "28.2 x 60.9 公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "書齋之中，文士坐於榻上，後有山水屏風一座，兩側有男女侍者各一人。畫中主人身著道服，右腳屈放、左腳支起，右手執筆靠在支座上，左手持紙，如執筆寫字模樣。此為佛教人物維摩詰居士常見姿勢，宋代士人借以塑造個人形象。畫中屏風與倪瓚山水樣式相近，據張雨題贊，知此為倪瓚像。張雨題贊從外在形象直透其內在神氣，與畫像恰可參照。張雨、倪瓚與黃公望同為道友， 張雨亦曾題黃公望小像 。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "本幅：舊補，前半上下略有磨損。包首：內部邊綾有點裂，略有磨損，斑漬。有損傷但狀況穩定 。",
+    "documents": [
+        {
+            "fileid": 152006,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-27/4ac43e6b-1823-4008-b259-3f607335354b/公告.pdf"
+        },
+        {
+            "fileid": 152007,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-27/35587a50-2ab4-4b76-8983-af5600e5158d/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71599,
+            "caseId": 3790,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 76072,
+            "caseId": 3790,
+            "caseStatus": true,
+            "registerDate": 1316361600000,
+            "officialDocNo": "會授資籌二字10020100351號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

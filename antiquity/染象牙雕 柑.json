@@ -1,0 +1,101 @@
+{
+    "id": 17380,
+    "caseId": "20200219000026",
+    "count": 288,
+    "shareCount": 3,
+    "representImage": 66219,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-02-16/9e477c6b-21c5-479d-937e-1125900968c4/23 (1)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-02-16/9e477c6b-21c5-479d-937e-1125900968c4/23 (1).jpg",
+        "name": "23 (1)"
+    },
+    "caseName": "染象牙雕 柑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1581321553736,
+    "officialDocNo": "中華民國109年2月10日北市獻編字第1093001230號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "1.\t反映植物學之深入工藝界，具日本象牙雕刻之時代與藝術特色及美學生活實況。\n2.\t寫生實物，染色細微，極寫實生動，技藝難得，藝術水準及價值高。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第3、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "10846臺北市萬華區中華路1段174之1號",
+    "reservationCode": "典藏23",
+    "amount": 1,
+    "descAge": "日本明治時期",
+    "descSize": "寬5.8公分/高4公分",
+    "descMaterial": "象牙",
+    "reserveStatusDesc": "柑，又稱柑子、金實，和橘相似。本件作品為藝術家以柑為造型，取象牙雕琢而成。小巧玲瓏的柑，一片柑皮被撥開，顯露出飽滿的果肉，內層細細的白絡清晰可見；柑皮的自然質感與紋路栩栩如生，加上精湛的染色工藝，將之與真實的柑放在一起必定能以假亂真，若非握於手中細細品味，難以找出破綻，展示明治匠人巧奪天工的手藝、洗練的造型感與驚人的美之世界。\n日本匠人對於自己的手藝要求苛刻，並為此不厭其煩、不惜代價，但求做到精益求精，完美再完美。從本件作品的細膩程度便可窺見日本藝術家的追求極致的程度。",
+    "pastHistorySource": 1,
+    "saveEnvironment": 1,
+    "reserveStatus": "保存良好",
+    "documents": [
+        {
+            "fileid": 66217,
+            "name": "臺北市一般古物指定公告表_染象牙雕 柑.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-02-16/42b51b3f-7b3a-43c8-9770-b359b8b21d91/臺北市一般古物指定公告表_染象牙雕 柑.pdf"
+        },
+        {
+            "fileid": 66218,
+            "name": "臺北市立文獻館公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-02-16/11226dd2-6fb0-435d-82e9-7142cace529f/臺北市立文獻館公告.pdf"
+        }
+    ],
+    "keepNames": [
+        {
+            "keepNameIdStr": "郭○穎",
+            "keepName": "郭芝穎",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "郭○穎",
+            "keepAddressNew": "台北市中正區重慶南路二段15號7樓",
+            "saveSpaceOther": "庫房",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "大安區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 7021,
+            "caseId": 17380,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 7021,
+            "caseId": 17380,
+            "caseStatus": true,
+            "registerDate": 1581321553736,
+            "officialDocNo": "中華民國109年2月10日北市獻編字第1093001230號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

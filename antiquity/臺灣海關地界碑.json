@@ -1,0 +1,105 @@
+{
+    "id": 3125,
+    "caseId": "20140609000002",
+    "count": 623,
+    "shareCount": 0,
+    "representImage": 5563,
+    "representImageInfo": {
+        "ext": "PNG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/6998/photo/臺灣海關地界碑_c.PNG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/6998/photo/臺灣海關地界碑.PNG",
+        "name": "臺灣海關地界碑"
+    },
+    "caseName": "臺灣海關地界碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-其他",
+    "otherAssetsType": "圖書文獻",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1402243200000,
+    "officialDocNo": "府文資處字第1030492440B號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有珍貴及稀有性者"
+    ],
+    "registerReason": "此石碑係安平海關用於標明地界，不容侵犯的實物，見證安平港開港之歷史與運河興衰，具歷史意義。其見證臺灣海關與安平港發展之歷史，及「天津條約」臺灣開港史實，具史事淵源。目前臺灣所現存清領時期海關界碑極其稀少，具珍貴及稀有性。",
+    "lawsReference": "符合「古物分級登錄指定及廢止審查辦法」第2條第1項第1、2、5款。",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "安平區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569 ",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "reservationCode": "公告無資料",
+    "amount": 1,
+    "notes": "",
+    "descAge": "清代",
+    "descSize": "長約93公分，寬約26.5公分，厚約11公分",
+    "descMaterial": "石質",
+    "reserveStatusDesc": "主要材質：石質\n尺寸及特徵：近長方體，石刻，長約93公分，寬約26.5公分，厚約11公分\n\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 4,
+    "saveEnvironmentNotes": "多遊客、罩有玻璃罩且展示櫃有溫濕度控制",
+    "reserveStatus": "1. 碑體底部有不明白色硬物附著\n2. 碑體有鐵離子析出\n3. 有白色不明垂流物 ",
+    "documents": [
+        {
+            "fileid": 168906,
+            "name": "臺灣海關地界碑公告-103.06.09.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-06-22/d1303456-465b-4a5e-ae16-4d6380770790/臺灣海關地界碑公告-103.06.09.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 120.15898532641519,
+    "latitude": 23.001950473793794,
+    "representImageSource": "  ",
+    "keepNames": [
+        {
+            "keepNameIdStr": "東興洋行",
+            "keepName": " 東興洋行",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "東興洋行",
+            "keepAddressNew": "臺南市安平區安北路233巷3號",
+            "saveSpaceOther": "無資料",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺南市",
+            "keepNameDistName": "安平區",
+            "keepNameAddress": "安北路233巷3號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "安平區",
+            "id": 92598,
+            "caseId": 3125,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1606,
+            "address": "古堡街108號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 99887,
+            "caseId": 3125,
+            "caseStatus": true,
+            "registerDate": 1402243200000,
+            "officialDocNo": "府文資處字第1030492440B號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

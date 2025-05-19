@@ -1,0 +1,132 @@
+{
+    "id": 41,
+    "caseId": "19971121000001",
+    "count": 3611,
+    "shareCount": 1,
+    "representImage": 167892,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/b2d7a2f5-fb6a-4825-8faa-1f713ab75e6e/IMG_4152_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/b2d7a2f5-fb6a-4825-8faa-1f713ab75e6e/IMG_4152.jpeg",
+        "name": "IMG_4152"
+    },
+    "caseName": "臺北撫臺街洋樓",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "以稀少性而言，為北市城內在日治初期僅存之洋式店鋪，有都市發展史見證價值。建築風格罕見，例如沒有山牆，但有老虎窗。騎樓正面石柱建材造型均佳，形成三座半圓拱形立柱，工法精良，依舊照片出現代，應在1912年至1915年之間，即民元年大颱風過後重整市區之產物，為城內最古老建築。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "洋樓",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 117246,
+            "name": "3._871121指定古蹟公告.tif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/54b9926e-a6ef-4a8c-9f91-49401a20189c/3._871121指定古蹟公告.tif"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值"
+    ],
+    "registerReason": "具文化資產保存價值",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 117247,
+            "name": "_861121都市計畫公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/4c7b0282-1586-41bb-b345-a4612eda577c/_861121都市計畫公告.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "台北市城中段一小段634、635地號",
+    "buildingFeatures": "是一座歐風十足的店舖建築。",
+    "inHouseFeatures": "騎樓以石砌拱廊構成，天花板採用菱形幾何圖案。",
+    "buildingUsage": "",
+    "buildingActualState": "辦理委外作業中",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenDownload": false,
+    "longitude": 121.51076694251458,
+    "latitude": 25.046753712776763,
+    "representImageSource": "臺北市文化局",
+    "landScope": "城中段一小段634、635地號",
+    "selfCoverage": "本體",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 81914,
+            "caseId": 41,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "延平南路26號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "城中段一小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 90407,
+            "caseId": 41,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 146,
+            "landSerialNo": "634",
+            "landownership": 1,
+            "cityLandUseTypeId": 2,
+            "area": "214平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "城中段一小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 90408,
+            "caseId": 41,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 146,
+            "landSerialNo": "635",
+            "landownership": 1,
+            "cityLandUseTypeId": 2,
+            "area": "45平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 88051,
+            "caseId": 41,
+            "caseStatus": true,
+            "registerDate": 880041600000,
+            "officialDocNo": "府民三字第8608883301號",
+            "classificationId": 1,
+            "note": "無"
+        }
+    ],
+    "openVisitType": "",
+    "openUpTime": "週一至週六 10:00-18:00",
+    "isCharge": false,
+    "pastHistorySource": "都市計畫公告"
+}

@@ -1,0 +1,97 @@
+{
+    "id": 19626,
+    "caseId": "20210719000014",
+    "count": 381,
+    "shareCount": 2,
+    "representImage": 125200,
+    "representImageInfo": {
+        "ext": "bmp",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-19/fa0df8c3-04f1-4991-9e9f-b42d9d484511/圖片14_c.bmp"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-19/fa0df8c3-04f1-4991-9e9f-b42d9d484511/圖片14.bmp",
+        "name": "圖片14"
+    },
+    "caseName": "明永樂青花花卉紋扁壺",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "數量特別稀少或具完整性保存意義者",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此器呈小圓口，卷唇，短頸，圓腹，腹面凸起，背面扁平，中心凹下一周。頸飾弦紋二道及小環鈕，兩側各飾一牡丹花形耳。頸上畫梅花與如意雲各一層。腹部中心畫波濤紋，周圍及側面均畫纏枝四季花卉。胎骨稍厚，器背全部露白胎，有淡紅色斑點。此器正面圓鼓，模仿金屬器背後凹陷的器形，以及器腹上的纏枝花卉紋飾，多與外來器形與裝飾紋樣有關。推測此器應有伊斯蘭地區的淵源，展現中國陶瓷器在伊斯蘭文化影響下所製作的新器形。目前所知，該類製品全世界約僅有五件，此件則為院藏唯一，益顯珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第3、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "0422177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故瓷011643",
+    "amount": 1,
+    "descAge": " 明",
+    "descSize": "高38.8公分 口徑5.4公分 背徑34.4公分",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "此器呈小圓口，卷唇，短頸，頸部中央起一稜，頸側並有小環鈕。腹部一面圓鼓，並在中央處凸起；另一面平坦，中央處下凹。壺腹扁邊兩側各飾一花形耳。全器胎骨厚重，器背砂底無釉，可以看見燒製時自然形成的「火石紅」及淡紅色斑點。正面及兩側滿釉，並以青花為飾，頸部在凸稜上下以青料裝飾弦紋二道，畫梅花與如意雲各一層。腹部中央凸起處畫海水波濤紋，周圍及側面則以環繞捲舒自如的纏枝花卉紋為飾。\n\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "口沿舊釉傷、器身釉表舊刮痕及舊釉傷、器身澀胎處舊刮痕、兩側花形耳舊補。",
+    "documents": [
+        {
+            "fileid": 142638,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-04/c9904cb0-0b18-4aa3-b409-a2e31accaa50/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.5484322510235,
+    "latitude": 121.5484322510235,
+    "representImageSource": " 國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "  ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": " ",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 66410,
+            "caseId": 19626,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 70599,
+            "caseId": 19626,
+            "caseStatus": true,
+            "registerDate": 1624434373070,
+            "officialDocNo": "文授資局物字第11030062561號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

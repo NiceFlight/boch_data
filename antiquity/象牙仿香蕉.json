@@ -1,0 +1,96 @@
+{
+    "id": 18223,
+    "caseId": "20201217000033",
+    "count": 407,
+    "shareCount": 3,
+    "representImage": 90123,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-12-17/8b6de341-7053-4217-8561-73f5e6a052f0/210776_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-12-17/8b6de341-7053-4217-8561-73f5e6a052f0/210776.jpg",
+        "name": "210776"
+    },
+    "caseName": "象牙仿香蕉",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1606378782396,
+    "officialDocNo": "北市獻編字第1093004298號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "1. 與明治時期象 生寫實類似，反映日本工藝風格影響下的中國寫實仿真雕刻類型及文化交流。\n2. 利用象牙紋路，雕刻香蕉造型，蕉皮彎曲折轉生動，具藝術造詣。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第3、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174-1號",
+    "reservationCode": "NO.9",
+    "amount": 3,
+    "descAge": "清代",
+    "descSize": "( 1）長 18.5 公分 寬 5.5 公分 高 6 公分 ( 2）長 17 公分 寬 3 公分 高 3 公分 (3) 長 22 公分 寬 5 公分 高 4.5 公分",
+    "descMaterial": "象牙",
+    "reserveStatusDesc": "栩栩如生宛如真品的牙雕香蕉，從蕉蒂到剝皮之內部維妙維肖，尤其色澤之功力令人嘆為觀止。",
+    "pastHistorySource": 2,
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定。完整如初。",
+    "documents": [
+        {
+            "fileid": 90124,
+            "name": "臺北市公告指定一般古物1091126.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-17/f48e1469-a3b9-4897-8f5a-4edb5cdf554a/臺北市公告指定一般古物1091126.pdf"
+        }
+    ],
+    "keepNames": [
+        {
+            "keepNameIdStr": "高○樹",
+            "keepName": "高○樹",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "高○樹",
+            "keepAddressNew": "臺北市士林區天山里4鄰天母東路47號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "宅第",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 7838,
+            "caseId": 18223,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108
+        }
+    ],
+    "announces": [
+        {
+            "id": 7838,
+            "caseId": 18223,
+            "caseStatus": true,
+            "registerDate": 1606378782396,
+            "officialDocNo": "北市獻編字第1093004298號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

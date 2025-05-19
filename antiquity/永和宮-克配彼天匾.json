@@ -1,0 +1,104 @@
+{
+    "id": 16147,
+    "caseId": "20180912000016",
+    "count": 492,
+    "shareCount": 0,
+    "representImage": 50035,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-09-12/1b43a3a9-89aa-488b-a0d0-f3e9bb5ce2f5/11 永和宮-克配彼天匾_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-09-12/1b43a3a9-89aa-488b-a0d0-f3e9bb5ce2f5/11 永和宮-克配彼天匾.jpg",
+        "name": "11 永和宮-克配彼天匾"
+    },
+    "caseName": "永和宮-克配彼天匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1473327907266,
+    "officialDocNo": "府授文資遺字第10501861752號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.木製拼板橫匾，有螭龍圖案圍框，大字「克配彼天」為平板黏貼，題款小字「嘉慶二十年歲次乙亥嘉平月穀旦」、「乾隆門侍衛鎮守福建台澎掛印總兵官阿勒精阿巴圖魯武隆阿敬題」為連字鑲嵌。\n2.武隆阿曾任台灣鎮總兵12年之久，功在防制海盜蔡牽之侵擾台灣海防，故在大肚海口宮廟留有此匾，在正史上有相當地位。\n3.與清代圍剿海盜蔡牽集團的史事有關，深具歷史價值。\n4.突顯永和宮(下街媽祖廟)在大肚渡海口的戰略地位。\n",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第1、2、3、5、6款",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "大肚區",
+    "govInstitution": "臺中市文化資產處",
+    "govDeptName": "遺址傳藝課",
+    "govDeptPhone": "04-22290280#501",
+    "govDeptAddress": "臺中市南區復興路三段362號R10",
+    "reservationCode": "府授文資遺字第10501861752號",
+    "keepNameId": 72,
+    "keepName": "大肚永和宮",
+    "keepNameNew": 72,
+    "keepAddressNew": "臺中市大肚區永和街11號",
+    "saveSpaceId": 1,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "descAge": "嘉慶",
+    "descSize": "待測量",
+    "descMaterial": "木",
+    "reserveStatusDesc": "完整良好",
+    "pastHistorySource": 6,
+    "saveEnvironment": 2,
+    "reserveStatus": "完整良好",
+    "documents": [
+        {
+            "fileid": 50034,
+            "name": "11 永和宮-克配彼天匾(公告-掃描).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-09-12/81d52d08-d644-4903-a8d9-d827cec31772/11 永和宮-克配彼天匾(公告-掃描).pdf"
+        }
+    ],
+    "keepNames": [
+        {
+            "keepNameIdStr": "大肚永和宮",
+            "keepName": "大肚永和宮",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "大肚永和宮",
+            "keepAddressNew": "臺中市大肚區永和街11號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2,
+            "keepNameCityName": "臺中市",
+            "keepNameDistName": "大肚區",
+            "keepNameAddress": "永和街11號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "大肚區",
+            "id": 5884,
+            "caseId": 16147,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1022
+        }
+    ],
+    "announces": [
+        {
+            "id": 5884,
+            "caseId": 16147,
+            "caseStatus": true,
+            "registerDate": 1473327907266,
+            "officialDocNo": "府授文資遺字第10501861752號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

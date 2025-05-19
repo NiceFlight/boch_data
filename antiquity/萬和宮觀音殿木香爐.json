@@ -1,0 +1,100 @@
+{
+    "id": 18143,
+    "caseId": "20201209000014",
+    "count": 495,
+    "shareCount": 0,
+    "representImage": 78884,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-12-09/214eefb1-3b33-419c-b823-4c0723ade35e/70.萬和宮觀音殿木香爐_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-12-09/214eefb1-3b33-419c-b823-4c0723ade35e/70.萬和宮觀音殿木香爐.jpg",
+        "name": "70.萬和宮觀音殿木香爐"
+    },
+    "caseName": "萬和宮觀音殿木香爐",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1603348350773,
+    "officialDocNo": "府授文資遺字第10902447556號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "數量稀少者"
+    ],
+    "registerReason": "1.\t三足鼎式木質圓爐，紋飾為減地陽刻，口緣側有一圈的螭龍紋，頸圈為回字不斷紋，爐腹正面紋飾為為雙龍搶珠，背面為雙鳳朝纏枝牡丹，兩側耳部有微凸之狻猊頭，其旁刻暗四寶，器壁兩側尚刻有「道光戊申年置」（道光28年）、「犁頭店萬和宮」為款識。足下還有黑漆蓮葉形托座，但與香爐尺寸略有不合，鼎足無法契合托座凹槽。整體器身以黑漆為底，雕飾圖案則以紅底金漆呈現。\n2.\t一般木製香爐因容易焚毀，仍傳世者不多，且造型多為方形，便於以裁製木料榫接成件及併裝展耳。「萬和宮觀音殿木香爐」以圓體為造形，是整料雕刻，具有稀有性與優良做工藝術價值，而器身款識，亦足證明其年歲久遠。\n",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、5款",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "南屯區",
+    "govInstitution": "臺中市政府   ",
+    "govDeptName": "臺中市文化資產處",
+    "govDeptPhone": "04-22290280#501",
+    "govDeptAddress": "臺中市南區復興路三段362號R10",
+    "reservationCode": "府授文資遺字第10902447556號",
+    "amount": 2,
+    "descAge": "清",
+    "descSize": "口緣徑45/爐高25.2、全高38",
+    "descMaterial": "樟木",
+    "reserveStatusDesc": "三足鼎式木質圓爐，器身黑底，紋飾減地陽刻，上紅底金漆，三足金漆，形制與媽祖殿圓形木香爐相同。爐身口緣有鐵製品覆蓋，已變形，器身上緣為一圈螭龍紋，下接回字不斷紋，中間有橫式陰刻「觀音佛祖」，兩側狻猊耳，狻猊耳兩側還有在各自開光，雕刻暗四寶紋飾，器身正後方均有長方形開光，正面紋飾為雙龍搶珠，背面為雙鳳朝纏枝牡丹，正面開光兩側分別銘文「道光戊申年置」（道光28年）、「犁頭店萬和宮」。足下還有黑漆蓮葉形托座，但與香爐尺寸略有不合，鼎足無法契合托座凹槽。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 2,
+    "reserveStatus": "狀況穩定",
+    "documents": [
+        {
+            "fileid": 78883,
+            "name": "70.萬和宮觀音殿木香爐-公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-09/bfe585af-08c8-4abf-8d81-261410517d95/70.萬和宮觀音殿木香爐-公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 24.13804,
+    "latitude": 120.63925,
+    "representImageSource": "臺中市文化資產處",
+    "keepNames": [
+        {
+            "keepNameIdStr": "財團法人臺中市萬和宮",
+            "keepName": "財團法人臺中市萬和宮",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "財團法人臺中市萬和宮",
+            "keepAddressNew": "臺中市南屯區萬和路一段51號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "臺中市",
+            "keepNameDistName": "南屯區",
+            "keepNameAddress": "萬和路一段51號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "南屯區",
+            "id": 86765,
+            "caseId": 18143,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1008
+        }
+    ],
+    "announces": [
+        {
+            "id": 93399,
+            "caseId": 18143,
+            "caseStatus": true,
+            "registerDate": 1603348350773,
+            "officialDocNo": "府授文資遺字第10902447556號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

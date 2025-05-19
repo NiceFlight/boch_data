@@ -1,0 +1,101 @@
+{
+    "id": 3762,
+    "caseId": "20140425000067",
+    "count": 29,
+    "shareCount": 0,
+    "representImage": 6552,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39155/photo/pic041_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39155/photo/pic041.jpg",
+        "name": "pic041"
+    },
+    "caseName": "明陸深書沛水行卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1398355200000,
+    "officialDocNo": "10320044791",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "陸深（1477－1544），字子淵，號儼山，華亭（今上海松江）人。二十九歲進士及第，曾官至禮部侍郎。\r\n此卷以灑金宣紙寫於北上舟行途中，時年僅三十四歲。字體的用筆和分間布白都很講究。字間、行間寬綽，或許與日後董其昌的書風發展有關。嘗自言：「吾與吳興（趙孟頫）同師北海，海內人以吾為取法於趙。是意不安於趙也，究論其風力，實出趙上。」自負可見。\r\n董其昌曾向陸深習字，日後董其昌書法風格的形成和發展應受到他的啟發，陸深傳世書蹟稀少，此類橫長卷作品更為罕見，故本件在明代書史的研究上至為重要。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第3、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局 ",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故書000122",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descSize": "31.3 x 463.4（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "陸深（1477－1544），字子淵，號儼山，華亭（今上海松江）人。二十九歲進士及第，曾官至禮部侍郎，諡文裕。此卷以灑金宣紙寫於北上舟行途中，時年僅三十四歲。字體的用筆和分間布白都很講究。字間、行間寬綽，或許與日後董其昌的書風發展有關。嘗自言：「吾與吳興（趙孟頫）同師北海，海內人以吾為取法於趙。是意不安於趙也，究論其風力，實出趙上。」自負可見。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 150221,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-12/af61881f-45e1-4586-b708-1566904b05a2/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70775,
+            "caseId": 3762,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 75037,
+            "caseId": 3762,
+            "caseStatus": true,
+            "registerDate": 1398355200000,
+            "officialDocNo": "10320044791",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

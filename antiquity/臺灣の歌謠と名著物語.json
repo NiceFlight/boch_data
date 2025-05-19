@@ -1,0 +1,106 @@
+{
+    "id": 4322,
+    "caseId": "20130618000004",
+    "count": 369,
+    "shareCount": 0,
+    "representImage": 7250,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39116/photo/pic002_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39116/photo/pic002.jpg",
+        "name": "pic002"
+    },
+    "caseName": "臺灣の歌謠と名著物語",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-傳統知識、技藝、藝能、儀軌之傳本",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1371484800000,
+    "officialDocNo": "文資局物字第10220067541號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "《臺灣の歌謠と名著物語》收錄二百餘首臺灣早期歌謠、故事、歷史小說等，以假名方式標音，並加上日文翻譯以及註解。作者平澤平七又名平澤丁東，曾任職於臺灣總督府編修課，論者將其定位為第一位收集臺灣歌謠的日人研究者。\r\n本書為臺灣日治時期第一本結集成書的歌謠紀錄，為臺灣文學史上重要作品之一。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第一、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "中西區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "4012台中市南區復興路三段362號",
+    "reservationCode": "NMTL20050030667",
+    "keepNameId": 11,
+    "keepName": "國立臺灣文學館",
+    "keepNameNew": 11,
+    "keepAddressNew": "700台南市中西區中正路1號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 1,
+    "amount": 1,
+    "notes": "",
+    "descAge": "1917年",
+    "descCreator": "平澤平七編",
+    "descSize": "長18.7公分、寬12.7公分、高1.8公分",
+    "descMaterial": "紙本；油墨印刷",
+    "reserveStatusDesc": "文物書背有大面積的缺失、斷裂、磨損且脫落的情形，其與書皮連接處曾使用膠帶黏貼，但已脫落。膠帶載體與漬痕俱在。書皮變色泛黃且有褐斑，明顯蟲蛀的痕跡與排遺，另有缺失、皺摺痕等劣化情形，正面有藍色墨跡沾染的痕跡。書身內頁有大量變色泛黃、褐斑與反褐斑，書首、書口處則有變色泛黃與暗化的情形。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "2005；龍瑛宗捐贈",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定 ",
+    "documents": [
+        {
+            "fileid": 7251,
+            "name": "fe4cb26a-fa73-41dd-a5d6-bb8e300e5092.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44596/file/fe4cb26a-fa73-41dd-a5d6-bb8e300e5092.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立臺灣文學館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立臺灣文學館",
+            "keepName": "國立臺灣文學館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立臺灣文學館",
+            "keepAddressNew": "700台南市中西區中正路1號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺南市",
+            "keepNameDistName": "中西區",
+            "keepNameAddress": "中正路1號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "中西區",
+            "id": 4465,
+            "caseId": 4322,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1601
+        }
+    ],
+    "announces": [
+        {
+            "id": 4465,
+            "caseId": 4322,
+            "caseStatus": true,
+            "registerDate": 1371484800000,
+            "officialDocNo": "文資局物字第10220067541號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

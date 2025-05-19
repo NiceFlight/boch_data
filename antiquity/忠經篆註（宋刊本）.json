@@ -1,0 +1,105 @@
+{
+    "id": 3561,
+    "caseId": "20130813000016",
+    "count": 106,
+    "shareCount": 1,
+    "representImage": 6225,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7280/photo/忠經篆註（宋刊本）_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7280/photo/忠經篆註（宋刊本）.png",
+        "name": "忠經篆註（宋刊本）"
+    },
+    "caseName": "忠經篆註（宋刊本）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1376323200000,
+    "officialDocNo": "文資局物字第 10220091271號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "南宋末期刊本。\r\n東漢馬融撰《忠經》一書，是系統總結忠德的專著經典，其因有《孝經》而無《忠經》，故作此書來補缺，全書共十八章。唐海鵬作此書篆註，分別用十八種字體刊刻各章，可提供各種篆書體研究之參考。為清藏書樓「述古堂」舊有，既是宋刊，且以各體篆文書刻，不可多得。清李兆洛、錢天樹、王宗誠等手書題記。\r\n宋版古籍，罕見稀有，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號05440",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "南宋",
+    "descCreator": "唐海鵬註",
+    "descSize": "半葉6行，版匡16.9x11.8公分",
+    "descMaterial": "紙質刊本",
+    "reserveStatusDesc": "一卷。東漢馬融撰《忠經》一書，是系統總結忠德的專著經典，其因有《孝經》而無《忠經》，故作此書來補缺，全書共十八章。唐海鵬作此書篆註，分別用十八種字體刊刻各章，可提供各種篆書體研究之參考。為清藏書樓「述古堂」舊有，既是宋刊，且以各體篆文書刻，不可多得。清李兆洛、錢天樹、王宗誠等手書題記。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "無虫蛀。經修裱，書況良好。\n",
+    "documents": [
+        {
+            "fileid": 6226,
+            "name": "544fbe0d-7615-4f3b-acbb-232832ea96be.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44155/file/544fbe0d-7615-4f3b-acbb-232832ea96be.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3703,
+            "caseId": 3561,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3703,
+            "caseId": 3561,
+            "caseStatus": true,
+            "registerDate": 1376323200000,
+            "officialDocNo": "文資局物字第 10220091271號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

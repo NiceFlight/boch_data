@@ -1,0 +1,105 @@
+{
+    "id": 3682,
+    "caseId": "20110211000011",
+    "count": 185,
+    "shareCount": 0,
+    "representImage": 6423,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32630/photo/7d2d97a5-8801-4f4d-835f-5be2527bed6d_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32630/photo/7d2d97a5-8801-4f4d-835f-5be2527bed6d.jpg",
+        "name": "7d2d97a5-8801-4f4d-835f-5be2527bed6d"
+    },
+    "caseName": "塡漆蟠螭紋蓋豆",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1297353600000,
+    "officialDocNo": "會授資籌二字第10020006991號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要之時代特色、技術及流派"
+    ],
+    "registerReason": "豆為商周青銅器中盛食器，用於祭祀及饗宴。有蓋，蓋隆起，頂較平，中間有六柱形捉手，器身有子口，附耳外曲，高喇叭形圈足，全器均飾帶狀蟠螭紋，並在地紋處填髹黑漆，使紋飾更為明顯醒目。此器為河南輝縣琉璃閣甲墓出土，屬春秋晚期衛國國君墓遺物，鑄造精美，紋飾精巧，與同墓中所出九鼎之紋飾技法相同，顯然是專為與九鼎配套所鑄造的，填漆技術已為春秋時代青銅器重要的表徵之一，彌足珍貴，具有重要歷史、文化價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第一、三款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "輝字5號（h0000308）",
+    "keepNameId": 7,
+    "keepName": "國立歷史博物館",
+    "keepNameNew": 7,
+    "keepAddressNew": "100台北市中正區南海路49號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "春秋晚期",
+    "descSize": "通高44公分、口徑37公分",
+    "descMaterial": "青銅",
+    "reserveStatusDesc": "大致完整餘有老修補及修護",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "1936年河南輝縣甲墓出土(代管文物)",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定 ",
+    "documents": [
+        {
+            "fileid": 53555,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-12-27/20ef4f3b-4303-4edd-88f2-a75de96b479f/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立歷史博物館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立歷史博物館",
+            "keepName": "國立歷史博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立歷史博物館",
+            "keepAddressNew": "100台北市中正區南海路49號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "徐州路21號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3824,
+            "caseId": 3682,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3824,
+            "caseId": 3682,
+            "caseStatus": true,
+            "registerDate": 1297353600000,
+            "officialDocNo": "會授資籌二字第10020006991號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

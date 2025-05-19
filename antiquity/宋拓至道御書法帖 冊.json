@@ -1,0 +1,98 @@
+{
+    "id": 21789,
+    "caseId": "20230619000002",
+    "count": 137,
+    "shareCount": 0,
+    "representImage": 225824,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-06-19/650cafb7-7cf5-4690-a4f1-6b27214d364f/PK2D000011N000000001PAA (3)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-06-19/650cafb7-7cf5-4690-a4f1-6b27214d364f/PK2D000011N000000001PAA (3).jpg",
+        "name": "PK2D000011N000000001PAA (3)"
+    },
+    "caseName": "宋拓至道御書法帖 冊",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "按《玉海》卷33、《宋書錄．上篇》、《宋會要輯稿．崇儒》載，北宋御書院至道元年（995）曾刻宋太宗書經史故事三十紙。由於記載簡略，無法確認當時所刻便是此帖。此帖未見於任何宋、元著錄，又無其他傳本可供比對，以致難有定論，即使如此，本冊仍是具有孤本性質之罕見材料。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故帖000011N00000000",
+    "amount": 1,
+    "descAge": "宋",
+    "descSize": "27.3x31.2(cm)",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "《宋拓至道御書法帖》，冊頁裝，本幅32開，每開直書9至10行不等，書體多為行、草，間有楷、隸。雖多行、草，但字字獨立，風格接近《閣帖》所刻王羲之（303-361）〈轉佳帖〉等，唯姿態、行氣、章法更加端正。隸書多用方硬、豐厚筆法，風格接近唐玄宗（685-762）《石台孝經》。\n本幅及附頁鈐畢瀧（1733-1797）及乾隆等清內府收藏印。前、後附頁共3開，後附頁2開有跋，分別為王世貞（1526-1590）、畢瀧各題2幅，皆對本件作品有精詳考證，也顯示明清時期藏家之鑑藏水準：王世貞跋此作為宋太宗趙匡義（939-997）晚年書法，並指出其中條錄史事、格言加「敕」之形式，源自唐太宗（599-649）；畢瀧跋則稱此帖用南唐紙、墨製作，然保存不善、多蟲蛀。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "舊傷補。",
+    "documents": [
+        {
+            "fileid": 225821,
+            "name": "公告(彩色_).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-06-19/05c28069-a73b-4cba-8f77-9a8746154891/公告(彩色_).pdf"
+        },
+        {
+            "fileid": 225823,
+            "name": "公告表（宋拓至道御書法帖 冊）.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-06-19/d35be0ca-90ef-498b-8fff-2f20155c9ddc/公告表（宋拓至道御書法帖 冊）.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "國立故宮博物院",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 111528,
+            "caseId": 21789,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 120758,
+            "caseId": 21789,
+            "caseStatus": true,
+            "registerDate": 1687159768068,
+            "officialDocNo": "文授資局物字第11230060731號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,102 @@
+{
+    "id": 20368,
+    "caseId": "20211230000008",
+    "count": 173,
+    "shareCount": 0,
+    "representImage": 149357,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-12-30/1168c763-27e9-4ce3-bf39-9d1c081e1a38/S1601SoKT0210008BCWA_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-12-30/1168c763-27e9-4ce3-bf39-9d1c081e1a38/S1601SoKT0210008BCWA.jpg",
+        "name": "S1601SoKT0210008BCWA"
+    },
+    "caseName": "帶穿玉墜",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "能表現傳統、族群或地方之風俗、記憶及傳說、信仰、技藝或生活文化之重要特色",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "出自澎湖鎖港遺址，屬於臺灣新石器時代中期的牛稠子文化鎖港類型，距今約4000年,年代久遠、形制獨特、工藝精良。材質係源自花蓮豐田之閃玉，為澎湖與臺灣本島之間史前文化交流的重要見證。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第1、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部文化資產局",
+    "govDeptName": "古物遺址組",
+    "govDeptPhone": "04-22177621",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "T0210008",
+    "amount": 1,
+    "descAge": "新石器時代",
+    "descSize": "長 2.0公分、寬 0.5公分、厚 0.2公分",
+    "descMaterial": "閃(軟)玉",
+    "reserveStatusDesc": "似為立人形墜飾,束頸、瘦體、寬底，頂部有一穿孔,略殘。",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "時間：西元1983年   遺址名稱/地點：鎖港遺址。",
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定。",
+    "documents": [
+        {
+            "fileid": 149354,
+            "name": "公告用印後PDF.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-30/6db22fd8-b80a-4fca-9b53-47b8375712a0/公告用印後PDF.pdf"
+        },
+        {
+            "fileid": 149356,
+            "name": "帶穿玉墜重要古物指定公告表.odt",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-30/cae6c2e4-34fa-482d-b761-08f081eac5fd/帶穿玉墜重要古物指定公告表.odt"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 25.04314,
+    "latitude": 121.61594,
+    "representImageSource": "中央研究院歷史語言研究所",
+    "keepNames": [
+        {
+            "keepNameIdStr": "中央研究院歷史語言研究所",
+            "keepName": "中央研究院歷史語言研究所",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "中央研究院歷史語言研究所",
+            "keepAddressNew": "台北市南港區研究院路二段130號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "南港區",
+            "keepNameAddress": "研究院路二段130號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "南港區",
+            "id": 69875,
+            "caseId": 20368,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 111,
+            "address": "研究院路二段128號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 74073,
+            "caseId": 20368,
+            "caseStatus": true,
+            "registerDate": 1639037924207,
+            "officialDocNo": "文授資局物字第11030134991",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

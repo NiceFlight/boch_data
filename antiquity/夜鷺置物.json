@@ -1,0 +1,101 @@
+{
+    "id": 17378,
+    "caseId": "20200219000024",
+    "count": 175,
+    "shareCount": 0,
+    "representImage": 66213,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-02-16/40aea051-392a-4ebb-92cb-028bd124c971/21 (1)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-02-16/40aea051-392a-4ebb-92cb-028bd124c971/21 (1).jpg",
+        "name": "21 (1)"
+    },
+    "caseName": "夜鷺置物",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1581320866818,
+    "officialDocNo": "中華民國109年2月10日北市獻編字第1093001230號",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "1.\t顯示動物學深入日本藝術界，美學極具特色，具日本19世紀後期所提倡藝術之特色。\n2.\t寫實，纖細生動，雕工精緻，禽鳥寫生栩栩如生，具藝術造詣，藝術水準及價值高。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第3、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "10846臺北市萬華區中華路1段174之1號",
+    "reservationCode": "典藏21",
+    "amount": 1,
+    "descAge": "日本明治時期",
+    "descSize": "高21.5公分",
+    "descMaterial": "象牙",
+    "reserveStatusDesc": "作者以生活中常見的鷺鷥為題材雕琢，鷺鷥曲頸挺胸，目視前方，圓眼長喙，背部隆起，雙翅收攏。羽毛根根分明，繁而不亂，藝術家以精湛的技巧，表現出鳥羽細柔、蓬鬆質感。鷺鷥雙腿纖細修長，單腳立地，站於半截樹幹上，另腳向前彎曲，鳥爪微微收攏，姿態活潑而不呆版。樹幹底面陰刻「光廣刀」之款識。\n整體雕工精細，動物的姿態、特徵皆掌握準確，且毫不呆版。細觀之，藝術家以獨特的刀法，將鷺鷥身上一絲絲纖細的毫毛盡皆刻劃，表現出巧妙、純熟的雕刻技藝，令人讚嘆。",
+    "pastHistorySource": 1,
+    "saveEnvironment": 1,
+    "reserveStatus": "保存良好",
+    "documents": [
+        {
+            "fileid": 66211,
+            "name": "臺北市一般古物指定公告表_夜鷺置物.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-02-16/80e41668-6cac-4d27-a10f-49590ee4b0d4/臺北市一般古物指定公告表_夜鷺置物.pdf"
+        },
+        {
+            "fileid": 66212,
+            "name": "臺北市立文獻館公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-02-16/7d0a5818-284c-40d1-a582-8cc4d3c7d5f7/臺北市立文獻館公告.pdf"
+        }
+    ],
+    "keepNames": [
+        {
+            "keepNameIdStr": "郭○穎",
+            "keepName": "郭芝穎",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "郭○穎",
+            "keepAddressNew": "台北市中正區重慶南路二段15號7樓",
+            "saveSpaceOther": "庫房",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "大安區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 7019,
+            "caseId": 17378,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 7019,
+            "caseId": 17378,
+            "caseStatus": true,
+            "registerDate": 1581320866818,
+            "officialDocNo": "中華民國109年2月10日北市獻編字第1093001230號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

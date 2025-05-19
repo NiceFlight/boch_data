@@ -1,0 +1,153 @@
+{
+    "id": 17384,
+    "caseId": "20200217000001",
+    "count": 5405,
+    "shareCount": 37,
+    "representImage": 185532,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/f965edf4-402c-472c-86b7-b3d80219149f/代表圖像_六張犁高氏古厝_20220729_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/f965edf4-402c-472c-86b7-b3d80219149f/代表圖像_六張犁高氏古厝_20220729.jpeg",
+        "name": "代表圖像_六張犁高氏古厝_20220729"
+    },
+    "caseName": "六張犁高氏古厝",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "創建年代約略為清代中葉。\n為三合院格局之傳統住宅，建築構造之特色反映泉州安溪地區之特色，出簷用二跳斗拱，正面無退縮之「凹壽」，屋脊用燕尾式。正面大門、窗、左右山牆及後牆，部分磚構造，其餘大多仍保持「土埆壁」。最具特色為正門門檻，為石造。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 66234,
+            "name": "01_公告-六張犁高氏古厝.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-02-17/de8e75d0-6572-48fe-8091-699f7c9b8566/01_公告-六張犁高氏古厝.pdf"
+        },
+        {
+            "fileid": 66235,
+            "name": "02_歷史建築本體範圍示意圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-02-17/d01bc48e-abbf-4aa8-9ea8-30cc54b5c11f/02_歷史建築本體範圍示意圖.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1.本建築為安溪大平高氏家族移居臺北之見證，三合院格局之傳統住宅，建築構造反映泉州安溪地區之特色，二跳斗拱出簷、正面無退縮之凹壽、燕尾式屋脊，皆外觀可見之特色。\n2.建物現況僅正堂保存較完整，部分磚構造、部分牆面保存清代土埆磚土墼牆之材料。原為正身七開間，護龍五間，正身之明間、次間、稍間以暗廊相通，為防禦設計。\n",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 66236,
+            "name": "02_歷史建築本體範圍示意圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2020-02-17/72f85832-260b-409f-b883-e3c3bb414c1e/02_歷史建築本體範圍示意圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "歷史建築本體為大安區和平東路三段212巷39號、41號建築本體，建物無建號登記，建築物坐落土地為大安區辛亥段三小段392(部分，該筆土地面積300平方公尺)、393(部分，該筆土地面積48平方公尺)、397(部分，該筆土地面積256平方公尺)、398(部分，該筆土地面積645平方公尺)地號等4筆土地。（實際保存面積須以保存範圍實測數據為準）。",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "longitude": 121.5536674,
+    "latitude": 25.0217193,
+    "representImageSource": "臺北市文化局",
+    "landScope": "建築物坐落土地為大安區辛亥段三小段392(部分，該筆土地面積300平方公尺)、393(部分，該筆土地面積48平方公尺)、397(部分，該筆土地面積256平方公尺)、398(部分，該筆土地面積645平方公尺)地號等4筆土地。（實際保存面積須以保存範圍實測數據為準）。",
+    "selfCoverage": "歷史建築本體為大安區和平東路三段212巷39號、41號建築本體，建物無建號登記，建築物坐落土地為大安區辛亥段三小段392(部分，該筆土地面積300平方公尺)、393(部分，該筆土地面積48平方公尺)、397(部分，該筆土地面積256平方公尺)、398(部分，該筆土地面積645平方公尺)地號等4筆土地。（實際保存面積須以保存範圍實測數據為準）。",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 92706,
+            "caseId": 17384,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "和平東路三段212巷39號、41號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "辛亥段三小段",
+            "id": 113374,
+            "caseId": 17384,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 761,
+            "landSerialNo": "392",
+            "landownership": 2,
+            "area": "300",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "辛亥段三小段",
+            "id": 113375,
+            "caseId": 17384,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 761,
+            "landSerialNo": "393",
+            "landownership": 3,
+            "area": "48",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "辛亥段三小段",
+            "id": 113376,
+            "caseId": 17384,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 761,
+            "landSerialNo": "397",
+            "landownership": 2,
+            "area": "48",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "辛亥段三小段",
+            "id": 113377,
+            "caseId": 17384,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 761,
+            "landSerialNo": "398",
+            "landownership": 2,
+            "area": "48",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 100009,
+            "caseId": 17384,
+            "caseStatus": true,
+            "registerDate": 1581609600000,
+            "officialDocNo": "北市文化文資字第10930125021號",
+            "classificationId": 1,
+            "note": "公告"
+        }
+    ],
+    "openVisitType": ""
+}

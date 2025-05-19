@@ -1,0 +1,103 @@
+{
+    "id": 3234,
+    "caseId": "20151016000001",
+    "count": 599,
+    "shareCount": 0,
+    "representImage": 5677,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4143/photo/新社岩棺_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4143/photo/新社岩棺.JPG",
+        "name": "新社岩棺"
+    },
+    "caseName": "新社岩棺",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-其他",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1444924800000,
+    "officialDocNo": "府文資字第1040198240A號",
+    "judgeCriteria": [
+        "具有一定之時代特色、技術及流派",
+        "具有珍貴及稀有性者"
+    ],
+    "registerReason": "「新社岩棺」為台灣東部史前文化所遺留之器物，只出現於花東海岸，從花蓮新社至台東都蘭之間的地區。為台灣保存完整的二具岩棺之一，其年代為距今約3000年至2000年前，乃為麒麟文化的重要遺存，不但表現特有巨石製作技術，見證新石器時代重要工藝，表現地方文化特色與時代性，具珍貴及稀有性 。",
+    "lawsReference": "文化資產保存法第65條、古物分級登錄指定及廢止審查辦法第7條。",
+    "govInstitutionCode": "970",
+    "govInstitutionName": "花蓮縣政府",
+    "belongCityId": 23,
+    "belongCityName": "花蓮縣",
+    "belongDistName": "豐濱鄉",
+    "govInstitution": "花蓮縣文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-8227121",
+    "govDeptAddress": "花蓮縣花蓮市文復路6號",
+    "reservationCode": " ",
+    "amount": 1,
+    "notes": "",
+    "descAge": " ",
+    "descSize": "岩棺：長219cm，寬83cm，高94cm。 單石：長84cm，寬29cm，高29cm。",
+    "descMaterial": "凝灰岩，帶凹槽之長方體，體部兩邊各帶有三個四方形突起，內部凹槽空間亦成長方體，於底部中央帶有一穿孔；另外，在頂部凹槽開口之四周有一淺凹區域，似乎可作為置放與固定蓋板之功能。",
+    "reserveStatusDesc": "帶凹槽之長方體，體部兩邊各帶有三個四方形突起，內部凹槽空間亦成長方體，於底部中央帶有一穿孔；另外，在頂部凹槽開口之四周有一淺凹區域，似乎可作為置放與固定蓋板之功 能。",
+    "pastHistorySource": 5,
+    "pastHistorySourceNotes": "從花蓮新社至台東都蘭之間的地區。",
+    "saveEnvironment": 3,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 152978,
+            "name": "新社岩棺登錄為一般古物公告1041016.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-02-21/7e5a7fea-6cc8-40d3-ad04-c8ddb13b06ae/新社岩棺登錄為一般古物公告1041016.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 121.53607,
+    "latitude": 23.6507,
+    "representImageSource": "花蓮縣文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "噶瑪蘭文化展示中心",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "花蓮縣豐濱鄉 豐濱鄉公所/花蓮縣豐濱鄉光豐路32號，23.650700, 121.536070。",
+            "saveSpaceOther": "977 花蓮縣豐濱鄉新社村，23.650700, 121.536070。",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "花蓮縣",
+            "distName": "豐濱鄉",
+            "id": 79014,
+            "caseId": 3234,
+            "caseStatus": true,
+            "cityId": 23,
+            "distId": 2308,
+            "address": "新社村"
+        }
+    ],
+    "announces": [
+        {
+            "id": 84800,
+            "caseId": 3234,
+            "caseStatus": true,
+            "registerDate": 1444924800000,
+            "officialDocNo": "府文資字第1040198240A號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,106 @@
+{
+    "id": 16958,
+    "caseId": "20190730000024",
+    "count": 123,
+    "shareCount": 0,
+    "representImage": 60231,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-07-24/910a4722-7629-4871-b990-17b693977008/官窯青瓷葵口洗(故瓷013967)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-07-24/910a4722-7629-4871-b990-17b693977008/官窯青瓷葵口洗(故瓷013967).jpg",
+        "name": "官窯青瓷葵口洗(故瓷013967)"
+    },
+    "caseName": "官窯青瓷葵口洗（故瓷013967）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1564133685412,
+    "officialDocNo": "文授資局物字第10830078621號",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "數量特別稀少或具完整性保存意義者",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此器通體施青瓷釉，底心鐫一「古」字，外繞乾隆皇帝〈詠官窯葵花小盂〉詩，詩末署「乾隆丙申御題」紀年銘（1776），並落「古香」一枚鈐印。\n御製詩中出現的「設曰葵花喻忠赤」，顯示出乾隆皇帝鑑賞之際，將葵花比喻成忠誠。透過此器的詩文可推知乾隆皇帝對陶瓷鑑賞觀，益顯珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故瓷013967",
+    "amount": 1,
+    "descAge": "南宋",
+    "descSize": "高 3.4 公分、口徑 12 公分",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "六瓣葵花口，深壁，平底，淺圈足。通體施青瓷釉，釉色灰青，釉面開深色紋片，施釉至足際，口沿見有輕微拭釉痕，釉薄處現出灰色邊。足緣無釉，露胎出燒後胎色。底周留有六枚圓點狀支痕，露出黑灰色胎。底心鐫一「古」字，外繞乾隆皇帝〈詠官窯葵花小盂〉詩，詩末署「乾隆丙申御題」紀年銘（乾隆四十一年：1776），並落「古香」一枚鈐印。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "口緣多處舊傷缺。",
+    "documents": [
+        {
+            "fileid": 145239,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-17/bed58779-bfb0-41b2-b90a-6431c0206c8a/公告.pdf"
+        },
+        {
+            "fileid": 145240,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-17/fb09f8ba-6c1e-4768-890b-bc339a4f8d74/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71950,
+            "caseId": 16958,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 76476,
+            "caseId": 16958,
+            "caseStatus": true,
+            "registerDate": 1564133685412,
+            "officialDocNo": "文授資局物字第10830078621號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

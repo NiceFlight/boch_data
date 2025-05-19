@@ -1,0 +1,145 @@
+{
+    "id": 908,
+    "caseId": "20030505000001",
+    "count": 4070,
+    "shareCount": 6,
+    "representImage": 169332,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/db62b303-3274-43a0-8606-598f3bcd28d0/代表圖像_第一外科診所_20220613_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/db62b303-3274-43a0-8606-598f3bcd28d0/代表圖像_第一外科診所_20220613.jpeg",
+        "name": "代表圖像_第一外科診所_20220613"
+    },
+    "caseName": "第一外科診所",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "菅野外科醫院建於昭和九年，為木造日本瓦二樓建築，現開封街第一外科為磚鐵筋混凝土三樓建築，當為改建之建築，改建時間最遲為民國三十九年。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "其他",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 169670,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-06-26/e12177c7-bed6-42a7-aefb-e765e0801116/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "具有保存價值",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 116852,
+            "name": "3cbf4f04-9a7f-4cdb-976b-3e2d24b6d9d6.gif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/9417db37-1299-48df-9a6c-bf5b5692fb26/3cbf4f04-9a7f-4cdb-976b-3e2d24b6d9d6.gif"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市中正區城中段一小段114、115、115-1地號",
+    "buildingFeatures": "建築特色為診所配置相當完整，候診、配藥、看診室及病房齊全，建材之面磚、水平帶、圓弧型之造型俱為當時之時代表徵，以空間來說，外為診所，內為住家，為當時私人診所之樣式。",
+    "inHouseFeatures": "建材之面磚、水平帶、圓弧形之造型具為當時之時代表徵。",
+    "buildingUsage": "方錫玉醫師為台灣第一位骨髓移植的醫師，第一診所為其開業的私人診所，深具歷史意義，值得保存。",
+    "buildingActualState": "目前已將建築立面元素與新大樓建築融合設計使用。",
+    "buildingKeyMaintainItem": "磁磚清洗、窗戶更新",
+    "bulkTransfer": 0,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenVisit": true,
+    "openUpTime": "",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.5125885,
+    "latitude": 25.0459143,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市中正區城中段一小段114、115、115-1地號",
+    "selfCoverage": "保存範圍面積142平方公尺；總樓地板面積806.31平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 83173,
+            "caseId": 908,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "開封街1段32號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "城中段一小段",
+            "id": 92549,
+            "caseId": 908,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 146,
+            "landSerialNo": "114",
+            "landownership": 2,
+            "coverageId": 2,
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "城中段一小段",
+            "id": 92550,
+            "caseId": 908,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 146,
+            "landSerialNo": "115",
+            "landownership": 2,
+            "coverageId": 2,
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "城中段一小段",
+            "id": 92551,
+            "caseId": 908,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 146,
+            "landSerialNo": "115-1",
+            "landownership": 2,
+            "coverageId": 2,
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 89378,
+            "caseId": 908,
+            "caseStatus": true,
+            "registerDate": 1052064000000,
+            "officialDocNo": "府文化二字第09200508000號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

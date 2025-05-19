@@ -1,0 +1,106 @@
+{
+    "id": 16938,
+    "caseId": "20190730000004",
+    "count": 252,
+    "shareCount": 1,
+    "representImage": 153878,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-03-03/061996e1-6dc2-4c56-9674-696466e79bb6/K1B002638N000000000PAB (1)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-03-03/061996e1-6dc2-4c56-9674-696466e79bb6/K1B002638N000000000PAB (1).jpg",
+        "name": "K1B002638N000000000PAB (1)"
+    },
+    "caseName": "綠釉陶鍾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1564070400000,
+    "officialDocNo": "文授資局物字第10830078621號",
+    "judgeCriteria": [
+        "重要人物或重大歷史事件",
+        "數量特別稀少或具完整性保存意義者",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此器盤口、束頸、鼓腹、假圈足。腹部鐫刻乾隆皇帝詠〈陶尊〉御製詩，詩末署「乾隆己卯孟秋月吉御製」紀年銘（1759），並落「乾」、「隆」兩枚鈐印。\n造形仿自青銅器，全器罩施一層綠色鉛釉。整體風格近似考古所見東漢墓葬陪葬品，而可據以追溯出可能的燒製時間。\n乾隆皇帝對此器情有獨鍾，根據其留下御製詩，他一方面將之視為是與商周青銅器等同，另一方面也因為全器散發出來的樸實質感，又讓他取之與繭形壺並列，看成是能夠和舜陶河濱典故連結的例證。此器的御製詩流露出乾隆皇帝對古陶瓷重視及其鑑賞觀，益顯珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第2、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故瓷002638",
+    "amount": 1,
+    "descAge": "東漢",
+    "descSize": "高38.7公分、口徑27公分、底徑23.5公分",
+    "descMaterial": "陶",
+    "reserveStatusDesc": "造型仿自青銅器，盤口、束頸、鼓腹、假圈足。全器罩施一層綠色鉛釉，釉層不勻，局部有剝落現象；且因滲入水分，故釉表局部泛現七彩銀斑。口外、頸肩相接處及腹上各飾弦紋，腹部兩側貼鋪首銜環。腹部鐫刻乾隆皇帝詠〈陶尊〉詩，詩末署「乾隆己卯孟秋月吉御製」紀年銘（乾隆二十四年：1759），並落「乾」、「隆」兩枚鈐印。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "器身局部有剝落現象。",
+    "documents": [
+        {
+            "fileid": 145809,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-22/cc9caadd-a08d-443e-98ff-2c63f0cd1d03/公告.pdf"
+        },
+        {
+            "fileid": 145810,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-22/53f6d7dc-84c2-40bd-8cdc-ac5413ef5500/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 72942,
+            "caseId": 16938,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 77836,
+            "caseId": 16938,
+            "caseStatus": true,
+            "registerDate": 1564070400000,
+            "officialDocNo": "文授資局物字第10830078621號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

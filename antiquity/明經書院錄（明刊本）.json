@@ -1,0 +1,105 @@
+{
+    "id": 3387,
+    "caseId": "20131219000011",
+    "count": 44,
+    "shareCount": 0,
+    "representImage": 5898,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7160/photo/明經書院錄（明刊本）_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7160/photo/明經書院錄（明刊本）.jpg",
+        "name": "明經書院錄（明刊本）"
+    },
+    "caseName": "明經書院錄（明刊本）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1387382400000,
+    "officialDocNo": "文資局物字第 10220148851號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "明正德十年(1515)刊嘉靖隆慶間(1522-1572)增補本。\n明經書院為元儒胡炳文始創，燬於元季。至明中葉，其八世孫胡濬，命其門生程美等人，采輯有關於書院顛末者，錄成一帙，用資後學考據，經營五十餘年。此書流傳甚少，未聞他處藏有同版。\n此書流傳較少，明代罕見之版本，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號03866",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 3,
+    "notes": "",
+    "descAge": "明正德10年(1515)刊嘉隆間(1522-1572)增補本",
+    "descCreator": "明程美等撰",
+    "descSize": "半葉11行，版匡18.5x12.9公分",
+    "descMaterial": "紙質刊本",
+    "reserveStatusDesc": "六卷。明經書院為元儒胡炳文始創，燬於元季。至明中葉，其八世孫胡濬，命其門生程美等人，采輯有關於書院顛末者，錄成一帙，用資後學考據，經營五十餘年。此書流傳甚少，未聞他處藏有同版。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "無虫蛀、未修裱，書況良好。",
+    "documents": [
+        {
+            "fileid": 5899,
+            "name": "b0c2dcff-b9d2-4831-9feb-c4cfad41cbe8.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44002/file/b0c2dcff-b9d2-4831-9feb-c4cfad41cbe8.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3529,
+            "caseId": 3387,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3529,
+            "caseId": 3387,
+            "caseStatus": true,
+            "registerDate": 1387382400000,
+            "officialDocNo": "文資局物字第 10220148851號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

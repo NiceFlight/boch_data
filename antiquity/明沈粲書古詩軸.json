@@ -1,0 +1,107 @@
+{
+    "id": 3950,
+    "caseId": "20120326000005",
+    "count": 208,
+    "shareCount": 0,
+    "representImage": 6762,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32936/photo/6fb79f3c-0047-4896-8e0c-578b4db26268_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32936/photo/6fb79f3c-0047-4896-8e0c-578b4db26268.JPG",
+        "name": "6fb79f3c-0047-4896-8e0c-578b4db26268"
+    },
+    "caseName": "明沈粲書古詩軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "明人行草書多從二王得法，而後融合章草、狂草加以變化。此作可見一時風尚。沈粲為明初重要行草書家，此作融會狂草書的體勢，瀟灑自如，為不可多得之作。具有重要之時代與流派特色、藝術價值。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第三條第一項第三、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故書000012",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descCreator": "沈粲",
+    "descSize": "83.4 x 33.8（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "沈粲（1379-1453），字民望，華亭（今上海）人。因書法精工，薦授中書舍人。這件立軸書錄元末明初詩人高啟「擬古詩」，具見行草書流利精熟，足與乃兄沈度合稱「二沈」。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 151232,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-24/6549a1dc-cfe4-459b-8ec1-95a1521cbe27/公告.pdf"
+        },
+        {
+            "fileid": 151233,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-24/e6f30d0b-d4f1-4b88-8a69-10e16b8482f5/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71361,
+            "caseId": 3950,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 75776,
+            "caseId": 3950,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

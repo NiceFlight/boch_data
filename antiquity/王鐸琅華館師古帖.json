@@ -1,0 +1,101 @@
+{
+    "id": 3931,
+    "caseId": "20130128000012",
+    "count": 268,
+    "shareCount": 0,
+    "representImage": 6739,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32917/photo/3d62e129-47fb-4656-b804-90daf8ff1574_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32917/photo/3d62e129-47fb-4656-b804-90daf8ff1574.JPG",
+        "name": "3d62e129-47fb-4656-b804-90daf8ff1574"
+    },
+    "caseName": "王鐸琅華館師古帖",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1359302400000,
+    "officialDocNo": "文授字第10230006433號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就"
+    ],
+    "registerReason": "本件為清代著名書家王鐸臨寫晉人古帖之作，但通篇運筆變化豐富，墨色濃黑飽滿，肆意酣暢，深具個人書風特色，為王鐸傳世的代表之作。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第3、4款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局 ",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "贈書000371",
+    "amount": 1,
+    "notes": "",
+    "descAge": "清",
+    "descSize": "23.7 x 291.1（公分）",
+    "descMaterial": "綾本",
+    "reserveStatusDesc": "王鐸（西元一五九二－一六五二年），字覺斯、覺之，號十樵、癡菴、癡僊道人。河南孟津人。明天啟二年（一六二二）進士，入清官至大學士，謚文安。博學好古，工詩文，長繪畫，善書法，行草宗二王，正書出鍾，亦能自出胸臆，名重當代，書法與董其昌齊名。\r\n本幅臨諸晉人法帖於綾本之上，王鐸雖自謂病後疏闊，但通篇運筆變化豐富，墨色濃黑飽滿，肆意酣暢。",
+    "pastHistorySource": 1,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 。包首：磨損，霉傷。本幅：霉傷，折裂。",
+    "documents": [
+        {
+            "fileid": 150712,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-19/a888247b-2a54-4a66-9b74-5c6ecd7ff164/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71126,
+            "caseId": 3931,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 75469,
+            "caseId": 3931,
+            "caseStatus": true,
+            "registerDate": 1359302400000,
+            "officialDocNo": "文授字第10230006433號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

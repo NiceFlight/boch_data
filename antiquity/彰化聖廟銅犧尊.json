@@ -1,0 +1,103 @@
+{
+    "id": 3267,
+    "caseId": "20151225000004",
+    "count": 498,
+    "shareCount": 0,
+    "representImage": 211171,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-04-11/e282b178-2aef-4859-80d4-d620a244d43b/彰化聖廟銅犧尊_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-04-11/e282b178-2aef-4859-80d4-d620a244d43b/彰化聖廟銅犧尊.jpg",
+        "name": "彰化聖廟銅犧尊"
+    },
+    "caseName": "彰化聖廟銅犧尊",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1450972800000,
+    "officialDocNo": "府授文資字第1040431125B號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者"
+    ],
+    "registerReason": "1.歷史意義或能表現傳統、族群或地方文化特色：於彰化孔子廟釋奠禮中扮演了非常吃重之角色。\n2.具有一定之時代特色、技術及流派：以失蠟法製作，外觀上為黃銅係明清銅器常見作法。\n3.具有藝術造詣或科學成就：強調身體體積感與肌肉感，設計具有巧思。\n4.具有珍貴及稀有性者：和其它相似物件作法工藝手法不同。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第1、3、4及5款",
+    "govInstitutionCode": "500",
+    "govInstitutionName": "彰化縣政府",
+    "belongCityId": 11,
+    "belongCityName": "彰化縣",
+    "belongDistName": "彰化市",
+    "govInstitution": "彰化縣政府",
+    "govDeptName": "彰化縣文化局",
+    "govDeptPhone": "04-7510709",
+    "govDeptAddress": "彰化縣彰化市平和七街66號",
+    "reservationCode": "府授文資字第1040431125B號",
+    "amount": 1,
+    "notes": "",
+    "descAge": "無法判斷",
+    "descSize": "高 20.8、長 21.5、深 18.5、口徑 11 (cm)，重 7680 g",
+    "descMaterial": "銅製",
+    "reserveStatusDesc": "銅犧尊與象尊為孔廟釋奠禮上必要之祭器。犧尊外形為立體之水牛回首狀，其下四蹄足，尾巴則捲收於右側臀部，其正上方有一圓孔，為注入酒之用。容器內有溢銅痕跡，因氧化而呈現銅綠色。由於外觀未見任何範線痕跡，故應是失蠟法製作。\n\n本廟所見的犧尊、象尊，是整個孔廟釋奠禮中，扮演了非常吃重的角色。在康熙年間《文廟禮樂考》、乾隆43年（西元1778年）蔣元樞著之《重修臺郡各建築圖說》、以及臺南孔子廟，皆見有象尊與犧尊，而且三者的造形相似。而反觀彰化孔廟二件銅尊，其回首造形甚為罕見，與臺南孔廟的象尊與牛尊非常不同。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 211170,
+            "name": "彰化聖廟銅犧尊1041225.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-04-11/45e33761-072b-4ce2-bc40-6e956f16d021/彰化聖廟銅犧尊1041225.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 24.078856473340274,
+    "latitude": 120.54575195512545,
+    "representImageSource": "彰化縣文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "彰化孔子廟",
+            "keepName": "彰化孔子廟",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "彰化孔子廟",
+            "keepAddressNew": "彰化縣彰化市孔門路30號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "彰化縣",
+            "keepNameDistName": "彰化市",
+            "keepNameAddress": "孔門路30號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "彰化縣",
+            "distName": "彰化市",
+            "id": 113211,
+            "caseId": 3267,
+            "caseStatus": true,
+            "cityId": 11,
+            "distId": 1101,
+            "address": "孔門路30號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 123038,
+            "caseId": 3267,
+            "caseStatus": true,
+            "registerDate": 1450972800000,
+            "officialDocNo": "府授文資字第1040431125B號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

@@ -1,0 +1,101 @@
+{
+    "id": 16359,
+    "caseId": "20181113000010",
+    "count": 206,
+    "shareCount": 0,
+    "representImage": 51316,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-11-13/e76961d5-521c-4eaf-9da8-700d452fb113/10-014195_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-11-13/e76961d5-521c-4eaf-9da8-700d452fb113/10-014195.jpg",
+        "name": "10-014195"
+    },
+    "caseName": "清雍正 琺瑯彩瓷黃地蓮花鍾（一對）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1522425600000,
+    "officialDocNo": "文授資局物字第10730035181號",
+    "judgeCriteria": [
+        "能表現傳統、族群或地方之風俗、記憶及傳說、信仰、技藝或生活文化之重要特色",
+        "具有重要藝術造詣或科學成就",
+        "數量特別稀少或具完整性保存意義者"
+    ],
+    "registerReason": "生產於宮中造辦處的琺瑯彩瓷，是盛清代表工藝之一。製作精美，傳世數量稀少，紋飾、題材縱有成對，亦無一相同，乾隆朝時便曾降旨分批珍藏。\n此二器外壁以黃釉為底，一面琺瑯彩繪蓮花一叢，莖葉花瓣勾描細膩；另一面書「長日香風細細吹」，並有「佳麗」「清香」「君子」三方細朱文印。底有青花「雍正年製」楷款加方框。\n雍正朝是琺瑯彩瓷發展的關鍵階段，此器品質精美，繪製細膩，用色可對照清〈郎世寧、張若靄書畫合璧竹骨摺扇〉，反映當時流通異質材間的宮廷品味。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第1、4、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故瓷014194、故瓷014195",
+    "amount": 2,
+    "descAge": "清　雍正",
+    "descSize": "高4.5公分，口徑7.3公分，足徑3.0公分 ",
+    "descMaterial": "瓷胎畫琺瑯",
+    "reserveStatusDesc": "此器侈口，深弧壁，圈足。器內與圈足內皆施白釉，且在圈足與口緣處亦顯白，外壁以黃釉為底，一面琺瑯彩繪蓮花一叢，莖葉花瓣勾描細膩，一面書「長日香風細細吹」，並有「佳麗」「清香」「君子」三方細朱文印，底有青花「雍正年製」楷款加方框。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況良好，唯口緣有舊裂璺。",
+    "documents": [
+        {
+            "fileid": 147459,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-14/d7bd2163-f5f6-4cf0-971c-e8194c44b84c/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "器物處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 80999,
+            "caseId": 16359,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 87010,
+            "caseId": 16359,
+            "caseStatus": true,
+            "registerDate": 1522425600000,
+            "officialDocNo": "文授資局物字第10730035181號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

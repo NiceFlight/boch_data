@@ -1,0 +1,108 @@
+{
+    "id": 2909,
+    "caseId": "20130918000001",
+    "count": 1022,
+    "shareCount": 1,
+    "representImage": 5281,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7243/photo/清光緒臺協三營鐵炮_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7243/photo/清光緒臺協三營鐵炮.JPG",
+        "name": "清光緒臺協三營鐵炮"
+    },
+    "caseName": "清光緒臺協三營鐵炮",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-軍事設備",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1379433600000,
+    "officialDocNo": "府授文資貳字第1020100040B",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1、炮身銘文清楚記載實。2、光緒三年鑄造流傳至今，彌足珍貴，為稀有古物。3、鑄鐵前膛炮之製炮技術，見證137年前之科技成就。4、來源清楚，年代及製作單位、製作者均於炮身清晰可見。",
+    "lawsReference": "《古物分級登錄指定及廢止審查辦法》第2條第1項第1、2、3、5、6款之登錄基準。",
+    "govInstitutionCode": "200",
+    "govInstitutionName": "基隆市政府",
+    "belongCityId": 2,
+    "belongCityName": "基隆市",
+    "belongDistName": "中正區",
+    "govInstitution": "基隆市文化觀光局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)24224170",
+    "govDeptAddress": "基隆市中正區信一路181號",
+    "reservationCode": "其他",
+    "amount": 1,
+    "notes": "",
+    "descAge": "清光緒",
+    "descSize": "其他",
+    "descMaterial": "鑄鐵製成",
+    "reserveStatusDesc": "1984年一家設籍在台灣基隆市的民間打撈公司挖泥船，在台灣澎湖馬公海域打撈出水撈起這古砲，砲體上刻有「光緒二年奉憲鑄造台協三營大砲重捌佰觔」等字樣，業者以基隆扶輪社名義捐贈給基隆市政府，安置在和平島公園並立碑紀念。2013年9月18日由基隆市文物古物審查委員會為一般古物，加以保存。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "1984年，基隆扶輪社",
+    "saveEnvironment": 3,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 175165,
+            "name": "1020918-登錄公告-清光緒臺協三營鐵炮.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-22/cf58f5f7-5082-47c6-bb78-9cd86608d5e6/1020918-登錄公告-清光緒臺協三營鐵炮.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.70011647474463,
+    "latitude": 25.08948125651911,
+    "representImageSource": "基隆市文化觀光局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "基隆市文化觀光局",
+            "keepName": "基隆市文化觀光局",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "基隆市文化局文化資產建材倉庫",
+            "keepAddressNew": " 基隆市七堵區工建路7號 九號倉庫",
+            "saveSpaceOther": "倉庫",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "基隆市",
+            "keepNameDistName": "七堵區",
+            "keepNameAddress": "工建路7號9號倉庫"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "基隆市",
+            "distName": "七堵區",
+            "id": 132566,
+            "caseId": 2909,
+            "caseStatus": true,
+            "cityId": 2,
+            "distId": 207,
+            "address": "六堵倉庫"
+        }
+    ],
+    "announces": [
+        {
+            "id": 144542,
+            "caseId": 2909,
+            "caseStatus": true,
+            "registerDate": 1379433600000,
+            "officialDocNo": "府授文資貳字第1020100040B號",
+            "classificationId": 1,
+            "note": "公告登錄「清光緒臺協三營鐵炮」為本市古物"
+        }
+    ],
+    "isPublic": false
+}

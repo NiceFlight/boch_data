@@ -1,0 +1,101 @@
+{
+    "id": 2602,
+    "caseId": "20140116000001",
+    "count": 508,
+    "shareCount": 2,
+    "representImage": 4919,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/traditional_art/2819/photo/bffb5c33-0059-4827-a238-b629e3fc7b19_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/traditional_art/2819/photo/bffb5c33-0059-4827-a238-b629e3fc7b19.JPG",
+        "name": "bffb5c33-0059-4827-a238-b629e3fc7b19"
+    },
+    "caseName": "刺繡",
+    "classifyCode": "4.2",
+    "classifyName": "傳統工藝",
+    "assetsTypeNames": "刺繡",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "4.2.1",
+    "assetsClassifyName": "傳統工藝",
+    "registerDate": 1389850877000,
+    "officialDocNo": "府授文資二字第1030006408號",
+    "documents": [
+        {
+            "fileid": 4920,
+            "name": "1348943b-10d5-4cc3-8bab-db3517ecd1a7.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/traditional_art/44818/file/1348943b-10d5-4cc3-8bab-db3517ecd1a7.pdf"
+        },
+        {
+            "fileid": 53881,
+            "name": "傳統工藝公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-01-08/663715bd-647b-4648-8f10-7fbaa9231c17/傳統工藝公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "藝術性:具有藝術價值者",
+        "特殊性:構成傳統藝術之特殊藝能表現,其技法優秀者",
+        "地方性:傳統藝術領域有價值與地位,並具有地方色彩或流派特色顯著者"
+    ],
+    "registerReason": "1.劉千韶女士從事刺繡工作、創作時間長達40年之久，精通各種刺繡技法，並致力於傳承，作品傳統與現代兼容並蓄，至為難得。\r\n2.保存者經本市傳統藝術審議委員會議審議，評定其作品展現精緻刺繡技藝，技法紮實，設色典雅，構圖及繡線運用皆具創意，具有藝術價值。\r\n3.作品刺繡技法明確顯現刺繡工序，熟練運用傳統與日本繡技法，於主題上創新，運用不同媒材表現於繡面，屬技法優秀表現特殊藝能，富含特殊性。\r\n4.於編織領域積極授徒，弟子眾多，作品獲獎多次，於傳統藝術刺繡領域屬佼佼者，具領先地位，形成具地方色彩之流派。",
+    "lawsReference": "文化資產保存法第59條第1項及傳統藝術民俗及有關文物登錄指定及廢止審查辦法第2條第1項第1款第1、2、3目。",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "govInstitution": "臺中市政府",
+    "govDeptName": "臺中市文化資產處",
+    "govDeptPhone": "0422290280",
+    "govDeptAddress": "臺中市西區市府路41巷19號",
+    "belongAddress": "太平區",
+    "longitude": 120.7170701,
+    "latitude": 24.1240719,
+    "historyDevelopment": "刺繡是傳統文化中重要項目，也是民間工藝別具特色之ㄧ環，且其發展歷史悠久，與常民生活關係密切。\n",
+    "preservers": [
+        {
+            "id": 21084,
+            "type": "個人",
+            "caseName": "劉千韶",
+            "cityName": "臺中市",
+            "distName": "太平區",
+            "caseArtistEntities": [],
+            "representImage": 186817,
+            "registrationDate": 1389801600000,
+            "patentNo": "傳統工藝第007號",
+            "judgeCriteria": [
+                "熟知並能正確體現該登錄項目之知識、技藝與文化表現形式",
+                "具該登錄項目之傳習能力與意願",
+                "在文化脈絡下為適當者"
+            ],
+            "registerReason": "熟知並能正確體現該登錄項目之知識、技藝與文化表現形式具刺繡之傳習能力與意願並且在文化脈絡下為適當者。",
+            "lawsReference": "<<傳統工藝登錄認定及廢止審查辦法>>第4條第1、2、3款",
+            "isOpenDownload": true,
+            "representImageSource": "臺中市文化資產處",
+            "contactorIsOpen": false,
+            "caseAliasName": ""
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "臺中市文化資產處",
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "id": 93605,
+            "caseId": 2602,
+            "caseStatus": true,
+            "cityId": 10,
+            "address": "太平區"
+        }
+    ],
+    "announces": [
+        {
+            "id": 101013,
+            "caseId": 2602,
+            "caseStatus": true,
+            "registerDate": 1389850877000,
+            "officialDocNo": "府授文資二字第1030006408號",
+            "classificationId": 1
+        }
+    ]
+}

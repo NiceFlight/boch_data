@@ -1,0 +1,86 @@
+{
+    "id": 4333,
+    "caseId": "20130121000002",
+    "count": 622,
+    "shareCount": 1,
+    "representImage": 7270,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39142/photo/pic004_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/39142/photo/pic004.png",
+        "name": "pic004"
+    },
+    "caseName": "「臺灣鳳山二縣定界碑」",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1358697600000,
+    "officialDocNo": "文資局物字第10220005481號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事重要淵源",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本件碑係清乾隆二十八年（1763）鳳山縣知縣王瑛曾立碑告示，碑文記有：「鳳山縣正堂王  為提案歸割事乾隆二十八年七月二十九日詳蒙本府憲正堂余  轉蒙\r\n本道憲覺羅四  檄飭 會勘兩邑疆界南北以二層行溪為界東西以新開港定界溪之南港以東草仔藔蟧 塭等處田地糧課均歸鳳邑管轄立石定界永遠遵行毋得紛爭滋訟須至碑者」。\r\n此碑明定鳳山縣與臺灣縣的地界，南北以二層行溪為界，東西以新開港定界，並詳田地糧課的管轄權。為臺灣現存唯一的地理行政區界碑，具有重要地方特色、歷史意義與價值。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第1、2、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 18,
+    "belongCityName": "高雄市",
+    "belongDistName": "鹽埕區",
+    "reservationCode": "",
+    "keepNameId": 17,
+    "keepName": "高雄市立歷史博物館",
+    "keepNameNew": 17,
+    "keepAddressNew": "高雄市鹽埕區80347高雄市鹽埕區中正四路272號",
+    "amount": 1,
+    "notes": "",
+    "reserveStatusDesc": "",
+    "reserveStatus": "完整良好 ",
+    "documents": [],
+    "isOpenDownload": false,
+    "representImageSource": "",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "高雄市立歷史博物館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "高雄市鹽埕區80347高雄市鹽埕區中正四路272號",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "高雄市",
+            "distName": "鹽埕區",
+            "id": 4476,
+            "caseId": 4333,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1804
+        }
+    ],
+    "announces": [
+        {
+            "id": 4476,
+            "caseId": 4333,
+            "caseStatus": true,
+            "registerDate": 1358697600000,
+            "officialDocNo": "文資局物字第10220005481號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

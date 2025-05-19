@@ -1,0 +1,105 @@
+{
+    "id": 3439,
+    "caseId": "20131219000063",
+    "count": 47,
+    "shareCount": 0,
+    "representImage": 6001,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7208/photo/古今韻會舉要(元刊本)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7208/photo/古今韻會舉要(元刊本).jpg",
+        "name": "古今韻會舉要(元刊本)"
+    },
+    "caseName": "古今韻會舉要(元刊本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1387382400000,
+    "officialDocNo": "文資局物字第 10220148851號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "元刊本。\r\n編者黃公紹(生卒年未詳)，字直翁，宋元之際昭武人，南宋咸淳元年(1265)進士，入元不仕。熊忠（生卒年未詳），字子中，昭武人。\r\n此書熊忠序後有一牌記，其中稱「古今字畫、音義瞭然在目，誠千百年間未睹之秘也」，廣告意味甚濃；又提及「竊恐嗜利之徒改換名目，節略翻刊，纖毫爭差，致誤學者，已經所屬陳告乞行禁約外，收書君子，伏幸藻鑑」，則是版權宣示。從而可見古代圖書出版事業發展之一斑。\r\n元版古籍，罕見稀有，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號01109",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 16,
+    "notes": "",
+    "descAge": "元代",
+    "descCreator": "元黃公紹編、熊忠舉要",
+    "descSize": "半葉8行，版匡18.9x12.7公分",
+    "descMaterial": "紙質刊本",
+    "reserveStatusDesc": "三十卷。\n此書熊忠序後有一牌記，其中稱「古今字畫、音義瞭然在目，誠千百年間未睹之秘也」，廣告意味甚濃；又提及「竊恐嗜利之徒改換名目，節略翻刊，纖毫爭差，致誤學者，已經所屬陳告乞行禁約外，收書君子，伏幸藻鑑」，則是版權宣示。從而可見古代圖書出版事業發展之一斑。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有虫蛀。經修裱，保存狀況良好。\n",
+    "documents": [
+        {
+            "fileid": 6002,
+            "name": "820d16fc-cc1f-4add-b4e9-686bf7a9a761.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44053/file/820d16fc-cc1f-4add-b4e9-686bf7a9a761.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3581,
+            "caseId": 3439,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3581,
+            "caseId": 3439,
+            "caseStatus": true,
+            "registerDate": 1387382400000,
+            "officialDocNo": "文資局物字第 10220148851號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

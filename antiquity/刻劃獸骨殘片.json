@@ -1,0 +1,106 @@
+{
+    "id": 4221,
+    "caseId": "20080402000012",
+    "count": 216,
+    "shareCount": 0,
+    "representImage": 7141,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36638/photo/68f665de-5410-4059-91c6-27eb5f14ee1b_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36638/photo/68f665de-5410-4059-91c6-27eb5f14ee1b.jpg",
+        "name": "68f665de-5410-4059-91c6-27eb5f14ee1b"
+    },
+    "caseName": "刻劃獸骨殘片",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-古代文字、各族群語言紀錄",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1207065600000,
+    "officialDocNo": "文資籌二字第0972102147號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "「刻劃獸骨殘片」為1929年殷墟第3次發掘所得。這件是刻劃獸骨中的精品，從圖的右至左，刻有獼猴、馬在火上、虎、雉等物之形。雖是習刻，但說明了圖畫與文字的關係。本件「刻劃獸骨殘片」具有重要歷史、文化、藝術、科學價值，符合「古物分級登錄指定及廢止審查辦法」第三條第一、六款，指定為重要古物。",
+    "lawsReference": "文化資產保存法第六十六條、古物分級登錄指定及廢止審查辦法",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "南港區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市復興路三段362號",
+    "reservationCode": "R024974",
+    "keepNameId": 5,
+    "keepName": "中央研究院歷史語言研究所",
+    "keepNameNew": 5,
+    "keepAddressNew": "115台北市南港區研究院路二段130號",
+    "saveSpaceId": 11,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "相關研究資料：\r\n1.董作賓，《中國考古報告集2‧小屯‧第二本‧殷虛文字甲編(圖版)》，1948。\r\n2.張秉權，《中國考古報告集2‧小屯‧第二本‧殷虛文字甲編考釋》，1992年3月。",
+    "descAge": "商",
+    "descCreator": "不詳",
+    "descSize": "長10.0公分，寬6.2公分",
+    "descMaterial": "獸骨",
+    "reserveStatusDesc": "1929年殷墟第3次發掘所得，這件是刻劃獸骨中的精品，從圖的右至左，刻有獼猴、馬在火上、虎、雉等物之形。雖是習刻，但說明了圖畫與文字的關係。\n\n",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "1929年殷墟第3次發掘；小屯橫十三丙北支坑",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定 ；殘存卜骨中間一段",
+    "documents": [
+        {
+            "fileid": 53830,
+            "name": "20080402公告函.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-01-07/9596ab26-6f0a-4d46-9f57-e543dce39a3b/20080402公告函.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "中央研究院歷史語言研究所",
+    "keepNames": [
+        {
+            "keepNameIdStr": "中央研究院歷史語言研究所",
+            "keepName": "中央研究院歷史語言研究所",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "中央研究院歷史語言研究所",
+            "keepAddressNew": "115台北市南港區研究院路二段130號",
+            "saveSpaceIdStr": "研究設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "南港區",
+            "keepNameAddress": "研究院路二段130號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "南港區",
+            "id": 4363,
+            "caseId": 4221,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 111
+        }
+    ],
+    "announces": [
+        {
+            "id": 4363,
+            "caseId": 4221,
+            "caseStatus": true,
+            "registerDate": 1207065600000,
+            "officialDocNo": "文資籌二字第0972102147號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

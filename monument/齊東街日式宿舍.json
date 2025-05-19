@@ -1,0 +1,115 @@
+{
+    "id": 73,
+    "caseId": "20041001000001",
+    "count": 4670,
+    "shareCount": 2,
+    "representImage": 169462,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/152790db-e5d3-43c4-9ef2-ff1b6d6ec9a0/代表圖像_齊東街日式宿舍_20220613_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/152790db-e5d3-43c4-9ef2-ff1b6d6ec9a0/代表圖像_齊東街日式宿舍_20220613.jpeg",
+        "name": "代表圖像_齊東街日式宿舍_20220613"
+    },
+    "caseName": "齊東街日式宿舍",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "約為1920年代至1940年代。幸町職務官舍群（今泰安街、齊東街），此區為總督府所屬單位不同階級職務官舍的分佈區。南端為總督府重要職務官舍，其出現年代在一九三五年間，附近區域住有包括第二高女學校、醫學校、工業學校、帝大教授、交通局庶務課技師、國土局土木課技師、總督府食糧局局長、殖產局總務課、總務局審議室事務官、總務局地方課、國土局電力課、財務局會計課、交通局社會課等各課長級之三等官以上官舍；北端齊東街一帶建築群屬中、低階官屬職員宿舍，充分反映日治時代晚期官舍之代表作品。",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 143296,
+            "name": "3._931001指定市定古蹟公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/fe8de7c9-a40d-4786-b515-0f9a1a0db9cb/3._931001指定市定古蹟公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "各時代表現地方營造技術流派特色者",
+        "具建築史上之意義，有再利用之價值及潛力者",
+        "具其他古蹟價值者"
+    ],
+    "registerReason": "1.本區建築群落原為日治時期所屬單位不同階級職務的文官宿舍，且位於殖民城市官員住宅區之中心。其後又為光復初期國民政府中央官員宿舍，建築內、外部空間仍保有日式宿舍之建築特色，具當時都市住宅群落特徵，其整體配置完整，深值保存價值。\r\n2.該建築群夾處鬧市中，卻擁有公園與空地形成之綠意空間，其人性化的低密度空間，對形塑良好的都市環境具有實質之貢獻。\r\n3.齊東街五十三巷十一號係齊東街日式建築群落中保狀況較佳者，形制較完整除了門廊、玄關，與完整室內空間外，也仍保存假山、樹石造景元素。屋頂雖已換成鋼板瓦，未來經過修復仍可恢復原貌。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 143297,
+            "name": "古蹟公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/606df9d5-1062-4039-a374-cddb1b47dfad/古蹟公告.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "中正區臨沂段一小段五八二地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "修復完成，作為藝文空間使用。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenDownload": false,
+    "longitude": 121.5287991,
+    "latitude": 25.0415992,
+    "representImageSource": "臺北市文化局",
+    "landScope": "中正區臨沂段一小段五八二地號",
+    "selfCoverage": "中正區臨沂段一小段368建號",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 82998,
+            "caseId": 73,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "齊東街53巷11號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "臨沂段一小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 92039,
+            "caseId": 73,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 136,
+            "landSerialNo": "0582-0000",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 89150,
+            "caseId": 73,
+            "caseStatus": true,
+            "registerDate": 1096560000000,
+            "officialDocNo": "府文化二字第09304449700號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false,
+    "pastHistorySource": ""
+}

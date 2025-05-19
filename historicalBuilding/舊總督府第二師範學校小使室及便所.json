@@ -1,0 +1,113 @@
+{
+    "id": 1040,
+    "caseId": "20080527000002",
+    "count": 2821,
+    "shareCount": 0,
+    "representImage": 169381,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/aa28ee3f-0813-4ad6-93e7-9169f8983ffd/代表圖像_舊總督府第二師範學校小使室及便所_20220613_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/aa28ee3f-0813-4ad6-93e7-9169f8983ffd/代表圖像_舊總督府第二師範學校小使室及便所_20220613.jpeg",
+        "name": "代表圖像_舊總督府第二師範學校小使室及便所_20220613"
+    },
+    "caseName": "舊總督府第二師範學校小使室及便所",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "建物原係為總督府第二師範學校生徒便所、職員便所及小使(校工之意)、湯沸、浴室及物置室，約建於1927年前後，與大禮堂皆同有代表臺灣教育史之價值。後來小使、湯沸、浴室及物置室曾變更為琴房使用。\r\n今日舊琴房仍延續做為工友休息室之使用，且內部仍保留舊有隔間。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "其他",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 166868,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/f9f2b059-d37f-428b-9a7e-3baa38bab1ff/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "1.建物原係為總督府第二師範學校生徒便所、職員便所及小使、湯沸、浴室及物置室，約建於1927年前後，與大禮堂皆同有代表臺灣教育史之價值。後來小使、湯沸、浴室及物置室曾變更為琴房使用；\r\n2.小使即為校工之意，今日舊琴房仍延續做為工友休息室之使用，且內部仍保留舊有隔間。\r\n3.舊琴房、廁所與大禮堂之間圍塑成品字型空間，包含此空間內的樹木，呈現出高度精緻的空間品質。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、4款評定基準",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 166869,
+            "name": "ca3749c9-ed40-4d7c-a86a-398a0f3b2de2.png",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/de19597c-a6a4-4d62-a70b-501e0842db37/ca3749c9-ed40-4d7c-a86a-398a0f3b2de2.png"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "公共設施用地",
+    "locationLandNo": "臺北市大安區學府段一小段591地號（部分）",
+    "buildingFeatures": "典型紅磚建物",
+    "inHouseFeatures": "",
+    "buildingUsage": "現闢為廁所及工友休息室",
+    "buildingActualState": "保存情形良好",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.544709,
+    "latitude": 25.024605,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市大安區學府段一小段591地號（部分）",
+    "selfCoverage": "224.02平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "id": 88622,
+            "caseId": 1040,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "address": "和平東路2段134號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大安區",
+            "landNoName": "學府段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 105681,
+            "caseId": 1040,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 105,
+            "landNoId": 741,
+            "landSerialNo": "591",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "224.02平方公尺",
+            "cityLandUseTypeOther": "師專用地（公共設施用地）",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 95629,
+            "caseId": 1040,
+            "caseStatus": true,
+            "registerDate": 1211817600000,
+            "officialDocNo": "北市文化二字第09730141500號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

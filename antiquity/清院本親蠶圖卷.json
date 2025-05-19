@@ -1,0 +1,100 @@
+{
+    "id": 4445,
+    "caseId": "20160427000004",
+    "count": 590,
+    "shareCount": 0,
+    "representImage": 165860,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-05-27/7a465297-4762-43b4-9331-3e768f18b037/K2A000919N000000000PAI_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-05-27/7a465297-4762-43b4-9331-3e768f18b037/K2A000919N000000000PAI.jpg",
+        "name": "K2A000919N000000000PAI"
+    },
+    "caseName": "清院本親蠶圖卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1461686400000,
+    "officialDocNo": "文授資局物字第10530037421號",
+    "judgeCriteria": [
+        "歷史流傳已久或史事具有深厚淵源",
+        "品質精良且數量特別稀少"
+    ],
+    "registerReason": "「親蠶」指季春時宮中后妃躬行蠶事的古禮。乾隆七年（1742）議定其禮，九年（1744）始行親蠶大典，由孝賢皇后主祭，妃嬪公主等陪祭。乾隆十三年（1748）孝賢皇后殯天，乾隆皇帝乃下令繪製〈親蠶圖〉四卷。「詣壇」繪儀駕之盛，「祭壇」繪皇后著禮服致祭，「採桑」繪皇后著吉服於觀桑臺看命婦採桑，「採桑」則繪皇后著常服於繭館受繭。\r\n此四卷為乾隆皇帝追揚孝賢皇后之作，亦描繪了乾隆朝與女性相關的親蠶儀典，展現清帝國農桑並重的態度。具有重要的史事意義。\r\n四卷長度皆逾五公尺，由金昆起稿呈覽，郎世寧作皇后與妃嬪等五人臉像，並有其他院畫家參與完成，可藉以考查郎世寧在畫院中的地位與角色，具有重要的史料價值。又是清宮代表畫家合作繪畫，是融合中西畫家及畫法之作，具特殊歷史、藝術價值。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第4條第1項第2、5款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000917-故畫000920",
+    "amount": 4,
+    "descAge": "清",
+    "descSize": "詣壇 51公分x 762.8公分；祭壇 51公分x 576.2公分； 採桑 51公分x 590.4公分；獻繭 51公分x 639.7公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "「親蠶」指季春時宮中后妃躬行蠶事的古禮。乾隆七年（1742）議定其禮，九年（1744）始行親蠶大典，由孝賢皇后主祭，妃嬪公主等陪祭。乾隆十三年（1748）孝賢皇后殯天，乾隆皇帝乃下令繪製〈親蠶圖〉。由金昆於乾隆十四年（1749）起稿呈覽，共十位院畫家參與，落款則由郎世寧領銜。\n「詣壇」繪儀駕之盛，「祭壇」繪皇后著禮服致祭，「採桑」繪皇后著吉服於觀桑臺看命婦採桑，「獻繭」則繪皇后著常服於繭館受繭。畫中皇后與陪祭妃嬪公主等五人之面容皆非格套，應即出自郎氏之手。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "水漬，霉傷，有污。",
+    "documents": [
+        {
+            "fileid": 148835,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-28/6350c012-9cef-4dba-8e4a-23b047fc47f9/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 80436,
+            "caseId": 4445,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 86422,
+            "caseId": 4445,
+            "caseStatus": true,
+            "registerDate": 1461686400000,
+            "officialDocNo": "文授資局物字第10530037421號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

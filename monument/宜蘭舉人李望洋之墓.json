@@ -1,0 +1,104 @@
+{
+    "id": 23088,
+    "caseId": "20241108000002",
+    "count": 679,
+    "shareCount": 6,
+    "representImage": 264604,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-11-12/c2cac739-f594-43f5-8a0e-e18eca6e79a4/宜蘭舉人李望洋之墓代表圖像_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-11-12/c2cac739-f594-43f5-8a0e-e18eca6e79a4/宜蘭舉人李望洋之墓代表圖像.jpg",
+        "name": "宜蘭舉人李望洋之墓代表圖像"
+    },
+    "caseName": "宜蘭舉人李望洋之墓",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "李望洋卒於明治34年（1901），歲次辛丑。其子李登第於同年9月11日，向宜蘭廳宜蘭出張所申請於9月15日出葬並下葬於四圍堡一結庄之墓地。現李望洋墓之碑牌上所書年代即「辛丑年仲秋」。",
+    "assetsTypeNames": "墓葬",
+    "assetsClassifyCode": "1.1.3",
+    "assetsClassifyName": "縣(市)定古蹟",
+    "documents": [
+        {
+            "fileid": 264310,
+            "name": "「宜蘭舉人李望洋之墓」_指定古蹟公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-11-08/eb2fabf6-2e9c-485b-8e27-2707c98be28a/「宜蘭舉人李望洋之墓」_指定古蹟公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具高度歷史、藝術或科學價值者",
+        "表現各時代營造技術流派特色者",
+        "具稀少性，不易再現者"
+    ],
+    "registerReason": "1、具高度歷史、藝術或科學價值者:\n(1)李望洋為出身清代宜蘭之舉人，李望洋於中國甘肅地區任官期間，親歷並處理回民事變後續事宜，其經歷具高度歷史價值；本標的為李望洋之墓葬，其墓葬銘刻顯示為清代所建之原物，其位置參照史料亦無變動，亦具高度歷史價值。\n(2)李望洋為宜蘭重要人物，與地方有深厚淵源關係，例如與宜蘭仕紳所建孔廟，創建新民堂、碧霞宮，任仰山書院山長，日本領臺以後任宜蘭廳參事，獲授紳章。\n(3)墓地來源脈絡清楚，有諸多史料及紀錄可供對照。\n2、表現各時代營造技術流派特色者:其墓碑為清代所建之原物，具備當時之石刻技藝特色，墓碑由手工雕鑿而成，左右墓耳刻有螭虎圖樣，墓碑中款刻:「顯考誥授朝議大夫甘肅河州知州號靜齋李公之佳城。」\n3、具稀少性，不易再現者:李望洋為出身清代宜蘭之舉人，李望洋曾親身參與晚清重大歷史事件，亦經歷日本統治，其生命經歷極為獨特，不易再現。",
+    "lawsReference": "符合<<古蹟指定及廢止審查辦法>>第2條第1、2、3款之指定基準。",
+    "govInstitutionCode": "260",
+    "govInstitutionName": "宜蘭縣政府",
+    "govInstitution": "宜蘭縣政府",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-9322440*652",
+    "govDeptAddress": "宜蘭縣五結鄉中正路二段6之8號",
+    "cadasters": [
+        {
+            "fileid": 264311,
+            "name": "「宜蘭舉人李望洋之墓」_本體及定著土地範圍圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2024-11-08/0518e1de-863c-4407-aeed-33bfd49ea90c/「宜蘭舉人李望洋之墓」_本體及定著土地範圍圖.pdf"
+        }
+    ],
+    "inHouseFeatures": "無。",
+    "buildingUsage": "農用，此地現仍多為稻田景緻，北側並有水圳流經，整體視野仍相當遼闊且幽靜。",
+    "buildingActualState": "尚可，前有填實泥土的墓埕、石質墓碑及墓肩、以土推成的圓形墓丘及墓左前側的石質后土碑及肩石。",
+    "bulkTransfer": 0,
+    "isOpenDownload": true,
+    "longitude": 121.7469240834548,
+    "latitude": 24.778119037108606,
+    "representImageSource": "宜蘭縣政府文化局",
+    "selfCoverage": "現存之墓碑",
+    "addresses": [
+        {
+            "cityName": "宜蘭縣",
+            "distName": "宜蘭市",
+            "id": 136834,
+            "caseId": 23088,
+            "caseStatus": true,
+            "cityId": 4,
+            "distId": 401,
+            "address": "大坡路100巷45號附近稻田"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "宜蘭縣",
+            "distName": "宜蘭市",
+            "landNoName": "茭白段",
+            "cityLandUseTypeName": "農業區",
+            "id": 201440,
+            "caseId": 23088,
+            "caseStatus": true,
+            "cityId": 4,
+            "distId": 401,
+            "landNoId": 7209,
+            "landSerialNo": "517-2",
+            "landownership": 2,
+            "cityLandUseTypeId": 9,
+            "coverageId": 2,
+            "area": "920平方公尺",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 149465,
+            "caseId": 23088,
+            "caseStatus": true,
+            "registerDate": 1730446831041,
+            "officialDocNo": "府文資字第1130011464C號函",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[]},\"properties\":{\"envelope\":{},\"landLot\":\"宜蘭縣宜蘭市茭白段517-2\"}}],\"notfound\":\"沒有地號資料\"}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": "「李望洋之墓」古蹟提報表"
+}

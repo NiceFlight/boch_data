@@ -1,0 +1,105 @@
+{
+    "id": 3413,
+    "caseId": "20131219000037",
+    "count": 25,
+    "shareCount": 0,
+    "representImage": 5950,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7174/photo/遼左六忠述(明刊本)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7174/photo/遼左六忠述(明刊本).jpg",
+        "name": "遼左六忠述(明刊本)"
+    },
+    "caseName": "遼左六忠述(明刊本)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1387382400000,
+    "officialDocNo": "文資局物字第 10220148851號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "明末刊本。\r\n編者何如召(生卒年不詳)，字元奭，雲間人。\r\n明陳繼儒為此書撰序，稱：「遼左之役，徵師轉餉幾突天下，巧將逃卒皆得生，而六君子獨死。士大夫橫議空談，或責其輕進，而六君子有口莫辨，非何元奭如椽之筆，表章而發皇之，六君子死而足矣。」六君子者，指劉綎、杜松、張銓、何廷魁、高邦佐、張神武六人。\r\n明代罕見之版本，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號02553",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "明末",
+    "descCreator": "明何如召編",
+    "descSize": "半葉8行，版匡21x12.1公分",
+    "descMaterial": "紙質刊本",
+    "reserveStatusDesc": "二卷，附錄遼事一卷。\n明陳繼儒為此書撰序，稱：「遼左之役，徵師轉餉幾突天下，巧將逃卒皆得生，而六君子獨死。士大夫橫議空談，或責其輕進，而六君子有口莫辨，非何元奭如椽之筆，表章而發皇之，六君子死而足矣。」六君子者，指劉綎、杜松、張銓、何廷魁、高邦佐、張神武六人。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "無虫蛀，未經修裱。書況良好。\n",
+    "documents": [
+        {
+            "fileid": 5951,
+            "name": "bbced35b-05a0-47c0-8868-a34f7a5c3f10.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44028/file/bbced35b-05a0-47c0-8868-a34f7a5c3f10.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3555,
+            "caseId": 3413,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3555,
+            "caseId": 3413,
+            "caseStatus": true,
+            "registerDate": 1387382400000,
+            "officialDocNo": "文資局物字第 10220148851號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

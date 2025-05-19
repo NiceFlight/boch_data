@@ -1,0 +1,111 @@
+{
+    "id": 99,
+    "caseId": "19981014000003",
+    "count": 3385,
+    "shareCount": 3,
+    "representImage": 184771,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/a3c2e236-bb5b-45fb-9296-508cdc5f7b6f/代表圖像_中山基督長老教會_20220916_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/a3c2e236-bb5b-45fb-9296-508cdc5f7b6f/代表圖像_中山基督長老教會_20220916.jpeg",
+        "name": "代表圖像_中山基督長老教會_20220916"
+    },
+    "caseName": "中山基督長老教會",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "中山基督長老教會創立於一九二七年，原為日本基督教聖公會教堂，稱為大正町教會，供當時住在大正街一帶日本人教徒禮拜之用。\r\n ",
+    "assetsTypeNames": "教堂,其他設施",
+    "otherAssetsType": "教堂",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 139092,
+            "name": "公告.tif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/d089439b-9c49-4531-bc62-190056c78191/公告.tif"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值"
+    ],
+    "registerReason": "一、創建於一九二七年，原為基督教聖公會，光復後改為長老教會，具有宗教史上的意義。\r\n二、仿英國歌德式教堂設計，十字型平面、尖拱、屋架轉角石與扶壁等，保存完整，具有建築價值。",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 139093,
+            "name": "地籍.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/526a1359-19a8-4c69-8b0e-2a47c220f860/地籍.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "台北市正義段三小段490地號",
+    "buildingFeatures": "中山基督長老教會創立於一九二七年，原為日本基督教聖公會教堂，稱為大正町教會，供當時住在大正街一帶日本人教徒禮拜之用。",
+    "inHouseFeatures": "地板原為水泥地，民國70年代改為大理石，又吊燈亦添加者，基本上仍維持原有風貌，頗難得。此外，左側之鐘樓亦甚優美，另有舊風琴、洗禮池等重要遺物。",
+    "buildingUsage": "1.牆體及屋架均為初建原物，只有地面及屋頂近年曾修理過。\r\n2.牆體為磚石、外表粉刷水泥，並有局部洗石子裝飾。\r\n3.部分踏階為現代材料，層面改變為瓦的材料，其餘大體保持原狀",
+    "buildingActualState": "良好",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.5242134,
+    "latitude": 25.0489998,
+    "representImageSource": "臺北市文化局",
+    "landScope": "台北市正義段三小段490地號",
+    "selfCoverage": "鐘樓、教堂",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中山區",
+            "id": 92277,
+            "caseId": 99,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 103,
+            "address": "林森北路62號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中山區",
+            "landNoName": "正義段三小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 112703,
+            "caseId": 99,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 103,
+            "landNoId": 220,
+            "landSerialNo": "490",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "coverageId": 2,
+            "area": "442.99平方公尺",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 99403,
+            "caseId": 99,
+            "caseStatus": true,
+            "registerDate": 908294400000,
+            "officialDocNo": "府民三字第8706786101號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "openVisitType": "",
+    "isCharge": false
+}

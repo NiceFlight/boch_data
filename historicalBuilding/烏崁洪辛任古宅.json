@@ -1,0 +1,121 @@
+{
+    "id": 2207,
+    "caseId": "20161121000002",
+    "count": 1858,
+    "shareCount": 0,
+    "representImage": 66482,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-02-21/78e70d74-c3d6-4e3d-b650-b89abbcaaa16/IMG_20191007_091927_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-02-21/78e70d74-c3d6-4e3d-b650-b89abbcaaa16/IMG_20191007_091927.jpg",
+        "name": "IMG_20191007_091927"
+    },
+    "caseName": "烏崁洪辛任古宅",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "洪辛任於民國8(1919)年出生，於29歲時興建，木作由洪辛任施作，土水由洪水雲師傅施作。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1479657600000,
+    "officialDocNo": "府授文資字第10537038582號",
+    "documents": [
+        {
+            "fileid": 4470,
+            "name": "烏崁04－公告（含公告表）.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/133778/file/烏崁04－公告（含公告表）.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者"
+    ],
+    "registerReason": "（一）具歷史文化價值者：傳統合院型式，廳門立面之楹聯與窗堵為名師彩繪磁磚，且保存完整。\r\n（二）表現地域風貌者：形制完整，保存狀況尚佳，正面半截堵玄武岩亂石砌作工精緻，釉上彩保存完整。\r\n",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、2款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "06-9261141#138",
+    "govDeptAddress": "澎湖縣馬公市中華路230號",
+    "cadasters": [
+        {
+            "fileid": 100137,
+            "name": "110XA001752PIC1.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-03-12/d5cfb717-23b4-4700-9790-04b671e3d072/110XA001752PIC1.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 4,
+    "nonCityLandUseTypeName": "鄉村區",
+    "nonCityLandUseSubTypeId": 2,
+    "nonCityLandUseSubTypeName": "乙種建築",
+    "locationLandNo": "馬公市烏崁新段1213地號",
+    "buildingFeatures": "大厝身是以硓𥑮石與汕石牆體圍塑出接近封閉的矩型平面，正面牆以主題彩繪磁磚、「馬約里卡」磁磚作為裝飾，門扇文字及牆面洗石子。",
+    "inHouseFeatures": "大廳以尺磚做人字形鋪法（斜格紋），左右大房採交丁鋪法。簾前的地坪分三段，中央與廳門相對區域鋪人字形，左右則是做交丁，巷路也是維持原有的交丁尺磚地坪。至於亭下與深井為水泥地坪，左右間仔也是採用尺磚交丁鋪設。",
+    "buildingUsage": "閒置",
+    "buildingActualState": "閒置",
+    "buildingKeyMaintainItem": "建築周圍環境清潔，維持建築物良好通風與排水。",
+    "bulkTransfer": 0,
+    "belongAddress": "烏崁里96號",
+    "isOpenVisit": false,
+    "openUpTime": "獎助整修中，尚未開放。",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 119.620069,
+    "latitude": 23.547431,
+    "representImageSource": "為承辦人或權責單位自行拍攝或取得授權之圖片",
+    "landScope": "澎湖縣馬公市烏崁新段1213地號\n位於烏崁天主堂左前方，順著鄉村道路行走約50公尺處右轉再右轉。",
+    "selfCoverage": "坐落馬公市烏崁新段1213地號內之烏崁新段70建號建築本體，屬傳統建築格局，其包含大廳、左右房、中亭、深井及左右間仔等，建築面積約為122.31平方公尺。",
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 106258,
+            "caseId": 2207,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "烏崁里96號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "landNoName": "烏崁新段",
+            "noncityLandUseTypeName": "鄉村區",
+            "id": 130893,
+            "caseId": 2207,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "landNoId": 15504,
+            "landSerialNo": "1213",
+            "landownership": 2,
+            "noncityLandUseTypeId": 4,
+            "area": "170.2平方公尺",
+            "noncityLandUseTypeOther": "乙種建築用地",
+            "note": "",
+            "cityLandUseId": 2
+        }
+    ],
+    "announces": [
+        {
+            "id": 113929,
+            "caseId": 2207,
+            "caseStatus": true,
+            "registerDate": 1479657600000,
+            "officialDocNo": "府授文資字第10537038582號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[119.62007875549925,23.547501653570787],[119.62013862873867,23.547340117543126],[119.62009011719277,23.547324726528498],[119.6200520074761,23.547372524306795],[119.62001022900165,23.5473879296825],[119.61998501147728,23.5474824777412],[119.62007875549925,23.547501653570787],[119.62007875549925,23.547501653570787]]]]},\"properties\":{\"envelope\":{\"left\":\"119.61998501147728\",\"top\":\"23.547324726528498\",\"right\":\"119.62013862873867\",\"bottom\":\"23.547501653570787\"},\"landLot\":\"澎湖縣馬公市烏崁新段1213\"}}],\"notfound\":[]}]",
+    "openVisitType": ""
+}

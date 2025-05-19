@@ -1,0 +1,115 @@
+{
+    "id": 3252,
+    "caseId": "20160217000001",
+    "count": 7194,
+    "shareCount": 40,
+    "representImage": 5699,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43345/photo/78b4c150-a965-4e84-893b-2deb2470700e_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/43345/photo/78b4c150-a965-4e84-893b-2deb2470700e.jpg",
+        "name": "78b4c150-a965-4e84-893b-2deb2470700e"
+    },
+    "caseName": "月眉石槽",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-其他",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1455638400000,
+    "officialDocNo": "府文資字第1050030009A號。",
+    "judgeCriteria": [
+        "具有一定之時代特色、技術及流派",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "（１）臺灣東部史前遺址偶而可見槽狀石製品，然而大多在1公尺大小以內，月眉石槽可謂此類史前遺物中極少數之大型石槽，極具重要性與文化資產保存價值。\r\n（２）由於此類石材主要產於中央山脈區域，與月眉遺址最近距離至少有4公里以上。史前人群如何取得材料與為何製造此一大型石造物等問題，目前仍是一個不解之謎。\r\n（３）從石槽凹槽壁上看到清楚的製造與修整之打鑿痕跡，可以瞭解史前人群具有精良的石器加工技術，有助於了解史前人類的工藝技術及互動關係。",
+    "lawsReference": "依據古物分級登錄指定及廢止審查辦法第2條第1項第3、5、6款規定。",
+    "govInstitutionCode": "970",
+    "govInstitutionName": "花蓮縣政府",
+    "belongCityId": 23,
+    "belongCityName": "花蓮縣",
+    "belongDistName": "壽豐鄉",
+    "govInstitution": "花蓮縣文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "03-8227121-321",
+    "govDeptAddress": "花蓮縣花蓮市文復路6號",
+    "reservationCode": " ",
+    "amount": 1,
+    "descAge": " ",
+    "descSize": "臺灣東部史前遺址偶而可見槽狀石製品，然而大多在1公尺大小以內，重達1240公斤",
+    "descMaterial": "雲母片岩。",
+    "reserveStatusDesc": "臺灣東部史前遺址偶而可見槽狀石製品，月眉石槽可謂此類史前遺物中極少之大型石槽，極具重要性與文化資產保存價值。",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "由於此類石材主要產於中央山脈區域，與月眉遺址最近距離至少有4公里以上。",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定 ",
+    "documents": [
+        {
+            "fileid": 163188,
+            "name": "預告月眉石槽登錄為一般古物公告1041221.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-10/ad3039c0-d100-4656-bd16-d149abe43dbe/預告月眉石槽登錄為一般古物公告1041221.pdf"
+        },
+        {
+            "fileid": 163189,
+            "name": "月眉石槽登錄為一般古物公告1050217.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-10/cd166800-147b-4014-ae3a-daa0cbff8102/月眉石槽登錄為一般古物公告1050217.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 121.49365072884144,
+    "latitude": 23.84843093606712,
+    "representImageSource": "花蓮縣文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "花蓮縣壽豐鄉公所",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "974 花蓮縣壽豐鄉市場1號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "花蓮縣",
+            "distName": "壽豐鄉",
+            "id": 79015,
+            "caseId": 3252,
+            "caseStatus": true,
+            "cityId": 23,
+            "distId": 2305,
+            "address": "市場1號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 84801,
+            "caseId": 3252,
+            "caseStatus": true,
+            "registerDate": 1450676999442,
+            "officialDocNo": "府文資字第1040245821A號",
+            "classificationId": 1
+        },
+        {
+            "id": 84802,
+            "caseId": 3252,
+            "caseStatus": true,
+            "registerDate": 1455638400000,
+            "officialDocNo": "府文資字第1050030009A號。",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

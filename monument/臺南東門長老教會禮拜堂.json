@@ -1,0 +1,120 @@
+{
+    "id": 23137,
+    "caseId": "20250122000001",
+    "count": 422,
+    "shareCount": 1,
+    "representImage": 280174,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2025-01-22/aad43127-9ff9-409f-9fd2-f6b0948a5d85/﹝代表照片﹞臺南東門長老教會禮拜堂_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2025-01-22/aad43127-9ff9-409f-9fd2-f6b0948a5d85/﹝代表照片﹞臺南東門長老教會禮拜堂.jpg",
+        "name": "﹝代表照片﹞臺南東門長老教會禮拜堂"
+    },
+    "caseName": "臺南東門長老教會禮拜堂",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "待調查研究完成後補充",
+    "assetsTypeNames": "教堂",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 280099,
+            "name": "﹝公告﹞113.1025-直轄市定古蹟-東區-臺南東門長老教會禮拜堂.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2025-01-17/59c7a41e-f593-4968-b359-304b590e8daf/﹝公告﹞113.1025-直轄市定古蹟-東區-臺南東門長老教會禮拜堂.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具高度歷史、藝術或科學價值者"
+    ],
+    "registerReason": "具高度歷史、藝術或科學價值者：東門教會建築竣工於1926年，見證長老教會於臺南地區傳教歷史與發展。禮拜堂整體規模完整，內部空間為巴西利卡式格局，雖經1963年整修，將內部柱列外擴移動，仍保留整體木屋架構；入口處採半圓形門廊，並立有古典西洋柱式，柱頭以類似棕櫚葉造型裝飾；門廊上方開窗，以玻璃彩繪聖經故事，與十字架構成立面外觀表情，和諧且富有藝術性。",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第1款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "govInstitution": "臺南市文化資產管理處",
+    "govDeptName": "文化資產研究組",
+    "govDeptPhone": "06-2213597 分機607",
+    "govDeptAddress": "臺南市中西區中正路5巷1號三樓",
+    "cadasters": [
+        {
+            "fileid": 280172,
+            "name": "﹝附圖﹞臺南東門長老教會禮拜堂.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2025-01-22/b18ea87c-ab3c-4d0f-a9dd-1be8665ca1bd/﹝附圖﹞臺南東門長老教會禮拜堂.pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenDownload": false,
+    "longitude": 120.215603,
+    "latitude": 22.987776,
+    "representImageSource": "機關同仁攝影",
+    "landScope": "本市東區光華段375地號、387地號，面積合計1,568平方公尺。",
+    "selfCoverage": "教堂本體",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "東區",
+            "id": 147513,
+            "caseId": 23137,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1602,
+            "address": "東門路一段187號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺南市",
+            "distName": "東區",
+            "landNoName": "光華段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 203559,
+            "caseId": 23137,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1602,
+            "landNoId": 2527,
+            "landSerialNo": "375",
+            "landownership": 2,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "756平方公尺",
+            "cityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺南市",
+            "distName": "東區",
+            "landNoName": "光華段",
+            "cityLandUseTypeName": "商業區",
+            "id": 203560,
+            "caseId": 23137,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1602,
+            "landNoId": 2527,
+            "landSerialNo": "387",
+            "landownership": 2,
+            "cityLandUseTypeId": 2,
+            "coverageId": 2,
+            "area": "812平方公尺",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 160296,
+            "caseId": 23137,
+            "caseStatus": true,
+            "registerDate": 1729838254239,
+            "officialDocNo": "南市文資字第1132147392A號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.21565529156386,22.988230527630833],[120.21565458723484,22.988230922011905],[120.21567920701791,22.988232830507574],[120.2157208961866,22.9882360569653],[120.21582391806291,22.98821464733456],[120.21583321283579,22.98821276581341],[120.21592163828359,22.988194348970556],[120.21592300114315,22.988194044200707],[120.21582050062571,22.987940424983975],[120.2156148022603,22.98800442113938],[120.21557725449819,22.988015883256047],[120.21560389251947,22.98808286082985],[120.21561453692675,22.98811184641027],[120.21565529156386,22.988230527630833],[120.21565529156386,22.988230527630833]]]]},\"properties\":{\"envelope\":{\"left\":\"120.21557725449819\",\"top\":\"22.987940424983975\",\"right\":\"120.21592300114315\",\"bottom\":\"22.9882360569653\"},\"landLot\":\"臺南市東區光華段375\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.21582050062571,22.987940424983975],[120.21580596779964,22.98790513863758],[120.21573712541539,22.987680396221414],[120.21547920802206,22.987761006781966],[120.21555569261866,22.987965415925753],[120.21555935439383,22.987975202647416],[120.21556248290825,22.987978962582645],[120.21557725449819,22.988015883256047],[120.2156148022603,22.98800442113938],[120.21582050062571,22.987940424983975],[120.21582050062571,22.987940424983975]]]]},\"properties\":{\"envelope\":{\"left\":\"120.21547920802206\",\"top\":\"22.987680396221414\",\"right\":\"120.21582050062571\",\"bottom\":\"22.988015883256047\"},\"landLot\":\"臺南市東區光華段387\"}}],\"notfound\":[]}]",
+    "openVisitType": "",
+    "pastHistorySource": "待調查研究完成後補充"
+}

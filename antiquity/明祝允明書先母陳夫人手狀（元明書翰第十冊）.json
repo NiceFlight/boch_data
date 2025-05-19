@@ -1,0 +1,102 @@
+{
+    "id": 3526,
+    "caseId": "20130613000008",
+    "count": 213,
+    "shareCount": 0,
+    "representImage": 6163,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7492/photo/明祝允明書先母陳夫人手狀(元明書翰第十冊)_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7492/photo/明祝允明書先母陳夫人手狀(元明書翰第十冊).JPG",
+        "name": "明祝允明書先母陳夫人手狀(元明書翰第十冊)"
+    },
+    "caseName": "明祝允明書先母陳夫人手狀（元明書翰第十冊）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-書法、碑帖",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1371052800000,
+    "officialDocNo": "文資局物字第10220064921號",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "祝允明此冊寫於六十五歲，小楷書已經達到融會諸家，隨心所欲的書寫境界，帶有鮮明的個人特色。單字結體緊結，大小相間，字形接近褚遂良與米芾的小行楷，字勢攲側，行氣錯落婀娜，生動活潑。用筆圓熟而精到，線條豐潤，融會鍾、王、歐、顏、趙等筆法，無所不備。\r\n此小行楷融合晉唐宋元諸家，寫來天真自然，為其本色書風，是祝允明的極精之作。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第四、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "故書000292-007~故書000292-009",
+    "amount": 3,
+    "notes": "",
+    "descAge": "明",
+    "descCreator": "祝允明",
+    "descSize": "26.7公分 x 10.6公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "祝允明此冊寫於六十五歲，小楷書已經達到融會諸家，隨心所欲的書寫境界，帶有鮮明的個人特色。單字結體緊結，大小相間，字形接近褚遂良與米芾的小行楷，字勢攲側，行氣錯落婀娜，生動活潑。用筆圓熟而精到，線條豐潤，融會鍾、王、歐、顏、趙等筆法，無所不備。據冊末著名琴師黃獻（號梧岡）1516年所題，知此冊與〈在山記〉當時裱裝在一冊，由項元汴所收藏。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 150569,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-18/25f69879-5de1-448d-8d62-dcefdc8f1cca/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71041,
+            "caseId": 3526,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 75359,
+            "caseId": 3526,
+            "caseStatus": true,
+            "registerDate": 1371052800000,
+            "officialDocNo": "文資局物字第10220064921號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

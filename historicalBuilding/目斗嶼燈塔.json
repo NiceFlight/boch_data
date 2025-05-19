@@ -1,0 +1,122 @@
+{
+    "id": 1815,
+    "caseId": "20031211000006",
+    "count": 2126,
+    "shareCount": 0,
+    "representImage": 103308,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-03-26/10936e75-14af-4a93-b485-3d5ccf08ec93/DSC_0549_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-03-26/10936e75-14af-4a93-b485-3d5ccf08ec93/DSC_0549.jpg",
+        "name": "DSC_0549"
+    },
+    "caseName": "目斗嶼燈塔",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "明治32（1899）年創建，明治35（1902）年完工。燈塔塔高39.9公尺，基座分為3層（內為儲水槽），塔身為圓形銑鐵構造，外觀以黑白相間呈現，塔基為磚造結構。塔內有旋轉樓梯供登頂，此座燈塔完工至今已經120年，為台灣塔身最高的燈塔，而且是遠東最高的銑鐵製的燈塔，其存在反映澎湖北海地理交通的險惡和重要性。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "建築物類",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1071130014000,
+    "officialDocNo": "府授文視第09200726229 號",
+    "documents": [
+        {
+            "fileid": 76316,
+            "name": "公告公文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-11-24/993b40bc-62f4-46a0-bd89-a26e0db2e7a3/公告公文.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "(一)創建年期久遠。\n(二)具有歷史文化意義，足以作為時代的代表。\n(三)具稀有性，不易再現的建築。\n(四)具有建築史上的意義，有再利用的價值及潛力。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "白沙鄉",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "06-9261141#138",
+    "govDeptAddress": "澎湖縣馬公市中華路230號",
+    "cadasters": [
+        {
+            "fileid": 3648,
+            "name": "c6b0ed13-cf00-48a3-a154-2520d3dec4d0.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/75334/photo/c6b0ed13-cf00-48a3-a154-2520d3dec4d0.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 10,
+    "nonCityLandUseTypeName": "特定專用區",
+    "nonCityLandUseSubTypeId": 11,
+    "nonCityLandUseSubTypeName": "交通",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "吉貝段1733地號\n重測後：目斗嶼段0002 - 0000號\n",
+    "buildingFeatures": "燈高49公尺，塔身為圓形銑鐵構造，外觀以黑白相間呈現，做為白天時的醒目標誌，引起航行船隻的注意。",
+    "inHouseFeatures": "內裝設一等旋轉透鏡四重燈芯煤油澄，光力為150萬燭光，每20秒閃白光一次。",
+    "buildingUsage": "仍然使用中。",
+    "buildingActualState": "此座燈塔完工至今已經120年，為台灣塔身最高的燈塔，而且是遠東最高的銑鐵製的燈塔。",
+    "buildingKeyMaintainItem": "依其原貌加以考証及修復，應注重其日常管理維護。",
+    "bulkTransfer": 0,
+    "belongAddress": "吉貝村186號",
+    "isOpenVisit": false,
+    "openUpTime": "不開放",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 119.600417,
+    "latitude": 23.7863147,
+    "representImageSource": "澎湖縣政府文化局文化資產科",
+    "landScope": "澎湖縣白沙鄉目斗嶼段0002地號",
+    "selfCoverage": "目斗嶼燈塔周圍附屬建築物為駐守人員宿舍，辦公室和值班室，入口處前方建有一座小祠供奉神袛。",
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "白沙鄉",
+            "id": 73470,
+            "caseId": 1815,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2105,
+            "address": "吉貝村186號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "白沙鄉",
+            "landNoName": "目斗嶼段",
+            "noncityLandUseTypeName": "風景區",
+            "id": 71134,
+            "caseId": 1815,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2105,
+            "landNoId": 15602,
+            "landSerialNo": "0002",
+            "landownership": 1,
+            "noncityLandUseTypeId": 7,
+            "area": "1424.28平方公尺",
+            "noncityLandUseTypeOther": "特定目的事業用地",
+            "note": "",
+            "cityLandUseId": 2
+        }
+    ],
+    "announces": [
+        {
+            "id": 78468,
+            "caseId": 1815,
+            "caseStatus": true,
+            "registerDate": 1071130014000,
+            "officialDocNo": "府授文視字第09200726229 號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[119.60007889603708,23.786693548826],[119.60028459281816,23.786614598817064],[119.60013680563686,23.78627615212523],[119.60017324673849,23.78626292671451],[119.60015719147906,23.786230365578728],[119.6001223316195,23.78624176991036],[119.60011825440489,23.78623424613453],[119.60006865910162,23.7862526423888],[119.60003324507183,23.78617324827581],[119.59996580045302,23.78619789907903],[119.59996025749761,23.78619597928108],[119.59977587095868,23.78626581656519],[119.59984417236878,23.786415034428348],[119.59993714251304,23.78638260037794],[119.60007889603708,23.786693548826],[119.60007889603708,23.786693548826]]]]},\"properties\":{\"envelope\":{\"left\":\"119.59977587095868\",\"top\":\"23.786173248275809\",\"right\":\"119.60028459281816\",\"bottom\":\"23.786693548826\"},\"landLot\":\"澎湖縣白沙鄉目斗嶼段0002\"}}],\"notfound\":[]}]",
+    "openVisitType": "",
+    "pastHistorySource": "文化局提供"
+}

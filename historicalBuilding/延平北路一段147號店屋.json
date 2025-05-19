@@ -1,0 +1,210 @@
+{
+    "id": 2149,
+    "caseId": "20160415000001",
+    "count": 2777,
+    "shareCount": 6,
+    "representImage": 145487,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/01664d7a-398e-4d1a-9307-865d3904d7d5/DSC_0318_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/01664d7a-398e-4d1a-9307-865d3904d7d5/DSC_0318.JPG",
+        "name": "DSC_0318"
+    },
+    "caseName": "延平北路一段147號店屋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "本建物位於太平町重要節點，由大稻埕地區代表性商社張東隆商行承租本建物開設「張東隆商事株式會社」，經營石油買賣、汽車零件、生活物料等，見證大稻埕地區商業發展，亦具保存太平町街區風貌之意義。  \r\n",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 145488,
+            "name": "3.106.04.17延平北路一段147號修正公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/73c9cd98-fe45-4838-887a-78bd27cc5c04/3.106.04.17延平北路一段147號修正公告.pdf"
+        },
+        {
+            "fileid": 145494,
+            "name": "106年公告-1.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/4388b32d-d8de-4f87-91d5-7b5eadaffb01/106年公告-1.pdf"
+        },
+        {
+            "fileid": 145495,
+            "name": "延平北路一段147號歷史建築公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/0c3aebee-e6d3-49fc-a7cd-ebeca607ca32/延平北路一段147號歷史建築公告表.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1.本建物位於太平町重要節點，由大稻埕地區代表性商社張東隆商行承租本建物開設「張東隆商事株式會社」，經營石油買賣、汽車零件、生活物料等，見證大稻埕地區商業發展，亦具保存太平町街區風貌之意義。\r\n2.1920年代後期改建為3層樓，空間格局為「一坎二進一過水」之建築形式，騎樓維持原有構造及柱基細部，二、三樓地板為原有構造，整體建築仍保留部分舊貌。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、4款評定基準。 ",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 145490,
+            "name": "downloadfile.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/dd2a4025-1785-4dfd-85e6-5433429afae0/downloadfile.jpg"
+        }
+    ],
+    "nonCityLandUseTypeId": 10,
+    "nonCityLandUseTypeName": "特定專用區",
+    "locationLandNo": "大同區玉泉段一小段745建號 ",
+    "buildingFeatures": "磚木、磁磚、RC混合構造",
+    "inHouseFeatures": "RC樓板、鋁窗",
+    "buildingUsage": "第一層商業使用，第二層以上為住宅使用",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "原日治時期興建1-3層樓建築為保存範圍",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.5118968,
+    "latitude": 25.053548,
+    "representImageSource": "文化局",
+    "landScope": "大同區玉泉段一小段355地號、355-1地號、356地號、356-1地號、356-2地號等5筆土地",
+    "selfCoverage": "建物為大同區玉泉段一小段745建號(建物總面積351.61平方公尺)。",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 67749,
+            "caseId": 2149,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "延平北路一段147號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "玉泉段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 63045,
+            "caseId": 2149,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 190,
+            "landSerialNo": "355",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "18平方公尺",
+            "cityLandUseTypeOther": "特專",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "玉泉段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 63046,
+            "caseId": 2149,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 190,
+            "landSerialNo": "355-1",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "1平方公尺",
+            "cityLandUseTypeOther": "特專",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "玉泉段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 63047,
+            "caseId": 2149,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 190,
+            "landSerialNo": "356",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "125平方公尺",
+            "cityLandUseTypeOther": "特專",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "玉泉段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 63048,
+            "caseId": 2149,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 190,
+            "landSerialNo": "356-1",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "2平方公尺",
+            "cityLandUseTypeOther": "特專",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "玉泉段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 63049,
+            "caseId": 2149,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 190,
+            "landSerialNo": "356-2",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "1平方公尺",
+            "cityLandUseTypeOther": "特專",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 72019,
+            "caseId": 2149,
+            "caseStatus": true,
+            "registerDate": 1460649600000,
+            "officialDocNo": "北市文化文資字第10530373700號 ",
+            "classificationId": 1,
+            "note": "登錄"
+        },
+        {
+            "id": 72020,
+            "caseId": 2149,
+            "caseStatus": true,
+            "registerDate": 1460822400000,
+            "officialDocNo": "北市文化文資字第10630442400號 ",
+            "classificationId": 2,
+            "note": "調整誤植之文字"
+        }
+    ],
+    "openVisitType": ""
+}

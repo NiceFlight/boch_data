@@ -1,0 +1,105 @@
+{
+    "id": 22580,
+    "caseId": "20240319000002",
+    "count": 48,
+    "shareCount": 0,
+    "representImage": 254138,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-03-19/8c2fd7a9-2e1e-403a-9396-b182a9740529/澎湖天后宮「公善樓」匾_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-03-19/8c2fd7a9-2e1e-403a-9396-b182a9740529/澎湖天后宮「公善樓」匾.jpg",
+        "name": "澎湖天后宮「公善樓」匾"
+    },
+    "caseName": "澎湖天后宮「公善樓」匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "數量稀少者"
+    ],
+    "registerReason": "1、具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：見證澎湖在大正14年（1925）以後，地方籌畫公義善舉的文物，與閣樓並存，足以發思古之幽情。\n2、數量稀少者：公善義風史實留此孤本。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、5款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405#6408",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00646-P-106-0033",
+    "amount": 1,
+    "descAge": "日治時期",
+    "descSize": "高約60公分、寬155公分",
+    "descMaterial": "木",
+    "reserveStatusDesc": "橫長形木匾，三片拼接、施黑漆，字笑竹（陰刻）貼金，中行「公善樓」三字，字有破鋒，中央上方一方印「天后宮天上聖母寶印」。有聯一對，上聯「公所常臨和衷籌義舉」，下聯「善機咸動協力鼓仁風」，由媽祖降鸞所賜。意思為本對楹聯所在之公善樓，是當時仕紳籌畫公義之舉的處所。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 2,
+    "reserveStatus": "狀況穩定",
+    "documents": [
+        {
+            "fileid": 254123,
+            "name": "1120706_清風閣等12案指定一般古物-公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-03-19/415f8880-defb-4d8f-97b2-eb70f802999c/1120706_清風閣等12案指定一般古物-公告.pdf"
+        },
+        {
+            "fileid": 254124,
+            "name": "1130216_更正公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-03-19/526dd5ca-bef0-4f23-a652-af4cf43b121f/1130216_更正公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "〈澎湖縣百年歷史廟宇及教堂文物普查計畫（二）‧成果報告〉",
+    "keepNames": [
+        {
+            "keepNameIdStr": "澎湖天后宮",
+            "keepName": "黃光明",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "澎湖天后宮",
+            "keepAddressNew": "中央里正義街1號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 128233,
+            "caseId": 22580,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "中央里正義街1號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 139304,
+            "caseId": 22580,
+            "caseStatus": true,
+            "registerDate": 1688572800000,
+            "officialDocNo": "府授文博字第1123702174號",
+            "classificationId": 1
+        },
+        {
+            "id": 139305,
+            "caseId": 22580,
+            "caseStatus": true,
+            "registerDate": 1708012800000,
+            "officialDocNo": "府授文博字第1133700325號",
+            "classificationId": 2
+        }
+    ],
+    "isPublic": false
+}

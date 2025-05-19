@@ -1,0 +1,111 @@
+{
+    "id": 3784,
+    "caseId": "20110919000001",
+    "count": 1099,
+    "shareCount": 1,
+    "representImage": 6580,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32821/photo/16734ed3-f2cf-41a2-b551-6ff06ff6faf2_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/32821/photo/16734ed3-f2cf-41a2-b551-6ff06ff6faf2.jpg",
+        "name": "16734ed3-f2cf-41a2-b551-6ff06ff6faf2"
+    },
+    "caseName": "元黃公望富春山居圖卷（無用師卷）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1316361600000,
+    "officialDocNo": "會授資籌二字10020100351號",
+    "judgeCriteria": [
+        "具有特殊歷史意義或能表現傳統、族群或地方文化特色",
+        "歷史流傳已久或史事具有深厚淵源",
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "此一長卷為黃公望重要代表作品，卷長超過六公尺，畫卷筆墨堆疊層出，山石鉤勒皴染變化多樣。全卷山體從渾圓迫近、層疊後偃，平緩坡岸乃至聳峙山峰，具豐富的山水型態。對後世影響甚大，不僅是畫史上關鍵作品，更同時具有藝術價值與歷史意義。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第四條第一項第一、二、三、四、五、六款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "0422177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫001016",
+    "amount": 1,
+    "notes": "",
+    "descAge": "元",
+    "descCreator": "黃公望",
+    "descSize": "33 x 636.9 公分",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "〈富春山居圖〉（無用師卷）由六紙接成，長逾六公尺，第一紙前有殘補痕跡。明末曾經火厄，裁裂前段部份現由浙江省博物館藏。黃公望在至正七年（1347）偕道友鄭無用回到富春，歷三、四年作成此卷。畫卷筆墨堆疊層出，山石鉤勒皴染變化多樣。全卷山體從渾圓迫近、層疊後偃，平緩坡岸乃至聳峙山峰，具豐富的山水型態。此畫卷不僅是富春的隱居景致，更是黃公望探索自然造化後的理想山水形象。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "本幅：舊火燒破缺，傷補，款字附近有墨點。包首：緙絲殘破傷補，折痕嚴重。引首：下方紙變淺色。有損傷但狀況穩定。",
+    "documents": [
+        {
+            "fileid": 151994,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-27/0620fb75-f949-4b89-a28e-944e11a4174e/公告.pdf"
+        },
+        {
+            "fileid": 151995,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-27/cff3c35a-ab25-4b52-93f4-6d48bb12da49/公告表.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71580,
+            "caseId": 3784,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 76047,
+            "caseId": 3784,
+            "caseStatus": true,
+            "registerDate": 1316361600000,
+            "officialDocNo": "會授資籌二字10020100351號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

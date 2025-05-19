@@ -1,0 +1,113 @@
+{
+    "id": 97,
+    "caseId": "19970220000002",
+    "count": 3887,
+    "shareCount": 2,
+    "representImage": 200648,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/c69912da-4a2c-4097-8914-f8ca16456da0/代表圖像_臺北第三高女(中山女中)_20220919_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/c69912da-4a2c-4097-8914-f8ca16456da0/代表圖像_臺北第三高女(中山女中)_20220919.jpeg",
+        "name": "代表圖像_臺北第三高女(中山女中)_20220919"
+    },
+    "caseName": "臺北第三高女(中山女中)",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "臺北第三高女現在稱為中山女高，這是臺灣極著名的女子中學，也是臺灣最早的女中。一八九八年初創於士林，後改稱為國語學校第三附屬學校，設本科與手藝科，專收臺灣優秀女子入學。至一九一一年遷校於艋舺，即今天內江街護專一帶，當時校舍多為木造建築，至一九二二年改稱為臺北第三高等女學校，一九三七年建新校舍於今址，戰後改稱為北二女，今天稱為中山女高。在悠久的校史傳統中，培育臺灣優秀婦女無計其數，她們日後多成為社會中堅，尤其是聰慧賢淑之臺灣婦女典型形象與氣質發揮極為深遠之影響力，為臺灣社會付出了多方面的貢獻。\r\n第三高女的校舍建於現代設計運動興起的三０年代，因此採用鋼筋混凝土構造，造型新穎，門窗比例簡潔而優美，外觀兼具垂直與水平線條之組合，反映出那個時代的建築精神，教室走廊附有置物櫃，地板施工精良，公認為精良的女子中學校舍。原從內江街曾遷建一座木造教室，但戰後已遭拆除。目前這棟教室仍然完整無缺，可視為臺灣高等女子中學教育搖籃之象徵，彌足珍貴。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "學校",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 225549,
+            "name": "公告.tif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-06-16/e939c45b-06c8-4584-9491-4325776e6b16/公告.tif"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值"
+    ],
+    "registerReason": "具歷史、文化、藝術價值",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 139066,
+            "name": "台北市地形圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/639d736e-4576-4b69-8b1b-f290ec3490ac/台北市地形圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "學校用地",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "台北市長安段一小段773地號",
+    "buildingFeatures": "在悠久的校史傳統中，培育臺灣優秀婦女無計其數，她們日後多成為社會中堅，尤其是聰慧賢淑之臺灣婦女典型形象與氣質發揮極為深遠之影響力，為臺灣社會付出了多方面的貢獻。",
+    "inHouseFeatures": "",
+    "buildingUsage": "臺北第三高女現在稱為中山女高，這是臺灣極著名的女子中學，也是臺灣最早的女中。一八九八年初創於士林，後改稱為國語學校第三附屬學校，設本科與手藝科，專收臺灣優秀女子入學。",
+    "buildingActualState": "一九一一年遷校於艋舺，即今天內江街護專一帶，當時校舍多為木造建築，至一九二二年改稱為臺北第三高等女學校，一九三七年建新校舍於今址，戰後改稱為北二女，今天稱為中山女高。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "isOpenDownload": false,
+    "longitude": 121.5372124,
+    "latitude": 25.0485124,
+    "representImageSource": "臺北市文化局",
+    "landScope": "台北市長安段一小段773地號",
+    "selfCoverage": "逸仙樓建築本體",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中山區",
+            "id": 111336,
+            "caseId": 97,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 103,
+            "address": "長安東路2段141號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中山區",
+            "landNoName": "長安段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 146616,
+            "caseId": 97,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 103,
+            "landNoId": 227,
+            "landSerialNo": "773",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "266.41平方公尺",
+            "cityLandUseTypeOther": "公共設施保留地",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 120550,
+            "caseId": 97,
+            "caseStatus": true,
+            "registerDate": 856368000000,
+            "officialDocNo": "台內民字第8674153號",
+            "classificationId": 1,
+            "note": "指定"
+        }
+    ],
+    "geojson": "[{\"features\":[{\"geometry\":{\"coordinates\":[[[[121.53903796883,25.048465634417],[121.53907231285,25.049962133523],[121.53904663546,25.049987658961],[121.53709455043,25.050031692979],[121.53706202216,25.048512017327],[121.53710160824,25.048474911207],[121.53900934996,25.048440629293],[121.53903796883,25.048465634417]]]],\"type\":\"MultiPolygon\"},\"type\":\"Feature\",\"properties\":{\"ymin\":25.048440629293,\"xmin\":121.53706202216,\"段號\":7730000,\"query\":\"臺北市,長安段一小段,773\",\"ycenter\":25.049236161136,\"land_id\":7730000,\"area_id\":\"AC\",\"content\":\"1. 個案名稱: 臺北第三高女(中山女中) <br />\\n      2. 地號: 臺北市,長安段一小段,773 <br />\\n      3. 級別: 直轄市定古蹟 <br />\\n      4. 種類: 其他設施 <br />\\n      5. 指定登錄理由: 具歷史、文化、藝術價值 <br />\\n      6. 最後一筆公告日期: 1997-02-20 <br />\\n      7. 最後一筆公告文號: 台內民字第8674153號 <br />\\n      8. 管理單位: 臺北市中山女子高級中學 <br />\\n      9. 使用單位: 臺北市中山女子高級中學 <br />\\n      10. 建物狀態: 現況良好 <br />\",\"地段\":\"長安段一小段\",\"縣市\":\"臺北市\",\"ymax\":25.050031692979,\"xcenter\":121.538067167505,\"xmax\":121.53907231285,\"section_id\":\"0419\",\"鄉鎮\":\"中山區\",\"id\":\"AC0419\",\"query_log\":[]}}],\"address\":[{\"address\":\"1. 個案名稱: 臺北第三高女(中山女中) <br />\\n      2. 地址: 長安東路2段141號 <br />\\n      3. 級別: 直轄市定古蹟 <br />\\n      4. 種類: 其他設施 <br />\\n      5. 指定登錄理由: 具歷史、文化、藝術價值 <br />\\n      6. 最後一筆公告日期: 1997-02-20 <br />\\n      7. 最後一筆公告文號: 台內民字第8674153號 <br />\\n      8. 管理單位: 臺北市中山女子高級中學 <br />\\n      9. 使用單位: 臺北市中山女子高級中學 <br />\\n      10. 建物狀態: 現況良好 <br />\",\"lat\":25.0485124,\"lng\":121.5372124}],\"notFound\":[],\"type\":\"FeatureCollection\"}]",
+    "openVisitType": "",
+    "isCharge": false,
+    "pastHistorySource": "臺北市古蹟簡介，臺北市政府文化局出版"
+}

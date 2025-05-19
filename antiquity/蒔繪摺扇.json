@@ -1,0 +1,95 @@
+{
+    "id": 18222,
+    "caseId": "20201217000032",
+    "count": 410,
+    "shareCount": 1,
+    "representImage": 90121,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-12-17/74787279-5da0-486a-b56a-48feeee48eb0/03 (1)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-12-17/74787279-5da0-486a-b56a-48feeee48eb0/03 (1).jpg",
+        "name": "03 (1)"
+    },
+    "caseName": "蒔繪摺扇",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1606377932392,
+    "officialDocNo": "北市獻編字第1093004298號",
+    "judgeCriteria": [
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "以日本山水為主要圖案，具有特殊之日本特色藝術造詣及工藝技術的精彩細緻，蒔繪漆繪佳，作工精緻藝術性高，象牙與蒔繪漆藝的結合精巧美觀，具藝術造詣。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "松山區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174-1號",
+    "reservationCode": "03",
+    "amount": 1,
+    "descAge": "日本明治時期",
+    "descSize": "長 42 公分",
+    "descMaterial": "蒔繪、象牙",
+    "reserveStatusDesc": "蒔繪藝術是日本漆藝的重要組成部分，為日本傳統工藝的一大標誌。據考古資料記載，日本用漆的歷史已有千年，其中，蒔繪漆器是最傑出的代表。其起源於「末金鏤」，是用金屬粉末和漆混合，然後再描繪的一種泥金漆畫，深受貴族階層的珍愛，得到極大推崇，形成具有日本獨特藝術魅力的蒔繪裝飾技法。\n扇子從平安時代開始，不僅僅作為用來扇風的道具，還是一種集禮儀、贈答和交流的工具，據《西宮記》記載，平安初期，每逢夏季，宮廷貴族會賜予侍臣摺扇，摺扇因而開始成為宮中活動時，侍臣攜帶的重要物品之一，與武士階級的佩刀一樣被受尊敬。\n桃山時代，開始流行將扇面圖案裝飾在器具上；明治時代，則流行將扇面圖案應用於舞蹈、茶道、香道上，也成為暢銷的貿易商品之一。\n本件作品以象牙為材質製作成摺扇，在紋樣部分塗抹較厚的漆，再灑上金、銀粉，使之凸起有立體感，為高蒔繪裝飾技法。將摺扇整個攤開，每一扇骨上的圖案串聯起來，便是一幅完整的山水圖。紋樣遠近層次的縱深處理舒朗，儼然若畫，且受到宋朝山水與禪宗佛教的影響，將山水畫轉化為蒔繪的紋飾，隱含追求與世隔絕的意境。另一面則裝飾茶花圖樣，花葉纖柔優美，婉轉自然，與最外層扇骨所描繪的折枝茶花相映成趣。整體畫面布局大氣，搭配燦爛金、銀蒔繪，盡顯華麗與貴氣。",
+    "pastHistorySource": 1,
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定。",
+    "documents": [
+        {
+            "fileid": 90120,
+            "name": "臺北市公告指定一般古物1091126.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-17/a24499df-9b1c-4d7f-bfe9-f06b97a15407/臺北市公告指定一般古物1091126.pdf"
+        }
+    ],
+    "keepNames": [
+        {
+            "keepNameIdStr": "王○",
+            "keepName": "王○",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "王○",
+            "keepAddressNew": "臺北市松山區延壽街335號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "宅第",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "松山區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "松山區",
+            "id": 7837,
+            "caseId": 18222,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 104
+        }
+    ],
+    "announces": [
+        {
+            "id": 7837,
+            "caseId": 18222,
+            "caseStatus": true,
+            "registerDate": 1606377932392,
+            "officialDocNo": "北市獻編字第1093004298號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

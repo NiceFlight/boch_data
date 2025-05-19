@@ -1,0 +1,136 @@
+{
+    "id": 1002,
+    "caseId": "20120808000001",
+    "count": 2271,
+    "shareCount": 3,
+    "representImage": 173340,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/9c515bc4-3929-433e-ad94-0dc2796a7fcb/代表圖像_南京西路255號店屋_20220707_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/9c515bc4-3929-433e-ad94-0dc2796a7fcb/代表圖像_南京西路255號店屋_20220707.jpeg",
+        "name": "代表圖像_南京西路255號店屋_20220707"
+    },
+    "caseName": "南京西路255號店屋",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "日治時期曾為板橋林家房屋租賃事業的ㄧ部分，曾作為米行、信託業、日用品等行業，印證日治時期租賃房屋等事業興盛。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 163659,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/60af37d8-5814-40e3-94c9-37c0b1dc386d/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "1、原為板橋林家在六館街尾事業之一部份，突顯六館街在臺北市都市發展不同階段的重要意義及維持了大稻埕歷史街區文化景觀，見證了當時臺北市舊產業的歷史。\r\n2、符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、2、4款評定基準。",
+    "lawsReference": "符合歷史建築登錄廢止審查及輔助辦法第2條第1項第1、2、4款評定基準。",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 118475,
+            "name": "downloadfile.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/1b14d283-0588-4374-af83-51afdf686c56/downloadfile.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "大稻埕歷史風貌特定專用區（特二）",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市大同區迪化段3小段481、482地號",
+    "buildingFeatures": "一樓部分為RC楣樑結構，立面牌樓材料主要為洗石子及泥塑技術表現。",
+    "inHouseFeatures": "室內空間簡約，天花板留有線腳修飾。",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.509959,
+    "latitude": 25.0533809,
+    "representImageSource": "臺北市文化局",
+    "landScope": "臺北市大同區迪化段3小段481、482地號等2筆土地約106平方公尺",
+    "selfCoverage": "面積約為211.82 平方公尺（實際保存面積需以保存範圍實測數據為準）",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "id": 84853,
+            "caseId": 1002,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "address": "南京西路255號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 97375,
+            "caseId": 1002,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 194,
+            "landSerialNo": "481",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "79",
+            "cityLandUseTypeOther": "大稻埕歷史風貌特定專用區（特二）",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "大同區",
+            "landNoName": "迪化段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 97376,
+            "caseId": 1002,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 102,
+            "landNoId": 194,
+            "landSerialNo": "482",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "27",
+            "cityLandUseTypeOther": "大稻埕歷史風貌特定專用區（特二）",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 91136,
+            "caseId": 1002,
+            "caseStatus": true,
+            "registerDate": 1344355200000,
+            "officialDocNo": "北市文化二字第10130361200 號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

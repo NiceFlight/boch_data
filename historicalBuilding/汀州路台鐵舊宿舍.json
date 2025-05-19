@@ -1,0 +1,151 @@
+{
+    "id": 911,
+    "caseId": "20041222000001",
+    "count": 3925,
+    "shareCount": 1,
+    "representImage": 170194,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/d34d4e3b-747d-44c6-a16e-d6952b87c32d/代表圖像_汀州路台鐵舊宿舍_20220609 (1)_c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/d34d4e3b-747d-44c6-a16e-d6952b87c32d/代表圖像_汀州路台鐵舊宿舍_20220609 (1).jpeg",
+        "name": "代表圖像_汀州路台鐵舊宿舍_20220609 (1)"
+    },
+    "caseName": "汀州路台鐵舊宿舍",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "此棟宿舍位於當年萬新鐵道水源地站旁，雖與萬新鐵道無直接必然之關係，但可作為見證萬新鐵道為臺北人之重要交通工具及台灣重要物產如煤、茶、木材之運輸工具，具保存價值。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 169619,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-06-26/ae53989a-ccbe-402f-86b9-3ca90b741408/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "此棟宿舍位於當年萬新鐵道水源地站旁，雖與萬新鐵道無直接必然之關係，但可作為見證萬新鐵道為臺北人之重要交通工具及台灣重要物產如煤、茶、木材之運輸工具，具保存價值。",
+    "lawsReference": "文化資產保存法第15條",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 168322,
+            "name": "汀州路臺鐵舊宿舍圖面1.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/7d08f3a7-ed82-4214-9ed4-3f3e8186709e/汀州路臺鐵舊宿舍圖面1.pdf"
+        },
+        {
+            "fileid": 168323,
+            "name": "汀州路臺鐵舊宿舍圖面2.tif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/a0f4d795-786c-4390-91c9-a839fa79b40d/汀州路臺鐵舊宿舍圖面2.tif"
+        }
+    ],
+    "cityLandUseTypeId": 2,
+    "cityLandUseTypeName": "商業區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "中正區福和段一小段778地號",
+    "buildingFeatures": "本棟建築為鐵路局中高階級宿舍,為二層樓雙拼二戶建築,外型樸素,一樓為客廳、廚房等公共間,另有三個房間.構造為RC、加強磚造建築,屋頂為簡單擱檁式屋頂(上舖文化瓦),外牆開窗還有防颱遮板裝置.",
+    "inHouseFeatures": "",
+    "buildingUsage": "鄰近公館商圈",
+    "buildingActualState": "交通部臺灣鐵路管理局出租商業使用中",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenVisit": true,
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.53179,
+    "latitude": 25.015623,
+    "representImageSource": "臺北市文化局",
+    "landScope": "中正區福和段一小段778地號",
+    "selfCoverage": "A棟5號及7號121.68平方公尺+B棟1號及3號104.08平方公尺，合計225.76平方公尺。",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 83434,
+            "caseId": 911,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "羅斯福路三段316巷9弄1號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 83435,
+            "caseId": 911,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "羅斯福路三段316巷9弄3號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 83436,
+            "caseId": 911,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "羅斯福路三段316巷9弄5號"
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 83437,
+            "caseId": 911,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "羅斯福路三段316巷9弄7號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "福和段一小段",
+            "cityLandUseTypeName": "商業區",
+            "id": 93303,
+            "caseId": 911,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 19,
+            "landSerialNo": "778",
+            "landownership": 1,
+            "cityLandUseTypeId": 2,
+            "coverageId": 2,
+            "area": "786",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 89672,
+            "caseId": 911,
+            "caseStatus": true,
+            "registerDate": 1103644800000,
+            "officialDocNo": "府文化二字第09304459500號",
+            "classificationId": 1,
+            "note": "登錄歷史建築"
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": ""
+}

@@ -1,0 +1,133 @@
+{
+    "id": 20030,
+    "caseId": "20210910000001",
+    "count": 2273,
+    "shareCount": 3,
+    "representImage": 139254,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-09-22/c2edbc98-1e9a-491c-9ab9-67b6737f44d5/通宵國小仁愛路日式宿舍_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-09-22/c2edbc98-1e9a-491c-9ab9-67b6737f44d5/通宵國小仁愛路日式宿舍.jpg",
+        "name": "通宵國小仁愛路日式宿舍"
+    },
+    "caseName": "通霄國小仁愛路日式教職員宿舍",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 139252,
+            "name": "通霄國小仁愛路日式教職員宿舍公告表（缺文號）.docx",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-09-22/253dba1b-c986-4d34-9048-cf79d1cfb319/通霄國小仁愛路日式教職員宿舍公告表（缺文號）.docx"
+        },
+        {
+            "fileid": 201089,
+            "name": "歷史建築「通霄國小仁愛路日式教職員宿舍」登錄公告勘誤表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-11-29/7c33dc6f-62cd-4d1e-802b-1a0152ff28ae/歷史建築「通霄國小仁愛路日式教職員宿舍」登錄公告勘誤表.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者"
+    ],
+    "registerReason": "一、通霄國小仁愛路教職員宿舍為單棟日式宿舍，建築形式為和洋折衷風格，為通霄地區少有的單棟宿舍建築；內部格局維持日式建築基本風格，整體保存完整。 \n二、增改建幅度較小，建築原貌現況及周邊環境保有極大程度之原貌並具代表性。 \n三、未來可做為學校文資教育場域，極具再利用潛力與價值。\n",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1款",
+    "govInstitutionCode": "360",
+    "govInstitutionName": "苗栗縣政府",
+    "govInstitution": "苗栗縣政府文化觀光局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "037-352961#712",
+    "govDeptAddress": "苗栗縣苗栗市自治路50號",
+    "cadasters": [
+        {
+            "fileid": 139934,
+            "name": "歷57-通霄國小仁愛路日式宿舍-航照圖+套繪地籍圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-09-29/e4b45925-71c6-4cb3-83fb-ae5c843ebc28/歷57-通霄國小仁愛路日式宿舍-航照圖+套繪地籍圖.jpg"
+        }
+    ],
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "isOpenVisit": false,
+    "isOpenDownload": false,
+    "longitude": 120.68173,
+    "latitude": 24.49041,
+    "representImageSource": "苗栗縣政府文化觀光局",
+    "landScope": "建築本體：建築本體涉及通霄鎮通東段261、261–1地號，面積共計320.32平方公尺\n",
+    "selfCoverage": "通霄鎮通東里22鄰仁愛路91號",
+    "addresses": [
+        {
+            "cityName": "苗栗縣",
+            "distName": "通霄鎮",
+            "id": 113520,
+            "caseId": 20030,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 807,
+            "address": "通東里22鄰仁愛路91號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "苗栗縣",
+            "distName": "通霄鎮",
+            "landNoName": "通東段",
+            "id": 155200,
+            "caseId": 20030,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 807,
+            "landNoId": 9266,
+            "landSerialNo": "261",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        },
+        {
+            "cityName": "苗栗縣",
+            "distName": "通霄鎮",
+            "landNoName": "通東段",
+            "id": 155201,
+            "caseId": 20030,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 807,
+            "landNoId": 9266,
+            "landSerialNo": "261-1",
+            "area": "",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 123522,
+            "caseId": 20030,
+            "caseStatus": true,
+            "registerDate": 1629907200000,
+            "officialDocNo": "府文資字第1100009356B號",
+            "classificationId": 1
+        },
+        {
+            "id": 123523,
+            "caseId": 20030,
+            "caseStatus": true,
+            "registerDate": 1666254991389,
+            "officialDocNo": "府文資字第1110012748號",
+            "classificationId": 2,
+            "note": "地號地址"
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.68166387393364,24.49082392198972],[120.68166487717923,24.490700117967318],[120.68165971337991,24.490676469412627],[120.68165311019133,24.4906770730717],[120.6816056184922,24.49067994798573],[120.68159675119183,24.490680452968736],[120.68157527259785,24.49068171958665],[120.68154819353501,24.49071090711336],[120.68153291962828,24.490727200971904],[120.68152254481312,24.490732372520885],[120.68151724297732,24.490760025902613],[120.68150466686333,24.49081577272775],[120.68153149756269,24.49082449885882],[120.68152457427273,24.490874247966275],[120.68160828406965,24.49089055730307],[120.68166387393364,24.49082392198972],[120.68166387393364,24.49082392198972]]]]},\"properties\":{\"envelope\":{\"left\":\"120.68150466686333\",\"top\":\"24.490676469412627\",\"right\":\"120.68166487717923\",\"bottom\":\"24.490890557303072\"},\"landLot\":\"苗栗縣通霄鎮通東段261\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.68166326671673,24.490886812442554],[120.68166387393364,24.49082392198972],[120.68160828406965,24.49089055730307],[120.68163425285908,24.49089559690336],[120.68166317331067,24.49090118716343],[120.68166326671673,24.490886812442554],[120.68166326671673,24.490886812442554]]]]},\"properties\":{\"envelope\":{\"left\":\"120.68160828406965\",\"top\":\"24.490823921989719\",\"right\":\"120.68166387393364\",\"bottom\":\"24.490901187163431\"},\"landLot\":\"苗栗縣通霄鎮通東段261-1\"}}],\"notfound\":[]}]",
+    "openVisitType": "預約開放參觀",
+    "pastHistorySource": "通霄鎮仁愛路老舊教職員宿舍-清冊"
+}

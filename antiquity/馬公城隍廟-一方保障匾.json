@@ -1,0 +1,103 @@
+{
+    "id": 16314,
+    "caseId": "20181031000007",
+    "count": 392,
+    "shareCount": 0,
+    "representImage": 51103,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-10-31/70db26c4-9b06-4410-923f-d68d1ba4a30d/10-022IMG_9299_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-10-31/70db26c4-9b06-4410-923f-d68d1ba4a30d/10-022IMG_9299.jpg",
+        "name": "10-022IMG_9299"
+    },
+    "caseName": "馬公城隍廟-一方保障匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1535967878399,
+    "officialDocNo": "府授文博字第1073702665號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "（1）具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色：表現傳統地方文化特色。\n（2）能反映政治、經濟、社會、人文、科學等歷史變遷或時代特色者：具歷史價值。\n（3）具有藝術造詣或科學成就：形式完整美觀，製作精緻，具藝術價值。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、3、4款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "馬公市",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "博物館科",
+    "govDeptPhone": "06-9210405轉6409",
+    "govDeptAddress": "澎湖縣馬公市新生路327號",
+    "reservationCode": "STG00679-P-M015-022",
+    "amount": 1,
+    "notes": "1933（昭和8）年，地方仕紳花費一萬二千圓重建成今日廟貌基礎，本件為該次重建時之文物。",
+    "descAge": "1933年",
+    "descSize": "寬約210公分",
+    "descMaterial": "木",
+    "reserveStatusDesc": "橫長形木匾，匾面似為四片拼接，中行字與紋飾皆貼金。如意開光匾面，中行以綠底繪白鶴彩雲為地，中行覆竹貼字行楷，題「一方保障」，上下款為瓜形覆竹鑲嵌，上陰刻題字，左為「昭和癸酉年重新落成」、右為「宣講社諸善堂、德善堂一同敬献」，開光外與外框間為紅底，四角飾蝠紋，上下各飾三種兵器彩帶紋；匾框綠底浮雕雙龍拱珠與捲草紋。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "時間：1933年       捐贈者：宣講社諸善堂德善堂一同敬獻",
+    "saveEnvironment": 2,
+    "reserveStatus": "保存良好，懸於拜殿。",
+    "documents": [
+        {
+            "fileid": 51102,
+            "name": "馬公城隍廟-一方保障匾.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2018-10-31/151afa8f-98ec-4ce5-8b3b-0e24235b6650/馬公城隍廟-一方保障匾.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 119.566317,
+    "latitude": 23.566223,
+    "representImageSource": "澎湖縣政府文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "馬公城隍廟",
+            "keepName": "顏敏雄",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "馬公城隍廟",
+            "keepAddressNew": "澎湖縣馬公市重慶里光明路20 號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "澎湖縣",
+            "keepNameDistName": "馬公市",
+            "keepNameAddress": "重慶里光明路8鄰20號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "馬公市",
+            "id": 26885,
+            "caseId": 16314,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2101,
+            "address": "重慶里光明路20 號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 27116,
+            "caseId": 16314,
+            "caseStatus": true,
+            "registerDate": 1535967878399,
+            "officialDocNo": "府授文博字第1073702665號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

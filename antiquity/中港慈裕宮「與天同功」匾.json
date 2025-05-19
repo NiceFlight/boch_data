@@ -1,0 +1,101 @@
+{
+    "id": 3002,
+    "caseId": "20150128000002",
+    "count": 790,
+    "shareCount": 0,
+    "representImage": 5388,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4611/photo/中港慈裕宮「與天同功」匾_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4611/photo/中港慈裕宮「與天同功」匾.jpg",
+        "name": "中港慈裕宮「與天同功」匾"
+    },
+    "caseName": "中港慈裕宮「與天同功」匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-碑碣、匾額、楹聯、旗幟、印信等具史料價值之文物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1422374400000,
+    "officialDocNo": "府文資字第1040000907C號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "「與天同功」係光緒帝命翰林院南書房所書致贈全臺各轄屬天后宮，本匾見證光緒八年（1882年）大甲溪橋修建工程，由當時的岑毓英為撫臺奏請御筆獻立，並於匾中間正上方鐫刻『旨』字及方印『光緒御筆之寶』，具珍貴性。目前所見「與天同功」匾額有上下落款者，全臺僅『後龍慈雲宮』與『中港慈裕宮』兩塊匾，具稀少性，極為特殊。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第2條第1項第1、2、5、6款",
+    "govInstitutionCode": "360",
+    "govInstitutionName": "苗栗縣政府",
+    "belongCityId": 8,
+    "belongCityName": "苗栗縣",
+    "belongDistName": "竹南鎮",
+    "govInstitution": "苗栗縣政府文化觀光局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "037-352961#712",
+    "govDeptAddress": "苗栗縣苗栗市自治路50號",
+    "reservationCode": "06",
+    "amount": 1,
+    "notes": "",
+    "descAge": "光緒八年（1882年）",
+    "descSize": "長方形匾額，高83.5公分、寬227公分、厚7公分。",
+    "descMaterial": "杉木木材拼組而成",
+    "reserveStatusDesc": "「與天同功」匾立於光緒八年（1882年），並於民國一百零四年（2015年）1月28日，經苗栗縣政府公告登錄為一般古物，屬圖書文獻類。該匾為橫長形木匾，黑底金漆之陽文字體，額面係由數塊長方形板拼接而成。上款為「光緒八年正月　奉」，下款為「太子少保頭品頂戴兵部尚書福建巡撫部院一等輕車都尉臣岑毓英立」陰刻字體，直接刻於額面上。匾面中央上方有一枚淺浮雕之禦璽，為「光緒御筆之寶」的六字方框，正上方有一「旨」字，旨之寫法為「上」「曰」組合而成。係光緒帝命翰林院南書房所書致贈全臺各轄屬天后宮，見證大甲溪橋修建工程，由當時的岑毓英為撫臺奏請御筆獻立。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "岑毓英1816",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 138625,
+            "name": "古物06-中港慈裕宮「與天同功」匾-公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-09-15/882f9c64-bd91-41a6-93b5-3423f4566355/古物06-中港慈裕宮「與天同功」匾-公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 120.863664502182,
+    "latitude": 24.6825182846281,
+    "representImageSource": "苗栗縣政府文化觀光局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "中港慈裕宮管理委員會",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "苗栗縣竹南鎮民生路7號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "苗栗縣",
+            "distName": "竹南鎮",
+            "id": 149458,
+            "caseId": 3002,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 801
+        }
+    ],
+    "announces": [
+        {
+            "id": 162584,
+            "caseId": 3002,
+            "caseStatus": true,
+            "registerDate": 1422374400000,
+            "officialDocNo": "府文資字第1040000907C號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

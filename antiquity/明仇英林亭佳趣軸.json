@@ -1,0 +1,101 @@
+{
+    "id": 4359,
+    "caseId": "20150505000006",
+    "count": 203,
+    "shareCount": 0,
+    "representImage": 7313,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4516/photo/明仇英林亭佳趣軸_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4516/photo/明仇英林亭佳趣軸.jpg",
+        "name": "明仇英林亭佳趣軸"
+    },
+    "caseName": "明仇英林亭佳趣軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1430755200000,
+    "officialDocNo": "文授資局物第 10420054041號",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "仇英（約1494－1552），字實父，號十洲，居蘇州。從周臣學畫，擅長山水、仕女、人物。與沈周、文徵明、唐寅，並稱明四家。\r\n仇英早年作品傳世不多，亦無確切紀年者。本幅畫文士隱居，風格受文派山水畫影響，用筆細謹，設色清雅。畫法近似文徵明，足以代表仇英早年的繪畫面貌。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條1項第4、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫002178",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descSize": "114 x 33.6（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "仇英，字實父，號十洲，與沈周、文徵明、唐寅，並稱明四家。本幅畫文士隱居，風格受文派山水畫影響，用筆細謹，設色清雅。山水點景融入宋代惠崇（約965－1017）、趙令穰（約活動於1036－1101）汀渚水禽母題。畫中主角閉眼倚榻陶然於山光水色的姿態亦別具趣味。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 149999,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-10/a1d2c002-9c2a-4c4a-a27f-023bbdab5fee/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 70337,
+            "caseId": 4359,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 74570,
+            "caseId": 4359,
+            "caseStatus": true,
+            "registerDate": 1430755200000,
+            "officialDocNo": "文授資局物第 10420054041號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

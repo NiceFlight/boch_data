@@ -1,0 +1,98 @@
+{
+    "id": 18237,
+    "caseId": "20210803000001",
+    "count": 288,
+    "shareCount": 0,
+    "representImage": 127830,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-08-02/8fa58339-3ea4-4a96-bfee-7ea5502941df/金剛般若波羅密多心經註解(松雲軒雕版)_1頁_P003_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-08-02/8fa58339-3ea4-4a96-bfee-7ea5502941df/金剛般若波羅密多心經註解(松雲軒雕版)_1頁_P003.jpg",
+        "name": "金剛般若波羅密多心經註解(松雲軒雕版)_1頁_P003"
+    },
+    "caseName": "德化堂木刻藏版─金剛般若波羅蜜多心經註解(松雲軒雕版)",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-宗教經典",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有一定之時代特色、技術及流派",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "松雲軒刻印坊於清道光初年成立於府城，為臺灣一家雕版印書坊。松雲軒的成立解決長期以來臺灣書籍之取得仰賴漳、泉輸入的問題，促進書籍的流通，開啟1820年以後臺灣雕版印刷的發展。然而松雲軒版多毀於第二次世界大戰期間臺南市區大轟炸，本組雕版為松雲軒所刊刻，為臺灣雕版印刷、出版史之珍貴見證。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第1、3、5、6款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "govInstitution": "臺南市文化資產管理處",
+    "govDeptName": "文化資產研究組",
+    "govDeptPhone": "06-2213597",
+    "govDeptAddress": "臺南市中西區 中正路5巷1號3樓",
+    "reservationCode": "尚未編列",
+    "amount": 41,
+    "descAge": "道光 16  年(1836) ",
+    "descSize": "一案多件，詳見相關古物清單。",
+    "descMaterial": "木質",
+    "reserveStatusDesc": "共 41 塊印版，有雙面版，部分單面版，共計刻印 74 頁。 \n  版心花口，上刻「心經註解」，單魚尾，下刊葉次。單面版共 8 片，部\n分背面有墨書字「壹面無用」。 \n  第 36 葉背面另寫墨書「心經解共 41 片」，數字以蘇州碼寫就。第 69\n葉版心上刻「印送姓名」，單魚尾下刊葉次與「松雲軒造」。\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "保存狀況良好。",
+    "documents": [
+        {
+            "fileid": 127829,
+            "name": "德化堂木刻藏版公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-08-02/35c381a5-3c99-4310-8e0f-dc30769c61ff/德化堂木刻藏版公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 22.97477,
+    "latitude": 120.22155,
+    "representImageSource": "臺南市文化資產管理處",
+    "keepNames": [
+        {
+            "keepNameIdStr": "臺南德化堂",
+            "keepName": "臺南德化堂",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺南市文化中心",
+            "saveSpaceOther": "臺南市東區中華東路三段332號",
+            "saveSpaceIdStr": "其他",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "澎湖縣",
+            "keepNameDistName": "馬公市",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "東區",
+            "id": 60620,
+            "caseId": 18237,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1602,
+            "address": "中華東路三段332號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 63373,
+            "caseId": 18237,
+            "caseStatus": true,
+            "registerDate": 1473141504691,
+            "officialDocNo": "府文資處字第1050863322B號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

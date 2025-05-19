@@ -1,0 +1,118 @@
+{
+    "id": 15512,
+    "caseId": "20180309000001",
+    "count": 1447,
+    "shareCount": 1,
+    "representImage": 211087,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-04-11/08dd4a57-a575-4904-bf66-e1e0ae48bab3/鹿港紫極殿郭新林彩繪門神_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-04-11/08dd4a57-a575-4904-bf66-e1e0ae48bab3/鹿港紫極殿郭新林彩繪門神.jpg",
+        "name": "鹿港紫極殿郭新林彩繪門神"
+    },
+    "caseName": "鹿港紫極殿郭新林彩繪門神",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1505387852100,
+    "officialDocNo": "府授文演字第1060320282B號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "具有藝術造詣或科學成就",
+        "對地方或族群知識、技術或流派發展具影響或意義"
+    ],
+    "registerReason": "1.為近代馳譽全台之鹿港籍傳統彩繪大師郭新林晚年作品，深具傳統民間藝術、歷史文獻、鄉土文化等多重價值。\n2.郭新林彩繪係鹿港門神的代表作品之一，具有時代流派及文化、藝術價值。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1項第1、3、4、6款",
+    "govInstitutionCode": "500",
+    "govInstitutionName": "彰化縣政府",
+    "belongCityId": 11,
+    "belongCityName": "彰化縣",
+    "belongDistName": "鹿港鎮",
+    "govInstitution": "彰化縣政府",
+    "govDeptName": "彰化縣文化局",
+    "govDeptPhone": "04-7510709",
+    "govDeptAddress": "彰化縣彰化市平和七街66號",
+    "reservationCode": " 府授文演字第1070140294G號",
+    "amount": 2,
+    "descAge": "民國56-57年（西元1967-1968年）",
+    "descCreator": "郭新林",
+    "descSize": "282.5X77X5.8公分",
+    "descMaterial": "檜木、桐油漆彩",
+    "reserveStatusDesc": "為近代馳譽全臺之鹿港籍傳統彩繪大師郭新林晚年作品，深具傳統民間藝術、歷史文獻、鄉土文化等多重價值。《鹿港鎮志.藝文篇》記載：「郭新林：鹿港人，光緒24年（西元1898年）生，民國61年（西元1973年）卒。畫作傳承閩南精華，頗富文人氣息，雖用色絢爛，不失渾厚，筆法流暢，留有唐宋遺風，每有難得之佳構。如臺中林祖厝、彰化節孝祠、南瑤宮、鹿港龍山寺、天后宮、元昌行、紫極殿、嘉義吳鳳廟等。」",
+    "pastHistorySource": 2,
+    "pastHistorySourceNotes": "廟方出資聘請郭新林繪製",
+    "saveEnvironment": 2,
+    "reserveStatus": "表面煙燻，數處刮痕，整體尚稱保存完整。",
+    "documents": [
+        {
+            "fileid": 211085,
+            "name": "鹿港紫極殿郭新林彩繪門神1060914.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-04-11/4036af89-0ade-4352-b658-341ba097594d/鹿港紫極殿郭新林彩繪門神1060914.pdf"
+        },
+        {
+            "fileid": 211086,
+            "name": "鹿港紫極殿郭新林彩繪門神1070511.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-04-11/e042876c-2407-4d7e-8ab6-542a2c1d9689/鹿港紫極殿郭新林彩繪門神1070511.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 24.778289,
+    "latitude": 120.988108,
+    "representImageSource": "彰化縣文化局",
+    "keepNames": [
+        {
+            "keepNameIdStr": "鹿港紫極殿",
+            "keepName": "鹿港紫極殿",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "鹿港紫極殿",
+            "keepAddressNew": "彰化縣鹿港鎮菜園里三民路206號",
+            "saveSpaceIdStr": "寺廟",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 2,
+            "keepNameCityName": "彰化縣",
+            "keepNameDistName": "鹿港鎮",
+            "keepNameAddress": "菜園里三民路206號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "彰化縣",
+            "distName": "鹿港鎮",
+            "id": 113222,
+            "caseId": 15512,
+            "caseStatus": true,
+            "cityId": 11,
+            "distId": 1105,
+            "address": "菜園里三民路206號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 123053,
+            "caseId": 15512,
+            "caseStatus": true,
+            "registerDate": 1505387852100,
+            "officialDocNo": "府授文演字第1060320282B號",
+            "classificationId": 1
+        },
+        {
+            "id": 123054,
+            "caseId": 15512,
+            "caseStatus": true,
+            "registerDate": 1526027433601,
+            "officialDocNo": "府授文演字第1070140294G號",
+            "classificationId": 2,
+            "note": "修正指定為彰化縣一般古物"
+        }
+    ],
+    "isPublic": false
+}

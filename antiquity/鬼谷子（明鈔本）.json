@@ -1,0 +1,90 @@
+{
+    "id": 3588,
+    "caseId": "20130813000043",
+    "count": 212,
+    "shareCount": 0,
+    "representImage": 6278,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7293/photo/鬼谷子(明鈔本)_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7293/photo/鬼谷子(明鈔本).png",
+        "name": "鬼谷子(明鈔本)"
+    },
+    "caseName": "鬼谷子（明鈔本）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1376323200000,
+    "officialDocNo": "文資局物字第 10220091271號",
+    "judgeCriteria": [
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "明嘉靖乙巳(二十四年,1545)藍格鈔本。\r\n鬼谷子，春秋戰國時期著名的思想家、謀略家、兵家、教育家，為縱橫家之鼻祖，撰《鬼谷子》一書。書前有云：「縱橫者所以明辨說，善辭令，以通上下之志也」，故其內容可謂縱橫家遊說經驗、權謀策略及言談辯論技巧之書。書中有清盧文弨手校又嚴元照、徐鯤、勞權手校並跋。\r\n明代鈔本古籍，罕見稀有，具重要歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第3條第一項第五、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "reservationCode": "書號06937",
+    "keepNameId": 2,
+    "keepNameNew": 17,
+    "keepAddressNew": "臺北市中正區中山南路20號",
+    "amount": 3,
+    "reserveStatusDesc": "舊題周鬼谷子撰、梁陶弘景注\r\n三卷(上、中、下)\r\n紙質\r\n鈔本\r\n半葉8行，版匡20.3x12.3公分",
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 6279,
+            "name": "a3ca3eb3-3f33-45cc-9444-f961563fde0e.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44181/file/a3ca3eb3-3f33-45cc-9444-f961563fde0e.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "belongAddress": "中山南路20號",
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺北市中正區中山南路20號",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3730,
+            "caseId": 3588,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "中山南路20號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 3730,
+            "caseId": 3588,
+            "caseStatus": true,
+            "registerDate": 1376323200000,
+            "officialDocNo": "文資局物字第 10220091271號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

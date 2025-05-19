@@ -1,0 +1,137 @@
+{
+    "id": 1805,
+    "caseId": "20071121000003",
+    "count": 2165,
+    "shareCount": 2,
+    "representImage": 3624,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/1296/photo/隘門新村1_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/1296/photo/隘門新村1.JPG",
+        "name": "隘門新村1"
+    },
+    "caseName": "隘門新村",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "該眷村為空軍基地之眷舍，行政區域屬於隘門村，北鄰隘門村，西接204縣道與馬公機場。該眷村於民國53（1964）年興建，民國54（1965）年遷住。住屋分為甲A種、甲B種（大坪數）以及乙種（小坪數）三類，由北段至南段，第一排為甲A與甲B種類眷舍；第二、三排為乙種類眷舍。實際戶數31戶，全盛時期約40戶（北段10戶；中段18；南段12戶），民國60幾年人口漸漸外移，至民國95（2006）年只剩下15戶，96（2007）年3月已全部遷移至龍行新城。",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1195607847000,
+    "officialDocNo": "府授文資字第09637001134號",
+    "documents": [
+        {
+            "fileid": 76320,
+            "name": "公告公文.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-11-24/0ec8de95-aba8-4177-bf1d-9615e8c4e069/公告公文.pdf"
+        },
+        {
+            "fileid": 76321,
+            "name": "公告公文(歷次).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-11-24/787d4981-fead-49f0-964e-da31350c15d3/公告公文(歷次).pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "隘門新村為目前澎湖少數尚保存的軍方眷舍，玄武岩使用及加工具澎湖在地特色，代表50年代國軍眷設施工法（玄武岩塊之間以水泥填縫），具眷舍建築歷史及技術史之價值，目前狀況尚佳，並具有再利用的潛力。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、2、3款",
+    "govInstitutionCode": "880",
+    "govInstitutionName": "澎湖縣政府",
+    "belongCityId": 21,
+    "belongCityName": "澎湖縣",
+    "belongDistName": "湖西鄉",
+    "govInstitution": "澎湖縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "06-9261141#138",
+    "govDeptAddress": "澎湖縣馬公市中華路230號",
+    "cadasters": [
+        {
+            "fileid": 3625,
+            "name": "b710b9ca-7c54-4a55-8711-cb31ecee1c3f.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/75320/photo/b710b9ca-7c54-4a55-8711-cb31ecee1c3f.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonCityLandUseTypeId": 2,
+    "nonCityLandUseTypeName": "一般農業區",
+    "nonCityLandUseSubTypeId": 5,
+    "nonCityLandUseSubTypeName": "農牧",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "湖西鄉隘門新段1135地號。",
+    "buildingFeatures": "1.該眷村每一段眷舍皆設有階梯，約兩戶共用一座階梯，可通往家門口或眷舍後側。\r\n2.連棟建築，戶與戶之間相連。",
+    "inHouseFeatures": "其空間外而內依序為客廳、臥房、浴室、廚房等組成。前後皆留有約4公尺的緩衝空間，作為階梯、通道、庭院等使用。",
+    "buildingUsage": "目前為閒置眷村。\n",
+    "buildingActualState": "眷戶已遷移，目前為閒置狀態。\n",
+    "buildingKeyMaintainItem": "安排人員固定巡視及記錄，並應定期清理四周植物。",
+    "bulkTransfer": 0,
+    "belongAddress": "湖西鄉隘門村",
+    "isOpenVisit": false,
+    "openUpTime": "不開放",
+    "isOpenDownload": false,
+    "longitude": 119.632912,
+    "latitude": 23.557465,
+    "representImageSource": "澎湖縣政府文化局文化資產科",
+    "landScope": "澎湖縣湖西鄉隘門新段1135地號",
+    "selfCoverage": "馬公航空站出站後，右轉往馬公市區方向，左側斜岔路口進入後約30公尺處。",
+    "addresses": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "湖西鄉",
+            "id": 89139,
+            "caseId": 1805,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2106,
+            "address": "湖西鄉隘門村"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "澎湖縣",
+            "distName": "湖西鄉",
+            "landNoName": "隘門新段",
+            "noncityLandUseTypeName": "一般農業區",
+            "id": 106686,
+            "caseId": 1805,
+            "caseStatus": true,
+            "cityId": 21,
+            "distId": 2106,
+            "landNoId": 15505,
+            "landSerialNo": "1135",
+            "landownership": 1,
+            "noncityLandUseTypeId": 2,
+            "area": "10399.65平方公尺",
+            "noncityLandUseTypeOther": "特定目的事業用地",
+            "note": "",
+            "cityLandUseId": 2
+        }
+    ],
+    "announces": [
+        {
+            "id": 96201,
+            "caseId": 1805,
+            "caseStatus": true,
+            "registerDate": 1195607847000,
+            "officialDocNo": "府授文資字第09637001134號",
+            "classificationId": 1
+        },
+        {
+            "id": 96202,
+            "caseId": 1805,
+            "caseStatus": true,
+            "registerDate": 1196318396908,
+            "officialDocNo": "府授文資字第0963700119號",
+            "classificationId": 2,
+            "note": "公告更正「隘門新村」登錄為本縣歷史建築之名稱及位置"
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[119.63389282257288,23.557776636008573],[119.63391911394822,23.557723114184007],[119.63389484669392,23.55770188643327],[119.63385121076008,23.557706852345586],[119.63380952994126,23.557690415853887],[119.63375280544464,23.55764573450168],[119.63367672847338,23.557445594455004],[119.63363052639149,23.55726349034724],[119.6334955586399,23.55732466113861],[119.6334909834832,23.55738007597787],[119.6334146502547,23.557397532974928],[119.63327664492948,23.55706353097712],[119.63325843234259,23.557067142222444],[119.6332043085784,23.55691432974782],[119.63318834403037,23.556916893636252],[119.63322305503483,23.557024924179085],[119.63305168145989,23.557068562641433],[119.63283228861016,23.557093531079975],[119.63265344747687,23.55714889353618],[119.6325924020838,23.556967930661077],[119.63241646031595,23.556990281771462],[119.63247795131679,23.557129040479218],[119.63234465086593,23.557205150316747],[119.63227964367022,23.557249872805475],[119.63195321286689,23.557309936377184],[119.63201097639927,23.557468307346053],[119.63224426535962,23.557413474158487],[119.63240459066158,23.557396738211214],[119.63244825661172,23.557610289975315],[119.63246299758902,23.55768205718239],[119.6326710420458,23.55767436487976],[119.63275145731755,23.55769333296954],[119.6328884913253,23.557765689137476],[119.63297638444759,23.55782040931865],[119.6331180676177,23.55784869327276],[119.63334231675843,23.557849715136896],[119.63356567669038,23.557836805106344],[119.63389282257288,23.557776636008573],[119.63389282257288,23.557776636008573]]]]},\"properties\":{\"envelope\":{\"left\":\"119.63195321286689\",\"top\":\"23.556914329747819\",\"right\":\"119.63391911394822\",\"bottom\":\"23.557849715136896\"},\"landLot\":\"澎湖縣湖西鄉隘門新段1135\"}}],\"notfound\":[]}]",
+    "openVisitType": "",
+    "pastHistorySource": "《澎湖縣眷村文化潛力普查期末報告》，澎湖縣文化局，2007"
+}

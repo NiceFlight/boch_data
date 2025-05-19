@@ -1,0 +1,168 @@
+{
+    "id": 18957,
+    "caseId": "20210428000005",
+    "count": 2134,
+    "shareCount": 0,
+    "representImage": 139251,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-09-22/43c78f8e-4b89-4a54-bb73-23357f90b9b9/IMG_9326_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-09-22/43c78f8e-4b89-4a54-bb73-23357f90b9b9/IMG_9326.jpg",
+        "name": "IMG_9326"
+    },
+    "caseName": "原苑裡中繼所",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "產業",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 107793,
+            "name": "歷51-原苑裡中繼所-公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-04-28/2ad3347d-ec8b-4eac-9c81-6a9a6c13cea9/歷51-原苑裡中繼所-公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1.建於日治晚期（1940年代），主屋頂為半切妻、屋架副同柱、格井天花（建材具時代性，牆為磚造承重牆系統）附屬建築屋頂為切妻造型式，以過廊與主屋連結，外牆台度仿石造（洗石子）為當時主要營建工藝。（符合「歷史建築紀念建築登錄廢止審查及輔助辦法」第2條第1項第1款登錄基準。）。\n2.全台九處中繼站僅存四處之一，曾為台灣西部重要電信中心，具稀少性。（符合「歷史建築紀念建築登錄廢止審查及輔助辦法」第2條第1項第3款登錄基準。）",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、3款",
+    "govInstitutionCode": "360",
+    "govInstitutionName": "苗栗縣政府",
+    "govInstitution": "苗栗縣政府文化觀光局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "037-352961#712",
+    "govDeptAddress": "苗栗縣苗栗市自治路50號",
+    "cadasters": [
+        {
+            "fileid": 139907,
+            "name": "歷51-原苑裡中繼所-地籍資料.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-09-29/277d9215-f6e2-4858-ab52-d20aadab718b/歷51-原苑裡中繼所-地籍資料.jpg"
+        }
+    ],
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "isOpenVisit": true,
+    "isOpenDownload": false,
+    "longitude": 120.654709,
+    "latitude": 24.448131,
+    "representImageSource": "苗栗縣政府文化觀光局",
+    "landScope": "建築物坐落土地為苑裡鎮苑南段1009（地號面積38.07平方公尺）、1009-2（地號面積3.73平方公尺）、1010（地號面積1,903.11平方公尺）、1010-2地號（地號面積73.45平方公尺）。",
+    "selfCoverage": "建築面積715.90 ㎡",
+    "addresses": [
+        {
+            "cityName": "苗栗縣",
+            "distName": "苑裡鎮",
+            "id": 111977,
+            "caseId": 18957,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 808,
+            "address": "中山路32號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "苗栗縣",
+            "distName": "苑裡鎮",
+            "landNoName": "苑南段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 150645,
+            "caseId": 18957,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 808,
+            "landNoId": 9282,
+            "landSerialNo": "1009",
+            "landownership": 3,
+            "cityLandUseTypeId": 10,
+            "area": "38.07",
+            "cityLandUseTypeOther": "電信專用區",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "苗栗縣",
+            "distName": "苑裡鎮",
+            "landNoName": "苑南段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 150646,
+            "caseId": 18957,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 808,
+            "landNoId": 9282,
+            "landSerialNo": "1009-2",
+            "landownership": 3,
+            "cityLandUseTypeId": 10,
+            "area": "267.37",
+            "cityLandUseTypeOther": "電信專用區",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "苗栗縣",
+            "distName": "苑裡鎮",
+            "landNoName": "苑南段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 150647,
+            "caseId": 18957,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 808,
+            "landNoId": 9282,
+            "landSerialNo": "1010",
+            "landownership": 3,
+            "cityLandUseTypeId": 10,
+            "area": "1903.11",
+            "cityLandUseTypeOther": "機關用地",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "苗栗縣",
+            "distName": "苑裡鎮",
+            "landNoName": "苑南段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 150648,
+            "caseId": 18957,
+            "caseStatus": true,
+            "cityId": 8,
+            "distId": 808,
+            "landNoId": 9282,
+            "landSerialNo": "1010-2",
+            "landownership": 3,
+            "cityLandUseTypeId": 10,
+            "area": "73.45",
+            "cityLandUseTypeOther": "電信專用區",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 121383,
+            "caseId": 18957,
+            "caseStatus": true,
+            "registerDate": 1575448238253,
+            "officialDocNo": "府文資字第1080015043B號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.65085252191957,24.439339243852515],[120.65078534924572,24.4392040338128],[120.65078899754243,24.43927665663473],[120.65082601786422,24.43935093384926],[120.65085252191957,24.439339243852515],[120.65085252191957,24.439339243852515]]]]},\"properties\":{\"envelope\":{\"left\":\"120.65078534924572\",\"top\":\"24.4392040338128\",\"right\":\"120.65085252191957\",\"bottom\":\"24.439350933849258\"},\"landLot\":\"苗栗縣苑裡鎮苑南段1009\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.65082601786422,24.43935093384926],[120.65078899754243,24.43927665663473],[120.65078953045283,24.439287275906036],[120.65082211646163,24.43935265478973],[120.65082601786422,24.43935093384926],[120.65082601786422,24.43935093384926]]]]},\"properties\":{\"envelope\":{\"left\":\"120.65078899754243\",\"top\":\"24.439276656634728\",\"right\":\"120.65082601786422\",\"bottom\":\"24.43935265478973\"},\"landLot\":\"苗栗縣苑裡鎮苑南段1009-2\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.65082211646163,24.43935265478973],[120.65078953045283,24.439287275906036],[120.65078899754243,24.43927665663473],[120.65066036145842,24.439018568747365],[120.65061492434953,24.438982720014973],[120.6504664714055,24.43905909331499],[120.65037898412479,24.439112903197035],[120.6503303873601,24.439112731279327],[120.65026106157104,24.439139774324968],[120.65028844436867,24.439194948514597],[120.65030768075724,24.439233688339954],[120.65032623101767,24.439270893461636],[120.65034468266732,24.439308097450116],[120.65036333206412,24.439345482472273],[120.65038188185892,24.43938286816472],[120.6504001355553,24.439419981399222],[120.65041839049495,24.43945700524773],[120.65043654657198,24.43949411915495],[120.65044812845349,24.43951723654545],[120.65082211646163,24.43935265478973],[120.65082211646163,24.43935265478973]]]]},\"properties\":{\"envelope\":{\"left\":\"120.65026106157104\",\"top\":\"24.438982720014973\",\"right\":\"120.65082211646163\",\"bottom\":\"24.439517236545448\"},\"landLot\":\"苗栗縣苑裡鎮苑南段1010\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.65078534924572,24.4392040338128],[120.65071437803009,24.439061185511314],[120.65066036145842,24.439018568747365],[120.65078899754243,24.43927665663473],[120.65078534924572,24.4392040338128],[120.65078534924572,24.4392040338128]]]]},\"properties\":{\"envelope\":{\"left\":\"120.65066036145842\",\"top\":\"24.439018568747365\",\"right\":\"120.65078899754243\",\"bottom\":\"24.439276656634728\"},\"landLot\":\"苗栗縣苑裡鎮苑南段1010-2\"}}],\"notfound\":[]}]",
+    "openVisitType": "預約開放參觀",
+    "pastHistorySource": "原苑裡中繼所-清冊"
+}

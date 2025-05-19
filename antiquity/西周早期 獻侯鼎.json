@@ -1,0 +1,95 @@
+{
+    "id": 23004,
+    "caseId": "20240912000001",
+    "count": 362,
+    "shareCount": 2,
+    "representImage": 262328,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-09-18/6cb7aa7f-2a73-4993-83f2-603cb21689f4/C1A001213N000000000PAB_c.png"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-09-18/6cb7aa7f-2a73-4993-83f2-603cb21689f4/C1A001213N000000000PAB.png",
+        "name": "C1A001213N000000000PAB"
+    },
+    "caseName": "西周早期 獻侯鼎",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "judgeCriteria": [
+        "歷代著名人物、國家重大事件之代表性",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色之代表性",
+        "獨一無二或不可替代性"
+    ],
+    "registerReason": "此鼎為西周早期典型三足鬲鼎樣式，浮雕獸面紋飾莊重。器內壁銘文記錄西周成王在宗周舉行祭祀活動，以及獻侯獲得賞賜而鑄器。本器明確提及「成王」，為重要歷史材料。 \n銘文末尾的族氏銘文「□」，標示獻侯的家族背景。推測與山西聞喜酒務頭墓地出土品所見的商代晚期「□獻」氏關係密切，反映西周初年(西元前11世紀中葉-前10世紀中葉)的歷史和政治情境。  \n此器為瀋陽故宮舊藏，著錄於乾隆時期敕編《西清續鑑．乙編》，流傳有緒。為傳世名器，著錄於民國初年多本重要青銅器參考書。\n透過清末民初青銅器圖譜的著錄，可知傳世雖另有一件〈獻侯鼎〉，現已不知所蹤，因此銘文記錄著重要人名和族氏徽記的此器，顯得彌足珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第4條第2、3、5款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "042217-7777",
+    "govDeptAddress": "臺中市南區復興路三段362號",
+    "reservationCode": "中銅001213",
+    "amount": 1,
+    "descAge": "西周早期",
+    "descSize": "通高24.2 口徑18.0 腹深11.2 腹圍56.6",
+    "descMaterial": "銅",
+    "reserveStatusDesc": "此三足鬲鼎為侈口，立耳，腹作分襠，柱足。器腹飾大卷角獸面紋，足飾蟬紋，為西周早期獸面紋鬲鼎的典型樣式，與一般鬲鼎相比，器腹較深。此器內壁有銘文四行二十一字：「唯成王大□在宗周，賞獻侯□貝，用作丁侯尊彝。〔□〕。」內容記錄成王在宗周舉行大□禮，並賞賜獻侯□貝，獻侯因此鑄器給丁侯。\n該器為瀋陽故宮舊藏，錄於《西清續鑑．乙編》卷1頁6。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": " ",
+    "documents": [
+        {
+            "fileid": 262116,
+            "name": "11330087931號公告用印後PDF.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-09-12/7c11d2ba-f264-4e23-b819-06d8109bef50/11330087931號公告用印後PDF.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 135980,
+            "caseId": 23004,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 148467,
+            "caseId": 23004,
+            "caseStatus": true,
+            "registerDate": 1725326680565,
+            "officialDocNo": "文授資局物字第11330087931號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

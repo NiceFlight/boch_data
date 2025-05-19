@@ -1,0 +1,107 @@
+{
+    "id": 4238,
+    "caseId": "20090508000027",
+    "count": 246,
+    "shareCount": 0,
+    "representImage": 7158,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36655/photo/c7280de7-dc09-4075-b616-01b4f599aa8b_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36655/photo/c7280de7-dc09-4075-b616-01b4f599aa8b.jpg",
+        "name": "c7280de7-dc09-4075-b616-01b4f599aa8b"
+    },
+    "caseName": "駱駝刀",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1241712000000,
+    "officialDocNo": "會授資籌二字第0982105246號",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本件刀器是現有殷墟考古發現中極為少見的北方式獸頭刀。柄首以寫實的駱駝狀呈現，十分罕見。獸頭刀是商代隨戰車武士的基本配備之一，可能是近身搏鬥時所用的利器，也可能是工具。具有重要歷史、文化、科學價值。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第3條第1項第1、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "南港區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "R022119 ",
+    "keepNameId": 5,
+    "keepName": "中央研究院歷史語言研究所",
+    "keepNameNew": 5,
+    "keepAddressNew": "115台北市南港區研究院路二段130號",
+    "saveSpaceId": 11,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "商（後期）",
+    "descCreator": "",
+    "descSize": "全長31.9，刀長20.5，刀寬3.3，刀厚1.15，柄長11.5，柄寬2.6，柄厚2.8公分。",
+    "descMaterial": "青銅、綠松石",
+    "reserveStatusDesc": "前鋒後柄，背厚微凸，中有凸起稜脊，刃薄微凹，生綠銹，柄呈長條腰圓形，前粗後細，前端五分之四周圍鑄有平行之寬窄相間之弦紋，寬條中各有鼓出之眼眶紋，中嵌綠松石，柄端獸頭，上額如架一橫筒，左右兩端中空，鑲綠松石，如耳，前有突起之腰圓形，如眼。\n口部高起，有大小四孔，如鼻。口張向下，口內有舌，耳下另有繫環孔，其一尚繫有啞鈴形之雙孔環。",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "1930年代；西北岡墓1311 ",
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 53987,
+            "name": "20090508公告.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-01-09/81650a24-b34e-411f-a919-3b8090b15ee8/20090508公告.jpg"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "中央研究院歷史語言研究所",
+    "keepNames": [
+        {
+            "keepNameIdStr": "中央研究院歷史語言研究所",
+            "keepName": "中央研究院歷史語言研究所",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "中央研究院歷史語言研究所",
+            "keepAddressNew": "115台北市南港區研究院路二段130號",
+            "saveSpaceIdStr": "研究設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "南港區",
+            "keepNameAddress": "研究院路二段130號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "南港區",
+            "id": 4380,
+            "caseId": 4238,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 111
+        }
+    ],
+    "announces": [
+        {
+            "id": 4380,
+            "caseId": 4238,
+            "caseStatus": true,
+            "registerDate": 1241712000000,
+            "officialDocNo": "會授資籌二字第0982105246號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

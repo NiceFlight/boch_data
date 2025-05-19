@@ -1,0 +1,96 @@
+{
+    "id": 22044,
+    "caseId": "20230915000006",
+    "count": 547,
+    "shareCount": 0,
+    "representImage": 231299,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2023-09-15/3813957b-43c8-452e-9b2d-e6c8bd90cb88/8E701570-751C-41C4-B2F0-67E137FDBF8E_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2023-09-15/3813957b-43c8-452e-9b2d-e6c8bd90cb88/8E701570-751C-41C4-B2F0-67E137FDBF8E.jpg",
+        "name": "8E701570-751C-41C4-B2F0-67E137FDBF8E"
+    },
+    "caseName": "臺灣基督長老教會1872年英製Albion Press活字印刷機組",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-產業機具",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "judgeCriteria": [
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代特色者",
+        "數量稀少者"
+    ],
+    "registerReason": "1.\t具有地方重要人物或歷史事件之深厚淵源者：本組文物與馬雅各醫師、巴克禮牧師等宗教重要人物具深厚淵源，見證教會在臺灣之發展，富歷史文化特殊意義。\n2.\t能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色：印製臺灣第一份報紙《臺灣府城教會報》（今《臺灣教會公報》），在臺灣活版印刷史上具重要意義，亦是教會文化發展之重要物證。\n3.\t數量稀少者：為目前已知臺灣年代最早、現存唯一一臺的活字版印刷機，極為罕見。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第2、3、5款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "govInstitution": "臺南市文化局",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213-569#605",
+    "govDeptAddress": "700臺南市中西區中正路5巷1號3樓",
+    "reservationCode": "tpchrp-tpc0144-001",
+    "amount": 15,
+    "descAge": "1872年",
+    "descSize": "高203cm、深170cm、寬86cm",
+    "descMaterial": "金屬、木質、織品",
+    "reserveStatusDesc": "1872年英製Albion Press活字印刷機組於19世紀末由馬雅各牧師捐贈至臺灣，印製臺灣第一份報紙《臺灣府城教會報》，有教會印刷品、教會公報等留存成果，見證當時社會宗教信仰傳播之脈絡及臺灣印刷技術進展歷程。印刷機主體由鐵質鑄造，部份構件使用棉布、木頭，結構大致保存完整，機具製造精美，機體上亦有裝飾紋飾，為目前已知臺灣年代最早、現存唯一一臺的活字版印刷機",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "1881年，馬雅各醫師(James Laidlaw Maxwell)、英國長老教會(England Presbyterian Church)",
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定",
+    "documents": [
+        {
+            "fileid": 231298,
+            "name": "111公告-印刷機.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2023-09-15/804725af-0ddf-4ec8-8038-99ca9e73a53e/111公告-印刷機.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "臺灣基督長老教會歷史檔案館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "臺灣基督長老教會總會教會歷史委員會 盧啟明",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "國立科學工藝博物館",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "高雄市",
+            "distName": "三民區",
+            "id": 116216,
+            "caseId": 22044,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1808,
+            "address": "九如一路 720 號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 126815,
+            "caseId": 22044,
+            "caseStatus": true,
+            "registerDate": 1693888638762,
+            "officialDocNo": "南市文資字第1121115629A號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

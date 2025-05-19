@@ -1,0 +1,103 @@
+{
+    "id": 4397,
+    "caseId": "20151019000024",
+    "count": 287,
+    "shareCount": 0,
+    "representImage": 7386,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4137/photo/花鳥(鏤繪集錦冊第8開)_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4137/photo/花鳥(鏤繪集錦冊第8開).jpg",
+        "name": "花鳥(鏤繪集錦冊第8開)"
+    },
+    "caseName": "花鳥（鏤繪集錦冊第8開）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-織繡",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1445184000000,
+    "officialDocNo": "文授資局物字10430092323",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就",
+        "品質精良且數量稀少"
+    ],
+    "registerReason": "朱克柔為南宋緙絲名家，以分色細膩，緙工精巧聞名，傳世作品極少。\r\n此幅上織「朱克柔印」，淺褐色地緙織花鳥攀附在芍藥枝上，正以蓄勢待發動的姿態，凝視著葉脈間的小昆蟲，生趣盎然，構圖精巧生動。技法多變，用「木梳戧」及「包心戧」織出花瓣與鳥羽等部分的配色，呈現細膩的暈染效果，緙織精密，為朱氏緙絲作品的代表作。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條第1項第3、4、5款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故絲00005100008",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descCreator": "",
+    "descSize": "25公分 x 24.1公分",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "朱克柔為南宋緙絲名家，以分色細膩，緙工精巧聞名，傳世作品極少，此為其中之一。淺褐色地緙織花鳥攀附在芍藥枝上，正以蓄勢待發動的姿態，凝視著葉脈間的小昆蟲，生趣盎然。緙織精密，技法多變，用「木梳戧」及「包心戧」織出花瓣與鳥羽等部分的配色，呈現細膩的暈染效果，但由於日久，使花朵的顏色有褪色現象；枝杈以墨加筆皴染。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定。天綾：磨損、霉傷、邊綾傷裂損。本幅：蟲蛀、霉傷、折裂。",
+    "documents": [
+        {
+            "fileid": 149044,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-12-29/f7b51d9b-56cf-4f98-89aa-4e70f6bad203/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 69797,
+            "caseId": 4397,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 73985,
+            "caseId": 4397,
+            "caseStatus": true,
+            "registerDate": 1445184000000,
+            "officialDocNo": "文授資局物字10430092323",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

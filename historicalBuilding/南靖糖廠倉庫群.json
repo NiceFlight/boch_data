@@ -1,0 +1,113 @@
+{
+    "id": 18054,
+    "caseId": "20201125000002",
+    "count": 2308,
+    "shareCount": 1,
+    "representImage": 76386,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-11-25/8c3a1d6a-5609-4536-ad50-f14c9f29c98a/倉庫全貌_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-11-25/8c3a1d6a-5609-4536-ad50-f14c9f29c98a/倉庫全貌.jpg",
+        "name": "倉庫全貌"
+    },
+    "caseName": "南靖糖廠倉庫群",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "建物主要由磚造及木構組合而成，為早期儲存蔗糖及肥料的場所。",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "倉庫",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1597629441159,
+    "officialDocNo": "府授文資字第1090176318號",
+    "documents": [
+        {
+            "fileid": 171035,
+            "name": "南靖糖廠倉庫群-公告1090817.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-01/6066ce86-e040-45ae-b8d7-253f0a6e4d4d/南靖糖廠倉庫群-公告1090817.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具建築史或技術史之價值者"
+    ],
+    "registerReason": "１、表現地域風貌或民間藝術特色者：具大跨距建築特色，且仍保存和原運輸鐵路之關係。\n２、具建築史或技術史之價值者：為木造大跨距之屋架，屬於製糖產業的特殊建築類型。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、2款登錄基準。",
+    "govInstitutionCode": "612",
+    "govInstitutionName": "嘉義縣政府",
+    "belongCityId": 15,
+    "belongCityName": "嘉義縣",
+    "belongDistName": "水上鄉",
+    "govInstitution": "嘉義縣政府",
+    "govDeptName": "文化觀光局",
+    "govDeptPhone": "053628123",
+    "govDeptAddress": "嘉義縣太保市太子大道158號",
+    "cadasters": [
+        {
+            "fileid": 76388,
+            "name": "測繪圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2020-11-25/6bb9bfe1-e642-4010-97ac-bb0202f3786d/測繪圖.pdf"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "嘉義縣水上鄉靖和段23地號",
+    "buildingFeatures": "建築本體的雨淋板牆以等寬間距架細長的木條，形成韻律感強烈的柱列。窗戶與門均為向左右拉開形式，上方設有雨庇，由牆出45度斜撐承擔雨庇的重量，屋頂上方有長方形的通風氣窗，並鋪設日本瓦。",
+    "inHouseFeatures": "糖廠宿舍面寬與屋身比例約為四比一，屋頂整體挑空，使下方通方良好避免室內受潮。建物共設五個入口，分別通往客廳、工具室、廚房。",
+    "bulkTransfer": 0,
+    "belongAddress": "嘉義縣水上鄉靖和村1號",
+    "isOpenVisit": false,
+    "openUpTime": "",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.3841976,
+    "latitude": 23.4144935,
+    "representImageSource": "嘉義縣文化觀光局",
+    "landScope": "嘉義縣水上鄉靖和段23地號內部分土地，面積6216.44平方公尺",
+    "selfCoverage": "嘉義縣水上鄉靖和段23地號",
+    "addresses": [
+        {
+            "cityName": "嘉義縣",
+            "distName": "水上鄉",
+            "id": 129913,
+            "caseId": 18054,
+            "caseStatus": true,
+            "cityId": 15,
+            "distId": 1507,
+            "address": "靖和村1號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "嘉義縣",
+            "distName": "水上鄉",
+            "landNoName": "靖和段",
+            "id": 182216,
+            "caseId": 18054,
+            "caseStatus": true,
+            "cityId": 15,
+            "distId": 1507,
+            "landNoId": 12935,
+            "landSerialNo": "23",
+            "area": "6216.44",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 141481,
+            "caseId": 18054,
+            "caseStatus": true,
+            "registerDate": 1597629441159,
+            "officialDocNo": "府授文資字第1090176318號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.3815380823833,23.414483185494504],[120.37878188781582,23.415461271221265],[120.37887890879672,23.415611669724196],[120.37909246494765,23.415708717723792],[120.37917289385372,23.415875176590873],[120.37952113566517,23.416171848507428],[120.38034280842608,23.41589495826348],[120.3803615968828,23.415942915615428],[120.38125175744081,23.415640240003377],[120.38121469415469,23.415429348947235],[120.38120457316147,23.41530199182034],[120.3812064124035,23.415206116041293],[120.38122219077508,23.41508292494841],[120.38125920232343,23.414941130573677],[120.38145497418542,23.414660024890708],[120.38159646205614,23.414511092326933],[120.3815380823833,23.414483185494504],[120.3815380823833,23.414483185494504]]]]},\"properties\":{\"envelope\":{\"left\":\"120.37878188781582\",\"top\":\"23.414483185494504\",\"right\":\"120.38159646205614\",\"bottom\":\"23.416171848507428\"},\"landLot\":\"嘉義縣水上鄉靖和段23\"}}],\"notfound\":[]}]",
+    "openVisitType": "不開放參觀",
+    "pastHistorySource": "嘉義縣歷史建築調查"
+}

@@ -1,0 +1,101 @@
+{
+    "id": 18015,
+    "caseId": "20201209000007",
+    "count": 190,
+    "shareCount": 0,
+    "representImage": 78809,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2020-12-09/d4c8ff8f-fe6d-4567-8431-1ef5627c4361/案005-1_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2020-12-09/d4c8ff8f-fe6d-4567-8431-1ef5627c4361/案005-1.jpg",
+        "name": "案005-1"
+    },
+    "caseName": "9隻大象隊伍象牙雕",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-雕塑",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1606361617188,
+    "officialDocNo": "北市獻編字第1093004298號",
+    "judgeCriteria": [
+        "具有地方或族群之風俗、記憶及傳說、信仰、傳統技術、藝能或生活文化特色",
+        "有地方重要人物或歷史事件之深厚淵源者",
+        "具有藝術造詣或科學成就"
+    ],
+    "registerReason": "1.具象群生活地之文化特色。\n2.嚴家淦先生任職副總統期間受贈之禮物，為重要人物史事。\n3.雕工佳，構圖疏密有致，具有一定藝術造詣。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第2條第1、2、4款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "內湖區",
+    "govInstitution": "臺北市立文獻館",
+    "govDeptName": "編纂組",
+    "govDeptPhone": "02-2311-5355#24",
+    "govDeptAddress": "臺北市萬華區中華路一段174-1號",
+    "reservationCode": "典藏 I005",
+    "amount": 1,
+    "descAge": "1970 年代",
+    "descSize": "弧長 88 公分",
+    "descMaterial": "象牙",
+    "reserveStatusDesc": "民國60年，嚴副總統代表赴越南參加阮文紹總統就職典禮，並於其間至越南堤岸越秀中學視察，獲贈此件象牙雕刻。\n象在中國傳統文化中是吉祥、太平的象征，它性情溫和，知恩圖報，一直深受中國人的喜愛，動盪的60年代嚴副總統親訪越南更象徵祖國對於越南華僑的關愛，奠定華越情誼，更使得日後阮文紹總統流亡的第一首選地點。\n象牙長88公分，以圓雕方式雕刻，前端雕刻一 隻往前行的大象、一隻往後回顧於香蕉樹下嬉戲的大象景象，並刻有結實累累的香蕉，不僅象徵太平有象，更意味豐收的景致。前六隻大象 成圓弧片狀雕刻，第七隻大象始為圓身實體雕刻，足見此象牙之壯麗華美。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "狀況穩定。",
+    "documents": [
+        {
+            "fileid": 78807,
+            "name": "臺北市公告指定一般古物1091126.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-09/ae76f684-791e-466f-8538-837608f6c14f/臺北市公告指定一般古物1091126.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.51984879730222,
+    "latitude": 25.032456306173696,
+    "representImageSource": "嚴○泰/嚴○隆",
+    "keepNames": [
+        {
+            "keepNameIdStr": "嚴○泰/嚴○隆",
+            "keepName": "嚴○泰/嚴○隆",
+            "type": 3
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "嚴○泰/嚴○隆",
+            "keepAddressNew": "台北市內湖區行忠路2號2樓",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "宅第",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 3,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "內湖區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 68654,
+            "caseId": 18015,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 72754,
+            "caseId": 18015,
+            "caseStatus": true,
+            "registerDate": 1606361617188,
+            "officialDocNo": "北市獻編字第1093004298號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

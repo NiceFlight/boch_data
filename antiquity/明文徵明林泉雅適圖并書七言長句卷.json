@@ -1,0 +1,102 @@
+{
+    "id": 3849,
+    "caseId": "20140915000019",
+    "count": 243,
+    "shareCount": 0,
+    "representImage": 188443,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-10-31/07f648c1-8aac-4e8d-b767-c26a3b709fe3/K2A001058N000000000PAH_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-10-31/07f648c1-8aac-4e8d-b767-c26a3b709fe3/K2A001058N000000000PAH.jpg",
+        "name": "K2A001058N000000000PAH"
+    },
+    "caseName": "明文徵明林泉雅適圖并書七言長句卷",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1410710400000,
+    "officialDocNo": "第10320112241號",
+    "judgeCriteria": [
+        "具有重要藝術造詣或科學成就",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "文徵明（1470－1559）明四大家之一，能書善畫。繪畫中常見書法意趣，兼擅水墨、設色。和沈周（1427－1509）並列吳派領袖。\n此卷為文徵明八十五歲的書畫合璧之作，引首大字與畫後七言長句大小行草，書法蒼厚温潤，法度謹嚴而意態生動；畫作又設色明亮清雅，品質精善，是他晚年的代表佳作。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第3條1項第4、5、6款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫001058",
+    "amount": 1,
+    "notes": "",
+    "descAge": "明",
+    "descSize": "30.2 x 186（公分）",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "嘉靖三十三年（1554）七月望日，文徵明八十五歲。以絹本設色作林泉雅適圖，畫水鄉曠遠，士人自適，倘佯於林間河畔，矮籬茅屋，水榭小徑之間。引首大字自題畫名，畫後並有行書七言長句共六首。大字書法蒼厚，端嚴遒勁；題詩小行草粲然紙上，數見牽絲連綿，從容典雅，清健流利。作畫多用禿筆，頗具拙趣。此類文氏晚期畫風，影響了後期吳派，如張復（1546-约1631）、張宏（1577-1652 後）等人。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "引首：傷補、墨漬。後段霉傷、輕污。玉別子有刻字。",
+    "documents": [
+        {
+            "fileid": 150147,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-11/e2d62eae-79a9-4e06-9491-4d8eab39e7ae/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路 二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 94652,
+            "caseId": 3849,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 102106,
+            "caseId": 3849,
+            "caseStatus": true,
+            "registerDate": 1410710400000,
+            "officialDocNo": "第10320112241號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

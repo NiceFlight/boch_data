@@ -1,0 +1,123 @@
+{
+    "id": 16875,
+    "caseId": "20190808000004",
+    "count": 2118,
+    "shareCount": 1,
+    "representImage": 59618,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2019-06-28/ac1f0ade-7d29-47d1-99d1-d3ede5239557/碑正面_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2019-06-28/ac1f0ade-7d29-47d1-99d1-d3ede5239557/碑正面.jpg",
+        "name": "碑正面"
+    },
+    "caseName": "新莊嚴禁截流塞狹圳道碑記",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "碑碣",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1562896252988,
+    "officialDocNo": "新北府文資字第1081239684 號",
+    "documents": [
+        {
+            "fileid": 161296,
+            "name": "新莊嚴禁截流塞狹圳道碑記公告-108.7.12.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-04-25/2d78f08f-b28d-4d8d-8302-01b631426e07/新莊嚴禁截流塞狹圳道碑記公告-108.7.12.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "表現地域風貌或民間藝術特色者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "一、「嚴禁截流塞狹圳道碑記」為道光17年所立，告示記錄要求永安圳管下各佃戶不得任意毀汴截流、擲物塞狹圳道及藉機爭端等史事，為清代新莊地方農田水利灌溉圳道維護法令公告之事證。符合「歷史建築紀念建築登錄廢止審查及輔助辦法」第2條第1項第1款之登錄基準。\n二、碑體保存良好，材質為觀音山石，碑文字體清晰可辨，內容載明工程設計細節，對該圳道研究具學術、歷史價值。符合「歷史建築紀念建築登錄廢止審查及輔助辦法」第2條第1項第3款之登錄基準。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第1、3款",
+    "govInstitutionCode": "220",
+    "govInstitutionName": "新北市政府",
+    "belongCityId": 3,
+    "belongCityName": "新北市",
+    "belongDistName": "新莊區",
+    "govInstitution": "新北市政府",
+    "govDeptName": "文化局",
+    "govDeptPhone": "02-29603456",
+    "govDeptAddress": "新北市板橋區中山路一段161號28樓",
+    "cadasters": [
+        {
+            "fileid": 59882,
+            "name": "新莊嚴禁截流塞狹圳道碑記土地複丈成果圖_1.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2019-07-11/3bc5ae4f-7494-485a-9fc9-2396a959cadb/新莊嚴禁截流塞狹圳道碑記土地複丈成果圖_1.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 10,
+    "cityLandUseTypeName": "其他使用區",
+    "landUseOtherType": "綠地",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "新北市新莊區文明段359地號(部分)",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "新北市新莊區中正路143號保元宮旁",
+    "isOpenVisit": true,
+    "openUpTime": "全天開放",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 121.45956444047545,
+    "latitude": 25.03784054076814,
+    "representImageSource": "新北市政府文化局",
+    "landScope": "新北市新莊區文明段359地號（部分），自碑緣往香爐方向延伸2公尺，往榕樹方向延伸0.5公尺，前後各1公尺。\n",
+    "selfCoverage": "嚴禁截流塞狹圳道碑本體",
+    "addresses": [
+        {
+            "cityName": "新北市",
+            "distName": "新莊區",
+            "id": 107592,
+            "caseId": 16875,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 321,
+            "address": "中正路143號保元宮旁"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "新北市",
+            "distName": "新莊區",
+            "landNoName": "文明段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 134655,
+            "caseId": 16875,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 321,
+            "landNoId": 5380,
+            "landSerialNo": "359",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 1,
+            "area": "6.57平方公尺",
+            "cityLandUseTypeOther": "綠地",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 115625,
+            "caseId": 16875,
+            "caseStatus": true,
+            "registerDate": 1562896252988,
+            "officialDocNo": "新北府文資字第1081239684 號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.45965770341105,25.037857153730883],[121.45967714886906,25.037829936004034],[121.45964745463198,25.037806323550026],[121.45954800895504,25.037768075511195],[121.45954726518309,25.037768993265686],[121.45951467763638,25.03780822835895],[121.4595154933926,25.037809342618413],[121.45951600055227,25.037810082261142],[121.45951667792968,25.037809696470113],[121.45954651070909,25.03783326338131],[121.45962875422104,25.037898115512657],[121.45965770341105,25.037857153730883],[121.45965770341105,25.037857153730883]]]]},\"properties\":{\"envelope\":{\"left\":\"121.45951467763638\",\"top\":\"25.037768075511195\",\"right\":\"121.45967714886906\",\"bottom\":\"25.037898115512657\"},\"landLot\":\"新北市新莊區文明段359\"}}],\"notfound\":[]}]",
+    "openVisitType": "完全開放參觀",
+    "pastHistorySource": ""
+}

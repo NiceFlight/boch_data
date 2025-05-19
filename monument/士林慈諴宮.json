@@ -1,0 +1,118 @@
+{
+    "id": 152,
+    "caseId": "19850819000020",
+    "count": 4895,
+    "shareCount": 7,
+    "representImage": 185613,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/2bd8c0e2-f7ad-4a75-859a-388345b43b2f/代表圖像_士林慈諴宮_20220714_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/2bd8c0e2-f7ad-4a75-859a-388345b43b2f/代表圖像_士林慈諴宮_20220714.jpg",
+        "name": "代表圖像_士林慈諴宮_20220714"
+    },
+    "caseName": "士林慈諴宮",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "士林慈諴宮位於士林區大南路八十四號，奉祀天上聖母，創建於清嘉慶元年〈西元一七九六年〉，原址在今士林美國學校附近。清同治三年〈西元一八六四年〉，由善信潘永清、潘盛清等，遷建於八芝蘭新街，為該街守護神。民國十六年重建，左右兩邊由兩派匠師分別承建，因此雕琢作風各異，正殿內仍有精美的交趾陶，皆具重要特色。",
+    "assetsTypeNames": "寺廟",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 260868,
+            "name": "3._740829台閩地區古蹟指定函(1).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/42b7c686-a3c0-4d4a-9e79-a80c14a5cb66/3._740829台閩地區古蹟指定函(1).pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值",
+        "各時代表現地方營造技術流派特色者"
+    ],
+    "registerReason": "具有保存價值",
+    "lawsReference": "文化資產保存法",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 260869,
+            "name": "士林慈諴宮地籍圖.gif",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/sync/7b148697-1aba-4cfd-bd14-ef63cc2c70e4/士林慈諴宮地籍圖.gif"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "士林區光華段三小段855地號.",
+    "buildingFeatures": "士林慈諴宮座北朝南，平面配置為二進四護龍，兩側以過水廊連接護龍，形成五個天井，為典型殿堂式閩南廟宇之格局。建築物面寬九開間。\r\n三川殿及正殿木雕、三川殿正立面之石雕，運用多種技法豐富精彩，廟中玻璃馬賽克及陶燒剪黏裝飾，亦具有頗高的水準。",
+    "inHouseFeatures": "寺廟格局",
+    "buildingUsage": "大眾祭祀",
+    "buildingActualState": "廟體保存尚完整。",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 1,
+    "wenSitename": "",
+    "wenSiteaddress": "",
+    "isOpenDownload": false,
+    "longitude": 121.524711,
+    "latitude": 25.089679,
+    "representImageSource": "臺北市文化局",
+    "landScope": "士林區光華段三小段855地號.",
+    "selfCoverage": "本體",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 132799,
+            "caseId": 152,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "大南路84號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "landNoName": "光華段三小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 190054,
+            "caseId": 152,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "landNoId": 510,
+            "landSerialNo": "0855-0000",
+            "landownership": 2,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "2458平方公尺",
+            "cityLandUseTypeOther": "古蹟用地",
+            "note": "重測前:士林段339地號",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 144849,
+            "caseId": 152,
+            "caseStatus": true,
+            "registerDate": 493228800000,
+            "officialDocNo": "七四台內民字第三三八0九五號",
+            "classificationId": 1,
+            "note": "無"
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[121.52462380801,25.08998707784],[121.5246080905,25.089941628415],[121.52459144448,25.089893840101],[121.52457553865,25.089847303903],[121.52455917749,25.089801689449],[121.52454373667,25.089756489984],[121.5244584059,25.089498734771],[121.52485804214,25.089384228323],[121.52492900107,25.089588833449],[121.52494620438,25.089638041785],[121.52496210853,25.089684159705],[121.52497819533,25.089730026031],[121.5249939158,25.089776144597],[121.52501046583,25.089822929417],[121.52502692437,25.089869798208],[121.52503065032,25.089881914113],[121.52500918233,25.089888096447],[121.5249565208,25.089903088632],[121.52490560199,25.089917489092],[121.52485422425,25.089931974806],[121.52480348985,25.089946541876],[121.52475339806,25.089961023007],[121.52470394781,25.089975167258],[121.52465385386,25.08998914647],[121.52462724944,25.089997103539],[121.52462380801,25.08998707784]]]]},\"properties\":{\"縣市\":\"臺北市\",\"鄉鎮\":\"士林區\",\"地段\":\"光華段三小段\",\"段號\":8550000,\"id\":\"AE0814\",\"ymax\":25.089997103539,\"ymin\":25.089384228323,\"xmax\":121.52503065032,\"xmin\":121.5244584059,\"xcenter\":121.52474452811,\"ycenter\":25.089690665931002,\"area_id\":\"AE\",\"section_id\":\"0814\",\"land_id\":8550000,\"query_log\":[],\"query\":\"臺北市,光華段三小段,0855-0000\",\"content\":\"1. 個案名稱: 士林慈諴宮 <br />\\n      2. 地號: 臺北市,光華段三小段,0855-0000 <br />\\n      3. 級別: 直轄市定古蹟 <br />\\n      4. 種類: 寺廟 <br />\\n      5. 指定登錄理由: 具有保存價值 <br />\\n      6. 最後一筆公告日期: 1985-08-19 <br />\\n      7. 最後一筆公告文號: 七四台內民字第三三八0九五號 <br />\\n      8. 管理單位: 臺北市士林區慈諴宮管理委員會 <br />\\n      9. 使用單位: 臺北市士林區慈諴宮管理委員會 <br />\\n      10. 建物狀態: 現況良好 <br />\"}}],\"notfound\":[],\"address\":[{\"address\":\"1. 個案名稱: 士林慈諴宮 <br />\\n      2. 地址: 大南路84號 <br />\\n      3. 級別: 直轄市定古蹟 <br />\\n      4. 種類: 寺廟 <br />\\n      5. 指定登錄理由: 具有保存價值 <br />\\n      6. 最後一筆公告日期: 1985-08-19 <br />\\n      7. 最後一筆公告文號: 七四台內民字第三三八0九五號 <br />\\n      8. 管理單位: 臺北市士林區慈諴宮管理委員會 <br />\\n      9. 使用單位: 臺北市士林區慈諴宮管理委員會 <br />\\n      10. 建物狀態: 現況良好 <br />\",\"lat\":25.089679,\"lng\":121.524711}]}]",
+    "openVisitType": "完全開放參觀",
+    "openUpTime": "",
+    "isCharge": false,
+    "pastHistorySource": ""
+}

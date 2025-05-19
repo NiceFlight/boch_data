@@ -1,0 +1,99 @@
+{
+    "id": 22946,
+    "caseId": "20240820000001",
+    "count": 0,
+    "shareCount": 5,
+    "representImage": 261152,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2024-08-20/a867d0de-5484-473b-a9d8-56e5a007535b/莊傳興_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2024-08-20/a867d0de-5484-473b-a9d8-56e5a007535b/莊傳興.jpg",
+        "name": "莊傳興"
+    },
+    "caseName": "小木作",
+    "classifyCode": "7.1",
+    "classifyName": "保存技術及保存者",
+    "assetsClassifyCode": "7.1.1",
+    "assetsClassifyName": "保存技術及保存者",
+    "documents": [
+        {
+            "fileid": 261151,
+            "name": "113.08.12公告小木作(莊傳興).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2024-08-20/a61642e8-1205-4db9-a017-4e5333bb900e/113.08.12公告小木作(莊傳興).pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "有形文化資產之保存、修復、維護等工作不可或缺之傳統技術"
+    ],
+    "registerReason": "新竹市有許多有形文化資產之建築，建築中可區分為大木作、小木作，其中小木作是建築裝修、裝飾及穩定結構的部分，另包含建築之外的家具、祭具，如神桌、藻井、門窗等皆為小木作範圍，實際運用於有形文化資產之保存、修復、維護等工作，「小木作」之傳統技術、知識及堅持使用傳統工具及技法具有一定的專業性，為不可或缺之傳統保存技術，符合《文化資產保存技術及保存者登錄認定廢止審查辦法》第2條第1款之登錄基準。",
+    "lawsReference": "<<文化資產保存技術及保存者登錄認定廢止審查辦法>>第2條第1款",
+    "govInstitutionCode": "300",
+    "govInstitutionName": "新竹市政府",
+    "govInstitution": "新竹市政府",
+    "govDeptName": "新竹市文化局",
+    "govDeptPhone": "03-5319756",
+    "govDeptAddress": "新竹市中央路109號",
+    "preservers": [
+        {
+            "id": 22960,
+            "type": "個人",
+            "caseName": "莊傳興",
+            "cityName": "新竹市",
+            "distName": "北區",
+            "caseArtistEntities": [],
+            "representImage": 261153,
+            "registrationDate": 1723392000000,
+            "judgeCriteria": [
+                "充分掌握該項保存技術所需相關知識與執行程序",
+                "正確體現、執行該項保存技術之能力",
+                "傳習該項保存技術之溝通及輔導能力"
+            ],
+            "registerReason": "莊傳興藝師從1969年開始習藝，1998年起參與修復古蹟、歷史建築工程，對傳統木作之木材備料、木作工具的使用、設計及修復草圖繪製、木結構榫接、表面雕飾等技藝精熟，對傳統木結構、日式建築構築與修復，木製傳統家具與裝飾構件，均具豐富實作經驗與作品呈現。\n莊傳興藝師的小木作技藝精熟，針對傳統建築、日式建築、傳統木家具與裝飾構件，均有諸多作品。\n近年帶領木作修復團隊與徒弟從事臺灣文化資產修復工程外，亦擔任經典老建築再現工作營的木作修復指導老師（項目包含日式老建築修復技術與傳承，2021年）。\n符合《文化資產保存技術及保存者登錄認定廢止審查辦法》第4條第1、2、3款之保存者認定條件。",
+            "lawsReference": "<<文化資產保存技術及保存者登錄認定廢止審查辦法>>第4條第1項第1、2、3款",
+            "isOpenDownload": false,
+            "representImageSource": "小木作",
+            "contactorIsOpen": false
+        }
+    ],
+    "skillNote": "木作工藝是人類文明發展史的藝術和生活見證，小木作是關於非承重木構件的專業工種和施工制度，《清工部工程做法》裡也稱為裝修作。小木作技術概分工料（材料）準備、木作使用工具、工法應用及工序等四大部分，應用在傳統廟宇、傳統民居、日式宿舍等場域，包含設計草圖繪製、木結構榫接、木作雕飾、神桌神龕、門窗製作、嫁妝櫥櫃等技術，均是小木作職司範圍。",
+    "visitsDate": 1695891003211,
+    "classify": [
+        "1.1",
+        "1.2"
+    ],
+    "skillType": [
+        {
+            "id": 1,
+            "other": ""
+        },
+        {
+            "id": 2,
+            "other": ""
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "莊傳興藝師提供",
+    "addresses": [
+        {
+            "cityName": "新竹市",
+            "distName": "北區",
+            "id": 134002,
+            "caseId": 22946,
+            "caseStatus": true,
+            "cityId": 6,
+            "distId": 602
+        }
+    ],
+    "announces": [
+        {
+            "id": 146257,
+            "caseId": 22946,
+            "caseStatus": true,
+            "registerDate": 1723428954492,
+            "officialDocNo": "府授文資字第1130121178號",
+            "classificationId": 1
+        }
+    ]
+}

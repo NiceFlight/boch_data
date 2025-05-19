@@ -1,0 +1,101 @@
+{
+    "id": 4060,
+    "caseId": "20131219000097",
+    "count": 342,
+    "shareCount": 0,
+    "representImage": 6977,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7234/photo/元吳鎮竹石軸_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7234/photo/元吳鎮竹石軸.JPG",
+        "name": "元吳鎮竹石軸"
+    },
+    "caseName": "元吳鎮竹石軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1387382400000,
+    "officialDocNo": "文資局物字第10220145081號",
+    "judgeCriteria": [
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就"
+    ],
+    "registerReason": "吳鎮（1280-1354），字仲圭，號梅花道人、梅沙彌，浙江嘉興人。工詞翰、草書、山水、竹石。元四大家之一。山水師巨然，墨竹宗湖州，俱臻妙品。\r\n本幅為吳仲圭六十八歲所作。畫竹兩竿，石一握，構圖雖簡單，墨色也較淺淡，但竹葉錯落變化自然，筆力遒勁，而有韻致，充分顯示吳鎮墨竹的特色。畫上款題指出吳鎮意圖上追宋人畫竹目標，強調對筆力的追求。\r\n此幅右側吳氏灑脫的草書，與簡逸的墨竹互相映照，誠為吳氏書畫合璧的一件佳作。",
+    "lawsReference": "〈古物分級登錄指定及廢止審查辦法〉第3條第1項第3、4款。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": " 04-22177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000278",
+    "amount": 1,
+    "notes": "",
+    "descAge": "元",
+    "descSize": "90.6 x 42.5（公分）",
+    "descMaterial": "紙本",
+    "reserveStatusDesc": "吳鎮（西元1280-1354年），字仲圭，號梅花道人、梅沙彌，浙江嘉興人。工詞翰、草書、山水、竹石。與黃公望、倪瓚、王蒙合稱元四大家。山水師巨然，墨竹宗湖州，俱臻妙品。本幅為吳仲圭六十八歲所作。畫竹兩竿，石一握，構圖雖簡單，墨色也較淺淡，但其用筆細膩勁力，竹枝姿態別有韻味。畫上款題指出吳鎮意圖上追宋人畫竹目標，強調對筆力的追求。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 150415,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-17/90836c67-7f1c-490c-a8e7-bd659460209a/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "臺北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 94707,
+            "caseId": 4060,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 102125,
+            "caseId": 4060,
+            "caseStatus": true,
+            "registerDate": 1387382400000,
+            "officialDocNo": "文資局物字第10220145081號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

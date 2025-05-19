@@ -1,0 +1,100 @@
+{
+    "id": 612,
+    "caseId": "19851127000072",
+    "count": 2714,
+    "shareCount": 0,
+    "representImage": 283838,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2025-04-22/b72816b8-9f9a-4136-9d67-b12634d30865/古045臺南延平街古井_P002_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2025-04-22/b72816b8-9f9a-4136-9d67-b12634d30865/古045臺南延平街古井_P002.jpg",
+        "name": "古045臺南延平街古井_P002"
+    },
+    "caseName": "臺南延平街古井",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "待修復或再利用計畫完成後填列",
+    "assetsTypeNames": "其他設施",
+    "otherAssetsType": "古井",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "registerDate": 501868800000,
+    "officialDocNo": "中華民國74年11月27日台內民字第357272號",
+    "documents": [
+        {
+            "fileid": 157181,
+            "name": "台南延平街古井公告74.11.27.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-03-31/3e5819a9-8aea-4472-893c-5cf9b07fd303/台南延平街古井公告74.11.27.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史、文化、藝術價值"
+    ],
+    "registerReason": "公告無資料",
+    "lawsReference": "依據行政院文化建設委員會74年11月13日文建壹字第4499號函及文化資產保存法第27條第1項暨同法施行細則第40條規定辦理。",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "belongCityId": 16,
+    "belongCityName": "臺南市",
+    "belongDistName": "安平區",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213569 ",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 142229,
+            "name": "臺南延平街古井地籍地圖.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2021-11-01/5e706adb-8206-41f7-9fa3-9404e4f6e9f8/臺南延平街古井地籍地圖.jpg"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "安平區古堡段879-1地號",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "wenSitename": "臺南旅遊網",
+    "wenSiteaddress": "https://www.twtainan.net/zh-tw/attractions/detail/690",
+    "belongAddress": "文朱里延平街148巷3號",
+    "isOpenDownload": false,
+    "longitude": 120.161498023572,
+    "latitude": 23.0008879018509,
+    "representImageSource": "臺南市政府",
+    "landScope": "公告無資料",
+    "selfCoverage": "公告無資料",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "安平區",
+            "id": 148705,
+            "caseId": 612,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1606,
+            "address": "文朱里延平街148巷3號"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 161682,
+            "caseId": 612,
+            "caseStatus": true,
+            "registerDate": 501868800000,
+            "officialDocNo": "臺內民字第357272號",
+            "classificationId": 1
+        }
+    ],
+    "openVisitType": "完全開放參觀",
+    "openUpTime": "全日開放",
+    "isCharge": false,
+    "pastHistorySource": "待修復或再利用計畫完成後填列"
+}

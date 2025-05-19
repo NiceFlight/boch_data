@@ -1,0 +1,103 @@
+{
+    "id": 4228,
+    "caseId": "20090914000008",
+    "count": 255,
+    "shareCount": 0,
+    "representImage": 7148,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36645/photo/528edb94-60eb-463a-8f7f-62e32f62774f_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/36645/photo/528edb94-60eb-463a-8f7f-62e32f62774f.jpg",
+        "name": "528edb94-60eb-463a-8f7f-62e32f62774f"
+    },
+    "caseName": "侈口縮頸單把折肩束腰圈足罐",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-信仰及儀禮器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "registerDate": 1252857600000,
+    "officialDocNo": "會授資籌二字第0982113661號函",
+    "judgeCriteria": [
+        "具有重要歷史意義或能表現傳統、族群或地方文化特色",
+        "具有重要之時代特色、技術及流派",
+        "具有重要藝術造詣或科學成就",
+        "品質精良且數量稀少",
+        "具有重要歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.此件單把、折肩、圈足人面陶罐是十三行遺址最具特色的出土文物之一，最特別的是陶罐腹部生動的人面造型，充分顯示了史前居民精湛的製陶技術與豐沛的創造力。2.此件雖經修補，惟相當稀有而重要，具學術研究價值及文化代表性",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第3條第1項第1、3、4、5、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "南港區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "T0030006",
+    "amount": 1,
+    "notes": "",
+    "descAge": "金石並用時代",
+    "descCreator": "",
+    "descSize": "高約22.9公分，口徑約11.2公分，肩徑約15.6公分",
+    "descMaterial": "陶",
+    "reserveStatusDesc": "陶罐腹部有生動的人面造型：微突的眉脊、狹長的雙眼、微張的嘴角、再配上臉頰旁立起的雙耳。",
+    "pastHistorySource": 4,
+    "pastHistorySourceNotes": "十三行B區坑號T04P11DEex 十三行B區墓53與64雙人葬 ",
+    "saveEnvironment": 1,
+    "reserveStatus": "有損傷但狀況穩定（出土時斷成數片，現已復原。）",
+    "documents": [
+        {
+            "fileid": 55501,
+            "name": "0982113661att9公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-02-15/697b0f9c-66ff-4d04-a61c-c40d3f6321ae/0982113661att9公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "中央研究院歷史語言研究所",
+    "keepNames": [
+        {
+            "keepNameIdStr": "中央研究院歷史語言研究所",
+            "keepName": "中央研究院歷史語言研究所",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "中央研究院歷史語言研究所",
+            "keepAddressNew": "115台北市南港區研究院路二段130號",
+            "saveSpaceIdStr": "研究設施",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "南港區",
+            "keepNameAddress": "研究院路二段130號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "南港區",
+            "id": 116476,
+            "caseId": 4228,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 111
+        }
+    ],
+    "announces": [
+        {
+            "id": 127179,
+            "caseId": 4228,
+            "caseStatus": true,
+            "registerDate": 1252857600000,
+            "officialDocNo": "會授資籌二字第0982113661號函",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

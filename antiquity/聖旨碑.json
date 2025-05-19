@@ -1,0 +1,105 @@
+{
+    "id": 3212,
+    "caseId": "20150722000001",
+    "count": 1230,
+    "shareCount": 1,
+    "representImage": 5652,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4282/photo/聖旨碑_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/4282/photo/聖旨碑.JPG",
+        "name": "聖旨碑"
+    },
+    "caseName": "聖旨碑",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-其他",
+    "otherAssetsType": "其他",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1437494400000,
+    "officialDocNo": "新北府文資字第1041327312號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有一定之時代特色、技術及流派",
+        "具有藝術造詣或科學成就",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "一、碑體以青斗石雕刻而成，應是在唐山雕刻完成之後，連同其他構件運輸來臺，具有特殊價值。\r\n二、聖旨碑具有歷史性、技藝性、藝術性，為本市唯一的聖旨碑，極具珍貴稀有性，符合古物登錄基準。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第1、2、3、4、5、6款",
+    "govInstitutionCode": "220",
+    "govInstitutionName": "新北市政府",
+    "belongCityId": 3,
+    "belongCityName": "新北市",
+    "belongDistName": "板橋區",
+    "govInstitution": "新北市政府",
+    "govDeptName": "文化局",
+    "govDeptPhone": "(02)29603456",
+    "govDeptAddress": "新北市板橋區中山路一段161號28樓",
+    "reservationCode": "無",
+    "amount": 1,
+    "descAge": "西元1879年",
+    "descSize": "長54.5公分x高72公分x厚11.5公分",
+    "descMaterial": "石質",
+    "reserveStatusDesc": "光緒二年（1876年）福建巡撫丁日昌視臺，曾與林維源籌臺灣防務；林感於「國家興亡匹夫有責」，於光緒五年（1879年）6月25日，捐獻海防軍費60萬兩銀，榮任內閣中書，並追贈三代一品封典，賜建牌坊於臺北新莊，此聖旨碑原即位於牌坊最上端。臺灣光復後，因交通建設拓寬馬路拆掉此牌坊，聖旨碑現立於國定古蹟林本源園邸三落大厝右前庭園內。此碑除了是林家為國捐獻的歷史證物外，聖旨碑雕工極為精緻亦是寶貴的文化資產。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 3,
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 165916,
+            "name": "聖旨碑公告-104.7.22.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-27/cfb2037e-03ca-44da-80db-e909b0a0984e/聖旨碑公告-104.7.22.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.4548681380472,
+    "latitude": 25.01028470365371,
+    "representImageSource": "新北市政府文化局 ",
+    "keepNames": [
+        {
+            "keepNameIdStr": "祭祀公業法人新北市林本源",
+            "keepName": "祭祀公業法人新北市林本源",
+            "type": 2
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "祭祀公業法人新北市林本源",
+            "keepAddressNew": "新北市板橋區西門街42-65號（國定古蹟林本源園邸三落大厝庭院）",
+            "saveSpaceIdStr": "宅第",
+            "saveSpaceIdentityIdStr": "古蹟",
+            "type": 2,
+            "keepNameCityName": "新北市",
+            "keepNameDistName": "板橋區",
+            "keepNameAddress": "府中路169號9樓"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "新北市",
+            "distName": "板橋區",
+            "id": 112188,
+            "caseId": 3212,
+            "caseStatus": true,
+            "cityId": 3,
+            "distId": 303,
+            "address": "西門街42-65號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 121661,
+            "caseId": 3212,
+            "caseStatus": true,
+            "registerDate": 1437494400000,
+            "officialDocNo": "新北府文資字第1041327312號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

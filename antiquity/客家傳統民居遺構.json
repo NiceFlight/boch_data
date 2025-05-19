@@ -1,0 +1,117 @@
+{
+    "id": 3162,
+    "caseId": "20111220000015",
+    "count": 517,
+    "shareCount": 0,
+    "representImage": 5600,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/38035/photo/b3aa72a5-52f0-46eb-b201-fbddd2b5de57_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/38035/photo/b3aa72a5-52f0-46eb-b201-fbddd2b5de57.jpg",
+        "name": "b3aa72a5-52f0-46eb-b201-fbddd2b5de57"
+    },
+    "caseName": "客家傳統民居遺構",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1324310400000,
+    "officialDocNo": "高市府四維文博字第1000140520號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "本組文物係舊有建築改建時拆除保存，具有客家民居文化特色，以及擁有百年以上的歷史。",
+    "lawsReference": "<<古物分級登錄指定及廢止審查辦法>>第2條第1項第1、6款",
+    "govInstitutionCode": "800",
+    "govInstitutionName": "高雄市政府",
+    "belongCityId": 18,
+    "belongCityName": "高雄市",
+    "belongDistName": "三民區",
+    "govInstitution": "高雄市政府文化局",
+    "govDeptName": "文化資產中心",
+    "govDeptPhone": "07-2225136",
+    "govDeptAddress": "高雄市苓雅區五福一路67號",
+    "reservationCode": "5040107-01-0000001~15",
+    "amount": 15,
+    "notes": "",
+    "descAge": "1880",
+    "descSize": "堂號：147*58*7cm 飾板a對（圖書、翰墨）： 70.5*41.1.8cm 飾板b對（承先緒、啟後 昆）：72*29.5*2.5cm",
+    "descMaterial": "木",
+    "reserveStatusDesc": "本文物包含絲環板3個、花窗2個、木對聯2個、隔屏1個、樑2支、書卷雕花板2個、門額1個及祠寺門額2個等15項物件,由屏東佳冬林家所捐贈,林家係當地杏林世家(祖先來自廣東蕉嶺)本組文物係舊有建築改建時拆除保存,具有客家民居文化特色,以及擁有百年以上的歷史。",
+    "pastHistorySource": 1,
+    "pastHistorySourceNotes": "佳冬林家西河堂（林天培、林祖培後裔捐贈）",
+    "saveEnvironment": 1,
+    "reserveStatus": "本組文物整體狀況良好",
+    "documents": [
+        {
+            "fileid": 79262,
+            "name": "1001220-高市府四維文博字第1000140520號公告.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-11/26a364d3-0601-402f-ba8d-12e91a270f03/1001220-高市府四維文博字第1000140520號公告.jpg"
+        },
+        {
+            "fileid": 79263,
+            "name": "1001220-高市府四維文博字第1000140520號公告表-1.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-11/4a0315ae-f8f9-41a6-bac6-7defdd16e3c6/1001220-高市府四維文博字第1000140520號公告表-1.jpg"
+        },
+        {
+            "fileid": 79264,
+            "name": "1001220-高市府四維文博字第1000140520號公告表-2.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-11/7afdf29e-f86d-41ca-ba3d-0227b05aac52/1001220-高市府四維文博字第1000140520號公告表-2.jpg"
+        },
+        {
+            "fileid": 79265,
+            "name": "1001220-高市府四維文博字第1000140520號公告表-3.jpg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2020-12-11/ca0c1631-e522-4d31-b8a0-c08412522da4/1001220-高市府四維文博字第1000140520號公告表-3.jpg"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 120.294994,
+    "latitude": 22.64996,
+    "representImageSource": "高雄市客家事務委員會",
+    "keepNames": [
+        {
+            "keepNameIdStr": "高雄市政府客家事務委員會",
+            "keepName": "高雄市政府客家事務委員會",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "高雄市政府客家事務委員會",
+            "keepAddressNew": "高雄市三民區同盟二路215號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "高雄市",
+            "keepNameDistName": "三民區",
+            "keepNameAddress": "同盟二路217號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "高雄市",
+            "distName": "三民區",
+            "id": 69947,
+            "caseId": 3162,
+            "caseStatus": true,
+            "cityId": 18,
+            "distId": 1808,
+            "address": "同盟二路217號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 74161,
+            "caseId": 3162,
+            "caseStatus": true,
+            "registerDate": 1324310400000,
+            "officialDocNo": "高市府四維文博字第1000140520號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

@@ -1,0 +1,180 @@
+{
+    "id": 20391,
+    "caseId": "20220105000001",
+    "count": 2875,
+    "shareCount": 1,
+    "representImage": 149695,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2022-01-05/0e40a15e-f6a9-4700-8d4b-8a19709fb3fa/指定為古蹟的「麻豆大埕郭舉人宅」_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2022-01-05/0e40a15e-f6a9-4700-8d4b-8a19709fb3fa/指定為古蹟的「麻豆大埕郭舉人宅」.jpg",
+        "name": "指定為古蹟的「麻豆大埕郭舉人宅」"
+    },
+    "caseName": "麻豆大埕郭舉人宅",
+    "classifyCode": "1.1",
+    "classifyName": "古蹟",
+    "pastHistory": "（俟修復再利用計畫完成後填列。）",
+    "assetsTypeNames": "宅第",
+    "assetsClassifyCode": "1.1.2",
+    "assetsClassifyName": "直轄市定古蹟",
+    "documents": [
+        {
+            "fileid": 149689,
+            "name": "1101228公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-05/bb704c54-087e-4706-aa2b-161ca037764a/1101228公告.pdf"
+        },
+        {
+            "fileid": 149690,
+            "name": "公告附圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-05/07c1e8ae-7efb-467b-8ae8-ecc0d768db8e/公告附圖.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "各時代表現地方營造技術流派特色者"
+    ],
+    "registerReason": "本建物原為三落，雖僅存前二落，然其建物構法、形制保留了傳統建築元素，表現不同時代營造技術之特色，例如磚砌方式和鐵剪刀壁鎖，且郭氏族人多為地方舉人、保正及教育界人士，反映麻豆大埕地區發展史之縮影。",
+    "lawsReference": "<<古蹟指定及廢止審查辦法>>第2條第1項第2款",
+    "govInstitutionCode": "700",
+    "govInstitutionName": "臺南市政府",
+    "govInstitution": "臺南市政府",
+    "govDeptName": "臺南市文化資產管理處",
+    "govDeptPhone": "06-2213597",
+    "govDeptAddress": "臺南市中西區中正路5巷1號3樓",
+    "cadasters": [
+        {
+            "fileid": 149691,
+            "name": "公告附圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-01-05/8d0ed75e-77c5-43f0-89e6-3eb4f23b3ba8/公告附圖.pdf"
+        }
+    ],
+    "bulkTransfer": 0,
+    "isOpenDownload": false,
+    "longitude": 120.25032534450236,
+    "latitude": 23.18645101279085,
+    "representImageSource": "主管機關拍攝",
+    "landScope": "北以建物本體往北延伸約9公尺為界，其餘則依地籍為界線，將麻豆區東角段476-1地號部分、476地號、477-5地號、477-7地號、478-5地號，面積約1560.037㎡。為保有建物本體空間脈絡之完整以及對外聯繫通道，同時衡酌土地所有權人、使用人之權益，將東角段476-1地號部分；476地號、477-5地號、477-7地號、478-5地號納入定著土地範圍。",
+    "selfCoverage": "建物本體和旗桿座，麻豆區東角段476地號部分、476-1地號部分，面積約220.895㎡。",
+    "addresses": [
+        {
+            "cityName": "臺南市",
+            "distName": "麻豆區",
+            "id": 70035,
+            "caseId": 20391,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1619,
+            "address": "大埕里大埕9號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺南市",
+            "distName": "麻豆區",
+            "landNoName": "東角段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 66118,
+            "caseId": 20391,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1619,
+            "landNoId": 3037,
+            "landSerialNo": "476",
+            "landownership": 2,
+            "cityLandUseTypeId": 1,
+            "coverageId": 1,
+            "area": "",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺南市",
+            "distName": "麻豆區",
+            "landNoName": "東角段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 66119,
+            "caseId": 20391,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1619,
+            "landNoId": 3037,
+            "landSerialNo": "476",
+            "landownership": 2,
+            "cityLandUseTypeId": 1,
+            "coverageId": 1,
+            "area": "",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺南市",
+            "distName": "麻豆區",
+            "landNoName": "東角段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 66120,
+            "caseId": 20391,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1619,
+            "landNoId": 3037,
+            "landSerialNo": "477-5",
+            "landownership": 2,
+            "cityLandUseTypeId": 1,
+            "coverageId": 1,
+            "area": "",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺南市",
+            "distName": "麻豆區",
+            "landNoName": "東角段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 66121,
+            "caseId": 20391,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1619,
+            "landNoId": 3037,
+            "landSerialNo": "477-7",
+            "landownership": 2,
+            "cityLandUseTypeId": 1,
+            "coverageId": 1,
+            "area": "",
+            "note": "",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺南市",
+            "distName": "麻豆區",
+            "landNoName": "東角段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 66122,
+            "caseId": 20391,
+            "caseStatus": true,
+            "cityId": 16,
+            "distId": 1619,
+            "landNoId": 3037,
+            "landSerialNo": "478-5",
+            "landownership": 2,
+            "cityLandUseTypeId": 1,
+            "coverageId": 1,
+            "area": "",
+            "note": "",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 74253,
+            "caseId": 20391,
+            "caseStatus": true,
+            "registerDate": 1640674847735,
+            "officialDocNo": "南市文資字第1101555621A",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.25040766587911,23.186190343170466],[120.25018883384773,23.186243993938472],[120.25047131573803,23.186519476906813],[120.25040766587911,23.186190343170466],[120.25040766587911,23.186190343170466]]]]},\"properties\":{\"envelope\":{\"left\":\"120.25018883384773\",\"top\":\"23.186190343170466\",\"right\":\"120.25047131573803\",\"bottom\":\"23.186519476906813\"},\"landLot\":\"臺南市麻豆區東角段476\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.25040766587911,23.186190343170466],[120.25018883384773,23.186243993938472],[120.25047131573803,23.186519476906813],[120.25040766587911,23.186190343170466],[120.25040766587911,23.186190343170466]]]]},\"properties\":{\"envelope\":{\"left\":\"120.25018883384773\",\"top\":\"23.186190343170466\",\"right\":\"120.25047131573803\",\"bottom\":\"23.186519476906813\"},\"landLot\":\"臺南市麻豆區東角段476\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.25040766587911,23.186190343170466],[120.25040443831114,23.18617362640248],[120.25018349666017,23.186238787184585],[120.25018883384773,23.186243993938472],[120.25040766587911,23.186190343170466],[120.25040766587911,23.186190343170466]]]]},\"properties\":{\"envelope\":{\"left\":\"120.25018349666017\",\"top\":\"23.186173626402478\",\"right\":\"120.25040766587911\",\"bottom\":\"23.186243993938472\"},\"landLot\":\"臺南市麻豆區東角段477-5\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.25018883384773,23.186243993938472],[120.25018349666017,23.186238787184585],[120.25011521489608,23.18625892377213],[120.25011594849175,23.18626186542977],[120.25018883384773,23.186243993938472],[120.25018883384773,23.186243993938472]]]]},\"properties\":{\"envelope\":{\"left\":\"120.25011521489608\",\"top\":\"23.186238787184585\",\"right\":\"120.25018883384773\",\"bottom\":\"23.186261865429771\"},\"landLot\":\"臺南市麻豆區東角段477-7\"}}],\"notfound\":[]},{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.25018349666017,23.186238787184585],[120.25040443831114,23.18617362640248],[120.25040197126874,23.186160904109283],[120.25011286261217,23.186249469219096],[120.25011521489608,23.18625892377213],[120.25018349666017,23.186238787184585],[120.25018349666017,23.186238787184585]]]]},\"properties\":{\"envelope\":{\"left\":\"120.25011286261217\",\"top\":\"23.186160904109283\",\"right\":\"120.25040443831114\",\"bottom\":\"23.186258923772129\"},\"landLot\":\"臺南市麻豆區東角段478-5\"}}],\"notfound\":[]}]",
+    "openVisitType": ""
+}

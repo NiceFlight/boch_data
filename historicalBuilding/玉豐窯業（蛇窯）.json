@@ -1,0 +1,93 @@
+{
+    "id": 1828,
+    "caseId": "20021205000005",
+    "count": 1861,
+    "shareCount": 0,
+    "representImage": 281188,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2025-02-21/14018325-aaa3-4baf-a7f0-016a651ddf21/9919C63C-EF73-4759-A273-D74DB690A303_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2025-02-21/14018325-aaa3-4baf-a7f0-016a651ddf21/9919C63C-EF73-4759-A273-D74DB690A303.jpg",
+        "name": "9919C63C-EF73-4759-A273-D74DB690A303"
+    },
+    "caseName": "玉豐窯業（蛇窯）",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "玉豐蛇窯隸屬玉豐窯業工廠，位於臺東市志航路二段，鄰近富源山。玉豐蛇窯是李仕玉興建於民國35年（1946），取富源山上的陶土，燒製生活用陶器。玉豐蛇窯長約22.7公尺，以土磚砌成，屬柴燒窯。窯身長的一頭為火口，另一頭為煙囪。寬的兩側各設28個相對的小火口，靠近道路的一側開兩個門，分別高1.5公尺及1公尺，以利搬運。窯身上搭建簡單的鐵皮棚架，用以遮陽、遮雨。 \n玉豐蛇窯燒製的生活陶，大型的如水缸，中型的如酒甕、角缽、花盆、金斗甕等，小型的如藥壺、水壺、油罐，及原住民巫覡所用的陶珠等。民國70年代（1980s）被廉價的塑膠產品取代而漸趨沒落，民國80年停業。其窯體，製陶工具，陶器模型等仍保存完整，也希望能再作利用。\n",
+    "assetsTypeNames": "產業",
+    "otherAssetsType": "建築物類",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1039056656000,
+    "officialDocNo": "府文資字第 0910114574 號",
+    "documents": [
+        {
+            "fileid": 115168,
+            "name": "46臺東縣歷史建築公告文-玉豐窯業(蛇窯).pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-05-28/c07e287a-65e1-4210-957b-13a9e2ee7c3b/46臺東縣歷史建築公告文-玉豐窯業(蛇窯).pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "臺東縣現存唯一尚稱完整之蛇窯。",
+    "lawsReference": "1.文化資產保存法第27條之一\n2.歷史建築登錄及輔助辦法\n3.臺東縣91年11月15日歷史建築登錄審查會議決議辦理\n",
+    "govInstitutionCode": "950",
+    "govInstitutionName": "臺東縣政府",
+    "belongCityId": 22,
+    "belongCityName": "臺東縣",
+    "belongDistName": "臺東市",
+    "govInstitution": "臺東縣政府",
+    "govDeptName": " 文化處文化資產科",
+    "govDeptPhone": "089-350129",
+    "govDeptAddress": "臺東市南京路25號",
+    "cadasters": [],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺東市石山段1142-0008",
+    "buildingFeatures": "",
+    "inHouseFeatures": "",
+    "buildingUsage": "",
+    "buildingActualState": "",
+    "buildingKeyMaintainItem": "",
+    "bulkTransfer": 0,
+    "belongAddress": "志航路2 段46 號",
+    "isOpenVisit": false,
+    "openUpTime": "",
+    "isCharge": false,
+    "isOpenDownload": true,
+    "longitude": 121.14710472703989,
+    "latitude": 22.791208914282073,
+    "representImageSource": "109-110年度臺東縣文化資產個案資料同步更新維護計畫",
+    "landScope": "臺東市石川段，定著土地範圍面積尚待確認",
+    "selfCoverage": "臺東市石川段，本體範圍面積尚待確認",
+    "addresses": [
+        {
+            "cityName": "臺東縣",
+            "distName": "臺東市",
+            "id": 147902,
+            "caseId": 1828,
+            "caseStatus": true,
+            "cityId": 22,
+            "distId": 2201,
+            "address": "志航路2 段46 號"
+        }
+    ],
+    "landLots": [],
+    "announces": [
+        {
+            "id": 160646,
+            "caseId": 1828,
+            "caseStatus": true,
+            "registerDate": 1039056656000,
+            "officialDocNo": "府文資字第 0910114574 號",
+            "classificationId": 1
+        }
+    ],
+    "openVisitType": "",
+    "pastHistorySource": "109至110年臺東縣文化資產個案資料同步更新維護計畫"
+}

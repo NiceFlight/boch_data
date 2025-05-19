@@ -1,0 +1,105 @@
+{
+    "id": 3613,
+    "caseId": "20130813000068",
+    "count": 113,
+    "shareCount": 0,
+    "representImage": 6328,
+    "representImageInfo": {
+        "ext": "png",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7328/photo/金光明最勝王經（唐寫卷子本）_c.png"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7328/photo/金光明最勝王經（唐寫卷子本）.png",
+        "name": "金光明最勝王經（唐寫卷子本）"
+    },
+    "caseName": "金光明最勝王經（唐寫卷子本）",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1376323200000,
+    "officialDocNo": "文資局物字第 10220091271號",
+    "judgeCriteria": [
+        "歷史流傳已久或史事具有深厚淵源",
+        "具有特殊歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "唐王瀚寫卷子本。\n書名依據尾題，凡十卷三十一品。略稱《最勝王經》，乃《金光明經》別譯本。敍說金光明懺法之功德，及由四天王之鎮護國家和現世利益之信仰。此本存卷六，首殘尾全，卷首有反切釋音，與唐釋慧琳《一切經音義》及《廣韻》多有不同。卷末有寫經人題記，云「屈榮子為父母及合家平安敬寫。王瀚」。\n敦煌遺書，唐代寫卷，可作為研究敦煌寫經緣起及當時文化歷史之重要資料，具特殊歷史、文化與學術價值。",
+    "lawsReference": "古物分級登錄指定及廢止審查辦法第4條第一項第二、六款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "中正區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化資產局",
+    "govDeptPhone": "04-2217-7777",
+    "govDeptAddress": "402台中市南區復興路三段362號",
+    "reservationCode": "書號08688",
+    "keepNameId": 2,
+    "keepName": "國家圖書館",
+    "keepNameNew": 2,
+    "keepAddressNew": "100台北市中正區中山南路20號",
+    "saveSpaceId": 8,
+    "saveSpaceIdentityId": 8,
+    "amount": 1,
+    "notes": "",
+    "descAge": "唐代",
+    "descCreator": "唐釋義淨譯",
+    "descSize": "存16紙，第1紙23行，其餘每紙28行，全幅25.3x47.2公分",
+    "descMaterial": "紙質",
+    "reserveStatusDesc": "存一卷(卷六)；寫本\n書名依據尾題，凡十卷三十一品。略稱《最勝王經》，乃《金光明經》別譯本。敍說金光明懺法之功德，及由四天王之鎮護國家和現世利益之信仰。此本存卷六，首殘尾全，卷首有反切釋音，與唐釋慧琳《一切經音義》及《廣韻》多有不同。卷末有寫經人題記，云「屈榮子為父母及合家平安敬寫。王瀚」。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "無虫蛀。卷子前端有破損，已修裱，保存狀況良好。\n",
+    "documents": [
+        {
+            "fileid": 6329,
+            "name": "f19b663d-b586-4372-b0dd-4e907920c0d7.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44206/file/f19b663d-b586-4372-b0dd-4e907920c0d7.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "representImageSource": "國家圖書館",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國家圖書館",
+            "keepName": "國家圖書館",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國家圖書館",
+            "keepAddressNew": "100台北市中正區中山南路20號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "中正區",
+            "keepNameAddress": "中山南路二０號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 3755,
+            "caseId": 3613,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101
+        }
+    ],
+    "announces": [
+        {
+            "id": 3755,
+            "caseId": 3613,
+            "caseStatus": true,
+            "registerDate": 1376323200000,
+            "officialDocNo": "文資局物字第 10220091271號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

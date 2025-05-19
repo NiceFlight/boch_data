@@ -1,0 +1,96 @@
+{
+    "id": 19614,
+    "caseId": "20210719000005",
+    "count": 76,
+    "shareCount": 0,
+    "representImage": 125136,
+    "representImageInfo": {
+        "ext": "bmp",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-19/5a840669-5d8e-44ca-8877-c535bf1dbaf7/圖片5_c.bmp"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-19/5a840669-5d8e-44ca-8877-c535bf1dbaf7/圖片5.bmp",
+        "name": "圖片5"
+    },
+    "caseName": "清乾隆粉彩冠架",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-生活器物",
+    "assetsClassifyCode": "6.1.2",
+    "assetsClassifyName": "重要古物",
+    "judgeCriteria": [
+        "能反映政治、經濟、社會、人文、藝術、科學等歷史變遷或時代之重要特色",
+        "對知識、技術或流派發展具重要影響或意義"
+    ],
+    "registerReason": "此瓷製冠架分為花薰、架身及底座三部分，此花薰可放置各式香花或薰香，用以承托冠帽。器身下方為承座，全器於金地上滿繪紋樣，以番蓮紋為主體，並間飾蓮瓣紋、如意雲紋、卷草紋、圓點紋等，並在可轉動的圓球狀花薰上，以鏤空蝙蝠紋為飾，帶四夔龍足及仿木製圓盤底座。器底有「大清乾隆年製」金料雙方框篆書款。從此器華麗繁複的紋飾，及仿木製品的奇巧複雜造形，顯露出此時期嫻熟的陶瓷燒製技術，益顯珍貴。",
+    "lawsReference": "<<古物分級指定及廢止審查辦法>>第3條第3、6款",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "0422177777",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "中瓷001285",
+    "amount": 1,
+    "descAge": " 清　乾隆",
+    "descSize": "高27.2公分 口徑4公分 底徑15.2公分",
+    "descMaterial": "瓷",
+    "reserveStatusDesc": "此器分圓球狀的花薰及架身、底座三部分。全器在金地上繪製五彩紋樣，以番蓮紋為主體，並間飾蓮瓣紋、如意雲紋、卷草紋、圓點紋等。圓球狀花薰飾鏤空粉紅蝙蝠紋，底座上的夔龍足彩繪青花紋飾。器底有「大清乾隆年製」金料雙方框篆書款。\n",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "圈足金彩少許脫落",
+    "documents": [
+        {
+            "fileid": 142776,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2021-11-04/ef0f5732-69e9-4cf1-8ecf-d7e7812b8853/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.5484322510235,
+    "latitude": 121.5484322510235,
+    "representImageSource": " 國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": " ",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "台北市士林區至善路2段221號",
+            "saveSpaceOther": "",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 66419,
+            "caseId": 19614,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號"
+        }
+    ],
+    "announces": [
+        {
+            "id": 70608,
+            "caseId": 19614,
+            "caseStatus": true,
+            "registerDate": 1624430069681,
+            "officialDocNo": "文授資局物字第11030062561號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

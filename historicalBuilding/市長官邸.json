@@ -1,0 +1,136 @@
+{
+    "id": 16124,
+    "caseId": "20180831000001",
+    "count": 3047,
+    "shareCount": 1,
+    "representImage": 186935,
+    "representImageInfo": {
+        "ext": "jpeg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/sync/ce0f169f-d2e3-4f3e-9794-9a27b5e94bef/代表圖像_市長官邸_20220621 _c.jpeg"
+        },
+        "original": "https://data.boch.gov.tw/upload/sync/ce0f169f-d2e3-4f3e-9794-9a27b5e94bef/代表圖像_市長官邸_20220621 .jpeg",
+        "name": "代表圖像_市長官邸_20220621 "
+    },
+    "caseName": "市長官邸",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "民國87年興建表演廳，同時修繕官邸藝文中心，並於同年10月重新開放，營運團隊於101年至102年間針對現有房舍進行整修。",
+    "assetsTypeNames": "官邸",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "documents": [
+        {
+            "fileid": 61654,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2019-09-26/2b03636d-8938-46c5-8798-11e4e2572ae8/公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具建築史或技術史之價值者",
+        "具地區性建造物類型之特色者"
+    ],
+    "registerReason": "1.建物興建於1940年，原為臺北州知事官舍，戰後成為臺北市市長官邸，直至民國85年開放參觀並轉型為藝文展館，本建物在臺北市發展史上具有歷史意義。\n2.本建物為當代日式宿舍之代表作，建物與周邊環境融合極具特色。建物內部雖歷經改建，惟主體構架、屋架仍為舊物，且外觀主要格局仍維持原貌，具建築史上之價值。\n3.為確保歷史建築保存之完整性，擴大歷史建築定著土地範圍。",
+    "lawsReference": "<<歷史建築紀念建築登錄廢止審查及輔助辦法>>第2條第1項第2、3款",
+    "govInstitutionCode": "100",
+    "govInstitutionName": "臺北市政府",
+    "govInstitution": "臺北市政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "(02)2720-8889",
+    "govDeptAddress": "臺北市信義區市府路1號4樓東北區",
+    "cadasters": [
+        {
+            "fileid": 61655,
+            "name": "地籍地形示意圖.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2019-09-26/96f99db0-5440-485f-93d1-bbc38934820c/地籍地形示意圖.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 1,
+    "cityLandUseTypeName": "住宅區",
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺北市中正區中正段一小段226、226-1地號",
+    "bulkTransfer": 1,
+    "isOpenVisit": true,
+    "isCharge": false,
+    "longitude": 121.52443716217476,
+    "latitude": 25.04033364527718,
+    "representImageSource": "臺北市文化局",
+    "landScope": "建築物座落土地為中正段一小段226、226-1地號，土地面積合計2,966平方公尺。（實際保存面積須以保存範圍實測數據為準）",
+    "selfCoverage": "歷史建築本體為市長官邸建築本體（不含後期增建廚房及表演廳），建物為中正段一小段1505建號，實際保存面積為386.43平方公尺。",
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "id": 93669,
+            "caseId": 16124,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "address": "徐州路44、46號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "中正段一小段",
+            "cityLandUseTypeName": "住宅區",
+            "id": 115289,
+            "caseId": 16124,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 133,
+            "landSerialNo": "226",
+            "landownership": 1,
+            "cityLandUseTypeId": 1,
+            "coverageId": 2,
+            "area": "2757",
+            "note": "無",
+            "cityLandUseId": 1
+        },
+        {
+            "cityName": "臺北市",
+            "distName": "中正區",
+            "landNoName": "中正段一小段",
+            "cityLandUseTypeName": "其他使用區",
+            "id": 115290,
+            "caseId": 16124,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 101,
+            "landNoId": 133,
+            "landSerialNo": "226-1",
+            "landownership": 1,
+            "cityLandUseTypeId": 10,
+            "coverageId": 2,
+            "area": "209",
+            "cityLandUseTypeOther": "道路用地",
+            "note": "無",
+            "cityLandUseId": 1
+        }
+    ],
+    "announces": [
+        {
+            "id": 101080,
+            "caseId": 16124,
+            "caseStatus": true,
+            "registerDate": 1530547200000,
+            "officialDocNo": "北市文化文資字第10760148621號",
+            "classificationId": 1,
+            "note": "登錄歷建"
+        },
+        {
+            "id": 101081,
+            "caseId": 16124,
+            "caseStatus": true,
+            "registerDate": 1567008000000,
+            "officialDocNo": "北市文化文資字第10830309461號",
+            "classificationId": 2,
+            "note": "新增一筆土地"
+        }
+    ],
+    "openVisitType": ""
+}

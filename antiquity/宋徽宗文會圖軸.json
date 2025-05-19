@@ -1,0 +1,108 @@
+{
+    "id": 4050,
+    "caseId": "20120326000105",
+    "count": 448,
+    "shareCount": 1,
+    "representImage": 6958,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/33036/photo/2c8ad0c6-2be4-4191-9824-309fe12c6181_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/33036/photo/2c8ad0c6-2be4-4191-9824-309fe12c6181.JPG",
+        "name": "2c8ad0c6-2be4-4191-9824-309fe12c6181"
+    },
+    "caseName": "宋徽宗文會圖軸",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "藝術作品-繪畫",
+    "assetsClassifyCode": "6.1.3",
+    "assetsClassifyName": "國寶",
+    "registerDate": 1332691200000,
+    "officialDocNo": "會授字第10120020772號",
+    "judgeCriteria": [
+        "具有特殊之時代特色、技術及流派",
+        "具有特殊藝術造詣或科學成就",
+        "品質精良且數量特別稀少"
+    ],
+    "registerReason": "此作應為徽宗朝畫院的精工之作。由畫幅上端兩側宋徽宗及蔡京題跋，可推測畫中圖像應與唐十八學士〈登瀛州圖〉相關。此作雖精緻華麗，卻仍流露文雅氣息，足堪代表宋徽宗對畫院的要求與成果，無論在畫作品質或研究價值上，均屬難得之重要畫蹟。具有特殊之時代特色，具有特殊藝術造詣，且品質精良。",
+    "lawsReference": "1.「文化資產保存法」第六十六條。\r\n2.「古物分級登錄指定及廢止審查辦法」第四條第一項第三、四、五款；第六條及第七條。",
+    "govInstitutionCode": "000",
+    "govInstitutionName": "文化部",
+    "belongCityId": 1,
+    "belongCityName": "臺北市",
+    "belongDistName": "士林區",
+    "govInstitution": "文化部",
+    "govDeptName": "文化部文化資產局",
+    "govDeptPhone": "04-22177777 ",
+    "govDeptAddress": "台中市南區復興路三段362號",
+    "reservationCode": "故畫000836",
+    "amount": 1,
+    "notes": "",
+    "descAge": "宋",
+    "descCreator": "宋徽宗",
+    "descSize": "184.4 x 123.9（公分）",
+    "descMaterial": "絹本",
+    "reserveStatusDesc": "此作應為徽宗朝畫院的精工之作。由畫幅上端兩側宋徽宗及蔡京題跋，可推測畫中圖像應與唐十八學士〈登瀛州圖〉相關。畫中描繪一群文士在池畔園苑中飲宴的情景。每邊約可容納三、四位賓客的偌大黑色方形漆案，擺置在樹下。案上成組餐具與果食佔滿桌面。近景處另有一群僮僕在小桌上備茶。人物均神情雅俊、眉清目秀，器用、園景描繪細緻講究。",
+    "pastHistorySource": 6,
+    "saveEnvironment": 1,
+    "reserveStatus": "完整良好。",
+    "documents": [
+        {
+            "fileid": 151960,
+            "name": "公告表.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-27/778a6f64-089c-4577-b499-4d41d446dd4b/公告表.pdf"
+        },
+        {
+            "fileid": 151961,
+            "name": "公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-01-27/31faa02b-2eae-4b3b-b87a-60f18459d8ef/公告.pdf"
+        }
+    ],
+    "isOpenDownload": false,
+    "longitude": 121.548432,
+    "latitude": 25.10235,
+    "representImageSource": "國立故宮博物院",
+    "keepNames": [
+        {
+            "keepNameIdStr": "國立故宮博物院",
+            "keepName": "書畫處",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "國立故宮博物院",
+            "keepAddressNew": "111台北市士林區至善路二段221號",
+            "saveSpaceIdStr": "博物館、圖書館",
+            "saveSpaceIdentityIdStr": "歷史建築",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "士林區",
+            "keepNameAddress": "至善路二段221號"
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺北市",
+            "distName": "士林區",
+            "id": 71557,
+            "caseId": 4050,
+            "caseStatus": true,
+            "cityId": 1,
+            "distId": 108,
+            "address": "至善路二段221號 "
+        }
+    ],
+    "announces": [
+        {
+            "id": 76024,
+            "caseId": 4050,
+            "caseStatus": true,
+            "registerDate": 1332691200000,
+            "officialDocNo": "會授字第10120020772號",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": true
+}

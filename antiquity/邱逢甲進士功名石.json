@@ -1,0 +1,93 @@
+{
+    "id": 3008,
+    "caseId": "20130801000001",
+    "count": 521,
+    "shareCount": 0,
+    "representImage": 5399,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7361/photo/邱逢甲進士功名石_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/7361/photo/邱逢甲進士功名石.JPG",
+        "name": "邱逢甲進士功名石"
+    },
+    "caseName": "邱逢甲進士功名石",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "圖書文獻及影音資料-圖書、報刊",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1375286400000,
+    "officialDocNo": "1020147819",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "1.邱逢甲獲得進士後所立之石刻。\r\n2.邱逢甲之進士功名為臺灣少見，且為知名抗日歷史人物、詩人、教育家，其相關文物應重視保存。\r\n3.邱逢甲相關事蹟及文物流傳在臺無多，此石出自其寓「柏莊」原物，殊為難得。",
+    "lawsReference": "符合「古物分級登錄指定及廢止審查辦法」第2條第1項第1、2、5、6款評定基準，爰依據「古物分級登錄指定及廢止審查辦法」第5、7條登錄。",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "豐原區",
+    "reservationCode": "",
+    "keepNameId": 17,
+    "keepName": "臺中市豐原區公所",
+    "keepNameNew": 17,
+    "keepAddressNew": "臺中市豐原區南嵩里水源路坪頂巷丘逢甲紀念公園內（豐原高球場旁）",
+    "amount": 1,
+    "notes": "",
+    "reserveStatusDesc": "",
+    "reserveStatus": "完整良好 ",
+    "documents": [
+        {
+            "fileid": 5400,
+            "name": "f8c6aaa5-f80d-41c0-a4fd-99ab2ea6e749.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/antiquity/44484/file/f8c6aaa5-f80d-41c0-a4fd-99ab2ea6e749.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "representImageSource": "",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "臺中市豐原區公所",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "臺中市豐原區南嵩里水源路坪頂巷丘逢甲紀念公園內（豐原高球場旁）",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "豐原區",
+            "id": 3145,
+            "caseId": 3008,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1013
+        }
+    ],
+    "announces": [
+        {
+            "id": 3145,
+            "caseId": 3008,
+            "caseStatus": true,
+            "registerDate": 1375286400000,
+            "officialDocNo": "1020147819",
+            "classificationId": 1
+        }
+    ],
+    "isPublic": false
+}

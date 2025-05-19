@@ -1,0 +1,116 @@
+{
+    "id": 15661,
+    "caseId": "20180423000001",
+    "count": 2490,
+    "shareCount": 2,
+    "representImage": 48041,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2018-04-23/149b925c-b68b-4062-86b5-09cecd30ea33/S__13009072_c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2018-04-23/149b925c-b68b-4062-86b5-09cecd30ea33/S__13009072.jpg",
+        "name": "S__13009072"
+    },
+    "caseName": "大南劉家祖厝",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "「大南劉家祖厝」即為地方熟知的劉五福公廳，約完成於清道光、咸豐年間（約西元1850年）。除正廳外，有左三右二共計五護龍，形成多護龍合院建築；劉家早年經營糖廍致富，為新社地區蔗糖製造之先驅，目前劉家祖厝仍有當年製糖之石臼，見證劉家發展的歷史。\n\n民國107年（2018），臺中市政府以本祖厝為新社地區的客家伙房類型建築，其格局及空間佈局現況保存完整，大致保留完整架構，充分表現地域風貌，公告登錄為歷史建築。\n",
+    "assetsTypeNames": "宅第",
+    "otherAssetsType": "",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1522656857985,
+    "officialDocNo": "府授文資古字第10700558921號",
+    "documents": [
+        {
+            "fileid": 181053,
+            "name": "1070402_大南劉家祖厝_登錄公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-08-22/7b6fd3ca-0de2-470a-a5f4-b770f0a6e80d/1070402_大南劉家祖厝_登錄公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者"
+    ],
+    "registerReason": "充分表現地域風貌，符合歷史建築紀念建築登錄廢止審查及輔助辦法第2條第1項第1款、第3款規定所列基準。",
+    "lawsReference": "依據文化資產保存法第18條、歷史建築紀念建築登錄廢止審查及輔助辦法第4條、第5條規定辦理。",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "新社區",
+    "govInstitution": "臺中市政府",
+    "govDeptName": "臺中市政府文化局",
+    "govDeptPhone": "04-22290280",
+    "govDeptAddress": "臺中市西區市府路41巷19號",
+    "cadasters": [
+        {
+            "fileid": 181055,
+            "name": "1070402_大南劉家祖厝_地籍.jpeg",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-08-22/db393908-96d3-4d3d-801b-ffa974a4fef9/1070402_大南劉家祖厝_地籍.jpeg"
+        }
+    ],
+    "landUseOtherType": "",
+    "nonLandUseOtherType": "",
+    "locationLandNo": "臺中市新社區神木段210地號",
+    "buildingFeatures": "除正廳外，有左三右二共計五護龍，形成多護龍合院建築。",
+    "inHouseFeatures": "「大南劉家祖厝」正廳為祭祀祖先的所在，上方有書寫「燕翼詒謀」四字，指能夠庇佑後人的祖先，亦祈望在外發展的後代，不可懈怠忘祖，要像候鳥燕子一樣，每年都要回來古厝老家，共謀家族的發展；祖先神龕正下方安奉龍神香位，屬於客家族群特有的土地風水神明，透過龍神的祭祀，庇蔭宗族子孫繁盛昌榮。",
+    "buildingUsage": "目前仍為劉家族人每年定期祭祖聚會之所。",
+    "buildingActualState": "格局及空間布局現況保存完整。",
+    "bulkTransfer": 0,
+    "belongAddress": "臺中市新社區大南里中和街二段465巷48號",
+    "isOpenVisit": true,
+    "openUpTime": "上午8點至下午5點，訪視前先提早一星期告知。",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.79932999051557,
+    "latitude": 24.230194858283365,
+    "representImageSource": "臺中市文化資產處",
+    "landScope": "臺中市新社區神木段210地號",
+    "selfCoverage": "臺中市新社區大南里中和街二段465巷48、50、52、54、56、58、60號(含內埕)",
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "新社區",
+            "id": 115457,
+            "caseId": 15661,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1018,
+            "address": "大南里中和街二段465巷48、50、52、54、56、58、60號(含內埕)"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺中市",
+            "distName": "新社區",
+            "landNoName": "神木段",
+            "noncityLandUseTypeName": "鄉村區",
+            "id": 160754,
+            "caseId": 15661,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1018,
+            "landNoId": 1653,
+            "landSerialNo": "210",
+            "landownership": 2,
+            "noncityLandUseTypeId": 4,
+            "area": "",
+            "noncityLandUseTypeOther": "",
+            "note": "",
+            "cityLandUseId": 2
+        }
+    ],
+    "announces": [
+        {
+            "id": 125759,
+            "caseId": 15661,
+            "caseStatus": true,
+            "registerDate": 1522656857985,
+            "officialDocNo": "府授文資古字第10700558921號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.80002651736429,24.23056008520049],[120.80000348250935,24.230344282741044],[120.79993473620527,24.230145903947516],[120.79988550124742,24.22997910471389],[120.79988122836129,24.229979848597292],[120.79986247155166,24.229915526766302],[120.79976886873054,24.22976410720468],[120.79970098652595,24.22973984323077],[120.79960724027103,24.229729408178528],[120.7991070228633,24.22985354233057],[120.79899340431817,24.230438991505068],[120.79887327386577,24.230491861614592],[120.79895318783481,24.230556705218653],[120.7989779549768,24.230576804680116],[120.79896111792281,24.23065072115749],[120.79898771567305,24.230798267214222],[120.79899468157687,24.23083694509148],[120.79900222302386,24.230878811306756],[120.79900980387109,24.230920848966445],[120.79901723455306,24.230962073550675],[120.79902461755776,24.231003045666316],[120.79902677400221,24.23102057082655],[120.80000581921342,24.23075352982925],[120.800091909549,24.23074372525384],[120.80002651736429,24.23056008520049],[120.80002651736429,24.23056008520049]]]]},\"properties\":{\"envelope\":{\"left\":\"120.79887327386577\",\"top\":\"24.229729408178528\",\"right\":\"120.800091909549\",\"bottom\":\"24.231020570826551\"},\"landLot\":\"臺中市新社區神木段210\"}}],\"notfound\":[]}]",
+    "openVisitType": "部分開放參觀"
+}

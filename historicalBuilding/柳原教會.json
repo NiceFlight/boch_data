@@ -1,0 +1,118 @@
+{
+    "id": 1413,
+    "caseId": "20020701000001",
+    "count": 2545,
+    "shareCount": 5,
+    "representImage": 2859,
+    "representImageInfo": {
+        "ext": "JPG",
+        "transform": {
+            "c": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/7592/photo/H011臺中市柳原教會(歷建)(1)_c.JPG"
+        },
+        "original": "https://data.boch.gov.tw/old_upload/_upload/Assets_new/building/7592/photo/H011臺中市柳原教會(歷建)(1).JPG",
+        "name": "H011臺中市柳原教會(歷建)(1)"
+    },
+    "caseName": "柳原教會",
+    "classifyCode": "1.2",
+    "classifyName": "歷史建築",
+    "pastHistory": "柳原教會為臺灣基督長老教會於日治大正4年(1915)，依梅甘霧（Rev.Campbell N. Moody）牧師提供的英國教會圖樣所興建，隔年(1916)10月竣工。戰後，在舊教堂南側增建新聖殿，民國87 年（1998）又大興土木，完成地下停車場、主日學教室、辦公室、牧師館等。\n\n柳原教會舊教堂為簡單的長方形平面，屬於早期基督教教堂的基本型式，稱為「巴西里卡」（Basilica）平面，其造價低廉，採光良好，視線絕佳。民國91年（2002）市府以其為中部最早創立之長老教會建築名作，見證本地區百年教會發展史，亦為臺灣歷史建築保存及再利用之佳例；保存區右側及後側之建築物，分別為1970年代及2000年代所加建，全區見證教會分為三期的百年發展空間歷程，公告登錄為歷史建築。\n",
+    "assetsTypeNames": "教堂,其他設施",
+    "otherAssetsType": "建築物類",
+    "assetsClassifyCode": "1.2",
+    "assetsClassifyName": "歷史建築",
+    "registerDate": 1025502564000,
+    "officialDocNo": "府文推字第0910094123號",
+    "documents": [
+        {
+            "fileid": 165433,
+            "name": "0910701_柳原教會_登錄公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-05-25/fe040158-5d43-4736-820a-9f5caa22cd4b/0910701_柳原教會_登錄公告.pdf"
+        }
+    ],
+    "judgeCriteria": [
+        "具歷史文化價值者",
+        "具建築史或技術史之價值者",
+        "其他具歷史建築價值者"
+    ],
+    "registerReason": "台中市歷史最古老之教會建築名作之一，亦為台灣歷史建築保存及再利用之佳例。且為中部最早創立之長老教會，見證本地區百年教會發展史。",
+    "lawsReference": "<<歷史建築登錄廢止審查及輔助辦法>>第2條第1項第1、3、4款",
+    "govInstitutionCode": "400",
+    "govInstitutionName": "臺中市政府",
+    "belongCityId": 10,
+    "belongCityName": "臺中市",
+    "belongDistName": "中區",
+    "govInstitution": "臺中市政府文化局",
+    "govDeptName": "臺中市文化資產處",
+    "govDeptPhone": "04-22290280",
+    "govDeptAddress": "403420 臺中市西區市府路41巷19號",
+    "cadasters": [
+        {
+            "fileid": 165434,
+            "name": "0910701_柳原教會_登錄公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/cadasters/2022-05-25/24e93392-2d44-4766-af04-d690297acd8c/0910701_柳原教會_登錄公告.pdf"
+        }
+    ],
+    "cityLandUseTypeId": 7,
+    "cityLandUseTypeName": "保存區",
+    "locationLandNo": "臺中市中區柳川段七小段3號",
+    "buildingFeatures": "建築格局為地上2層，採承重牆結構，入口有門廊，山牆面開大型拱窗，兩側牆面有扶壁，柱間開拱窗及六角型窗，整體裝飾以清水磚施以局部洗石面。正面門廊上排水口以泥塑鰲魚造型，頗有中西合璧意味。\n",
+    "inHouseFeatures": "建築格局屬會堂式平面，室內座席分上下兩層，裝修部份為近年所增建。",
+    "buildingUsage": "室內座席有二層樓，裝修部份為近年所增建。",
+    "buildingActualState": "臺中市歷史最古老之教會建築名作。亦為臺灣歷史建築保存及再利用之佳例。建議保存區右側及後側之建築物，分別為1970年代及2000年代所加建，全區見證教會分為三期的百年發展空間歷程。",
+    "buildingKeyMaintainItem": "保持現況。",
+    "bulkTransfer": 0,
+    "belongAddress": "興中街119 號",
+    "isOpenVisit": true,
+    "openUpTime": "依活動而定",
+    "isCharge": false,
+    "isOpenDownload": false,
+    "longitude": 120.68122864453633,
+    "latitude": 24.146096375381568,
+    "representImageSource": "臺中市文化資產處",
+    "landScope": "臺中市中區柳川段七小段3號本體及相關設施",
+    "selfCoverage": "1350平方公尺",
+    "addresses": [
+        {
+            "cityName": "臺中市",
+            "distName": "中區",
+            "id": 115449,
+            "caseId": 1413,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1001,
+            "address": "興中街119 號"
+        }
+    ],
+    "landLots": [
+        {
+            "cityName": "臺中市",
+            "distName": "中區",
+            "landNoName": "柳川段七小段",
+            "id": 160688,
+            "caseId": 1413,
+            "caseStatus": true,
+            "cityId": 10,
+            "distId": 1001,
+            "landNoId": 823,
+            "landSerialNo": "3",
+            "landownership": 2,
+            "area": "1350",
+            "cityLandUseTypeOther": "",
+            "noncityLandUseTypeOther": "",
+            "note": ""
+        }
+    ],
+    "announces": [
+        {
+            "id": 125751,
+            "caseId": 1413,
+            "caseStatus": true,
+            "registerDate": 1025502564000,
+            "officialDocNo": "府文推字第0910094123號",
+            "classificationId": 1
+        }
+    ],
+    "geojson": "[{\"type\":\"FeatureCollection\",\"features\":[{\"type\":\"Feature\",\"geometry\":{\"type\":\"MultiPolygon\",\"coordinates\":[[[[120.68135151806612,24.146237669097328],[120.68138667689182,24.146170594205692],[120.6814299143883,24.14606771688408],[120.68134317773763,24.145986467052424],[120.68125854636165,24.145957024539328],[120.68116938042641,24.14597058183151],[120.68116737167635,24.145876352245793],[120.68120972047805,24.14586481274999],[120.68117277196365,24.145831455337206],[120.68077088195476,24.14618700771632],[120.68107525030274,24.14647702800655],[120.68135151806612,24.146237669097328],[120.68135151806612,24.146237669097328]]]]},\"properties\":{\"envelope\":{\"left\":\"120.68077088195476\",\"top\":\"24.145831455337206\",\"right\":\"120.6814299143883\",\"bottom\":\"24.146477028006551\"},\"landLot\":\"臺中市中區柳川段七小段3\"}}],\"notfound\":[]}]",
+    "openVisitType": "部分開放參觀",
+    "pastHistorySource": "本市古蹟歷史建築調查單位"
+}

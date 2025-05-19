@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": []
+            },
+            "properties": {
+                "envelope": {},
+                "landLot": "宜蘭縣羅東鎮興東段329-2"
+            }
+        }
+    ],
+    "notfound": "沒有地號資料"
+}

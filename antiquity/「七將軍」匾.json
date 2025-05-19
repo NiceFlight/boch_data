@@ -1,0 +1,116 @@
+{
+    "id": 3041,
+    "caseId": "20141017000007",
+    "count": 926,
+    "shareCount": 0,
+    "representImage": 123551,
+    "representImageInfo": {
+        "ext": "jpg",
+        "transform": {
+            "c": "https://data.boch.gov.tw/upload/representImageFile/2021-07-10/80f74dc9-0e79-4ead-8e15-689a32fcb3de/「七將軍」匾 正品 _c.jpg"
+        },
+        "original": "https://data.boch.gov.tw/upload/representImageFile/2021-07-10/80f74dc9-0e79-4ead-8e15-689a32fcb3de/「七將軍」匾 正品 .jpg",
+        "name": "「七將軍」匾 正品 "
+    },
+    "caseName": "「七將軍」匾",
+    "classifyCode": "6.1",
+    "classifyName": "古物",
+    "assetsTypeNames": "生活及儀禮器物-其他",
+    "assetsClassifyCode": "6.1.1",
+    "assetsClassifyName": "一般古物",
+    "registerDate": 1413475200000,
+    "officialDocNo": "府授文資字第10301991186號",
+    "judgeCriteria": [
+        "具有歷史意義或能表現傳統、族群或地方文化特色",
+        "具有史事淵源",
+        "具有珍貴及稀有性者",
+        "具有歷史、文化、藝術或科學價值"
+    ],
+    "registerReason": "立此匾者為廣東人，南投汛汛官鄭維霖。南投汛設於南投市營盤口，鄭維霖於光緒元年（1875）因日本以出兵攻台，即史稱牡丹社事件，隨總兵吳光亮來台防範日本。光緒6年（1880），奉北路協鎮府副將林福喜之命駐守南投汛而立匾於七將軍廟。本匾刻有百餘字之長文，為縣內款文最多之匾，極具稀有性。",
+    "lawsReference": "符合古物分級登錄指定及廢止審查辦法第2條第1項第1、2、5、6款",
+    "govInstitutionCode": "540",
+    "govInstitutionName": "南投縣政府",
+    "belongCityId": 12,
+    "belongCityName": "南投縣",
+    "belongDistName": "南投市",
+    "govInstitution": "南投縣政府文化局",
+    "govDeptName": "文化資產科",
+    "govDeptPhone": "049-2231191",
+    "govDeptAddress": "540南投市建國路135號",
+    "reservationCode": "無",
+    "amount": 1,
+    "notes": "營盤口七將軍廟位於南投縣南投市營盤國小內",
+    "descAge": "光緒7年",
+    "descSize": "長110cm、寬37cm",
+    "descMaterial": "木質",
+    "reserveStatusDesc": "陰刻",
+    "pastHistorySource": 6,
+    "pastHistorySourceNotes": "1881年光緒7年",
+    "saveEnvironment": 2,
+    "reserveStatus": "有損傷但狀況穩定 ",
+    "documents": [
+        {
+            "fileid": 177128,
+            "name": "七將軍匾 修正公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-29/1be76da6-461d-4821-9491-30f79a89edbe/七將軍匾 修正公告.pdf"
+        },
+        {
+            "fileid": 177129,
+            "name": "「七將軍」匾 原公告.pdf",
+            "thumbnailUrl": "https://data.boch.gov.tw/upload/documents/2022-07-29/1988887f-93f3-4055-9089-97ee18e55a82/「七將軍」匾 原公告.pdf"
+        }
+    ],
+    "isOpenDownload": true,
+    "longitude": 120.67505,
+    "latitude": 23.94513,
+    "representImageSource": "資料照（攝影者：陳厚諭）",
+    "keepNames": [
+        {
+            "keepNameIdStr": "其他",
+            "keepName": "七將軍廟管理委員會",
+            "type": 1
+        }
+    ],
+    "keepPlaces": [
+        {
+            "keepNameNewStr": "其他",
+            "keepAddressNew": "南投縣南投市營南里營盤路136號",
+            "saveSpaceIdStr": "學校",
+            "saveSpaceIdentityIdStr": "無文資身分",
+            "type": 1,
+            "keepNameCityName": "臺北市",
+            "keepNameDistName": "東區",
+            "keepNameAddress": ""
+        }
+    ],
+    "addresses": [
+        {
+            "cityName": "南投縣",
+            "distName": "南投市",
+            "id": 112350,
+            "caseId": 3041,
+            "caseStatus": true,
+            "cityId": 12,
+            "distId": 1201
+        }
+    ],
+    "announces": [
+        {
+            "id": 121868,
+            "caseId": 3041,
+            "caseStatus": true,
+            "registerDate": 1405047569344,
+            "officialDocNo": "府授文資字第10301338206號",
+            "classificationId": 1
+        },
+        {
+            "id": 121869,
+            "caseId": 3041,
+            "caseStatus": true,
+            "registerDate": 1413475200000,
+            "officialDocNo": "府授文資字第10301991186號",
+            "classificationId": 2
+        }
+    ],
+    "isPublic": false
+}
